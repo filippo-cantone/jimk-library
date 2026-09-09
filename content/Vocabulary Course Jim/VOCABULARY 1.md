@@ -3,11 +3,12 @@ title: "VOCABULARY 1"
 source_file: "Vocabulary Course Jim/VOCABULARY 1.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: vocabulary
 ---
 
-<img src="assets/VOCABULARY 1/media/image1.jpeg"
-style="width:4.75in;height:3.83542in" />
+<img src="assets/VOCABULARY 1/media/image1.jpeg" />
 
 **VOCABULARY**
 
@@ -61,7 +62,7 @@ understanding of that concept. Because we have individual interests and
 backgrounds, each of us brings different words to shape that
 understanding.
 
-**Instruction for Vocabulary Development**
+## Instruction for Vocabulary Development
 
 No one single instructional method is sufficient for optimal vocabulary
 learning; therefore, effective instruction must use a variety of methods
@@ -69,7 +70,7 @@ to help students acquire new words and increase the depth of their word
 knowledge over time. Effective instruction includes opportunities for
 both *incidental word learning* and *intentional word teaching.*
 
-**Incidental Word Learning**
+## Incidental Word Learning
 
 Most word learning occurs incidentally through experiences with oral
 language and wide reading.
@@ -77,7 +78,7 @@ language and wide reading.
 The more oral language experiences children have in their early years,
 the more words and word meanings they acquire**.**
 
-**Incidental Word Learning Through Teacher Read-Alouds**
+## Incidental Word Learning Through Teacher Read-Alouds
 
 Because children’s books often contain rich and descriptive language,
 reading them aloud to student is an excellent way to focus their
@@ -89,7 +90,7 @@ students’ familiarity with new, or rare, words. It is through the talk
 surrounding read-aloud activities that students gain experience with the
 language that represents ideas and concepts.
 
-**Incidental Word Learning Through Wide Reading**
+## Incidental Word Learning Through Wide Reading
 
 The amount of time students spend reading is one of the best predictors
 of their vocabulary size.
@@ -111,7 +112,7 @@ will encounter from 45,000 to 112,500 unknown words*.
 of previously unknown words from a single reading, Jacob will learn, at
 minimum, 2,250 new words each year from his reading.*
 
-**Intentional, Explicit Instruction**
+## Intentional, Explicit Instruction
 
 The intentional, explicit teaching of specific words and word-learning
 strategies can both add words to students’ vocabularies and improve
@@ -143,7 +144,7 @@ One words. Such fluency cannot be assumed. When students are not fluent
 with Tier One words, using context to figure out Tier Three words will
 be difficult.
 
-**Some Criteria for Identifying Tier Two Words**
+## Some Criteria for Identifying Tier Two Words
 
 **Importance and Utility:** Words that are characteristic of mature
 language users and appear frequently across a variety of domains.
@@ -175,18 +176,17 @@ of an extensive network of related words.
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Semantic Map for <em>Movement</em></strong></p>
-<p><img src="assets/VOCABULARY 1/media/image2.jpeg"
-style="width:2.67569in;height:2.19861in" /></p></td>
+<p><img src="assets/VOCABULARY 1/media/image2.jpeg" /></p></td>
 </tr>
 </tbody>
 </table>
 
-**Teaching Independent Word-Learning Strategies**
+## Teaching Independent Word-Learning Strategies
 
 *Independent word-learning strategies* are procedures that teachers can
 model and teach explicitly to students to show them how to go about
@@ -244,7 +244,7 @@ opportunities to learn about word origins, derivations, and usage. Such
 a slant towards words can stir students’ interest in learning more about
 language and building word consciousness.
 
-**Developing Word Consciousness**
+## Developing Word Consciousness
 
 Word consciousness is an awareness of and interest in words, their
 meanings, and their power. Word consciousness involves knowing that some
@@ -257,7 +257,7 @@ from many different languages.
 Word consciousness also means learning about the ways in which words are
 used figuratively.
 
-**Literary Devices**
+## Literary Devices
 
 Both literary elements (characteristics of a text) like theme, setting,
 characterisation, conflict, point of view and literary techniques
@@ -376,8 +376,7 @@ solemn, objective. Similar to Mood.
 
 Voice – sense of the person writing.
 
-<img src="assets/VOCABULARY 1/media/image3.jpeg"
-style="width:2.03333in;height:3.05069in" /> Chapter 1.
+<img src="assets/VOCABULARY 1/media/image3.jpeg" /> Chapter 1.
 
 *There was once a boy named Milo who didn't know what to do with himself
 — not just sometimes, but always.*
@@ -412,8 +411,7 @@ The Lion, the Witch, and the Wardrobe by C.S.Lewis
 
 Alice in Wonderland by Lewis Carroll
 
-<img src="assets/VOCABULARY 1/media/image4.jpeg"
-style="width:5.20972in;height:3.60486in" />
+<img src="assets/VOCABULARY 1/media/image4.jpeg" />
 
 Milo’s package contained among other things:
 
@@ -433,20 +431,17 @@ Winnie the Pooh by A.A.Milne
 
 Swallows and Amazons by Arthur Ransome
 
-<img src="assets/VOCABULARY 1/media/image5.jpeg"
-style="width:5.24931in;height:3.99097in" />
+<img src="assets/VOCABULARY 1/media/image5.jpeg" />
 
 The Phantom Tollbooth
 
-<img src="assets/VOCABULARY 1/media/image6.jpeg"
-style="width:4.98056in;height:3.90556in" />
+<img src="assets/VOCABULARY 1/media/image6.jpeg" />
 
 The Hobbit by J.R.R.Tolkien
 
-**Chapter 2 Beyond Expectations**
+## Chapter 2 Beyond Expectations
 
-<img src="assets/VOCABULARY 1/media/image7.jpeg"
-style="width:5.97847in;height:4.22986in" />
+<img src="assets/VOCABULARY 1/media/image7.jpeg" />
 
 When Milo asks the Whether Man what sort of place Expectations is, he is
 told:
@@ -541,7 +536,7 @@ Homographs:
 
 The Dove Dove by Marvin Terban
 
-**The King Who Rained Fred Gwynne**
+## The King Who Rained Fred Gwynne
 
 Daddy says there was a king who rained for forty years.
 
@@ -582,7 +577,7 @@ Daddy says some boars are coming to dinner.
 
 Did you ever hear such a bunch of fairy tails?
 
-**A Little Pigeon Toad Fred Gwynne**
+## A Little Pigeon Toad Fred Gwynne
 
 Mummy says Daddy is a little pigeon toad.
 
@@ -628,7 +623,7 @@ Daddy says there are three feet in a yard.
 
 Yarns like these are hard to swallow.
 
-**A Chocolate Moose for Dinner Fred Gwynne**
+## A Chocolate Moose for Dinner Fred Gwynne
 
 Mummy says she had a chocolate moose for dinner last night.
 
@@ -734,7 +729,7 @@ Your DEAR DEER.
 
 What are Homonyms and Homophones?
 
-**Brian Cleary**
+## Brian Cleary
 
 **Homonyms** are words that sound and also look alike.
 
@@ -935,8 +930,7 @@ and saw the rain, and it seemed as though he couldn't bear it. "I get
 everything all beautifully planned out and it has to go and rain," he
 said.
 
-<img src="assets/VOCABULARY 1/media/image8.jpeg"
-style="width:4.125in;height:2.75069in" />
+<img src="assets/VOCABULARY 1/media/image8.jpeg" />
 
 For a fun look at parody read:
 
@@ -946,13 +940,10 @@ Goodnight Goon by Michael Rex
 
 Goodnight iPad by Ann Droyd
 
-<img src="assets/VOCABULARY 1/media/image9.jpeg"
-style="width:2.61389in;height:2.08333in" />
-<img src="assets/VOCABULARY 1/media/image10.jpeg"
-style="width:2.60347in;height:2.24097in" />
+<img src="assets/VOCABULARY 1/media/image9.jpeg" />
+<img src="assets/VOCABULARY 1/media/image10.jpeg" />
 
-<img src="assets/VOCABULARY 1/media/image11.jpeg"
-style="width:2.625in;height:2.19861in" />
+<img src="assets/VOCABULARY 1/media/image11.jpeg" />
 
 **Good Night Moon**
 
@@ -1094,10 +1085,9 @@ Get under there
 
 Goodnight monsters everywhere
 
-<img src="assets/VOCABULARY 1/media/image12.png"
-style="width:4.16667in;height:2.87361in" />
+<img src="assets/VOCABULARY 1/media/image12.png" />
 
-**Goodnight iPad Ann Droyd**
+## Goodnight iPad Ann Droyd
 
 In the bright buzzing room
 
@@ -1209,10 +1199,9 @@ some fun with the words. Word search from reading.
 
 Students can create their own illustration of compound words.
 
-<img src="assets/VOCABULARY 1/media/image13.png"
-style="width:3.12569in;height:2.95764in" />
+<img src="assets/VOCABULARY 1/media/image13.png" />
 
-**Chapter 3. Welcome to Dictionopolis**
+## Chapter 3. Welcome to Dictionopolis
 
 Milo arrives at Dictionopolis on Market Day – the Word Market.
 
@@ -1233,8 +1222,7 @@ with the Thesaurus.
 
 *Thesaurus –* Greek and Latin origin meaning ‘treasury’ or ‘storehouse’.
 
-<img src="assets/VOCABULARY 1/media/image14.jpeg"
-style="width:2.72917in;height:2.72917in" />
+<img src="assets/VOCABULARY 1/media/image14.jpeg" />
 
 “*Nonsense.”*
 
@@ -1268,7 +1256,7 @@ Why the Banana Split by Rick Walton
 
 Raining Cats and Dogs by Will Moses
 
-**Chapter 4. Confusion in the Market Place**
+## Chapter 4. Confusion in the Market Place
 
 The Word Market: I remember many years ago turning my classroom into a
 Word Market where words could be traded. Favourite words could be
@@ -1375,13 +1363,11 @@ proclamation desperately pavilions assumption
 desolate lumbered intruders
 
 Milo meets the Spelling Bee
-<img src="assets/VOCABULARY 1/media/image15.jpeg"
-style="width:1.51875in;height:2.22986in" />
+<img src="assets/VOCABULARY 1/media/image15.jpeg" />
 
-<img src="assets/VOCABULARY 1/media/image16.jpeg"
-style="width:1.43333in;height:2.25069in" /> and the Humbug
+<img src="assets/VOCABULARY 1/media/image16.jpeg" /> and the Humbug
 
-**Why the Banana Split Rick Walton**
+## Why the Banana Split Rick Walton
 
 An Adventure in Idioms
 
@@ -1508,10 +1494,9 @@ about childhood in a particular place (Beaver). They provide material to
 discuss the ideas as well as discussion at the level of literary devices
 the author uses to assist meaning. Five of the poems are included here.
 
-<img src="assets/VOCABULARY 1/media/image17.jpeg"
-style="width:2.025in;height:2.49861in" />
+<img src="assets/VOCABULARY 1/media/image17.jpeg" />
 
-**Little Short Legs Cassius**
+## Little Short Legs Cassius
 
 Little black dog Cassius was our grey and white tom
 
@@ -1602,8 +1587,7 @@ Sorry, Mr Dill
 …*’just as Milo got to his feet the entire police force of Dictionopolis
 appeared …”*
 
-<img src="assets/VOCABULARY 1/media/image18.jpeg"
-style="width:2.08333in;height:2.08333in" />
+<img src="assets/VOCABULARY 1/media/image18.jpeg" />
 
 Saying ‘short shrift means:
 
@@ -1948,7 +1932,7 @@ Shakespeare in *A Comedy of Errors* and *As You Like It.*
 
 *Orlando: Neither rhyme nor reason can express how much.*
 
-**Chapter 6 Faintly Macabre’s Story**
+## Chapter 6 Faintly Macabre’s Story
 
 “The banishment of Rhyme and Reason and their ultimate return gave the
 story a real framework and purpose.” Norton Juster.
@@ -1980,7 +1964,7 @@ When Milo steps into the wooden wagon he is told to be quiet because,
 
 *“it goes without saying.”* (Another pun!)
 
-**Chapter 7 The Royal Banquet**
+## Chapter 7 The Royal Banquet
 
 The letter man is explaining the history of the W. (W was one of the
 last letters added to the English alphabet).
@@ -2301,8 +2285,7 @@ That sly, slippery slope was simply a sham. Such a shock, such a shame.
 
 Such a succulent slug!
 
-<img src="assets/VOCABULARY 1/media/image19.jpeg"
-style="width:2.61458in;height:1.16667in" />
+<img src="assets/VOCABULARY 1/media/image19.jpeg" />
 
 **Clara Caterpillar**
 
@@ -2450,7 +2433,7 @@ and courageous.”
 
 “And I’m a completely contented butterfly,” said Clara.
 
-**The Worrywarts Pamela Duncan Edwards**
+## The Worrywarts Pamela Duncan Edwards
 
 One warm Wednesday morning, the sun winked through Wombat’s window and
 woke her up.
@@ -2599,7 +2582,7 @@ So they went back along the pathway.
 
 WHAT IF … ?
 
-**Chapter 8 The Humbug Volunteers**
+## Chapter 8 The Humbug Volunteers
 
 Idioms:
 
@@ -2613,7 +2596,7 @@ lower the boom
 
 drive a bargain
 
-**Chapter 9 It’s All in the Way You Look at Things**
+## Chapter 9 It’s All in the Way You Look at Things
 
 *‘It’s all in the way you look at things.”*
 
@@ -2621,10 +2604,9 @@ Milo meets Alec Bings.
 
 …”*Everyone should have his own point of view* .”
 
-<img src="assets/VOCABULARY 1/media/image20.jpeg"
-style="width:2.60347in;height:3.4375in" />
+<img src="assets/VOCABULARY 1/media/image20.jpeg" />
 
-**Chapter 10 A Colourful Symphony**
+## Chapter 10 A Colourful Symphony
 
 Milo meets The Giant, The Midget, The Fat Man, The Thin Man - all the
 same person.
@@ -2797,8 +2779,7 @@ tomorrow’s music and eagerly awaited the dawn.
 
 The Conductor by Laetitia Devernay
 
-<img src="assets/VOCABULARY 1/media/image21.jpeg"
-style="width:3.26042in;height:3.77986in" />
+<img src="assets/VOCABULARY 1/media/image21.jpeg" />
 
 Pairing two seemingly disparate elements an orchestra conductor and a
 grove of trees award-winning artist Laetitia Devernay herself
@@ -2825,8 +2806,7 @@ or cross-perceptual connection. This could be connecting numbers,
 letters, or musical notes with particular colours. Norton Juster had
 trouble with maths until he started associating numbers to colours.
 
-<img src="assets/VOCABULARY 1/media/image22.jpeg" /><img src="assets/VOCABULARY 1/media/image22.jpeg"
-style="width:2.15694in;height:1.78194in" />
+<img src="assets/VOCABULARY 1/media/image22.jpeg" /><img src="assets/VOCABULARY 1/media/image22.jpeg" />
 
 Rondo in C by Paul Fleischman
 
@@ -2912,8 +2892,7 @@ Bravo, young lady, for that Rondo in C!
 >
 > They’re the sounds of basketball.
 
-<img src="assets/VOCABULARY 1/media/image23.jpeg"
-style="width:2.5in;height:2.48333in" />
+<img src="assets/VOCABULARY 1/media/image23.jpeg" />
 
 The Worst Band in the Universe by Graeme Base
 
@@ -2947,8 +2926,7 @@ strong and clever story. This is a story that teaches about bullying and
 the reasons why it happens, a story about good versus evil and rising
 above to beat the powers that be.
 
-<img src="assets/VOCABULARY 1/media/image24.jpeg"
-style="width:5.49722in;height:2.75278in" />
+<img src="assets/VOCABULARY 1/media/image24.jpeg" />
 
 Review 2:
 
@@ -3108,7 +3086,7 @@ sobbing
 
 embraced
 
-**Chapter 11 Dischord and Dynne**
+## Chapter 11 Dischord and Dynne
 
 Collect strong verbs.
 
@@ -3132,7 +3110,7 @@ were tipped
 
 was overjoyed
 
-**Chapter 12 The Silent Valley**
+## Chapter 12 The Silent Valley
 
 “Have you ever heard the wonderful silence just before the dawn?” she
 inquired. “Or the quiet and calm just as the storm ends? Or perhaps you
@@ -3145,8 +3123,7 @@ beautiful, if you listen carefully.”
 
 (The Soundkeeper)
 
-<img src="assets/VOCABULARY 1/media/image25.jpeg"
-style="width:1.92917in;height:2.375in" />
+<img src="assets/VOCABULARY 1/media/image25.jpeg" />
 
 The Phantom Tollbooth Extract Chapter 11 Dischord and Dynne
 
@@ -3239,7 +3216,7 @@ Tock wagged his tail proudly, but Milo didn’t say a word, and to this
 day no one knows of the lost week, but the few people who happened to be
 awake at 5:23 on that very strange morning.
 
-**Silence**
+## Silence
 
 I catch the pattern
 
@@ -3315,12 +3292,11 @@ waiting with their light. For a time
 
 I rest in the grace of the world, and am free.
 
-**Wendell Berry**
+## Wendell Berry
 
-<img src="assets/VOCABULARY 1/media/image26.jpeg"
-style="width:4.16667in;height:3.23958in" />
+<img src="assets/VOCABULARY 1/media/image26.jpeg" />
 
-**Noise Day**
+## Noise Day
 
 Let’s have one day for girls and boyses
 
@@ -3406,12 +3382,11 @@ Part of
 
 A rumble of trucks.
 
-**Virginia Schonborg**
+## Virginia Schonborg
 
 Poems from **The Company of Crows** by **Marilyn Singer**
 
-<img src="assets/VOCABULARY 1/media/image27.png"
-style="width:2.08333in;height:1.82292in" />
+<img src="assets/VOCABULARY 1/media/image27.png" />
 
 In this book of twenty-three poems, we learn the true nature of crows
 and their purpose! Each poem is told from a different point of view such
@@ -3419,7 +3394,7 @@ as The Girl, The Youngster, The Dog, The Birdwatcher and many more!
 These point of views are not just human, but from the animals that
 encounter the crows, as well as the crows themselves!
 
-**The Girl**
+## The Girl
 
 “Hello!” he screams
 
@@ -3463,7 +3438,7 @@ that bird’s just pulling another practical joke
 
 from his bottomless bag of tricks.
 
-**The Father**
+## The Father
 
 Quiet –
 
@@ -3507,7 +3482,7 @@ I don’t mind
 
 if they watch me.
 
-**The Poet**
+## The Poet
 
 Winter is a quiet crow
 
@@ -3515,7 +3490,7 @@ stepping stately, sedately
 
 across a frozen lake.
 
-**The Pig**
+## The Pig
 
 Farmer grunts, Crows can be so annoying
 
@@ -3541,7 +3516,7 @@ swindlers
 
 whose visit I’m enJOYING
 
-**Chapter 13 Unfortunate Conclusions**
+## Chapter 13 Unfortunate Conclusions
 
 “As he spoke, the familiar and unmistakable squinch-squanch,
 squinch-squanch of the DYNNE’S heavy footsteps could be heard plodding
@@ -3566,10 +3541,9 @@ Mechanical sounds: beep, clank, rattle, click
 
 Musical sounds: ring, ting, honk, jingle, toot, hum
 
-<img src="assets/VOCABULARY 1/media/image28.jpeg"
-style="width:3.0625in;height:2.18958in" />
+<img src="assets/VOCABULARY 1/media/image28.jpeg" />
 
-**The Game**
+## The Game
 
 Clap! Clap!
 
@@ -3605,16 +3579,14 @@ bedsprings, and, of course, all kinds of laughter.”
 
 Jumping to Conclusions:
 
-<img src="assets/VOCABULARY 1/media/image29.png"
-style="width:3.6875in;height:3.125in" />
+<img src="assets/VOCABULARY 1/media/image29.png" />
 
 …”every time you decide something without having a good reason, you jump
 to Conclusions.”
 
-**Chapter 14 The Dodecohedron Leads the Way**
+## Chapter 14 The Dodecohedron Leads the Way
 
-<img src="assets/VOCABULARY 1/media/image30.png"
-style="width:3.12292in;height:2.38681in" />
+<img src="assets/VOCABULARY 1/media/image30.png" />
 
 when Milo asks, “What is a dodecahedron?” the figure replies, “A
 dodecahedron is a mathematical shape with twelve faces.”
@@ -3640,15 +3612,14 @@ The bird is the Everpresent Wordsnatcher who “takes the words right out
 of your mouth.” He is from a place far away – Context, therefore he is
 ‘out of Context.’
 
-**Chapter 17 Unwelcoming Committee**
+## Chapter 17 Unwelcoming Committee
 
 Milo encounters demons:
 
 “The Terrible Trivium, demon of petty tasks and worthless jobs, ogre of
 wasted effort, and monster of habit.”
 
-<img src="assets/VOCABULARY 1/media/image31.jpeg"
-style="width:1.87153in;height:2.37569in" />
+<img src="assets/VOCABULARY 1/media/image31.jpeg" />
 
 The demon of insincerity.
 
@@ -3660,7 +3631,7 @@ Add to hyphenated adjectives list.
 
 The Gelatinous Giant
 
-**Chapter 18 Castle in the Air**
+## Chapter 18 Castle in the Air
 
 Another demon is the Senses Taker who appeals to their senses:
 
@@ -3673,8 +3644,7 @@ Humbug – hearing
 At last the travellers reach the two princesses, and Milo feels bad
 about taking so long because of his mistakes.
 
-<img src="assets/VOCABULARY 1/media/image32.jpeg"
-style="width:2.69792in;height:2.02083in" />
+<img src="assets/VOCABULARY 1/media/image32.jpeg" />
 
 Discuss the princesses’ reply:
 
@@ -3737,7 +3707,7 @@ want to know are just out of sight or a little beyond your reach. But
 someday you’ll reach them all, for what you learn today, for no reason
 at all, will help you discover all the wonderful secrets of tomorrow.”
 
-**Oh, the Places You'll Go!**  **Dr Seuss**  
+## Oh, the Places You'll Go!**  **Dr Seuss
   
 Congratulations!  
 Today is your day.  
@@ -3928,8 +3898,7 @@ So...get on your way!
 
 Oh, the Places You’ll Go!
 
-<img src="assets/VOCABULARY 1/media/image33.jpeg"
-style="width:3.33333in;height:2.46875in" />
+<img src="assets/VOCABULARY 1/media/image33.jpeg" />
 
 Background/ History
 
@@ -3952,7 +3921,7 @@ Children discuss potential and self-motivation.
 
 Show the film on YouTube
 
-**Don’t Hold Me Back**
+## Don’t Hold Me Back
 
 And when I dream I dream
 
@@ -4286,7 +4255,7 @@ impossible.”
 
 “And numbers,” added the Mathemagician forcefully.
 
-**Chapter 20 Hello and Good-bye**
+## Chapter 20 Hello and Good-bye
 
 “And yet, even as he thought of all these things, he noticed somehow
 that the sky was a lovely shade of blue and that one cloud had the shape
@@ -4304,11 +4273,9 @@ play, songs to sing, and worlds to imagine and then someday make real.
 His thoughts darted eagerly about as everything looked new – and worth
 trying.
 
-<img src="assets/VOCABULARY 1/media/image34.jpeg"
-style="width:1.24028in;height:1.24931in" />
+<img src="assets/VOCABULARY 1/media/image34.jpeg" />
 
-<img src="assets/VOCABULARY 1/media/image35.jpeg"
-style="width:2.38194in;height:3in" />
+<img src="assets/VOCABULARY 1/media/image35.jpeg" />
 
 **Bibliography Vocabulary 1**
 
@@ -4330,7 +4297,7 @@ Milne, A.A. Winnie the Pooh
 
 Ransome, Arthur Swallows and Amazons
 
-**Chapter 2**
+## Chapter 2
 
 Homophones:
 
@@ -4366,7 +4333,7 @@ Text-to-Text Connection:
 
 White, E.B. Charlotte’s Web – Chapter 4
 
-**Chapter 3**
+## Chapter 3
 
 Cleary, Brian Pitch and Throw
 
@@ -4382,17 +4349,17 @@ Terban, Marvin In a Pickle
 
 Walton, Rick Why the Banana Split
 
-**Chapter 4**
+## Chapter 4
 
 Rylant, Cynthia Spelling Bee (P) (P)=Poem
 
 Rylant, Cynthia Waiting to Waltz (PC) = Poetry Collection
 
-**Chapter 5**
+## Chapter 5
 
 Shakespeare, William - Sayings
 
-**Chapter 7**
+## Chapter 7
 
 Alliteration:
 
@@ -4416,7 +4383,7 @@ Text-to-Text Connection
 
 Devernay, L The Conductor
 
-**Chaper 12**
+## Chaper 12
 
 Berry, Wendell The Peace of Wild Things (P)
 
@@ -4430,11 +4397,11 @@ Silverstein, Shel Noise Day (P)
 
 Singer, Marilyn The Company of Crows (PC)
 
-**Chapter 13**
+## Chapter 13
 
 The Game (P)
 
-**Chapter 18**
+## Chapter 18
 
 Text-to-Text Connections:
 

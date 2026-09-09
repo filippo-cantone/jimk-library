@@ -3,11 +3,12 @@ title: "VOCABULARY 8"
 source_file: "Vocabulary Course Jim/VOCABULARY 8.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: vocabulary
 ---
 
-<img src="assets/VOCABULARY 8/media/image1.png"
-style="width:3.57292in;height:4.30139in" />
+<img src="assets/VOCABULARY 8/media/image1.png" />
 
 **VOCABULARY 8**
 
@@ -45,7 +46,7 @@ weak writing. The verb *to be* has eight forms:
 
 *am, are, was, were, be, been, being.*
 
-**Mouse Chase Vivian Sathre**
+## Mouse Chase Vivian Sathre
 
 Mouse creeps.
 
@@ -115,7 +116,7 @@ Mouse sails.
 
 Cat wails.
 
-**Mouse Chase Vivian Sathre**
+## Mouse Chase Vivian Sathre
 
 |                      |              |
 |----------------------|--------------|
@@ -158,22 +159,21 @@ Spider \_\_\_\_\_\_\_\_\_\_\_\_\_\_ Teacher
 
 Brainstorm ideas for independent writing.
 
-**Goggles Ezra Jack Keats**
+## Goggles Ezra Jack Keats
 
-<img src="assets/VOCABULARY 8/media/image2.jpeg"
-style="width:2.33333in;height:2.34375in" />
+<img src="assets/VOCABULARY 8/media/image2.jpeg" />
 
 Peter has found a rare treasure, a pair of beat-up motorcycle goggles.
 Who could have guessed that the neighbourhood gang of bullies would want
 those goggles too! But the bullies don’t understand how hard it is to
 catch two very bright boys and one crafty dog.
 
-**Goggles! Ezra Jack Keats**
+## Goggles! Ezra Jack Keats
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -207,7 +207,7 @@ Archie gasped.</td>
 
 Read and Retell
 
-**Goggles! Ezra Jack Keats**
+## Goggles! Ezra Jack Keats
 
 “Archie, look what I found,” Peter shouted through the pipe. “Motorcycle
 goggles!”
@@ -481,8 +481,8 @@ absolutely had to.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -521,7 +521,7 @@ absolutely had to.
 </tbody>
 </table>
 
-**The Whales Cynthia Rylant**
+## The Whales Cynthia Rylant
 
 In the blackness of the Black Sea, the whales are thinking today.
 
@@ -568,12 +568,12 @@ babies are drinking their mothers’ milk and their fathers are singing
 nearby. They are floating like feathers in the deep blue green. They are
 floating like feathers in a sky.
 
-**The Whales Cynthia Rylant**
+## The Whales Cynthia Rylant
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -768,8 +768,8 @@ time.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -817,7 +817,7 @@ nothing and at everything all at the same time.</p></td>
 </tbody>
 </table>
 
-**Home Place Crescent Dragonwagon**
+## Home Place Crescent Dragonwagon
 
 Every year,
 
@@ -1079,12 +1079,12 @@ to trumpet their good news
 
 forever and forever.
 
-**Home Place Crescent Dragonwagon**
+## Home Place Crescent Dragonwagon
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1133,10 +1133,9 @@ fought and made up,</p>
 </tbody>
 </table>
 
-**Jumanji Chris Van Allsburg**
+## Jumanji Chris Van Allsburg
 
-<img src="assets/VOCABULARY 8/media/image3.jpeg"
-style="width:2.91667in;height:2.5in" />
+<img src="assets/VOCABULARY 8/media/image3.jpeg" />
 
 Plot Summary
 
@@ -1162,7 +1161,7 @@ when their parents return. Later that evening, they look out the window
 and see Danny and Walter Budwing, two children not known for reading
 instructions, carrying the box out of the park towards their home.
 
-**Read Aloud Guiding Questions**
+## Read Aloud Guiding Questions
 
 Have you ever played a game or put something together without reading
 the instructions? What happened?
@@ -1176,8 +1175,7 @@ instructions to Jumanji? What might happen to the Budwing boys?
 How do Peter and Judy change as a result of their adventure with
 Jumanji? What have they learnt?
 
-<img src="assets/VOCABULARY 8/media/image4.jpeg"
-style="width:4.29861in;height:3.225in" />
+<img src="assets/VOCABULARY 8/media/image4.jpeg" />
 
 Van Allsburg’s black-and-white pencil drawings create a richly textured
 world where bizarre clashes of context are made starkly apparent.
@@ -1193,10 +1191,9 @@ with the characters.
 How are the pictures framed? What does Van Allsburg choose to include
 and not to include?
 
-<img src="assets/VOCABULARY 8/media/image5.jpeg"
-style="width:5.20833in;height:4.84375in" />
+<img src="assets/VOCABULARY 8/media/image5.jpeg" />
 
-**Strong Verbs**
+## Strong Verbs
 
 Chris Van Allsburg describes action in clear, concise, straightforward
 language that easily carries readers along. The following excerpt
@@ -1245,7 +1242,7 @@ home life. Imagine a situation in which strange animals or events enter
 into the context of a very familiar situation (home, school, grandma’s
 house, etc.) and then write about it.
 
-**Dialogue**
+## Dialogue
 
 The use of dialogue in Jumanji also works to move the plot along.
 Students study not only Van Allsburg’s use of punctuation when writing
@@ -1261,7 +1258,7 @@ stories.
 Reader’s Theatre: Students develop their reading ﬂuency by reading the
 dialogue out loud with expression.
 
-**Themes**
+## Themes
 
 The book introduces rich themes to be explored during either a whole
 class book conversation or children’s independent or partner reading
@@ -1272,12 +1269,11 @@ collect text evidence for
 
 their theories.
 
-<img src="assets/VOCABULARY 8/media/image6.jpeg"
-style="width:4.16667in;height:3.8125in" />
+<img src="assets/VOCABULARY 8/media/image6.jpeg" />
 
 *Adapted from Jumanji- a Teacher’s Guide.*
 
-**Jumanji Chris Van Allsburg**
+## Jumanji Chris Van Allsburg
 
 “Now remember,” Mother said, “your father and I are bringing some guests
 by after the opera, so please keep the house neat.”
@@ -1509,12 +1505,12 @@ Budwing. They were looking out the window. Two boys were running through
 the park. They were Danny and Walter Budwing, and Danny had a long, thin
 box under his arm.
 
-**Jumanji Chris Van Allsburg**
+## Jumanji Chris Van Allsburg
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1556,7 +1552,7 @@ Yes, absolutely, I think, a right turn … or maybe …”</em></td>
 Find Fritz: In Jumanji, Fritz the dog is a pull toy on the ﬂoor in the
 living room where the children begin playing the game.
 
-**Elmer David McKee**
+## Elmer David McKee
 
 There was once a herd of elephants. Elephants young, elephants old,
 elephants tall and short, fat and thin. All were different but all were
@@ -1639,12 +1635,12 @@ or red, or pink, or purple, or blue, or green, or black, or white and
 have a parade. If you happen to see an elephant in the Elmer’s Day
 parade who is ordinary elephant colour, you will know it must be Elmer.
 
-**Elmer David McKee**
+## Elmer David McKee
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1677,7 +1673,7 @@ cloud, same old elephants.</td>
 </tbody>
 </table>
 
-**Toad Ruth Brown**
+## Toad Ruth Brown
 
 |                                   |                                                                                                                                                                     |
 |-----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -1688,7 +1684,7 @@ cloud, same old elephants.</td>
 | Hyphenated adjectives             | a fly-munching, bug-crunching, worm-slurping toad                                                                                                                   |
 | Commas between items              | This is the tale of a monstrous toad, a muddy toad, a slimy toad, a clammy, sticky, gooey toad, odorous, stinking, filthy and foul, and smelling of stagnant water. |
 
-**Toad Ruth Brown**
+## Toad Ruth Brown
 
 This is the tale of a monstrous toad, a muddy toad, a slimy toad, a
 clammy, sticky, gooey toad, odorous, stinking, filthy and foul, and
@@ -1704,7 +1700,7 @@ worm-slurping toad.
 He is clumsy, careless, short-sighted and slow, and he waddles and
 stumbles, winking and blinking, straight into the jaws of a monster!
 
-**yuuuuk**
+## yuuuuk
 
 yells the monster, and spits out the toad.
 
@@ -1713,11 +1709,9 @@ toad,
 
 who smiles a monstrous smile.
 
-<img src="assets/VOCABULARY 8/media/image7.jpeg"
-style="width:4.16667in;height:2.73889in" />
+<img src="assets/VOCABULARY 8/media/image7.jpeg" />
 
-<img src="assets/VOCABULARY 8/media/image8.jpeg"
-style="width:2.29167in;height:2.66667in" />
+<img src="assets/VOCABULARY 8/media/image8.jpeg" />
 
 Toad is not a pretty sight. Covered with warts and filled with venom, he
 slithers through the swamp "odorous, oozing, foul and filthy." Looking
@@ -1727,10 +1721,9 @@ When the camouflage is peeled away and the prehistoric lizardlike
 monster tastes his repulsive catch, he spits it out with a resounding
 "yuuuuuck."
 
-<img src="assets/VOCABULARY 8/media/image9.jpeg"
-style="width:2.2875in;height:2.86319in" />
+<img src="assets/VOCABULARY 8/media/image9.jpeg" />
 
-**Mice and Beans Pam Munoz Ryan**
+## Mice and Beans Pam Munoz Ryan
 
 As Rosa Maria prepares for her youngest grandchild's birthday party,
 important items — like her wooden spoon, her big bolsa for grocery
@@ -1748,7 +1741,7 @@ birthday party of their own.
 | Verbs                   | Squeeze washed and ironed hurried                                                                                                                       |
 | Spelling - phonics      | -ed ending. Sort by sound. (3)                                                                                                                          |
 
-**Mice and Beans Pam Munoz Ryan**
+## Mice and Beans Pam Munoz Ryan
 
 Rosa Maria lived in a tiny house with a tiny yard. But she had a big
 heart, a big family, and more than anything, she loved to cook big meals
@@ -1958,7 +1951,7 @@ ratones (ra-TONE-ace): mice
 
 tortillas (tor-TEE- yas): thin cornmeal or flour cakes
 
-**Winter at Long Pond William George**
+## Winter at Long Pond William George
 
 In the quiet darkness before dawn, a snowshoe hare softly nibbles twigs
 from a fallen poplar branch.
@@ -2049,8 +2042,7 @@ Not just by the stump, like most trees, but everywhere above the roots.”
 Father and son slide the toboggan onto Long Pond. The sun has set behind
 the hill. They start to walk across the frozen pond. It begins to snow.
 
-<img src="assets/VOCABULARY 8/media/image10.jpeg"
-style="width:3.18889in;height:4.16667in" />
+<img src="assets/VOCABULARY 8/media/image10.jpeg" />
 
 A father and his son trek through the snow to harvest a Christmas tree.
 
@@ -2191,10 +2183,9 @@ the phone ring.
 And they danced – *hippy hop-hop –* and they sang – *doodle wop-wop –*
 all night long.
 
-<img src="assets/VOCABULARY 8/media/image11.png"
-style="width:3.675in;height:2.42639in" />
+<img src="assets/VOCABULARY 8/media/image11.png" />
 
-**Tessa’s Tip-Tapping Toes Carolyn Crimi**
+## Tessa’s Tip-Tapping Toes Carolyn Crimi
 
 Despite her mother's dismay, Tessa the mouse can't stop her little mouse
 toes from tip-tapping away. All she wants to do is dance, dance, dance.
@@ -2204,13 +2195,12 @@ songs. One rainy day, the toe-tappin' mouse and the caterwauling cat
 meet and the two start up an infectious song and dance that soon has
 everyone joining in.
 
-<img src="assets/VOCABULARY 8/media/image12.png"
-style="width:4.39583in;height:3.10417in" />
+<img src="assets/VOCABULARY 8/media/image12.png" />
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2245,9 +2235,7 @@ Lang-Doo-Lang …”</em></p></td>
 </tbody>
 </table>
 
-<img src="assets/VOCABULARY 8/media/image13.png"
-style="width:2.73958in;height:2.71875in" /><img src="assets/VOCABULARY 8/media/image14.png"
-style="width:2.09375in;height:2.53194in" />
+<img src="assets/VOCABULARY 8/media/image13.png" /><img src="assets/VOCABULARY 8/media/image14.png" />
 
 The summary on the copyright page of Tessa's Tip-tapping Toes reads:
 "Inspired by the rhythm of the rain, a mouse that loves to dance and a
@@ -2314,7 +2302,7 @@ When I told Father about Ted, he gave me one of his funny looks.
 “An imaginary friend, huh? I had one of those back when I was your age.
 Just try not to get into trouble.”
 
-**Shave and a Haircut**
+## Shave and a Haircut
 
 A few days later, I asked Father to take us to the movies.
 
@@ -2352,7 +2340,7 @@ I ended up at the barber where I got the haircut Father picked out.
 
 We never made it to the movies.
 
-**The Masterpiece**
+## The Masterpiece
 
 “I don’t think my father believes in you,” I said to Ted after the
 haircut-thing.
@@ -2384,7 +2372,7 @@ washed up. You’re going to bed early while I clean up this disaster.”
 
 I don’t think Father even *looked* at our picture.
 
-**Indoor Swimming**
+## Indoor Swimming
 
 “When did your father become such a stuffy-pants?” Ted asked me the
 following afternoon. “And what do adults do for fun, anyway?”
@@ -2441,7 +2429,7 @@ Father was still steaming mad, so he didn’t even notice me slip out.
 >
 > Please don’t worry.
 
-**The Old Playground**
+## The Old Playground
 
 When I found Ted, I explained why I had run away.
 
@@ -2499,10 +2487,9 @@ pirates?”
 So we all went home and played one mean game of space
 pirates-Monopoly-Twister!
 
-**Ted Tony DiTerlizzi**
+## Ted Tony DiTerlizzi
 
-<img src="assets/VOCABULARY 8/media/image15.jpeg"
-style="width:3.92639in;height:3.92639in" />
+<img src="assets/VOCABULARY 8/media/image15.jpeg" />
 
 This is the story of a father and a son and the big,
 raspberry-coloured,fun-loving, troublemaking best friend who brings them
@@ -2526,8 +2513,8 @@ an imaginary friend.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2564,10 +2551,9 @@ lost it … somewhere …”</em></p></td>
 </tbody>
 </table>
 
-<img src="assets/VOCABULARY 8/media/image16.jpeg"
-style="width:1.71944in;height:3.02153in" />
+<img src="assets/VOCABULARY 8/media/image16.jpeg" />
 
-**Skippyjon Jones Judy Schachner**
+## Skippyjon Jones Judy Schachner
 
 Every morning, Skippyjon Jones woke up with the birds. And this did not
 please his mother at all.
@@ -2797,10 +2783,9 @@ But forget about that …”
 
 “*Buenas noches, mis amigos,”* said Skippyjon Jones.
 
-<img src="assets/VOCABULARY 8/media/image17.jpeg"
-style="width:5.53194in;height:1.31389in" />
+<img src="assets/VOCABULARY 8/media/image17.jpeg" />
 
-**Judy Schachner**
+## Judy Schachner
 
 “I am not a Siamese cat . . .” says Skippyjon Jones, a rambunctious
 kitty boy with an overactive imagination. He would rather be El
@@ -2810,7 +2795,7 @@ band of Mexican Chihuahuas
 from a humongous bumblebeeto that is tormenting them. Skippito gets the
 job done—yes indeed-o.
 
-**Read Aloud**
+## Read Aloud
 
 Pause when unfamiliar words are in the text or to assess comprehension.
 Make sure that the children understand the play on words and the plot of
@@ -2829,7 +2814,7 @@ the musical
 
 pattern and can then clap when the time is appropriate.
 
-**Modelling Think-Aloud**
+## Modelling Think-Aloud
 
 When reading sentences or passages that contain unknown words, stop to
 verbalise the thinking that occurs when difficult or confusing material
@@ -2897,10 +2882,9 @@ simple walk into his closet, he can go anywhere his imagination wants to
 take him. Students imagine that there is a secret door to somewhere,
 leading to an adventure.
 
-**Because of Winn-Dixie Kate DiCamillo**
+## Because of Winn-Dixie Kate DiCamillo
 
-<img src="assets/VOCABULARY 8/media/image18.jpeg"
-style="width:1.85694in;height:2.48958in" />
+<img src="assets/VOCABULARY 8/media/image18.jpeg" />
 
 The summer Opal and her father, the preacher, move to Naomi, Florida,
 Opal goes into the Winn-Dixie supermarket and comes out with a dog. A
@@ -2966,7 +2950,7 @@ How the characters talk.
 
 What do we learn about the characters through this dialogue?
 
-**Your Mama**
+## Your Mama
 
 Your mama was funny.
 
@@ -3054,7 +3038,7 @@ Your mama loved you.
 
 She loved you very much.
 
-**Decalogue Topic Ideas:**
+## Decalogue Topic Ideas:
 
 childhood ego love money
 
@@ -3111,7 +3095,7 @@ writing, students make a list of ten things about this person or pet.
 Suggest that they use this list to create their characterisation of the
 person or pet**.**
 
-**Exploring a Theme**
+## Exploring a Theme
 
 Frannie compares life to a Littmus Lozenge, because the sweet and sad
 are often mixed up together.
@@ -3120,7 +3104,7 @@ Read handout from chapter 17.
 
 First person narrative on sweetness and sadness in life.
 
-**Another Decalogue**
+## Another Decalogue
 
 In Chapter 24 Opal thinks of ten things about Winn-Dixie when he runs
 off in a thunderstorm. This is short and could be used by the students
@@ -3190,7 +3174,7 @@ drizzle plumb (slang) strum gentle
 
 myths complicated potions spells
 
-**Vocabulary Ideas:**
+## Vocabulary Ideas:
 
 Vocabulary Charades. Act out a word for others to guess.
 
@@ -3356,7 +3340,7 @@ Otis:
 
 “It tastes good, but it also tastes a little bit like being in jail.”
 
-**Winn-Dixie**
+## Winn-Dixie
 
 **…** And in my head, I started on a list of ten things that I knew
 about Winn-Dixie, things I could write on big old posters and put up
@@ -3383,7 +3367,7 @@ Number nine was he liked to sit on couches and sleep in beds.
 
 Number ten was he didn’t mind going to church.
 
-**Chapter 25**
+## Chapter 25
 
 We heard the music even before we got to Gloria Dump’s house. We heard
 it almost a block away. It was guitar-playing and singing and clapping.
@@ -3529,7 +3513,7 @@ I felt my heart swell up inside me with pure happiness.
 But they were all singing now and laughing, and Winn-Dixie was snoring,
 so no one heard me.
 
-**On Writing Kate DiCamillo**
+## On Writing Kate DiCamillo
 
 When I was a junior in college, I took an expository writing course
 taught by a graduate student named Trey Greer. On the first day of
@@ -3614,8 +3598,7 @@ bless you, baby."
 
 And I feel that I have been blessed. Over and over again.
 
-<img src="assets/VOCABULARY 8/media/image19.jpeg"
-style="width:1.58333in;height:2.28125in" />
+<img src="assets/VOCABULARY 8/media/image19.jpeg" />
 
 I was born in Philadelphia, Pennsylvania, raised in Clermont, Florida,
 and currently live in Minneapolis, Minnesota. I write for both children
@@ -3629,7 +3612,7 @@ one not so lovely dog (Henry).
 I think of myself as an enormously lucky person: I get to tell stories
 for a living.
 
-**More about Kate**
+## More about Kate
 
 When Kate DiCamillo was five years old,she and her mother and brother
 movedfrom Philadelphia to a small town in Florida in hopes that the warm
@@ -3652,7 +3635,7 @@ protagonist in Winn-Dixie, she says, “India Opal Buloni seems so real to
 me, I don’t think I could have made her up. Rather, I feel like I
 discovered her.”
 
-**Advice on Writing Kate DiCamillo**
+## Advice on Writing Kate DiCamillo
 
 If you are interested in becoming a writer ...
 
@@ -3685,10 +3668,9 @@ is one reason that writing is so wonderful and terrifying: you have to
 find your own way. Be kind to yourself. Listen to other people. And then
 strike out on your own.
 
-**Oh Yeah! Tom Birdseye**
+## Oh Yeah! Tom Birdseye
 
-<img src="assets/VOCABULARY 8/media/image20.jpeg"
-style="width:2.08194in;height:1.875in" />
+<img src="assets/VOCABULARY 8/media/image20.jpeg" />
 
 (from Tom’s Website)
 
@@ -3727,10 +3709,9 @@ Ha!
 Remembering the good old days of backyard camping, I just had to try to
 get the experience on paper. What came out of it was OH YEAH**!**
 
-**From The Story**
+## From The Story
 
-<img src="assets/VOCABULARY 8/media/image21.jpeg"
-style="width:2.08194in;height:1.85347in" />
+<img src="assets/VOCABULARY 8/media/image21.jpeg" />
 
 One time my friend Jared and I camped out in the backyard.
 
@@ -3741,14 +3722,13 @@ One time my friend Jared and I camped out in the backyard.
 Even though big, hairy, kid-eating monsters only come out at night, I
 turned off my flashlight. "I could stay out here all night in the dark!"
 
-<img src="assets/VOCABULARY 8/media/image22.jpeg"
-style="width:2.08194in;height:1.89583in" />
+<img src="assets/VOCABULARY 8/media/image22.jpeg" />
 
 But Jared looked me right in the eye and said, "Oh yeah? I could stay
 out here all night in the dark even if . . . there were SPIDERS DANGLING
 OVER MY HEAD!"
 
-**Where Literature Begins** **Tom Birdseye**
+## Where Literature Begins** **Tom Birdseye
 
 "But teacher, I can't even read letters. How can I write words?"
 
@@ -3795,7 +3775,7 @@ of my bright-eyed crew-- all "writing."
 Yep, I nodded to myself, as I wandered between tables, in and out of
 imaginations at work, this is where literature begins.
 
-**Writing Tips Tom Birdseye**
+## Writing Tips Tom Birdseye
 
 First of all, understand that there is no secret code or magic wand that
 will suddenly turn you into a writer. It takes time, and patience, and
@@ -3849,10 +3829,9 @@ Be stubborn. As I said before, it takes time, patience, and practice to
 achieve your goal. Hang in there! Don't give up! Everyone has a story to
 tell, and that includes YOU!
 
-<img src="assets/VOCABULARY 8/media/image23.jpeg"
-style="width:2.27986in;height:3.09236in" />
+<img src="assets/VOCABULARY 8/media/image23.jpeg" />
 
-**Words, Words, Words Tom Birdseye**
+## Words, Words, Words Tom Birdseye
 
 Words, words, words**.** For me, they are the notes of storytelling, and
 they are everywhere. In fact, there are so many that I have to carry a
@@ -3874,7 +3853,7 @@ it rains."
 
 Raining words, I thought, wonderful, wonderful words.
 
-**Oh Yeah! Tom Birdseye**
+## Oh Yeah! Tom Birdseye
 
 One time my friend Jared and I camped out in the backyard.
 
@@ -3977,7 +3956,7 @@ and closer.
 
 Suddenly, out of the bushes lunged …
 
-**“A BIG, HAIRY, KID-EATING MONSTER!”**
+## “A BIG, HAIRY, KID-EATING MONSTER!”
 
 Jared and I both screamed. We dived for the tent, crawled into our
 sleeping bags, and covered our eyes. Then I remembered.
@@ -4007,12 +3986,12 @@ I hugged Alfred close and said, “Oh yeah?”
 
 And someone said,”Yeah.”
 
-**Oh Yeah Tom Birdseye**
+## Oh Yeah Tom Birdseye
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4038,7 +4017,7 @@ and walked right up to the bank of the fishpond.</p>
 </tbody>
 </table>
 
-**Lesson:**
+## Lesson:
 
 Focus – Strong verbs.
 
@@ -4072,7 +4051,7 @@ Partner Writing – Oh Yeah! Story.
 
 Reader’s Theatre – 3 Readers.
 
-**Cloud Dance Thomas Locker**
+## Cloud Dance Thomas Locker
 
 Clouds of many shapes
 
@@ -4164,11 +4143,9 @@ across the sky.
 
 Good-night clouds.
 
-<img src="assets/VOCABULARY 8/media/image24.png"
-style="width:5.25in;height:3.66667in" />
+<img src="assets/VOCABULARY 8/media/image24.png" />
 
-<img src="assets/VOCABULARY 8/media/image25.jpeg"
-style="width:6in;height:4.5in" />
+<img src="assets/VOCABULARY 8/media/image25.jpeg" />
 
 Possible Lessons:
 
@@ -4228,7 +4205,7 @@ Delicate morning Dark-and-light
 
 Independent Writing.
 
-**Bibliography Vocabulary 8**
+## Bibliography Vocabulary 8
 
 Birdseye, Tom Oh Yeah!
 

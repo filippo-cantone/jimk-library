@@ -3,11 +3,12 @@ title: "VOCABULARY 5"
 source_file: "Vocabulary Course Jim/VOCABULARY 5.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: vocabulary
 ---
 
-<img src="assets/VOCABULARY 5/media/image1.png"
-style="width:5.20833in;height:4.125in" />
+<img src="assets/VOCABULARY 5/media/image1.png" />
 
 **VOCABULARY 5**
 
@@ -48,7 +49,7 @@ Under the Quilt of Night - Deborah Hopkinson (See below)
 the still afternoon, mosquitoes whine and tease just like the overseer’s
 children did.*
 
-**Under the Quilt of Night Deborah Hopkinson**
+## Under the Quilt of Night Deborah Hopkinson
 
 RUNNING
 
@@ -442,7 +443,7 @@ and dancing through fields.
 
 I’ll jump every fence in my way.
 
-**My Ol’ Man Patricia Polacco**
+## My Ol’ Man Patricia Polacco
 
 *Whenever I get quiet and still inside and wish I was little again, all
 I have to do is think about my summers in Michigan. When I do this, it
@@ -720,18 +721,17 @@ back Gramma, the parrots, the cruising machine, and, most especially, my
 ol’ man. a memory that will last as long as children tell others about
 fathers they love.
 
-**Mud Mary Lyn Ray**
+## Mud Mary Lyn Ray
 
 A tribute to mud. Simple yet very descriptive.
 
-<img src="assets/VOCABULARY 5/media/image2.jpeg"
-style="width:5in;height:3.75in" />
+<img src="assets/VOCABULARY 5/media/image2.jpeg" />
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 41%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -784,7 +784,7 @@ snow.</em></td>
 </tbody>
 </table>
 
-**Mud Mary Lyn Ray**
+## Mud Mary Lyn Ray
 
 One night it happens.
 
@@ -821,7 +821,7 @@ Come grass.
 
 Come green.
 
-**A Quiet Place Douglas Wood**
+## A Quiet Place Douglas Wood
 
 Sometimes a person needs a quiet place.
 
@@ -1067,12 +1067,12 @@ where you go or where you stay –
 
 the one inside of you.
 
-**A Quiet Place Douglas Wood**
+## A Quiet Place Douglas Wood
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1147,7 +1147,7 @@ elephants</em></p></td>
 </tbody>
 </table>
 
-**Tree of Cranes Allen Say**
+## Tree of Cranes Allen Say
 
 When I was not yet old enough to wear long pants, Mama always worried
 that I might drown in a neighbour’s pond. Time and again she warned me
@@ -1346,12 +1346,12 @@ And like the snowman we made, many years have melted away now. But I
 will always remember that day of peace and quiet. It was my first
 Christmas.
 
-**Tree of Cranes Allen Say**
+## Tree of Cranes Allen Say
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1393,7 +1393,7 @@ worried that I might drown in a neighbour’s pond.</em></td>
 </tbody>
 </table>
 
-**Livingstone Mouse Pamela Duncan Edwards**
+## Livingstone Mouse Pamela Duncan Edwards
 
 He spent his days running here and there, investigating this and that.
 
@@ -1548,12 +1548,12 @@ ever after.”
 
 And that’s exactly what he did.
 
-**Livingstone Mouse Pamela Duncan Edwards**
+## Livingstone Mouse Pamela Duncan Edwards
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1599,7 +1599,7 @@ were stinging, and he still hadn’t found China.</em></p></td>
 </tbody>
 </table>
 
-**Rain Manya Stojic**
+## Rain Manya Stojic
 
 It was hot.
 
@@ -1672,12 +1672,12 @@ The red soil was hot and dry.
 
 A tiny crack appeared.
 
-**Rain Manya Stojic**
+## Rain Manya Stojic
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1715,7 +1715,7 @@ soil.</em></p></td>
 </tbody>
 </table>
 
-**Shrek! William Steig**
+## Shrek! William Steig
 
 His mother was ugly and his father was ugly, but Shrek was uglier than
 the two of them put together. By the time he toddled, Shrek could spit
@@ -1951,12 +1951,12 @@ together.
 So they got hitched as soon as possible. And they lived horribly ever
 after, scaring the socks off all who fell afoul of them.
 
-**Shrek William Steig**
+## Shrek William Steig
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2160,12 +2160,12 @@ A kingfisher roosts for the night and awaits the next dawn at Butternut
 Hollow Pond, where the hunters and the hunted are one and the same, and
 tomorrow is just another day.
 
-**Butternut Hollow Pond Brian Heinz**
+## Butternut Hollow Pond Brian Heinz
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2324,12 +2324,12 @@ blackness, shouting.
 
 Bat loves the night.
 
-**Bat loves the Night Nicola Davies**
+## Bat loves the Night Nicola Davies
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2384,7 +2384,7 @@ going.</em></p></td>
 </tbody>
 </table>
 
-**Birthday Presents Cynthia Rylant**
+## Birthday Presents Cynthia Rylant
 
 When you were born we gave you a kiss. We cried. We counted all the
 little piggies on your hands and feet, and when we told you we loved
@@ -2451,12 +2451,12 @@ piggies, when we cried, when you screamed…
 
 Birthday presents**.**
 
-**Birthday Presents Cynthia Rylant**
+## Birthday Presents Cynthia Rylant
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2498,12 +2498,12 @@ presents.</em></p>
 </tbody>
 </table>
 
-**Cloud Dance Thomas Locker**
+## Cloud Dance Thomas Locker
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2532,7 +2532,7 @@ sunlight.</em></p></td>
 </tbody>
 </table>
 
-**Cloud Dance Thomas Locker**
+## Cloud Dance Thomas Locker
 
 Clouds of many shapes
 
@@ -2624,7 +2624,7 @@ across the sky.
 
 Good-night clouds.
 
-**Dream Weaver Jonathan London**
+## Dream Weaver Jonathan London
 
 Nestled in the soft earth beside the oath, you see a little yellow
 spider.
@@ -2692,12 +2692,12 @@ Good night.
 
 Dream weaver.
 
-**Dream Weaver Jonathan London**
+## Dream Weaver Jonathan London
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2764,8 +2764,8 @@ then tossing them back to the night, where they belong.</em></p></td>
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2825,8 +2825,8 @@ monologue.</td>
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2885,7 +2885,7 @@ wool.</em></td>
 </tbody>
 </table>
 
-**In My New Yellow Shirt Eileen Spinelli**
+## In My New Yellow Shirt Eileen Spinelli
 
 For my birthday, Aunt Betty gave me a new yellow shirt.
 
@@ -2958,12 +2958,12 @@ to sleep.
 
 “Good night, Sam.”
 
-**In My New yellow Shirt Eileen Spinelli**
+## In My New yellow Shirt Eileen Spinelli
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3025,7 +3025,7 @@ window.</em></p></td>
 </tbody>
 </table>
 
-**The Moon was the Best Charlotte Zolotow**
+## The Moon was the Best Charlotte Zolotow
 
 Once a mother and father were going to Paris.
 
@@ -3074,12 +3074,12 @@ whispering and the river reflecting the lights and the moon in the sky.
 “Oh,” said her mother, “the moon was the best because it was the same
 moon shining on you, so I knew we weren’t far apart at all.”
 
-**The Moon Was the Best Charlotte Zolotow**
+## The Moon Was the Best Charlotte Zolotow
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3125,7 +3125,7 @@ close-up of the detail being described.</p>
 </tbody>
 </table>
 
-**Hide and Seek Fog Alvin Tresselt**
+## Hide and Seek Fog Alvin Tresselt
 
 The lobsterman first daw the fog as it rolled in from the sea. He
 watched it turn off the sun-sparkle on the waves, and he saw the water
@@ -3208,12 +3208,12 @@ Then at last the mothers and fathers and all the children came out of
 the shut-in cottages into the fresh, clean air. And the families
 gathered for a clambake on the beach.
 
-**Hide and Seek Fog Alvin Tresselt**
+## Hide and Seek Fog Alvin Tresselt
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3268,7 +3268,7 @@ of creeping.</td>
 </tbody>
 </table>
 
-**Grandpa Never Lies Ralph Fletcher**
+## Grandpa Never Lies Ralph Fletcher
 
 Summers are the best, I get to spend a whole month at Grandma and
 Grandpa’s little house in the woods.
@@ -3322,12 +3322,12 @@ him, “Spending time with you.”
 
 And I never lie, so Grandpa knows it’s true.
 
-**Grandpa Never Lies Ralph Fletcher**
+## Grandpa Never Lies Ralph Fletcher
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3382,7 +3382,7 @@ once again planning summer.</td>
 </tbody>
 </table>
 
-**Long night moon Cynthia Rylant**
+## Long night moon Cynthia Rylant
 
 Long ago Native Americans gave names to the full moons they watched
 throughout the year. Each month had a moon.
@@ -3569,12 +3569,12 @@ This is the faithful moon.
 
 This one is your friend.
 
-**Long Night Moon Cynthia Rylant**
+## Long Night Moon Cynthia Rylant
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3617,7 +3617,7 @@ This one is your friend.
 </tbody>
 </table>
 
-**The Other Way to Listen Byrd Baylor**
+## The Other Way to Listen Byrd Baylor
 
 I used to know He was so
 
@@ -4195,12 +4195,12 @@ sound
 
 in the world.
 
-**The Other Way to Listen Byrd Baylor**
+## The Other Way to Listen Byrd Baylor
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4248,7 +4248,7 @@ that</em></p></td>
 </tbody>
 </table>
 
-**IN NOVEMBER Cynthia Rylant**
+## IN NOVEMBER Cynthia Rylant
 
 In November, the earth is growing quiet. It is making its bed, a winter
 bed for flowers and small creatures. The bed is white and silent, and
@@ -4291,12 +4291,12 @@ In November, at winter’s gate, the stars are brittle. The sun is a
 sometime friend. And the world has tucked her children in, with a kiss
 on their heads, till spring.
 
-**In November Cynthia Rylant**
+## In November Cynthia Rylant
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4345,7 +4345,7 @@ holes.</em></p></td>
 </tbody>
 </table>
 
-**Scarecrow Cynthia Rylant**
+## Scarecrow Cynthia Rylant
 
 His hat is borrowed, his suit is borrowed, his hands are borrowed, even
 his head is borrowed. And his eyes probably came out of someone’s
@@ -4388,12 +4388,12 @@ The scarecrow is thinking his long, slow thoughts …
 
 … and soon, birds will be coming by.
 
-**Scarecrow Cynthia Rylant**
+## Scarecrow Cynthia Rylant
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4518,12 +4518,12 @@ Let’s celebrate!”*
 
 My Mama had a dancing heart and she shared that heart with me.
 
-**My Mamma Had a Dancing Heart Libba Moore Gray**
+## My Mamma Had a Dancing Heart Libba Moore Gray
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4601,7 +4601,7 @@ me.</em></td>
 </tbody>
 </table>
 
-**Storm in the Night Mary Stolz**
+## Storm in the Night Mary Stolz
 
 Storm in the night. Thunder like mountains blowing up. Lightning licking
 the navy-blue sky. Rain streaming down the windows, babbling in the
@@ -4907,12 +4907,12 @@ walked daintily into the garden, shaking his legs.
 
 After a wile the lights came on. They tuned them off and went to bed.
 
-**Storm in the Night Mary Stolz**
+## Storm in the Night Mary Stolz
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4982,7 +4982,7 @@ the downpours.</em></td>
 </tbody>
 </table>
 
-**Tigress Nick Dowson**
+## Tigress Nick Dowson
 
 Twigs with whiskers? A tree with a tail? Or is it a tigress, hiding?
 
@@ -5081,12 +5081,12 @@ walks away. She watches the forest swallow his tail. Then she turns,
 silently crosses the moonlit clearing. And, just like her magic mother,
 the young tigress vanishes.
 
-**Tigress Nick Dowson**
+## Tigress Nick Dowson
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -5156,7 +5156,7 @@ nuzzles.</em></p></td>
 </tbody>
 </table>
 
-**Bibliography Vocabulary 5**
+## Bibliography Vocabulary 5
 
 Baylor, Byrd The Other Way to Listen
 

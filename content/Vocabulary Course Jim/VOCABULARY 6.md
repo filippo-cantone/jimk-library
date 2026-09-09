@@ -3,13 +3,14 @@ title: "VOCABULARY 6"
 source_file: "Vocabulary Course Jim/VOCABULARY 6.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: vocabulary
 ---
 
-<img src="assets/VOCABULARY 6/media/image1.jpeg"
-style="width:2.45347in;height:3.61181in" />
+<img src="assets/VOCABULARY 6/media/image1.jpeg" />
 
-**VOCABULARY 6**
+## VOCABULARY 6
 
 **Essential Components** (See also Diagram Vocabulary 2)
 
@@ -23,7 +24,7 @@ Read Aloud Mentor Texts Wide Reading
 
 Read Along Independent reading
 
-**WORD LEARNING STRATEGIES**
+## WORD LEARNING STRATEGIES
 
 Word-part information Context Clues References
 
@@ -54,7 +55,7 @@ Discussion re meaning
 **Root Word:** A special kind of base word carrying the main part of the
 meaning.
 
-**Affixes:**
+## Affixes:
 
 **Prefix:** A group of letters added to a root word or base word that
 changes its meaning.
@@ -104,7 +105,7 @@ Word search.
 
 Notebooks/Journals.
 
-**Teaching a Suffix**
+## Teaching a Suffix
 
 More difficult because they’re dependent on root/base word or
 grammatical structure of the sentence. And sometimes the suffix doesn’t
@@ -128,7 +129,7 @@ Brainstorm others and list.
 
 Students remove suffix to gain meaning of root/base word.
 
-**Teaching Root Words**
+## Teaching Root Words
 
 Root words are found at the beginning, middle and end of words.
 
@@ -156,7 +157,7 @@ helps comprehension and vocabulary development.
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -189,7 +190,7 @@ sentence?</em></p></td>
 </tbody>
 </table>
 
-**Context Clues**
+## Context Clues
 
 Can be in the same sentence.
 
@@ -207,7 +208,7 @@ Finding synonyms.
 
 Finding antonyms.
 
-**Dictionaries**
+## Dictionaries
 
 If a dictionary is used, students need to know, when defining an unknown
 word:
@@ -222,7 +223,7 @@ Determine which definition makes sense in the context of the text.
 
 If still unsure, discuss further and look at word parts.
 
-**Suffixes:**
+## Suffixes:
 
 Verdi Janell Cannon
 
@@ -231,17 +232,15 @@ Crickwing Janell Cannon
 Reading Janell Cannon’s books, it is very obvious what makes the writing
 so powerful.
 
-<img src="assets/VOCABULARY 6/media/image2.jpeg"
-style="width:2.33333in;height:2.34375in" />
+<img src="assets/VOCABULARY 6/media/image2.jpeg" />
 
 **Crickwing**
 
 **Verdi**
 
-<img src="assets/VOCABULARY 6/media/image3.jpeg"
-style="width:2.25833in;height:2.42639in" />
+<img src="assets/VOCABULARY 6/media/image3.jpeg" />
 
-**Crickwing Janell Cannon**
+## Crickwing Janell Cannon
 
 Far below the great forest canopy lies a shadowy world that many insects
 call home. Among the damp clutter of fallen leaves and branches,
@@ -466,7 +465,7 @@ holiday,” she yawned.
 And for the first time in colony history, the leafcutters took a day
 off.
 
-**Verdi Janell Cannon**
+## Verdi Janell Cannon
 
 On a small tropical island, the sun rose high above the steamy jungle. A
 mother python was sending her hatchlings out into the forest the way all
@@ -662,7 +661,7 @@ With practice the three snakes performed a perfect triple figure eight.
 Leaping and looping with his little striped friends, Verdi laughed. “I
 may be big and very green, but I’m still me!”
 
-**Verdi**
+## Verdi
 
 called scattered zigzagged wondered
 
@@ -682,7 +681,7 @@ untied marvelled approached smiled
 
 astounded performed
 
-**Words instead of ‘said.’**
+## Words instead of ‘said.’
 
 groaned asked grumbled complained
 
@@ -692,7 +691,7 @@ asked replied whispered snickered
 
 laughed
 
-**-ing**
+## -ing
 
 lazing hatchlings interrupting fidgeting
 
@@ -702,7 +701,7 @@ sending slapping complaining worrying
 
 plummeting shaking
 
-**Crickwing**
+## Crickwing
 
 despised twisted avoided created
 
@@ -726,7 +725,7 @@ plummeted insisted stopped scrapped
 
 promised described stunned swarmed
 
-**-ing**
+## -ing
 
 hearing staying crawling interesting
 
@@ -736,29 +735,28 @@ carrying picking meeting whispering
 
 offering creeping
 
-**-est**
+## -est
 
 hugest strangest greenest darkest
 
-**Hyphenated Adjectives**
+## Hyphenated Adjectives
 
 leaf-cutting sharp-eyed
 
-**Moosetache Margie Palatini**
+## Moosetache Margie Palatini
 
 A moose is tormented by his unruly and prolific moustache. His problems
 are finally solved when he meets the moose of his dreams and she
 introduces him to a special pot of glue she uses to tame her own crazy
 locks.
 
-<img src="assets/VOCABULARY 6/media/image4.jpeg"
-style="width:2.1875in;height:2.86458in" />
+<img src="assets/VOCABULARY 6/media/image4.jpeg" />
 
-**Prefix**
+## Prefix
 
 Un –
 
-**Wordplay**
+## Wordplay
 
 Explore the amusing wordplay in Moosetache.
 
@@ -770,7 +768,7 @@ Mooseltoe
 
 Moosekitos
 
-**Moosetache Margie Palatini**
+## Moosetache Margie Palatini
 
 Moose had a problem. A horrible, hairy, prickly problem. It grew right
 below his nostrils and just above his upper lip.
@@ -923,10 +921,9 @@ It was so simple. So easy. So perfectly perfect.
 
 And- **it stuck.**
 
-**The Sign of the Seahorse Graeme Base**
+## The Sign of the Seahorse Graeme Base
 
-<img src="assets/VOCABULARY 6/media/image5.jpeg"
-style="width:5.20833in;height:3.20833in" />
+<img src="assets/VOCABULARY 6/media/image5.jpeg" />
 
 The Sign of the Seahorse is an illustrated children's book by Graeme
 Base. It was published in 1992. Originally designed by Base to become a
@@ -982,11 +979,11 @@ characters.
 
 **Kevin and the Kippers,** a popular Reeftown dance band.
 
-**Various fine young Fish and other Reef-Folk**
+## Various fine young Fish and other Reef-Folk
 
 **Strange, Creepy Creatures** of the Deep.
 
-**Seahorses**
+## Seahorses
 
 And two largely unnoticed **Shrimps**
 
@@ -1969,12 +1966,11 @@ Beneath a pile of filthy plates, at last he understood,
 
 That Greed Brought only Ruin, and the Tide had Turned for Good.
 
-**A Visitor for Bear Bonny Becker**
+## A Visitor for Bear Bonny Becker
 
-<img src="assets/VOCABULARY 6/media/image6.jpeg"
-style="width:5.02083in;height:3.37778in" />
+<img src="assets/VOCABULARY 6/media/image6.jpeg" />
 
-**Prefixes**
+## Prefixes
 
 Un-
 
@@ -1996,7 +1992,7 @@ unboarded
 
 unlocked
 
-**Synonyms**
+## Synonyms
 
 Begone, out, vamoose
 
@@ -2008,7 +2004,7 @@ Sequencing
 
 Character study.
 
-**A Visitor for Bear Bonny Becker**
+## A Visitor for Bear Bonny Becker
 
 *No one ever came to Bear’s house. It had always been that way, and Bear
 was quite sure he didn’t like visitors. He even had a sign:*
@@ -2160,8 +2156,7 @@ Bear nodded. The mouse’s bright eyes glowed brighter. Bear smiled.
 
 **Superlative:** The greatest form of adjective or adverb comparisons.
 
-<img src="assets/VOCABULARY 6/media/image7.jpeg"
-style="width:2.76667in;height:3.45833in" />
+<img src="assets/VOCABULARY 6/media/image7.jpeg" />
 
 (See lesson taken in Grade 3)
 
@@ -2326,7 +2321,7 @@ himself.
 
 And the **highest** thing in the world is the very top of the sky.
 
-**Prefixes**
+## Prefixes
 
 |            |                                            |                                                                              |
 |------------|--------------------------------------------|------------------------------------------------------------------------------|
@@ -2445,7 +2440,7 @@ And the **highest** thing in the world is the very top of the sky.
 | up-        | greater, higher                            | upgrade, uplift, upturn                                                      |
 | with-      | against                                    | withdraw, withhold, without, withstand                                       |
 
-**Suffixes**
+## Suffixes
 
 |            |                                                     |                                                                                                                     |
 |------------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
@@ -2495,7 +2490,7 @@ And the **highest** thing in the world is the very top of the sky.
 | -ure       | an action or process, a collective                  | legislature, procedure, scripture                                                                                   |
 | -y         | full of, denoting a condition, or a diminutive      | glory, hungry, messy, jealousy, sleepy                                                                              |
 
-**CONTEXT**
+## CONTEXT
 
 The amount of time spent reading is the best predictor of vocabulary
 growth.
@@ -2537,7 +2532,7 @@ with words from other languages.
 Follow up: Spooner or Later by Paul Jennings, Ted Greenwood and Terry
 Denton.
 
-**Baloney (Henry P.) Jon Scieszka**
+## Baloney (Henry P.) Jon Scieszka
 
 Last Tuesday morning, at 8:37 a.m., Henry P. Baloney was finally late
 for class once too often.
@@ -2648,7 +2643,7 @@ zerplatzen German splattering
 
 zimulis Latvian pencil
 
-**Baloney (Henry P.) Jon Scieszka**
+## Baloney (Henry P.) Jon Scieszka
 
 Last Tuesday morning, at 8:37 a.m., Henry P. Baloney was finally late
 for class once too often.
@@ -2811,30 +2806,30 @@ vis-à-vis in relation to French
 
 wanderlust passion for travelling German
 
-**Silver Seeds Paul Paolilli**
+## Silver Seeds Paul Paolilli
 
 Nature acrostic poems. As with the acrostic poetry described in our
 poetry courses, the poems here flow as whole thoughts. It provides a
 great mentor for developing vocabulary in the context of a theme.
 
-**Autumn: An Alphabet Acrostic Steven Schnur**
+## Autumn: An Alphabet Acrostic Steven Schnur
 
 Spring was quoted in the Poetry course. Autumn takes us from ‘acorn’ to
 ‘zero’. I also have Summer – only Winter to go!
 
-**The Remarkable Farkle McBride John Lithgow**
+## The Remarkable Farkle McBride John Lithgow
 
 Young Farkle masters every instrument but gets tired of them quickly.
 Eventually he discovers his real musical love – conducting.
 
-**The War Between the Vowels and the Consonants Priscilla Turner**
+## The War Between the Vowels and the Consonants Priscilla Turner
 
 The vowels and consonants fight each other until they realise …
 
 “*Just think what we can accomplish together … The poems! The plays! Our
 memoirs!”*
 
-**Dumpy La Rue Elizabeth Winthrop**
+## Dumpy La Rue Elizabeth Winthrop
 
 A rhyming story about a pig whose passion for dancing becomes
 contagious.
@@ -2851,7 +2846,7 @@ contagious.
 
 **N**ew day.
 
-**Sun**
+## Sun
 
 **S**liding through the window,
 
@@ -2859,7 +2854,7 @@ contagious.
 
 **N**udging us out to play.
 
-**Shadow**
+## Shadow
 
 **S**ilent friend
 
@@ -2873,7 +2868,7 @@ contagious.
 
 **W**ith black crayon.
 
-**Hills**
+## Hills
 
 **H**uge elephants
 
@@ -2885,7 +2880,7 @@ contagious.
 
 **S**leeping.
 
-**Trees**
+## Trees
 
 **T**iny hands
 
@@ -2897,7 +2892,7 @@ contagious.
 
 **S**ky.
 
-**Leaf**
+## Leaf
 
 **L**oose brown parachute
 
@@ -2907,7 +2902,7 @@ contagious.
 
 **F**loating on puffs of air.
 
-**Bee**
+## Bee
 
 **B**zzzzzzz …
 
@@ -2915,7 +2910,7 @@ contagious.
 
 **E**ars.
 
-**Butterfly**
+## Butterfly
 
 **B**obbing
 
@@ -2935,7 +2930,7 @@ contagious.
 
 **Y**our shoulder.
 
-**Hummingbird**
+## Hummingbird
 
 **H**overing
 
@@ -2959,7 +2954,7 @@ contagious.
 
 **D**arts and dashes.
 
-**Clouds**
+## Clouds
 
 **C**reamy scoops of ice cream
 
@@ -2973,7 +2968,7 @@ contagious.
 
 **S**ky.
 
-**Fog**
+## Fog
 
 **F**olds and folds
 
@@ -2981,7 +2976,7 @@ contagious.
 
 **G**rey blanket over the land.
 
-**Rain**
+## Rain
 
 **R**ap-tap-tapping
 
@@ -2991,7 +2986,7 @@ contagious.
 
 **N**otes
 
-**Moon**
+## Moon
 
 **M**arvellous melon, whole
 
@@ -3001,7 +2996,7 @@ contagious.
 
 **N**ight
 
-**Stars**
+## Stars
 
 **S**ilver seeds
 
@@ -3013,7 +3008,7 @@ contagious.
 
 **S**prouting wonder.
 
-**Night**
+## Night
 
 **N**ow it
 
@@ -3025,7 +3020,7 @@ contagious.
 
 **T**ill tomorrow comes.
 
-**The Remarkable Farkle McBride John Lithgow**
+## The Remarkable Farkle McBride John Lithgow
 
 Oh, pity the prodigy, Farkle McBride!
 
@@ -3361,7 +3356,7 @@ we can accomplish together … The Poems! The plays! Our memoirs!”
 Then they strolled back to the Supreme Command’s tent for a couple of
 truly excellent chocolate cigars.
 
-**Dumpy La Rue Elizabeth Winthrop**
+## Dumpy La Rue Elizabeth Winthrop
 
 Dumpy La Rue wanted to dance.
 
@@ -3609,12 +3604,11 @@ The pig who knew
 
 what he wanted to do.
 
-**Portmanteau Words**
+## Portmanteau Words
 
 A word created by fusing two words to combine the meaning of both words.
 
-<img src="assets/VOCABULARY 6/media/image8.jpeg"
-style="width:2.08333in;height:3.125in" />
+<img src="assets/VOCABULARY 6/media/image8.jpeg" />
 
 The portmanteau in Alice’s Wonderland.
 
@@ -3991,8 +3985,7 @@ dryers or gas-powered lawn mowers. Walter lay back and smiled. “I like
 it here,” he told the man, then drifted off to sleep in the shade of the
 two giant trees – the trees he and Rose had planted so many years ago.
 
-<img src="assets/VOCABULARY 6/media/image9.jpeg"
-style="width:1.67361in;height:2.49861in" />
+<img src="assets/VOCABULARY 6/media/image9.jpeg" />
 
 **Bibliography Vocabulary 6**
 
@@ -4012,7 +4005,7 @@ Palatine, Margie Moostache
 
 Walton, Rick Pig, Pigger, Piggest
 
-**Context**
+## Context
 
 Lithgow, John The Remarkable Farkle McBride
 
@@ -4024,13 +4017,13 @@ Turner, Priscilla The War between the Vowels and the Consonants
 
 Winthrop, Elizabeth Dumpy LaRue
 
-**Portmanteau**
+## Portmanteau
 
 Carroll, Lewis Jabberwocky
 
 Van Allsburg, Chris Just a Dream
 
-**More Memorable Books**
+## More Memorable Books
 
 Gollub, Matthew The Jazz Fly
 
@@ -4044,7 +4037,7 @@ Rylant, Cynthia The Whales
 
 Steig, William Sylvester and the Magic Pebble
 
-**The Jazz Fly Matthew Gollub**
+## The Jazz Fly Matthew Gollub
 
 Zzz … zzz …
 
@@ -4156,7 +4149,7 @@ friends in a limo each day!
 *Ruba Zop RRuffff! OINK Za-Ba! Zee-za Rribit! Hee Haw Zu-ba! Nree-na-noo
 Boogie Bim-Bom Za-ba-OINK da-ba RRIBIT Hee-Haw roni!*
 
-**Bad Boys Margie Palatini**
+## Bad Boys Margie Palatini
 
 Those bad boys, Willy and Wally Wolf, were in trouble. Again. And now
 they were on the run – with everyone hot on their tails.
@@ -4533,7 +4526,7 @@ put the magic pebble in an iron safe. Some day they might want to use
 it, but really, for now, what more could they wish for? They had all
 that they wanted.
 
-**The Whales Cynthia Rylant**
+## The Whales Cynthia Rylant
 
 In the blackness of the Black Sea, the whales are thinking today.
 
@@ -4580,7 +4573,7 @@ babies are drinking their mothers’ milk and their fathers are singing
 nearby. They are floating like feathers in the deep blue green. They are
 floating like feathers in a sky.
 
-**Crow Call Lois Lowry**
+## Crow Call Lois Lowry
 
 It’s morning, early, barely light, cold for November. At home, in the
 bed next to mine, Jessica, my older sister still sleeps. But my bed is
@@ -4816,7 +4809,7 @@ everything that goes in between. Then I put it into the pocket of my
 shirt and reach over, out of my enormous cuff, and take my father’s
 hand.
 
-**Zoom Broom Margie Palatini**
+## Zoom Broom Margie Palatini
 
 Gritch the Witch plunked down in her batwing chair with a dusty
 KER-PLOP.

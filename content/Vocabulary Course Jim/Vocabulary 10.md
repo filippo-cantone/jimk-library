@@ -3,18 +3,18 @@ title: "Vocabulary 10"
 source_file: "Vocabulary Course Jim/Vocabulary 10.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: vocabulary
 ---
 
-<img src="assets/Vocabulary 10/media/image1.jpeg"
-style="width:4.82292in;height:3.16667in" />
+<img src="assets/Vocabulary 10/media/image1.jpeg" />
 
 **Vocabulary 10**
 
 **Atlantic Brian Karas**
 
-<img src="assets/Vocabulary 10/media/image2.jpeg"
-style="width:2.30972in;height:2.40556in" />
+<img src="assets/Vocabulary 10/media/image2.jpeg" />
 
 Poetic text and wondrous paintings explore what the Atlantic Ocean is,
 how far it stretches, how the moon affects it, and other
@@ -22,8 +22,8 @@ characteristics, as described by the ocean itself.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -67,7 +67,7 @@ characteristics, as described by the ocean itself.
 </tbody>
 </table>
 
-**Lesson:**
+## Lesson:
 
 Read Aloud/Read Along
 
@@ -99,7 +99,7 @@ The Westgate Bridge
 
 The Yarra River
 
-**Atlantic**
+## Atlantic
 
 |                     |           |
 |---------------------|-----------|
@@ -113,12 +113,12 @@ The Yarra River
 | Birds               |           |
 | Sand/pebbles/shells |           |
 
-**Atlantic**
+## Atlantic
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -166,7 +166,7 @@ The Yarra River
 </tbody>
 </table>
 
-**Atlantic Brian Karas**
+## Atlantic Brian Karas
 
 I am the Atlantic Ocean.
 
@@ -307,7 +307,7 @@ Don’t forget I am here.
 
 I am the Atlantic Ocean.
 
-**Some Things About Me**
+## Some Things About Me
 
 I am not the world’s largest ocean, that’s the Pacific. But I have many
 miles of shoreline because of my inlets, bays, gulfs, seas, sounds and
@@ -342,8 +342,7 @@ between Americas to the East of the Pacific Ocean basin and the Asian
 and Australian continents to the West as you can see on the map of the
 Pacific Ocean below:
 
-<img src="assets/Vocabulary 10/media/image3.png"
-style="width:4.80278in;height:4.34375in" />
+<img src="assets/Vocabulary 10/media/image3.png" />
 
 **Name**: What does pacific mean? Pacific means "peaceful", coming from
 the Latin "pace" for peace and the Pacific Ocean got its name from the
@@ -369,8 +368,7 @@ was formed by the collision of two tectonic plates.
 Why is it called Challenger Deep? Because it was researched by the HMS
 Challenger in 1875.
 
-<img src="assets/Vocabulary 10/media/image4.png"
-style="width:5.50139in;height:3.96319in" />
+<img src="assets/Vocabulary 10/media/image4.png" />
 
 **Volcanoes**: What is the ring of fire? Most of the volcanoes (actually
 75%) on earth are located in the Pacific Ocean basin, the volcanoes
@@ -423,10 +421,9 @@ animals, also form many atolls in the Pacific Oceans.
 Did you know that most of the world’s supply of fish is caught in the
 Pacific?
 
-**Earthdance Joanne Ryder**
+## Earthdance Joanne Ryder
 
-<img src="assets/Vocabulary 10/media/image5.jpeg"
-style="width:2.17639in;height:2.38542in" />
+<img src="assets/Vocabulary 10/media/image5.jpeg" />
 
 Earthdance is written entirely in metaphor.
 
@@ -435,8 +432,8 @@ to become not just part of the earth, but Earth itself.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -474,7 +471,7 @@ to become not just part of the earth, but Earth itself.
 </tbody>
 </table>
 
-**Earthdance Joanne Ryder**
+## Earthdance Joanne Ryder
 
 Imagine you are standing tall in an empty space.
 
@@ -656,10 +653,9 @@ under their feet,
 
 and treasure you.
 
-**The Dinosaurs of Waterhouse Hawkins Barbara Kerley**
+## The Dinosaurs of Waterhouse Hawkins Barbara Kerley
 
-<img src="assets/Vocabulary 10/media/image6.jpeg"
-style="width:2.39583in;height:3.33333in" />**  
+<img src="assets/Vocabulary 10/media/image6.jpeg" />**  
 **
 
 The Dinosaurs of Waterhouse Hawkins is the true story of Victorian
@@ -676,8 +672,7 @@ of Hawkins’ models have been found to be inaccurate, the true subject of
 this book is his passion for the ancient creatures. Brian Selznick’s
 artwork contributes as much to the story's exuberance as the words do.
 
-<img src="assets/Vocabulary 10/media/image7.jpeg"
-style="width:2.76042in;height:4.16667in" />
+<img src="assets/Vocabulary 10/media/image7.jpeg" />
 
 When the scientists arrived for their elegant, catered dinner, they
 found themselves seated at a table inside the model of the iguanodon!
@@ -687,42 +682,34 @@ in his research. He transformed the above invitation into a lovely
 bookplate for the book itself. Below is an engraving from the London
 Illustrated News (from Cabinet magazine) of the dinner party.
 
-<img src="assets/Vocabulary 10/media/image8.jpeg"
-style="width:4.16667in;height:2.91667in" />
+<img src="assets/Vocabulary 10/media/image8.jpeg" />
 
 Wood cut illustrations of Hawkins' Crystal Palace Prehistoric Animals as
 published in Johnson's Natural History 1871.
 
-<img src="assets/Vocabulary 10/media/image9.jpeg"
-style="width:3.23681in;height:4.52986in" />
+<img src="assets/Vocabulary 10/media/image9.jpeg" />
 
 Hawkins' Sydenham Studio
 
-<img src="assets/Vocabulary 10/media/image10.jpeg"
-style="width:4.6in;height:3.09722in" />
+<img src="assets/Vocabulary 10/media/image10.jpeg" />
 
 Iguanodon
 
-<img src="assets/Vocabulary 10/media/image11.jpeg"
-style="width:5.37292in;height:4in" />
+<img src="assets/Vocabulary 10/media/image11.jpeg" />
 
 Megalosaurus
 
-<img src="assets/Vocabulary 10/media/image12.jpeg"
-style="width:5.12778in;height:3.55347in" />
+<img src="assets/Vocabulary 10/media/image12.jpeg" />
 
 Hyleosaurus
 
-<img src="assets/Vocabulary 10/media/image13.jpeg"
-style="width:5.19236in;height:3.50833in" />
+<img src="assets/Vocabulary 10/media/image13.jpeg" />
 
 Dinotherium
 
-<img src="assets/Vocabulary 10/media/image14.jpeg"
-style="width:4.14583in;height:4.54167in" />
+<img src="assets/Vocabulary 10/media/image14.jpeg" />
 
-<img src="assets/Vocabulary 10/media/image15.jpeg"
-style="width:6.45833in;height:3.36458in" />
+<img src="assets/Vocabulary 10/media/image15.jpeg" />
 
 **The Dinosaurs of Waterhouse Hawkins**
 
@@ -979,7 +966,7 @@ of Waterhouse Hawkins.
 And while his American dinosaurs no longer stand, somewhere, buried in
 Central Park, pieces of his dinosaurs remain.
 
-**The Dinosaurs of Waterhouse Hawkins Illustrator's Note**
+## The Dinosaurs of Waterhouse Hawkins Illustrator's Note
 
 Maybe it was because I love to build models or because I've always been
 fascinated by dinosaurs and cannot resist a good mystery, but from the
@@ -1042,7 +1029,7 @@ I had never heard about Waterhouse Hawkins before I began work on this
 book, but suddenly he became the centre of my life. I hope you've
 enjoyed learning about him and his dinosaurs as much as I have.
 
-**Brian Selznick Interview Transcript**
+## Brian Selznick Interview Transcript
 
 Illustrator Brian Selznick was interviewed by Scholastic students.
 
@@ -1300,11 +1287,9 @@ brick-and iron support.
 
 The finished statue was then painted.
 
-<img src="assets/Vocabulary 10/media/image16.jpeg"
-style="width:3.18889in;height:4.25069in" />
+<img src="assets/Vocabulary 10/media/image16.jpeg" />
 
-<img src="assets/Vocabulary 10/media/image17.jpeg"
-style="width:5.20764in;height:3.64444in" />
+<img src="assets/Vocabulary 10/media/image17.jpeg" />
 
 **Interpret words and phrases as they are used in a text, including
 determining technical, connotative, and figurative meanings, and analyse
@@ -1349,8 +1334,8 @@ Lessons:
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1390,13 +1375,13 @@ and dodged on their way to school.</em></td>
 </tbody>
 </table>
 
-**Independent Reading**
+## Independent Reading
 
 The Dinosaurs of Waterhouse Hawkins by Barbara Kerley
 
 Benjamin Waterhouse Hawkins – Dinosaur History, Brooklyn College.
 
-**Independent Writing**
+## Independent Writing
 
 The Dinosaurs of Waterhouse Hawkins – Writing a biography
 
@@ -1413,8 +1398,7 @@ estimate the size and overall shape of these dinosaurs, and Hawkins
 sculpted life size models following Owen's directions. It was inside
 Hawkins' "Iguanodon" that Owen held his famous dinner meeting.
 
-<img src="assets/Vocabulary 10/media/image18.png"
-style="width:2.75in;height:3.30208in" />
+<img src="assets/Vocabulary 10/media/image18.png" />
 
 Hawkins' dinosaurs were also a prime attraction at the Crystal Palace
 Exhibition of 1853-54, an event which heralded British industrial
@@ -1426,8 +1410,7 @@ through the dinosaur islands was soon a popular part of a visit to this
 first large, iron girder and glass building, and public awareness of
 dinosaurs sky-rocketed.
 
-<img src="assets/Vocabulary 10/media/image19.jpeg"
-style="width:5.11667in;height:7.87986in" />
+<img src="assets/Vocabulary 10/media/image19.jpeg" />
 
 Hawkins' dinosaurs were to the mid-19th century what Spielberg's movie
 Jurassic Park has been to the late 20th - they brought dinosaurs to the
@@ -1436,8 +1419,7 @@ Palace, which burnt to the ground several decades later. In contrast,
 the sculptured dinosaurs still stand in Sydenham Park south of London.
 The figure below shows the Hawkins-Owen Iguanodon as it now appears.
 
-<img src="assets/Vocabulary 10/media/image20.jpeg"
-style="width:5.76806in;height:6.59444in" />
+<img src="assets/Vocabulary 10/media/image20.jpeg" />
 
 Following his success with the Crystal Palace Exhibition, Hawkins came
 to New York City with the intent of recreating on one side of the
@@ -1452,8 +1434,7 @@ left foreground is a reclining Iguanodon. The skeleton modelled at the
 rear is that of Hadrosaurus, an American dinosaur described by Joseph
 Leidy in 1858
 
-<img src="assets/Vocabulary 10/media/image21.png"
-style="width:4.16667in;height:2.625in" />
+<img src="assets/Vocabulary 10/media/image21.png" />
 
 However, in 1871, before either the park or the dinosaurs were finished,
 New York City politics intervened. The corrupt Tammany Hall-Boss Tweed
@@ -1466,7 +1447,7 @@ far from Umpire Rock and the Heckscher ballfields. Could one of the
 pitchers' mounds really be a small embankment covering the severed head
 of Megalosaurus? Who knows, maybe so.
 
-**Writing an Extraordinary Biography (According to Barbara Kerley\*)**
+## Writing an Extraordinary Biography (According to Barbara Kerley\*)
 
 YOU can write a biography, too. Why not start with a member of your
 family, like Susy Clemens did when she wrote about her papa, Mark Twain?
@@ -1521,10 +1502,9 @@ lots of people eager to see you write your own, extraordinary biography.
 Barbara Kerley, illustrated by Edwin Fotheringham (Scholastic Press,
 2010)*
 
-**Becoming Naomi Leon Pam Munoz Ryan**
+## Becoming Naomi Leon Pam Munoz Ryan
 
-<img src="assets/Vocabulary 10/media/image22.jpeg"
-style="width:2in;height:3.03125in" />
+<img src="assets/Vocabulary 10/media/image22.jpeg" />
 
 Naomi Soledad Leon Outlaw lives with younger brother Owen and her
 fiercely practical Gram in a trailer park in California. An unpopular
@@ -1574,7 +1554,7 @@ about their names. *How were your names chose*n?
 Think about names you wish you had or names that would describe what you
 are really like.
 
-**Making Lists**
+## Making Lists
 
 Throughout the book Naomi creates lists. Students begin a journal of
 lists. The first two lists Naomi makes are:
@@ -1586,7 +1566,7 @@ Regular and Everyday Worries.
 As you continue to read the book, add to your lists daily or whenever
 needed. Periodically, share lists.
 
-**Organisation**
+## Organisation
 
 Each section is titled with a collective noun. The first and last are
 like a prologue and epilogue with chapters in between. If read as a Read
@@ -1594,7 +1574,7 @@ Aloud each section is suitable for discussion, Writer’s Notebook entries
 and vocabulary development. The same guide could be used if the novel is
 read for a Literature Discussion Group.
 
-**A Rabble of Yesterdays**
+## A Rabble of Yesterdays
 
 What is a rabble? What does this title mean?
 
@@ -1625,7 +1605,7 @@ that?
 Vocabulary: Keep a list of similes used throughout the novel. (see list
 below).
 
-**Chapter 1: A Paddling of Ducks**
+## Chapter 1: A Paddling of Ducks
 
 *Chewing on the end of my pencil, I got back to my list which Gram said
 was one of the things I did best. I had all kinds of lists in my
@@ -1638,7 +1618,7 @@ Gram was going to die because she was old, 2) Owen would never be right,
 lists, and 5) Abominations. I made lists of splendid words, types of
 rocks, books I read, and unusual names.*
 
-**Vocabulary**
+## Vocabulary
 
 mulled iota self-prophecy spittle
 
@@ -1648,7 +1628,7 @@ sanctuary corralled predisposition
 
 companionship whiff
 
-**Similes Becoming Naomi Leon**
+## Similes Becoming Naomi Leon
 
 *the day was dark as pine pitch*
 
@@ -1743,7 +1723,7 @@ flour sack.*
 *A sensation came over me, as if someone had unlatched a gate that freed
 a herd of wild lunging animals*
 
-**Chapter 2: A Skulk of Foxes**
+## Chapter 2: A Skulk of Foxes
 
 *Then we heard Skyla yell, “You can go along with me or not. I’m their
 mother and Clive says I have rights.”*
@@ -1763,7 +1743,7 @@ long was she going to stay? Would she like us?*
 Read and think about the questions Naomi asks herself about her mother.
 What do you think the answers are?
 
-**Vocabulary**
+## Vocabulary
 
 apparition gardenia queasy swarmed
 
@@ -1771,7 +1751,7 @@ flimsy maiden name whorl
 
 selective mutism insecurities
 
-**Chapter 3: A Lamentation of Swans**
+## Chapter 3: A Lamentation of Swans
 
 *I even had a list in my notebook called “Things That Were the Good and
 the Bad All Rolled into One”: 1) We had a trailer so we lived real
@@ -1784,7 +1764,7 @@ moment to me an Owen.*
 Why are the things on the lists good and bad? Add a Things That Were the
 Good and the Bad All Rolled into One list to your journal of lists.
 
-**Vocabulary**
+## Vocabulary
 
 glorified rehashing widowed obligations
 
@@ -1794,8 +1774,8 @@ catastrophe
 
 <table>
 <colgroup>
-<col style="width: 40%" />
-<col style="width: 59%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1864,7 +1844,7 @@ among all people.</td>
 </tbody>
 </table>
 
-**Chapter 4: A Memory of Elephants**
+## Chapter 4: A Memory of Elephants
 
 *A body would think that since I was half Mexican I could speak the
 language, too, but I couldn’t. I understood a little just from being
@@ -1883,7 +1863,7 @@ Elephants remind Noami of her father.
 
 Writer’s Notebook: Objects and Memories.
 
-**Vocabulary**
+## Vocabulary
 
 makeshift shimmying crocheted riled
 
@@ -1891,7 +1871,7 @@ legal-like disposition temperamental
 
 recollection pried deformed jumble
 
-**Chapter 5: A Charm of Hummingbirds**
+## Chapter 5: A Charm of Hummingbirds
 
 *“Oh, today was shopping-for-the-girls day. Next time I go, I’ll shop
 for Owen.”*
@@ -1900,20 +1880,20 @@ Skyla didn’t buy anything for Owen. Discuss your feelings about this.
 
 Are there any Text-to-Self connections here?
 
-**Prediction:**
+## Prediction:
 
 Do you think that Naomi's classmates will notice her hair and new
 clothes? Why or why not?
 
 How do you think this will make Naomi feel?
 
-**Vocabulary**
+## Vocabulary
 
 bird-of-paradise flitting spiffy raspy
 
 tender nimble coax
 
-**Chapter 6: A School of Fish**
+## Chapter 6: A School of Fish
 
 Revise or Confirm Your Prediction
 
@@ -1922,16 +1902,16 @@ have to revise your prediction or was your prediction correct?
 
 Start a splendid words list like Naomi.
 
-**Questions: Change**  
+## Questions: Change
 Why does Naomi feel like a shiny penny?  
 What changes has she faced? Are these all positive changes? Explain your
 thinking!
 
-**Vocabulary**
+## Vocabulary
 
 jabber-mouth elaborately plaited ambience
 
-**Chapter 7: An Unkindness of Ravens**
+## Chapter 7: An Unkindness of Ravens
 
 *I was right, and it didn’t stop there. As soon as we got to school,
 Dustin Mullholler, one of the boys who taunted me about my name, walked
@@ -1944,18 +1924,18 @@ anything lately?*
 
 Name-calling.
 
-**Vocabulary**  
+## Vocabulary
 dapper taunted *Mexican bandido*  straggle  
 strained lustre rumpled hoisted  
 irrational vicious
 
-**Chapter 8: A Burden of Mules**
+## Chapter 8: A Burden of Mules
 
 *“It’s not going to start up no matter how hard we stare. A watched pot
 doesn’t boil, although, Naomi, I’ve been sitting here watching you and
 you look like you’re going to burst.”*
 
-**Discussion:**
+## Discussion:
 
 Naomi was furious at her mother for not showing up to the teacher
 conferences. What is something that has made you angry?
@@ -1969,7 +1949,7 @@ pain?
 
 Explain your thinking!
 
-**Vocabulary**
+## Vocabulary
 
 burden vacant deliberately cattywampus
 
@@ -1979,7 +1959,7 @@ summon nettles pitiful affection
 
 lurking
 
-**Chapter 9: A Shiver of Sharks**
+## Chapter 9: A Shiver of Sharks
 
 *I headed for the cupboard to get the tablecloth. Maybe if I looked hard
 enough I could find all eight cloth napkins that matched. I wanted us
@@ -1987,7 +1967,7 @@ all to sit down and have dinner like those families in Gram’s lady
 magazines. The ones in the photos, passing the food with smiles on their
 faces and oozing politeness.*
 
-**Vocabulary**
+## Vocabulary
 
 etched gnarled fretting dandy
 
@@ -1997,7 +1977,7 @@ dependents custody clutching prying
 
 muster wadded impression crippled
 
-**Chapter 10: A Schizophrenia of Hawks**
+## Chapter 10: A Schizophrenia of Hawks
 
 *After Owen hopped up and went into the adjoining room, Dr Navarro
 turned to Skyla. “At this juncture, there is nothing more to do. He’s
@@ -2022,7 +2002,7 @@ more we can do surgically, for now. He’s just going to be – “*
 shrill. “As if I don’t have enough problems! This is … is …
 embarrassing!”*
 
-**Questions:**
+## Questions:
 
 What do you think about the term “Funny Looking Kid?” Why is Skyla
 upset? How do you think Owen feels about this?
@@ -2035,7 +2015,7 @@ Why or why not?
 
 What would you have done if you were Naomi?
 
-**Vocabulary**
+## Vocabulary
 
 booze caterwaul consultation accommodate
 
@@ -2045,7 +2025,7 @@ instincts bristled defying morsel
 
 murky
 
-**Chapter 11: A Flight of Swallows**
+## Chapter 11: A Flight of Swallows
 
 *"... She held up a big driving map of Mexico. A red marker lined our
 route.*
@@ -2064,10 +2044,9 @@ Wah-hah-kah. And here, at this star, is Oaxaca City, the capital of the
 state and the town where our family lives. They are very excited that we
 are coming."*
 
-<img src="assets/Vocabulary 10/media/image23.jpeg"
-style="width:5.63542in;height:3.96875in" />
+<img src="assets/Vocabulary 10/media/image23.jpeg" />
 
-**Vocabulary**
+## Vocabulary
 
 shorn winced custody hitch
 
@@ -2075,7 +2054,7 @@ prophecy lam guardianship
 
 notarised mediator prospect
 
-**Chapter 12: A Drey of Squirrels**
+## Chapter 12: A Drey of Squirrels
 
 *“When I turned to “Things I Saw on My Way to Oaxaca,” I read aloud: “1)
 Lots of brown desert, 2) Cows, 3) Honking cars that wanted Baby Beluga
@@ -2088,7 +2067,7 @@ Barrio Jalatlaco can be accessed on video.
 
 Students may also be interested in using Google earth.
 
-**Names**
+## Names
 
 Reread chapter 12 to find out what Naomi learns about her last name León
 and her middle name Soledad.
@@ -2115,13 +2094,13 @@ How do you think change affects identity?
 Take time to link this idea of place with our Poetry course – Querencia
 – reprinted here for reference.
 
-**Vocabulary**
+## Vocabulary
 
 antsy wispy mottled rickety
 
 jacaranda bougainvillea pudgy
 
-**QUERENCIA**
+## QUERENCIA
 
 “… a place where one feels safe, a place from which one’s strength of
 character is drawn, a place where one feels at home.” (Spanish)
@@ -2192,7 +2171,7 @@ Use your Writer’s Notebook to begin ideas – to sow the seeds.
 *“A Notebook is a conversation with yourself. And it’s your job as a
 writer to keep up the conversation.” (Georgia Heard)*
 
-**Writing, paying attention to your inner voice: Personal Monologue**
+## Writing, paying attention to your inner voice: Personal Monologue
 
 Be guided by your inner voice: how you feel; what you see; what
 questions you have; and what you remember.
@@ -2487,7 +2466,7 @@ in the morning when I surface, wet and streaked with daylight.
 >
 > **Maddy Johnson Gr 6 Wembley**
 
-**Chapter 13: A Sleuth of Bears**
+## Chapter 13: A Sleuth of Bears
 
 *" …After five blocks we reached a building that looked like a big white
 warehouse. On the front, giant red letters formed the words Mercado de
@@ -2503,7 +2482,7 @@ baby …”*
 
 Use as mentor for writing about setting.
 
-**Vocabulary**
+## Vocabulary
 
 Deviated destiny sketches sagged
 
@@ -2511,16 +2490,16 @@ traipsed pell-mell animated
 
 buffing migration
 
-**Chapter 14: A Leap of Leopards**
+## Chapter 14: A Leap of Leopards
 
 Have you ever tried to communicate with someone who didn't speak your
 language?
 
-**Vocabulary**
+## Vocabulary
 
 embroidery alebrijes municipal
 
-**Chapter 15: A Piteousness of Doves**
+## Chapter 15: A Piteousness of Doves
 
 Why did the author chose this title for the chapter?
 
@@ -2528,13 +2507,13 @@ How does this title reflect how Naomi is feeling?
 
 Students can research **Las Posadas.**
 
-**﻿Vocabulary**
+## ﻿Vocabulary
 
 shimmered cellophane shelter whooped
 
 clattered puppeteer sapling spindly
 
-**Las Posadas**
+## Las Posadas
 
 The *posadas* re-enact Mary and Joseph's cold and difficult journey from
 Nazareth to Bethlehem in search of shelter; in Spanish, the word means
@@ -2564,7 +2543,7 @@ the shape of the Christmas star.
 The last posada, held on December 24, is followed by midnight mass, a
 tradition that lives on in countless Mexican towns and cities.
 
-**Notes:**
+## Notes:
 
 Ponche
 
@@ -2575,8 +2554,7 @@ cylindrical vats.
 
 Bunuelos
 
-<img src="assets/Vocabulary 10/media/image24.jpeg"
-style="width:2.5in;height:2.08333in" />
+<img src="assets/Vocabulary 10/media/image24.jpeg" />
 
 Tomales
 
@@ -2597,8 +2575,7 @@ cartoons. Lambs, burros, roosters, chickens, angels, wise men, Christmas
 trees and Santa Claus figures are popular subjects during the holiday
 season.
 
-<img src="assets/Vocabulary 10/media/image25.png"
-style="width:3.64583in;height:3.88542in" />
+<img src="assets/Vocabulary 10/media/image25.png" />
 
 **Chapter 16: A Team of Horses**
 
@@ -2611,13 +2588,13 @@ How does their art relate to what is happening within the family?
 
 Why do their carvings provide Naomi with a tiny thread of hope?
 
-**Vocabulary**
+## Vocabulary
 
 knotty contorted misting tainted
 
 mane moss downhearted
 
-**Chapter 17: An Exaltation of Starlings**
+## Chapter 17: An Exaltation of Starlings
 
 *¡Ay, qué hermoso!” said Flora.*
 
@@ -2634,7 +2611,7 @@ in the book. What is it? And can you write a few sentences with words
 from another language in it, and then help the reader figure out what
 they mean?
 
-**Vocabulary**
+## Vocabulary
 
 lounged saddles compelling commemorative
 
@@ -2648,7 +2625,7 @@ pleading
 
 instinctively strike nagging
 
-**Chapter 19: A Cry of Hounds**
+## Chapter 19: A Cry of Hounds
 
 *"You must carve so that what is inside can become what it is meant to
 be. When you are finished, the magic will show itself for what it really
@@ -2661,7 +2638,7 @@ fails us. Then we ask for her assistance. She is part of Oaxaca. And
 since you have her name and have been here to see the wonder of this
 city, Oaxaca is part of you.”*
 
-**Guiding Questions:**
+## Guiding Questions:
 
 What do Santiago's words have to do with the title of the book? Becoming
 Naomi León.
@@ -2672,13 +2649,13 @@ be?
 Do you have a place that you feel is a part of you and you are part of
 it? Where is it? And why? (See previously – Querencia)
 
-**Vocabulary**
+## Vocabulary
 
 canopy swayed copal machete
 
 innards chaffed plod jolted
 
-**Chapter 20: A Crash of Hippopotami**
+## Chapter 20: A Crash of Hippopotami
 
 *"I felt a rumbling in my mind, the sound a bulldozer makes when it is
 headed toward you. A sensation came over me, as if someone had unlatched
@@ -2695,13 +2672,13 @@ around him and he did not look sad or anything. If he found Skyla’s
 words upsetting, there was enough tape plastered across his shirt to
 hold him together."*
 
-**Reading Journal**
+## Reading Journal
 
 Through the book Owen puts tape on his shirt when he is scared or
 nervous. In your own words explain what the tape symbolised to Owen.
 What do you do when you are scared or nervous?
 
-**Discussion**
+## Discussion
 
 Family - Guardianship
 
@@ -2711,7 +2688,7 @@ Why did the judge grant guardianship to Mrs. Outlaw?
 
 Do you agree with the judge's decision? Why or Why not?
 
-**Discussion: Violence Against Children**
+## Discussion: Violence Against Children
 
 If this study is to be pursued the following booklet can be found
 on-line.
@@ -2722,7 +2699,7 @@ Adapted for Children and Young People. or
 
 Our Right to be Protected from Violence
 
-**Vocabulary**
+## Vocabulary
 
 jitters enlisting rehabilitation comprehensive
 
@@ -2732,7 +2709,7 @@ refrains flustered forthcoming siblings
 
 guardianship gavel
 
-**Chapter 21: A Brood of Chicks**
+## Chapter 21: A Brood of Chicks
 
 *"He said, “Naomi Outlaw, you are a girl of great talent and many
 layers. Who knew? Thank you for sharing these with me! I am overwhelmed
@@ -2752,17 +2729,17 @@ talking louder.
 Partner Talk: What does it means for Naomi’s voice to be louder? Why did
 her voice change?
 
-**Change**
+## Change
 
 Reread page 243.
 
 Has Naomi changed? How?
 
-**Vocabulary**
+## Vocabulary
 
 shoo-in ecstatic
 
-**A Murmuration of Tomorrows**
+## A Murmuration of Tomorrows
 
 *"It was true in Mexico, I had seen carvings of wooden angels with
 horns, a parrot with a fish tail, a lizard with wings, a three-legged
@@ -2776,7 +2753,7 @@ dog. It worked the same with people, too.*
 
 *A mouse with a lioness’s voice."*
 
-**Discussion:**
+## Discussion:
 
 Explain the symbolism above. Why does the mother have claws? Why does
 the father have a lion’s heart? Why does the great-grandmother have
@@ -2785,7 +2762,7 @@ wings? And why does a mouse have a voice like a lion?
 Also, there isn’t a symbol for Owen. What would you carve to show what
 he is like? Why?
 
-**Change / Identity**
+## Change / Identity
 
 *"I hoped my father was right, that like the figures we carved from wood
 and soap, I was becoming who I was meant to be, the Naomi Soledad León
@@ -2802,7 +2779,7 @@ adult ideas of who you are meant to be.
 
 Be sure to include reasons, supporting details and convincing words.
 
-**Other Activities:**
+## Other Activities:
 
 **Personal Narrative -** Students just read a personal narrative about
 Naomi. What is a personal narrative? What elements must be included in a
@@ -2828,7 +2805,7 @@ during her stay in Oaxaca. How are family traditions started? Do they
 all revolve around cultural traditions? How do art, food and historical
 dates play a role in family celebrations?
 
-**Character Change**
+## Character Change
 
 |                                          |                          |
 |------------------------------------------|--------------------------|
@@ -2849,10 +2826,9 @@ Think About:
 
 How the character changed … Why the character changed …
 
-**Canoe Days Gary Paulsen**
+## Canoe Days Gary Paulsen
 
-<img src="assets/Vocabulary 10/media/image26.jpeg"
-style="width:2.39583in;height:2.625in" />
+<img src="assets/Vocabulary 10/media/image26.jpeg" />
 
 Peace. Stillness. Quiet. Nature observation at its best. Paulsen's
 poetic language draws the reader onto the serene lake with him and his
@@ -2861,8 +2837,8 @@ lake's edge in the glassy water.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2915,7 +2891,7 @@ all around me</em></td>
 </tbody>
 </table>
 
-**Canoe Days Gary Paulsen**
+## Canoe Days Gary Paulsen
 
 Sometimes when it is still, so still you can hear the swish of a
 butterfly’s wing – sometimes when it is that still I take the canoe out
@@ -2970,10 +2946,9 @@ the sun is on my back like a golden friend on this perfect day.
 
 A canoe day.
 
-**Clabbered Dirt, Sweet Grass Gary Paulsen**
+## Clabbered Dirt, Sweet Grass Gary Paulsen
 
-<img src="assets/Vocabulary 10/media/image27.jpeg"
-style="width:2.75in;height:2.75in" />
+<img src="assets/Vocabulary 10/media/image27.jpeg" />
 
 This is a novel, ‘a lyrical tribute to life on a farm.’ It is organised
 into four sections:
@@ -3039,7 +3014,7 @@ This subject-verb sentence was used in a Prep lesson I took with Mouse
 Chase by Vivian Sathre, with the Preps writing subject-verb sentences as
 poetry. It can also be found in non-fiction texts.
 
-**Clabbered Dirt, Sweet Grass Gary Paulsen**
+## Clabbered Dirt, Sweet Grass Gary Paulsen
 
 In the Foreword Gary Paulsen tells how he came to write the book. A dead
 horse is delivered to be cut up for his dogs. We are introduced to
@@ -3169,7 +3144,7 @@ How can it end that way? The horse goes on but not the man, not the farm
 – how can that be? Who will make him go on so that the things of him,
 the way of him will not stop, will not end?
 
-**Spring**
+## Spring
 
 Calves come early in the spring.
 
@@ -3256,7 +3231,7 @@ to stay warm.
 
 Chores.
 
-**Winter**
+## Winter
 
 Winter grip, they say.
 
@@ -3275,10 +3250,9 @@ Out of the barn dressed in the steam of their breath and off their
 backs, steam around them, they are brought harnessed from the barn and
 hooked back into the bobsled, the oak tongue between, and they prance.
 
-**The Alphabet Tree Leo Lionni**
+## The Alphabet Tree Leo Lionni
 
-<img src="assets/Vocabulary 10/media/image28.jpeg"
-style="width:2.08333in;height:2.625in" />
+<img src="assets/Vocabulary 10/media/image28.jpeg" />
 
 When a fierce wind threatens to blow all the little letters out of the
 alphabet tree, those that remain hide among the branches. A bug and a
@@ -3305,7 +3279,7 @@ Read and Retell
 
 Listen and Retell
 
-**The Alphabet Tree Leo Lionni**
+## The Alphabet Tree Leo Lionni
 
 “This is the Alphabet Tree,” said the ant.
 
@@ -3366,10 +3340,9 @@ began climbing down the tree.
 
 “To the President,” said the caterpillar.
 
-**Black Cat Christopher Myers**
+## Black Cat Christopher Myers
 
-<img src="assets/Vocabulary 10/media/image29.jpeg"
-style="width:2.4375in;height:2.96667in" />
+<img src="assets/Vocabulary 10/media/image29.jpeg" />
 
 On an eye-opening journey through urban landscapes, a stray black cat
 leaps, listens, and dances to the city's pulsating beats while searching
@@ -3386,10 +3359,9 @@ where that cat travels.*
 
 *Christopher Myers*
 
-<img src="assets/Vocabulary 10/media/image30.jpeg"
-style="width:3.38333in;height:2.35486in" />
+<img src="assets/Vocabulary 10/media/image30.jpeg" />
 
-**Black Cat Christopher Myers**
+## Black Cat Christopher Myers
 
 black cat, black cat
 
@@ -3525,8 +3497,8 @@ Independent Writing – free verse.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3701,20 +3673,18 @@ black cat answers …
 
 anywhere I roam
 
-**Never Take a Shark to the Dentist Judi Barrett**
+## Never Take a Shark to the Dentist Judi Barrett
 
-<img src="assets/Vocabulary 10/media/image31.jpeg"
-style="width:2.39583in;height:2.09375in" />
+<img src="assets/Vocabulary 10/media/image31.jpeg" />
 
 Students write their own 'never sentences', compile a book together as a
 class and end with a 'but always sentence'.
 
 Individual books.
 
-**Animals should definitely not wear clothing Judi Barrett**
+## Animals should definitely not wear clothing Judi Barrett
 
-<img src="assets/Vocabulary 10/media/image32.jpeg"
-style="width:2.42639in;height:2.25in" />
+<img src="assets/Vocabulary 10/media/image32.jpeg" />
 
 Independent Writing:
 
@@ -3752,11 +3722,11 @@ Never go to the bank with a raccoon.
 
 But always go shopping with a pelican.
 
-**Animals should definitely <u>not</u> wear clothing.**
+**Animals should definitely not wear clothing.**
 
 **Judi Barrett**
 
-Animals should definitely <u>not</u> wear clothing …
+Animals should definitely not wear clothing …
 
 because it would be disastrous for a porcupine,
 
@@ -3786,7 +3756,7 @@ because opossums might wear it upside down by mistake,
 
 and most of all, because it might be very embarrassing.
 
-**Bibliography Vocabulary 10**
+## Bibliography Vocabulary 10
 
 Barrett, Judi Animals should definitely not wear clothing.
 

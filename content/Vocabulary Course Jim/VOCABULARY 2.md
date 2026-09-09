@@ -3,11 +3,12 @@ title: "VOCABULARY 2"
 source_file: "Vocabulary Course Jim/VOCABULARY 2.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: vocabulary
 ---
 
-<img src="assets/VOCABULARY 2/media/image1.jpeg"
-style="width:3.51181in;height:2.575in" />
+<img src="assets/VOCABULARY 2/media/image1.jpeg" />
 
 **VOCABULARY 2**
 
@@ -67,7 +68,7 @@ listening and reading vocabularies.
 Many Preps will have a meaning vocabulary of 5000 words coming to
 school.
 
-**Learning Words**
+## Learning Words
 
 Recognise the word is unknown.
 
@@ -92,7 +93,7 @@ Generative Word Links to word learning strategies.
 
 e.g. prefix.
 
-**Teaching Comprehension Vocabulary**
+## Teaching Comprehension Vocabulary
 
 e.g. STAR model
 
@@ -147,7 +148,7 @@ Questioning.
 
 Students could record words in Spelling Journals/Vocabulary Notebooks.
 
-**Teaching Words Meaning Related**
+## Teaching Words Meaning Related
 
 Synonyms
 
@@ -184,7 +185,7 @@ drive
 
 (spin around the block)
 
-**Spin**
+## Spin
 
 twist fibres
 
@@ -208,7 +209,7 @@ disorient
 
 daze
 
-**Teaching Independent Strategies**
+## Teaching Independent Strategies
 
 Morphological Analysis (Structural Analysis)
 
@@ -249,7 +250,7 @@ e.g. porter - export, transport, teleport.
 By creating morphological families, the students learn new words by
 analogy with known words.
 
-**Contextual Analysis**
+## Contextual Analysis
 
 Using context clues – words, phrases, sentences that inform the reader
 about the unknown word.
@@ -310,7 +311,7 @@ Guided Reading provides opportunities for total participation.
 
 Independent work can be assessed though conferences.
 
-**Using inferences to assist Vocabulary**
+## Using inferences to assist Vocabulary
 
 Inferring can help when readers encounter an unknown word. Sometimes we
 have to infer the meaning of unknown words using context clues provided
@@ -608,8 +609,7 @@ Lilly. “Julius is the baby of the world.”
 
 And from then on, he was. In everyone’s opinion. Especially in Lilly’s.
 
-<img src="assets/VOCABULARY 2/media/image2.png"
-style="width:1.375in;height:1.97917in" />
+<img src="assets/VOCABULARY 2/media/image2.png" />
 
 ### Frindle by Andrew Clements
 
@@ -838,10 +838,9 @@ didn't sit and try to make up a funny sounding word. That I happened to
 grab a pen, I don't think that's an accident. I have always loved pens
 and writing things out by hand.
 
-<img src="assets/VOCABULARY 2/media/image3.jpeg"
-style="width:2.08958in;height:2.75in" />
+<img src="assets/VOCABULARY 2/media/image3.jpeg" />
 
-**The Odious Ogre by Norton Juster**
+## The Odious Ogre by Norton Juster
 
 This is the story of an ogre so awful that the villagers cower in terror
 underneath tables when the ogre is afoot. This ogre is confident that
@@ -867,7 +866,7 @@ Phantom Tollbooth, team up again in The Odious Ogre. This story of an
 ogre who is "extraordinarily large, exceedingly ugly, unusually angry,
 constantly hungry, and absolutely merciless" contains amazing language.
 
-**An excerpt from The Odious Ogre**
+## An excerpt from The Odious Ogre
 
 I'm Norton Juster, this is my new book, which I did with Jules Pfeiffer,
 who did these wonderful illustrations and it's called *The Odious Ogre*.
@@ -925,12 +924,11 @@ the long narrow track to see what tasty tidbits he might find."
 
 And from there, the adventure begins.
 
-**The Odious Ogre**
+## The Odious Ogre
 
 .
 
-<img src="assets/VOCABULARY 2/media/image4.jpeg"
-style="width:5.25in;height:3.57847in" />
+<img src="assets/VOCABULARY 2/media/image4.jpeg" />
 
 Collect words on a Vocabulary Hunt. Let the students choose the words
 they would like to study: discuss with the possibility of entering their
@@ -951,7 +949,7 @@ Adjectives
 
 Suffixes: -able Prefixes: in-, im-, un-
 
-**The Odious Ogre Norton Juster**
+## The Odious Ogre Norton Juster
 
 There was once an Ogre who had a terrible reputation. Not that Ogres
 usually have good reputations, but his was worse than anyone could
@@ -1467,12 +1465,11 @@ show them with Big Words your
 
 intelligence!
 
-**Miss Alaineus Debra Frasier**
+## Miss Alaineus Debra Frasier
 
-<img src="assets/VOCABULARY 2/media/image5.jpeg"
-style="width:2.65694in;height:1.98958in" />
+<img src="assets/VOCABULARY 2/media/image5.jpeg" />
 
-**Book Summary**
+## Book Summary
 
 Sick at home with a cold, Sage makes a mistake with her spelling
 homework with hilarious results. True to her Mum's comforting words,
@@ -1562,7 +1559,7 @@ Y Over yonder you’ll see me jump and yell with glee!
 
 Can you match Sage's feat?
 
-**<u>WHO?!?</u>**
+## WHO?!?
 
 **Name
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -1847,7 +1844,7 @@ And next year I think I’m going to be …
 
 **Miss Sterious,** *investigator of all Things Mysterious!*
 
-**The Word Eater Mary Amato**
+## The Word Eater Mary Amato
 
 Parallel stories begin.
 
@@ -2187,7 +2184,7 @@ and on the other, the word serendipity.
 Donovan was determined that when he filled this new jar, he would give
 the words away.
 
-**Mature Words**
+## Mature Words
 
 e.g.
 
@@ -2231,7 +2228,7 @@ Students choose an overused weak word e.g. nice, big, bad, good, pretty.
 
 Use a thesaurus to create an “I’m Talking ….” Poem.
 
-**Pretty**
+## Pretty
 
 I’m talking pretty!
 
@@ -2253,10 +2250,9 @@ I’m talking pretty!
 
 (Me)
 
-**The Boy Who Loved Words Roni Schotter**
+## The Boy Who Loved Words Roni Schotter
 
-<img src="assets/VOCABULARY 2/media/image6.jpeg"
-style="width:2.52292in;height:2.53194in" />
+<img src="assets/VOCABULARY 2/media/image6.jpeg" />
 
 Words. Selig loves everything about them–the way they taste on his
 tongue (tantalising), the sound they whisper in his ears
@@ -2631,7 +2627,7 @@ If so, you’ll know Selig is near. And on special days, if you feel like
 humming or suddenly bursting into song, you’ll know that Melody is with
 him. “Upon my word!” you may say. “How lucky I am!”
 
-**Max’s Words Kate Banks**
+## Max’s Words Kate Banks
 
 Max’s brother Benjamin collected stamps. He had stamps of many colours
 and sizes. They had ragged edges and sticky backs. Some had famous
@@ -2779,7 +2775,7 @@ coin. And Max gave them each some words. And kept the rest for himself.
 
 There was a big brown dog
 
-**Fancy Nancy Jane O’Connor**
+## Fancy Nancy Jane O’Connor
 
 I love being Fancy Nancy. My favourite colour is fuchsia. That’s a fancy
 way of saying purple. I like to write my name with a pen that has a
@@ -2854,7 +2850,7 @@ my parents, “Thank you for being fancy tonight.”
 And all I say back is, “I love you.” Because there isn’t a fancy – or
 better- way of saying that.
 
-**WORDPLAY**
+## WORDPLAY
 
 *“I'm always confronted by people objecting to difficult vocabulary,
 which I tend to use. I like words.*
@@ -2865,10 +2861,9 @@ something they don't know about***.***”*
 
 \- Norton Juster (author of The Phantom Tollbooth)
 
-<img src="assets/VOCABULARY 2/media/image7.jpeg"
-style="width:3.87431in;height:2.35069in" />
+<img src="assets/VOCABULARY 2/media/image7.jpeg" />
 
-**Books include texts for:**
+## Books include texts for:
 
 Word Consciousness
 
@@ -2884,7 +2879,7 @@ Collective Nouns.
 
 Compound Words.
 
-**Puns:**
+## Puns:
 
 The usually humorous use of a word in such a way as to suggest two or
 more of its meanings or the meaning of another word similar in sound.
@@ -3109,8 +3104,7 @@ Balloon prices were inflated.
 
 And batteries exploded in an attempt to recharge the market...
 
-<img src="assets/VOCABULARY 2/media/image8.jpeg"
-style="width:2.51042in;height:2.41667in" />
+<img src="assets/VOCABULARY 2/media/image8.jpeg" />
 
 A delightful parody of modern artists, a porky Pigasso and a bullish
 Mootisse start out as neighbours but end up feuding when they start
@@ -3176,7 +3170,7 @@ world. There is much to be learned from Pigasso and Mootisse, not only
 the world of art and its foibles, but a nice lesson in creative conflict
 resolution.
 
-**When Pigasso met Mootisse Nina Laden**
+## When Pigasso met Mootisse Nina Laden
 
 There was once a young pig named Pigasso. While the other piglets rolled
 in the mud and played games, Pigasso painted. He painted anything and
@@ -3286,8 +3280,7 @@ Mootisse called his side: “When Mootisse Met Pigasso.”
 
 The critics called it “Incredible.”
 
-<img src="assets/VOCABULARY 2/media/image9.jpeg"
-style="width:2.73958in;height:3.64583in" />
+<img src="assets/VOCABULARY 2/media/image9.jpeg" />
 
 Logan and his friend are playing tag in the library when Logan runs into
 an old man. The old man thinks that he needs to be punished. Logan is
@@ -3312,7 +3305,7 @@ Read the section and then discuss what Logan discovered when using the
 dictionary to find out what palindromes are. The students can find
 palindromes on their own.
 
-**Anagrams**
+## Anagrams
 
 An anagram is a word or phrase made by rearranging the letters in
 another word or phrase**.**
@@ -3331,10 +3324,9 @@ another word or phrase**.**
 
 --where you would find the SCHOOL MASTER (the classroom)
 
-<img src="assets/VOCABULARY 2/media/image10.jpeg"
-style="width:2.25625in;height:2.77083in" />
+<img src="assets/VOCABULARY 2/media/image10.jpeg" />
 
-**Word Wizard Cathryn Falwell**
+## Word Wizard Cathryn Falwell
 
 Early one morning, Anna was eating breakfast. She dipped her spoon into
 the bowl. The cereal letters spelt DAWN.
@@ -3425,13 +3417,12 @@ DOWN
 
 UNDER GOOD BYE
 
-**Palindromes:**
+## Palindromes:
 
 Palindromes are words or phrases that read the same in both directions,
 e.g. EYE,or RACECAR, or MADAM I'M ADAM.
 
-<img src="assets/VOCABULARY 2/media/image11.jpeg"
-style="width:4.96667in;height:3.22083in" />
+<img src="assets/VOCABULARY 2/media/image11.jpeg" />
 
 Text: Palindromania! By Jon Agee
 
@@ -3445,10 +3436,9 @@ was it a car or a cat I saw? he did, eh?
 
 too bad I hid a boot
 
-<img src="assets/VOCABULARY 2/media/image12.jpeg"
-style="width:3.0625in;height:2.10556in" />
+<img src="assets/VOCABULARY 2/media/image12.jpeg" />
 
-**Oxymorons**
+## Oxymorons
 
 The word oxymoron (plural: oxymora or oxymorons) is derived from the
 Greek for pointedly foolish (oxys = SHARP, KEEN + moros = FOOLISH**).**
@@ -3503,18 +3493,15 @@ mobile home elevated subway recorded live
 
 one-man band fresh frozen
 
-<img src="assets/VOCABULARY 2/media/image13.jpeg"
-style="width:3.05278in;height:3.05278in" />
+<img src="assets/VOCABULARY 2/media/image13.jpeg" />
 
 Rush hour
 
 ##  
 
-<img src="assets/VOCABULARY 2/media/image14.jpeg"
-style="width:6.5in;height:1.86458in" />
+<img src="assets/VOCABULARY 2/media/image14.jpeg" />
 
-<img src="assets/VOCABULARY 2/media/image15.jpeg"
-style="width:5.80208in;height:4.02083in" />
+<img src="assets/VOCABULARY 2/media/image15.jpeg" />
 
 **Synonyms**
 
@@ -3522,8 +3509,7 @@ style="width:5.80208in;height:4.02083in" />
 
 Text: Boris Ate a Thesaurus by Neil Klayman
 
-<img src="assets/VOCABULARY 2/media/image16.jpeg"
-style="width:2.37569in;height:2.37569in" />
+<img src="assets/VOCABULARY 2/media/image16.jpeg" />
 
 Objective: To assist students in utilising a thesaurus to augment their
 word choice when writing.
@@ -3540,13 +3526,12 @@ synonyms provided and occasionally antonyms as well.
 
 Pitch and Throw, Grasp and Know by Brian Cleary
 
-<img src="assets/VOCABULARY 2/media/image17.jpeg"
-style="width:1.74861in;height:2.25in" />
+<img src="assets/VOCABULARY 2/media/image17.jpeg" />
 
 This book introduces students to synonyms through simple rhymes and
 cartoon animals. It helps expand vocabulary.
 
-**Boris Ate a Thesaurus Neil Klayman**
+## Boris Ate a Thesaurus Neil Klayman
 
 I’ll never forget the day I ate a thesaurus. It was during my first
 visit to our school library. Miss Simms was teaching our class about
@@ -3756,8 +3741,7 @@ Do you know?
 
 **Herd of Cows! Flock of Sheep! by Rick Walton**
 
-<img src="assets/VOCABULARY 2/media/image18.jpeg"
-style="width:2.62639in;height:3.07222in" />
+<img src="assets/VOCABULARY 2/media/image18.jpeg" />
 
 Farmer Bob has been working long and hard to get all produce in the barn
 before the rain comes. He finally completes the job, but only after many
@@ -3827,10 +3811,9 @@ A shower of meteorologists A horde of misers
 
 A row of oarsmen A cancellation of trains
 
-<img src="assets/VOCABULARY 2/media/image19.png"
-style="width:3.02292in;height:3.12361in" />
+<img src="assets/VOCABULARY 2/media/image19.png" />
 
-**Herd of Cows! Flock of Sheep! Rick Walton**
+## Herd of Cows! Flock of Sheep! Rick Walton
 
 The rain would be coming soon. So Farmer Bob worked day and night to
 harvest his crops. A little rain would be good for his plants. But too
@@ -4035,8 +4018,8 @@ corn and potatoes and beans and tomatoes his friends could eat.
 
 <table>
 <colgroup>
-<col style="width: 44%" />
-<col style="width: 55%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4194,7 +4177,7 @@ zebra – herd</td>
 
 Ref: Enchanted Learning
 
-**Compound Words**
+## Compound Words
 
 Read Aloud: Once There Was a Bull … (Frog) Rick Walton
 
@@ -4208,10 +4191,9 @@ to a stage…coach. Set in the Old West, the story takes the reader into
 every nook and cranny that compound words can offer. Will the bullfrog
 ever find his hop?
 
-<img src="assets/VOCABULARY 2/media/image20.jpeg"
-style="width:2.20069in;height:2.48819in" />
+<img src="assets/VOCABULARY 2/media/image20.jpeg" />
 
-**Cloudy with a Chance of Meatballs Judi Barrett**
+## Cloudy with a Chance of Meatballs Judi Barrett
 
 The book details a bedtime story narrated by a grandfather to his
 grandchildren, chronicling the daily lives of the citizens of an
@@ -4233,10 +4215,9 @@ granddaughter, in first-person narration, describes the scent of mashed
 potatoes detected while romping with her brother, implying that the
 grandfather's story might not be purely fictitious.
 
-<img src="assets/VOCABULARY 2/media/image21.jpeg"
-style="width:2.80069in;height:2.47222in" />
+<img src="assets/VOCABULARY 2/media/image21.jpeg" />
 
-**Once There Was a Bull … (Frog) Rick Walton**
+## Once There Was a Bull … (Frog) Rick Walton
 
 Compound word:
 
@@ -4520,26 +4501,26 @@ Laden, Nina When Pigasso Met Mootisse
 
 Lubar, David Punished (novel)
 
-**Anagrams:**
+## Anagrams:
 
 Falwell, Kathryn Word Wizard
 
-**Palindromes:**
+## Palindromes:
 
 Agee, Jon Palindromania!
 
-**Synonyms:**
+## Synonyms:
 
 Cleary, Brian Pitch and Throw
 
 Klayman, N Boris Ate a Thesaurus
 
-**Compound Words:**
+## Compound Words:
 
 Barrett, Judi Cloudy with a Chance of Meatballs
 
 Walton, Rick Once There Was a Bull … (Frog)
 
-**Collective Nouns:**
+## Collective Nouns:
 
 Walton, Rick Herd of Cows! Flock of Sheep!

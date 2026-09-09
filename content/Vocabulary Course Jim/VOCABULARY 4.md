@@ -3,11 +3,12 @@ title: "VOCABULARY 4"
 source_file: "Vocabulary Course Jim/VOCABULARY 4.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: vocabulary
 ---
 
-<img src="assets/VOCABULARY 4/media/image1.jpeg"
-style="width:2.13542in;height:4.35417in" />
+<img src="assets/VOCABULARY 4/media/image1.jpeg" />
 
 **VOCABULARY 4**
 
@@ -29,10 +30,9 @@ Discuss the text with students, asking about the idioms presented and
 what they mean in comparison to what the main character translates them
 to mean.
 
-<img src="assets/VOCABULARY 4/media/image2.jpeg"
-style="width:2.58333in;height:3.25208in" />
+<img src="assets/VOCABULARY 4/media/image2.jpeg" />
 
-**More Parts Tedd Arnold**
+## More Parts Tedd Arnold
 
 Things are bad – and getting worse!
 
@@ -184,7 +184,7 @@ When he said, “For a minute, son …
 
 “We thought you’d lost your mind!”
 
-**Even More Parts Tedd Arnold**
+## Even More Parts Tedd Arnold
 
 Sometimes I wish my stupid ears
 
@@ -246,10 +246,9 @@ I went to pieces.
 
 “Keep your head on straight!”
 
-**Idioms**
+## Idioms
 
-<img src="assets/VOCABULARY 4/media/image3.png"
-style="width:1.55972in;height:1.79097in" /> **Amelia Bedelia by Peggy
+<img src="assets/VOCABULARY 4/media/image3.png" /> **Amelia Bedelia by Peggy
 Parish**
 
 As the housekeeper, Amelia Bedelia is suffering from an issue in that
@@ -273,10 +272,9 @@ meanings. E.g. flu/flew.
 
 Compile lists from Amelia Bedelia.
 
-<img src="assets/VOCABULARY 4/media/image4.jpeg"
-style="width:1.55486in;height:2in" />
+<img src="assets/VOCABULARY 4/media/image4.jpeg" />
 
-**Amelia Bedelia Peggy Parish**
+## Amelia Bedelia Peggy Parish
 
 “Oh, Amelia Bedelia, your first day of work, and I can’t be here. But I
 made a list for you. You just do what the list says,” said Mrs Rogers.
@@ -439,7 +437,7 @@ the drapes, and things like that. Mr Rogers didn’t care if Amelia
 Bedelia trimmed all of his steaks with lace. All he cared about was
 having her there to make lemon-meringue pie.
 
-**Idioms:**
+## Idioms:
 
 Tongue-in-Cheek Bend Over Backwards
 
@@ -487,15 +485,15 @@ Jump the Gun Bite the Dust
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><p><strong>Idiom:</strong></p>
 <table>
 <colgroup>
-<col style="width: 49%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -509,22 +507,20 @@ Jump the Gun Bite the Dust
 </tbody>
 </table>
 
-**Raining Cats and Dogs by Will Moses**
+## Raining Cats and Dogs by Will Moses
 
 I buy Will Moses book for the illustrations – naïve painting in the
 style of his great-grandmother: Grandma Moses. Described as the folk-art
 style his work has been exhibited at the Smithsonian Institution and the
 White House.
 
-<img src="assets/VOCABULARY 4/media/image5.jpeg"
-style="width:3.33333in;height:2.76042in" />
+<img src="assets/VOCABULARY 4/media/image5.jpeg" />
 
 Moses' book is crammed with more than 40 idioms that are defined
 correctly, but illustrated with clever drawings that emphasise the
 literal interpretation.
 
-<img src="assets/VOCABULARY 4/media/image6.jpeg"
-style="width:2.08333in;height:2.02083in" />
+<img src="assets/VOCABULARY 4/media/image6.jpeg" />
 
 Mr. M ~ The Exploring Dreamer
 
@@ -538,16 +534,13 @@ of Mr. M’s journey and introduce the intrepid dreamer to an audience
 beyond the art gallery, allowing readers to imagine his journeys and
 adventures, his struggles and searches, for themselves. (Blurb)
 
-<img src="assets/VOCABULARY 4/media/image7.jpeg"
-style="width:3.0625in;height:3.0625in" />
+<img src="assets/VOCABULARY 4/media/image7.jpeg" />
 
-<img src="assets/VOCABULARY 4/media/image8.jpeg"
-style="width:3.62361in;height:2.80139in" />
+<img src="assets/VOCABULARY 4/media/image8.jpeg" />
 
-<img src="assets/VOCABULARY 4/media/image9.jpeg"
-style="width:2.9375in;height:2.9375in" />
+<img src="assets/VOCABULARY 4/media/image9.jpeg" />
 
-**Monkey Business Wallace Edwards**
+## Monkey Business Wallace Edwards
 
 Even in a serious meeting, Professor Apeson sensed there might be monkey
 business going on.
@@ -618,7 +611,7 @@ wasn’t a spring chicken anymore.
 
 Wally knew that it was time to draw things to a close.
 
-**Words**
+## Words
 
 The most important words are nouns and verbs. We need to teach the use
 of strong verbs and precise nouns.
@@ -627,7 +620,7 @@ Strong verbs and nouns are the way to obtain better descriptive writing.
 By using specific verbs and nouns, students will be better able to
 create a scene or image.
 
-**Verbs**
+## Verbs
 
 *“Verbs are the engines of sentences. The more specific the verb, the
 more energy and specificity the sentence will have.”*
@@ -711,10 +704,9 @@ Colourful words.
 
 Oyster shells are *crusty grey outside and smooth, pearly pink inside*
 
-**Bullfrog Pops! Rick Walton**
+## Bullfrog Pops! Rick Walton
 
-<img src="assets/VOCABULARY 4/media/image10.jpeg"
-style="width:1.91667in;height:2.51042in" />
+<img src="assets/VOCABULARY 4/media/image10.jpeg" />
 
 Each page of this book ends with an active verb. Followed by an
 ellipsis, it encourages the reader to predict what comes next … on the
@@ -741,7 +733,7 @@ verb.
 
 Collect active verbs.
 
-**Bullfrog Pops! Rick Walton**
+## Bullfrog Pops! Rick Walton
 
 Once there was a bullfrog who **hopped** …
 
@@ -802,7 +794,7 @@ Then he heard the order. “Hit the dirt, you loaf-liftin’ cousin to a
 grasshopper.”
 
 Bullfrog turned. The baker was aiming a slingshot at him. Bullfrog
-**dropped …**
+## dropped …
 
 **… the bread,** all but one big loaf, which he ate as he raced down the
 street.
@@ -921,7 +913,7 @@ hungry.”
 
 And he did.
 
-**Scarecrow Cynthia Rylant**
+## Scarecrow Cynthia Rylant
 
 His hat is borrowed, his suit is borrowed, his hands are borrowed, even
 his head is borrowed. And his eyes probably came out of someone’s
@@ -964,7 +956,7 @@ The scarecrow is thinking his long, slow thoughts …
 
 … and soon, birds will be coming by.
 
-**Amos & Boris William Steig**
+## Amos & Boris William Steig
 
 Amos, a mouse, lived by the ocean. He loved the ocean. He loved the
 smell of sea air. He loved to hear the surf sounds – the bursting
@@ -1165,7 +1157,7 @@ the great whale’s cheeks. The tiny mouse had tears in his eyes too.
 They knew they might never meet again. They knew they would never forget
 each other.
 
-**Brave Irene William Steig**
+## Brave Irene William Steig
 
 Mrs Bobbin, the dressmaker, was tired and had a bad headache, but she
 still managed to sew the last stitches in the gown she was making.
@@ -1368,8 +1360,7 @@ person Irene was.
 
 Which of course, Mrs Bobbin knew. Better than the duchess.
 
-<img src="assets/VOCABULARY 4/media/image11.jpeg"
-style="width:2.625in;height:2.57292in" />
+<img src="assets/VOCABULARY 4/media/image11.jpeg" />
 
 Crickwing is in a very disgruntled mood. A close encounter with a toad
 left one of the cockroach's wings bent at an awkward and painful angel.
@@ -1415,13 +1406,13 @@ Read Aloud: Crickwing
 
 Use graphic organiser to arrive at theme.
 
-**THEMES**
+## THEMES
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1502,9 +1493,9 @@ wolf.</td>
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1528,7 +1519,7 @@ ___________________</strong></td>
 </tbody>
 </table>
 
-**Theme Statement:**
+## Theme Statement:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -1613,8 +1604,7 @@ Was it because he was just mean?
 When Crickwing started picking on the ants, he stopped noticing all the
 beautiful colours of his food which he used to enjoy. Why was that?
 
-<img src="assets/VOCABULARY 4/media/image12.jpeg"
-style="width:4.24167in;height:4.26597in" />
+<img src="assets/VOCABULARY 4/media/image12.jpeg" />
 
 Non-fiction notes:
 
@@ -1626,8 +1616,7 @@ Ant Notes.
 
 This is something the students might like to try during the year.
 
-<img src="assets/VOCABULARY 4/media/image13.jpeg"
-style="width:3.125in;height:1.625in" />
+<img src="assets/VOCABULARY 4/media/image13.jpeg" />
 
 *… “when an animal is generally misunderstood and unpopular with humans,
 I question how this bad rep has developed. All forms of life are
@@ -1982,8 +1971,7 @@ Biddlemeyer got a look at Oliver and his bedhead.
 
 “Got it!” said the photographer.
 
-<img src="assets/VOCABULARY 4/media/image14.jpeg"
-style="width:4.70069in;height:3.525in" />
+<img src="assets/VOCABULARY 4/media/image14.jpeg" />
 
 Margie Palatini said:
 
@@ -2003,7 +1991,7 @@ disclosure: I get my share of bedheads too! Mine are of the ‘bird’s nest
 with wild crooked spikes’ variety. So, I guess you could say the
 condition is hereditary. Sorry, Jamie.
 
-**The Secret Shortcut Mark Teague**
+## The Secret Shortcut Mark Teague
 
 On Monday, Wendell and Floyd were late for school.
 
@@ -2136,7 +2124,7 @@ And in fact it was quite a while before they were late to school again.
 
 Even so, they never did find a really good shortcut.
 
-**I Love You the Purplest Barbara Joose**
+## I Love You the Purplest Barbara Joose
 
 Early in the evening the brothers and their Mama finished supper in the
 sturdy red cabin and set out to fish.
@@ -2217,7 +2205,7 @@ bunk, glowing like the evening moon, one in the bottom bunk, shimmering
 like the evening sun, and Mama in the big bed dreaming of the boys she
 loved best.
 
-**Goal Robert Burleigh**
+## Goal Robert Burleigh
 
 Score tied.
 
@@ -2341,7 +2329,7 @@ You, me, us –
 
 champions.
 
-**Hoops Robert Burleigh**
+## Hoops Robert Burleigh
 
 Hoops.
 
@@ -2473,7 +2461,7 @@ The game.
 
 Feel it.
 
-**In the Small, Small Pond Denise Fleming**
+## In the Small, Small Pond Denise Fleming
 
 In the small, small pond …
 
@@ -2509,7 +2497,7 @@ sleep tight,
 
 small, small pond.
 
-**Through Grandpa’s Eyes Patricia MacLachlan**
+## Through Grandpa’s Eyes Patricia MacLachlan
 
 Of all the houses that I know, I like my grandpa’s the best. My friend
 Peter has a new glass house with pebble-path gardens that go nowhere.
@@ -2783,7 +2771,7 @@ Grandpa says her voice smiles to him. I test it.
 She says it sternly. But Grandpa is right. Her voice smiles to me. I
 know. Because I’m looking through Grandpa’s eyes.
 
-**Mrs Katz and Tush Patricia Polacco**
+## Mrs Katz and Tush Patricia Polacco
 
 Larnel didn’t know Mrs Katz very well, but almost every day his mother
 stopped in to see her after work. “Since her husband died, she’s so
@@ -3009,7 +2997,7 @@ children read the inscription together.
 
 MRS KATZ, OUR BUBEE…SUCH A PERSON
 
-**Mrs Katz and Tush**
+## Mrs Katz and Tush
 
 Discussion:
 
@@ -3047,7 +3035,7 @@ helped waved smiled yelled
 
 rushed placed
 
-**Nouns and Verbs have a Field Day Robin Pulver**
+## Nouns and Verbs have a Field Day Robin Pulver
 
 Each day in Mr Wright’s classroom, the kids searched the room for nouns
 and verbs.
@@ -3178,7 +3166,7 @@ cup, bathroom, friends)
 
 Nouns and Verbs.
 
-**Nouns**
+## Nouns
 
 Using proper nouns helps the writing to be specific, clarifying the
 meaning.
@@ -3229,7 +3217,7 @@ Innovation on text.
 
 Lilly’s Purple Plastic Purse - Kevin Henkes
 
-**Outside, Inside Carolyn Crimi**
+## Outside, Inside Carolyn Crimi
 
 Outside, black clouds sink down to the bottom of the sky.
 
@@ -3283,7 +3271,7 @@ Inside, Molly swings the door open …
 
 and lets the outside in!
 
-**Bigmama’s Donald Crews**
+## Bigmama’s Donald Crews
 
 “Did you see her? Did you see Bigmama?”
 
@@ -3493,7 +3481,7 @@ wrote “Red-Hot Marshmallow Squirters” on the list.**
 **This time Max wrote “Red-Hot Marshmallow Squirters” in a different
 way.**
 
-**MILK**
+## MILK
 
 **Max hoped and hoped for his Squirters, but the grocer still couldn’t
 read Max’s writing.**
@@ -3614,7 +3602,7 @@ Uptown is home.
 
 Uptown.
 
-**Beach Elisha Cooper**
+## Beach Elisha Cooper
 
 Away to the beach! Away to sand and salt water, to rolling dunes and
 pounding waves. Away to swimsuits and sunscreen, to lying on towels and
@@ -3764,7 +3752,7 @@ toes and in bathing suits and inside ears. Inside, too, is the motion of
 the waves, the knowledge of a day well spent, a day to remember when the
 beach is far away.
 
-**Lilly’s Purple Plastic Purse Kevin Henkes**
+## Lilly’s Purple Plastic Purse Kevin Henkes
 
 **Lilly** loved school. She loved the pointy pencils.. she loved the
 squeaky chalk. And she loved the way her boots went
@@ -3943,7 +3931,7 @@ That is, when she didn’t want to be a dancer, or a surgeon or an
 ambulance driver or a diva or a pilot or a hairdresser or a scuba diver
 …
 
-**Hyphenated Adjectives**
+## Hyphenated Adjectives
 
 Lesson: Hyphenated adjectives.
 
@@ -4063,7 +4051,7 @@ or explain the technique.
 
 Students try the technique.
 
-**The Divide Michael Bedard**
+## The Divide Michael Bedard
 
 Willa stood at her window, looking one last time at the grass sloping
 down to the willowed stream, the road winding off into the wooded hills,
@@ -4353,7 +4341,7 @@ my eyes when I arrive in Atlantic City. It’s the summer of 1946, and Ivy
 Cordelia from Philadelphia has come to stay: The Girl on the High-Diving
 Horse. Papa takes lots of pictures.
 
-**The New Land Donald Graves**
+## The New Land Donald Graves
 
 In fourth grade
 
@@ -4830,7 +4818,7 @@ Let’s celebrate!”*
 
 My Mama had a dancing heart and she shared that heart with me.
 
-**Miz Berlin Walks Jane Yolen**
+## Miz Berlin Walks Jane Yolen
 
 Well child, I recall once upon a time an old woman lived on our street,
 oldest woman I’d ever seen. Her hair was white and fine like the fluff
@@ -4970,7 +4958,7 @@ Moses, Will Raining Cats and Dogs
 
 Parish, Peggy Amelia Bedelia
 
-**Verbs**
+## Verbs
 
 Burleigh, Robert Goal
 
@@ -5000,7 +4988,7 @@ Teague, Mark The Secret Shortcut
 
 Walton, Rick Bullfrog Pops!
 
-**Nouns – Specificity**
+## Nouns – Specificity
 
 Collier, Bryan Uptown
 
@@ -5014,7 +5002,7 @@ Henkes, Kevin Lilly’s Purple Plastic Purse
 
 Wells, Rosemary Bunny Cakes
 
-**Hyphenated Adjectives - Specificity**
+## Hyphenated Adjectives - Specificity
 
 Bedard, Michael The Divide
 

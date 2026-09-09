@@ -3,11 +3,12 @@ title: "VOCABULARY 7"
 source_file: "Vocabulary Course Jim/VOCABULARY 7.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: vocabulary
 ---
 
-<img src="assets/VOCABULARY 7/media/image1.jpeg"
-style="width:3.00833in;height:2.78056in" />
+<img src="assets/VOCABULARY 7/media/image1.jpeg" />
 
 **VOCABULARY 7**
 
@@ -16,7 +17,7 @@ style="width:3.00833in;height:2.78056in" />
 The following are samples of the Vocabulary/Spelling lessons I have
 previously demonstrated at Wembley.
 
-**PREP**
+## PREP
 
 Brief: Prep concept learning is based on the five senses. They would
 like to see key words, note-taking and using the notes for writing.
@@ -25,8 +26,7 @@ Discussion: Our five senses.
 
 Read Aloud: Mentor text – Hello Ocean by Pam Munoz Ryan.
 
-<img src="assets/VOCABULARY 7/media/image2.jpeg"
-style="width:2.49861in;height:2.49861in" />
+<img src="assets/VOCABULARY 7/media/image2.jpeg" />
 
 Keywording using a Visualisation Chart.
 
@@ -59,8 +59,8 @@ onomatopoeia, similes, metaphors, rhyme and rhythm.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -351,7 +351,7 @@ knowledge.
 Articulation: Teachers can extend learning. Notetaking. Appropriate text
 features – e.g. headings, photos, labels.
 
-**GRADE 1**
+## GRADE 1
 
 Spelling. Onset and rime.
 
@@ -372,7 +372,7 @@ Determine which pairs have the same spelling pattern.
 
 Individual work to build lists of other words.
 
-**Grade 1**
+## Grade 1
 
 Spelling. Onset and rime.
 
@@ -407,7 +407,7 @@ Use of big book as part of a five day program.
 
 Demonstrate using Somewhere by Jane Baskwill
 
-**Books for Onset and Rime**
+## Books for Onset and Rime
 
 The Cat in the Hat Dr Seuss (series)
 
@@ -494,7 +494,7 @@ The Night is Singing by Jacqueline Davies
 
 No! by Shel Silverstein
 
-**Grade 2**
+## Grade 2
 
 Spelling. Spelling exploration.
 
@@ -508,7 +508,7 @@ Aim: students to know that *ed* has three sounds.
 
 Mentor text – Piggie Pie! By Margie Palatini
 
-**Piggie Pie! Margie Palatini**
+## Piggie Pie! Margie Palatini
 
 Gritch the Witch woke up grouchy, grumpy, and very hungry. Her belly
 grumbled for something delicious. Something delightful. Something
@@ -529,21 +529,21 @@ top shelf. She picked off a spider, blew off the dust, and turned to the
 secret recipe on page 342. Gritch ran her bony finger with the long
 green nail down the list of ingredients.
 
-**1 eye of a fly**
+## 1 eye of a fly
 
 She checked the pantry shelves.
 
 “No problem,” said Gritch.
 
-**2 shakes of a rattlesnake’s rattle**
+## 2 shakes of a rattlesnake’s rattle
 
 “No problem,” said Gritch.
 
-**3 belly hairs of a possum**
+## 3 belly hairs of a possum
 
 “No problem,” said Gritch.
 
-**8 plump piggies**
+## 8 plump piggies
 
 “Problem!” screeched Gritch. “I don’t have any piggies! How can I make
 Piggie Pie without even one puny pink pig?”
@@ -708,7 +708,7 @@ and smacked his lips.
 “PROBLEM?” Gritch grinned. “No problem at all,” she said as they walked
 off arm in arm. “I always enjoy having a wolf for lunch.”
 
-**Grade 2**
+## Grade 2
 
 Figurative language.
 
@@ -734,7 +734,7 @@ Articulation: Vocabulary is in everything we do.
 
 Review Spelling Journals
 
-**GRADE 3**
+## GRADE 3
 
 Vocabulary – Figurative language. “Using figurative language in our
 writing, beginning with a vocabulary focus.”
@@ -945,7 +945,7 @@ Rivers of waves, blunt cut.
 
 Oh what will I make of my messy messy hair?
 
-**Grade 3**
+## Grade 3
 
 Spelling. Spelling exploration.
 
@@ -1020,7 +1020,7 @@ clouds, companion of the sun and wind.
 
 Another feathered giant of the sky.
 
-**Nothing to Do Douglas Wood**
+## Nothing to Do Douglas Wood
 
 Once in a while, along comes a day when there is nothing –
 
@@ -1101,7 +1101,7 @@ how to do it with you.
 Maybe even someone with big shoes. Just to remind them that, sometimes,
 doing nothing is the most important thing in the whole wide world to do.
 
-**GRADE 4**
+## GRADE 4
 
 Vocabulary – “How we clarify words when writing.”
 
@@ -1145,7 +1145,7 @@ Which methods do you think were effective?
 
 Could you use any of these methods in your writing?
 
-**Genetics Naomi Shihab Nye**
+## Genetics Naomi Shihab Nye
 
 From my father I inherited the ability
 
@@ -1209,7 +1209,7 @@ I have risen early
 
 ever since.
 
-**Grade 4:**
+## Grade 4:
 
 Figurative language – Metaphor/Simile
 
@@ -1228,7 +1228,7 @@ The Web
 
 Independent Writing: Poetry using figurative language.
 
-**Grade 4**
+## Grade 4
 
 Vocabulary – “How we clarify words when writing.”
 
@@ -1272,7 +1272,7 @@ Which methods do you think were effective?
 
 Could you use any of these methods in your writing?
 
-**Genetics Naomi Shihab Nye**
+## Genetics Naomi Shihab Nye
 
 From my father I inherited the ability
 
@@ -1336,14 +1336,14 @@ I have risen early
 
 ever since.
 
-**GRADE 5**
+## GRADE 5
 
 <table>
 <colgroup>
-<col style="width: 29%" />
-<col style="width: 26%" />
-<col style="width: 18%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1505,7 +1505,7 @@ or explain the technique.
 
 Students try the technique.
 
-**Grade 5**
+## Grade 5
 
 Vocabulary focus – “Could you please either incorporate speaking and
 listening or spelling within a vocabulary lesson.”
@@ -1622,11 +1622,11 @@ create a glossary (cut and paste).
 Which words would be useful for you to use in your writing? Enter them
 into your Spelling Journal.
 
-**Independent Writing:**
+## Independent Writing:
 
 **Read and Retell –** The Wolf Girls
 
-**Historical Fiction:**
+## Historical Fiction:
 
 Students write their own story based on one story from ‘Feral Human
 Children Raised by Animals’. (see sheet)
@@ -1668,10 +1668,9 @@ Mowgli
 
 Tarzan
 
-<img src="assets/VOCABULARY 7/media/image3.png"
-style="width:2.43889in;height:3.00208in" />
+<img src="assets/VOCABULARY 7/media/image3.png" />
 
-**Romulus and Remus**
+## Romulus and Remus
 
 There was a king called Numitor. He had a brother, Amulius, who drove
 him from the throne, slew his daughter, and seized her two baby sons.
@@ -1727,7 +1726,7 @@ month, after the god Janus, to whom he had built a temple.
 
 This was how Rome began.
 
-**The Jungle Book**
+## The Jungle Book
 
 The Jungle Book (1894) is a collection of stories by British Nobel
 laureate Rudyard Kipling. The stories were first published in magazines
@@ -1763,7 +1762,7 @@ fitness of working-class youths in cities. Akela, the head wolf in The
 Jungle Book, has become a senior figure in the movement, the name being
 traditionally adopted by the leader of each Cub Scout pack.
 
-**Mowgli’s Brothers**
+## Mowgli’s Brothers
 
 Plot summary.
 
@@ -1852,7 +1851,7 @@ refuses to forgive them for casting him out earlier. Instead he decides
 that from now on he will hunt alone, except for his four wolf-brothers
 who refuse to be parted from him.
 
-**Letting in the Jungle**
+## Letting in the Jungle
 
 In the previous story Mowgli fulfilled his vow to kill the tiger Shere
 Khan and to lay his hide upon the wolfpack's Council Rock, but was cast
@@ -1991,10 +1990,9 @@ complete.
 >
 > Ahae! My heart is heavy with the things that I do not understand.
 
-<img src="assets/VOCABULARY 7/media/image4.jpeg"
-style="width:3.87986in;height:2.89792in" />
+<img src="assets/VOCABULARY 7/media/image4.jpeg" />
 
-**Tarzan Edgar Rice Burroughs**
+## Tarzan Edgar Rice Burroughs
 
 Tarzan of the Apes is a novel written by Edgar Rice Burroughs, the first
 in a series of books about the title character Tarzan. It was first
@@ -2059,7 +2057,7 @@ true identity. Instead of claiming his inheritance, Tarzan chooses to
 conceal his identity and renounce his heritage for the sake of Jane's
 happiness.
 
-**Grade 6**
+## Grade 6
 
 Spelling
 
@@ -2126,7 +2124,7 @@ dawn as a seed that grows into full daylight.*
 
 *Dawn and Dusk? Twilight, Twice?*
 
-**Lesson:**
+## Lesson:
 
 Stretching language.
 
@@ -2188,7 +2186,7 @@ writer’s style?
 
 Independent Writing
 
-**Other Mentor Texts**
+## Other Mentor Texts
 
 Nocturne by Jane Yolen. Built around stretching a sentence.
 
@@ -2711,7 +2709,7 @@ My hullaballooning thoughts
 
 And drift through dark into dreams.
 
-**Grade 6**
+## Grade 6
 
 Brief: the year 6 concept this term is Science based. If possible, could
 you relate Top Level Structure to science texts.
@@ -2747,8 +2745,7 @@ Photo display.
 
 Read Aloud: Pale Male by Janet Schulman
 
-<img src="assets/VOCABULARY 7/media/image5.jpeg"
-style="width:2.22292in;height:2.875in" />
+<img src="assets/VOCABULARY 7/media/image5.jpeg" />
 
 Discussion:
 
@@ -2833,7 +2830,7 @@ Writing:
 
 Read and Retell
 
-**Pale Male Janet Schulman**
+## Pale Male Janet Schulman
 
 One crisp autumn day in 1991, a red-tailed hawk flew across the Hudson
 River from New Jersey. He flew over smokestacks, skyscrapers, and
@@ -3100,7 +3097,7 @@ people believe it’s Pale Male’s son – Pale Male Junior.
 
 … Long Live Pale Male (Grade 6 Wembley)
 
-**Grade 5**
+## Grade 5
 
 Choral reading leading to poetry writing.
 
@@ -3110,7 +3107,7 @@ Articulation: Refer also to Found poetry
 
 Mentor text: Forest by Sonya Hartnett
 
-**Grade 6**
+## Grade 6
 
 Choral reading leading to poetry writing.
 
@@ -3280,7 +3277,7 @@ I didn’t want to stop.
 I cried until I was empty of tears. Then I was still. As still as the
 sea after a storm.
 
-\*\*\*
+\*
 
 **The Hunger Games**
 
@@ -3435,7 +3432,7 @@ moment…
 
 If only I wasn’t so thirsty.
 
-**Tuck Everlasting Natalie Babbitt**
+## Tuck Everlasting Natalie Babbitt
 
 Chapter 12
 
@@ -3548,7 +3545,7 @@ anguish of all these things, could only sit hunched and numb, the sound
 of the water rolling in her ears. It was black and silky now; it lapped
 at the sides of the rowboat and hurried on around them into the stream…
 
-**Forest Sonya Hartnett**
+## Forest Sonya Hartnett
 
 Inside the box they crouched, too frightened to make a sound. Through
 their feet they could feel they were flying; even in blackness they
@@ -3737,11 +3734,11 @@ told the kittens softly. “We have to go back where we came from.”
 
 <table>
 <colgroup>
-<col style="width: 23%" />
-<col style="width: 17%" />
-<col style="width: 17%" />
-<col style="width: 21%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3774,15 +3771,15 @@ awestruck</td>
 </tbody>
 </table>
 
-**B**
+## B
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 19%" />
-<col style="width: 17%" />
-<col style="width: 18%" />
-<col style="width: 22%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3903,15 +3900,15 @@ bygone</td>
 </tbody>
 </table>
 
-**C**
+## C
 
 <table>
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 17%" />
-<col style="width: 20%" />
-<col style="width: 25%" />
-<col style="width: 15%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4004,15 +4001,15 @@ cutup</td>
 </tbody>
 </table>
 
-**D**
+## D
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 18%" />
-<col style="width: 17%" />
-<col style="width: 22%" />
-<col style="width: 21%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4086,15 +4083,15 @@ duststorm</td>
 </tbody>
 </table>
 
-**E**
+## E
 
 <table>
 <colgroup>
-<col style="width: 17%" />
-<col style="width: 21%" />
-<col style="width: 18%" />
-<col style="width: 21%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4138,15 +4135,15 @@ eyewitness</td>
 </tbody>
 </table>
 
-**F**
+## F
 
 <table>
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 22%" />
-<col style="width: 18%" />
-<col style="width: 19%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4228,15 +4225,15 @@ furthermore</td>
 </tbody>
 </table>
 
-**G**
+## G
 
 <table>
 <colgroup>
-<col style="width: 17%" />
-<col style="width: 20%" />
-<col style="width: 18%" />
-<col style="width: 22%" />
-<col style="width: 21%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4301,15 +4298,15 @@ gunpowder</td>
 </tbody>
 </table>
 
-**H**
+## H
 
 <table>
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 19%" />
-<col style="width: 19%" />
-<col style="width: 19%" />
-<col style="width: 22%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4475,15 +4472,15 @@ hunchback</td>
 </tbody>
 </table>
 
-**I**
+## I
 
 <table>
 <colgroup>
-<col style="width: 26%" />
-<col style="width: 19%" />
-<col style="width: 18%" />
-<col style="width: 16%" />
-<col style="width: 18%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4505,15 +4502,15 @@ itself</td>
 </tbody>
 </table>
 
-**J**
+## J
 
 <table>
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 23%" />
-<col style="width: 20%" />
-<col style="width: 18%" />
-<col style="width: 18%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4534,15 +4531,15 @@ jumpsuit</td>
 </tbody>
 </table>
 
-**K**
+## K
 
 <table>
 <colgroup>
-<col style="width: 22%" />
-<col style="width: 18%" />
-<col style="width: 15%" />
-<col style="width: 24%" />
-<col style="width: 19%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4562,15 +4559,15 @@ knockout</td>
 </tbody>
 </table>
 
-**L**
+## L
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 17%" />
-<col style="width: 22%" />
-<col style="width: 19%" />
-<col style="width: 22%" />
-<col style="width: 18%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4635,15 +4632,15 @@ lungfish</td>
 </tbody>
 </table>
 
-**M**
+## M
 
 <table>
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 20%" />
-<col style="width: 18%" />
-<col style="width: 21%" />
-<col style="width: 19%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4688,15 +4685,15 @@ myself</td>
 </tbody>
 </table>
 
-**N**
+## N
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 21%" />
-<col style="width: 19%" />
-<col style="width: 17%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4736,15 +4733,15 @@ nutshell</td>
 </tbody>
 </table>
 
-**O**
+## O
 
 <table>
 <colgroup>
-<col style="width: 18%" />
-<col style="width: 19%" />
-<col style="width: 23%" />
-<col style="width: 18%" />
-<col style="width: 19%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4895,15 +4892,15 @@ oxbow</td>
 </tbody>
 </table>
 
-**P**
+## P
 
 <table>
 <colgroup>
-<col style="width: 21%" />
-<col style="width: 19%" />
-<col style="width: 17%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4992,14 +4989,14 @@ pushover</td>
 </tbody>
 </table>
 
-**Q**
+## Q
 
 <table>
 <colgroup>
-<col style="width: 26%" />
-<col style="width: 28%" />
-<col style="width: 21%" />
-<col style="width: 23%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -5013,15 +5010,15 @@ quickfire</td>
 </tbody>
 </table>
 
-**R**
+## R
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 19%" />
-<col style="width: 21%" />
-<col style="width: 19%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -5071,16 +5068,16 @@ runway</td>
 </tbody>
 </table>
 
-**S**
+## S
 
 <table>
 <colgroup>
-<col style="width: 15%" />
-<col style="width: 14%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 17%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -5331,15 +5328,15 @@ swordfish</td>
 </tbody>
 </table>
 
-**T**
+## T
 
 <table>
 <colgroup>
-<col style="width: 18%" />
-<col style="width: 22%" />
-<col style="width: 18%" />
-<col style="width: 18%" />
-<col style="width: 22%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -5439,15 +5436,15 @@ typewriter</td>
 </tbody>
 </table>
 
-**U**
+## U
 
 <table>
 <colgroup>
-<col style="width: 23%" />
-<col style="width: 21%" />
-<col style="width: 20%" />
-<col style="width: 18%" />
-<col style="width: 16%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -5512,22 +5509,22 @@ username</td>
 </tbody>
 </table>
 
-**V**
+## V
 
 |           |          |            |           |
 |-----------|----------|------------|-----------|
 | viewpoint | vineyard | volleyball | voltmeter |
 
-**W**
+## W
 
 <table>
 <colgroup>
-<col style="width: 16%" />
-<col style="width: 17%" />
-<col style="width: 16%" />
-<col style="width: 17%" />
-<col style="width: 15%" />
-<col style="width: 16%" />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -5651,13 +5648,13 @@ wrongdoing</td>
 </tbody>
 </table>
 
-**Y**
+## Y
 
 <table>
 <colgroup>
-<col style="width: 35%" />
-<col style="width: 31%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -5671,7 +5668,7 @@ yourself</td>
 </tbody>
 </table>
 
-**Z**
+## Z
 
 |        |           |
 |--------|-----------|
@@ -5681,18 +5678,18 @@ yourself</td>
 
 # 
 
-**Using transitional words and phrases**  
+## Using transitional words and phrases
 helps papers read more smoothly, and at the same time allows the reader
 to flow more smoothly from one point to the next.
 
-**Transitions enhance logical organisation and understandability**  
+## Transitions enhance logical organisation and understandability
 and improve the connections between thoughts. They indicate relations,  
 whether within a sentence, paragraph, or paper.
 
 **This list illustrates categories of "relationships" between ideas,  
 **followed by words and phrases that can make the connections:
 
-**Addition:**  
+## Addition:
 also, again, as well as, besides, coupled with, furthermore, in
 addition, likewise, moreover, similarly
 
@@ -5700,7 +5697,7 @@ addition, likewise, moreover, similarly
 > reinforcement, the partners will be able to overcome difficult
 > situations.*
 
-**Consequence:**  
+## Consequence:
 accordingly, as a result, consequently, for this reason, for this
 purpose,   
 hence, otherwise, so then, subsequently, therefore, thus, thereupon,
@@ -5709,7 +5706,7 @@ wherefore
 > *Highway traffic came to a stop *as a result of* an accident that
 > morning.*
 
-**Contrast and Comparison:**  
+## Contrast and Comparison:
 contrast, by the same token, conversely, instead, likewise,  
 on one hand, on the other hand, on the contrary, rather,  
 similarly, yet, but, however, still, nevertheless, in contrast
@@ -5718,14 +5715,14 @@ similarly, yet, but, however, still, nevertheless, in contrast
 > importantly, their parents were very proactive in providing good
 > care.*
 
-**Direction:**  
+## Direction:
 here, there, over there, beyond, nearly, opposite, under, above,  
 to the left, to the right, in the distance
 
 > *She scanned the horizon for any sign though *in the distance* she
 > could not see the surprise coming her way.*
 
-**Diversion:**  
+## Diversion:
 by the way, incidentally
 
 > *He stumbled upon the nesting pair *incidentally *found only on this
@@ -5738,7 +5735,7 @@ singularly
 > *The Quakers gathered each month *with attention to* deciding the
 > business of their Meeting.*
 
-**Exception:**  
+## Exception:
 aside from, barring, beside, except, excepting, excluding, exclusive of,
 other than, outside of, save
 
@@ -5752,28 +5749,28 @@ particularly, including, specifically, such as
 > *Some friends and I drove up the beautiful coast *chiefly* to avoid
 > the heat island of the city.*
 
-**Generalising:**  
+## Generalising:
 as a rule, as usual, for the most part, generally, generally speaking,
 ordinarily, usually
 
 > *There were a few very talented artists in the class, but *for the
 > most part* the students only wanted to avoid the alternative course.*
 
-**Illustration:**  
+## Illustration:
 for example, for instance, for one thing, as an illustration,   
 illustrated with, as an example, in this case
 
 > *The chapter provided complex sequences and examples *illustrated
 > with* a very simple schematic diagram.*
 
-**Similarity:**  
+## Similarity:
 comparatively, coupled with, correspondingly, identically, likewise,
 similar, moreover, together with
 
 > *The research was presented in a very dry style though was *coupled
 > with* examples that made the audience tear up.*
 
-**Restatement:**  
+## Restatement:
 in essence, in other words, namely, that is, that is to say, in short,
 in brief, to put it differently
 
@@ -5781,7 +5778,7 @@ in brief, to put it differently
 > rule. *That is to say*, they tried to convey the message subtly though
 > with creativity.*
 
-**Sequence:**  
+## Sequence:
 at first, first of all, to begin with, in the first place, at the same
 time,  
 for now, for the time being, the next step, in time, in turn, later
@@ -5792,7 +5789,7 @@ simultaneously, afterward, in conclusion, with this in mind,
 > *The music had a very retro sound but *at the same time* incorporated
 > a complex modern rhythm.*
 
-**Summarising:**  
+## Summarising:
 after all, all in all, all things considered, briefly, by and large, in
 any case, in any event,   
 in brief, in conclusion, on the whole, in short, in summary, in the

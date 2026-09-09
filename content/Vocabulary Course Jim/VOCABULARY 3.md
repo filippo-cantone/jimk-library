@@ -3,11 +3,12 @@ title: "VOCABULARY 3"
 source_file: "Vocabulary Course Jim/VOCABULARY 3.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: vocabulary
 ---
 
-<img src="assets/VOCABULARY 3/media/image1.jpeg"
-style="width:3.33889in;height:2.96736in" />
+<img src="assets/VOCABULARY 3/media/image1.jpeg" />
 
 **VOCABULARY 3**
 
@@ -566,7 +567,7 @@ no matter where you may live.
 
 *Make all the difference in the world?*
 
-**About Turtles**
+## About Turtles
 
 Sea turtles are related to tortoises and terrapins. They are all
 reptiles. Sea turtles are great wanderers, travelling thousands of miles
@@ -766,7 +767,7 @@ A mother octopus rests in her cave den. She watches her babies swim up
 through the water. a gentle Giant octopus shrinks in the shadows. Her
 life is over as their lives begin.
 
-**Crab Moon**
+## Crab Moon
 
 > **Ruth Horowitz**
 
@@ -833,7 +834,7 @@ pausing, Daniel’s feet felt their way into the bay. He followed until
 she disappeared. Then he gave the water one last, long look and
 whispered to his horseshoe crab, ”See you next summer.”
 
-**Up North at the Cabin Marsha Chall**
+## Up North at the Cabin Marsha Chall
 
 On the way up north to the cabin, the sunshine sits in my lap all
 morning. I know the way by heart: past the big walleye statue on Lake
@@ -894,7 +895,7 @@ shut my eyes tight and fix them in my mind. So when I’m far away from
 summer, when frosted windows cloud the sun, I close my eyes and once
 again I am up north at the cabin.
 
-**Amber on the Mountain**
+## Amber on the Mountain
 
 Tony Johnston
 
@@ -1098,7 +1099,7 @@ Love from your friend,
 
 Anna.
 
-**Fireflies Julie Brinckloe**
+## Fireflies Julie Brinckloe
 
 On a summer evening I looked up from dinner, through the open window to
 the backyard. It was growing dark. My treehouse was a black shape in the
@@ -1188,7 +1189,7 @@ my head, making circles around the moon, like stars dancing.
 I held the jar, dark and empty, in my hands. The moonlight and the
 fireflies swam in my tears, but I could feel myself smiling.
 
-**Simile and Metaphor**
+## Simile and Metaphor
 
 Base, G Animalia
 
@@ -1256,7 +1257,7 @@ Wood, A Quick as a Cricket
 
 Yolen, J Owl Moon
 
-**Metaphor**
+## Metaphor
 
 Compares two unlike things that share similar traits, not using ‘like’
 or ‘as’. One thing is/was another.
@@ -1282,7 +1283,7 @@ The Boy Who Loved Words by Roni Schotter
 
 *Waving her arms in the air, she was a windmill of worry.*
 
-**Two Bad Ants Chris Van Allsburg**
+## Two Bad Ants Chris Van Allsburg
 
 The news travelled swiftly through the tunnels of the ant world. A scout
 had returned with a remarkable discovery – a beautiful sparkling
@@ -1416,7 +1417,7 @@ two ants slipped quietly to the end of the line. They climbed the glassy
 wall and once again stood amid the treasure. But this time they each
 chose a single crystal and followed their friends home.
 
-**Owl Moon Jane Yolen**
+## Owl Moon Jane Yolen
 
 It was late one winter night,
 
@@ -1796,7 +1797,7 @@ under a shining
 
 Owl Moon.
 
-**Hyperbole**
+## Hyperbole
 
 Over exaggeration.
 
@@ -1833,7 +1834,7 @@ meaning.
 Extend humour with drawings – partner work. Students create a written
 hyperbole. Partners illustrate literal meaning. Class book.
 
-**Hyperbole – Over-exaggeration**
+## Hyperbole – Over-exaggeration
 
 Gag, W Millions of Cats
 
@@ -1943,7 +1944,7 @@ Wisniewski, D The Secret Knowledge of Grownups
 >
 > And always take the garbage out!
 
-**John Henry Julius Lester**
+## John Henry Julius Lester
 
 You have probably never heard of John Henry. Or maybe you heard about
 him, but don’t know the ins and outs of his comings and goings. Well,
@@ -2231,13 +2232,13 @@ No, it ain’t gon’ rain.
 
 RINGGGG! RINGGGG!
 
-**John Henry**
+## John Henry
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 41%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2307,13 +2308,13 @@ squirrels and even a unicorn …</em></td>
 </tbody>
 </table>
 
-**Onomatopoeia**
+## Onomatopoeia
 
 Sound Effects
 
 Discuss through poem Noises by Danielle Caryl
 
-**Noises**
+## Noises
 
 The click of the clock, the creak of the stair,
 
@@ -2346,7 +2347,7 @@ Paired Reading – Mentor Texts
 | Onomatopoeia Words | Object |
 |                    |        |
 
-**Onomatopoeia**
+## Onomatopoeia
 
 Aardema, V Why Mosquitoes Buzz in People’s Ears
 
@@ -2398,7 +2399,7 @@ Yolen, J Sky Dogs
 
 Yolen, J Welcome to the Greenhouse
 
-**Old MacDonald had a Woodshop Lisa Shulman**
+## Old MacDonald had a Woodshop Lisa Shulman
 
 Old MacDonald had a SHOP,
 
@@ -2666,7 +2667,7 @@ And one scary pumpkin head go BOO, BOO!
 
 And scare all the crows away!
 
-**Sounds Spooky Christopher Cheng**
+## Sounds Spooky Christopher Cheng
 
 Whistling wind through the trees,
 
@@ -2916,7 +2917,7 @@ at me?”
 
 When she does that, she gets an honest answer.
 
-**The Pig in the Pond Martin Waddell**
+## The Pig in the Pond Martin Waddell
 
 This is the story of Neligan’s pig.
 
@@ -2987,7 +2988,7 @@ SPLOOOOOOOSH! They all joined the pig in the pond.
 
 And that was the story of Neligan’s pig.
 
-**Rattletrap Car Phyllis Root**
+## Rattletrap Car Phyllis Root
 
 Junie was hot. Jakie was hot. Even the baby was hot hot hot.
 
@@ -3154,7 +3155,7 @@ bing bang pop!
 
 all the way back home.
 
-**Shortcut** **Donald Crews**
+## Shortcut** **Donald Crews
 
 We looked….
 
@@ -3215,7 +3216,7 @@ We walked home without a word. We didn’t tell Bigmama. We didn’t tell
 anyone. We didn’t talk about what happened for a very long time. And we
 didn’t take the shortcut again.
 
-**PUDDLES Jonathan London**
+## PUDDLES Jonathan London
 
 All night the slash of rain and the flash of lightning, and the
 
@@ -3267,7 +3268,7 @@ On the morning after the rain it’s time to soak in a hot bath…wiggle dry
 in a warm towel…get dressed and drink hot chocolate…then run outside
 again to puddle-jump – splash, splash, splash.
 
-**Night Noises Mem Fox**
+## Night Noises Mem Fox
 
 Lillie Laceby lived in an old cottage in the hills. Her hair was as
 wispy as cobwebs in ceilings. Her bones were as creaky as floorboards at
@@ -3641,7 +3642,7 @@ The prairie dogs raced down, down down the long tunnel.
 And from that day forward, the prairie dogs lived happily – and
 fuzzlessly – ever after.
 
-**We’re Going on a Bear Hunt by Michael Rosen**
+## We’re Going on a Bear Hunt by Michael Rosen
 
 We’re going on a bear hunt.
 
@@ -3794,7 +3795,7 @@ Clara Caterpillar Pamela Duncan Edwards
 
 The Worrywarts Pamela Duncan Edwards
 
-**Alliteration**
+## Alliteration
 
 Aylesworth, J Old Black Fly
 
@@ -3842,7 +3843,7 @@ Van Allsburg, C The Z was Zapped
 
 Wood, A Quick as a Cricket
 
-**Come on, Rain Karen Hesse**
+## Come on, Rain Karen Hesse
 
 “Come on, Rain!” I say,
 
@@ -4137,7 +4138,7 @@ turning towards the first sweet rays of the sun.
 My partner, Bill, and I were working the barnyard shift. It was
 peaceful. Quiet. Then we got the call.
 
-**“Cock-a-doodle-doo!”**
+## “Cock-a-doodle-doo!”
 
 “A lot of squawking going on down in the coop area, Detective Web. Looks
 like fowl play. Report says feathers are flying. Chief says we should
@@ -4305,7 +4306,7 @@ one, Web. But how did you ever figure it was him?”
 his napkin and brush his teeth. He’s a dirty rat. He never did have good
 hygiene.”
 
-**DUM DE DUM DUM**
+## DUM DE DUM DUM
 
 The dirty rat was tried and convicted on three counts of vegetable
 vagrancy, offensive bad breath, and not using a napkin to wipe under his
@@ -4356,7 +4357,7 @@ good night,
 
 tall, tall grass.
 
-**Personification**
+## Personification
 
 Inanimate objects are given human qualities or described in human form.
 
@@ -4375,7 +4376,7 @@ Welcomed the summer rainfall
 
 Into its bosom. (Me)
 
-**Personification – objects given human qualities**
+## Personification – objects given human qualities
 
 Bunting, E Butterfly House
 
@@ -4401,7 +4402,7 @@ Steig, W Sylvester and the Magic Pebble
 
 Yolen, J Owl Moon
 
-**Old Tortoise**
+## Old Tortoise
 
 Madeleine Comora
 
@@ -5013,7 +5014,7 @@ and give thanks
 
 to the wild night.
 
-**Sierra Diane Siebert**
+## Sierra Diane Siebert
 
 I am the mountain,
 
@@ -5311,19 +5312,19 @@ Schotter, Roni Nothing Ever Happens on 90<sup>th</sup> Street
 
 Wallace, Karen Gentle Giant Octopus
 
-**Metaphor**
+## Metaphor
 
 Van Allsburg, Chris Two Bad Ants
 
 Yolen, Jane Owl Moon
 
-**Hyperbole**
+## Hyperbole
 
 Lester, Julius John Henry
 
 Silverstein, Shel Sarah Cynthia Sylvia Stout …
 
-**Onomatopoeia**
+## Onomatopoeia
 
 Aardema, Verna Why Mosquitoes Buzz in People’s Ears
 
@@ -5347,7 +5348,7 @@ Waddell, Martin The Pig in the Pond
 
 Williams, Linda The Little Old Lady who was not Afraid …
 
-**Alliteration**
+## Alliteration
 
 Fleming, Denise In the Tall, Tall Grass
 
@@ -5355,7 +5356,7 @@ Hesse, Karen Come on Rain
 
 Palatini, Margie The Web Files
 
-**Personification**
+## Personification
 
 Comora, Madeleine Old Tortoise
 
