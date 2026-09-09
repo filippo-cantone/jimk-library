@@ -36,61 +36,22 @@ good introductory vocabulary list for other language work.
 
 ## 2. Unit planning templates
 
-Two blank variants from the pack, kept in their original layout:
+Two blank variants from the pack (transcribed as given):
 
 **Variant A.**
 
-UNIT:
+> UNIT: · FOCUS QUESTION: · Other Questions: · LANGUAGE FOCUS (text type):
+> INITIAL UNDERSTANDINGS (what we already know) · EXPANDING KNOWLEDGE (what
+> we would like to know) · Excursions · Reading: To / With (shared) / By
+> (guided/independent) · EXPLICIT TEACHING: text demonstration — format of
+> text type; book format (title page, contents, glossary, index); diagrams;
+> shared reading; modelled writing; charts (discuss purpose) · JOINT TEXT
+> CONSTRUCTION: shared writing (shared book as model) · INDEPENDENT TEXT
+> CONSTRUCTION (writing process).
 
-FOCUS QUESTION:
-
-Other Questions:
-
-LANGUAGE FOCUS: (Text Type)
-
-INITIAL UNDERSTANDINGS: (What we already know)
-
-EXPANDING KNOWLEDGE: What we would like to know.
-
-Excursions:
-
-Reading: To
-&emsp;&emsp;&emsp;&emsp;With (Shared Reading)
-&emsp;&emsp;&emsp;&emsp;By (Guided Reading / Independent Reading)
-
-EXPLICIT TEACHING:
-&emsp;Text Demonstration:
-&emsp;&emsp;- Format of Text Type
-&emsp;&emsp;- Book format (Title page, Table of Contents, Glossary, Index)
-&emsp;&emsp;- Diagrams
-&emsp;Shared Reading
-&emsp;Modelled Writing
-&emsp;Charts (discuss purpose)
-
-JOINT TEXT CONSTRUCTION:
-&emsp;Shared Writing (Shared book can be used as model)
-
-INDEPENDENT TEXT CONSTRUCTION: (Writing Process)
-
-**Variant B** (shorter).
-
-UNIT:
-
-FOCUS QUESTION:
-
-Other Questions:
-
-LANGUAGE FOCUS:
-
-INITIAL UNDERSTANDINGS:
-
-EXPANDING KNOWLEDGE:
-
-EXPLICIT TEACHING:
-
-JOINT TEXT CONSTRUCTION:
-
-INDEPENDENT TEXT CONSTRUCTION:
+**Variant B** (shorter): UNIT · FOCUS QUESTION · Other Questions · LANGUAGE
+FOCUS · INITIAL UNDERSTANDINGS · EXPANDING KNOWLEDGE · EXPLICIT TEACHING ·
+JOINT TEXT CONSTRUCTION · INDEPENDENT TEXT CONSTRUCTION.
 
 <!-- p.3–4 -->
 
@@ -211,16 +172,11 @@ key-wording; rewriting in own words. **Procedure:** when modelling, prepare a
 chart — headings can come from the KWHL process. Note-take with pictures
 and/or writing; use the chart as a rewriting guide if appropriate.
 
-Worked example — Jim's hand-drawn "Spiders" chart (clipped from the scan;
-labels transcribed beneath for search):
-
-![Jim's hand-drawn Spiders data chart: five sketch boxes — where spiders live, webs, silk, homes, appearance](assets/spiders-data-chart.png)
-
-Boxes, clockwise from top left: **Spiders live in different places**
-(mountains, desert, forests, the sea) · **Webs** (a web labelled "food") ·
-**Silk** (a spider hanging, labelled "hanging") · **Homes** (a house; "under
-leaves", "webs", "underground") · **Appearance** (a spider; "8 legs",
-"8 eyes", "2 parts").
+Worked example (hand-drawn "Spiders" chart, described — handwriting not
+transcribed): five labelled sketch boxes — where spiders live (mountains,
+desert, forests, the sea), webs (a web labelled "food"), silk (a spider
+hanging, labelled "hanging"), homes (a house; "under leaves", "webs",
+"underground"), appearance (a spider; "8 legs", "8 eyes", "2 parts").
 
 <!-- p.13 -->
 
@@ -293,10 +249,8 @@ about:"* with four *"A detail:"* boxes around it.
 **Aims:** listening to a taped description; labelling for spelling and
 writing. **Procedure:** prepare tape and diagram; students listen, label, and
 re-listen as needed; check; use the diagram for writing. Script frame:
-*"Listen carefully as I explain the parts of an insect…"* Students label the
-diagram with pointer lines to the body parts:
-
-![Insect labelling worksheet: a fly illustration in a box with pointer lines to head, eye, wing, leg and body segments](assets/fly-diagram.png)
+*"Listen carefully as I explain the parts of an insect…"* Students label an
+unlabelled fly diagram with pointer lines to the body parts.
 
 <!-- p.20 -->
 
@@ -405,56 +359,18 @@ statement introducing the object → characteristic features.
 
 <!-- p.35 -->
 
-## 10. Writing Analysis (photocopy master)
+## 10. Writing Analysis (photocopy masters)
 
-The pack ends with two copies of this form (p.37 is the blank for copying).
-Structured here as the original lays it out:
+Two copies of the same form (p.37 is the blank for copying). Headings:
 
-**Name:** _______________ &emsp; **Text:** _______________ &emsp; **Date:** _______________
-
-**Meaning**
-- Audience (recognition)
-- Purpose (knows purpose)
-- Clear main idea
-- Information (quantity & accuracy)
-- Clarity
-- Sense
-- Revision (evidence)
-- Personal style/voice
-
-**Structure**
-- Planning
-- Genre-specific structure
-- Sequence of ideas
-- Effective lead/ending
-- Cohesion (does it hang together?)
-- Use of diagrams
-
-**Processes**
-- Planning (method)
-- Drafting/Revising
-- Editing (see Editing Guide & Meaning)
-- Proofreading (see Proofreading Guide & Conventions)
-- Publishing
-
-**Conventions**
-- Punctuation
-- Grammar
-  - tense (consistency)
-  - sentence structure
-  - sentence beginnings
-- Vocabulary
-- Spelling
-
-*Strategies used:*
-
-**Additional information**
-- Development
-- Understandings
-- Attitude
-
-**Observed needs**
-
-*Implications for further learning*
+**Name / Text / Date.** **Meaning:** audience, purpose, clear main idea,
+information (quantity and accuracy), clarity, sense, revision (evidence),
+personal style/voice. **Structure:** planning, genre-specific structure,
+sequence of ideas, effective lead/ending, cohesion, diagrams. **Processes:**
+planning method, drafting/revising, editing, proofreading, publishing.
+**Conventions:** punctuation; grammar (tense consistency, sentence structure,
+sentence beginnings); vocabulary; spelling. Plus: strategies used; additional
+information (development, understandings, attitude); observed needs;
+implications for further learning.
 
 <!-- p.36–37 -->

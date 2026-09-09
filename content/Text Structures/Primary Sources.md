@@ -253,8 +253,13 @@ throw them into the fire."* Bare feet through snow; hoarse that night.
 Also: young slaves' own stories in *Growing Up in Slavery*; *Lest We Forget*
 (V. Thomas) for innovative book presentation with Black Holocaust Exhibit
 documents and photographs; *The Struggle Against Slavery*
-(D. Waldstreicher), a history in documents. Lives of children who were
-slaves: conditions…
+(D. Waldstreicher), a history in documents.
+
+Blank research table from the pack — **Lives of Children Who Were Slaves:**
+
+| Food | Clothing | Living Conditions | Work | Education | Auctions |
+|---|---|---|---|---|---|
+| | | | | | |
 
 <!-- p.12 -->
 
@@ -269,6 +274,15 @@ Today: 10–20 million children work as bonded laborers — "like being a
 slave." S. Newman, *Child Slavery in Modern Times*; D. Parker, *Stolen
 Dreams*; S. Kuklin, *Iqbal Masih and the Crusaders Against Child Slavery*;
 J. Springer, *Listen to Us*. Use photographs and stories together.
+
+Blank research table from the pack — **Child Labor:**
+
+| Place of Work | What They Do | Dangers/Conditions | Hours |
+|---|---|---|---|
+| Mines | | | |
+| Mills | | | |
+| Fields | | | |
+| Factories | | | |
 
 <!-- p.13 -->
 
