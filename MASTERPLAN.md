@@ -51,6 +51,11 @@ Across all notes:
   INCLUDEPICTURE leftovers); confirm image links resolve.
 - Downsize photo copies to web resolution (originals untouched); target ~150 MB repo.
 - The 4 identical `(2)` duplicates become pointers, not copies.
+- **Complete book texts get standalone documents.** Whenever a full text of a
+  real picture book (or poem, essay, story) is found inside a pack, lift it
+  into its own document in Mentor Texts (frontmatter: author, source pack,
+  completeness confirmed/likely). The copy in the original pack stays put.
+  Abridged or boundary-unclear texts stay in the pack only.
 
 Order: Text Structures → Choral reading → Information Report →
 Literacy Overview → Text Structures… (then by size; photo libraries last).
