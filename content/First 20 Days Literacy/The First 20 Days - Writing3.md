@@ -3,7 +3,9 @@ title: "The First 20 Days - Writing3"
 source_file: "First 20 Days Literacy/The First 20 Days - Writing3.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: first-20-days
 ---
 
 **The First**
@@ -12,15 +14,13 @@ tags: [jim-k]
 
 **Days**
 
-<img src="assets/The First 20 Days - Writing3/media/image1.jpeg"
-style="width:5.41667in;height:3.86736in" />
+<img src="assets/The First 20 Days - Writing3/media/image1.jpeg" />
 
 **Writing**
 
 **(3)**
 
-<img src="assets/The First 20 Days - Writing3/media/image2.jpeg"
-style="width:4.02917in;height:2.80694in" />
+<img src="assets/The First 20 Days - Writing3/media/image2.jpeg" />
 
 **The First 20 Days – Writing 3**
 
@@ -42,7 +42,7 @@ Ralph Fletcher
 
 **Craft** the students could learn to enhance their writing. E.g.
 
-**Style**
+## Style
 
 Voice
 
@@ -68,7 +68,7 @@ Imagery Scene Character
 
 Fluency
 
-**Focus**
+## Focus
 
 Topic
 
@@ -90,7 +90,7 @@ Purpose
 
 Audience
 
-**Organisation**
+## Organisation
 
 Stanza
 
@@ -102,7 +102,7 @@ Line Breaks
 
 Structure
 
-**Conventions**
+## Conventions
 
 Spelling
 
@@ -110,12 +110,11 @@ Grammar
 
 Structure (word level)
 
-**Nikki Giovanni**
+## Nikki Giovanni
 
-<img src="assets/The First 20 Days - Writing3/media/image3.jpeg"
-style="width:3.12569in;height:1.74861in" />
+<img src="assets/The First 20 Days - Writing3/media/image3.jpeg" />
 
-**Nikki Giovanni**
+## Nikki Giovanni
 
 *I'm fascinated by people, by human beings, and that's what got me
 interested in writing. I think students already know that poems don't
@@ -137,15 +136,15 @@ Knoxville, Tennessee
 
 <table>
 <colgroup>
-<col style="width: 54%" />
-<col style="width: 45%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
 <td><table>
 <colgroup>
-<col style="width: 0%" />
-<col style="width: 99%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -308,7 +307,7 @@ And sleep</p>
 </tbody>
 </table>
 
-**Writing Lessons**
+## Writing Lessons
 
 There are … still … so many books I want to read … and reread …
 
@@ -380,7 +379,7 @@ Because
 
 There are … still … so many
 
-**Ideas:**
+## Ideas:
 
 Read ‘Writing Lessons’.
 
@@ -425,7 +424,7 @@ Read: Don’t Hold Me Back
 What thoughts and feelings do you have about your dreams or in your
 dreams?
 
-**Cloud Dance Thomas Locker**
+## Cloud Dance Thomas Locker
 
 Clouds of many shapes
 
@@ -517,12 +516,11 @@ across the sky.
 
 Good-night clouds.
 
-**Barbara Esbensen**
+## Barbara Esbensen
 
-<img src="assets/The First 20 Days - Writing3/media/image4.jpeg"
-style="width:2.64583in;height:2.0625in" />
+<img src="assets/The First 20 Days - Writing3/media/image4.jpeg" />
 
-**Barbara Esbensen**
+## Barbara Esbensen
 
 *The way words looked when placed next to each other was deeply
 important to me. When put together in fresh, unexpected ways, they could
@@ -535,7 +533,7 @@ combinations that make sentences catch fire and shower down sparks!*
 rhyme you always have a sense of what’s coming at the end of the line,
 and that ruins the surprise. To me, poetry should knock your block off.*
 
-**My Cat**
+## My Cat
 
 My cat is asleep – white paws folded under his chin He is a soft grey
 smudge on the round rug.
@@ -679,7 +677,7 @@ We will never forget
 
 each other **Barbara Esbensen**
 
-**Ideas:**
+## Ideas:
 
 **Pets** Read: My Cat Revise metaphor – there are two used here. Look at
 the verbs used. Students use strong verbs and metaphors in their poems.
@@ -698,10 +696,9 @@ lullaby.
 **Friends** Read: Friends Do a drawing about a friend ‘*anything can
 happen in pictures’* What is happening in your picture?
 
-<img src="assets/The First 20 Days - Writing3/media/image5.jpeg"
-style="width:2.37569in;height:2.37569in" />
+<img src="assets/The First 20 Days - Writing3/media/image5.jpeg" />
 
-**The Day the Crayons Quit by Drew Daywalt**
+## The Day the Crayons Quit by Drew Daywalt
 
 Poor Duncan just wants to colour. But when he opens his box of crayons,
 he finds only letters, all saying the same thing: We quit!  
@@ -716,14 +713,11 @@ bestseller Oliver Jeffers create a colourful solution in this playful,
 imaginative story that will have children laughing and playing with
 their crayons in a whole new way.
 
-<img src="assets/The First 20 Days - Writing3/media/image6.jpeg"
-style="width:2.95764in;height:2.95764in" />
+<img src="assets/The First 20 Days - Writing3/media/image6.jpeg" />
 
-<img src="assets/The First 20 Days - Writing3/media/image7.jpeg"
-style="width:8.04167in;height:4.02083in" />
+<img src="assets/The First 20 Days - Writing3/media/image7.jpeg" />
 
-<img src="assets/The First 20 Days - Writing3/media/image8.jpeg"
-style="width:8in;height:4in" />
+<img src="assets/The First 20 Days - Writing3/media/image8.jpeg" />
 
 In THE DAY THE CRAYONS QUIT, Duncan is excited to open up his box of
 crayons and begin working. A problem exists though. The crayons have
@@ -785,10 +779,9 @@ as much as possible.
 
 Kathy Prater – IRA
 
-<img src="assets/The First 20 Days - Writing3/media/image9.jpeg"
-style="width:4.125in;height:3.49236in" />
+<img src="assets/The First 20 Days - Writing3/media/image9.jpeg" />
 
-**Further Ideas:**
+## Further Ideas:
 
 **Letter Writing.** The Day the Crayons Quit is written as a series of
 letters by protesting crayons. What are the features of a friendly (or
@@ -799,7 +792,7 @@ station for this purpose. Create a letter writing station with special
 writing tools such as different coloured papers, crayons (of course, to
 be used freely), envelopes, stamps.
 
-**Compare and Contrast**
+## Compare and Contrast
 
 Read The Day the Crayons Quit and Oliver Jeffers’ Stuck. Stuck is
 available on YouTube. Have students compare and contrast the two stories
@@ -830,7 +823,7 @@ dressing? Or acting? Students consider what things they assume or take
 for granted in their everyday lives, particularly around issues of
 gender. Turn and Talk, etc.
 
-**RAFT**
+## RAFT
 
 RAFT stands for R: Role, A: Audience, F: Format, T: Topic. In the book,
 Drew Daywalt was writing as a crayon (R) to their owner (A) in a letter
@@ -839,14 +832,14 @@ Drew Daywalt was writing as a crayon (R) to their owner (A) in a letter
 The students could pick their own toy and write a letter to themselves
 about their use.
 
-**Voice**
+## Voice
 
 Each crayon has his/her own distinct voice. Discuss the way each crayon
 writes with voice. Extend to the tone students use in letters by
 discussing the way some crayons are more respectful towards Duncan (with
 their persuasive arguments), while others whinge.
 
-**Punctuation:**
+## Punctuation:
 
 Examples of Question marks, exclamation marks and ellipses.
 
@@ -884,15 +877,13 @@ spoken to privately) so each student gets a say and a vote on how to
 deal with the problems. They will be able to understand that change is
 possible when you speak up and that everyone is allowed an opinion.
 
-**Art**
+## Art
 
-<img src="assets/The First 20 Days - Writing3/media/image10.jpeg" /><img src="assets/The First 20 Days - Writing3/media/image11.jpeg"
-style="width:3.98958in;height:4.13542in" />
+<img src="assets/The First 20 Days - Writing3/media/image10.jpeg" /><img src="assets/The First 20 Days - Writing3/media/image11.jpeg" />
 
-<img src="assets/The First 20 Days - Writing3/media/image12.jpeg"
-style="width:2.70833in;height:3.33333in" />
+<img src="assets/The First 20 Days - Writing3/media/image12.jpeg" />
 
-**The Pencil by Allan Ahlberg**
+## The Pencil by Allan Ahlberg
 
 Once there was a pencil, a lonely little pencil, and nothing else. Then
 one day that little pencil made a move, shivered slightly, quivered
@@ -906,11 +897,11 @@ style and accompanied by Bruce Ingman’s simple yet emotive
 illustrations, this is a picture book that can be used with a diverse
 age group.
 
-**Art and Writing**
+## Art and Writing
 
 *Whatever you draw comes to life.*
 
-**Personification**
+## Personification
 
 Any genre.
 
@@ -919,10 +910,9 @@ lay there, which was nowhere in particular, for a long long time. Then
 one day that little pencil made a move, shivered slightly, quivered
 somewhat … and began to draw.
 
-<img src="assets/The First 20 Days - Writing3/media/image13.jpeg"
-style="width:4.16667in;height:2.34375in" />
+<img src="assets/The First 20 Days - Writing3/media/image13.jpeg" />
 
-**The Pencil Allan Ahlberg**
+## The Pencil Allan Ahlberg
 
 The pencil drew a boy.
 
@@ -972,14 +962,13 @@ Only then …
 
 “Cat food!” miaowed Mildred.
 
-**“IT’S BLACK AND WHITE!”**
+## “IT’S BLACK AND WHITE!”
 
 The pencil hesitated, frowned, looked thoughtful for a while, and drew …
 
 **A PAINTBRUSH.**
 
-<img src="assets/The First 20 Days - Writing3/media/image14.png"
-style="width:3.04097in;height:2.69722in" />
+<img src="assets/The First 20 Days - Writing3/media/image14.png" />
 
 “What’s my name?” said the paintbrush.
 
@@ -1034,8 +1023,7 @@ somewhat, and drew …
 
 **A RUBBER.**
 
-<img src="assets/The First 20 Days - Writing3/media/image15.jpeg"
-style="width:2.625in;height:3.33333in" />
+<img src="assets/The First 20 Days - Writing3/media/image15.jpeg" />
 
 After that the rubber, as you might expect, rubbed things out – hats and
 ears and such. The pencil and the paintbrush drew and painted them
@@ -1095,8 +1083,7 @@ boiled egg, named Billy, but it ran off. A whole column of ants
 (“What’re our names?” said the ants\*) came marching across the
 tablecloth.
 
-<img src="assets/The First 20 Days - Writing3/media/image16.jpeg"
-style="width:3.125in;height:2.47917in" />
+<img src="assets/The First 20 Days - Writing3/media/image16.jpeg" />
 
 \*Alice Alvie Abraham Amy Araminta Alberic Algernon Anastasia Ada Allan
 
@@ -1113,12 +1100,11 @@ And Kitty painted that.
 
 She painted him too.
 
-**Judith Viorst**
+## Judith Viorst
 
-<img src="assets/The First 20 Days - Writing3/media/image17.png"
-style="width:3.75in;height:3.45833in" />
+<img src="assets/The First 20 Days - Writing3/media/image17.png" />
 
-**Judith Viorst**
+## Judith Viorst
 
 > ***The subjects that you write about are based upon your own
 > experience?**  
@@ -1221,9 +1207,9 @@ themselves?*
 
 <table>
 <colgroup>
-<col style="width: 80%" />
-<col style="width: 18%" />
-<col style="width: 1%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1264,13 +1250,13 @@ printing.</p>
 </tbody>
 </table>
 
-**Judith Viorst**
+## Judith Viorst
 
 <table>
 <colgroup>
-<col style="width: 80%" />
-<col style="width: 16%" />
-<col style="width: 3%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1456,7 +1442,7 @@ What do you worry about? (You can be flippant.)
 
 Write the poem.
 
-**Learning**
+## Learning
 
 Read: Learning
 
@@ -1464,7 +1450,7 @@ What are you learning?
 
 Write a ‘learning’ poem without rhyming.
 
-**Boss of the World**
+## Boss of the World
 
 Read: If I Were in Charge of the World
 
@@ -1472,7 +1458,7 @@ If you were in charge of the world, what would happen?
 
 List the things in the form of a poem.
 
-**Found Poetry**
+## Found Poetry
 
 Read: The Tenth Good Thing About Barney
 
@@ -1657,12 +1643,11 @@ As with other literary lessons, the students are:
 
 - Extending vocabulary knowledge by learning and using new words.
 
-**Tony Johnston**
+## Tony Johnston
 
-<img src="assets/The First 20 Days - Writing3/media/image18.jpeg"
-style="width:3.20694in;height:3.22778in" />
+<img src="assets/The First 20 Days - Writing3/media/image18.jpeg" />
 
-**Tony Johnston**
+## Tony Johnston
 
 ***Where Do You Find Inspiration?***
 
@@ -1728,41 +1713,34 @@ style="width:3.20694in;height:3.22778in" />
 - *How do you write a novel? Hemingway’s answer: “First I clean the
   Fridge.” (He’s finding space to think).*
 
-**My Overalls**
+## My Overalls
 
-<img src="assets/The First 20 Days - Writing3/media/image19.png"
-style="width:0.31181in;height:0.31181in" />
+<img src="assets/The First 20 Days - Writing3/media/image19.png" />
 
 The best thing is their colour,
 
-<img src="assets/The First 20 Days - Writing3/media/image19.png"
-style="width:0.31181in;height:0.31181in" />old-night or early-dawn.
+<img src="assets/The First 20 Days - Writing3/media/image19.png" />old-night or early-dawn.
 
 No, the best thing is their limpness
 
-<img src="assets/The First 20 Days - Writing3/media/image19.png"
-style="width:0.31181in;height:0.31181in" />when I hoist them on.
+<img src="assets/The First 20 Days - Writing3/media/image19.png" />when I hoist them on.
 
 No, the best thing is their looseness
 
-<img src="assets/The First 20 Days - Writing3/media/image19.png"
-style="width:0.31181in;height:0.31181in" />like the soft skin of a pup.
+<img src="assets/The First 20 Days - Writing3/media/image19.png" />like the soft skin of a pup.
 
 No, the best thing is their buckles
 
-<img src="assets/The First 20 Days - Writing3/media/image19.png"
-style="width:0.31181in;height:0.31181in" />like a suitcase snapping
+<img src="assets/The First 20 Days - Writing3/media/image19.png" />like a suitcase snapping
 shut.
 
 No, the best thing is their perfume
 
-<img src="assets/The First 20 Days - Writing3/media/image19.png"
-style="width:0.31181in;height:0.31181in" />of cows and hay and dung.
+<img src="assets/The First 20 Days - Writing3/media/image19.png" />of cows and hay and dung.
 
 No, the best thing is their many holes
 
-<img src="assets/The First 20 Days - Writing3/media/image19.png"
-style="width:0.31181in;height:0.31181in" />to let in all the sun.
+<img src="assets/The First 20 Days - Writing3/media/image19.png" />to let in all the sun.
 
 **Tony Johnston**
 
@@ -1804,7 +1782,7 @@ I share the deepest secrets
 
 Of the dust.
 
-**Tony Johnston**
+## Tony Johnston
 
 ## White Cat Winter 
 
@@ -1858,10 +1836,9 @@ It was faithful
 
 and stayed.
 
-**Tony Johnston**
+## Tony Johnston
 
-<img src="assets/The First 20 Days - Writing3/media/image20.jpeg"
-style="width:2.39583in;height:2.625in" />
+<img src="assets/The First 20 Days - Writing3/media/image20.jpeg" />
 
 For at least 100 years, generations of barn owls have slept, hunted,
 called, raised their young, and glided silently above the wheat fields
@@ -1902,7 +1879,7 @@ their song
 
 of joy.
 
-**The Barn Owls Tony Johnston**
+## The Barn Owls Tony Johnston
 
 The barn has stood
 
@@ -2052,12 +2029,12 @@ One hundred years
 
 at least.
 
-**WRITING CRAFT The Barn Owls by Tony Johnston**
+## WRITING CRAFT The Barn Owls by Tony Johnston
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2124,7 +2101,7 @@ sunned split spun hummed</em></p>
 </tbody>
 </table>
 
-**Ideas:**
+## Ideas:
 
 **Persona Poem** (sometimes known as Mask Poems)
 
@@ -2136,7 +2113,7 @@ In this poem the broom describes itself.
 
 Choose an object from around the house and write a persona poem.
 
-**Best Thing Poem**
+## Best Thing Poem
 
 Using similes.
 
@@ -2160,8 +2137,7 @@ Save the best thing till last.
 
 Use similes like Tony Johnston does in her poem.
 
-<img src="assets/The First 20 Days - Writing3/media/image21.jpeg"
-style="width:2.41667in;height:3.12292in" />
+<img src="assets/The First 20 Days - Writing3/media/image21.jpeg" />
 
 When day is done, the sun streaks the desert sky with flame. Soon the
 stars come out, and with them, a host of creatures. Bats spill from a
@@ -2243,7 +2219,7 @@ lonely; none of his fellow bats will stay awake to share the daylight
 with him. Maurice Sendak contributes delicate pen-and-ink drawings to
 Jarrell’s poetic fable.
 
-**Desert Song Tony Johnston**
+## Desert Song Tony Johnston
 
 Day is done.
 
@@ -2483,12 +2459,11 @@ and the sun goes down
 
 and twilight comes again.
 
-**Kristine O’Connell George**
+## Kristine O’Connell George
 
-<img src="assets/The First 20 Days - Writing3/media/image22.jpeg"
-style="width:3.62361in;height:2.63333in" />
+<img src="assets/The First 20 Days - Writing3/media/image22.jpeg" />
 
-**Kristine O’Connell George**
+## Kristine O’Connell George
 
 *I have questions about everything. The world fascinates and astonishes
 me. I am often filled with wonder.*
@@ -2522,7 +2497,7 @@ even the odd snippets of dreams.*
 Rewriting! I love to play with ideas and words and see what happens.
 Rewriting can be frustrating but it is also very rewarding.*
 
-**Emma Dilemma**
+## Emma Dilemma
 
 Sometimes Dad
 
@@ -2919,12 +2894,11 @@ starts the same way. Keep this in mind for one of your poems.
 *Tent* is a ‘how to’ poem. The poet is explaining how their tent went
 up. Try a ‘how to’ poem.
 
-**Ralph Fletcher**
+## Ralph Fletcher
 
-<img src="assets/The First 20 Days - Writing3/media/image23.jpeg"
-style="width:3.17639in;height:4.15486in" />
+<img src="assets/The First 20 Days - Writing3/media/image23.jpeg" />
 
-**Ralph Fletcher**
+## Ralph Fletcher
 
 *When I write poems I try to get at the mystery of my subject. When I
 use that —mystery—I mean the truth about the subject that isn't obvious,
@@ -3130,14 +3104,14 @@ Read: My Little Brother
 Revise metaphors and similes. Students writing sibling/family poems
 using figurative language,
 
-**Around the house poem**
+## Around the house poem
 
 Read: Defrosting the Freezer
 
 Another example of poetry being about everyday things. Think of doing
 something around the house. Turn it into a poem.
 
-**A creation comes to life**
+## A creation comes to life
 
 Read: Snow Angel
 
@@ -3154,8 +3128,7 @@ Creations in sand.
 
 Creations in mud.
 
-<img src="assets/The First 20 Days - Writing3/media/image24.jpeg"
-style="width:3.99861in;height:3.20069in" />
+<img src="assets/The First 20 Days - Writing3/media/image24.jpeg" />
 
 Ralph Fletcher had written in his Writer’s Notebook:
 
@@ -3430,8 +3403,7 @@ dawn as a seed that grows into full daylight.*
 
 .
 
-<img src="assets/The First 20 Days - Writing3/media/image25.jpeg"
-style="width:2.62778in;height:2.35in" />
+<img src="assets/The First 20 Days - Writing3/media/image25.jpeg" />
 
 **Stretching language.**
 
@@ -3701,5 +3673,4 @@ onto its pillow.
 
 Good night, harvest moon.
 
-<img src="assets/The First 20 Days - Writing3/media/image26.jpeg"
-style="width:4.57292in;height:6.66667in" />
+<img src="assets/The First 20 Days - Writing3/media/image26.jpeg" />

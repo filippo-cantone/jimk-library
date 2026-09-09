@@ -3,7 +3,9 @@ title: "The First 20 Days - Spelling"
 source_file: "First 20 Days Literacy/The First 20 Days - Spelling.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: first-20-days
 ---
 
 **The First**
@@ -12,13 +14,11 @@ tags: [jim-k]
 
 **Days**
 
-<img src="assets/The First 20 Days - Spelling/media/image1.jpeg"
-style="width:3.04167in;height:2.11458in" />
+<img src="assets/The First 20 Days - Spelling/media/image1.jpeg" />
 
-**Spelling**
+## Spelling
 
-<img src="assets/The First 20 Days - Spelling/media/image2.jpeg"
-style="width:5.20764in;height:3.71944in" />
+<img src="assets/The First 20 Days - Spelling/media/image2.jpeg" />
 
 **The First 20 Days Spelling**
 
@@ -178,7 +178,7 @@ Prefixes
 
 Suffixes
 
-**Spelling at Wembley**
+## Spelling at Wembley
 
 Refer to the Wembley Spelling Policy – reviewed 2013.
 
@@ -224,11 +224,11 @@ Spelling Journals
 
 How to learn words.
 
-**SPELLING**
+## SPELLING
 
 From
 
-**LITERATURE** **WRITING** **STUDENTS’ WRITING**
+## LITERATURE** **WRITING** **STUDENTS’ WRITING
 
 Writing Process
 
@@ -264,7 +264,7 @@ Test Sheet
 
 Publishing
 
-**SPELLING**
+## SPELLING
 
 Three strategies to keep in mind in the early years:
 
@@ -274,7 +274,7 @@ Three strategies to keep in mind in the early years:
 
 - Using analogy.
 
-**Learning Words**
+## Learning Words
 
 Children should learn different strategies – useful ways to learn words
 and go beyond this to learn other words.
@@ -308,7 +308,7 @@ whiteboard. Look, Say, Spell, Cover, Write, Check.
 
 Take to fluency, (write fast). Add to word book.
 
-**Investigating a Letter**
+## Investigating a Letter
 
 The letter is always referred to by name.
 
@@ -346,11 +346,11 @@ Each child has a card and pencil. ‘Look for words that you can read.’
 
 Share time. Categorise.
 
-**f ph ff**
+## f ph ff
 
 talk about ‘of’ if it comes up. Make a list at the side.
 
-**Linking Spelling to Reading and Writing**
+## Linking Spelling to Reading and Writing
 
 ‘If spelling strategies are developed as isolated knowledge they are not
 useful, so children need to realise that they can learn about spelling
@@ -358,7 +358,7 @@ by studying what other authors do in published writing and to
 continually reflect on how the strategies they are learning can help
 them with their own writing.’
 
-**A Process of Inquiry**
+## A Process of Inquiry
 
 Children can attain real understanding about spelling and can apply what
 they have learnt if they are guided in a process of inquiry and
@@ -389,7 +389,7 @@ discovery. The following steps provide one way to do this:
 
 Snowball & Bolton *Spelling K-8*
 
-**Read Like a Writer**
+## Read Like a Writer
 
 Collect interesting words from reading.
 
@@ -409,7 +409,7 @@ Categories for collecting words may include:
 
 Mentor Text: E.g. Twilight Comes Twice
 
-**Spelling and Vocabulary**
+## Spelling and Vocabulary
 
 Spelling is a tool for writing. We learn to spell correctly so that
 people can read our writing.
@@ -425,8 +425,7 @@ Direct Instruction
 
 Building an interest in words
 
-<img src="assets/The First 20 Days - Spelling/media/image3.jpeg"
-style="width:4.79306in;height:4.79306in" />
+<img src="assets/The First 20 Days - Spelling/media/image3.jpeg" />
 
 **Essential Components** (See also Diagram Vocabulary 2)
 
@@ -440,7 +439,7 @@ Read Aloud Mentor Texts Wide Reading
 
 Read Along Independent reading
 
-**WORD LEARNING STRATEGIES**
+## WORD LEARNING STRATEGIES
 
 Word-part information Context Clues References
 
@@ -471,7 +470,7 @@ Discussion re meaning
 **Root Word:** A special kind of base word carrying the main part of the
 meaning.
 
-**Affixes:**
+## Affixes:
 
 **Prefix:** A group of letters added to a root word or base word that
 changes its meaning.
@@ -521,7 +520,7 @@ Word search.
 
 Notebooks/Journals.
 
-**Teaching a Suffix**
+## Teaching a Suffix
 
 More difficult because they’re dependent on root/base word or
 grammatical structure of the sentence. And sometimes the suffix doesn’t
@@ -545,7 +544,7 @@ Brainstorm others and list.
 
 Students remove suffix to gain meaning of root/base word.
 
-**Teaching Root Words**
+## Teaching Root Words
 
 Root words are found at the beginning, middle and end of words.
 
@@ -569,14 +568,13 @@ Students determine meaning of the root from all the examples.
 Relate to other words demonstrating how knowing the meaning of the root
 helps comprehension and vocabulary development.
 
-<img src="assets/The First 20 Days - Spelling/media/image4.jpeg"
-style="width:2.22917in;height:3.125in" />
+<img src="assets/The First 20 Days - Spelling/media/image4.jpeg" />
 
 **Strategies for Analysing Word Parts.**
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -609,7 +607,7 @@ sentence?</em></p></td>
 </tbody>
 </table>
 
-**Context Clues**
+## Context Clues
 
 Can be in the same sentence.
 
@@ -627,7 +625,7 @@ Finding synonyms.
 
 Finding antonyms.
 
-**Dictionaries**
+## Dictionaries
 
 If a dictionary is used, students need to know, when defining an unknown
 word:
@@ -652,8 +650,7 @@ Have-a-go page helpful, and it is one reason why I have four columns.
 The first column has the spelling the student has used in the text. A
 quick survey of this indicates problems and possible class/group lessons
 
-<img src="assets/The First 20 Days - Spelling/media/image5.png"
-style="width:1.04167in;height:1.27083in" />
+<img src="assets/The First 20 Days - Spelling/media/image5.png" />
 
 **SPELLING**
 
@@ -681,7 +678,7 @@ style="width:1.04167in;height:1.27083in" />
 |               |       |       |                  |
 |               |       |       |                  |
 
-**Look, Say, Spell, Cover, Write, Check**
+## Look, Say, Spell, Cover, Write, Check
 
 |     |     |     |
 |-----|-----|-----|
@@ -742,7 +739,7 @@ style="width:1.04167in;height:1.27083in" />
 |          |                   |       |       |       |       |       |       |
 |          |                   |       |       |       |       |       |       |
 
-**TOPIC WORDS**
+## TOPIC WORDS
 
 |     |     |     |     |
 |-----|-----|-----|-----|
@@ -767,7 +764,7 @@ style="width:1.04167in;height:1.27083in" />
 |     |     |     |     |
 |     |     |     |     |
 
-**INTERESTING WORDS**
+## INTERESTING WORDS
 
 |     |     |     |     |
 |-----|-----|-----|-----|
@@ -792,7 +789,7 @@ style="width:1.04167in;height:1.27083in" />
 |     |     |     |     |
 |     |     |     |     |
 
-**WORDS I NOW KNOW**
+## WORDS I NOW KNOW
 
 |     |     |     |     |
 |-----|-----|-----|-----|
@@ -817,7 +814,7 @@ style="width:1.04167in;height:1.27083in" />
 |     |     |     |     |
 |     |     |     |     |
 
-**WORDS I NOW KNOW**
+## WORDS I NOW KNOW
 
 |     |     |     |     |     |     |     |     |     |     |     |     |
 |-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
@@ -842,17 +839,13 @@ style="width:1.04167in;height:1.27083in" />
 |     |     |     |     |     |     |     |     |     |     |     |     |
 |     |     |     |     |     |     |     |     |     |     |     |     |
 
-<img src="assets/The First 20 Days - Spelling/media/image6.jpeg"
-style="width:7.33194in;height:10.66736in" />
+<img src="assets/The First 20 Days - Spelling/media/image6.jpeg" />
 
-<img src="assets/The First 20 Days - Spelling/media/image7.jpeg"
-style="width:7.30139in;height:10.66736in" />
+<img src="assets/The First 20 Days - Spelling/media/image7.jpeg" />
 
-<img src="assets/The First 20 Days - Spelling/media/image8.jpeg"
-style="width:7.5625in;height:10.65556in" />
+<img src="assets/The First 20 Days - Spelling/media/image8.jpeg" />
 
-<img src="assets/The First 20 Days - Spelling/media/image9.jpeg"
-style="width:7.42778in;height:10.66736in" />
+<img src="assets/The First 20 Days - Spelling/media/image9.jpeg" />
 
 **Prep**
 
@@ -860,12 +853,12 @@ style="width:7.42778in;height:10.66736in" />
 
 <table>
 <colgroup>
-<col style="width: 17%" />
-<col style="width: 17%" />
-<col style="width: 15%" />
-<col style="width: 16%" />
-<col style="width: 17%" />
-<col style="width: 15%" />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -903,10 +896,9 @@ awareness.</td>
 </tbody>
 </table>
 
-**The Alphabet Tree Leo Lionni**
+## The Alphabet Tree Leo Lionni
 
-<img src="assets/The First 20 Days - Spelling/media/image10.jpeg"
-style="width:2.08333in;height:2.625in" />
+<img src="assets/The First 20 Days - Spelling/media/image10.jpeg" />
 
 When a fierce wind threatens to blow all the little letters out of the
 alphabet tree, those that remain hide among the branches. A bug and a
@@ -933,7 +925,7 @@ Read and Retell
 
 Listen and Retell
 
-**The Alphabet Tree Leo Lionni**
+## The Alphabet Tree Leo Lionni
 
 “This is the Alphabet Tree,” said the ant.
 
@@ -994,16 +986,13 @@ began climbing down the tree.
 
 “To the President,” said the caterpillar.
 
-<img src="assets/The First 20 Days - Spelling/media/image11.jpeg"
-style="width:2.74931in;height:2.76042in" />
+<img src="assets/The First 20 Days - Spelling/media/image11.jpeg" />
 
-<img src="assets/The First 20 Days - Spelling/media/image12.jpeg"
-style="width:2.00069in;height:2.72986in" />
+<img src="assets/The First 20 Days - Spelling/media/image12.jpeg" />
 
-<img src="assets/The First 20 Days - Spelling/media/image13.jpeg"
-style="width:2.05833in;height:2.76042in" />
+<img src="assets/The First 20 Days - Spelling/media/image13.jpeg" />
 
-**Off We Go! Jane Yolen**
+## Off We Go! Jane Yolen
 
 Tip-toe, tippity toe,
 
@@ -1073,7 +1062,7 @@ In web, or bog, or in a nest –
 
 Why, Grandma’s house is *always* best.
 
-**Hairy Maclary from Donaldson’s Dairy**
+## Hairy Maclary from Donaldson’s Dairy
 
 by Lynley Dodd
 
@@ -1223,7 +1212,7 @@ from Donaldson’s Dairy.
 
 Straight back home to bed.
 
-**Animalia Graeme Base**
+## Animalia Graeme Base
 
 An armoured armadillo avoiding an angry alligator.
 
@@ -1280,10 +1269,9 @@ Youthful yaks yodeling in yellow yachts.
 
 Zany zebras zigzagging in zinc zeppelins.
 
-**Alphabet Under Construction Denise Fleming**
+## Alphabet Under Construction Denise Fleming
 
-<img src="assets/The First 20 Days - Spelling/media/image14.jpeg"
-style="width:2.15139in;height:2.64583in" />
+<img src="assets/The First 20 Days - Spelling/media/image14.jpeg" />
 
 Mouse is hard at work as he constructs the alphabet letter by letter.
 Mouse begins by airbrushing the A and ends by zipping the Z.
@@ -1384,10 +1372,10 @@ Phonological awareness experiences if necessary.
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1539,7 +1527,7 @@ Rodents never teased Wodney again. He was their hero.
 
 “Woot! Woot! Wooty-toot-toot!”
 
-**Rimes**
+## Rimes
 
 ack eat ice ock uck
 
@@ -1569,7 +1557,7 @@ aw
 
 ay
 
-**Books for Onset and Rime**
+## Books for Onset and Rime
 
 The Cat in the Hat Dr Seuss (series)
 
@@ -1623,7 +1611,7 @@ The New kid on the Block Jack Prelutsky
 
 Sing a Song of Popcorn Beatrice de Regniers
 
-**Grade 1**
+## Grade 1
 
 Spelling. Onset and rime.
 
@@ -1658,8 +1646,7 @@ Use of big book as part of a five day program.
 
 Somewhere by Jane Baskwill
 
-<img src="assets/The First 20 Days - Spelling/media/image15.jpeg"
-style="width:2.04167in;height:2.6875in" />
+<img src="assets/The First 20 Days - Spelling/media/image15.jpeg" />
 
 **Somewhere**
 
@@ -1705,14 +1692,12 @@ Something marvellous happens,
 
 Bringing wonder and delight.
 
-<img src="assets/The First 20 Days - Spelling/media/image16.jpeg"
-style="width:2.34375in;height:2.33333in" />
+<img src="assets/The First 20 Days - Spelling/media/image16.jpeg" />
 
 A flight across the night to see what happens in nature . . . while the
 world is sleeping.
 
-<img src="assets/The First 20 Days - Spelling/media/image17.jpeg"
-style="width:3.12569in;height:2.3125in" />
+<img src="assets/The First 20 Days - Spelling/media/image17.jpeg" />
 
 The Adventures of Taxi Dog by Debra and Sal Barraca is a about a stray
 dog in New York City who is rescued by a taxi driver and spend the rest
@@ -1720,8 +1705,7 @@ of his days riding in the front seat soaking up the diversity of their
 fares. The rhyming text, and detailed illustrations by Marc Buehner work
 well together to make this a fun read.
 
-<img src="assets/The First 20 Days - Spelling/media/image18.jpeg"
-style="width:2.84375in;height:3.125in" />
+<img src="assets/The First 20 Days - Spelling/media/image18.jpeg" />
 
 Tired of being just an Emu, Edward decides to try being like other
 animals at the zoo. He wants to be noticed and in his quest for
@@ -1751,7 +1735,7 @@ Meets Edwina.
 
 Retell the story as a narrative.
 
-**Edward the Emu**
+## Edward the Emu
 
 |     |     |     |
 |-----|-----|-----|
@@ -1759,7 +1743,7 @@ Retell the story as a narrative.
 |     |     |     |
 |     |     |     |
 
-**Edward the Emu Sheena Knowles**
+## Edward the Emu Sheena Knowles
 
 Edward the emu was sick of the zoo,
 
@@ -1873,8 +1857,7 @@ Then the new emu said, with a shy little smile,
 
 You’re the best thing I’ve seen since I came to the zoo!”
 
-<img src="assets/The First 20 Days - Spelling/media/image19.jpeg"
-style="width:2.88403in;height:3.10625in" />
+<img src="assets/The First 20 Days - Spelling/media/image19.jpeg" />
 
 In this sequel to the popular Edward the Emu, Edward and his mate Edwina
 are the proud parents of ten little emu eggs. "Don't get depressed. I'll
@@ -2180,15 +2163,13 @@ The day is waiting to be born,
 
 The world has finished sleeping.
 
-<img src="assets/The First 20 Days - Spelling/media/image20.jpeg"
-style="width:2.3125in;height:2.36458in" />
+<img src="assets/The First 20 Days - Spelling/media/image20.jpeg" />
 
 Lively rhythm and rhyme, and alluring art, carry children off on a
 captivating journey along the railroad tracks. There they meet a hungry
 little ant and the gentle giant of a switchman who cares for him.
 
-<img src="assets/The First 20 Days - Spelling/media/image21.png"
-style="width:2.09167in;height:2.125in" />
+<img src="assets/The First 20 Days - Spelling/media/image21.png" />
 
 With its irresistible rhythm and rhyme, adorable art, and appealing
 title character, I Saw an Ant on the Railroad Track charmed both
@@ -2503,14 +2484,13 @@ and
 
 Dot.
 
-**Which Witch is Which? Judi Barrett**
+## Which Witch is Which? Judi Barrett
 
 A good book for children to read themselves as each illustration
 encourages them to find the right witch in a group of witches. The
 rhyming clues are in the form of questions.
 
-<img src="assets/The First 20 Days - Spelling/media/image22.jpeg"
-style="width:2.80208in;height:2.52708in" />
+<img src="assets/The First 20 Days - Spelling/media/image22.jpeg" />
 
 Read Aloud
 
@@ -2526,11 +2506,11 @@ Onset and Rime
 
 <table>
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 19%" />
-<col style="width: 19%" />
-<col style="width: 19%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2748,10 +2728,10 @@ Or is it the one eating a prune?
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2788,13 +2768,12 @@ work with onset and rime, that little work will need to be done in grade
 </tbody>
 </table>
 
-**Antics Cathi Hepworth**
+## Antics Cathi Hepworth
 
 A clever example of using the word 'ant' within words beginning with
 every letter of the alphabet---ant from A to Z.
 
-<img src="assets/The First 20 Days - Spelling/media/image23.jpeg"
-style="width:2.08333in;height:2.625in" />
+<img src="assets/The First 20 Days - Spelling/media/image23.jpeg" />
 
 Using the dictionary, students find words that begin with each letter
 and also includes the letters a-n-t. Students create illustrations of
@@ -2802,13 +2781,11 @@ their a-n-t words. As in Cathi Hepworth’s book, the central figure in
 the illustration should be an ant that is demonstrating the selected
 word.
 
-<img src="assets/The First 20 Days - Spelling/media/image24.jpeg"
-style="width:2.66528in;height:3.63333in" />
+<img src="assets/The First 20 Days - Spelling/media/image24.jpeg" />
 
-<img src="assets/The First 20 Days - Spelling/media/image25.jpeg"
-style="width:2.64375in;height:3.61667in" />
+<img src="assets/The First 20 Days - Spelling/media/image25.jpeg" />
 
-**Antics Cathi Hepworth**
+## Antics Cathi Hepworth
 
 **Ant**ique
 
@@ -2844,13 +2821,13 @@ style="width:2.64375in;height:3.61667in" />
 
 **Q**uar**ant**ine
 
-**R**embr**ant**
+## R**embr**ant
 
 **Sant**a Claus
 
 **Tant**rum
 
-**U**npleas**ant**
+## U**npleas**ant
 
 **V**igil**ant**es
 
@@ -2885,7 +2862,7 @@ No! by Shel Silverstein
 Grade 2 should not need a lot of work in onset and rime, as it should
 have been dealt with extensively in Grade 1 – spelling using analogy.
 
-**Spelling exploration from Read Along**
+## Spelling exploration from Read Along
 
 Exploring suffixes – *ed*
 
@@ -2909,7 +2886,7 @@ Use spelling exploration outline.
 
 Begin chart which can be added to from independent reading.
 
-**Monster for Hire Trevor Wilson**
+## Monster for Hire Trevor Wilson
 
 On a stony hill between two towns lived a giant. Because he was often
 away, the giant decided to hire a monster to guard his castle. So he put
@@ -3369,7 +3346,7 @@ And Tyrannosaurus leading …
 
 STOMP! STOMP! STOMP!
 
-**Dig Dig Digging**
+## Dig Dig Digging
 
 Big red digger dig, dig, digging,
 
@@ -3571,7 +3548,7 @@ The night will sing you lullabies.
 
 Shhh. Shhh. Shhh.
 
-**Piggie Pie! Margie Palatini**
+## Piggie Pie! Margie Palatini
 
 Gritch the Witch woke up grouchy, grumpy, and very hungry. Her belly
 grumbled for something delicious. Something delightful. Something
@@ -3592,21 +3569,21 @@ top shelf. She picked off a spider, blew off the dust, and turned to the
 secret recipe on page 342. Gritch ran her bony finger with the long
 green nail down the list of ingredients.
 
-**1 eye of a fly**
+## 1 eye of a fly
 
 She checked the pantry shelves.
 
 “No problem,” said Gritch.
 
-**2 shakes of a rattlesnake’s rattle**
+## 2 shakes of a rattlesnake’s rattle
 
 “No problem,” said Gritch.
 
-**3 belly hairs of a possum**
+## 3 belly hairs of a possum
 
 “No problem,” said Gritch.
 
-**8 plump piggies**
+## 8 plump piggies
 
 “Problem!” screeched Gritch. “I don’t have any piggies! How can I make
 Piggie Pie without even one puny pink pig?”
@@ -3777,10 +3754,10 @@ off arm in arm. “I always enjoy having a wolf for lunch.”
 
 <table>
 <colgroup>
-<col style="width: 24%" />
-<col style="width: 30%" />
-<col style="width: 18%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3987,7 +3964,7 @@ how to do it with you.
 Maybe even someone with big shoes. Just to remind them that, sometimes,
 doing nothing is the most important thing in the whole wide world to do
 
-**Compound Words**
+## Compound Words
 
 Read Aloud: Once There Was a Bull … (Frog) Rick Walton
 
@@ -4001,10 +3978,9 @@ to a stage…coach. Set in the Old West, the story takes the reader into
 every nook and cranny that compound words can offer. Will the bullfrog
 ever find his hop?
 
-<img src="assets/The First 20 Days - Spelling/media/image26.jpeg"
-style="width:2.20069in;height:2.48819in" />
+<img src="assets/The First 20 Days - Spelling/media/image26.jpeg" />
 
-**Once There Was a Bull … (Frog) Rick Walton**
+## Once There Was a Bull … (Frog) Rick Walton
 
 Compound word:
 
@@ -4082,7 +4058,7 @@ of town and far from the snake.
 
 fly!” And he did.
 
-**Cloudy with a Chance of Meatballs Judi Barrett**
+## Cloudy with a Chance of Meatballs Judi Barrett
 
 The book details a bedtime story narrated by a grandfather to his
 grandchildren, chronicling the daily lives of the citizens of an
@@ -4104,8 +4080,7 @@ granddaughter, in first-person narration, describes the scent of mashed
 potatoes detected while romping with her brother, implying that the
 grandfather's story might not be purely fictitious.
 
-<img src="assets/The First 20 Days - Spelling/media/image27.jpeg"
-style="width:2.80069in;height:2.47222in" />
+<img src="assets/The First 20 Days - Spelling/media/image27.jpeg" />
 
 **Cloudy with a Chance of Meatballs**
 
@@ -4285,10 +4260,10 @@ potatoes.
 
 <table>
 <colgroup>
-<col style="width: 31%" />
-<col style="width: 24%" />
-<col style="width: 18%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4329,8 +4304,7 @@ potatoes.
 </tbody>
 </table>
 
-<img src="assets/The First 20 Days - Spelling/media/image28.jpeg"
-style="width:2.625in;height:2.825in" /> Crickwing is in a very
+<img src="assets/The First 20 Days - Spelling/media/image28.jpeg" /> Crickwing is in a very
 disgruntled mood. A close encounter with a toad left one of the
 cockroach's wings bent at an awkward and painful angel. To make things
 worse every time Crickwing finds and arranges his food to his
@@ -4375,13 +4349,13 @@ Read Aloud: Crickwing
 
 Use graphic organiser to arrive at theme.
 
-**THEMES**
+## THEMES
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4462,9 +4436,9 @@ wolf.</td>
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4488,7 +4462,7 @@ ___________________</strong></td>
 </tbody>
 </table>
 
-**Theme Statement:**
+## Theme Statement:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -4573,8 +4547,7 @@ Was it because he was just mean?
 When Crickwing started picking on the ants, he stopped noticing all the
 beautiful colours of his food which he used to enjoy. Why was that?
 
-<img src="assets/The First 20 Days - Spelling/media/image29.jpeg"
-style="width:4.24167in;height:4.26597in" />
+<img src="assets/The First 20 Days - Spelling/media/image29.jpeg" />
 
 Non-fiction notes:
 
@@ -4586,8 +4559,7 @@ Ant Notes.
 
 This is something the students might like to try during the year.
 
-<img src="assets/The First 20 Days - Spelling/media/image30.jpeg"
-style="width:3.125in;height:1.625in" />
+<img src="assets/The First 20 Days - Spelling/media/image30.jpeg" />
 
 *… “when an animal is generally misunderstood and unpopular with humans,
 I question how this bad rep has developed. All forms of life are
@@ -4710,10 +4682,9 @@ Suffix – est
 
 hugest strangest greenest brightest
 
-**Python Christopher Cheng**
+## Python Christopher Cheng
 
-<img src="assets/The First 20 Days - Spelling/media/image31.jpeg"
-style="width:2.82292in;height:3.125in" />
+<img src="assets/The First 20 Days - Spelling/media/image31.jpeg" />
 
 It’s morning in the bush. Python stirs and slithers out from her
 shelter.
@@ -4726,10 +4697,9 @@ a meal**.**
 Combines two genres – narrative and information text in two different
 fonts similar to Nicola Davies.
 
-<img src="assets/The First 20 Days - Spelling/media/image32.jpeg"
-style="width:3.54861in;height:1.95in" />
+<img src="assets/The First 20 Days - Spelling/media/image32.jpeg" />
 
-**Python Christopher Cheng**
+## Python Christopher Cheng
 
 It’s morning in the bush. Python stirs and peeps out from her sheltered
 nocturnal resting place. She warms her head and smells the air with her
@@ -4825,7 +4795,7 @@ are ready to start their own lives of smelling, resting and watching.
 
 And waiting.
 
-**About Pythons**
+## About Pythons
 
 Pythons live in Africa, Asia, and Australia, in steamy tropical
 rainforests, grasslands, swamps or stony deserts – and some are
@@ -4840,8 +4810,8 @@ they can’t be. They are covered in dry scales.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4891,18 +4861,17 @@ non-venomous deserved incubate slimy</td>
 </tbody>
 </table>
 
-**The Dandelion Seed Joseph Anthony**
+## The Dandelion Seed Joseph Anthony
 
-<img src="assets/The First 20 Days - Spelling/media/image33.jpeg"
-style="width:1.77569in;height:2.29167in" />
+<img src="assets/The First 20 Days - Spelling/media/image33.jpeg" />
 
 A dandelion seed is the last to leave the dead flowers in autumn. It
 discovers how beautiful the world is, and the part it will play.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4941,7 +4910,7 @@ blanket.</em></td>
 </tbody>
 </table>
 
-**The Dandelion Seed Joseph Anthony**
+## The Dandelion Seed Joseph Anthony
 
 It was autumn in the garden. All the flowers had died and dropped their
 seeds.
@@ -4980,13 +4949,11 @@ the rain will take care of you. Let go and you will see.”
 
 You will see.
 
-<img src="assets/The First 20 Days - Spelling/media/image34.jpeg"
-style="width:5.55in;height:3.39861in" />
+<img src="assets/The First 20 Days - Spelling/media/image34.jpeg" />
 
-<img src="assets/The First 20 Days - Spelling/media/image35.jpeg"
-style="width:5.55in;height:3.39236in" />
+<img src="assets/The First 20 Days - Spelling/media/image35.jpeg" />
 
-**DANDELION - by Valerie Worth**
+## DANDELION - by Valerie Worth
 
 Out of
 
@@ -5066,7 +5033,7 @@ they face. These features may be the result of adaptations, or changes,
 over time. Plants with features suited to their environment are most
 likely to survive and reproduce.
 
-**Compare and Contrast**
+## Compare and Contrast
 
 Fiction and nonfiction.
 
@@ -5114,27 +5081,22 @@ Narrative
 
 Poetry
 
-<img src="assets/The First 20 Days - Spelling/media/image36.jpeg"
-style="width:2.79167in;height:3.71667in" />
+<img src="assets/The First 20 Days - Spelling/media/image36.jpeg" />
 
-<img src="assets/The First 20 Days - Spelling/media/image37.jpeg"
-style="width:4.44861in;height:2.97847in" />
+<img src="assets/The First 20 Days - Spelling/media/image37.jpeg" />
 
-<img src="assets/The First 20 Days - Spelling/media/image38.jpeg"
-style="width:3.175in;height:3.02153in" />
+<img src="assets/The First 20 Days - Spelling/media/image38.jpeg" />
 
-<img src="assets/The First 20 Days - Spelling/media/image39.jpeg"
-style="width:2.55347in;height:3.82292in" />
+<img src="assets/The First 20 Days - Spelling/media/image39.jpeg" />
 
-**A Dandelion’s Life John Himmelman**
+## A Dandelion’s Life John Himmelman
 
 Nonfiction text which follows the path one seed takes during its first
 season of growing into a mature flower.
 
-<img src="assets/The First 20 Days - Spelling/media/image40.jpeg"
-style="width:2.08333in;height:1.72917in" />
+<img src="assets/The First 20 Days - Spelling/media/image40.jpeg" />
 
-**Sequence of events:**
+## Sequence of events:
 
 Time-order words used. E.g.
 
@@ -5164,13 +5126,9 @@ The seeds blow away and the stem withers.
 
 The plant buds again the next spring.
 
-<img src="assets/The First 20 Days - Spelling/media/image41.jpeg"
-style="width:2.8875in;height:2.8875in" /> <img src="assets/The First 20 Days - Spelling/media/image42.jpeg"
-style="width:2.94653in;height:2.94653in" /> <img src="assets/The First 20 Days - Spelling/media/image43.jpeg"
-style="width:2.91875in;height:2.91875in" /> <img src="assets/The First 20 Days - Spelling/media/image44.jpeg"
-style="width:2.89792in;height:2.94861in" />
+<img src="assets/The First 20 Days - Spelling/media/image41.jpeg" /> <img src="assets/The First 20 Days - Spelling/media/image42.jpeg" /> <img src="assets/The First 20 Days - Spelling/media/image43.jpeg" /> <img src="assets/The First 20 Days - Spelling/media/image44.jpeg" />
 
-**A Dandelion’s Life John Himmelman**
+## A Dandelion’s Life John Himmelman
 
 In late summer, a dandelion seed floats through the air.
 
@@ -5232,7 +5190,7 @@ There will be many more seasons of dandelion flowers.
 
 And many more seasons of seeds in the air.
 
-**Words You Know**
+## Words You Know
 
 *bud* – the part of a plant that turns into leaves, flowers, or roots.
 
@@ -5474,8 +5432,8 @@ absolutely had to.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -5514,7 +5472,7 @@ absolutely had to.
 </tbody>
 </table>
 
-**Me First Helen Lester**
+## Me First Helen Lester
 
 Pinkerton was pink, plump, and pushy. He would do anything to be first,
 even if it meant bouncing off bellies, stepping on snouts, or tying
@@ -5653,10 +5611,10 @@ glad to be last.
 
 <table>
 <colgroup>
-<col style="width: 29%" />
-<col style="width: 26%" />
-<col style="width: 18%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -5974,8 +5932,7 @@ That sly, slippery slope was simply a sham. Such a shock, such a shame.
 
 Such a succulent slug!
 
-<img src="assets/The First 20 Days - Spelling/media/image45.jpeg"
-style="width:2.61458in;height:1.16667in" />
+<img src="assets/The First 20 Days - Spelling/media/image45.jpeg" />
 
 **Clara Caterpillar**
 
@@ -6123,7 +6080,7 @@ and courageous.”
 
 “And I’m a completely contented butterfly,” said Clara.
 
-**The Worrywarts Pamela Duncan Edwards**
+## The Worrywarts Pamela Duncan Edwards
 
 One warm Wednesday morning, the sun winked through Wombat’s window and
 woke her up.
@@ -6278,10 +6235,10 @@ WHAT IF … ?
 
 <table>
 <colgroup>
-<col style="width: 24%" />
-<col style="width: 30%" />
-<col style="width: 18%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -6329,8 +6286,7 @@ superlatives.</em></p>
 </tbody>
 </table>
 
-<img src="assets/The First 20 Days - Spelling/media/image46.jpeg"
-style="width:2.5in;height:2.48333in" />
+<img src="assets/The First 20 Days - Spelling/media/image46.jpeg" />
 
 The Worst Band in the Universe by Graeme Base
 
@@ -6364,8 +6320,7 @@ strong and clever story. This is a story that teaches about bullying and
 the reasons why it happens, a story about good versus evil and rising
 above to beat the powers that be.
 
-<img src="assets/The First 20 Days - Spelling/media/image47.jpeg"
-style="width:5.49722in;height:2.75278in" />
+<img src="assets/The First 20 Days - Spelling/media/image47.jpeg" />
 
 Review 2:
 
@@ -6525,7 +6480,7 @@ sobbing
 
 embraced
 
-**Creating Word Banks**
+## Creating Word Banks
 
 Collecting words is a way to create class word lists or individually in
 students’ Spelling Journal, Vocabulary Notebooks, or Writers’ Notebooks.
@@ -6583,7 +6538,7 @@ staggering wretched
 
 waggled wobbled
 
-**Word Splash**
+## Word Splash
 
 Good books to use:
 
@@ -6634,7 +6589,7 @@ red-faced enemy said
 
 meany growled
 
-**The Recess Queen Alexis O’Neill**
+## The Recess Queen Alexis O’Neill
 
 Mean Jean was Recess Queen and nobody said any different.
 
@@ -6922,11 +6877,11 @@ his fingers fly across his knees. Like a big old drum.
 
 <table>
 <colgroup>
-<col style="width: 23%" />
-<col style="width: 17%" />
-<col style="width: 17%" />
-<col style="width: 21%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -6959,15 +6914,15 @@ awestruck</td>
 </tbody>
 </table>
 
-**B**
+## B
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 19%" />
-<col style="width: 17%" />
-<col style="width: 18%" />
-<col style="width: 22%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -7088,15 +7043,15 @@ bygone</td>
 </tbody>
 </table>
 
-**C**
+## C
 
 <table>
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 17%" />
-<col style="width: 20%" />
-<col style="width: 25%" />
-<col style="width: 15%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -7189,15 +7144,15 @@ cutup</td>
 </tbody>
 </table>
 
-**D**
+## D
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 18%" />
-<col style="width: 17%" />
-<col style="width: 22%" />
-<col style="width: 21%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -7271,15 +7226,15 @@ duststorm</td>
 </tbody>
 </table>
 
-**E**
+## E
 
 <table>
 <colgroup>
-<col style="width: 17%" />
-<col style="width: 21%" />
-<col style="width: 18%" />
-<col style="width: 21%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -7323,15 +7278,15 @@ eyewitness</td>
 </tbody>
 </table>
 
-**F**
+## F
 
 <table>
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 22%" />
-<col style="width: 18%" />
-<col style="width: 19%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -7413,15 +7368,15 @@ furthermore</td>
 </tbody>
 </table>
 
-**G**
+## G
 
 <table>
 <colgroup>
-<col style="width: 17%" />
-<col style="width: 20%" />
-<col style="width: 18%" />
-<col style="width: 22%" />
-<col style="width: 21%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -7486,15 +7441,15 @@ gunpowder</td>
 </tbody>
 </table>
 
-**H**
+## H
 
 <table>
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 19%" />
-<col style="width: 19%" />
-<col style="width: 19%" />
-<col style="width: 22%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -7660,15 +7615,15 @@ hunchback</td>
 </tbody>
 </table>
 
-**I**
+## I
 
 <table>
 <colgroup>
-<col style="width: 26%" />
-<col style="width: 19%" />
-<col style="width: 18%" />
-<col style="width: 16%" />
-<col style="width: 18%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -7690,15 +7645,15 @@ itself</td>
 </tbody>
 </table>
 
-**J**
+## J
 
 <table>
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 23%" />
-<col style="width: 20%" />
-<col style="width: 18%" />
-<col style="width: 18%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -7719,15 +7674,15 @@ jumpsuit</td>
 </tbody>
 </table>
 
-**K**
+## K
 
 <table>
 <colgroup>
-<col style="width: 22%" />
-<col style="width: 18%" />
-<col style="width: 15%" />
-<col style="width: 24%" />
-<col style="width: 19%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -7747,15 +7702,15 @@ knockout</td>
 </tbody>
 </table>
 
-**L**
+## L
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 17%" />
-<col style="width: 22%" />
-<col style="width: 19%" />
-<col style="width: 22%" />
-<col style="width: 18%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -7820,15 +7775,15 @@ lungfish</td>
 </tbody>
 </table>
 
-**M**
+## M
 
 <table>
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 20%" />
-<col style="width: 18%" />
-<col style="width: 21%" />
-<col style="width: 19%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -7873,15 +7828,15 @@ myself</td>
 </tbody>
 </table>
 
-**N**
+## N
 
 <table>
 <colgroup>
-<col style="width: 20%" />
-<col style="width: 21%" />
-<col style="width: 19%" />
-<col style="width: 17%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -7921,15 +7876,15 @@ nutshell</td>
 </tbody>
 </table>
 
-**O**
+## O
 
 <table>
 <colgroup>
-<col style="width: 18%" />
-<col style="width: 19%" />
-<col style="width: 23%" />
-<col style="width: 18%" />
-<col style="width: 19%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -8080,15 +8035,15 @@ oxbow</td>
 </tbody>
 </table>
 
-**P**
+## P
 
 <table>
 <colgroup>
-<col style="width: 21%" />
-<col style="width: 19%" />
-<col style="width: 17%" />
-<col style="width: 20%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -8177,14 +8132,14 @@ pushover</td>
 </tbody>
 </table>
 
-**Q**
+## Q
 
 <table>
 <colgroup>
-<col style="width: 26%" />
-<col style="width: 28%" />
-<col style="width: 21%" />
-<col style="width: 23%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -8198,15 +8153,15 @@ quickfire</td>
 </tbody>
 </table>
 
-**R**
+## R
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 19%" />
-<col style="width: 19%" />
-<col style="width: 21%" />
-<col style="width: 19%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -8256,16 +8211,16 @@ runway</td>
 </tbody>
 </table>
 
-**S**
+## S
 
 <table>
 <colgroup>
-<col style="width: 15%" />
-<col style="width: 14%" />
-<col style="width: 16%" />
-<col style="width: 16%" />
-<col style="width: 17%" />
-<col style="width: 20%" />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -8516,15 +8471,15 @@ swordfish</td>
 </tbody>
 </table>
 
-**T**
+## T
 
 <table>
 <colgroup>
-<col style="width: 18%" />
-<col style="width: 22%" />
-<col style="width: 18%" />
-<col style="width: 18%" />
-<col style="width: 22%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -8624,15 +8579,15 @@ typewriter</td>
 </tbody>
 </table>
 
-**U**
+## U
 
 <table>
 <colgroup>
-<col style="width: 23%" />
-<col style="width: 21%" />
-<col style="width: 20%" />
-<col style="width: 18%" />
-<col style="width: 16%" />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -8697,22 +8652,22 @@ username</td>
 </tbody>
 </table>
 
-**V**
+## V
 
 |           |          |            |           |
 |-----------|----------|------------|-----------|
 | viewpoint | vineyard | volleyball | voltmeter |
 
-**W**
+## W
 
 <table>
 <colgroup>
-<col style="width: 16%" />
-<col style="width: 17%" />
-<col style="width: 16%" />
-<col style="width: 17%" />
-<col style="width: 15%" />
-<col style="width: 16%" />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -8836,13 +8791,13 @@ wrongdoing</td>
 </tbody>
 </table>
 
-**Y**
+## Y
 
 <table>
 <colgroup>
-<col style="width: 35%" />
-<col style="width: 31%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -8856,13 +8811,13 @@ yourself</td>
 </tbody>
 </table>
 
-**Z**
+## Z
 
 |        |           |
 |--------|-----------|
 | zigzag | zookeeper |
 
-**Prefixes**
+## Prefixes
 
 |            |                                            |                                                                              |
 |------------|--------------------------------------------|------------------------------------------------------------------------------|
@@ -8981,7 +8936,7 @@ yourself</td>
 | up-        | greater, higher                            | upgrade, uplift, upturn                                                      |
 | with-      | against                                    | withdraw, withhold, without, withstand                                       |
 
-**Suffixes**
+## Suffixes
 
 |            |                                                     |                                                                                                                     |
 |------------|-----------------------------------------------------|---------------------------------------------------------------------------------------------------------------------|
@@ -9031,5 +8986,4 @@ yourself</td>
 | -ure       | an action or process, a collective                  | legislature, procedure, scripture                                                                                   |
 | -y         | full of, denoting a condition, or a diminutive      | glory, hungry, messy, jealousy, sleepy                                                                              |
 
-<img src="assets/The First 20 Days - Spelling/media/image48.jpeg"
-style="width:3.74653in;height:5.24653in" />
+<img src="assets/The First 20 Days - Spelling/media/image48.jpeg" />

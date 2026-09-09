@@ -3,7 +3,9 @@ title: "The First 20 Days"
 source_file: "First 20 Days Literacy/The First 20 Days.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: first-20-days
 ---
 
 **The First**
@@ -12,15 +14,13 @@ tags: [jim-k]
 
 **Days**
 
-<img src="assets/The First 20 Days/media/image1.png"
-style="width:5.08194in;height:3.01736in" />
+<img src="assets/The First 20 Days/media/image1.png" />
 
-**READING**
+## READING
 
-<img src="assets/The First 20 Days/media/image2.png"
-style="width:3.125in;height:3.875in" />
+<img src="assets/The First 20 Days/media/image2.png" />
 
-**CONTENTS**
+## CONTENTS
 
 Reading
 
@@ -146,7 +146,7 @@ Found Poems
 
 Readers’ Theatre
 
-**READING**
+## READING
 
 Reading is always about meaning. Reading is thinking.
 
@@ -191,7 +191,7 @@ Pearson).
 The challenge is for the students to realise how using strategies helped
 them as a reader
 
-**Instructional Practices**
+## Instructional Practices
 
 Whole Class
 
@@ -221,7 +221,7 @@ Individual
 
 - Reading Conferences
 
-**Reading Strategies**
+## Reading Strategies
 
 Prior Knowledge
 
@@ -244,7 +244,7 @@ important as it enables students to monitor their understanding.
 Students are expected to know which strategies to use for effective
 comprehension.
 
-**READING TIMETABLE**
+## READING TIMETABLE
 
 Mini-lesson 15-20 minutes
 
@@ -254,15 +254,15 @@ Share Time 5 minutes
 
 <table>
 <colgroup>
-<col style="width: 6%" />
-<col style="width: 11%" />
-<col style="width: 11%" />
-<col style="width: 11%" />
-<col style="width: 11%" />
-<col style="width: 11%" />
-<col style="width: 11%" />
-<col style="width: 11%" />
-<col style="width: 11%" />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -417,7 +417,7 @@ Response Journal. Design one to suit your students.
 
 Using Post-Its
 
-**Introducing the Classroom Library**
+## Introducing the Classroom Library
 
 Students will explore and learn how to maintain their organised
 classroom library.
@@ -433,10 +433,9 @@ o Books can be easy, “just right”, or challenging for a reader.
 
 o Readers should choose “just right” books most of the time.
 
-<img src="assets/The First 20 Days/media/image3.jpeg"
-style="width:2.05208in;height:2.66667in" />
+<img src="assets/The First 20 Days/media/image3.jpeg" />
 
-**<u>Ways to Choose a Book</u>**
+## Ways to Choose a Book
 
 Front cover/inside jacket
 
@@ -462,10 +461,9 @@ Genres we like to read
 
 New/popular book
 
-<img src="assets/The First 20 Days/media/image4.jpeg"
-style="width:2.46875in;height:2.21875in" />
+<img src="assets/The First 20 Days/media/image4.jpeg" />
 
-**<u>Choosing a Just Right Book</u>**
+**Choosing a Just Right Book**
 
 **Easy Books:**
 
@@ -477,7 +475,7 @@ style="width:2.46875in;height:2.21875in" />
 
 - 
 
-**\*\*Just Right Books\*\*:**
+## Just Right Books:
 
 - You can read **almost all** of the words.
 
@@ -490,7 +488,7 @@ style="width:2.46875in;height:2.21875in" />
 
 - 
 
-**Challenging Books:**
+## Challenging Books:
 
 - There are many words that you don’t know or understand.
 
@@ -500,15 +498,14 @@ style="width:2.46875in;height:2.21875in" />
 
 You wouldn’t be able to talk to someone about what you’re reading.
 
-<img src="assets/The First 20 Days/media/image5.jpeg"
-style="width:3.04167in;height:2.40833in" />
+<img src="assets/The First 20 Days/media/image5.jpeg" />
 
-**Use the Goldilocks Strategy to Choose Books**
+## Use the Goldilocks Strategy to Choose Books
 
 Good readers spend time with easy, ‘just right’, and hard books, but
 mainly ‘just right’ books.
 
-**Easy Books**
+## Easy Books
 
 *Ask yourself these questions. If you answer yes, this book is probably
 as easy book for you. EASY books help you to read more smoothly and are
@@ -522,7 +519,7 @@ fun to read aloud and silently.*
 
 - Can you read it easily and smoothly?
 
-**Just-Right Books**
+## Just-Right Books
 
 *Ask yourself these questions. If you answer yes, the book is probably a
 ‘JUST-RIGHT’ book for you. ‘Just-right’ books help you learn the most
@@ -542,7 +539,7 @@ going on in the text.*
 
 - When you read are most places smooth and some choppy?
 
-**Hard Books**
+## Hard Books
 
 *Ask yourself these questions. If you answer yes, the book is probably a
 HARD book for you. Spend a little time with it now and learn what you
@@ -588,7 +585,7 @@ another author?
 Compare a character in your book to a character in another book you have
 read.
 
-**Text-to-Self**
+## Text-to-Self
 
 Explain how the book reminds you of yourself, people you know, or of
 something that happened in your life.
@@ -604,16 +601,16 @@ If you were a character in this book, how would it affect the plot?
 Describe a character’s personality trait that you’d like to possess. Why
 do you like this trait?
 
-**Text-to-World**
+## Text-to-World
 
 Explain the connection you have made with your general knowledge.
 
-**Questioning**
+## Questioning
 
 What you would like to ask the author.  How do you think he or she would
 respond?
 
-**Synthesising/ Summarising**
+## Synthesising/ Summarising
 
 Summarise the chapter you just read.
 
@@ -630,7 +627,7 @@ story.
 
 How would a different setting affect the story?
 
-**Characters**
+## Characters
 
 Describe how the main character/s changed during the story.
 
@@ -647,14 +644,14 @@ read.
 
 Write a diary entry in the voice of a character in your book.
 
-**Plot**
+## Plot
 
 Write about your favourite part of the story and why it was important.
 
 Did you like the way the story ended? Do you think there was more to
 tell? Does it lend itself to you writing a sequel?
 
-**Themes**
+## Themes
 
 Themes: What was the theme/s of the story? What are your thoughts and
 feelings about the theme?
@@ -667,12 +664,12 @@ characters, setting, problem, or solution.
 Did you like the ending of the book? How would you have liked it to end?
 Rewrite a new ending for the book.
 
-**Illustrations**
+## Illustrations
 
 Describe what you notice about the illustration. What purpose do they
 have? Do they add to the story?
 
-**Reading like a Writer**
+## Reading like a Writer
 
 Describe the author’s craft: What was good about the author’s writing?
  What things might you try to do in your own writing that you learnt
@@ -689,7 +686,7 @@ Find examples of figurative language in the text. Write them down.
 
 Is there a chapter that would lend itself to writing a Found Poem?
 
-**Evaluation**
+## Evaluation
 
 Did you enjoy the book? Why or why not?
 
@@ -715,10 +712,9 @@ Explain what you want to remember about this book and why.
 Make a list of things you don’t understand, find confusing, or have
 questions about.
 
-<img src="assets/The First 20 Days/media/image6.jpeg"
-style="width:5.41944in;height:3.39167in" />
+<img src="assets/The First 20 Days/media/image6.jpeg" />
 
-**READING RESPONSE JOURNAL**
+## READING RESPONSE JOURNAL
 
 The purpose of this journal is for you to record your developing
 responses to the book. This will help you to understand the novel. It is
@@ -792,7 +788,7 @@ start.
 
 - How will the way the text is structured help you to plan your reading?
 
-**Questions to use Near the Beginning of the Book**
+## Questions to use Near the Beginning of the Book
 
 - How does the author get you interested in the beginning chapters of
   the book?
@@ -815,7 +811,7 @@ start.
 - Is this author’s style and type of writing familiar? What other books
   have I read that are like this?
 
-**Questions to Think About as the Story Develops**
+## Questions to Think About as the Story Develops
 
 - What are you noticing about the author’s craft? Is there language,
   images that the author seems to keep referring to? Why?
@@ -860,7 +856,7 @@ start.
 
 - Has the meaning of the title become clear?
 
-**Questions to use at the End of the Book**
+## Questions to use at the End of the Book
 
 - Did the story end the way you expected it to, or was it a surprise?
   Why?
@@ -916,7 +912,7 @@ start.
 Adapted from New York State English Language Arts Standards Resource
 Guide.
 
-**TELL ME**
+## TELL ME
 
 This list of literature questions is intended for the teacher’s own
 convenience. ‘It is provided only as an aid to memory.’
@@ -1337,16 +1333,13 @@ it be?
 *I’d say to her, “Keep on believing and hoping, things can and will get
 better!!!”*
 
-<img src="assets/The First 20 Days/media/image7.jpeg"
-style="width:2.08333in;height:3.51944in" />
+<img src="assets/The First 20 Days/media/image7.jpeg" />
 
-<img src="assets/The First 20 Days/media/image8.jpeg"
-style="width:1.875in;height:2.81389in" />
+<img src="assets/The First 20 Days/media/image8.jpeg" />
 
-<img src="assets/The First 20 Days/media/image9.jpeg"
-style="width:3.12569in;height:2.34444in" />
+<img src="assets/The First 20 Days/media/image9.jpeg" />
 
-**READING LOG**
+## READING LOG
 
 |          |           |            |            |
 |----------|-----------|------------|------------|
@@ -1387,7 +1380,7 @@ style="width:3.12569in;height:2.34444in" />
 |          |           |            |            |
 |          |           |            |            |
 
-**READING LOG**
+## READING LOG
 
 |           |            |           |                  |
 |-----------|------------|-----------|------------------|
@@ -1403,7 +1396,7 @@ style="width:3.12569in;height:2.34444in" />
 |           |            |           |                  |
 |           |            |           |                  |
 
-**Genres:**
+## Genres:
 
 Fantasy Realistic Fiction Mystery
 
@@ -1411,7 +1404,7 @@ Traditional Literature Historical Fiction Science Fiction
 
 Poetry Biography/Autobiography Non-Fiction
 
-**READING CONFERENCES**
+## READING CONFERENCES
 
 *“One-on-one meetings are the ultimate confidence builders for students.
 They’re especially effective as follow-ups to (instruction), when
@@ -1419,7 +1412,7 @@ students practice a strategy. Your undivided attention to each child
 makes them feel that you care about their learning and will try to help
 them understand and improve.” -Robb, 1998*
 
-**During a conference you might:**
+## During a conference you might:
 
 Listen to the student read aloud to determine fluency and accuracy.
 (running record)
@@ -1439,7 +1432,7 @@ Together, set some goals for the student.
 
 Discuss written responses in his/her reader response journal.
 
-**Prompts to open the conversation:**
+## Prompts to open the conversation:
 
 How's your reading going? or Talk to me about your reading.
 
@@ -1453,13 +1446,13 @@ Are you enjoying this author? or
 
 What are you discovering about the book/author?
 
-**Sampling a student's oral reading:**
+## Sampling a student's oral reading:
 
 Read a part you really liked or Read from where you are.
 
 Listen to your reading. How does it sound?
 
-**Encouraging Monitoring and Reflection:**
+## Encouraging Monitoring and Reflection:
 
 How well are you understanding your book?
 
@@ -1472,7 +1465,7 @@ Is this book "just right" for you? Why or why not?
 What do you think about your reading list so far? Is it limited by
 genre, series, etc?
 
-**Encouraging critical thinking:**
+## Encouraging critical thinking:
 
 Would you recommend this book to other students? Explain...
 
@@ -1489,7 +1482,7 @@ it.
 
 What are you thinking about reading next?
 
-**Extending Problem-Solving Strategies:**
+## Extending Problem-Solving Strategies:
 
 Let me show you a way to figure out that word.
 
@@ -1507,9 +1500,9 @@ Adapted by VanderVeen 2009
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1563,7 +1556,7 @@ Adapted by VanderVeen 2009
 
 - 
 
-**READING CONFERENCE NOTES**
+## READING CONFERENCE NOTES
 
 |          |                  |                   |
 |----------|------------------|-------------------|
@@ -1579,7 +1572,7 @@ Adapted by VanderVeen 2009
 |          |                  |                   |
 |          |                  |                   |
 
-**Reading Conference Comments Sheet**
+## Reading Conference Comments Sheet
 
 |          |                  |                                 |
 |----------|------------------|---------------------------------|
@@ -1603,7 +1596,7 @@ Adapted by VanderVeen 2009
 |          |                  |                                 |
 |          |                  |                                 |
 
-**Assessment**
+## Assessment
 
 **Reading conferences** are used for both assessment and instruction.
 
@@ -1615,7 +1608,7 @@ conferences where running records are taken. These will indicate who
 needs instruction in self-monitoring and self-correction. The focus for
 fluent readers is on comprehension,
 
-**Anecdotal Notes**
+## Anecdotal Notes
 
 Take notes, whenever possible, during the time spent with your students.
 These notes are shared and discussed with your students to help them
@@ -1663,7 +1656,7 @@ with their own evaluation.
 
 - Am I setting goals for myself? How do I know I am accomplishing them?
 
-**I know I Understand what I am Reading when I can:**
+## I know I Understand what I am Reading when I can:
 
 - Get the gist of the text even if I can’t read or interpret every word
   and idea.
@@ -1705,7 +1698,7 @@ with their own evaluation.
 Here are some questions that teachers might ask to improve reading if
 TRY SOMETHING doesn’t work.
 
-**Strategies For Constructing Meaning**
+## Strategies For Constructing Meaning
 
 *Visual* *prompts:*
 
@@ -1816,7 +1809,7 @@ Have you ever been to a place like this?
 
 If not, would you like to visit a place like this? Why/Why not?
 
-**PROBLEM / SOLUTION**
+## PROBLEM / SOLUTION
 
 Who has a problem in this story?
 
@@ -1828,7 +1821,7 @@ When did this same problem happen to you?
 
 What happened? How did you solve it?
 
-**AUTHOR**
+## AUTHOR
 
 What do you know about the author?
 
@@ -1850,7 +1843,7 @@ How did this story end?
 
 Can you think of another way this story might have ended?
 
-**STYLE**
+## STYLE
 
 What special words does the author use to help you hear/see in the
 story?
@@ -1859,7 +1852,7 @@ Tell me about any pictures the author has your mind.
 
 What do you like about the way the author has written the story?
 
-**CHARACTERS**
+## CHARACTERS
 
 What are the main characters in your story?
 
@@ -1873,7 +1866,7 @@ Do any of the characters do things that you think are good?
 
 Do any of the characters do things that you think are wrong?
 
-**THEME**
+## THEME
 
 Why do you think the author wrote this book?
 
@@ -1881,7 +1874,7 @@ Do you think there is a message in the story? What is it?
 
 So, what is the embedded theme?
 
-**ILLUSTRATION**
+## ILLUSTRATION
 
 Who’s the illustrator?
 
@@ -1895,7 +1888,7 @@ What if anything did the illustrations add to the text?
 What do you think the illustrator needed to know in order to illustrate
 this story?
 
-**POINT OF VIEW**
+## POINT OF VIEW
 
 Who is telling the story? How can you tell?
 
@@ -1905,7 +1898,7 @@ Which point of view is used? (1<sup>st</sup> person narrative uses I)
 
 Do you agree with the point of view? Why or why not?
 
-**CONFLICT / RESOLUTION**
+## CONFLICT / RESOLUTION
 
 Who has a problem?
 
@@ -1931,7 +1924,7 @@ When you were reading this book, tell me exactly what you were thinking
 about. You can tell me anything that the book makes you think about, any
 problems you had while I read it, and what you think it is about.
 
-**Using Schema**
+## Using Schema
 
 When you listened to the text, did it remind you of anything you know
 about or believe? What? Why did it remind you of ? (If student’s
@@ -1955,7 +1948,7 @@ text while reading?
 • How did thinking about your own schema or background knowledge help
 you understand this text?
 
-**Inferring**
+## Inferring
 
 For narrative text:
 
@@ -1990,7 +1983,7 @@ didn’t understand before?
 • Why do readers understand better when they infer? Why should readers
 infer? How does inferring help a reader understand a text better?
 
-**Asking Questions**
+## Asking Questions
 
 What did you wonder about while you read this text?
 
@@ -2005,7 +1998,7 @@ response.) Do questions help you understand more of what you’re reading?
 mind? Do questions help you understand some kinds of text better than
 others? Tell me more about that.
 
-**Determining Importance in Text Oral Assessment**
+## Determining Importance in Text Oral Assessment
 
 Are there some parts of this text that are more important than the
 others? Which ones? Why do you think they are the most important?
@@ -2027,7 +2020,7 @@ remember the important parts?
 • Do you ever have trouble remembering what is important after you read?
 How do you solve that problem?
 
-**Monitoring Comprehension Oral Assessment**
+## Monitoring Comprehension Oral Assessment
 
 What problems did you have while you were reading this text?
 
@@ -2054,7 +2047,7 @@ problem?
 • What would you tell another reader who might not realise when a text
 doesn’t make sense?
 
-**Visualising: Using Sensory and Emotional Images**
+## Visualising: Using Sensory and Emotional Images
 
 When you read this text, did you create pictures or images in your mind?
 Tell me everything you can about the image in your mind while you were
@@ -2075,7 +2068,7 @@ you read. Do those pictures help you to understand the text better?
 • What would you tell another reader about how to create images to
 better understand a text?
 
-**Synthesising**
+## Synthesising
 
 If you were to tell another person about the text you just read and you
 could only use a few sentences, what would you say?
@@ -2090,7 +2083,7 @@ about? Can you show or tell me where you changed your mind and why?
 Think about what you have just said about the story. What do you
 understand now that you didn’t understand before?
 
-**Story Structure/Structural Patterns Oral Assessment**
+## Story Structure/Structural Patterns Oral Assessment
 
 In this text, did you find text elements or structures? What were they?
 
@@ -2102,7 +2095,7 @@ text?
 How can text elements or structures help you better understand any text
 you read?
 
-**Some Possible Reading Conference Questions**
+## Some Possible Reading Conference Questions
 
 From Readers & Writers with a Difference – Rhodes & Marling
 
@@ -2150,7 +2143,7 @@ From Readers & Writers with a Difference – Rhodes & Marling
 - Does this text leave you feeling the need to read other texts to find
   out more about anything or anyone?
 
-**RESPONDING**
+## RESPONDING
 
 We want the students’ responses to be about what they are thinking and
 learning. The purpose of the responses is to enhance understanding. The
@@ -2234,7 +2227,7 @@ Written responses may include:
 In order to make the responses relevant we have been using several aids.
 Marking texts helps readers pay attention and remember what they read.
 
-**Post-its**
+## Post-its
 
 - Post-its. You can’t write on the book, but you can record questions,
   inferences, predictions etc. on a post-it at the relevant point. If
@@ -2310,7 +2303,7 @@ writing.
 >
 > Quote from Text Summary of Learning
 
-**<u>Reading is Thinking</u>**
+## Reading is Thinking
 
 This reminds me of…
 
@@ -2344,7 +2337,7 @@ I can connect this to the book…
 
 I can connect this to the world because…
 
-**<u>Asking Questions for Understanding</u> (Thick Questions)**
+## Asking Questions for Understanding (Thick Questions)
 
 \* Who was…?
 
@@ -2368,7 +2361,7 @@ I can connect this to the world because…
 
 \* How could…?
 
-**READ ALOUD/READ ALONG**
+## READ ALOUD/READ ALONG
 
 A Read Aloud is where the teacher is reading and the students listen.
 
@@ -2391,7 +2384,7 @@ Readers have many different thoughts as they read/listen.
 
 Readers can talk about their thinking.
 
-**Learning Structures**
+## Learning Structures
 
 Partner Talk:
 
@@ -2433,7 +2426,7 @@ One group member records.
 
 Whole Class Discussion: Can benefit from use of above practices.
 
-**READ ALOUD TO CHILDREN**
+## READ ALOUD TO CHILDREN
 
 - Read loud at least every day.
 
@@ -2476,9 +2469,9 @@ Make sure the children can see the pictures easily.
   the normal, daily Balance Literacy program.
 
 - <img src="assets/The First 20 Days/media/image10.jpeg"
-  style="width:2.08333in;height:2.61458in" />
+  />
 
-**First Day Jitters by Julie Danneberg**
+## First Day Jitters by Julie Danneberg
 
 Everyone knows that sinking feeling in the pit of the stomach just
 before diving into a new situation. Sarah Jane Hartwell is scared and
@@ -2489,10 +2482,9 @@ together and goes to school. She is quickly befriended by Mrs. Burton,
 who helps smooth her jittery transition. This charming and familiar
 story will delight readers with its surprise ending**.**
 
-<img src="assets/The First 20 Days/media/image11.jpeg"
-style="width:4.74861in;height:3.12569in" />
+<img src="assets/The First 20 Days/media/image11.jpeg" />
 
-**First Day Jitters Julie Danneberg**
+## First Day Jitters Julie Danneberg
 
 “Sarah, dear, time to get out of bed,” Mr Hartwell said, poking his head
 through the bedroom doorway. “You don’t want to miss the first day at
@@ -2560,10 +2552,9 @@ like you to meet …
 
 … your new teacher, Mrs Sarah Jane Hartwell.”
 
-<img src="assets/The First 20 Days/media/image12.jpeg"
-style="width:3.57292in;height:2.625in" />
+<img src="assets/The First 20 Days/media/image12.jpeg" />
 
-**First Day Read Alouds**
+## First Day Read Alouds
 
 **Wemberly Worried** by Kevin Henkes
 
@@ -2629,11 +2620,9 @@ ugly things that stereotypically-red-headed class bully Ronald Durkin
 says to her, she just grins her giant grinning grin and goes right ahead
 doing whatever it is she’s doing.
 
-<img src="assets/The First 20 Days/media/image13.jpeg"
-style="width:4.66458in;height:3.49861in" />
+<img src="assets/The First 20 Days/media/image13.jpeg" />
 
-<img src="assets/The First 20 Days/media/image14.jpeg"
-style="width:2.08333in;height:2.92708in" />
+<img src="assets/The First 20 Days/media/image14.jpeg" />
 
 In this sequel to First Day Jitters, Sarah Jane Hartwell has got up her
 courage and has gone to teach school. And as every first year teacher
@@ -2652,8 +2641,7 @@ Teachers and children alike will identify with Mrs. Hartwell as she
 navigates her first year. And many classes will be inspired to write
 letters about their own experiences**.**
 
-<img src="assets/The First 20 Days/media/image15.jpeg"
-style="width:4.75in;height:3.09375in" />
+<img src="assets/The First 20 Days/media/image15.jpeg" />
 
 **Read Aloud Suggestions**
 
@@ -2833,7 +2821,7 @@ Maisie books by Lucy Cousins
 
 Mem Fox books – all of them.
 
-**Chapter Books for the Early Years**
+## Chapter Books for the Early Years
 
 Moomintroll series by Tove Janson
 
@@ -2851,7 +2839,7 @@ Flat Stanley by Jeff Brown
 
 Mouse Soup by Arnold Lobel
 
-**SHARED READING**
+## SHARED READING
 
 *“Shared reading is a collaborative learning activity … that emulates
 and builds from the child’s experience with bedtime stories. In early
@@ -2964,7 +2952,7 @@ Through shared reading the teacher:
 
 - demonstrates reading for different purposes
 
-**Lessons**
+## Lessons
 
 Whole class
 
@@ -2989,20 +2977,18 @@ Whole class
 
 **Demonstration lesson** (From Jim’s lessons taken at Wembley)
 
-**Something from Nothing by Phoebe Gilman**
+## Something from Nothing by Phoebe Gilman
 
-<img src="assets/The First 20 Days/media/image16.jpeg"
-style="width:2.11736in;height:2.31875in" />
+<img src="assets/The First 20 Days/media/image16.jpeg" />
 
 The blanket Joseph's grandfather made him is transformed into many
 things as the years go by: a jacket, a vest, a tie, a handkerchief, and
 finally a button. Gilman's modern adaptation and lively illustrations
 turn this favourite Jewish tale into a contemporary classic.
 
-<img src="assets/The First 20 Days/media/image17.jpeg"
-style="width:4.91736in;height:3.17917in" />
+<img src="assets/The First 20 Days/media/image17.jpeg" />
 
-**Something from Nothing by Phoebe Gilman**
+## Something from Nothing by Phoebe Gilman
 
 Focus: Prediction
 
@@ -3054,7 +3040,7 @@ Why are some words in capitals? “*It is time to THROW IT OUT!”*
 Punctuation. Use of ellipses. Exclamation mark. Question mark. Talking
 marks. Possessive apostrophes: *Joseph’s grandfather’s grandparents’*
 
-**Something from Nothing Phoebe Gilman**
+## Something from Nothing Phoebe Gilman
 
 When Joseph was a baby, his grandfather made him a wonderful blanket …
 
@@ -3182,32 +3168,32 @@ Students read the text and highlight their parts.
 
 Practise. Perform for class.
 
-**Listening Post**
+## Listening Post
 
 Children read along using small book copies.
 
-**Computer**
+## Computer
 
 Something from Nothing on YouTube
 
-**Big Book Reading**
+## Big Book Reading
 
 Take turns with the pointer.
 
-**Independent Reading**
+## Independent Reading
 
 Small book copies/photocopies. Students tape record reading.
 
-**Read and Retell**
+## Read and Retell
 
 Students have a copy of the text. After reading it several times, they
 can fill in a Story Map to assist with the retelling.
 
-**The Mouse Story**
+## The Mouse Story
 
 Tell or Write the Mouse Story.
 
-**Build a Story**
+## Build a Story
 
 The group sequences sentence strips.
 
@@ -3216,11 +3202,11 @@ until they are all dealt out. The student with the first sentence(s)
 places it down and explains why it is first. repeat until the story is
 complete.
 
-**Spelling**
+## Spelling
 
 Onset and rime. Use words collected from the story. Add to the lists.
 
-**Something from Nothing Phoebe Gilman**
+## Something from Nothing Phoebe Gilman
 
 When Joseph was a baby, his grandfather made him a wonderful blanket …
 
@@ -3326,7 +3312,7 @@ here to make …”
 
 … a wonderful story.
 
-**From the Author (Teacher background information)**
+## From the Author (Teacher background information)
 
 Joseph's Grandpa can fix anything. He can turn a worn out blanket into a
 wonderful jacket, a vest into a Sabbath tie, a ragged handkerchief into
@@ -3369,11 +3355,9 @@ button she offers him her dolly but not her special blanket.
 Something From Nothing is being made into an animated special by
 Portfolio Entertainment.
 
-<img src="assets/The First 20 Days/media/image18.png"
-style="width:1.5625in;height:1.97917in" />
+<img src="assets/The First 20 Days/media/image18.png" />
 
-<img src="assets/The First 20 Days/media/image21.png"
-style="height:0.15556in" />
+<img src="assets/The First 20 Days/media/image21.png" />
 
 **What can I tell you about myself?** I like to make up stories and draw
 pictures. I like to go ice skating, to the movies and I love reading
@@ -3404,8 +3388,7 @@ Shortly after coming to Canada in 1972, I met and married Brian Bender.
 We have three children, Ingrid, Jason and Melissa, two granddaughters,
 Ariana and Emily and a cat, Minoo.
 
-<img src="assets/The First 20 Days/media/image22.png"
-style="width:1.77083in;height:2.08333in" />It was because of my
+<img src="assets/The First 20 Days/media/image22.png" />It was because of my
 daughter, Ingrid, that I became an author. When her balloon burst on a
 tree branch, I wished the tree would magically sprout balloons. It
 didn't...what sprouted was an idea in my head. Why not write a story
@@ -3475,7 +3458,7 @@ managed nonetheless to read voraciously and to write a brief family
 memoir of her childhood for her grandchildren, whom she adored.   
 Gilman leaves her husband, three grown children, and two grandchildren.
 
-**THINK ALOUD**
+## THINK ALOUD
 
 Think Alouds are central to comprehension instruction. We show students
 our thinking as we read aloud. This can often be recorded by coding the
@@ -3612,8 +3595,8 @@ With nonfiction, Think Alouds help
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3678,33 +3661,28 @@ own.</p></td>
 </tbody>
 </table>
 
-**Putting the Reading Strategies into Practice**
+## Putting the Reading Strategies into Practice
 
 - **See Reading Strategies course**
 
-**The Paperboy by Dav Pilkey**
+## The Paperboy by Dav Pilkey
 
-<img src="assets/The First 20 Days/media/image23.jpeg" /><img src="assets/The First 20 Days/media/image23.jpeg"
-style="width:2.12083in;height:2.48333in" />
+<img src="assets/The First 20 Days/media/image23.jpeg" /><img src="assets/The First 20 Days/media/image23.jpeg" />
 
 A quiet mood piece that depicts the bond between a paperboy and his dog.
 Human and canine both struggle to rouse themselves, eat breakfast from
 bowls, and have an intimate knowledge of their route. Pilkey paints
 their shared experiences with a graceful economy of language.
 
-<img src="assets/The First 20 Days/media/image24.jpeg"
-style="width:2.13542in;height:2.56181in" />
+<img src="assets/The First 20 Days/media/image24.jpeg" />
 
-<img src="assets/The First 20 Days/media/image25.jpeg"
-style="width:5.25278in;height:2.95486in" />
+<img src="assets/The First 20 Days/media/image25.jpeg" />
 
-<img src="assets/The First 20 Days/media/image26.png"
-style="width:4.875in;height:2.78125in" />
+<img src="assets/The First 20 Days/media/image26.png" />
 
-<img src="assets/The First 20 Days/media/image27.jpeg"
-style="width:4.16667in;height:2.9875in" />
+<img src="assets/The First 20 Days/media/image27.jpeg" />
 
-**The Paperboy Dav Pilkey**
+## The Paperboy Dav Pilkey
 
 The mornings of the paperboy are still dark and they are always cold
 even in the summer.
@@ -3772,7 +3750,7 @@ sleep and his dog is sleeping, too. Their work is done …
 
 … and now is the time for dreaming.
 
-**Visualise** to enjoy and understand a story – **background knowledge**
+## Visualise** to enjoy and understand a story – **background knowledge
 and **inference** are also utilised. E.g.
 
 Mentor Text: The Paperboy by Dav Pilkey.
@@ -3881,12 +3859,12 @@ Questions:
 Sometimes texts that have been used for teaching Reading Strategies can
 also be used to teach Writing Craft.
 
-**WRITING CRAFT The Paperboy by Dav Pilkey**
+## WRITING CRAFT The Paperboy by Dav Pilkey
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3941,7 +3919,7 @@ do.</em></p>
 </tbody>
 </table>
 
-**GUIDED READING - Discussion**
+## GUIDED READING - Discussion
 
 Discussion points:
 
@@ -4013,7 +3991,7 @@ Could be more reading.
 
 The book could provide a springboard for writing, drama etc.
 
-**LITERATURE DISCUSSION GROUPS**
+## LITERATURE DISCUSSION GROUPS
 
 Book discussion groups can be organised in several ways.
 
@@ -4078,13 +4056,13 @@ use and realise that they are using several at the same time.
 What was unique about the setting of the book, and how did it enhance or
 take away from the story?
 
-**Theme**
+## Theme
 
 What specific themes did the author emphasise throughout the book?
 
 What do you think the author is trying to get across to the reader?
 
-**Characters**
+## Characters
 
 Do the characters seem real and believable? Are they convincing?
 
@@ -4110,7 +4088,7 @@ If you could insert yourself as a character in the book, what role would
 you play? Would you be a new character or take the place of an existing
 one?
 
-**Plot**
+## Plot
 
 Is the plot well-developed? Is it believable? Do the plot events unfold
 naturally?
@@ -4128,19 +4106,19 @@ narrative endings.
 If you could rewrite the ending would you? In other words, did you find
 the ending satisfying? Why or why not?
 
-**Talk with the Author**
+## Talk with the Author
 
 If you could talk to the author, what would you want to know?
 
 Have you read other books by this author? Is their any connection in
 terms of theme, writing style, structure etc?
 
-**Reactions to the book**
+## Reactions to the book
 
 How did you experience the book? Did it intrigue, amuse, disturb,
 alienate, irritate, or frighten you?
 
-**LITERATURE DISCUSSION GROUPS**
+## LITERATURE DISCUSSION GROUPS
 
 Book discussion groups can be organised in several ways.
 
@@ -4205,13 +4183,13 @@ use and realise that they are using several at the same time.
 What was unique about the setting of the book, and how did it enhance or
 take away from the story?
 
-**Theme**
+## Theme
 
 What specific themes did the author emphasise throughout the book?
 
 What do you think the author is trying to get across to the reader?
 
-**Characters**
+## Characters
 
 Do the characters seem real and believable? Are they convincing?
 
@@ -4237,7 +4215,7 @@ If you could insert yourself as a character in the book, what role would
 you play? Would you be a new character or take the place of an existing
 one?
 
-**Plot**
+## Plot
 
 Is the plot well-developed? Is it believable? Do the plot events unfold
 naturally?
@@ -4255,14 +4233,14 @@ narrative endings.
 If you could rewrite the ending would you? In other words, did you find
 the ending satisfying? Why or why not?
 
-**Talk with the Author**
+## Talk with the Author
 
 If you could talk to the author, what would you want to know?
 
 Have you read other books by this author? Is their any connection in
 terms of theme, writing style, structure etc?
 
-**Reactions to the book**
+## Reactions to the book
 
 How did you experience the book? Did it intrigue, amuse, disturb,
 alienate, irritate, or frighten you?
@@ -4271,8 +4249,7 @@ alienate, irritate, or frighten you?
 
 **David Macaulay**
 
-<img src="assets/The First 20 Days/media/image28.jpeg"
-style="width:1.91042in;height:2.79861in" />
+<img src="assets/The First 20 Days/media/image28.jpeg" />
 
 The warning on the title page reads:
 
@@ -4282,7 +4259,7 @@ This book appears to contain a number of stories that do not necessarily
 occur at the same time. Then again, it may contain only one story. In
 any event, careful inspection of both words and pictures is recommended.
 
-**Grade 6**
+## Grade 6
 
 Book Discussion
 
@@ -4484,7 +4461,7 @@ interpretations by the students because of this bringing meaning to and
 taking meaning from the text. **Talking** about the books is therefore
 the best method of teaching and learning about literature.
 
-**Elements of Story:**
+## Elements of Story:
 
 A text’s meaning is embedded in the elements of story:
 
@@ -4554,7 +4531,7 @@ Think
 
 and how the other characters react to them.
 
-**Place**
+## Place
 
 Imagine … that’s what we often do as we use imagery to picture the
 setting of many books. Whether it’s :
@@ -4614,19 +4591,19 @@ The setting doesn’t always play an important part. If the importance of
 place is there, then this will surface during literature group
 discussions, as it has been modelled in our whole class sessions.
 
-**Point of View**
+## Point of View
 
 Students will very quickly recognise who is telling the story. Is it
 being told in the first or third person? In the third person, the
 narrator has access to all the characters and events.
 
-**Time**
+## Time
 
 Can create suspense.
 
 Can make time stand still.
 
-**Mood**
+## Mood
 
 The author creates mood through:
 
@@ -4647,7 +4624,7 @@ How did the author do this?
 
 Where was it funny, sad etc?
 
-**Metaphor**
+## Metaphor
 
 or what is the story really about?
 
@@ -4677,10 +4654,9 @@ Focus: Questioning Before, During, After.
 
 See Book Discussion Questions
 
-<img src="assets/The First 20 Days/media/image29.jpeg"
-style="width:2.37361in;height:2.59167in" />
+<img src="assets/The First 20 Days/media/image29.jpeg" />
 
-**The Mystery of Eilean Mor Gary Crew**
+## The Mystery of Eilean Mor Gary Crew
 
 The shepherds of the Outer Hebrides had feared the isle of Eilean Mor
 since the beginning of time. The meadows were haunted, they said.
@@ -4885,7 +4861,7 @@ that longed to fly home.
 
 But now there is only silence.
 
-**DRTA DIRECTED READING-THINKING ACTIVITIES**
+## DRTA DIRECTED READING-THINKING ACTIVITIES
 
 Purposes:
 
@@ -4953,7 +4929,7 @@ They:
 
 - Use knowledge of text structure.
 
-**Guided Reading - Grade 3**
+## Guided Reading - Grade 3
 
 DRTA – using mentor text. (See DRTA notes)
 
@@ -5038,10 +5014,10 @@ Little Joe’s granddaddy
 
 > should have to take a test to be able to vote.
 
-**Yes \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+## Yes \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**No**
 
-**Reasons Reasons**
+## Reasons Reasons
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -5076,12 +5052,12 @@ Little Joe’s granddaddy
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**Consensus**
+## Consensus
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_  
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**Granddaddy’s Gift Margaree Mitchell**
+## Granddaddy’s Gift Margaree Mitchell
 
 Granddaddy’s name was Joe Morgan. I followed my Granddaddy everywhere,
 so people called me Little Joe. But Granddaddy called me daughter.
@@ -5225,7 +5201,7 @@ and always to be proud. His gift never left me.
 At the top of the courthouse steps, Granddaddy took my hand. We had come
 a long way. We still had a long way to go.
 
-**RECIPROCAL TEACHING**
+## RECIPROCAL TEACHING
 
 Extending reading strategies – Reciprocal teaching is a research based
 dialogue between group members to jointly construct meaning in text.
@@ -5250,7 +5226,7 @@ monitoring use of strategies.
 Short, factual articles, relevant to current learning concepts are
 particularly appropriate.
 
-**Predicting**
+## Predicting
 
 Sets up purpose for the reading.
 
@@ -5263,7 +5239,7 @@ Predicting encourages students to think ahead actively.
 As students read, predictions are confirmed or modified. Students
 effectively monitor own understandings.
 
-**Clarifying**
+## Clarifying
 
 Uses context and word knowledge to overcome difficulties.
 
@@ -5291,7 +5267,7 @@ Strategies
 - it may be necessary for the students to read the whole passage again
   to understand the meaning
 
-**Question Generating**
+## Question Generating
 
 Develops critical thinking skills.
 
@@ -5318,7 +5294,7 @@ responding to the teacher’s questions or to pre-set questions.
 
 Questioning is a means of self-checking.
 
-**Summarising**
+## Summarising
 
 Indicates understanding.
 
@@ -5413,7 +5389,7 @@ Compare
 ‘If you could use a part of your partner’s/group’s text, which part
 would you use?’ Why?
 
-**Read and Retell**
+## Read and Retell
 
 **Different Forms:** This allows for varying abilities.
 
@@ -5456,7 +5432,7 @@ Students read text.
 
 Retell by drawing.
 
-**CHORAL READING** - **Draft & Craft Lesson**
+## CHORAL READING** - **Draft & Craft Lesson
 
 **  
 **Reading aloud meaningfully.
@@ -6028,7 +6004,7 @@ Wilderness.
 
 Jim K.
 
-**READERS’ THEATRE**
+## READERS’ THEATRE
 
 - Enjoying and appreciating literature through oral reading.
 
@@ -6153,5 +6129,4 @@ Readers’ Theatre with Younger Readers
 
 Cicadas by Paul Fleischman.
 
-<img src="assets/The First 20 Days/media/image30.jpeg"
-style="width:6.56597in;height:8.54375in" />
+<img src="assets/The First 20 Days/media/image30.jpeg" />

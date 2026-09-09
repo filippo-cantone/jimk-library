@@ -3,7 +3,9 @@ title: "The First 20 Days - Writing"
 source_file: "First 20 Days Literacy/The First 20 Days - Writing.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: first-20-days
 ---
 
 **The First**
@@ -12,17 +14,15 @@ tags: [jim-k]
 
 **Days**
 
-<img src="assets/The First 20 Days - Writing/media/image1.jpeg"
-style="width:2.63333in;height:2.07292in" />
+<img src="assets/The First 20 Days - Writing/media/image1.jpeg" />
 
 **Writing**
 
 **(1)**
 
-<img src="assets/The First 20 Days - Writing/media/image2.jpeg"
-style="width:5.99861in;height:3.18958in" />
+<img src="assets/The First 20 Days - Writing/media/image2.jpeg" />
 
-**Contents**
+## Contents
 
 Writing Overview
 
@@ -128,7 +128,7 @@ Share Time
 
 Reflection
 
-**Gradual Release of Responsibility model:**
+## Gradual Release of Responsibility model:
 
 Modelled Writing
 
@@ -146,7 +146,7 @@ Independent
 
 Independent Writing
 
-**The Writing Process:**
+## The Writing Process:
 
 Planning
 
@@ -182,7 +182,7 @@ Conventions
 
 Sentence Structure Mechanics (Grammar/Spelling)
 
-**Conferring**
+## Conferring
 
 Conference structure
 
@@ -277,20 +277,20 @@ looked out over 90<sup>th</sup> Street waiting for something to happen.
 A horn honked. A radio rapped. A kid cried. The usual. “Nothing ever
 happens on 90<sup>th</sup> Street,” Eva scribbled in her notebook.”*
 
-**Collecting**
+## Collecting
 
 The students collect a variety of entries. (see list of ideas).
 
 Mini-lessons focus on types of entries such as memories, wonderings,
 observations, free-writing etc.
 
-**Finding a Seed**
+## Finding a Seed
 
 Find an entry that is significant to you – it has meaning.
 
 Mini-lessons focus on rereading and choosing a seed.
 
-**Nurturing the Seed**
+## Nurturing the Seed
 
 ‘Collect around the topic.’
 
@@ -301,7 +301,7 @@ Mini-lessons focus on ways to extend the topic. This may involve using
 ‘collecting strategies’ as tools for exploring the topic. E.g.
 questioning, interviewing, freewriting etc.
 
-**From the Notebook**
+## From the Notebook
 
 *“Find something in your notebook that really matters to you. Look for a
 seed idea that you’d like to expand. Once you’ve developed that seed,
@@ -324,10 +324,9 @@ Celebrating.
 The students should feel from the outset that this is a special book.
 Decide whether they will cover them at school or home.
 
-<img src="assets/The First 20 Days - Writing/media/image3.jpeg"
-style="width:7.01042in;height:8.375in" />
+<img src="assets/The First 20 Days - Writing/media/image3.jpeg" />
 
-**Collecting Ideas**
+## Collecting Ideas
 
 Overheard Conversations.
 
@@ -381,7 +380,7 @@ Questions.
 
 Write down questions you would like to ask someone
 
-**More ideas for Writer’s Notebook**
+## More ideas for Writer’s Notebook
 
 Objects.
 
@@ -461,17 +460,13 @@ Sketches.
 
 Memory Chain
 
-<img src="assets/The First 20 Days - Writing/media/image4.png"
-style="width:1.90833in;height:2.51319in" />
+<img src="assets/The First 20 Days - Writing/media/image4.png" />
 
-<img src="assets/The First 20 Days - Writing/media/image5.png"
-style="width:2.46736in;height:2.32778in" />
+<img src="assets/The First 20 Days - Writing/media/image5.png" />
 
-<img src="assets/The First 20 Days - Writing/media/image6.jpeg"
-style="width:2.21667in;height:1.88125in" />
+<img src="assets/The First 20 Days - Writing/media/image6.jpeg" />
 
-<img src="assets/The First 20 Days - Writing/media/image7.png"
-style="width:2.40625in;height:1.94792in" />
+<img src="assets/The First 20 Days - Writing/media/image7.png" />
 
 **Nothing Ever Happens on 90<sup>th</sup> Street**
 
@@ -801,7 +796,7 @@ ordinary way, and then rewriting it in an interesting way.
 | Ordinary | Interesting |
 |          |             |
 
-**Nothing Ever Happens on 90<sup>th</sup> Street**
+## Nothing Ever Happens on 90<sup>th</sup> Street
 
 |               |            |
 |---------------|------------|
@@ -811,12 +806,12 @@ ordinary way, and then rewriting it in an interesting way.
 | Alexis Leora  |            |
 | Mrs Martinez  |            |
 
-**Nothing Ever Happens on 90<sup>th</sup> Street**
+## Nothing Ever Happens on 90<sup>th</sup> Street
 
 <table>
 <colgroup>
-<col style="width: 21%" />
-<col style="width: 78%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -850,14 +845,14 @@ make up a better story.”</em></p>
 </tbody>
 </table>
 
-**Nothing Ever Happens on 90<sup>th</sup> Street**
+## Nothing Ever Happens on 90<sup>th</sup> Street
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -918,14 +913,14 @@ vice-like grip? What if that menacing head could reach its target?*
 
 *Mr K*
 
-**Nothing Ever Happens on 90<sup>th</sup> Street**
+## Nothing Ever Happens on 90<sup>th</sup> Street
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -972,7 +967,7 @@ vice-like grip? What if that menacing head could reach its target?*
 </tbody>
 </table>
 
-**Memories**
+## Memories
 
 Students brainstorm ‘Memories’ in their Writer’s Notebooks.
 
@@ -1287,22 +1282,17 @@ Memory:
 
 Details:
 
-<img src="assets/The First 20 Days - Writing/media/image8.jpeg"
-style="width:2.08333in;height:2.55208in" />
+<img src="assets/The First 20 Days - Writing/media/image8.jpeg" />
 
-<img src="assets/The First 20 Days - Writing/media/image9.jpeg"
-style="width:1.92778in;height:2.50417in" />
+<img src="assets/The First 20 Days - Writing/media/image9.jpeg" />
 
-<img src="assets/The First 20 Days - Writing/media/image10.jpeg"
-style="width:2.13194in;height:1.76389in" />
+<img src="assets/The First 20 Days - Writing/media/image10.jpeg" />
 
-<img src="assets/The First 20 Days - Writing/media/image11.jpeg"
-style="width:1.95556in;height:2.60694in" />
+<img src="assets/The First 20 Days - Writing/media/image11.jpeg" />
 
-<img src="assets/The First 20 Days - Writing/media/image12.jpeg"
-style="width:2.09375in;height:2.61597in" />
+<img src="assets/The First 20 Days - Writing/media/image12.jpeg" />
 
-**The Art Lesson Tomie dePaola**
+## The Art Lesson Tomie dePaola
 
 Tommy knew he wanted to be an artist when he grew up. He drew pictures
 everywhere he went. It was his favourite thing to do.
@@ -1504,7 +1494,7 @@ and I never wanted to go to the desert. I never wanted to go anywhere
 else in the world, for I was in the mountains. And that was always
 enough.
 
-**A Chair for My Mother Vera B. Williams**
+## A Chair for My Mother Vera B. Williams
 
 My mother works as a waitress in the Blue Tile Diner. After school
 sometimes I go to meet her there. Then her boss Josephine gives me a job
@@ -1627,7 +1617,7 @@ Mama sits down and watches the news on TV when she comes home from her
 job. After supper I sit with her and she can reach right up and turn out
 the light if I fall asleep in her lap.
 
-**Too Many Tomales Gary Soto**
+## Too Many Tomales Gary Soto
 
 Snow drifted through the streets and now that it was dusk, Christmas
 trees glittered in the windows.
@@ -1785,7 +1775,7 @@ Then Maria couldn’t help herself. She laughed. And pretty soon everyone
 else was laughing, including her mother. And when Maria put her hands
 back into the bowl of *masa,* the leftover tear was gone.
 
-**Nana Upstairs & Nana Downstairs Tomie dePaola**
+## Nana Upstairs & Nana Downstairs Tomie dePaola
 
 When Tommy was a little boy, he had a grandmother and a
 great-grandmother.
@@ -1912,7 +1902,7 @@ star fall through the sky.
 
 *Now you are both Nana Upstairs,* he thought.
 
-**Quickwrites**
+## Quickwrites
 
 Read a short passage, picture book or poem.
 
@@ -1925,16 +1915,13 @@ The style, as well as the line could be borrowed.
 A quickwrite could provide the seed for a more developed piece of
 writing.
 
-<img src="assets/The First 20 Days - Writing/media/image13.jpeg"
-style="width:1.88264in;height:1.84514in" />
+<img src="assets/The First 20 Days - Writing/media/image13.jpeg" />
 
-<img src="assets/The First 20 Days - Writing/media/image14.png"
-style="width:1.72153in;height:2.58889in" />
+<img src="assets/The First 20 Days - Writing/media/image14.png" />
 
-<img src="assets/The First 20 Days - Writing/media/image15.jpeg"
-style="width:1.64375in;height:2.61042in" />
+<img src="assets/The First 20 Days - Writing/media/image15.jpeg" />
 
-**My Father’s Hands Joanne Ryder**
+## My Father’s Hands Joanne Ryder
 
 My father’s hands are big and strong, scooping up earth and lifting
 sacks of seeds. Thin cracks run down my father’s fingers. Dirt fills
@@ -2016,7 +2003,7 @@ Sometimes she shivered and we laughed.
 
 There are many ways to learn to be a writer.
 
-**Time Somebody Told Me**
+## Time Somebody Told Me
 
 Time Somebody Told Me
 
@@ -2083,7 +2070,7 @@ still warm with her skin, and you sleep near her, the rain outside
 falling and Papa snoring. The snoring, the rain, and Mama’s hair that
 smells like bread.
 
-**THE NAME PROJECT**
+## THE NAME PROJECT
 
 We care about our names. Given to us by our parents, they soon become
 our own. Sometimes they change, become shortened, or altered into
@@ -2130,20 +2117,15 @@ edit.
 
 Ref: Seeking History
 
-<img src="assets/The First 20 Days - Writing/media/image16.jpeg"
-style="width:1.7625in;height:2.24375in" />
+<img src="assets/The First 20 Days - Writing/media/image16.jpeg" />
 
-<img src="assets/The First 20 Days - Writing/media/image17.jpeg"
-style="width:1.92847in;height:2.49306in" />
+<img src="assets/The First 20 Days - Writing/media/image17.jpeg" />
 
-<img src="assets/The First 20 Days - Writing/media/image18.jpeg"
-style="width:2.38194in;height:2.24097in" />
+<img src="assets/The First 20 Days - Writing/media/image18.jpeg" />
 
-<img src="assets/The First 20 Days - Writing/media/image19.jpeg"
-style="width:2.55208in;height:2.55208in" />
+<img src="assets/The First 20 Days - Writing/media/image19.jpeg" />
 
-<img src="assets/The First 20 Days - Writing/media/image20.jpeg"
-style="width:2.10208in;height:2.7875in" />
+<img src="assets/The First 20 Days - Writing/media/image20.jpeg" />
 
 **My Name**
 
@@ -2750,16 +2732,16 @@ side.
 “Soon you will go to your new school. You must learn to print your name
 in English,” he said. “Here. This is how it looks.”
 
-**YOON**
+## YOON
 
 I wrinkled my nose. I did not like YOON. Lines. Circles. Each standing
 alone.
 
 “My name looks happy in Korean,” I said. “The symbols dance together.”
 
-**<u>O</u>**
+**O**
 
-**<u>II</u>**
+**II**
 
 “And in Korean my name means Shining Wisdom. I like the Korean way
 better.”
@@ -2876,10 +2858,9 @@ Yes, I am YOON.
 
 I write my name in English now. It still means Shining Wisdom.
 
-**The Boy Who Loved Words Roni Schotter**
+## The Boy Who Loved Words Roni Schotter
 
-<img src="assets/The First 20 Days - Writing/media/image21.jpeg"
-style="width:2.52292in;height:2.53194in" />
+<img src="assets/The First 20 Days - Writing/media/image21.jpeg" />
 
 Words. Selig loves everything about them–the way they taste on his
 tongue (tantalising), the sound they whisper in his ears
@@ -3330,7 +3311,7 @@ flashlight, to write my name on the dark. The letters lit up bricks and
 grass, path and swing, and willow leaves whispering in the breeze. Then
 my name went flying out into the big, starlit night.
 
-**Even More Ideas for Writer’s Notebook**
+## Even More Ideas for Writer’s Notebook
 
 An artifact – with notes. Important objects in our lives.
 
@@ -3448,7 +3429,7 @@ Observe people and things. Notice sounds, smells, textures.
 
 Write comparisons using like or as.
 
-**Memory Chain:**
+## Memory Chain:
 
 This planning exercise creates topics through word association.
 
@@ -3460,13 +3441,11 @@ not. Hone in on a word and plan from there.
 
 The longer the list, the more options available.
 
-<img src="assets/The First 20 Days - Writing/media/image22.jpeg"
-style="width:2.38264in;height:1.9625in" />
+<img src="assets/The First 20 Days - Writing/media/image22.jpeg" />
 
-**Finding Topics from a Memory Chain**
+## Finding Topics from a Memory Chain
 
-<img src="assets/The First 20 Days - Writing/media/image23.jpeg"
-style="width:5.20347in;height:2.3in" />
+<img src="assets/The First 20 Days - Writing/media/image23.jpeg" />
 
 Donald Crew and his family spent their summers in Cottondale Florida at
 his grandparent’s house. They rode the train there which took three
@@ -3484,7 +3463,7 @@ family gathered for dinner. They caught up on the past year went outside
 at night to look at the stars. Even now Donald thinks he could wake up
 one morning and be at Bigmama’s house with the whole summer ahead of him
 
-**Bigmama’s Donald Crews**
+## Bigmama’s Donald Crews
 
 “Did you see her? Did you see Bigmama?”
 
@@ -3645,8 +3624,7 @@ Night sky
 
 Reflecting
 
-<img src="assets/The First 20 Days - Writing/media/image24.jpeg"
-style="width:1.50278in;height:2.24375in" />
+<img src="assets/The First 20 Days - Writing/media/image24.jpeg" />
 
 "A master of those embarrassing, gloppy, painful, and suddenly wonderful
 things that happen on the razor's edge between childhood and
@@ -3694,10 +3672,9 @@ westward … “Raaaaaags!” *clop-clop,* “Raaaaaags!” *clop-clop*
 
 *…*
 
-<img src="assets/The First 20 Days - Writing/media/image25.jpeg"
-style="width:1.92847in;height:2.53472in" />
+<img src="assets/The First 20 Days - Writing/media/image25.jpeg" />
 
-**Letter to the Lake Susan Swanson**
+## Letter to the Lake Susan Swanson
 
 Dear Lake, When I think of you, I think of rocks hiding under the waves,
 like secrets. Remember me, your friend Rosie? Remember me?
@@ -3729,7 +3706,7 @@ The students could make a memory Chain for Letter to the Lake, following
 up in another mini-lesson with their own Memory Chain beginning with a
 word or object. This will focus their writing.
 
-**Letter to the Lake Susan Swanson**
+## Letter to the Lake Susan Swanson
 
 Dear Lake,
 
@@ -3830,8 +3807,7 @@ Rosie
 **Observations – use all your senses. Notice the small details around
 you.**
 
-<img src="assets/The First 20 Days - Writing/media/image26.jpeg"
-style="width:1.72847in;height:2.28611in" />
+<img src="assets/The First 20 Days - Writing/media/image26.jpeg" />
 
 Discuss how the character pays such close attention to the world around
 
@@ -3854,7 +3830,7 @@ heard on her listening walk.
 
 “What did you learn as writers today?”
 
-**The Listening Walk Paul Showers**
+## The Listening Walk Paul Showers
 
 I like to take walks. I take walks with my father and our dog. Our dog
 is called Major. He is an old dog and he does not walk very fast.
@@ -3977,12 +3953,11 @@ Right now there are sounds you can hear. When you finish this page,
 close the book and listen. How many different sounds can you hear right
 now? Close your book and count them!
 
-**Literature Providing Lists for Writing Possibilities**
+## Literature Providing Lists for Writing Possibilities
 
-<img src="assets/The First 20 Days - Writing/media/image27.jpeg"
-style="width:1.43611in;height:2.19167in" />
+<img src="assets/The First 20 Days - Writing/media/image27.jpeg" />
 
-**Hey World, Here I Am by Jean Little**
+## Hey World, Here I Am by Jean Little
 
 This book is written as if by a young girl, Kate Bloomfield.
 
@@ -3994,10 +3969,9 @@ author.
 
 Selections from the Contents page could be a good list to write off.
 
-<img src="assets/The First 20 Days - Writing/media/image28.jpeg"
-style="width:1.91944in;height:2.35764in" />
+<img src="assets/The First 20 Days - Writing/media/image28.jpeg" />
 
-**Beach by Elisha Cooper**
+## Beach by Elisha Cooper
 
 A day at the beach is captured beautifully in a series of seashore
 scenes from suntanning to swimming to shovelling sand.
@@ -4073,7 +4047,7 @@ Yesterday
 
 Use some of the entries as mentor texts.
 
-**Beach Elisha Cooper**
+## Beach Elisha Cooper
 
 Away to the beach! Away to sand and salt water, to rolling dunes and
 pounding waves. Away to swimsuits and sunscreen, to lying on towels and
@@ -4223,7 +4197,7 @@ toes and in bathing suits and inside ears. Inside, too, is the motion of
 the waves, the knowledge of a day well spent, a day to remember when the
 beach is far away.
 
-**Reading Like Writers - See Reading Like Writers Course**
+## Reading Like Writers - See Reading Like Writers Course
 
 At Wembley we read the text twice:
 
@@ -4237,10 +4211,9 @@ writer?***
 Think about your favourite few Mentor texts that you will keep close at
 hand during the year.
 
-<img src="assets/The First 20 Days - Writing/media/image29.jpeg"
-style="width:1.97986in;height:2.60347in" />
+<img src="assets/The First 20 Days - Writing/media/image29.jpeg" />
 
-**Fireflies by Julie Brinckloe**
+## Fireflies by Julie Brinckloe
 
 *How does the author create a picture with words?*
 
@@ -4255,7 +4228,7 @@ As well as using our Writer’s Notebooks for collecting ideas for
 writing, it is also a place where we can practise and experiment with
 writing.
 
-**Fireflies Julie Brinckloe**
+## Fireflies Julie Brinckloe
 
 On a summer evening I looked up from dinner, through the open window to
 the backyard. It was growing dark. My treehouse was a black shape in the
@@ -4345,12 +4318,12 @@ my head, making circles around the moon, like stars dancing.
 I held the jar, dark and empty, in my hands. The moonlight and the
 fireflies swam in my tears, but I could feel myself smiling.
 
-**Fireflies!** **Reading Strategies**
+## Fireflies!** **Reading Strategies
 
 <table>
 <colgroup>
-<col style="width: 41%" />
-<col style="width: 58%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4413,13 +4386,13 @@ you didn’t want to?</p>
 </tbody>
 </table>
 
-**Fireflies - Inferring**
+## Fireflies - Inferring
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4479,13 +4452,13 @@ feel myself smiling.</em></td>
 </tbody>
 </table>
 
-**Fireflies – Inferring**
+## Fireflies – Inferring
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4553,8 +4526,8 @@ can be alive and free.</td>
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4610,5 +4583,4 @@ monologue.</td>
 </tbody>
 </table>
 
-<img src="assets/The First 20 Days - Writing/media/image30.jpeg"
-style="width:4.55208in;height:5.20833in" />
+<img src="assets/The First 20 Days - Writing/media/image30.jpeg" />

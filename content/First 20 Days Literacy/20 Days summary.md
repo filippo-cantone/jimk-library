@@ -3,7 +3,9 @@ title: "20 Days summary"
 source_file: "First 20 Days Literacy/20 Days summary.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: first-20-days
 ---
 
 **The First**
@@ -12,13 +14,11 @@ tags: [jim-k]
 
 **Days**
 
-<img src="assets/20 Days summary/media/image1.png"
-style="width:5.08194in;height:3.01736in" />
+<img src="assets/20 Days summary/media/image1.png" />
 
-<img src="assets/20 Days summary/media/image2.png"
-style="width:3.125in;height:3.875in" />
+<img src="assets/20 Days summary/media/image2.png" />
 
-**CONTENTS**
+## CONTENTS
 
 Reading
 
@@ -144,7 +144,7 @@ Found Poems
 
 Readers’ Theatre
 
-**READING**
+## READING
 
 Reading is always about meaning. Reading is thinking.
 
@@ -189,7 +189,7 @@ Pearson).
 The challenge is for the students to realise how using strategies helped
 them as a reader
 
-**Instructional Practices**
+## Instructional Practices
 
 Whole Class
 
@@ -219,7 +219,7 @@ Individual
 
 - Reading Conferences
 
-**Reading Strategies**
+## Reading Strategies
 
 Prior Knowledge
 
@@ -242,8 +242,7 @@ important as it enables students to monitor their understanding.
 Students are expected to know which strategies to use for effective
 comprehension.
 
-<img src="assets/20 Days summary/media/image3.jpeg"
-style="width:5.99861in;height:3.18958in" />
+<img src="assets/20 Days summary/media/image3.jpeg" />
 
 **The First 20 Days Writing - 1**
 
@@ -353,7 +352,7 @@ Share Time
 
 Reflection
 
-**Gradual Release of Responsibility model:**
+## Gradual Release of Responsibility model:
 
 Modelled Writing
 
@@ -371,7 +370,7 @@ Independent
 
 Independent Writing
 
-**The Writing Process:**
+## The Writing Process:
 
 Planning
 
@@ -407,7 +406,7 @@ Conventions
 
 Sentence Structure Mechanics (Grammar/Spelling)
 
-**Conferring**
+## Conferring
 
 Conference structure
 
@@ -475,8 +474,7 @@ Exposition
 
 Debate
 
-<img src="assets/20 Days summary/media/image4.jpeg"
-style="width:3.47986in;height:2.16875in" />
+<img src="assets/20 Days summary/media/image4.jpeg" />
 
 **The First 20 Days**
 
@@ -530,8 +528,7 @@ Rhyme
 
 Rhyming Picture Books
 
-<img src="assets/20 Days summary/media/image5.jpeg"
-style="width:4.02917in;height:2.80694in" />
+<img src="assets/20 Days summary/media/image5.jpeg" />
 
 **The First 20 Days – Writing 3**
 
@@ -553,7 +550,7 @@ Ralph Fletcher
 
 **Craft** the students could learn to enhance their writing. E.g.
 
-**Style**
+## Style
 
 Voice
 
@@ -579,7 +576,7 @@ Imagery Scene Character
 
 Fluency
 
-**Focus**
+## Focus
 
 Topic
 
@@ -601,7 +598,7 @@ Purpose
 
 Audience
 
-**Organisation**
+## Organisation
 
 Stanza
 
@@ -613,7 +610,7 @@ Line Breaks
 
 Structure
 
-**Conventions**
+## Conventions
 
 Spelling
 
@@ -621,8 +618,7 @@ Grammar
 
 Structure (word level)
 
-<img src="assets/20 Days summary/media/image6.jpeg"
-style="width:5.20764in;height:3.71944in" />
+<img src="assets/20 Days summary/media/image6.jpeg" />
 
 **The First 20 Days Spelling**
 

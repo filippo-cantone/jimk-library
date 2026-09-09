@@ -3,7 +3,9 @@ title: "The First 20 Days - Writing2"
 source_file: "First 20 Days Literacy/The First 20 Days - Writing2.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: first-20-days
 ---
 
 **The First**
@@ -12,15 +14,13 @@ tags: [jim-k]
 
 **Days**
 
-<img src="assets/The First 20 Days - Writing2/media/image1.jpeg"
-style="width:3.95903in;height:3.10486in" />
+<img src="assets/The First 20 Days - Writing2/media/image1.jpeg" />
 
 **Writing**
 
 **(2)**
 
-<img src="assets/The First 20 Days - Writing2/media/image2.jpeg"
-style="width:3.47986in;height:2.16875in" />
+<img src="assets/The First 20 Days - Writing2/media/image2.jpeg" />
 
 **The First 20 Days**
 
@@ -74,7 +74,7 @@ Rhyme
 
 Rhyming Picture Books
 
-**Writing Log**
+## Writing Log
 
 Students prepare Writing Log where you want it. Perhaps:
 
@@ -82,7 +82,7 @@ Back of Writer’s Notebook
 
 Back of Writing Journal
 
-**Conferences**
+## Conferences
 
 Even with the students working in their Writer’s Notebooks, begin
 Writing Conferences. You will need to work out what works for you.
@@ -99,9 +99,9 @@ Establish the recording method you will utilise. (See samples). E.g.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -121,7 +121,7 @@ Establish the recording method you will utilise. (See samples). E.g.
 </tbody>
 </table>
 
-**WRITING CONFERENCES and MENTOR TEXTS**
+## WRITING CONFERENCES and MENTOR TEXTS
 
 After noting the craft in the mentor text, the students try the craft in
 their own writing.
@@ -144,7 +144,7 @@ How are you using your model text to help you write better?
 Conferences will differ according to the student’s familiarity with
 texts.
 
-**In Conferences**
+## In Conferences
 
 Students learn lessons about craft from mentor texts.
 
@@ -161,7 +161,7 @@ In some conferences we introduce students to mentors:
 
 We need a collection of mentor texts **in the classroom.**
 
-**Mentor Texts**
+## Mentor Texts
 
 A Good Mentor Text:
 
@@ -221,7 +221,7 @@ the text where the craft appears in the mentor text.
 You may need to point out what **you’ve** noticed about the way the
 author uses the craft.
 
-**Mini-lessons**
+## Mini-lessons
 
 The groundwork for conferences is done in the mini-lesson. (See previous
 notes on the architecture of mini-lessons.)
@@ -236,7 +236,7 @@ Students/Teacher response.
 
 Students try the technique.
 
-**Share Time**
+## Share Time
 
 The share session at the end of the lesson is also a teaching time. In
 the share time we follow up what we talked about during that day’s
@@ -259,7 +259,7 @@ Sometimes all students could participate in sharing – turn and talk.
 Like mini-lessons, share time help us have conferences in which students
 are already doing new kinds of writing work.
 
-**Guided Writing**
+## Guided Writing
 
 Where we notice a common need in a group of students, we can bring them
 together for a short guided writing session.
@@ -303,7 +303,7 @@ Post-its to remind students what they might try.
 
 - *Jim*
 
-**Conference Questions**
+## Conference Questions
 
 **Start the conference with questions to put the student in the lead**:
 
@@ -313,7 +313,7 @@ What are you doing as a writer today?
 
 What can I help you with today?
 
-**Questions that Nudge Students to say more:**
+## Questions that Nudge Students to say more:
 
 Could you say more about that?
 
@@ -321,7 +321,7 @@ What do you mean by…
 
 Could you explain what you mean by…
 
-**Questions that grow out of our knowledge of what good writers do:**
+## Questions that grow out of our knowledge of what good writers do:
 
 Have you planned out your draft?
 
@@ -329,7 +329,7 @@ What’s the focus of your piece?
 
 What kinds of revisions have you made?
 
-**Questions about students’ writing strategies:**
+## Questions about students’ writing strategies:
 
 How are you going to do this work?
 
@@ -337,13 +337,13 @@ What strategies are you going to use to do this work?
 
 How are you planning to get started with your draft?
 
-**Questions that come from what we already know about the students:**
+## Questions that come from what we already know about the students:
 
 Have you done some of the revision work you tried in your last piece?
 
 How did you pick the idea for your draft this time?
 
-**Questions connected to our mini-lesson:**
+## Questions connected to our mini-lesson:
 
 Have you tried out what we talked about today in the mini-lesson?
 
@@ -351,7 +351,7 @@ Remember how we talked yesterday in the mini-lesson about revision
 
 strategies? Have you used any of them to help you revise?
 
-**Questions about a student’s decisions:**
+## Questions about a student’s decisions:
 
 Why did you pick these places to add on?
 
@@ -359,7 +359,7 @@ Why did you decide to structure your draft this way?
 
 Why did you repeat this line several times?
 
-**How to Decide What to Teach in a Conference:**
+## How to Decide What to Teach in a Conference:
 
 What we know about good writing
 
@@ -372,7 +372,7 @@ conference, as well as in our previous conferences with her.
 
 From “How’s It Going?” by Carl Anderson
 
-**WRITING CONFERENCE NOTES**
+## WRITING CONFERENCE NOTES
 
 |          |                  |                   |
 |----------|------------------|-------------------|
@@ -429,13 +429,13 @@ From “How’s It Going?” by Carl Anderson
 
 <table>
 <colgroup>
-<col style="width: 31%" />
-<col style="width: 1%" />
-<col style="width: 2%" />
-<col style="width: 30%" />
-<col style="width: 0%" />
-<col style="width: 1%" />
-<col style="width: 32%" />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -644,9 +644,9 @@ structure</strong></p>
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -715,9 +715,9 @@ structure</strong></p>
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -756,9 +756,9 @@ structure</strong></p>
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -801,7 +801,7 @@ structure</strong></p>
 </tbody>
 </table>
 
-**Organising for the Writing Process**
+## Organising for the Writing Process
 
 Teachers at Wembley have different methods. Discuss within your cohort.
 Taxia can show you ‘The Peg Method.’
@@ -857,7 +857,7 @@ what took place in the conference. Use an example if it helps.
 Use the ‘I’m getting it!’ column to come back and make a note whenever
 you use what was discussed in your writing.
 
-**WRITING WORKSHOP DAILY LOG**
+## WRITING WORKSHOP DAILY LOG
 
 |                             |                                    |
 |-----------------------------|------------------------------------|
@@ -891,7 +891,7 @@ Did I use my five senses?
 
 Did I use imagery to create mind pictures?
 
-**ORGANISATION:**
+## ORGANISATION:
 
 Is there a reader-grabbing lead?
 
@@ -913,7 +913,7 @@ Is there surprising language?
 
 Have I used figurative language?
 
-**Voice:**
+## Voice:
 
 Does the writing sound like me?
 
@@ -925,7 +925,7 @@ Which point of view have I used?
 
 Is this consistent?
 
-**Fluency:**
+## Fluency:
 
 Does the writing have a rhythm and easy flow?
 
@@ -933,7 +933,7 @@ Does the text sound interesting when read aloud?
 
 Do the sentences vary in length as well as structure?
 
-**CONVENTIONS:**
+## CONVENTIONS:
 
 Is the grammar correct?
 
@@ -945,21 +945,21 @@ Is the spelling correct?
 
 **Questions to ask:**
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 28%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1237,23 +1237,23 @@ topic.</strong></p>
 </tbody>
 </table>
 
-**Questions to ask:**
+## Questions to ask:
 
 <table>
 <colgroup>
-<col style="width: 29%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2775,21 +2775,21 @@ use?</p>
 </tbody>
 </table>
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 29%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3074,19 +3074,19 @@ use?</p>
 
 <table>
 <colgroup>
-<col style="width: 29%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3353,21 +3353,21 @@ use?</p>
 </tbody>
 </table>
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 31%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3627,21 +3627,21 @@ use?</p>
 </tbody>
 </table>
 
-<table style="width:100%;">
+<table>
 <colgroup>
-<col style="width: 31%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
-<col style="width: 5%" />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3976,10 +3976,10 @@ arise.
 
 <table>
 <colgroup>
-<col style="width: 10%" />
-<col style="width: 28%" />
-<col style="width: 29%" />
-<col style="width: 31%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -4080,15 +4080,13 @@ arise.
 </tbody>
 </table>
 
-**Pamela Allen**
+## Pamela Allen
 
-<img src="assets/The First 20 Days - Writing2/media/image3.jpeg"
-style="width:3.69306in;height:5.2125in" />
+<img src="assets/The First 20 Days - Writing2/media/image3.jpeg" />
 
-**Pamela Allen**
+## Pamela Allen
 
-<img src="assets/The First 20 Days - Writing2/media/image4.png"
-style="width:1.45833in;height:1.875in" />
+<img src="assets/The First 20 Days - Writing2/media/image4.png" />
 
 Pamela Allen is a phenomenon in the world of children's literature. For
 almost thirty years her picture books have enchanted generations of
@@ -4107,8 +4105,7 @@ was shortlisted for the same award in 2007, as was Shhh! Little Mouse in
 2008. Is Your Grandmother a Goanna? won a 2008 Speech Pathology of
 Australia Book of the Year Award, as did Our Daft Dog Danny in 2010.
 
-<img src="assets/The First 20 Days - Writing2/media/image5.jpeg"
-style="width:2.29167in;height:2.29167in" />
+<img src="assets/The First 20 Days - Writing2/media/image5.jpeg" />
 
 Ferdie is a gruesome, fat, green monster who loves to eat meaty
 creatures but is so greedy he runs out of creatures to eat, so he sets
@@ -4120,16 +4117,13 @@ after Ferdie shakes every pear off the tree trying to get at them. So
 Ferdie tries a pear and decides that pears are so yummy, he'll only eat
 pears from now on.
 
-<img src="assets/The First 20 Days - Writing2/media/image6.png"
-style="width:7.29236in;height:3.59375in" />
+<img src="assets/The First 20 Days - Writing2/media/image6.png" />
 
-<img src="assets/The First 20 Days - Writing2/media/image7.png"
-style="width:7.29236in;height:3.60486in" />
+<img src="assets/The First 20 Days - Writing2/media/image7.png" />
 
-<img src="assets/The First 20 Days - Writing2/media/image8.png"
-style="width:7.29236in;height:3.60278in" />
+<img src="assets/The First 20 Days - Writing2/media/image8.png" />
 
-**Fat Ferdie Pamela Allen**
+## Fat Ferdie Pamela Allen
 
 Fat Ferdie – what a ferocious beast.
 
@@ -4225,28 +4219,21 @@ Now, what does Fat Ferdie like to eat?
 
 Only pears, NEVER meat!
 
-<img src="assets/The First 20 Days - Writing2/media/image9.jpeg"
-style="width:2.29167in;height:2.25in" />
+<img src="assets/The First 20 Days - Writing2/media/image9.jpeg" />
 
-<img src="assets/The First 20 Days - Writing2/media/image10.jpeg"
-style="width:2.29167in;height:2.30208in" />
+<img src="assets/The First 20 Days - Writing2/media/image10.jpeg" />
 
-<img src="assets/The First 20 Days - Writing2/media/image11.jpeg"
-style="width:2.29167in;height:2.27986in" />
+<img src="assets/The First 20 Days - Writing2/media/image11.jpeg" />
 
-<img src="assets/The First 20 Days - Writing2/media/image12.jpeg"
-style="width:2.45694in;height:2.21944in" />
+<img src="assets/The First 20 Days - Writing2/media/image12.jpeg" />
 
-<img src="assets/The First 20 Days - Writing2/media/image13.jpeg"
-style="width:3in;height:2.83472in" />
+<img src="assets/The First 20 Days - Writing2/media/image13.jpeg" />
 
-<img src="assets/The First 20 Days - Writing2/media/image14.jpeg"
-style="width:2.94792in;height:2.975in" />
+<img src="assets/The First 20 Days - Writing2/media/image14.jpeg" />
 
-<img src="assets/The First 20 Days - Writing2/media/image15.jpeg"
-style="width:2.73403in;height:2.87083in" />
+<img src="assets/The First 20 Days - Writing2/media/image15.jpeg" />
 
-**Mr McGee and the Big Bag of Bread Pamela Allen**
+## Mr McGee and the Big Bag of Bread Pamela Allen
 
 Mr McGee stretched out in his bed.
 
@@ -4326,7 +4313,7 @@ and tries to keep warm with his cat on his knee.
 
 Oh, how he wishes he’d stayed in his bed.
 
-**Mr McGee and the Perfect Nest Pamela Allen**
+## Mr McGee and the Perfect Nest Pamela Allen
 
 Lazy bird wanted a nest,
 
@@ -4414,7 +4401,7 @@ OHHHHHH!
 
 Just right for me.”
 
-**Mr McGee goes to Sea Pamela Allen**
+## Mr McGee goes to Sea Pamela Allen
 
 Mr McGee was sipping his tea
 
@@ -4490,7 +4477,7 @@ He stirred it round and drank it up.
 
 when you’ve been sailing on the sea.”
 
-**Mr McGee and the Blackberry Jam Pamela Allen**
+## Mr McGee and the Blackberry Jam Pamela Allen
 
 Underneath this apple tree
 
@@ -4620,7 +4607,7 @@ he thought about his day, then said,
 
 IT’S MARMALADE I LOVE ON BREAD!”
 
-**Mr McGee and the Biting Flea Pamela Allen**
+## Mr McGee and the Biting Flea Pamela Allen
 
 Mr McGee went out to play,
 
@@ -4774,8 +4761,7 @@ OWWWWWWWWWWWWWWWWWW
 
 EEEEEEEEEEEEEEEEEE.”
 
-<img src="assets/The First 20 Days - Writing2/media/image16.jpeg"
-style="width:3.5in;height:3.07083in" />
+<img src="assets/The First 20 Days - Writing2/media/image16.jpeg" />
 
 A cautionary tale about two men, Bill and Ben, who just don't seem to be
 able to share, despite the constant advice from a wise rooster and hen.
@@ -4786,10 +4772,9 @@ boat. In each story we see that neither of them gets the benefit of what
 they're fighting over until we are left to imagine the men's fate when
 they cut a boat in half rather than share it.
 
-<img src="assets/The First 20 Days - Writing2/media/image17.jpeg"
-style="width:4.25139in;height:3.6875in" />
+<img src="assets/The First 20 Days - Writing2/media/image17.jpeg" />
 
-**Share said the Rooster Pamela Allen**
+## Share said the Rooster Pamela Allen
 
 Here are five little stories of two little men,
 
@@ -4889,10 +4874,9 @@ Good-bye Billy. Good-bye Ben.
 
 Nursery Rhymes
 
-<img src="assets/The First 20 Days - Writing2/media/image18.png"
-style="width:2.625in;height:3.19792in" />
+<img src="assets/The First 20 Days - Writing2/media/image18.png" />
 
-**Twinkle Twinkle**
+## Twinkle Twinkle
 
 Twinkle, twinkle, little star,
 
@@ -4954,7 +4938,7 @@ Twinkle, twinkle, little star,
 
 How I wonder what you are.
 
-**Rock-a-bye-Baby**
+## Rock-a-bye-Baby
 
 Rock-a-bye-baby
 
@@ -4972,7 +4956,7 @@ And down will come baby,
 
 Cradle and all.
 
-**Little Miss Muffet**
+## Little Miss Muffet
 
 Little Miss Muffet
 
@@ -5004,7 +4988,7 @@ Sukey take it off again,
 
 They’ve all gone away.
 
-**Mary Had a Little Lamb**
+## Mary Had a Little Lamb
 
 Mary had a little lamb,
 
@@ -5038,7 +5022,7 @@ It made the children laugh and play,
 
 To see a lamb at school.
 
-**Humpty Dumpty**
+## Humpty Dumpty
 
 Humpty Dumpty sat on the wall,
 
@@ -5050,7 +5034,7 @@ And all the King’s men,
 
 Couldn’t put Humpty together again.
 
-**This Little Piggy Went to Market**
+## This Little Piggy Went to Market
 
 This little piggy went to market.
 
@@ -5064,7 +5048,7 @@ And this little piggy cried, ‘Wee-wee-wee,’
 
 All the way home.
 
-**Round and Round the Garden**
+## Round and Round the Garden
 
 Round and round the garden,
 
@@ -5090,7 +5074,7 @@ One step, two steps,
 
 And right up in the air.
 
-**Hickory Dickory Dock**
+## Hickory Dickory Dock
 
 Tick tock, tick tock
 
@@ -5140,7 +5124,7 @@ The mouse said, “No more,”
 
 Hickory dickory dock.
 
-**Baa Baa Black Sheep**
+## Baa Baa Black Sheep
 
 Baa baa black sheep
 
@@ -5158,7 +5142,7 @@ And one for the little boy
 
 Who lives down the lane.
 
-**Open, Shut Them**
+## Open, Shut Them
 
 Open, shut them, open, shut them,
 
@@ -5184,7 +5168,7 @@ Open, shut them, open, shut them,
 
 Give your friends a cuddle.
 
-**Ride a Cock-horse**
+## Ride a Cock-horse
 
 Ride a cock-horse to Banbury Cross,
 
@@ -5194,7 +5178,7 @@ Rings on her fingers and bells on her toes,
 
 She shall have music wherever she goes.
 
-**Row, Row, Row**
+## Row, Row, Row
 
 Row, row, row your boat,
 
@@ -5228,7 +5212,7 @@ Wibbledy, wobbledy, wibbledy, wobbledy,
 
 Into the water you go… SPLASH!
 
-**Incy Wincy Spider**
+## Incy Wincy Spider
 
 Incy Wincy Spider climbed up the water spout,
 
@@ -5246,7 +5230,7 @@ Out came the sun and melted all the snow,
 
 So Incy Wincy Spider had another go.
 
-**Five Little Ducks**
+## Five Little Ducks
 
 Five little ducks went out one day,
 
@@ -5288,7 +5272,7 @@ Mother Duck said, “Quack, quack, quack, quack,”
 
 All of the five little ducks came back.
 
-**Ring a Ring o’Rosie**
+## Ring a Ring o’Rosie
 
 Ring a ring o’rosie,
 
@@ -5314,7 +5298,7 @@ Atishoo, atishoo,
 
 We all fall down.
 
-**It’s Raining, It’s Pouring**
+## It’s Raining, It’s Pouring
 
 It’s raining, it’s pouring,
 
@@ -5326,7 +5310,7 @@ bumped his head,
 
 And couldn’t get up in the morning.
 
-**Star Light, Star Bright**
+## Star Light, Star Bright
 
 Star light, star bright,
 
@@ -5336,7 +5320,7 @@ I wish I may, I wish I might,
 
 Have the wish I wish tonight.
 
-**I’m a Little Teapot**
+## I’m a Little Teapot
 
 I’m a little teapot short and stout.
 
@@ -5352,7 +5336,7 @@ Just tip me over,
 
 Pour me out.
 
-**Hey Diddle Diddle**
+## Hey Diddle Diddle
 
 Hey diddle diddle,
 
@@ -5366,7 +5350,7 @@ To see such sport,
 
 And the dish ran away with the spoon.
 
-**Nick Nack Paddiwack**
+## Nick Nack Paddiwack
 
 This old man, he played one,
 
@@ -5418,7 +5402,7 @@ Give a dog a bone,
 
 This old man came rolling home.
 
-**I Hear Thunder**
+## I Hear Thunder
 
 I hear thunder,
 
@@ -5452,7 +5436,7 @@ I’m wet through,
 
 So are you!
 
-**Little Bo-Peep**
+## Little Bo-Peep
 
 Little Bo-Peep
 
@@ -5468,7 +5452,7 @@ And they’ll come home,
 
 Wagging their tails behind them.
 
-**Old Mother Hubbard**
+## Old Mother Hubbard
 
 Old Mother Hubbard
 
@@ -5482,7 +5466,7 @@ The cupboard was bare,
 
 And so the poor dog had none.
 
-**Hey-de, Hey-de Ho**
+## Hey-de, Hey-de Ho
 
 Hey-de,
 
@@ -5504,7 +5488,7 @@ Hey-de, hey-de ho,
 
 The elephant is so slow.
 
-**Teddy Bear, Teddy Bear**
+## Teddy Bear, Teddy Bear
 
 Teddy Bear, Teddy Bear,
 
@@ -5538,7 +5522,7 @@ Teddy Bear, Teddy Bear,
 
 Say good-night.
 
-**RHYME**
+## RHYME
 
 *Rhyming is an aspect of phonemic awareness (awareness of how to listen
 to, identify, and change around the sounds in spoken language). Phonemic
@@ -5555,11 +5539,9 @@ At the Prep Orientation Day, the parents have been told about the
 importance of nursery rhymes. Hopefully many of the students will come
 to school knowing them, but we can’t assume that.
 
-<img src="assets/The First 20 Days - Writing2/media/image19.jpeg"
-style="width:2.18958in;height:2.41181in" />
+<img src="assets/The First 20 Days - Writing2/media/image19.jpeg" />
 
-<img src="assets/The First 20 Days - Writing2/media/image20.jpeg"
-style="width:2.20694in;height:2.36944in" />
+<img src="assets/The First 20 Days - Writing2/media/image20.jpeg" />
 
 Rhyme support:
 
@@ -5567,38 +5549,32 @@ Author Study – Pamela Allen
 
 Lynley Dodd
 
-<img src="assets/The First 20 Days - Writing2/media/image21.jpeg"
-style="width:2.75in;height:2.58472in" />
+<img src="assets/The First 20 Days - Writing2/media/image21.jpeg" />
 
-<img src="assets/The First 20 Days - Writing2/media/image22.jpeg"
-style="width:3.33264in;height:2.51944in" />
+<img src="assets/The First 20 Days - Writing2/media/image22.jpeg" />
 
 Rhyming Picture Books:
 
-<img src="assets/The First 20 Days - Writing2/media/image23.jpeg"
-style="width:1.82639in;height:2.35in" />
+<img src="assets/The First 20 Days - Writing2/media/image23.jpeg" />
 
 Giraffes Can’t Dance by Giles Andreae is a very sweet story about a
 giraffe who gets laughed at because he doesn’t know how to dance. A
 cricket gives him some great advice and with new found confidence that
 different isn’t always bad he starts to dance!
 
-<img src="assets/The First 20 Days - Writing2/media/image24.jpeg"
-style="width:2.28264in;height:2.74653in" />
+<img src="assets/The First 20 Days - Writing2/media/image24.jpeg" />
 
 Parts by Tedd Arnold is so funny. Readers follow along as a 5 year old
 boy begins noticing things about his body he’d never noticed before like
 belly button lint, snot, peeling skin and more. His anxious assumptions
 about his body falling apart will have you in stitches.
 
-<img src="assets/The First 20 Days - Writing2/media/image25.jpeg"
-style="width:2.15972in;height:2.49375in" />
+<img src="assets/The First 20 Days - Writing2/media/image25.jpeg" />
 
 Each animal is introduced in the seamless text that reads like a melodic
 poem. Available as a Big Book.
 
-<img src="assets/The First 20 Days - Writing2/media/image26.jpeg"
-style="width:2.83333in;height:2.45069in" />
+<img src="assets/The First 20 Days - Writing2/media/image26.jpeg" />
 
 Is there really a human race?
 
@@ -5622,8 +5598,7 @@ relishing the journey and making good choices along the way—because how
 we live and how we love is how we learn to make the world a better
 place, one small step at a time.
 
-<img src="assets/The First 20 Days - Writing2/media/image27.jpeg"
-style="width:3.08333in;height:2.81389in" />
+<img src="assets/The First 20 Days - Writing2/media/image27.jpeg" />
 
 The story is simple a truck is stuck and even though other vehicles come
 to help, nothing budges until a tow truck arrives. The best part is the
@@ -5631,47 +5606,40 @@ cargo of bones in the truck are slowly stolen by hungry gophers while
 the others work to free the truck. It’s got a great message about
 helping people.
 
-<img src="assets/The First 20 Days - Writing2/media/image28.jpeg"
-style="width:2.44236in;height:3.07708in" />
+<img src="assets/The First 20 Days - Writing2/media/image28.jpeg" />
 
 With the turn of each page the reader is left wondering what’s next. A
 book we’ve used for innovating on the text.
 
-<img src="assets/The First 20 Days - Writing2/media/image29.jpeg"
-style="width:1.94792in;height:2.60417in" />
+<img src="assets/The First 20 Days - Writing2/media/image29.jpeg" />
 
 Its text is musical , its premise is brilliant in its simplicity and
 kids love it.
 
-<img src="assets/The First 20 Days - Writing2/media/image30.jpeg"
-style="width:1.7875in;height:2.35903in" />
+<img src="assets/The First 20 Days - Writing2/media/image30.jpeg" />
 
 You count the instruments as they come on stage for a performance and
 not only is this a great counting book, but it introduced musical
 instruments in its rhyming text and super fun pictures.
 
-<img src="assets/The First 20 Days - Writing2/media/image31.png"
-style="width:1.69514in;height:2.38333in" />
+<img src="assets/The First 20 Days - Writing2/media/image31.png" />
 
 There are only 50 words used in the whole book, and easy rhymes make it
 a great choice for learning about rhyming.
 
-<img src="assets/The First 20 Days - Writing2/media/image32.jpeg"
-style="width:2.18889in;height:2.87083in" />
+<img src="assets/The First 20 Days - Writing2/media/image32.jpeg" />
 
 One of several ‘Dinosaur’ books by this team. A beautifully illustrated
 story about the tantrums and dramatics that dinosaurs put their parents
 through at bedtime.
 
-<img src="assets/The First 20 Days - Writing2/media/image33.jpeg"
-style="width:2.29514in;height:2.88194in" />
+<img src="assets/The First 20 Days - Writing2/media/image33.jpeg" />
 
 The Gruffalo's Child tells the delightful tale of a little Gruffalo who
 ignores her father's warnings and tiptoes out into the snow in search of
 the Big Bad Mouse.
 
-<img src="assets/The First 20 Days - Writing2/media/image34.jpeg"
-style="width:3.3125in;height:2.57292in" />
+<img src="assets/The First 20 Days - Writing2/media/image34.jpeg" />
 
 This interactive book invites young children to play the classic "I spy"
 game. The rhymed verses give youngsters clues about who to look for in
@@ -5679,12 +5647,11 @@ the detailed illustrations. Little ones will be delighted when they spy
 Tom Thumb, Jack and Jill, The Three Little Bears and many other nursery
 rhyme characters hiding in the pictures.
 
-<img src="assets/The First 20 Days - Writing2/media/image35.jpeg"
-style="width:2.08194in;height:2.24097in" />
+<img src="assets/The First 20 Days - Writing2/media/image35.jpeg" />
 
 Traditional song which has spawned many variations.
 
-**There was an Old Lady**
+## There was an Old Lady
 
 There was an old lady who swallowed a fly
 
@@ -5754,8 +5721,7 @@ There was an old lady who swallowed a horse...
 
 She's dead, of course!
 
-<img src="assets/The First 20 Days - Writing2/media/image36.jpeg"
-style="width:2.84375in;height:3.125in" />
+<img src="assets/The First 20 Days - Writing2/media/image36.jpeg" />
 
 *Edward the emu was sick of the zoo,*
 
@@ -5782,8 +5748,7 @@ he heads back to his pen, only to find a big surprise awaiting him . .
 droll illustrations are sure to make readers laugh out loud in this
 whimsical picture book by the creators of Edwina the Emu.
 
-<img src="assets/The First 20 Days - Writing2/media/image37.jpeg"
-style="width:3.01806in;height:3.24583in" />
+<img src="assets/The First 20 Days - Writing2/media/image37.jpeg" />
 
 In this sequel to the popular Edward the Emu, Edward and his mate Edwina
 are the proud parents of ten little emu eggs. "Don't get depressed. I'll
@@ -5792,5 +5757,4 @@ so Edwina sets out to find a job. Rhythmic, rhyming verse by Sheena
 Knowles and hilarious illustrations by Rod Clement make this an
 entertaining picture book.
 
-<img src="assets/The First 20 Days - Writing2/media/image38.png"
-style="width:4.73958in;height:5.47917in" />
+<img src="assets/The First 20 Days - Writing2/media/image38.png" />
