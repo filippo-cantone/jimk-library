@@ -10,7 +10,7 @@ tags: [jim-k]
 
 **PART 7**
 
-> <img src="/tmp/tmp.H0O6gfABMP/media/media/image1.jpeg"
+> <img src="assets/INFERRING7 Jim/media/image1.jpeg"
 > style="width:2.5in;height:3.33333in" />
 
 **INFERRING 7**
@@ -737,7 +737,7 @@ kind of air". Although the book celebrates the phenomena of the desert,
 the point is that nature everywhere is full of wonder and beauty often
 unnoticed by those of us surrounded by it**.**
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image2.jpeg"
+<img src="assets/INFERRING7 Jim/media/image2.jpeg"
 style="width:1.66667in;height:2.08333in" />
 
 How does the Indian girl use her five senses?
@@ -1993,7 +1993,7 @@ Discuss the purpose of this activity and how this activity/skill
 translates to the readings, and critical thinking in general, within the
 topic being studied.
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image3.png"
+<img src="assets/INFERRING7 Jim/media/image3.png"
 style="width:4.71806in;height:4.23889in" />
 
 *When inferring, students must draw conclusions when the answer is never
@@ -2044,16 +2044,16 @@ the best clues?
 
 What linkages can be identified? What additional questions arise?
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image4.jpeg"
+<img src="assets/INFERRING7 Jim/media/image4.jpeg"
 style="width:5.57292in;height:4.19792in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image5.jpeg"
+<img src="assets/INFERRING7 Jim/media/image5.jpeg"
 style="width:5.21944in;height:3.50972in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image6.jpeg"
+<img src="assets/INFERRING7 Jim/media/image6.jpeg"
 style="width:6.24861in;height:4.68889in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image7.jpeg"
+<img src="assets/INFERRING7 Jim/media/image7.jpeg"
 style="width:6.24861in;height:4.16667in" />
 
 An Indonesian farmer and his buffalo charge through the mud—"an epic
@@ -2063,10 +2063,10 @@ Farmers literally put a lot of stock into winning these annual races,
 which they believe will bring them luck during the upcoming growing
 season.
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image8.jpeg"
+<img src="assets/INFERRING7 Jim/media/image8.jpeg"
 style="width:7.71528in;height:5.7125in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image9.jpeg"
+<img src="assets/INFERRING7 Jim/media/image9.jpeg"
 style="width:3.12569in;height:3.98958in" />
 
 **INFERRING**
@@ -2123,7 +2123,7 @@ Whole class share and record in Infer column.
 
 |                                                        |            |           |
 |--------------------------------------------------------|------------|-----------|
-| <img src="/tmp/tmp.H0O6gfABMP/media/media/image5.jpeg" 
+| <img src="assets/INFERRING7 Jim/media/image5.jpeg" 
  style="width:5.21944in;height:3.50972in" />             |            |           |
 | **Observe**                                            | **Wonder** | **Infer** |
 
@@ -2258,7 +2258,7 @@ Repeat through further sections of the text.
 
 **P-QAR**
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image10.jpeg"
+<img src="assets/INFERRING7 Jim/media/image10.jpeg"
 style="width:2.8125in;height:2.01042in" />
 
 Review:
@@ -2268,7 +2268,7 @@ sketches that are miracles of expressiveness. The first page shocks: a
 dog is tossed onto a lonely road from the window of a car. What follows
 evokes feelings of pity and horror worthy of Greek drama. The dog races
 after the car as it speeds away, falling farther
-behind <img src="/tmp/tmp.H0O6gfABMP/media/media/image11.jpeg"
+behind <img src="assets/INFERRING7 Jim/media/image11.jpeg"
 style="width:1.73958in;height:1.73958in" />until he is no more than a
 speck with a tail, as seen by the uncaring people who have abandoned
 him. In blind hope, the pooch bounds into the road after the next car to
@@ -2326,12 +2326,12 @@ Some of these questions will be a combination of Right There and
 
 Artist and You.
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image12.jpeg"
+<img src="assets/INFERRING7 Jim/media/image12.jpeg"
 style="width:1.90486in;height:1.90486in" />
 
 **Inferring Vocabulary**
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image13.jpeg"
+<img src="assets/INFERRING7 Jim/media/image13.jpeg"
 style="width:2.11597in;height:2.78681in" />
 
 "Manyoni is on her way to school; she gets up at dawn to walk two hours
@@ -2411,7 +2411,7 @@ them.
 yard. They love having time to play with their friends before class
 begins.
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image14.jpeg"
+<img src="assets/INFERRING7 Jim/media/image14.jpeg"
 style="width:3.08472in;height:3.07222in" />
 
 George and Martha: not, as one might think, the first president and his
@@ -2423,21 +2423,21 @@ to be a true friend. A man with a talent for friendship, James Marshall
 defined its very essence in his stories about the world's two best
 friends.
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image15.jpeg"
+<img src="assets/INFERRING7 Jim/media/image15.jpeg"
 style="width:4.06806in;height:4.09861in" />
 
 **Rose Blanche by Roberto Innocenti**
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image16.jpeg"
+<img src="assets/INFERRING7 Jim/media/image16.jpeg"
 style="width:5.20764in;height:3.58194in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image17.jpeg"
+<img src="assets/INFERRING7 Jim/media/image17.jpeg"
 style="width:5.20833in;height:4.3125in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image18.jpeg"
+<img src="assets/INFERRING7 Jim/media/image18.jpeg"
 style="width:5.20833in;height:6.17708in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image19.jpeg"
+<img src="assets/INFERRING7 Jim/media/image19.jpeg"
 style="width:2.69861in;height:3.55903in" />
 
 A little girl longs to see beyond the scary sights on the sidewalk and
@@ -2452,7 +2452,7 @@ your heart is happy,” the girl thinks. Her search for “something
 beautiful” leaves her feeling much happier. She has experienced the
 beauty of friendship and the power of hope.
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image20.jpeg"
+<img src="assets/INFERRING7 Jim/media/image20.jpeg"
 style="width:3.13472in;height:2.63333in" />
 
 Holly Evans is a young girl with an idea, vegetable seeds, and balloons.
@@ -2472,16 +2472,16 @@ space. Due to a clumsy kitchen worker the entire food supply of the star
 cruiser Alula Borealis is sent down to Earth. So now that the aliens
 lost all of their vegetables, what is for dinner?)
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image21.png"
+<img src="assets/INFERRING7 Jim/media/image21.png"
 style="width:7.12361in;height:5.52083in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image22.jpeg"
+<img src="assets/INFERRING7 Jim/media/image22.jpeg"
 style="width:3.57292in;height:2.72917in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image23.jpeg"
+<img src="assets/INFERRING7 Jim/media/image23.jpeg"
 style="width:4.16667in;height:3.56389in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image24.jpeg"
+<img src="assets/INFERRING7 Jim/media/image24.jpeg"
 style="width:3.02708in;height:3.76528in" />
 
 How Many Days to America? is a book based on the hardships and triumphs
@@ -2497,7 +2497,7 @@ coloured pencils and the edges of the people and objects in the
 illustrations seem to fade into each other. The softness of the
 illustrations seems to contrast the hard, realistic story.
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image25.jpeg"
+<img src="assets/INFERRING7 Jim/media/image25.jpeg"
 style="width:2.46875in;height:3.33333in" />
 
 Cynthia Rylant's story An Angel for Solomon Singer is the story of
@@ -2520,7 +2520,7 @@ not? Is being home about a place outside of us, or about something
 inside us? Can we be at home anywhere? Do homes change? Can a home
 become no longer a home? Does home mean the same thing to all people?
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image26.jpeg"
+<img src="assets/INFERRING7 Jim/media/image26.jpeg"
 style="width:2.80417in;height:3.49306in" />
 
 This is the story of a zoo in Japan during a war. City officials worry
@@ -2530,16 +2530,16 @@ elephants are too smart to eat the poisoned food, and their skin is too
 tough for hypodermic needles. The elephants are starved to death,
 watched by the zookeepers who loved them.
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image27.jpeg"
+<img src="assets/INFERRING7 Jim/media/image27.jpeg"
 style="width:4.21875in;height:5.34375in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image28.jpeg"
+<img src="assets/INFERRING7 Jim/media/image28.jpeg"
 style="width:4.26042in;height:5.35417in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image29.jpeg"
+<img src="assets/INFERRING7 Jim/media/image29.jpeg"
 style="width:4.28125in;height:5.35417in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image30.jpeg"
+<img src="assets/INFERRING7 Jim/media/image30.jpeg"
 style="width:4.19792in;height:5.35417in" />
 
 **Faithful Elephants Yukio Tsuchiya**
@@ -2666,7 +2666,7 @@ this monument.”
 He was still patting the tombstone tenderly as the cherry blossoms fell
 on the grave, like snowflakes.
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image31.jpeg"
+<img src="assets/INFERRING7 Jim/media/image31.jpeg"
 style="width:3.24861in;height:3.12847in" />
 
 A homeless boy who lives in an airport with his father, moving from
@@ -2810,7 +2810,7 @@ Dad and I will be here forever. Then I remember the bird. It took a
 while, but a door opened. And when the bird left, when it flew free, I
 know it was singing.
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image32.jpeg"
+<img src="assets/INFERRING7 Jim/media/image32.jpeg"
 style="width:2.70417in;height:3.34931in" />
 
 Oliver Button was called a sissy. He didn't like to do things that boys
@@ -2940,19 +2940,19 @@ SISSY.
 
 STAR!
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image33.jpeg"
+<img src="assets/INFERRING7 Jim/media/image33.jpeg"
 style="width:4.04167in;height:4.16667in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image34.jpeg"
+<img src="assets/INFERRING7 Jim/media/image34.jpeg"
 style="width:3.85486in;height:4.16667in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image35.jpeg"
+<img src="assets/INFERRING7 Jim/media/image35.jpeg"
 style="width:4.10417in;height:4.16667in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image36.jpeg"
+<img src="assets/INFERRING7 Jim/media/image36.jpeg"
 style="width:4.07292in;height:4.16667in" />
 
-<img src="/tmp/tmp.H0O6gfABMP/media/media/image37.png"
+<img src="assets/INFERRING7 Jim/media/image37.png"
 style="width:1.66736in;height:2.44792in" />
 
 When an ant scout returns home with a mysterious crystal, the queen ant

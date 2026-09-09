@@ -10,7 +10,7 @@ tags: [jim-k]
 
 **Because of Winn-Dixie Kate DiCamillo**
 
-<img src="/tmp/tmp.nqCrDjiMZH/media/media/image1.jpeg"
+<img src="assets/Kate DiCamillo/media/image1.jpeg"
 style="width:1.85694in;height:2.48958in" />
 
 The summer Opal and her father, the preacher, move to Naomi, Florida,
@@ -725,7 +725,7 @@ bless you, baby."
 
 And I feel that I have been blessed. Over and over again.
 
-<img src="/tmp/tmp.nqCrDjiMZH/media/media/image2.jpeg"
+<img src="assets/Kate DiCamillo/media/image2.jpeg"
 style="width:1.58333in;height:2.28125in" />
 
 I was born in Philadelphia, Pennsylvania, raised in Clermont, Florida,

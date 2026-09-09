@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.Q4KR6B3Cq0/media/media/image1.jpeg"
+<img src="assets/Gary Paulsen/media/image1.jpeg"
 style="width:3.42292in;height:2.73333in" />
 
 On a moonlit winter night, a team of dogs pulls a sled, taking the
@@ -289,19 +289,19 @@ sentences.</p></td>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.Q4KR6B3Cq0/media/media/image2.jpeg"
+<img src="assets/Gary Paulsen/media/image2.jpeg"
 style="width:2.60347in;height:3.80069in" />
 
-<img src="/tmp/tmp.Q4KR6B3Cq0/media/media/image3.jpeg"
+<img src="assets/Gary Paulsen/media/image3.jpeg"
 style="width:3.04861in;height:2.51806in" />
 
-<img src="/tmp/tmp.Q4KR6B3Cq0/media/media/image4.jpeg"
+<img src="assets/Gary Paulsen/media/image4.jpeg"
 style="width:2.66667in;height:1.65625in" />
 
-<img src="/tmp/tmp.Q4KR6B3Cq0/media/media/image5.jpeg"
+<img src="assets/Gary Paulsen/media/image5.jpeg"
 style="width:6.80069in;height:1.48472in" />
 
-<img src="/tmp/tmp.Q4KR6B3Cq0/media/media/image6.jpeg"
+<img src="assets/Gary Paulsen/media/image6.jpeg"
 style="width:1.5625in;height:2.08194in" />
 
 # Iditarod Journal Gary Paulsen
@@ -340,7 +340,7 @@ which in turn makes the running slow.
 
 |                                                        |
 |--------------------------------------------------------|
-| <img src="/tmp/tmp.Q4KR6B3Cq0/media/media/image7.jpeg" 
+| <img src="assets/Gary Paulsen/media/image7.jpeg" 
  style="width:2.08333in;height:2.26042in" />             |
 | A close friend                                         |
 
@@ -358,12 +358,12 @@ stay with the front end, just hang in the middle and have a good, sane,
 and safe run and see that wonderful country over a dogsled one more
 time. .
 
-<img src="/tmp/tmp.Q4KR6B3Cq0/media/media/image8.jpeg"
+<img src="assets/Gary Paulsen/media/image8.jpeg"
 style="width:6.90694in;height:7.8875in" />
 
 **Clabbered Dirt, Sweet Grass Gary Paulsen**
 
-<img src="/tmp/tmp.Q4KR6B3Cq0/media/media/image9.jpeg"
+<img src="assets/Gary Paulsen/media/image9.jpeg"
 style="width:2.75in;height:2.75in" />
 
 This is a novel, ‘a lyrical tribute to life on a farm.’ It is organised
@@ -668,7 +668,7 @@ hooked back into the bobsled, the oak tongue between, and they prance.
 
 **Canoe Days Gary Paulsen**
 
-<img src="/tmp/tmp.Q4KR6B3Cq0/media/media/image10.jpeg"
+<img src="assets/Gary Paulsen/media/image10.jpeg"
 style="width:2.39583in;height:2.625in" />
 
 Peace. Stillness. Quiet. Nature observation at its best. Paulsen's

@@ -10,10 +10,10 @@ tags: [jim-k]
 
 **(2)**
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image1.jpeg"
+<img src="assets/Margie Palatini 2/media/image1.jpeg"
 style="width:4.25in;height:4in" />
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image2.jpeg"
+<img src="assets/Margie Palatini 2/media/image2.jpeg"
 style="width:2.86458in;height:3.11458in" />
 
 In this modern fable of right and wrong, Hogg, Hogg & Hog have everyone
@@ -51,10 +51,10 @@ They are *very* **BIG PIGS.**
 
 Hogg, Hogg, and Hog have *everyone* in the **BIG CITY oinking!**
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image3.jpeg"
+<img src="assets/Margie Palatini 2/media/image3.jpeg"
 style="width:7.12778in;height:4.01181in" />
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image4.jpeg"
+<img src="assets/Margie Palatini 2/media/image4.jpeg"
 style="width:5.20764in;height:2.89444in" />
 
 Yes, Hogg, Hogg, and Hog were the most *famous* fabulous, successful Big
@@ -106,7 +106,7 @@ ever to leave the farm and make it in the **BIG CITY.**
 
 “*How* do those three pigs keep coming up with these **BIG IDEAS?**”
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image5.jpeg"
+<img src="assets/Margie Palatini 2/media/image5.jpeg"
 style="width:6.56389in;height:4.61389in" />
 
 The *very* next morning, a small red pickup drove into the **MIDDLE OF
@@ -153,10 +153,10 @@ BIGGEST BUILDING,** it’s very, very, *very* **BIG BUSINESS** at …
 
 “They are *all* working on **NEW,** *brilliant,* very **BIG** ideas.”
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image6.jpeg"
+<img src="assets/Margie Palatini 2/media/image6.jpeg"
 style="width:5.20972in;height:3.46736in" />
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image7.jpeg"
+<img src="assets/Margie Palatini 2/media/image7.jpeg"
 style="width:5.37569in;height:3.51181in" />
 
 My new book, HOGG HOGG & HOG, celebrates the absurd, the silly, and the
@@ -237,7 +237,7 @@ said …OINK! Yup. Pigs were definitely it! (And, I do have a history with
 pigs too.) Here are some of the original duck sketches: (The ducks on
 the ends, were great inspiration to Duck who appears in HHH.)
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image8.jpeg"
+<img src="assets/Margie Palatini 2/media/image8.jpeg"
 style="width:5.20764in;height:2.17778in" />
 
 While each of the ducks had a specific ‘look,’ the pigs really allowed
@@ -246,7 +246,7 @@ characters. This was especially true of ‘Hog’, who gobbles his way
 through the book eating one fast food goodie after another, and also
 wearing it on his chinny-chin-chin.
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image9.jpeg"
+<img src="assets/Margie Palatini 2/media/image9.jpeg"
 style="width:5.20972in;height:4.27986in" />
 
 The ducks’ office digs of greys, blues and bright yellows changed to the
@@ -263,13 +263,13 @@ pigs ‘popped’ on their new palette, in fact, they popped right out of
 the page. Super advice. A huge thanks to Diane for sharing her insight
 with a pic book illustration novice.
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image10.jpeg"
+<img src="assets/Margie Palatini 2/media/image10.jpeg"
 style="width:5.20972in;height:2.89444in" />
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image11.jpeg"
+<img src="assets/Margie Palatini 2/media/image11.jpeg"
 style="width:5.20764in;height:2.89444in" />
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image12.jpeg"
+<img src="assets/Margie Palatini 2/media/image12.jpeg"
 style="width:5.20764in;height:2.60347in" />
 
 **Moosetache Margie Palatini**
@@ -279,7 +279,7 @@ are finally solved when he meets the moose of his dreams and she
 introduces him to a special pot of glue she uses to tame her own crazy
 locks.
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image13.jpeg"
+<img src="assets/Margie Palatini 2/media/image13.jpeg"
 style="width:2.1875in;height:2.86458in" />
 
 **Prefix**
@@ -451,16 +451,16 @@ It was so simple. So easy. So perfectly perfect.
 
 And- **it stuck.**
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image14.jpeg"
+<img src="assets/Margie Palatini 2/media/image14.jpeg"
 style="width:2.86875in;height:3.76528in" />
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image15.jpeg"
+<img src="assets/Margie Palatini 2/media/image15.jpeg"
 style="width:3.33333in;height:3.33333in" />
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image16.jpeg"
+<img src="assets/Margie Palatini 2/media/image16.jpeg"
 style="width:2.59375in;height:3.33333in" />
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image17.jpeg"
+<img src="assets/Margie Palatini 2/media/image17.jpeg"
 style="width:4.16667in;height:4.16667in" />
 
 **Bedhead**
@@ -695,7 +695,7 @@ Biddlemeyer got a look at Oliver and his bedhead.
 
 “Got it!” said the photographer.
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image18.jpeg"
+<img src="assets/Margie Palatini 2/media/image18.jpeg"
 style="width:4.70069in;height:3.525in" />
 
 Margie Palatini said:
@@ -716,19 +716,19 @@ disclosure: I get my share of bedheads too! Mine are of the ‘bird’s nest
 with wild crooked spikes’ variety. So, I guess you could say the
 condition is hereditary. Sorry, Jamie.
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image19.jpeg"
+<img src="assets/Margie Palatini 2/media/image19.jpeg"
 style="width:2.08333in;height:2.79167in" />
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image20.jpeg"
+<img src="assets/Margie Palatini 2/media/image20.jpeg"
 style="width:3.32292in;height:3.33333in" />
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image21.jpeg"
+<img src="assets/Margie Palatini 2/media/image21.jpeg"
 style="width:3.29167in;height:3.36458in" />
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image22.png"
+<img src="assets/Margie Palatini 2/media/image22.png"
 style="width:1.94792in;height:1.89583in" />
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image23.jpeg"
+<img src="assets/Margie Palatini 2/media/image23.jpeg"
 style="width:2.5in;height:2.0375in" />
 
 This is the story of Thomas and Joseph, two pigs. The other animals on
@@ -760,7 +760,7 @@ Summarising using Who? What? Why?
 
 Independent Writing: Persuasive essay ‘The Perfect Pet.’
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image24.jpeg"
+<img src="assets/Margie Palatini 2/media/image24.jpeg"
 style="width:2.38542in;height:2.04167in" />
 
 > **The Perfect Pet**
@@ -966,7 +966,7 @@ style="width:2.38542in;height:2.04167in" />
 
 Elizabeth smiled and tossed Doug a piece of popcorn.
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image25.jpeg"
+<img src="assets/Margie Palatini 2/media/image25.jpeg"
 style="width:2.08333in;height:2.23958in" />
 
 Geek Chic: (Paperback, 3
@@ -986,7 +986,7 @@ friendly hybrid) to what she thinks is going to be her ultimate
 makeover. Then, instead, of becoming a sweet princess in a tiara, she
 discovers beauty in what the title suggests: Geek Chic.
 
-<img src="/tmp/tmp.zHv3nfgB4K/media/media/image26.jpeg"
+<img src="assets/Margie Palatini 2/media/image26.jpeg"
 style="width:1.64583in;height:2.08333in" />
 
 Poulette, Collette, and Fifi are three French hens who are part of a

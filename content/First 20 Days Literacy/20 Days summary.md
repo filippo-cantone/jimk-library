@@ -12,10 +12,10 @@ tags: [jim-k]
 
 **Days**
 
-<img src="/tmp/tmp.kpcaaOBLxf/media/media/image1.png"
+<img src="assets/20 Days summary/media/image1.png"
 style="width:5.08194in;height:3.01736in" />
 
-<img src="/tmp/tmp.kpcaaOBLxf/media/media/image2.png"
+<img src="assets/20 Days summary/media/image2.png"
 style="width:3.125in;height:3.875in" />
 
 **CONTENTS**
@@ -242,7 +242,7 @@ important as it enables students to monitor their understanding.
 Students are expected to know which strategies to use for effective
 comprehension.
 
-<img src="/tmp/tmp.kpcaaOBLxf/media/media/image3.jpeg"
+<img src="assets/20 Days summary/media/image3.jpeg"
 style="width:5.99861in;height:3.18958in" />
 
 **The First 20 Days Writing - 1**
@@ -475,7 +475,7 @@ Exposition
 
 Debate
 
-<img src="/tmp/tmp.kpcaaOBLxf/media/media/image4.jpeg"
+<img src="assets/20 Days summary/media/image4.jpeg"
 style="width:3.47986in;height:2.16875in" />
 
 **The First 20 Days**
@@ -530,7 +530,7 @@ Rhyme
 
 Rhyming Picture Books
 
-<img src="/tmp/tmp.kpcaaOBLxf/media/media/image5.jpeg"
+<img src="assets/20 Days summary/media/image5.jpeg"
 style="width:4.02917in;height:2.80694in" />
 
 **The First 20 Days – Writing 3**
@@ -621,7 +621,7 @@ Grammar
 
 Structure (word level)
 
-<img src="/tmp/tmp.kpcaaOBLxf/media/media/image6.jpeg"
+<img src="assets/20 Days summary/media/image6.jpeg"
 style="width:5.20764in;height:3.71944in" />
 
 **The First 20 Days Spelling**

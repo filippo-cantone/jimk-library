@@ -12,14 +12,14 @@ tags: [jim-k]
 
 **Days**
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image1.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image1.jpeg"
 style="width:2.63333in;height:2.07292in" />
 
 **Writing**
 
 **(1)**
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image2.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image2.jpeg"
 style="width:5.99861in;height:3.18958in" />
 
 **Contents**
@@ -324,7 +324,7 @@ Celebrating.
 The students should feel from the outset that this is a special book.
 Decide whether they will cover them at school or home.
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image3.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image3.jpeg"
 style="width:7.01042in;height:8.375in" />
 
 **Collecting Ideas**
@@ -461,16 +461,16 @@ Sketches.
 
 Memory Chain
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image4.png"
+<img src="assets/The First 20 Days - Writing/media/image4.png"
 style="width:1.90833in;height:2.51319in" />
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image5.png"
+<img src="assets/The First 20 Days - Writing/media/image5.png"
 style="width:2.46736in;height:2.32778in" />
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image6.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image6.jpeg"
 style="width:2.21667in;height:1.88125in" />
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image7.png"
+<img src="assets/The First 20 Days - Writing/media/image7.png"
 style="width:2.40625in;height:1.94792in" />
 
 **Nothing Ever Happens on 90<sup>th</sup> Street**
@@ -1287,19 +1287,19 @@ Memory:
 
 Details:
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image8.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image8.jpeg"
 style="width:2.08333in;height:2.55208in" />
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image9.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image9.jpeg"
 style="width:1.92778in;height:2.50417in" />
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image10.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image10.jpeg"
 style="width:2.13194in;height:1.76389in" />
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image11.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image11.jpeg"
 style="width:1.95556in;height:2.60694in" />
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image12.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image12.jpeg"
 style="width:2.09375in;height:2.61597in" />
 
 **The Art Lesson Tomie dePaola**
@@ -1925,13 +1925,13 @@ The style, as well as the line could be borrowed.
 A quickwrite could provide the seed for a more developed piece of
 writing.
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image13.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image13.jpeg"
 style="width:1.88264in;height:1.84514in" />
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image14.png"
+<img src="assets/The First 20 Days - Writing/media/image14.png"
 style="width:1.72153in;height:2.58889in" />
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image15.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image15.jpeg"
 style="width:1.64375in;height:2.61042in" />
 
 **My Father’s Hands Joanne Ryder**
@@ -2130,19 +2130,19 @@ edit.
 
 Ref: Seeking History
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image16.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image16.jpeg"
 style="width:1.7625in;height:2.24375in" />
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image17.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image17.jpeg"
 style="width:1.92847in;height:2.49306in" />
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image18.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image18.jpeg"
 style="width:2.38194in;height:2.24097in" />
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image19.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image19.jpeg"
 style="width:2.55208in;height:2.55208in" />
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image20.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image20.jpeg"
 style="width:2.10208in;height:2.7875in" />
 
 **My Name**
@@ -2878,7 +2878,7 @@ I write my name in English now. It still means Shining Wisdom.
 
 **The Boy Who Loved Words Roni Schotter**
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image21.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image21.jpeg"
 style="width:2.52292in;height:2.53194in" />
 
 Words. Selig loves everything about them–the way they taste on his
@@ -3460,12 +3460,12 @@ not. Hone in on a word and plan from there.
 
 The longer the list, the more options available.
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image22.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image22.jpeg"
 style="width:2.38264in;height:1.9625in" />
 
 **Finding Topics from a Memory Chain**
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image23.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image23.jpeg"
 style="width:5.20347in;height:2.3in" />
 
 Donald Crew and his family spent their summers in Cottondale Florida at
@@ -3645,7 +3645,7 @@ Night sky
 
 Reflecting
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image24.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image24.jpeg"
 style="width:1.50278in;height:2.24375in" />
 
 "A master of those embarrassing, gloppy, painful, and suddenly wonderful
@@ -3694,7 +3694,7 @@ westward … “Raaaaaags!” *clop-clop,* “Raaaaaags!” *clop-clop*
 
 *…*
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image25.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image25.jpeg"
 style="width:1.92847in;height:2.53472in" />
 
 **Letter to the Lake Susan Swanson**
@@ -3830,7 +3830,7 @@ Rosie
 **Observations – use all your senses. Notice the small details around
 you.**
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image26.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image26.jpeg"
 style="width:1.72847in;height:2.28611in" />
 
 Discuss how the character pays such close attention to the world around
@@ -3979,7 +3979,7 @@ now? Close your book and count them!
 
 **Literature Providing Lists for Writing Possibilities**
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image27.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image27.jpeg"
 style="width:1.43611in;height:2.19167in" />
 
 **Hey World, Here I Am by Jean Little**
@@ -3994,7 +3994,7 @@ author.
 
 Selections from the Contents page could be a good list to write off.
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image28.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image28.jpeg"
 style="width:1.91944in;height:2.35764in" />
 
 **Beach by Elisha Cooper**
@@ -4237,7 +4237,7 @@ writer?***
 Think about your favourite few Mentor texts that you will keep close at
 hand during the year.
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image29.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image29.jpeg"
 style="width:1.97986in;height:2.60347in" />
 
 **Fireflies by Julie Brinckloe**
@@ -4610,5 +4610,5 @@ monologue.</td>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.vgnYGU7iQO/media/media/image30.jpeg"
+<img src="assets/The First 20 Days - Writing/media/image30.jpeg"
 style="width:4.55208in;height:5.20833in" />

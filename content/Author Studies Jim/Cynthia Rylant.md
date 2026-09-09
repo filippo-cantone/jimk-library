@@ -567,7 +567,7 @@ pup goes from miffed to mischievous, leading everyone from the paperboy
 to the delivery woman to the painters themselves on a town-wide caper,
 in search of the one thing she wants most--a little peace and quiet.
 
-<img src="/tmp/tmp.6EDynJlFCQ/media/media/image1.jpeg"
+<img src="assets/Cynthia Rylant/media/image1.jpeg"
 style="width:2in;height:1.83333in" />
 
 Students can identify examples of cause and effect.
@@ -660,7 +660,7 @@ HERSELF!
 The painters did not return to Gracie’s house that day. They had to take
 naps.
 
-<img src="/tmp/tmp.6EDynJlFCQ/media/media/image2.jpeg"
+<img src="assets/Cynthia Rylant/media/image2.jpeg"
 style="width:2.60417in;height:3in" />
 
 **The Whales Cynthia Rylant**
@@ -788,7 +788,7 @@ a scarecrow. They perch high above gardens and fields, with borrowed
 coats and button eyes and pie-pan hands that glint in the sun. What else
 is there to know about scarecrows? Perhaps more than we realise. . . .
 
-<img src="/tmp/tmp.6EDynJlFCQ/media/media/image3.jpeg"
+<img src="assets/Cynthia Rylant/media/image3.jpeg"
 style="width:1.72917in;height:2.27014in" />
 
 <table>
@@ -944,7 +944,7 @@ the country.
 
 I enjoy introducing this text to a class through Found Poetry.
 
-<img src="/tmp/tmp.6EDynJlFCQ/media/media/image4.jpeg"
+<img src="assets/Cynthia Rylant/media/image4.jpeg"
 style="width:2.79792in;height:2.22917in" />
 
 <table>
@@ -1078,13 +1078,13 @@ enough for her.
 
 Her first book – written when she was sixteen!
 
-<img src="/tmp/tmp.6EDynJlFCQ/media/media/image5.jpeg"
+<img src="assets/Cynthia Rylant/media/image5.jpeg"
 style="width:2.6125in;height:3.77083in" />
 
-<img src="/tmp/tmp.6EDynJlFCQ/media/media/image6.jpeg"
+<img src="assets/Cynthia Rylant/media/image6.jpeg"
 style="width:2.4625in;height:3.31667in" />
 
-<img src="/tmp/tmp.6EDynJlFCQ/media/media/image7.jpeg"
+<img src="assets/Cynthia Rylant/media/image7.jpeg"
 style="width:2.46528in;height:3.29167in" />
 
 Innovation on text: *When I was young in
@@ -1342,7 +1342,7 @@ about childhood in a particular place (Beaver). They provide material to
 discuss the ideas as well as discussion at the level of literary devices
 the author uses to assist meaning. Five of the poems are included here.
 
-<img src="/tmp/tmp.6EDynJlFCQ/media/media/image8.jpeg"
+<img src="assets/Cynthia Rylant/media/image8.jpeg"
 style="width:2.025in;height:2.49861in" />
 
 **Little Short Legs Cassius**
@@ -1703,7 +1703,7 @@ Mr Lacey sipped his coffee.
 
 “Well,” he said, ”are you going to feed it or not?”
 
-<img src="/tmp/tmp.6EDynJlFCQ/media/media/image9.jpeg"
+<img src="assets/Cynthia Rylant/media/image9.jpeg"
 style="width:2.46875in;height:3.33333in" />
 
 Cynthia Rylant's story An Angel for Solomon Singer is the story of

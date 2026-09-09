@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image1.jpeg"
+<img src="assets/VOCABULARY 2/media/image1.jpeg"
 style="width:3.51181in;height:2.575in" />
 
 **VOCABULARY 2**
@@ -608,7 +608,7 @@ Lilly. “Julius is the baby of the world.”
 
 And from then on, he was. In everyone’s opinion. Especially in Lilly’s.
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image2.png"
+<img src="assets/VOCABULARY 2/media/image2.png"
 style="width:1.375in;height:1.97917in" />
 
 ### Frindle by Andrew Clements
@@ -838,7 +838,7 @@ didn't sit and try to make up a funny sounding word. That I happened to
 grab a pen, I don't think that's an accident. I have always loved pens
 and writing things out by hand.
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image3.jpeg"
+<img src="assets/VOCABULARY 2/media/image3.jpeg"
 style="width:2.08958in;height:2.75in" />
 
 **The Odious Ogre by Norton Juster**
@@ -929,7 +929,7 @@ And from there, the adventure begins.
 
 .
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image4.jpeg"
+<img src="assets/VOCABULARY 2/media/image4.jpeg"
 style="width:5.25in;height:3.57847in" />
 
 Collect words on a Vocabulary Hunt. Let the students choose the words
@@ -1469,7 +1469,7 @@ intelligence!
 
 **Miss Alaineus Debra Frasier**
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image5.jpeg"
+<img src="assets/VOCABULARY 2/media/image5.jpeg"
 style="width:2.65694in;height:1.98958in" />
 
 **Book Summary**
@@ -2255,7 +2255,7 @@ I’m talking pretty!
 
 **The Boy Who Loved Words Roni Schotter**
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image6.jpeg"
+<img src="assets/VOCABULARY 2/media/image6.jpeg"
 style="width:2.52292in;height:2.53194in" />
 
 Words. Selig loves everything about them–the way they taste on his
@@ -2865,7 +2865,7 @@ something they don't know about***.***”*
 
 \- Norton Juster (author of The Phantom Tollbooth)
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image7.jpeg"
+<img src="assets/VOCABULARY 2/media/image7.jpeg"
 style="width:3.87431in;height:2.35069in" />
 
 **Books include texts for:**
@@ -3109,7 +3109,7 @@ Balloon prices were inflated.
 
 And batteries exploded in an attempt to recharge the market...
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image8.jpeg"
+<img src="assets/VOCABULARY 2/media/image8.jpeg"
 style="width:2.51042in;height:2.41667in" />
 
 A delightful parody of modern artists, a porky Pigasso and a bullish
@@ -3286,7 +3286,7 @@ Mootisse called his side: “When Mootisse Met Pigasso.”
 
 The critics called it “Incredible.”
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image9.jpeg"
+<img src="assets/VOCABULARY 2/media/image9.jpeg"
 style="width:2.73958in;height:3.64583in" />
 
 Logan and his friend are playing tag in the library when Logan runs into
@@ -3331,7 +3331,7 @@ another word or phrase**.**
 
 --where you would find the SCHOOL MASTER (the classroom)
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image10.jpeg"
+<img src="assets/VOCABULARY 2/media/image10.jpeg"
 style="width:2.25625in;height:2.77083in" />
 
 **Word Wizard Cathryn Falwell**
@@ -3430,7 +3430,7 @@ UNDER GOOD BYE
 Palindromes are words or phrases that read the same in both directions,
 e.g. EYE,or RACECAR, or MADAM I'M ADAM.
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image11.jpeg"
+<img src="assets/VOCABULARY 2/media/image11.jpeg"
 style="width:4.96667in;height:3.22083in" />
 
 Text: Palindromania! By Jon Agee
@@ -3445,7 +3445,7 @@ was it a car or a cat I saw? he did, eh?
 
 too bad I hid a boot
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image12.jpeg"
+<img src="assets/VOCABULARY 2/media/image12.jpeg"
 style="width:3.0625in;height:2.10556in" />
 
 **Oxymorons**
@@ -3503,17 +3503,17 @@ mobile home elevated subway recorded live
 
 one-man band fresh frozen
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image13.jpeg"
+<img src="assets/VOCABULARY 2/media/image13.jpeg"
 style="width:3.05278in;height:3.05278in" />
 
 Rush hour
 
 ##  
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image14.jpeg"
+<img src="assets/VOCABULARY 2/media/image14.jpeg"
 style="width:6.5in;height:1.86458in" />
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image15.jpeg"
+<img src="assets/VOCABULARY 2/media/image15.jpeg"
 style="width:5.80208in;height:4.02083in" />
 
 **Synonyms**
@@ -3522,7 +3522,7 @@ style="width:5.80208in;height:4.02083in" />
 
 Text: Boris Ate a Thesaurus by Neil Klayman
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image16.jpeg"
+<img src="assets/VOCABULARY 2/media/image16.jpeg"
 style="width:2.37569in;height:2.37569in" />
 
 Objective: To assist students in utilising a thesaurus to augment their
@@ -3540,7 +3540,7 @@ synonyms provided and occasionally antonyms as well.
 
 Pitch and Throw, Grasp and Know by Brian Cleary
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image17.jpeg"
+<img src="assets/VOCABULARY 2/media/image17.jpeg"
 style="width:1.74861in;height:2.25in" />
 
 This book introduces students to synonyms through simple rhymes and
@@ -3756,7 +3756,7 @@ Do you know?
 
 **Herd of Cows! Flock of Sheep! by Rick Walton**
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image18.jpeg"
+<img src="assets/VOCABULARY 2/media/image18.jpeg"
 style="width:2.62639in;height:3.07222in" />
 
 Farmer Bob has been working long and hard to get all produce in the barn
@@ -3827,7 +3827,7 @@ A shower of meteorologists A horde of misers
 
 A row of oarsmen A cancellation of trains
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image19.png"
+<img src="assets/VOCABULARY 2/media/image19.png"
 style="width:3.02292in;height:3.12361in" />
 
 **Herd of Cows! Flock of Sheep! Rick Walton**
@@ -4208,7 +4208,7 @@ to a stage…coach. Set in the Old West, the story takes the reader into
 every nook and cranny that compound words can offer. Will the bullfrog
 ever find his hop?
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image20.jpeg"
+<img src="assets/VOCABULARY 2/media/image20.jpeg"
 style="width:2.20069in;height:2.48819in" />
 
 **Cloudy with a Chance of Meatballs Judi Barrett**
@@ -4233,7 +4233,7 @@ granddaughter, in first-person narration, describes the scent of mashed
 potatoes detected while romping with her brother, implying that the
 grandfather's story might not be purely fictitious.
 
-<img src="/tmp/tmp.o5dSKm1xbS/media/media/image21.jpeg"
+<img src="assets/VOCABULARY 2/media/image21.jpeg"
 style="width:2.80069in;height:2.47222in" />
 
 **Once There Was a Bull … (Frog) Rick Walton**

@@ -8,8 +8,7 @@ tags: [jim-k]
 
 **Character Studies**
 
-<img src="/tmp/tmp.5K0n8WsV5E/media/media/image1.jpeg"
-style="width:3.33264in;height:1.64653in" />
+*[Illustration in the original Word file — not extractable; see source document.]*
 
 **CREATING CHARACTER**
 

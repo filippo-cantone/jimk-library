@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.7UDQHmowbU/media/media/image1.jpeg"
+<img src="assets/VOCABULARY 6/media/image1.jpeg"
 style="width:2.45347in;height:3.61181in" />
 
 **VOCABULARY 6**
@@ -231,14 +231,14 @@ Crickwing Janell Cannon
 Reading Janell Cannon’s books, it is very obvious what makes the writing
 so powerful.
 
-<img src="/tmp/tmp.7UDQHmowbU/media/media/image2.jpeg"
+<img src="assets/VOCABULARY 6/media/image2.jpeg"
 style="width:2.33333in;height:2.34375in" />
 
 **Crickwing**
 
 **Verdi**
 
-<img src="/tmp/tmp.7UDQHmowbU/media/media/image3.jpeg"
+<img src="assets/VOCABULARY 6/media/image3.jpeg"
 style="width:2.25833in;height:2.42639in" />
 
 **Crickwing Janell Cannon**
@@ -751,7 +751,7 @@ are finally solved when he meets the moose of his dreams and she
 introduces him to a special pot of glue she uses to tame her own crazy
 locks.
 
-<img src="/tmp/tmp.7UDQHmowbU/media/media/image4.jpeg"
+<img src="assets/VOCABULARY 6/media/image4.jpeg"
 style="width:2.1875in;height:2.86458in" />
 
 **Prefix**
@@ -925,7 +925,7 @@ And- **it stuck.**
 
 **The Sign of the Seahorse Graeme Base**
 
-<img src="/tmp/tmp.7UDQHmowbU/media/media/image5.jpeg"
+<img src="assets/VOCABULARY 6/media/image5.jpeg"
 style="width:5.20833in;height:3.20833in" />
 
 The Sign of the Seahorse is an illustrated children's book by Graeme
@@ -1971,7 +1971,7 @@ That Greed Brought only Ruin, and the Tide had Turned for Good.
 
 **A Visitor for Bear Bonny Becker**
 
-<img src="/tmp/tmp.7UDQHmowbU/media/media/image6.jpeg"
+<img src="assets/VOCABULARY 6/media/image6.jpeg"
 style="width:5.02083in;height:3.37778in" />
 
 **Prefixes**
@@ -2160,7 +2160,7 @@ Bear nodded. The mouse’s bright eyes glowed brighter. Bear smiled.
 
 **Superlative:** The greatest form of adjective or adverb comparisons.
 
-<img src="/tmp/tmp.7UDQHmowbU/media/media/image7.jpeg"
+<img src="assets/VOCABULARY 6/media/image7.jpeg"
 style="width:2.76667in;height:3.45833in" />
 
 (See lesson taken in Grade 3)
@@ -3613,7 +3613,7 @@ what he wanted to do.
 
 A word created by fusing two words to combine the meaning of both words.
 
-<img src="/tmp/tmp.7UDQHmowbU/media/media/image8.jpeg"
+<img src="assets/VOCABULARY 6/media/image8.jpeg"
 style="width:2.08333in;height:3.125in" />
 
 The portmanteau in Alice’s Wonderland.
@@ -3991,7 +3991,7 @@ dryers or gas-powered lawn mowers. Walter lay back and smiled. “I like
 it here,” he told the man, then drifted off to sleep in the shade of the
 two giant trees – the trees he and Rose had planted so many years ago.
 
-<img src="/tmp/tmp.7UDQHmowbU/media/media/image9.jpeg"
+<img src="assets/VOCABULARY 6/media/image9.jpeg"
 style="width:1.67361in;height:2.49861in" />
 
 **Bibliography Vocabulary 6**

@@ -12,14 +12,14 @@ tags: [jim-k]
 
 **Days**
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image1.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image1.jpeg"
 style="width:5.41667in;height:3.86736in" />
 
 **Writing**
 
 **(3)**
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image2.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image2.jpeg"
 style="width:4.02917in;height:2.80694in" />
 
 **The First 20 Days – Writing 3**
@@ -112,7 +112,7 @@ Structure (word level)
 
 **Nikki Giovanni**
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image3.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image3.jpeg"
 style="width:3.12569in;height:1.74861in" />
 
 **Nikki Giovanni**
@@ -519,7 +519,7 @@ Good-night clouds.
 
 **Barbara Esbensen**
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image4.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image4.jpeg"
 style="width:2.64583in;height:2.0625in" />
 
 **Barbara Esbensen**
@@ -698,7 +698,7 @@ lullaby.
 **Friends** Read: Friends Do a drawing about a friend ‘*anything can
 happen in pictures’* What is happening in your picture?
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image5.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image5.jpeg"
 style="width:2.37569in;height:2.37569in" />
 
 **The Day the Crayons Quit by Drew Daywalt**
@@ -716,13 +716,13 @@ bestseller Oliver Jeffers create a colourful solution in this playful,
 imaginative story that will have children laughing and playing with
 their crayons in a whole new way.
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image6.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image6.jpeg"
 style="width:2.95764in;height:2.95764in" />
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image7.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image7.jpeg"
 style="width:8.04167in;height:4.02083in" />
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image8.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image8.jpeg"
 style="width:8in;height:4in" />
 
 In THE DAY THE CRAYONS QUIT, Duncan is excited to open up his box of
@@ -785,7 +785,7 @@ as much as possible.
 
 Kathy Prater – IRA
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image9.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image9.jpeg"
 style="width:4.125in;height:3.49236in" />
 
 **Further Ideas:**
@@ -886,10 +886,10 @@ possible when you speak up and that everyone is allowed an opinion.
 
 **Art**
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image10.jpeg" /><img src="/tmp/tmp.eXlT0bZAXy/media/media/image11.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image10.jpeg" /><img src="assets/The First 20 Days - Writing3/media/image11.jpeg"
 style="width:3.98958in;height:4.13542in" />
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image12.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image12.jpeg"
 style="width:2.70833in;height:3.33333in" />
 
 **The Pencil by Allan Ahlberg**
@@ -919,7 +919,7 @@ lay there, which was nowhere in particular, for a long long time. Then
 one day that little pencil made a move, shivered slightly, quivered
 somewhat … and began to draw.
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image13.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image13.jpeg"
 style="width:4.16667in;height:2.34375in" />
 
 **The Pencil Allan Ahlberg**
@@ -978,7 +978,7 @@ The pencil hesitated, frowned, looked thoughtful for a while, and drew …
 
 **A PAINTBRUSH.**
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image14.png"
+<img src="assets/The First 20 Days - Writing3/media/image14.png"
 style="width:3.04097in;height:2.69722in" />
 
 “What’s my name?” said the paintbrush.
@@ -1034,7 +1034,7 @@ somewhat, and drew …
 
 **A RUBBER.**
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image15.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image15.jpeg"
 style="width:2.625in;height:3.33333in" />
 
 After that the rubber, as you might expect, rubbed things out – hats and
@@ -1095,7 +1095,7 @@ boiled egg, named Billy, but it ran off. A whole column of ants
 (“What’re our names?” said the ants\*) came marching across the
 tablecloth.
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image16.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image16.jpeg"
 style="width:3.125in;height:2.47917in" />
 
 \*Alice Alvie Abraham Amy Araminta Alberic Algernon Anastasia Ada Allan
@@ -1115,7 +1115,7 @@ She painted him too.
 
 **Judith Viorst**
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image17.png"
+<img src="assets/The First 20 Days - Writing3/media/image17.png"
 style="width:3.75in;height:3.45833in" />
 
 **Judith Viorst**
@@ -1659,7 +1659,7 @@ As with other literary lessons, the students are:
 
 **Tony Johnston**
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image18.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image18.jpeg"
 style="width:3.20694in;height:3.22778in" />
 
 **Tony Johnston**
@@ -1730,38 +1730,38 @@ style="width:3.20694in;height:3.22778in" />
 
 **My Overalls**
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image19.png"
+<img src="assets/The First 20 Days - Writing3/media/image19.png"
 style="width:0.31181in;height:0.31181in" />
 
 The best thing is their colour,
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image19.png"
+<img src="assets/The First 20 Days - Writing3/media/image19.png"
 style="width:0.31181in;height:0.31181in" />old-night or early-dawn.
 
 No, the best thing is their limpness
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image19.png"
+<img src="assets/The First 20 Days - Writing3/media/image19.png"
 style="width:0.31181in;height:0.31181in" />when I hoist them on.
 
 No, the best thing is their looseness
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image19.png"
+<img src="assets/The First 20 Days - Writing3/media/image19.png"
 style="width:0.31181in;height:0.31181in" />like the soft skin of a pup.
 
 No, the best thing is their buckles
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image19.png"
+<img src="assets/The First 20 Days - Writing3/media/image19.png"
 style="width:0.31181in;height:0.31181in" />like a suitcase snapping
 shut.
 
 No, the best thing is their perfume
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image19.png"
+<img src="assets/The First 20 Days - Writing3/media/image19.png"
 style="width:0.31181in;height:0.31181in" />of cows and hay and dung.
 
 No, the best thing is their many holes
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image19.png"
+<img src="assets/The First 20 Days - Writing3/media/image19.png"
 style="width:0.31181in;height:0.31181in" />to let in all the sun.
 
 **Tony Johnston**
@@ -1860,7 +1860,7 @@ and stayed.
 
 **Tony Johnston**
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image20.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image20.jpeg"
 style="width:2.39583in;height:2.625in" />
 
 For at least 100 years, generations of barn owls have slept, hunted,
@@ -2160,7 +2160,7 @@ Save the best thing till last.
 
 Use similes like Tony Johnston does in her poem.
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image21.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image21.jpeg"
 style="width:2.41667in;height:3.12292in" />
 
 When day is done, the sun streaks the desert sky with flame. Soon the
@@ -2485,7 +2485,7 @@ and twilight comes again.
 
 **Kristine O’Connell George**
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image22.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image22.jpeg"
 style="width:3.62361in;height:2.63333in" />
 
 **Kristine O’Connell George**
@@ -2921,7 +2921,7 @@ up. Try a ‘how to’ poem.
 
 **Ralph Fletcher**
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image23.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image23.jpeg"
 style="width:3.17639in;height:4.15486in" />
 
 **Ralph Fletcher**
@@ -3154,7 +3154,7 @@ Creations in sand.
 
 Creations in mud.
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image24.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image24.jpeg"
 style="width:3.99861in;height:3.20069in" />
 
 Ralph Fletcher had written in his Writer’s Notebook:
@@ -3430,7 +3430,7 @@ dawn as a seed that grows into full daylight.*
 
 .
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image25.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image25.jpeg"
 style="width:2.62778in;height:2.35in" />
 
 **Stretching language.**
@@ -3701,5 +3701,5 @@ onto its pillow.
 
 Good night, harvest moon.
 
-<img src="/tmp/tmp.eXlT0bZAXy/media/media/image26.jpeg"
+<img src="assets/The First 20 Days - Writing3/media/image26.jpeg"
 style="width:4.57292in;height:6.66667in" />

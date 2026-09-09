@@ -8,7 +8,7 @@ tags: [jim-k]
 
 **Author Studies**
 
-<img src="/tmp/tmp.KEhZE7kR4S/media/media/image1.jpeg"
+<img src="assets/Author Studies/media/image1.jpeg"
 style="width:4.08681in;height:4.09236in" />
 
 **Author Studies**

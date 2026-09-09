@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.hjXtriOQIo/media/media/image1.jpeg"
+<img src="assets/VOCABULARY 4/media/image1.jpeg"
 style="width:2.13542in;height:4.35417in" />
 
 **VOCABULARY 4**
@@ -29,7 +29,7 @@ Discuss the text with students, asking about the idioms presented and
 what they mean in comparison to what the main character translates them
 to mean.
 
-<img src="/tmp/tmp.hjXtriOQIo/media/media/image2.jpeg"
+<img src="assets/VOCABULARY 4/media/image2.jpeg"
 style="width:2.58333in;height:3.25208in" />
 
 **More Parts Tedd Arnold**
@@ -248,7 +248,7 @@ I went to pieces.
 
 **Idioms**
 
-<img src="/tmp/tmp.hjXtriOQIo/media/media/image3.png"
+<img src="assets/VOCABULARY 4/media/image3.png"
 style="width:1.55972in;height:1.79097in" /> **Amelia Bedelia by Peggy
 Parish**
 
@@ -273,7 +273,7 @@ meanings. E.g. flu/flew.
 
 Compile lists from Amelia Bedelia.
 
-<img src="/tmp/tmp.hjXtriOQIo/media/media/image4.jpeg"
+<img src="assets/VOCABULARY 4/media/image4.jpeg"
 style="width:1.55486in;height:2in" />
 
 **Amelia Bedelia Peggy Parish**
@@ -516,14 +516,14 @@ style of his great-grandmother: Grandma Moses. Described as the folk-art
 style his work has been exhibited at the Smithsonian Institution and the
 White House.
 
-<img src="/tmp/tmp.hjXtriOQIo/media/media/image5.jpeg"
+<img src="assets/VOCABULARY 4/media/image5.jpeg"
 style="width:3.33333in;height:2.76042in" />
 
 Moses' book is crammed with more than 40 idioms that are defined
 correctly, but illustrated with clever drawings that emphasise the
 literal interpretation.
 
-<img src="/tmp/tmp.hjXtriOQIo/media/media/image6.jpeg"
+<img src="assets/VOCABULARY 4/media/image6.jpeg"
 style="width:2.08333in;height:2.02083in" />
 
 Mr. M ~ The Exploring Dreamer
@@ -538,13 +538,13 @@ of Mr. M’s journey and introduce the intrepid dreamer to an audience
 beyond the art gallery, allowing readers to imagine his journeys and
 adventures, his struggles and searches, for themselves. (Blurb)
 
-<img src="/tmp/tmp.hjXtriOQIo/media/media/image7.jpeg"
+<img src="assets/VOCABULARY 4/media/image7.jpeg"
 style="width:3.0625in;height:3.0625in" />
 
-<img src="/tmp/tmp.hjXtriOQIo/media/media/image8.jpeg"
+<img src="assets/VOCABULARY 4/media/image8.jpeg"
 style="width:3.62361in;height:2.80139in" />
 
-<img src="/tmp/tmp.hjXtriOQIo/media/media/image9.jpeg"
+<img src="assets/VOCABULARY 4/media/image9.jpeg"
 style="width:2.9375in;height:2.9375in" />
 
 **Monkey Business Wallace Edwards**
@@ -713,7 +713,7 @@ Oyster shells are *crusty grey outside and smooth, pearly pink inside*
 
 **Bullfrog Pops! Rick Walton**
 
-<img src="/tmp/tmp.hjXtriOQIo/media/media/image10.jpeg"
+<img src="assets/VOCABULARY 4/media/image10.jpeg"
 style="width:1.91667in;height:2.51042in" />
 
 Each page of this book ends with an active verb. Followed by an
@@ -1368,7 +1368,7 @@ person Irene was.
 
 Which of course, Mrs Bobbin knew. Better than the duchess.
 
-<img src="/tmp/tmp.hjXtriOQIo/media/media/image11.jpeg"
+<img src="assets/VOCABULARY 4/media/image11.jpeg"
 style="width:2.625in;height:2.57292in" />
 
 Crickwing is in a very disgruntled mood. A close encounter with a toad
@@ -1613,7 +1613,7 @@ Was it because he was just mean?
 When Crickwing started picking on the ants, he stopped noticing all the
 beautiful colours of his food which he used to enjoy. Why was that?
 
-<img src="/tmp/tmp.hjXtriOQIo/media/media/image12.jpeg"
+<img src="assets/VOCABULARY 4/media/image12.jpeg"
 style="width:4.24167in;height:4.26597in" />
 
 Non-fiction notes:
@@ -1626,7 +1626,7 @@ Ant Notes.
 
 This is something the students might like to try during the year.
 
-<img src="/tmp/tmp.hjXtriOQIo/media/media/image13.jpeg"
+<img src="assets/VOCABULARY 4/media/image13.jpeg"
 style="width:3.125in;height:1.625in" />
 
 *… “when an animal is generally misunderstood and unpopular with humans,
@@ -1982,7 +1982,7 @@ Biddlemeyer got a look at Oliver and his bedhead.
 
 “Got it!” said the photographer.
 
-<img src="/tmp/tmp.hjXtriOQIo/media/media/image14.jpeg"
+<img src="assets/VOCABULARY 4/media/image14.jpeg"
 style="width:4.70069in;height:3.525in" />
 
 Margie Palatini said:

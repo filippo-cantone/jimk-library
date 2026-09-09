@@ -12,14 +12,14 @@ tags: [jim-k]
 
 **Days**
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image1.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image1.jpeg"
 style="width:3.95903in;height:3.10486in" />
 
 **Writing**
 
 **(2)**
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image2.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image2.jpeg"
 style="width:3.47986in;height:2.16875in" />
 
 **The First 20 Days**
@@ -4082,12 +4082,12 @@ arise.
 
 **Pamela Allen**
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image3.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image3.jpeg"
 style="width:3.69306in;height:5.2125in" />
 
 **Pamela Allen**
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image4.png"
+<img src="assets/The First 20 Days - Writing2/media/image4.png"
 style="width:1.45833in;height:1.875in" />
 
 Pamela Allen is a phenomenon in the world of children's literature. For
@@ -4107,7 +4107,7 @@ was shortlisted for the same award in 2007, as was Shhh! Little Mouse in
 2008. Is Your Grandmother a Goanna? won a 2008 Speech Pathology of
 Australia Book of the Year Award, as did Our Daft Dog Danny in 2010.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image5.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image5.jpeg"
 style="width:2.29167in;height:2.29167in" />
 
 Ferdie is a gruesome, fat, green monster who loves to eat meaty
@@ -4120,13 +4120,13 @@ after Ferdie shakes every pear off the tree trying to get at them. So
 Ferdie tries a pear and decides that pears are so yummy, he'll only eat
 pears from now on.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image6.png"
+<img src="assets/The First 20 Days - Writing2/media/image6.png"
 style="width:7.29236in;height:3.59375in" />
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image7.png"
+<img src="assets/The First 20 Days - Writing2/media/image7.png"
 style="width:7.29236in;height:3.60486in" />
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image8.png"
+<img src="assets/The First 20 Days - Writing2/media/image8.png"
 style="width:7.29236in;height:3.60278in" />
 
 **Fat Ferdie Pamela Allen**
@@ -4225,25 +4225,25 @@ Now, what does Fat Ferdie like to eat?
 
 Only pears, NEVER meat!
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image9.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image9.jpeg"
 style="width:2.29167in;height:2.25in" />
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image10.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image10.jpeg"
 style="width:2.29167in;height:2.30208in" />
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image11.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image11.jpeg"
 style="width:2.29167in;height:2.27986in" />
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image12.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image12.jpeg"
 style="width:2.45694in;height:2.21944in" />
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image13.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image13.jpeg"
 style="width:3in;height:2.83472in" />
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image14.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image14.jpeg"
 style="width:2.94792in;height:2.975in" />
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image15.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image15.jpeg"
 style="width:2.73403in;height:2.87083in" />
 
 **Mr McGee and the Big Bag of Bread Pamela Allen**
@@ -4774,7 +4774,7 @@ OWWWWWWWWWWWWWWWWWW
 
 EEEEEEEEEEEEEEEEEE.”
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image16.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image16.jpeg"
 style="width:3.5in;height:3.07083in" />
 
 A cautionary tale about two men, Bill and Ben, who just don't seem to be
@@ -4786,7 +4786,7 @@ boat. In each story we see that neither of them gets the benefit of what
 they're fighting over until we are left to imagine the men's fate when
 they cut a boat in half rather than share it.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image17.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image17.jpeg"
 style="width:4.25139in;height:3.6875in" />
 
 **Share said the Rooster Pamela Allen**
@@ -4889,7 +4889,7 @@ Good-bye Billy. Good-bye Ben.
 
 Nursery Rhymes
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image18.png"
+<img src="assets/The First 20 Days - Writing2/media/image18.png"
 style="width:2.625in;height:3.19792in" />
 
 **Twinkle Twinkle**
@@ -5555,10 +5555,10 @@ At the Prep Orientation Day, the parents have been told about the
 importance of nursery rhymes. Hopefully many of the students will come
 to school knowing them, but we can’t assume that.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image19.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image19.jpeg"
 style="width:2.18958in;height:2.41181in" />
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image20.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image20.jpeg"
 style="width:2.20694in;height:2.36944in" />
 
 Rhyme support:
@@ -5567,15 +5567,15 @@ Author Study – Pamela Allen
 
 Lynley Dodd
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image21.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image21.jpeg"
 style="width:2.75in;height:2.58472in" />
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image22.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image22.jpeg"
 style="width:3.33264in;height:2.51944in" />
 
 Rhyming Picture Books:
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image23.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image23.jpeg"
 style="width:1.82639in;height:2.35in" />
 
 Giraffes Can’t Dance by Giles Andreae is a very sweet story about a
@@ -5583,7 +5583,7 @@ giraffe who gets laughed at because he doesn’t know how to dance. A
 cricket gives him some great advice and with new found confidence that
 different isn’t always bad he starts to dance!
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image24.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image24.jpeg"
 style="width:2.28264in;height:2.74653in" />
 
 Parts by Tedd Arnold is so funny. Readers follow along as a 5 year old
@@ -5591,13 +5591,13 @@ boy begins noticing things about his body he’d never noticed before like
 belly button lint, snot, peeling skin and more. His anxious assumptions
 about his body falling apart will have you in stitches.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image25.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image25.jpeg"
 style="width:2.15972in;height:2.49375in" />
 
 Each animal is introduced in the seamless text that reads like a melodic
 poem. Available as a Big Book.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image26.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image26.jpeg"
 style="width:2.83333in;height:2.45069in" />
 
 Is there really a human race?
@@ -5622,7 +5622,7 @@ relishing the journey and making good choices along the way—because how
 we live and how we love is how we learn to make the world a better
 place, one small step at a time.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image27.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image27.jpeg"
 style="width:3.08333in;height:2.81389in" />
 
 The story is simple a truck is stuck and even though other vehicles come
@@ -5631,46 +5631,46 @@ cargo of bones in the truck are slowly stolen by hungry gophers while
 the others work to free the truck. It’s got a great message about
 helping people.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image28.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image28.jpeg"
 style="width:2.44236in;height:3.07708in" />
 
 With the turn of each page the reader is left wondering what’s next. A
 book we’ve used for innovating on the text.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image29.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image29.jpeg"
 style="width:1.94792in;height:2.60417in" />
 
 Its text is musical , its premise is brilliant in its simplicity and
 kids love it.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image30.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image30.jpeg"
 style="width:1.7875in;height:2.35903in" />
 
 You count the instruments as they come on stage for a performance and
 not only is this a great counting book, but it introduced musical
 instruments in its rhyming text and super fun pictures.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image31.png"
+<img src="assets/The First 20 Days - Writing2/media/image31.png"
 style="width:1.69514in;height:2.38333in" />
 
 There are only 50 words used in the whole book, and easy rhymes make it
 a great choice for learning about rhyming.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image32.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image32.jpeg"
 style="width:2.18889in;height:2.87083in" />
 
 One of several ‘Dinosaur’ books by this team. A beautifully illustrated
 story about the tantrums and dramatics that dinosaurs put their parents
 through at bedtime.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image33.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image33.jpeg"
 style="width:2.29514in;height:2.88194in" />
 
 The Gruffalo's Child tells the delightful tale of a little Gruffalo who
 ignores her father's warnings and tiptoes out into the snow in search of
 the Big Bad Mouse.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image34.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image34.jpeg"
 style="width:3.3125in;height:2.57292in" />
 
 This interactive book invites young children to play the classic "I spy"
@@ -5679,7 +5679,7 @@ the detailed illustrations. Little ones will be delighted when they spy
 Tom Thumb, Jack and Jill, The Three Little Bears and many other nursery
 rhyme characters hiding in the pictures.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image35.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image35.jpeg"
 style="width:2.08194in;height:2.24097in" />
 
 Traditional song which has spawned many variations.
@@ -5754,7 +5754,7 @@ There was an old lady who swallowed a horse...
 
 She's dead, of course!
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image36.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image36.jpeg"
 style="width:2.84375in;height:3.125in" />
 
 *Edward the emu was sick of the zoo,*
@@ -5782,7 +5782,7 @@ he heads back to his pen, only to find a big surprise awaiting him . .
 droll illustrations are sure to make readers laugh out loud in this
 whimsical picture book by the creators of Edwina the Emu.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image37.jpeg"
+<img src="assets/The First 20 Days - Writing2/media/image37.jpeg"
 style="width:3.01806in;height:3.24583in" />
 
 In this sequel to the popular Edward the Emu, Edward and his mate Edwina
@@ -5792,5 +5792,5 @@ so Edwina sets out to find a job. Rhythmic, rhyming verse by Sheena
 Knowles and hilarious illustrations by Rod Clement make this an
 entertaining picture book.
 
-<img src="/tmp/tmp.nMo4cqwWhC/media/media/image38.png"
+<img src="assets/The First 20 Days - Writing2/media/image38.png"
 style="width:4.73958in;height:5.47917in" />

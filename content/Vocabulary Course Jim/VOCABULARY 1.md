@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image1.jpeg"
+<img src="assets/VOCABULARY 1/media/image1.jpeg"
 style="width:4.75in;height:3.83542in" />
 
 **VOCABULARY**
@@ -180,7 +180,7 @@ of an extensive network of related words.
 <tbody>
 <tr class="odd">
 <td><p><strong>Semantic Map for <em>Movement</em></strong></p>
-<p><img src="/tmp/tmp.M87wWaPPCr/media/media/image2.jpeg"
+<p><img src="assets/VOCABULARY 1/media/image2.jpeg"
 style="width:2.67569in;height:2.19861in" /></p></td>
 </tr>
 </tbody>
@@ -376,7 +376,7 @@ solemn, objective. Similar to Mood.
 
 Voice – sense of the person writing.
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image3.jpeg"
+<img src="assets/VOCABULARY 1/media/image3.jpeg"
 style="width:2.03333in;height:3.05069in" /> Chapter 1.
 
 *There was once a boy named Milo who didn't know what to do with himself
@@ -412,7 +412,7 @@ The Lion, the Witch, and the Wardrobe by C.S.Lewis
 
 Alice in Wonderland by Lewis Carroll
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image4.jpeg"
+<img src="assets/VOCABULARY 1/media/image4.jpeg"
 style="width:5.20972in;height:3.60486in" />
 
 Milo’s package contained among other things:
@@ -433,19 +433,19 @@ Winnie the Pooh by A.A.Milne
 
 Swallows and Amazons by Arthur Ransome
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image5.jpeg"
+<img src="assets/VOCABULARY 1/media/image5.jpeg"
 style="width:5.24931in;height:3.99097in" />
 
 The Phantom Tollbooth
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image6.jpeg"
+<img src="assets/VOCABULARY 1/media/image6.jpeg"
 style="width:4.98056in;height:3.90556in" />
 
 The Hobbit by J.R.R.Tolkien
 
 **Chapter 2 Beyond Expectations**
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image7.jpeg"
+<img src="assets/VOCABULARY 1/media/image7.jpeg"
 style="width:5.97847in;height:4.22986in" />
 
 When Milo asks the Whether Man what sort of place Expectations is, he is
@@ -935,7 +935,7 @@ and saw the rain, and it seemed as though he couldn't bear it. "I get
 everything all beautifully planned out and it has to go and rain," he
 said.
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image8.jpeg"
+<img src="assets/VOCABULARY 1/media/image8.jpeg"
 style="width:4.125in;height:2.75069in" />
 
 For a fun look at parody read:
@@ -946,12 +946,12 @@ Goodnight Goon by Michael Rex
 
 Goodnight iPad by Ann Droyd
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image9.jpeg"
+<img src="assets/VOCABULARY 1/media/image9.jpeg"
 style="width:2.61389in;height:2.08333in" />
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image10.jpeg"
+<img src="assets/VOCABULARY 1/media/image10.jpeg"
 style="width:2.60347in;height:2.24097in" />
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image11.jpeg"
+<img src="assets/VOCABULARY 1/media/image11.jpeg"
 style="width:2.625in;height:2.19861in" />
 
 **Good Night Moon**
@@ -1094,7 +1094,7 @@ Get under there
 
 Goodnight monsters everywhere
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image12.png"
+<img src="assets/VOCABULARY 1/media/image12.png"
 style="width:4.16667in;height:2.87361in" />
 
 **Goodnight iPad Ann Droyd**
@@ -1209,7 +1209,7 @@ some fun with the words. Word search from reading.
 
 Students can create their own illustration of compound words.
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image13.png"
+<img src="assets/VOCABULARY 1/media/image13.png"
 style="width:3.12569in;height:2.95764in" />
 
 **Chapter 3. Welcome to Dictionopolis**
@@ -1233,7 +1233,7 @@ with the Thesaurus.
 
 *Thesaurus –* Greek and Latin origin meaning ‘treasury’ or ‘storehouse’.
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image14.jpeg"
+<img src="assets/VOCABULARY 1/media/image14.jpeg"
 style="width:2.72917in;height:2.72917in" />
 
 “*Nonsense.”*
@@ -1375,10 +1375,10 @@ proclamation desperately pavilions assumption
 desolate lumbered intruders
 
 Milo meets the Spelling Bee
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image15.jpeg"
+<img src="assets/VOCABULARY 1/media/image15.jpeg"
 style="width:1.51875in;height:2.22986in" />
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image16.jpeg"
+<img src="assets/VOCABULARY 1/media/image16.jpeg"
 style="width:1.43333in;height:2.25069in" /> and the Humbug
 
 **Why the Banana Split Rick Walton**
@@ -1508,7 +1508,7 @@ about childhood in a particular place (Beaver). They provide material to
 discuss the ideas as well as discussion at the level of literary devices
 the author uses to assist meaning. Five of the poems are included here.
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image17.jpeg"
+<img src="assets/VOCABULARY 1/media/image17.jpeg"
 style="width:2.025in;height:2.49861in" />
 
 **Little Short Legs Cassius**
@@ -1602,7 +1602,7 @@ Sorry, Mr Dill
 …*’just as Milo got to his feet the entire police force of Dictionopolis
 appeared …”*
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image18.jpeg"
+<img src="assets/VOCABULARY 1/media/image18.jpeg"
 style="width:2.08333in;height:2.08333in" />
 
 Saying ‘short shrift means:
@@ -2301,7 +2301,7 @@ That sly, slippery slope was simply a sham. Such a shock, such a shame.
 
 Such a succulent slug!
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image19.jpeg"
+<img src="assets/VOCABULARY 1/media/image19.jpeg"
 style="width:2.61458in;height:1.16667in" />
 
 **Clara Caterpillar**
@@ -2621,7 +2621,7 @@ Milo meets Alec Bings.
 
 …”*Everyone should have his own point of view* .”
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image20.jpeg"
+<img src="assets/VOCABULARY 1/media/image20.jpeg"
 style="width:2.60347in;height:3.4375in" />
 
 **Chapter 10 A Colourful Symphony**
@@ -2797,7 +2797,7 @@ tomorrow’s music and eagerly awaited the dawn.
 
 The Conductor by Laetitia Devernay
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image21.jpeg"
+<img src="assets/VOCABULARY 1/media/image21.jpeg"
 style="width:3.26042in;height:3.77986in" />
 
 Pairing two seemingly disparate elements an orchestra conductor and a
@@ -2825,7 +2825,7 @@ or cross-perceptual connection. This could be connecting numbers,
 letters, or musical notes with particular colours. Norton Juster had
 trouble with maths until he started associating numbers to colours.
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image22.jpeg" /><img src="/tmp/tmp.M87wWaPPCr/media/media/image22.jpeg"
+<img src="assets/VOCABULARY 1/media/image22.jpeg" /><img src="assets/VOCABULARY 1/media/image22.jpeg"
 style="width:2.15694in;height:1.78194in" />
 
 Rondo in C by Paul Fleischman
@@ -2912,7 +2912,7 @@ Bravo, young lady, for that Rondo in C!
 >
 > They’re the sounds of basketball.
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image23.jpeg"
+<img src="assets/VOCABULARY 1/media/image23.jpeg"
 style="width:2.5in;height:2.48333in" />
 
 The Worst Band in the Universe by Graeme Base
@@ -2947,7 +2947,7 @@ strong and clever story. This is a story that teaches about bullying and
 the reasons why it happens, a story about good versus evil and rising
 above to beat the powers that be.
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image24.jpeg"
+<img src="assets/VOCABULARY 1/media/image24.jpeg"
 style="width:5.49722in;height:2.75278in" />
 
 Review 2:
@@ -3145,7 +3145,7 @@ beautiful, if you listen carefully.”
 
 (The Soundkeeper)
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image25.jpeg"
+<img src="assets/VOCABULARY 1/media/image25.jpeg"
 style="width:1.92917in;height:2.375in" />
 
 The Phantom Tollbooth Extract Chapter 11 Dischord and Dynne
@@ -3317,7 +3317,7 @@ I rest in the grace of the world, and am free.
 
 **Wendell Berry**
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image26.jpeg"
+<img src="assets/VOCABULARY 1/media/image26.jpeg"
 style="width:4.16667in;height:3.23958in" />
 
 **Noise Day**
@@ -3410,7 +3410,7 @@ A rumble of trucks.
 
 Poems from **The Company of Crows** by **Marilyn Singer**
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image27.png"
+<img src="assets/VOCABULARY 1/media/image27.png"
 style="width:2.08333in;height:1.82292in" />
 
 In this book of twenty-three poems, we learn the true nature of crows
@@ -3566,7 +3566,7 @@ Mechanical sounds: beep, clank, rattle, click
 
 Musical sounds: ring, ting, honk, jingle, toot, hum
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image28.jpeg"
+<img src="assets/VOCABULARY 1/media/image28.jpeg"
 style="width:3.0625in;height:2.18958in" />
 
 **The Game**
@@ -3605,7 +3605,7 @@ bedsprings, and, of course, all kinds of laughter.”
 
 Jumping to Conclusions:
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image29.png"
+<img src="assets/VOCABULARY 1/media/image29.png"
 style="width:3.6875in;height:3.125in" />
 
 …”every time you decide something without having a good reason, you jump
@@ -3613,7 +3613,7 @@ to Conclusions.”
 
 **Chapter 14 The Dodecohedron Leads the Way**
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image30.png"
+<img src="assets/VOCABULARY 1/media/image30.png"
 style="width:3.12292in;height:2.38681in" />
 
 when Milo asks, “What is a dodecahedron?” the figure replies, “A
@@ -3647,7 +3647,7 @@ Milo encounters demons:
 “The Terrible Trivium, demon of petty tasks and worthless jobs, ogre of
 wasted effort, and monster of habit.”
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image31.jpeg"
+<img src="assets/VOCABULARY 1/media/image31.jpeg"
 style="width:1.87153in;height:2.37569in" />
 
 The demon of insincerity.
@@ -3673,7 +3673,7 @@ Humbug – hearing
 At last the travellers reach the two princesses, and Milo feels bad
 about taking so long because of his mistakes.
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image32.jpeg"
+<img src="assets/VOCABULARY 1/media/image32.jpeg"
 style="width:2.69792in;height:2.02083in" />
 
 Discuss the princesses’ reply:
@@ -3928,7 +3928,7 @@ So...get on your way!
 
 Oh, the Places You’ll Go!
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image33.jpeg"
+<img src="assets/VOCABULARY 1/media/image33.jpeg"
 style="width:3.33333in;height:2.46875in" />
 
 Background/ History
@@ -4304,10 +4304,10 @@ play, songs to sing, and worlds to imagine and then someday make real.
 His thoughts darted eagerly about as everything looked new – and worth
 trying.
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image34.jpeg"
+<img src="assets/VOCABULARY 1/media/image34.jpeg"
 style="width:1.24028in;height:1.24931in" />
 
-<img src="/tmp/tmp.M87wWaPPCr/media/media/image35.jpeg"
+<img src="assets/VOCABULARY 1/media/image35.jpeg"
 style="width:2.38194in;height:3in" />
 
 **Bibliography Vocabulary 1**

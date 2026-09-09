@@ -17,7 +17,7 @@ that no matter how quiet she is or how long she waits, she and her
 father might not see any owls at all. Then, after a long, cold search,
 the girl's patience is rewarded.
 
-<img src="/tmp/tmp.SVxixCgnLJ/media/media/image1.jpeg"
+<img src="assets/Jane Yolen/media/image1.jpeg"
 style="width:2.13472in;height:2.76528in" />
 
 Before reading.
@@ -104,7 +104,7 @@ Text-to-text connection
 
 Stopping by the Woods on a Snowy Evening – poem by Robert Frost.
 
-<img src="/tmp/tmp.SVxixCgnLJ/media/media/image2.jpeg"
+<img src="assets/Jane Yolen/media/image2.jpeg"
 style="width:4.55in;height:2.84167in" />
 
 Illustrated by John Schoenherr
@@ -150,7 +150,7 @@ Miming can communicate a variety of feelings (happiness, sadness, fear,
 shock, anger, frustration, tenderness, etc.). and is a good lead in the
 Show don’t Tell.
 
-<img src="/tmp/tmp.SVxixCgnLJ/media/media/image3.jpeg"
+<img src="assets/Jane Yolen/media/image3.jpeg"
 style="width:5.20833in;height:7.8125in" />
 
 <table>
@@ -607,7 +607,7 @@ Owl Moon.
 | I’m wondering what this means | Evidence from the book/Text clues | Background knowledge/What I know | I infer |
 |                               |                                   |                                  |         |
 
-<img src="/tmp/tmp.SVxixCgnLJ/media/media/image4.jpeg"
+<img src="assets/Jane Yolen/media/image4.jpeg"
 style="width:2.34375in;height:2.34375in" />
 
 Piggins is a mystery book in which Piggins, butler to Mr. and Mrs.

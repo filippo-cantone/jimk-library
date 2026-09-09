@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image1.jpeg"
+<img src="assets/INFERRING6b/media/image1.jpeg"
 style="width:2.09097in;height:2.96389in" />
 
 (I recommend Secondary School)
@@ -61,13 +61,13 @@ negative) that the deeply private Aliera would never admit to having.
 Both fantasy and graphic-novel fans will eagerly anticipate an
 inevitable sequel.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image2.jpeg"
+<img src="assets/INFERRING6b/media/image2.jpeg"
 style="width:5in;height:7.08333in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image3.jpeg"
+<img src="assets/INFERRING6b/media/image3.jpeg"
 style="width:6.79167in;height:4.81042in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image4.jpeg"
+<img src="assets/INFERRING6b/media/image4.jpeg"
 style="width:2.71944in;height:3.84653in" />
 
 (I recommend Secondary School)
@@ -90,7 +90,7 @@ The use of colour to indicate the separation between the mundane world
 and the faerie one is well handled. The facial expressions are
 particularly well-rendered.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image5.jpeg"
+<img src="assets/INFERRING6b/media/image5.jpeg"
 style="width:2.08333in;height:2.82292in" />
 
 Henry, Jessie, Violet, and Benny Alden are brothers and sisters--and
@@ -105,10 +105,10 @@ graphic novels! The original Boxcar Children stories you know have been
 adapted by world-class authors and illustrators to appeal to a whole new
 generation.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image6.png"
+<img src="assets/INFERRING6b/media/image6.png"
 style="width:6.96597in;height:6.26042in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image7.jpeg"
+<img src="assets/INFERRING6b/media/image7.jpeg"
 style="width:2.18333in;height:3.11042in" />
 
 Trey McTiernan, the Spartans' team captain, becomes fast friends with
@@ -120,7 +120,7 @@ bait! Trey doesn't know what to do. If his teammates are right, then
 betraying his friendship with Griff will save their season. But if
 they're wrong, then Trey will end up being the rat . . .
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image8.jpeg"
+<img src="assets/INFERRING6b/media/image8.jpeg"
 style="width:2.96875in;height:2.96875in" />
 
 More all-new comic strip adventures featuring Wallace & Gromit and a
@@ -134,10 +134,10 @@ with their unique British humour and inventive approach to life, they
 are now among our best-loved characters, appealing to children and
 adults alike.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image9.jpeg"
+<img src="assets/INFERRING6b/media/image9.jpeg"
 style="width:2.1in;height:2.86944in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image10.jpeg"
+<img src="assets/INFERRING6b/media/image10.jpeg"
 style="width:1.94306in;height:2.61042in" />
 
 “Raymond, I want you!” Just when Raymond is in the middle of a comic
@@ -167,10 +167,10 @@ thinking. As long as you have no problem with finding creative ways to
 repeat a phrase over and over (and over) again, this book can be a real
 classroom gem.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image11.jpeg"
+<img src="assets/INFERRING6b/media/image11.jpeg"
 style="width:2.64375in;height:3.56944in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image12.jpeg"
+<img src="assets/INFERRING6b/media/image12.jpeg"
 style="width:2.58958in;height:3.55625in" />
 
 Lesson:
@@ -205,7 +205,7 @@ on their adventure.
 
 Individual planning sheets before writing.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image13.png"
+<img src="assets/INFERRING6b/media/image13.png"
 style="width:1.09375in;height:1.45833in" />
 
 It's not under the bed, or on the chair, or beneath the couch, or behind
@@ -216,17 +216,17 @@ where you left it? What if your family is NO help at all? A determined
 little detective heads up the search, and discovers more than she ever
 expected.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image14.jpeg"
+<img src="assets/INFERRING6b/media/image14.jpeg"
 style="width:3.33333in;height:2.5in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image15.jpeg"
+<img src="assets/INFERRING6b/media/image15.jpeg"
 style="width:3.15556in;height:3.75in" />
 
 **A Graphic Novel for you to read.**
 
 **Maus by Art Spiegelman**
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image16.jpeg"
+<img src="assets/INFERRING6b/media/image16.jpeg"
 style="width:4.8in;height:3.60833in" />
 
 Review:
@@ -254,22 +254,22 @@ Prize in 1992 (its almost equally moving sequel, Maus II, is collected
 here as well) and was nominated for a National Book Critics Circle
 Award, and deservedly so.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image17.png"
+<img src="assets/INFERRING6b/media/image17.png"
 style="width:3.5in;height:5.20833in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image18.jpeg"
+<img src="assets/INFERRING6b/media/image18.jpeg"
 style="width:2.48403in;height:3.54861in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image19.jpeg"
+<img src="assets/INFERRING6b/media/image19.jpeg"
 style="width:2.57778in;height:3.54931in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image20.jpeg"
+<img src="assets/INFERRING6b/media/image20.jpeg"
 style="width:6.45833in;height:3.125in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image21.gif"
+<img src="assets/INFERRING6b/media/image21.gif"
 style="width:3.33264in;height:3.33264in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image22.jpeg"
+<img src="assets/INFERRING6b/media/image22.jpeg"
 style="width:1.58333in;height:2.08194in" />
 
 When Sam laughs, Sam laughs loudly. When Sam cries, Sam cries loudly.
@@ -278,7 +278,7 @@ discover that some people--in fact, many people--hold in their feelings.
 Can Sam survive a week with Aunt Tillie, a week when he is often told to
 "hush"?
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image23.jpeg"
+<img src="assets/INFERRING6b/media/image23.jpeg"
 style="width:2.28889in;height:3.31736in" />
 
 From the BLURB:
@@ -307,7 +307,7 @@ already envisioning cannon-fire and willow trees.
 But amidst her excitement over this year’s musical tour-de-force, Callie
 is also grappling wayward crushes and frustrating friends.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image24.jpeg"
+<img src="assets/INFERRING6b/media/image24.jpeg"
 style="width:3.125in;height:4.16667in" />
 
 Ever since Callie kissed Greg, brother to her good friend Matt, things
@@ -330,7 +330,7 @@ the spotlight. And Callie as set-designer and leading lady is really
 wonderful - with her shock of purple hair, cool demeanour and heady
 broadway ambitions she is one incredible heroine.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image25.jpeg"
+<img src="assets/INFERRING6b/media/image25.jpeg"
 style="width:3.125in;height:4.16667in" />
 
 The drawing style is colourful and a little retro – there’s a bit of a
@@ -348,13 +348,13 @@ and costumes – Telgemeier visualises Callie’s obsession for the theatre
 and her ambitious dreams by injecting her into the book she’s so
 absorbed in.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image26.jpeg"
+<img src="assets/INFERRING6b/media/image26.jpeg"
 style="width:3.125in;height:4.16667in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image27.jpeg"
+<img src="assets/INFERRING6b/media/image27.jpeg"
 style="width:6.66667in;height:3.75in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image28.jpeg"
+<img src="assets/INFERRING6b/media/image28.jpeg"
 style="width:3.31042in;height:3.31736in" />
 
 Lucy is sure there are wolves living in the walls of their house—and, as
@@ -375,13 +375,13 @@ in a different way.
 
 *Teaching Children Philosophy*
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image29.jpeg"
+<img src="assets/INFERRING6b/media/image29.jpeg"
 style="width:3.12569in;height:3.13472in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image30.jpeg"
+<img src="assets/INFERRING6b/media/image30.jpeg"
 style="width:4.79167in;height:2.89583in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image31.jpeg"
+<img src="assets/INFERRING6b/media/image31.jpeg"
 style="width:2.70833in;height:3.4375in" />
 
 The inspiring story of an Iraqi librarian's courageous fight to save
@@ -400,10 +400,10 @@ Stamaty, Alia's Mission celebrates the importance of books and the
 freedom to read, while examining the impact of war on a country and its
 people.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image32.jpeg"
+<img src="assets/INFERRING6b/media/image32.jpeg"
 style="width:3.59097in;height:2.575in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image33.jpeg"
+<img src="assets/INFERRING6b/media/image33.jpeg"
 style="width:3.10417in;height:3.33333in" />
 
 Cyr's feats of strength, like lifting a horse or a platform full of men
@@ -421,13 +421,13 @@ could see!) and Bergeron who could bend iron nails with his teeth. I
 would love to see a story from Debon about any of the other performers
 as well.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image34.jpeg"
+<img src="assets/INFERRING6b/media/image34.jpeg"
 style="width:6.12083in;height:3.91667in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image35.jpeg"
+<img src="assets/INFERRING6b/media/image35.jpeg"
 style="width:5.88333in;height:3.76181in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image36.jpeg"
+<img src="assets/INFERRING6b/media/image36.jpeg"
 style="width:2.39444in;height:3.59167in" />
 
 STORY SUMMARY & REVIEW
@@ -476,13 +476,13 @@ his beloved Gameboy). The book also provides a nice entry into the use
 of setting, as the flavor of New England is all over this story. How
 might the story differ if it was set in the Midwest, for example?
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image37.jpeg"
+<img src="assets/INFERRING6b/media/image37.jpeg"
 style="width:3.12569in;height:1.45833in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image38.jpeg"
+<img src="assets/INFERRING6b/media/image38.jpeg"
 style="width:3.12569in;height:1.6875in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image39.jpeg"
+<img src="assets/INFERRING6b/media/image39.jpeg"
 style="width:2.38403in;height:3.41181in" />
 
 Publishers Weekly (Starred Review):
@@ -513,10 +513,10 @@ Avi delivers a fast-paced adventure that ably mixes fantasy with urban
 reality. Floca’s simple but expressive illustrations capture both the
 magic and the grit of New York City.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image40.jpeg"
+<img src="assets/INFERRING6b/media/image40.jpeg"
 style="width:5.37569in;height:7.74236in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image41.jpeg"
+<img src="assets/INFERRING6b/media/image41.jpeg"
 style="width:2.08333in;height:3.125in" />
 
 Jellaby enters the life of outcast Portia, a girl who moved to this town
@@ -532,7 +532,7 @@ notices something in the newspaper, a door that seems to be a key to
 where he might have come from. The adventure continues in Jellaby:
 Monster in the City.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image42.jpeg"
+<img src="assets/INFERRING6b/media/image42.jpeg"
 style="width:2.44583in;height:3.675in" />
 
 The illustrations are tinged purple, with some exceptions, like Portia’s
@@ -554,13 +554,13 @@ adult readers as well as some other series for kiddies might.
 
 *Hazel Foster*
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image43.jpeg"
+<img src="assets/INFERRING6b/media/image43.jpeg"
 style="width:5.20833in;height:7.76042in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image44.png"
+<img src="assets/INFERRING6b/media/image44.png"
 style="width:4.79097in;height:7.1875in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image45.jpeg"
+<img src="assets/INFERRING6b/media/image45.jpeg"
 style="width:2.02083in;height:3.19792in" />
 
 This is a story about a girl and her dog. And her invisible gremlin
@@ -570,10 +570,10 @@ that her friend is Oogleeoog, an invisible gremlin who's always making
 trouble! This book contains the stories from the first four issues of
 the "Electric Girl" comic book. Plus, a special bonus story!
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image46.png"
+<img src="assets/INFERRING6b/media/image46.png"
 style="width:4.47917in;height:2.71875in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image47.jpeg"
+<img src="assets/INFERRING6b/media/image47.jpeg"
 style="width:2.375in;height:3.66736in" />
 
 She's nine years old, a former New Yorker who's now living in a small
@@ -598,16 +598,16 @@ new school Joe McCarthy Elementary: “Weeding out the wrong element since
 that is Crazy, what does childhood really look like? Amelia is that
 creative independent thinker many fear–and long for.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image48.jpeg"
+<img src="assets/INFERRING6b/media/image48.jpeg"
 style="width:3.79236in;height:5.78264in" />
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image49.jpeg"
+<img src="assets/INFERRING6b/media/image49.jpeg"
 style="width:1.33472in;height:1.68889in" /> by Valjean McLenighan
 
 An easy-to-read cartoon rendition of "The Frog Prince" which ends with a
 new twist.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image50.jpeg"
+<img src="assets/INFERRING6b/media/image50.jpeg"
 style="width:1.98889in;height:2.89306in" />
 
 George and Harold are always getting into trouble for pulling pranks,
@@ -619,7 +619,7 @@ Captain Underpants fights the crime of the city, namely Dr. Diaper and
 his evil robots, before George and Harold can transform their principle
 back to his regular form.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image51.jpeg"
+<img src="assets/INFERRING6b/media/image51.jpeg"
 style="width:2.22292in;height:3.29653in" />
 
 Stan Sakai was born in Tokyo, Japan, grew up on Hawaii and settled in
@@ -631,5 +631,5 @@ appeared on the animated 'Teenage Mutant Ninja Turtles' series, as well
 as on clothing and toys. Sakai also worked on 'Albedo', 'Critters',
 'Donald Duck' and 'Turtle Soup'.
 
-<img src="/tmp/tmp.DG8Q7VsZEM/media/media/image52.png"
+<img src="assets/INFERRING6b/media/image52.png"
 style="width:3.45833in;height:3.95833in" />

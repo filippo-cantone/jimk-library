@@ -10,7 +10,7 @@ tags: [jim-k]
 
 **(3)**
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image1.jpeg"
+<img src="assets/Eve Bunting3/media/image1.jpeg"
 style="width:1.875in;height:2.59375in" />
 
 **Whales Passing**
@@ -83,7 +83,7 @@ They’re gone. My dad and I will come again and see the whales. For now
 I’ll hold this shell I found close to my ear and hear the sea. And I’ll
 remember whales passing.
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image2.jpeg"
+<img src="assets/Eve Bunting3/media/image2.jpeg"
 style="width:3.25in;height:3.20625in" />
 
 This book, the Caldecott Award winner for the year's finest
@@ -105,7 +105,7 @@ talk about the violence that surrounds today's children. Diaz helps to
 convey the strong message by placing dramatic insets in his powerful
 collages.
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image3.jpeg"
+<img src="assets/Eve Bunting3/media/image3.jpeg"
 style="width:2.70833in;height:3.375in" />
 
 My Red Balloon by Eve Bunting - The boy has been waiting for this day
@@ -115,13 +115,13 @@ downstairs for breakfast, he takes along something very important: his
 red balloon. There will be many families and loved ones at the pier. The
 red balloon will help his father find him among the crowd.
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image4.jpeg"
+<img src="assets/Eve Bunting3/media/image4.jpeg"
 style="width:3.66597in;height:3.51875in" />
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image5.jpeg"
+<img src="assets/Eve Bunting3/media/image5.jpeg"
 style="width:4.03194in;height:3.33264in" />
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image6.jpeg"
+<img src="assets/Eve Bunting3/media/image6.jpeg"
 style="width:2.22292in;height:2.85in" />
 
 Alice is dismayed when one day the leaves on the old oak tree start to
@@ -129,10 +129,10 @@ fall. Although she can't save the tree, Alice remembers something that
 gives her hope: the acorns she collected when the tree was still
 healthy.
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image7.jpeg"
+<img src="assets/Eve Bunting3/media/image7.jpeg"
 style="width:3.16806in;height:2.57847in" />
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image8.jpeg"
+<img src="assets/Eve Bunting3/media/image8.jpeg"
 style="width:2.33889in;height:2.88264in" />
 
 It is a sad and frightening day when the Taking Man insists that
@@ -147,16 +147,16 @@ background information on this part of American history. The realistic,
 watercolour illustrations by a Navajo artist, who had a similar school
 experience, complement the text well.
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image9.jpeg"
+<img src="assets/Eve Bunting3/media/image9.jpeg"
 style="width:2.64653in;height:3.06597in" />
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image10.jpeg"
+<img src="assets/Eve Bunting3/media/image10.jpeg"
 style="width:3.12569in;height:3.12569in" />
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image11.jpeg"
+<img src="assets/Eve Bunting3/media/image11.jpeg"
 style="width:1.875in;height:2.4375in" />
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image12.jpeg"
+<img src="assets/Eve Bunting3/media/image12.jpeg"
 style="width:2.32292in;height:2.35417in" />
 
 In the story Jin Woo, the turning point for Davey is the letter he gets
@@ -194,7 +194,7 @@ others desiring insight into the world of adoption.
 Then write a follow-up letter in the present time reflecting on what
 they wrote as infants and how they feel now.
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image13.jpeg"
+<img src="assets/Eve Bunting3/media/image13.jpeg"
 style="width:3.74722in;height:3.19931in" />
 
 Sophia is disappointed on her seventh birthday when she doesn't get the
@@ -214,7 +214,7 @@ has created a wonderful story about family heritage. The illustrations
 are bold and colourful and well represent the extraordinary Greek
 culture.
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image14.jpeg"
+<img src="assets/Eve Bunting3/media/image14.jpeg"
 style="width:3.76042in;height:4.8125in" />
 
 Whether students' families came to Australia ten days ago, ten months
@@ -247,10 +247,10 @@ countries of origin.
 
 .
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image15.jpeg"
+<img src="assets/Eve Bunting3/media/image15.jpeg"
 style="width:3.63542in;height:4.28125in" />
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image16.jpeg"
+<img src="assets/Eve Bunting3/media/image16.jpeg"
 style="width:3.125in;height:2.61458in" />
 
 The story is all too familiar, unless you haven't been reading the
@@ -271,10 +271,10 @@ colors to reflect the bleakness of war and then brighten as the people
 return home. This is a picture book that will also appeal to older
 readers.
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image17.jpeg"
+<img src="assets/Eve Bunting3/media/image17.jpeg"
 style="width:3.3125in;height:4.25972in" />
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image18.jpeg"
+<img src="assets/Eve Bunting3/media/image18.jpeg"
 style="width:2.48958in;height:2.32292in" />
 
 Working with buddies in Prep or Grade 1.
@@ -309,7 +309,7 @@ How does she know which bus to get on?
 
 What kind of job could she have?
 
-<img src="/tmp/tmp.SO5hlYdTtH/media/media/image19.jpeg"
+<img src="assets/Eve Bunting3/media/image19.jpeg"
 style="width:1.91667in;height:2.09375in" />
 
 Eve Bunting and Ronald Himler continue their collaboration on picture

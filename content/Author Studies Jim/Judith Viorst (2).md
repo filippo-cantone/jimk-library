@@ -8,10 +8,10 @@ tags: [jim-k]
 
 **Judith Viorst**
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image1.jpeg"
+<img src="assets/Judith Viorst (2)/media/image1.jpeg"
 style="width:2.42639in;height:3.64444in" />
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image2.jpeg"
+<img src="assets/Judith Viorst (2)/media/image2.jpeg"
 style="width:2.42708in;height:3.64583in" />
 
 **Judith Viorst** is the author of several works of fiction and
@@ -134,7 +134,7 @@ Alexander Who’s Not Going to Move
 
 The Good-bye Book
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image3.jpeg"
+<img src="assets/Judith Viorst (2)/media/image3.jpeg"
 style="width:2.6875in;height:2.03125in" />
 
 We know that Alexander and the Terrible, Horrible, No Good, Very Bad Day
@@ -155,7 +155,7 @@ for a unique fate. Furthermore, these bad days happen everywhere, even
 in Australia, and since we can't escape them we might as well muddle
 through them and maybe even try (at some point) to laugh about them.
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image4.jpeg"
+<img src="assets/Judith Viorst (2)/media/image4.jpeg"
 style="width:3.375in;height:1.625in" />
 
 **Alexander and the Terrible, Horrible, No Good, Very Bad Day**
@@ -252,7 +252,7 @@ the Mickey Mouse night light burned out and I bit my tongue.**
 
 **Even in Timbuktu.**
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image5.jpeg"
+<img src="assets/Judith Viorst (2)/media/image5.jpeg"
 style="width:4.22986in;height:5.88542in" />
 
 **Many people have great love for Alexander and the Terrible, Horrible,
@@ -276,10 +276,10 @@ have been said to have had a "terrible, horrible, no good, very bad
 day." And I must confess to being tickled that this phrase has become so
 popular.
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image6.jpeg"
+<img src="assets/Judith Viorst (2)/media/image6.jpeg"
 style="width:2.42083in;height:3.32847in" />
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image7.jpeg"
+<img src="assets/Judith Viorst (2)/media/image7.jpeg"
 style="width:2.16597in;height:4.15556in" />
 
 **Writing:**
@@ -287,13 +287,13 @@ style="width:2.16597in;height:4.15556in" />
 Use story organiser \_\_\_\_\_\_\_\_\_ and the Terrible, Horrible, No
 Good, Very Bad Day
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image8.jpeg"
+<img src="assets/Judith Viorst (2)/media/image8.jpeg"
 style="width:3.58264in;height:2.6875in" />
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image9.jpeg"
+<img src="assets/Judith Viorst (2)/media/image9.jpeg"
 style="width:7.13958in;height:5.44931in" />
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image10.jpeg"
+<img src="assets/Judith Viorst (2)/media/image10.jpeg"
 style="width:8.11736in;height:5.78958in" />
 
 **\_\_\_\_\_\_\_\_\_\_\_ and the Terrible, Horrible, No Good, Very Bad
@@ -336,7 +336,7 @@ bad day.
 
 My mum says some days are like that.
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image11.jpeg"
+<img src="assets/Judith Viorst (2)/media/image11.jpeg"
 style="width:2.60417in;height:1.97917in" />
 
 Blurb: Alexander is *not* going to leave his best friend Paul. Or
@@ -353,7 +353,7 @@ Do you think they should move? Why or why not?
 
 Give reasons for your thinking.
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image12.jpeg"
+<img src="assets/Judith Viorst (2)/media/image12.jpeg"
 style="width:5.00069in;height:3.65694in" />
 
 > **Alexander, Who’s Not (Do you hear me? I mean it!) Going to Move.**
@@ -512,13 +512,13 @@ style="width:5.00069in;height:3.65694in" />
 >
 > I’m not – DO YOU HEAR ME? I MEAN IT! – going to move.
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image13.jpeg"
+<img src="assets/Judith Viorst (2)/media/image13.jpeg"
 style="width:5.00069in;height:3.65694in" />
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image14.jpeg"
+<img src="assets/Judith Viorst (2)/media/image14.jpeg"
 style="width:5.00069in;height:3.65694in" />
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image15.jpeg"
+<img src="assets/Judith Viorst (2)/media/image15.jpeg"
 style="width:2.6875in;height:2.03056in" />
 
 Anthony has two dollars and three quarters and one dime and seven
@@ -679,13 +679,13 @@ got this one-eyed bear. I’ve got this melted candle.
 
 And … some bus tokens.
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image16.jpeg"
+<img src="assets/Judith Viorst (2)/media/image16.jpeg"
 style="width:5.00069in;height:3.65694in" />
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image17.jpeg"
+<img src="assets/Judith Viorst (2)/media/image17.jpeg"
 style="width:5.00069in;height:3.65694in" />
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image18.jpeg"
+<img src="assets/Judith Viorst (2)/media/image18.jpeg"
 style="width:5.00069in;height:3.65694in" />
 
 **Discussion:**
@@ -709,7 +709,7 @@ If you could give Alexander advice, what would it be?
 
 What should Alexander’s parents do?
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image19.png"
+<img src="assets/Judith Viorst (2)/media/image19.png"
 style="width:2.04236in;height:2.63333in" />
 
 She wants them. She needs them. She loves them. Earrings! What won’t a
@@ -1068,7 +1068,7 @@ one “Want” to write about**.**
 
 \*Strong conclusion
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image20.jpeg"
+<img src="assets/Judith Viorst (2)/media/image20.jpeg"
 style="width:2.00972in;height:2.71736in" />
 
 His mother and father are getting dressed to go out to dinner together.
@@ -1175,7 +1175,7 @@ saying good-bye a little easier.
 >
 > I’ll never say good-bye.
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image21.jpeg"
+<img src="assets/Judith Viorst (2)/media/image21.jpeg"
 style="width:2.40625in;height:2.66667in" />
 
 My cat Barney died this Friday. I was very sad. My mother said we could
@@ -1590,7 +1590,7 @@ Over a series of lessons, look for specific information. E.g.
 
 **Nobody Here But Me Judith Viorst**
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image22.jpeg"
+<img src="assets/Judith Viorst (2)/media/image22.jpeg"
 style="width:1.92639in;height:2.35972in" />
 
 A young boy is ignored by his mother, father, and sister who are busy
@@ -1783,7 +1783,7 @@ It’s just as if … (But I’m glad that I’m just make-believing.)
 
 It’s just as if there’s nobody here but me.
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image23.jpeg"
+<img src="assets/Judith Viorst (2)/media/image23.jpeg"
 style="width:3.125in;height:2.375in" />
 
 Mother says deep down in his heart. Anthony loves me. Anthony says deep
@@ -1908,7 +1908,7 @@ I’m six.
 
 When I’m six I’ll fix Anthony.
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image24.jpeg"
+<img src="assets/Judith Viorst (2)/media/image24.jpeg"
 style="width:1.5in;height:1.94653in" />
 
 Charlie likes to be ready for any eventuality. In case a lion gets loose
@@ -2270,7 +2270,7 @@ And Charlie likes to be ready,
 
 **Just in case.**
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image25.jpeg"
+<img src="assets/Judith Viorst (2)/media/image25.jpeg"
 style="width:2.03056in;height:2.11458in" />
 
 How can Nick believe his mother's telling him there aren't any monsters
@@ -2487,7 +2487,7 @@ Well, sometimes even mamas make mistakes.
 
 But sometimes they don’t.
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image26.jpeg"
+<img src="assets/Judith Viorst (2)/media/image26.jpeg"
 style="width:2.04236in;height:2.67569in" />
 
 Rosie likes Michael when he's dopey and not just when he's smart.
@@ -2723,7 +2723,7 @@ Michael is
 
 My friend.
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image27.jpeg"
+<img src="assets/Judith Viorst (2)/media/image27.jpeg"
 style="width:1.875in;height:2.46875in" />
 
 Judith Viorst’s tale of two sisters comically captures the vast
@@ -3059,7 +3059,7 @@ wrong.*
 
 *And I would like to tell you …*
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image28.jpeg"
+<img src="assets/Judith Viorst (2)/media/image28.jpeg"
 style="width:2.08194in;height:1.57153in" />
 
 It's Sunday morning, very early Sunday morning. Anthony and Nicholas are
@@ -3169,16 +3169,16 @@ room. They look at the clock on the mantle. They look at each other.
 And they laugh. Good morning boys says mother. Good Sunday morning says
 father. It is exactly 9:45 A.M.
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image29.jpeg"
+<img src="assets/Judith Viorst (2)/media/image29.jpeg"
 style="width:2.61458in;height:2.09375in" />
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image30.jpeg"
+<img src="assets/Judith Viorst (2)/media/image30.jpeg"
 style="width:2.67708in;height:2.04167in" />
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image31.jpeg"
+<img src="assets/Judith Viorst (2)/media/image31.jpeg"
 style="width:2.625in;height:2.08194in" />
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image32.jpeg"
+<img src="assets/Judith Viorst (2)/media/image32.jpeg"
 style="width:1.875in;height:3.20833in" />
 
 Judith Viorst, better known within the children's-book world for picture
@@ -3216,7 +3216,7 @@ wants it. And, as her dog-walking partner Fleischman points out, she
 certainly isn't the nicest girl in the world (which is fine with Lulu,
 who thinks that nice is boring.)
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image33.jpeg"
+<img src="assets/Judith Viorst (2)/media/image33.jpeg"
 style="width:1.9375in;height:2.08194in" />Anyway, just because she isn't
 all that easy to like doesn't mean, I hope, that kids won't learn to
 like her.  I certainly can't let go of her and have, as a matter of
@@ -3234,7 +3234,7 @@ the pictures on the page could look exactly, *exactly*, how they wished
 they would look.  Lane's glorious drawings are beyond anything I was
 even capable of wishing for, and I am awash with gratitude. 
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image34.jpeg"
+<img src="assets/Judith Viorst (2)/media/image34.jpeg"
 style="width:2.02917in;height:3.24653in" />
 
 > **Discussion Questions:**
@@ -3289,13 +3289,13 @@ interact with our peers. It also teaches us a lesson that most of us
 have had to learn the hard way (as Lulu Does)- that we can’t always get
 what we want, but sometimes, it’s for the better.
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image35.jpeg"
+<img src="assets/Judith Viorst (2)/media/image35.jpeg"
 style="width:6.24861in;height:2.69653in" />
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image36.jpeg"
+<img src="assets/Judith Viorst (2)/media/image36.jpeg"
 style="width:4.91667in;height:4.04028in" />
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image37.jpeg"
+<img src="assets/Judith Viorst (2)/media/image37.jpeg"
 style="width:5.08333in;height:4.15in" />
 
 **Lulu and the Brontosaurus Judith Viorst**
@@ -4047,7 +4047,7 @@ Provide evidence from the story to support your conclusion.
 | **How the Character changed:** |                 |
 | **Why the Character changed:** |                 |
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image38.jpeg"
+<img src="assets/Judith Viorst (2)/media/image38.jpeg"
 style="width:1.875in;height:3.20833in" />
 
 For those of you who loved Lulu’s first adventure in Lulu and the
@@ -4083,10 +4083,10 @@ as much of a character as any other in the book, they directly address
 the reader with asides and “time outs” which seem to answer your
 questions the moment you ask them. Well…almost all of them.
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image39.jpeg"
+<img src="assets/Judith Viorst (2)/media/image39.jpeg"
 style="width:4.47917in;height:5.03125in" />
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image40.jpeg"
+<img src="assets/Judith Viorst (2)/media/image40.jpeg"
 style="width:2.18681in;height:2.66667in" />
 
 What would you do if you were in charge of the world? Read Judith
@@ -4094,7 +4094,7 @@ Viorst's poem below and then just let your imagination run free. Create
 your own version of the poem with creative details and descriptions from
 the point of view of being the one to make all the big decisions.
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image41.jpeg"
+<img src="assets/Judith Viorst (2)/media/image41.jpeg"
 style="width:4.58333in;height:2.86458in" />
 
 # If I Were In Charge of the World
@@ -4202,5 +4202,5 @@ And started the first day of school on the second day?
 
 **By Judith Viorst**
 
-<img src="/tmp/tmp.3tPG66YiLo/media/media/image42.jpeg"
+<img src="assets/Judith Viorst (2)/media/image42.jpeg"
 style="width:7.29236in;height:5.10833in" />

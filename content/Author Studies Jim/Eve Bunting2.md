@@ -10,10 +10,10 @@ tags: [jim-k]
 
 **(2)**
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image1.jpeg"
+<img src="assets/Eve Bunting2/media/image1.jpeg"
 style="width:2.63542in;height:2.29167in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image2.jpeg"
+<img src="assets/Eve Bunting2/media/image2.jpeg"
 style="width:7.175in;height:4.52708in" />
 
 **Train to Somewhere**
@@ -26,7 +26,7 @@ I have downloaded information from newspapers. Students can research
 themselves. I have included articles for teacher background knowledge,
 and as discussion points for developing units.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image3.jpeg"
+<img src="assets/Eve Bunting2/media/image3.jpeg"
 style="width:4.41667in;height:2.93125in" />
 
 **Train to Somewhere**
@@ -94,7 +94,7 @@ Gordon Brown Apology
 
 China Daily: Kevin Rudd’s Apology
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image4.jpeg"
+<img src="assets/Eve Bunting2/media/image4.jpeg"
 style="width:4.08194in;height:3.52292in" />
 
 Eve Bunting has always been an author who sheds light on emotional
@@ -629,7 +629,7 @@ Miss Randolph leans forward and kisses my cheek.
 
 “I’m ready.”
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image5.jpeg"
+<img src="assets/Eve Bunting2/media/image5.jpeg"
 style="width:5.83472in;height:4.93125in" />
 
 **Questions:**
@@ -732,25 +732,25 @@ rags, with a tear-stained face, you cannot easily forget him. And yet,
 you are perplexed what to do. The human soul is difficult to interfere
 with. You hesitate how far you should go."
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image6.png"
+<img src="assets/Eve Bunting2/media/image6.png"
 style="width:1.84444in;height:2.92153in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image7.jpeg"
+<img src="assets/Eve Bunting2/media/image7.jpeg"
 style="width:3.64583in;height:2.47917in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image8.jpeg"
+<img src="assets/Eve Bunting2/media/image8.jpeg"
 style="width:3.54167in;height:2.75in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image9.png"
+<img src="assets/Eve Bunting2/media/image9.png"
 style="width:2.60417in;height:3.76042in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image10.jpeg"
+<img src="assets/Eve Bunting2/media/image10.jpeg"
 style="width:6.70833in;height:4.07292in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image11.jpeg"
+<img src="assets/Eve Bunting2/media/image11.jpeg"
 style="width:4.16667in;height:2.86458in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image12.jpeg"
+<img src="assets/Eve Bunting2/media/image12.jpeg"
 style="width:3.375in;height:7.91667in" />
 
 **Orphan Trains to Iowa**
@@ -866,14 +866,14 @@ Trains" and Catholic "Mercy Trains" or "Baby Cars" have long since made
 their final trips to the West but their legacy lives on in the hearts of
 those they carried to their new homes and lives.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image13.png"
+<img src="assets/Eve Bunting2/media/image13.png"
 style="width:5.10417in;height:3.33333in" />
 
 **Text-to-Text Connections**
 
 **City of Orphans by Avi**
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image14.jpeg"
+<img src="assets/Eve Bunting2/media/image14.jpeg"
 style="width:1.60764in;height:2.41181in" />
 
 The time period and setting of City of orphans is New York City, 1893.
@@ -906,7 +906,7 @@ by on the five incomes, six if you count the boarder, and struggles to
 save money to send Agnes, who is exhibiting the first signs of
 tuberculosis, to a doctor.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image15.jpeg"
+<img src="assets/Eve Bunting2/media/image15.jpeg"
 style="width:6.25139in;height:4.08403in" />
 
 When we first see Maks, he has just sold all his papers for the day and
@@ -959,19 +959,19 @@ made me want to see more illustrations from the story. I think that City
 of Orphans, like all of Avi's books, would be a superb read-out loud in
 a fourth or fifth grade classroom.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image16.jpeg"
+<img src="assets/Eve Bunting2/media/image16.jpeg"
 style="width:4.92569in;height:2.93681in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image17.png"
+<img src="assets/Eve Bunting2/media/image17.png"
 style="width:3.28125in;height:4.29167in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image18.jpeg"
+<img src="assets/Eve Bunting2/media/image18.jpeg"
 style="width:3.95833in;height:4.21875in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image19.jpeg"
+<img src="assets/Eve Bunting2/media/image19.jpeg"
 style="width:6.66667in;height:5.6125in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image20.jpeg"
+<img src="assets/Eve Bunting2/media/image20.jpeg"
 style="width:1.84653in;height:2.74583in" />
 
 **Orphan Train Christina Baker Kline**
@@ -1081,7 +1081,7 @@ course of Vivian's life?
 
 (Questions issued by publisher.)
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image21.jpeg"
+<img src="assets/Eve Bunting2/media/image21.jpeg"
 style="width:2.37292in;height:2.62153in" />
 
 Between 1854 and 1930, more than 200,000 orphaned or abandoned children
@@ -1092,7 +1092,7 @@ chapters about the history of the orphan trains with the story of Lee
 Nailling, who in 1926 rode an orphan train to Texas when he was nine
 years old.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image22.jpeg"
+<img src="assets/Eve Bunting2/media/image22.jpeg"
 style="width:1.875in;height:2.25in" />
 
 From 1854 to 1930, more than 200,000 orphaned or abandoned boys and
@@ -1119,10 +1119,10 @@ black-and-white photographs of people and places as well as
 reproductions of original source material. As fascinating as the
 original and a worthy sequel. (index, sources) (Nonfiction. 9-12)
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image23.jpeg"
+<img src="assets/Eve Bunting2/media/image23.jpeg"
 style="width:4.16667in;height:2.5in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image24.jpeg"
+<img src="assets/Eve Bunting2/media/image24.jpeg"
 style="width:2.16181in;height:2.74444in" />
 
 It's 1881, and 12-year-old Rodzina is on an orphan train heading west.
@@ -1130,7 +1130,7 @@ She can't imagine that someone will adopt her. More likely she will
 become a slave to some stranger. If only she could find the family she
 desperately wants.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image25.jpeg"
+<img src="assets/Eve Bunting2/media/image25.jpeg"
 style="width:1.81389in;height:2.72292in" />
 
 “Riders on the Orphan Train” chronicles the lives of two children among
@@ -1152,7 +1152,7 @@ experiment, “Riders on the Orphan Train” is a story of the search for
 home, of dislocation, of loss and the rapidly-changing quality of
 American life.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image26.jpeg"
+<img src="assets/Eve Bunting2/media/image26.jpeg"
 style="width:1.54167in;height:2.56736in" />
 
 The Orphan Train saga begins in 1856 in New York City where Mrs. Kelly,
@@ -1171,14 +1171,14 @@ Underground Railroad. Will honouring Ma's request help Frances
 understand that splitting up the family was really her mother's act of
 love?
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image27.jpeg"
+<img src="assets/Eve Bunting2/media/image27.jpeg"
 style="width:1.55556in;height:2.56111in" />
 
 Eleven-year-old Michael Patrick Kelly from New York City is sent to a
 foster home, a Missouri farm with a sadistic owner, a bullying son, and
 a number of secrets, one of which may be murder.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image28.jpeg"
+<img src="assets/Eve Bunting2/media/image28.jpeg"
 style="width:1.54653in;height:2.61111in" />
 
 Shy Megan Kelly cannot forget the day a gypsy read her palm announcing
@@ -1186,7 +1186,7 @@ to all that she would bring trouble to those around her. Afterward,
 trouble does follow her, until she takes the necessary steps to free
 herself from the burdens of fear, loneliness, and superstition.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image29.jpeg"
+<img src="assets/Eve Bunting2/media/image29.jpeg"
 style="width:2.26042in;height:2.42708in" />
 
 In 1861, and although Mike Kelly is far younger than the legal age of
@@ -1196,7 +1196,7 @@ with the Second Kansas Infantry. But Mike's dreams of glory end when
 he's wounded at the bloody Battle of Wilson's Creek and must begin a
 dangerous adventure behind enemy lines.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image30.jpeg"
+<img src="assets/Eve Bunting2/media/image30.jpeg"
 style="width:1.875in;height:3.09236in" />
 
 It's the autumn of 1863, and as the Civil War rages, a stranger named
@@ -1206,7 +1206,7 @@ Confederate raiders and has information that may save the Union. But she
 can't deliver her message unless she takes a dangerous journey. Will Peg
 be able to help her?
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image31.jpeg"
+<img src="assets/Eve Bunting2/media/image31.jpeg"
 style="width:1.58958in;height:2.67222in" />
 
 Danny and his younger sister, Peg, are placed in St. Joseph, Missouri,
@@ -1214,7 +1214,7 @@ with kind Alfrid and Olga Swenson. Danny is thrilled to have a "real"
 father again, but when Olga suddenly dies, he is devastated—until he
 thinks of an ingenious plan to find Alfrid a new wife.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image32.jpeg"
+<img src="assets/Eve Bunting2/media/image32.jpeg"
 style="width:1.86458in;height:2.98958in" />
 
 The Civil War has officially ended, and Frances Mary Kelly's true love,
@@ -1294,7 +1294,7 @@ barrel of tallow" (p. 33). In A Place to Belong, Danny holds on to his
 "hard-earned coppers" (p. 3). In Keeping Secrets, Peg remembers seeing
 "painted ladies" (p. 126).
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image33.jpeg"
+<img src="assets/Eve Bunting2/media/image33.jpeg"
 style="width:2.34028in;height:2.99861in" />
 
 Extra! Extra! The Orphan Trains and Newsboys of New York is a collection
@@ -1315,7 +1315,7 @@ emphasizing the successes of those who helped raise so many children out
 of poverty by finding them new homes where they would learn valuable
 skills that would serve them throughout their lives.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image34.jpeg"
+<img src="assets/Eve Bunting2/media/image34.jpeg"
 style="width:3.125in;height:2.66667in" />
 
 People were seeing how the unsafe conditions were affecting the children
@@ -1328,7 +1328,7 @@ ban of work for children, which eventually spread all over the country.
 The photos were just the beginning steps that led to the standards we
 have today.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image35.png"
+<img src="assets/Eve Bunting2/media/image35.png"
 style="width:3.97917in;height:1.38542in" />
 
 In 1908, an American photographer, Lewis Hine, was hired by the U.S.
@@ -1436,13 +1436,13 @@ to create conditions for children similar to the worst features of
 factories, mines and mills from the 1800s with minimal chances for
 education and future happiness.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image36.jpeg"
+<img src="assets/Eve Bunting2/media/image36.jpeg"
 style="width:3.24861in;height:2.625in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image37.jpeg"
+<img src="assets/Eve Bunting2/media/image37.jpeg"
 style="width:5.91597in;height:4.16667in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image38.jpeg"
+<img src="assets/Eve Bunting2/media/image38.jpeg"
 style="width:7.16667in;height:5.30694in" />
 
 Faces of Lost Youth: Furman Owens, 12-years-old. Can't read. Doesn't
@@ -1450,83 +1450,83 @@ know his A,B,C's. Said, "Yes I want to learn but can't when I work all
 the time." Been in the mills 4 years, 3 years in the Olympia Mill.
 Columbia, South Carolina.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image39.jpeg"
+<img src="assets/Eve Bunting2/media/image39.jpeg"
 style="width:6.66597in;height:4.58264in" />
 
 Adolescent girls from Bibb Mfg. Co. in Macon, Georgia.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image40.jpeg"
+<img src="assets/Eve Bunting2/media/image40.jpeg"
 style="width:7.08333in;height:5.57778in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image41.jpeg"
+<img src="assets/Eve Bunting2/media/image41.jpeg"
 style="width:6.50069in;height:6.27292in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image42.jpeg"
+<img src="assets/Eve Bunting2/media/image42.jpeg"
 style="width:6.75in;height:4.95694in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image43.jpeg"
+<img src="assets/Eve Bunting2/media/image43.jpeg"
 style="width:6.75in;height:5.2in" />
 
 Newsies: Francis Lance, 5 years old, 41 inches high. He jumps on and off
 moving trolley cars at the risk of his life. St. Louis, Missouri**.**
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image44.jpeg"
+<img src="assets/Eve Bunting2/media/image44.jpeg"
 style="width:6.74931in;height:5.17708in" />
 
 Newsies: Fighting is not unusual here. In the alley, 4 p.m. Rochester,
 New York.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image45.jpeg"
+<img src="assets/Eve Bunting2/media/image45.jpeg"
 style="width:6.99931in;height:5.37569in" />
 
 Newsies: Where the newsboys’ money goes (an ice cream vendor).
 Wilmington, Delaware**.**
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image46.jpeg"
+<img src="assets/Eve Bunting2/media/image46.jpeg"
 style="width:7.08264in;height:4.91806in" />
 
 Young children working in a factory.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image47.jpeg"
+<img src="assets/Eve Bunting2/media/image47.jpeg"
 style="width:6.99931in;height:4.89028in" />
 
 Young glass worker.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image48.jpeg"
+<img src="assets/Eve Bunting2/media/image48.jpeg"
 style="width:6.83264in;height:4.67639in" />
 
 Working on a farm.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image49.jpeg"
+<img src="assets/Eve Bunting2/media/image49.jpeg"
 style="width:6.91667in;height:4.14167in" />
 
 Eight year old Jack.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image50.jpeg"
+<img src="assets/Eve Bunting2/media/image50.jpeg"
 style="width:6.16667in;height:7.49931in" />
 
 A Bowery bootblack in New York City.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image51.jpeg"
+<img src="assets/Eve Bunting2/media/image51.jpeg"
 style="width:6.16736in;height:4.28958in" />
 
 Field and Farm Work: Six-year-old Warren Frakes.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image52.jpeg"
+<img src="assets/Eve Bunting2/media/image52.jpeg"
 style="width:6.16667in;height:4.19375in" />
 
 Camille Carmo, age 7, and Justine, age 9. The older girl picks about 4
 pails a day.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image53.jpeg"
+<img src="assets/Eve Bunting2/media/image53.jpeg"
 style="width:6.66597in;height:4.65764in" />
 
 **The Mill**
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image54.jpeg"
+<img src="assets/Eve Bunting2/media/image54.jpeg"
 style="width:6.83333in;height:5.21667in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image55.jpeg"
+<img src="assets/Eve Bunting2/media/image55.jpeg"
 style="width:6.66667in;height:5.30208in" />
 
 Oyster shucker
@@ -1534,7 +1534,7 @@ Oyster shucker
 "7-year-old Rosie shucks about 4 pots a day at Varn & Platt Canning in
 Bluffton, South Carolina."
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image56.jpeg"
+<img src="assets/Eve Bunting2/media/image56.jpeg"
 style="width:6.33333in;height:5.08056in" />
 
 "5 year old Helen and her stepsisters hulling strawberries at Johnson's
@@ -1544,67 +1544,67 @@ widowed mother, was adopted by the Hope family of Seaford. This is her
 started working at 6 A.M., and at 6 P.M. the same day, Helen was still
 hulling strawberries. Seaford, Del, May 1910"
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image57.jpeg"
+<img src="assets/Eve Bunting2/media/image57.jpeg"
 style="width:5.38542in;height:6.66667in" />
 
 "Eight year old Jennie Camillo lives in West Maniyunk, Pa. (near
 Philadelphia). For this summer she has picked cranberries.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image58.jpeg"
+<img src="assets/Eve Bunting2/media/image58.jpeg"
 style="width:5.73958in;height:7.63403in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image59.jpeg"
+<img src="assets/Eve Bunting2/media/image59.jpeg"
 style="width:6.97847in;height:5.75417in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image60.jpeg"
+<img src="assets/Eve Bunting2/media/image60.jpeg"
 style="width:6.99931in;height:5.58264in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image61.jpeg"
+<img src="assets/Eve Bunting2/media/image61.jpeg"
 style="width:6.67778in;height:5.70833in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image62.jpeg"
+<img src="assets/Eve Bunting2/media/image62.jpeg"
 style="width:6.16667in;height:6.03403in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image63.jpeg"
+<img src="assets/Eve Bunting2/media/image63.jpeg"
 style="width:4.27083in;height:5.82292in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image64.jpeg"
+<img src="assets/Eve Bunting2/media/image64.jpeg"
 style="width:7.17569in;height:10.17569in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image65.jpeg"
+<img src="assets/Eve Bunting2/media/image65.jpeg"
 style="width:7.12431in;height:6.41667in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image66.jpeg"
+<img src="assets/Eve Bunting2/media/image66.jpeg"
 style="width:5.75069in;height:7.13542in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image67.jpeg"
+<img src="assets/Eve Bunting2/media/image67.jpeg"
 style="width:6.28194in;height:4.93194in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image68.jpeg"
+<img src="assets/Eve Bunting2/media/image68.jpeg"
 style="width:6.63542in;height:5.77083in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image69.jpeg"
+<img src="assets/Eve Bunting2/media/image69.jpeg"
 style="width:6.01944in;height:7.94653in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image70.jpeg"
+<img src="assets/Eve Bunting2/media/image70.jpeg"
 style="width:7.16667in;height:5.10556in" />
 
 A Variety of Jobs: Three young boys with shovels standing in doorway of
 a Fort Worth & Denver train car.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image71.jpeg"
+<img src="assets/Eve Bunting2/media/image71.jpeg"
 style="width:5.27014in;height:7.49931in" />
 
 Miners: A young driver in the Brown Mine. Has been driving one year.
 Works 7 a.m. to 5:30 p.m. daily. Brown, West Virginia**.**
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image72.jpeg"
+<img src="assets/Eve Bunting2/media/image72.jpeg"
 style="width:6.83333in;height:4.64097in" />
 
 The Factory: Boys in the packing room at the Brown Mfg. Co. Evansville,
 Indiana.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image73.jpeg"
+<img src="assets/Eve Bunting2/media/image73.jpeg"
 style="width:6.39583in;height:7.5in" />
 
 Young boys working for Hickok Lumber Co. Burlington, Vermont.
@@ -1613,7 +1613,7 @@ Young boys working for Hickok Lumber Co. Burlington, Vermont.
 
 Child migrants
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image74.jpeg"
+<img src="assets/Eve Bunting2/media/image74.jpeg"
 style="width:2.11458in;height:1.58333in" />
 
 Hopes and dreams - deported down under
@@ -1683,7 +1683,7 @@ A few have done well for themselves.
 
 Child workers.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image75.jpeg"
+<img src="assets/Eve Bunting2/media/image75.jpeg"
 style="width:2.11458in;height:1.58333in" />
 
 The child migrants were put to work.
@@ -1709,7 +1709,7 @@ Norman Johnston from the International Association of former Child
 Migrants says the British Government travel fund should only have been a
 start, and a failure to right the wrongs of the past is shameful.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image76.png"
+<img src="assets/Eve Bunting2/media/image76.png"
 style="width:3.64583in;height:0.6875in" />
 
 # It happened to me: I was sent to Australia as a child migrant
@@ -1736,7 +1736,7 @@ moved to another orphanage in Romsey, just outside Southampton. 
 One day, a nun gathered us boys together and asked, 'Who wants to go to
 Australia?'
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image77.jpeg"
+<img src="assets/Eve Bunting2/media/image77.jpeg"
 style="width:4.16389in;height:5.34722in" />
 
 Pretty much all of us said yes, even though we didn't even know where it
@@ -1851,7 +1851,7 @@ about everything I missed out on.
 Apology or no apology from the Australian government, that's something
 that will never go away.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image76.png"
+<img src="assets/Eve Bunting2/media/image76.png"
 style="width:3.64444in;height:0.68681in" />
 
 # Finally, an apology to the last two boys forcibly sent to live in Australia 39 years ago
@@ -1870,7 +1870,7 @@ Three years after the practice was made illegal, 11-year-old Rex Wade
 and his little brother Kevin were dispatched to the other side of the
 world.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image78.jpeg"
+<img src="assets/Eve Bunting2/media/image78.jpeg"
 style="width:4.87778in;height:6.12847in" />
 
 Childhood tragedy: Rex Wade, right, then five, with brother Kevin. Six
@@ -1897,7 +1897,7 @@ plane with my little brother and a suitcase each. 
 and why we were going away. We ended up in a care home, regularly
 receiving punishments and beatings. 
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image79.jpeg"
+<img src="assets/Eve Bunting2/media/image79.jpeg"
 style="width:2.43333in;height:2.74653in" />
 
 Rex Wade: 'Our lives were ruined'
@@ -1929,7 +1929,7 @@ After selling his few possessions to buy a one-way ticket back to
 England, Rex Wade married his wife Annie, now 54, but has battled
 alcoholism all his life. 
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image80.jpeg"
+<img src="assets/Eve Bunting2/media/image80.jpeg"
 style="width:2.42639in;height:3.4375in" />
 
 Rex Wade, aged five, playing in a Cornish farmyard.
@@ -1961,7 +1961,7 @@ abused or neglected while they were in state care.
 
 **Bindoon Boys Town: The sad truth behind Britain's lost children**
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image81.jpeg"
+<img src="assets/Eve Bunting2/media/image81.jpeg"
 style="width:6.45833in;height:5.10417in" />
 
 ### Australia is to apologise for the appalling treatment meted out to thousands of boys and girls shipped to its shores as orphans.
@@ -2096,15 +2096,15 @@ apology. He likens the child migrants to the Stolen Generations.
 "Whether you're black, white or brindle, they were saying we know what's
 best for you. We were stolen, too."
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image82.jpeg"
+<img src="assets/Eve Bunting2/media/image82.jpeg"
 style="width:4.16667in;height:3.16667in" />
 
 Construction of the administration building at Bindoon, 1952.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image83.jpeg"
+<img src="assets/Eve Bunting2/media/image83.jpeg"
 style="width:4.79097in;height:3in" />
 
-# <img src="/tmp/tmp.mRPAyGnv6A/media/media/image84.jpeg"
+# <img src="assets/Eve Bunting2/media/image84.jpeg"
 style="width:3.25in;height:4.16667in" /> 
 
 # Gordon Brown to apologise to British child migrants
@@ -2115,7 +2115,7 @@ Gordon Brown is to issue an official apology to former child migrants
 who were shipped from Britain to Commonwealth countries where many
 suffered systematic abuse.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image85.jpeg"
+<img src="assets/Eve Bunting2/media/image85.jpeg"
 style="width:4.79167in;height:3in" />
 
 By Bonnie Malkin in Sydney 12:57PM GMT 23 Feb 2010
@@ -2176,14 +2176,14 @@ prime minister, said sorry to the estimated 500,000 children, including
 Britons, who were held in orphanages and other institutions around that
 country between 1930 and 1970.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image86.png"
+<img src="assets/Eve Bunting2/media/image86.png"
 style="width:2.52083in;height:0.83333in" />
 
 # British PM says sorry to Forgotten Australians
 
 # British prime minister Gordon Brown has apologised for Britain's role in sending thousands of children to Australia and other former colonies where many suffered physical and sexual abuse.
 
-# <img src="/tmp/tmp.mRPAyGnv6A/media/media/image87.jpeg"
+# <img src="assets/Eve Bunting2/media/image87.jpeg"
 style="width:3.54167in;height:2.36458in" />
 
 # British Prime Minister Gordon Brown meets former child migrant John Hennessy
@@ -2280,13 +2280,13 @@ had these records ... and yet I never got it till far too late."
 
 # 
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image88.jpeg"
+<img src="assets/Eve Bunting2/media/image88.jpeg"
 style="width:3.79167in;height:1.94792in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image89.png"
+<img src="assets/Eve Bunting2/media/image89.png"
 style="width:3.45833in;height:1.94792in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image90.jpeg"
+<img src="assets/Eve Bunting2/media/image90.jpeg"
 style="width:1in;height:1.92708in" />
 
 This exhibition is a collaboration between the [Australian National
@@ -2308,7 +2308,7 @@ find it painful to reflect on their past.
 
 # On their own - Britain's child migrants
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image91.jpeg"
+<img src="assets/Eve Bunting2/media/image91.jpeg"
 style="width:4.16667in;height:2.27083in" />
 
 From the 1860s, more than 100,000 children were sent from Britain to
@@ -2366,7 +2366,7 @@ but also hope and anticipation.
 
 # 
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image92.jpeg"
+<img src="assets/Eve Bunting2/media/image92.jpeg"
 style="width:4.16667in;height:3.29167in" />
 
 # 
@@ -2385,7 +2385,7 @@ style="width:4.16667in;height:3.29167in" />
 
 # The children
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image93.jpeg"
+<img src="assets/Eve Bunting2/media/image93.jpeg"
 style="width:4.16667in;height:2.95764in" />
 
 **"We were measured for clothes, given injections and told that in
@@ -2425,7 +2425,7 @@ time the schemes officially ended in 1967.
 
 # Stewart Lee
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image94.jpeg"
+<img src="assets/Eve Bunting2/media/image94.jpeg"
 style="width:2.78958in;height:3.80833in" />
 
 **"My mother gave me this photo before we left. It is the only picture
@@ -2438,12 +2438,12 @@ of us together. She had carried it in her purse."**
 **Memento:** Photograph of Stewart with his mother before leaving
 England
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image95.jpeg"
+<img src="assets/Eve Bunting2/media/image95.jpeg"
 style="width:2.53472in;height:3.75556in" />
 
 # Herbert Ernest
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image96.jpeg"
+<img src="assets/Eve Bunting2/media/image96.jpeg"
 style="width:3.27083in;height:4.16667in" />
 
 **"Mum was the last person I saw. She came on board the boat and hugged
@@ -2455,12 +2455,12 @@ and kissed me and gave me two shillings."**
 **Arrived:** Pinjarra, Western Australia, Australia in 1929  
 **Memento:** Two shillings
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image97.jpeg"
+<img src="assets/Eve Bunting2/media/image97.jpeg"
 style="width:4.16667in;height:3.14653in" />
 
 # Annie Cairns (née Fereday)
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image98.jpeg"
+<img src="assets/Eve Bunting2/media/image98.jpeg"
 style="width:2.92708in;height:4.16667in" />
 
 **"I read Anne of Green Gables in school and thought I would love to go
@@ -2473,12 +2473,12 @@ book."**
 **Arrived:** New Brunswick, Canada in 1928  
 **Memento:** Copy of 'Anne of Green Gables'
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image99.jpeg"
+<img src="assets/Eve Bunting2/media/image99.jpeg"
 style="width:2.1875in;height:2.88333in" />
 
 # Catherine Maunder (née Hope)
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image100.jpeg"
+<img src="assets/Eve Bunting2/media/image100.jpeg"
 style="width:2.65486in;height:4.16667in" />
 
 **"At Rhodesia House, all that big heavy furniture, all those children
@@ -2491,12 +2491,12 @@ waiting with their parents for that all important interview was too much
 **Arrived:** Bulawayo, Southern Rhodesia in 1951  
 **Memento:** Copy of 'Just William'
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image101.jpeg"
+<img src="assets/Eve Bunting2/media/image101.jpeg"
 style="width:2.17708in;height:3.13333in" />
 
 # Frank Bray
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image102.jpeg"
+<img src="assets/Eve Bunting2/media/image102.jpeg"
 style="width:3.42708in;height:4.16667in" />
 
 **"I hope you enjoyed the concert on Saturday and the football match. It
@@ -2509,12 +2509,12 @@ give best wishes especially to my brothers and sister."**
 **Arrived:** Quebec, Canada in 1906  
 **Memento:** Football rattle
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image103.jpeg"
+<img src="assets/Eve Bunting2/media/image103.jpeg"
 style="width:3.50069in;height:2.83472in" />
 
 # Helen Tatchell (née Wylie)
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image104.jpeg"
+<img src="assets/Eve Bunting2/media/image104.jpeg"
 style="width:3.21875in;height:4.16667in" />
 
 **"Prior to leaving we were taken to Australia House where we had a
@@ -2526,12 +2526,12 @@ party and I received a little black doll."**
 **Arrived:** Pinjarra, Western Australia, Australia in 1939  
 **Memento:** Little black doll from Australia House
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image105.jpeg"
+<img src="assets/Eve Bunting2/media/image105.jpeg"
 style="width:2.6625in;height:3.50833in" />
 
 # Empire and Dominions
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image106.jpeg"
+<img src="assets/Eve Bunting2/media/image106.jpeg"
 style="width:4.16667in;height:3.21875in" />
 
 Throughout the late 19th and 20th centuries mass emigration provided a
@@ -2553,7 +2553,7 @@ continue to be built.
 
 # New lands, new lives
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image107.jpeg"
+<img src="assets/Eve Bunting2/media/image107.jpeg"
 style="width:4.16667in;height:3.125in" />
 
 Boys working on a farm in Courtland, Ontario, Canada in 1912
@@ -2578,7 +2578,7 @@ education and many were set up badly for adult life.
 
 # The shift to Australia
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image108.jpeg"
+<img src="assets/Eve Bunting2/media/image108.jpeg"
 style="width:5.20833in;height:1.76042in" />
 
 Boys burning off at Fairbridge Farm School, Pinjarra.
@@ -2599,7 +2599,7 @@ of social work as a profession
 
 # The schemes dig in
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image109.jpeg"
+<img src="assets/Eve Bunting2/media/image109.jpeg"
 style="width:4.16667in;height:2.77083in" />
 
 First group of post-war child migrants from Asturias arrive in Fremantle
@@ -2665,7 +2665,7 @@ continue for another decade.
 
 # David Summerfield – Barnardo boy
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image110.jpeg"
+<img src="assets/Eve Bunting2/media/image110.jpeg"
 style="width:2.58333in;height:3.43333in" />
 
 **"I was happy at Picton. I loved the sunshine and farm work. I thank
@@ -2686,12 +2686,12 @@ June 1950. He stayed at Barnardo’s Mowbray Park farm school in Picton,
 south of Sydney, for three years and later spent the best years of his
 working life at Retro sheep station in Queensland.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image111.jpeg"
+<img src="assets/Eve Bunting2/media/image111.jpeg"
 style="width:3.08333in;height:3.00556in" />
 
 # Raymond Brand – a childhood lost
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image112.jpeg"
+<img src="assets/Eve Bunting2/media/image112.jpeg"
 style="width:2.77153in;height:4.16667in" />
 
 **"I was transferred to Castledare Boys Home, conducted by the Christian
@@ -2725,7 +2725,7 @@ only to Year Five and bearing mental scars which remain to this day.
 
 # Pamela Smedley – longing for family
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image113.jpeg"
+<img src="assets/Eve Bunting2/media/image113.jpeg"
 style="width:2.43819in;height:3.7375in" />
 
 "The Sisters of Nazareth in England told me, ‘Your mother had you in the
@@ -2743,7 +2743,7 @@ In 1989 Pamela contacted the Child Migrants Trust, who helped reunite
 her with her mother Betty. For 40 years Betty had believed Pamela was
 adopted by a loving family in England.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image114.jpeg"
+<img src="assets/Eve Bunting2/media/image114.jpeg"
 style="width:1.35278in;height:1.66736in" />
 
 **A tiny little English house**
@@ -2755,7 +2755,7 @@ proper family.**
 
 # Yvonne Radzevicius – someone to belong to
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image115.jpeg"
+<img src="assets/Eve Bunting2/media/image115.jpeg"
 style="width:4.16667in;height:2.5in" />
 
 Child migrants on arrival at Nazareth House in Geraldton 1953 – Yvonne
@@ -2778,7 +2778,7 @@ Yvonne returned to Scotland in 1979 and discovered her mother was alive.
 Feeling traumatised and betrayed she spent the next two years in
 psychiatric care.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image116.jpeg"
+<img src="assets/Eve Bunting2/media/image116.jpeg"
 style="width:3.66597in;height:3.21597in" />
 
 In 1979 Yvonne visited Nazareth House in Glasgow to find out more about
@@ -2787,7 +2787,7 @@ of details:
 
 # Reflection, remembering and reunion
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image117.jpeg"
+<img src="assets/Eve Bunting2/media/image117.jpeg"
 style="width:2.79167in;height:4.16667in" />
 
 Child migrant memorial, Fremantle 2006. 
@@ -2828,14 +2828,14 @@ identity and a sense of belonging, former child migrants have raced
 desperately against time to reconnect with lost mothers, fathers and
 siblings. For many it has been too late.
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image118.jpeg"
+<img src="assets/Eve Bunting2/media/image118.jpeg"
 style="width:3.125in;height:4.16667in" />
 
 British child migrant memorial, Migration Museum, Adelaide. 
 
 # Government and organisational responses
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image119.jpeg"
+<img src="assets/Eve Bunting2/media/image119.jpeg"
 style="width:2.94792in;height:4.16667in" />
 
 Child Migrants Trust poster 'Help us find their lost roots'.
@@ -2861,7 +2861,7 @@ apology but designated 2010 as the ‘Year of the British Home Child.’
 
 # George 'Shorty' Hall
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image120.jpeg"
+<img src="assets/Eve Bunting2/media/image120.jpeg"
 style="width:3.38542in;height:4.16667in" />
 
 **"After the war I started for Stepney and had a great welcome. I met a
@@ -2875,15 +2875,15 @@ Sent by:** Barnardo's
 **Lived in**: Canada  
 **Memento:** Photograph of medals he was awarded during World War I
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image121.jpeg"
+<img src="assets/Eve Bunting2/media/image121.jpeg"
 style="width:2.84375in;height:4.16667in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image122.jpeg"
+<img src="assets/Eve Bunting2/media/image122.jpeg"
 style="width:4.16667in;height:2.45833in" />
 
 # Catherine Maunder (née Hope)
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image123.jpeg"
+<img src="assets/Eve Bunting2/media/image123.jpeg"
 style="width:4.16667in;height:2.59375in" />
 
 **"On the whole the Fairbridge girls have made a success of their lives.
@@ -2897,12 +2897,12 @@ Sent by:** Fairbridge
 **Lives in**: South Africa  
 **Memento:** Her autobiography, 'Be Brave and Look after Your Teeth'
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image124.jpeg"
+<img src="assets/Eve Bunting2/media/image124.jpeg"
 style="width:2.95833in;height:4.16667in" />
 
 # George Barrett
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image125.jpeg"
+<img src="assets/Eve Bunting2/media/image125.jpeg"
 style="width:3.17708in;height:4.16667in" />
 
 **"We will keep the memories of the Middlemore Home boys and girls
@@ -2917,15 +2917,15 @@ Sent by:** Middlemore Home
 **Memento:** Sheet of commemorative stamps from Year of the British Home
 Child
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image126.jpeg"
+<img src="assets/Eve Bunting2/media/image126.jpeg"
 style="width:4.16667in;height:3.44792in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image127.jpeg"
+<img src="assets/Eve Bunting2/media/image127.jpeg"
 style="width:2.58333in;height:2.08333in" />
 
 # Raymond Brand
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image128.jpeg"
+<img src="assets/Eve Bunting2/media/image128.jpeg"
 style="width:3.14583in;height:4.16667in" />
 
 **"My saddest realisation was while I was institutionalised and learnt
@@ -2940,12 +2940,12 @@ Sent by:** Christian Brothers
 **Lived in**: Western Australia, Australia  
 **Memento:** Father Hudson’s Homes letterhead
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image129.jpeg"
+<img src="assets/Eve Bunting2/media/image129.jpeg"
 style="width:4.16667in;height:2.03125in" />
 
 # Stewart Lee
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image130.jpeg"
+<img src="assets/Eve Bunting2/media/image130.jpeg"
 style="width:3.6875in;height:4.16667in" />
 
 **"It was 40 years by the time I got over to England but I couldn’t get
@@ -2959,7 +2959,7 @@ Sent by:** Fairbridge
 **Lives in**: New South Wales, Australia  
 **Memento:** Photograph of family home in Manchester
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image131.jpeg"
+<img src="assets/Eve Bunting2/media/image131.jpeg"
 style="width:4.16667in;height:2.55208in" />
 
 # Laurie Humphreys
@@ -2968,7 +2968,7 @@ style="width:4.16667in;height:2.55208in" />
 When I arrived in 1947 the slogan of the day was ‘populate or perish’ –
 I made sure I didn’t perish!"**
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image132.jpeg"
+<img src="assets/Eve Bunting2/media/image132.jpeg"
 style="width:2.92708in;height:4.16667in" />
 
 **Migrated when he was: **14 years old**  
@@ -2978,10 +2978,10 @@ Sent by:** Christian Brothers 
 **Lived in**: Western Australia, Australia  
 **Memento:** Family photograph
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image133.jpeg"
+<img src="assets/Eve Bunting2/media/image133.jpeg"
 style="width:3.58333in;height:2.72292in" />
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image134.jpeg"
+<img src="assets/Eve Bunting2/media/image134.jpeg"
 style="width:1.25in;height:0.41667in" />
 
 Rudd apologises for colonial child abuse
@@ -2989,9 +2989,9 @@ Rudd apologises for colonial child abuse
 (China Daily)  
 Updated: 2009-11-17 07:56
 
-<img src="/tmp/tmp.mRPAyGnv6A/media/media/image135.jpeg"
-style="width:0.27083in;height:0.27083in" /> [**Comments**(0)](javascript:docmtend()) <img src="/tmp/tmp.mRPAyGnv6A/media/media/image136.jpeg"
-style="width:0.27083in;height:0.27083in" />[**Print**<img src="/tmp/tmp.mRPAyGnv6A/media/media/image137.jpeg"
+<img src="assets/Eve Bunting2/media/image135.jpeg"
+style="width:0.27083in;height:0.27083in" /> [**Comments**(0)](javascript:docmtend()) <img src="assets/Eve Bunting2/media/image136.jpeg"
+style="width:0.27083in;height:0.27083in" />[**Print**<img src="assets/Eve Bunting2/media/image137.jpeg"
 style="width:0.27083in;height:0.27083in" />](javascript:Print())[**Mail**](http://www.chinadaily.com.cn/cndy/2009-11/17/content_8982640.htm)
 
 <table>
@@ -3000,7 +3000,7 @@ style="width:0.27083in;height:0.27083in" />](javascript:Print())[**Mail**](http:
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p> <img src="/tmp/tmp.mRPAyGnv6A/media/media/image138.jpeg"
+<td><p> <img src="assets/Eve Bunting2/media/image138.jpeg"
 style="width:3.4375in;height:3.04167in" /></p>
 <p><strong>In this 1953 black and white photo released by the National
 Archives of Australia, British orphans work in a garden at Melrose
@@ -3041,7 +3041,7 @@ lost."
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><p> <img src="/tmp/tmp.mRPAyGnv6A/media/media/image139.jpeg"
+<td><p> <img src="assets/Eve Bunting2/media/image139.jpeg"
 style="width:3.41667in;height:3.95833in" /></p>
 <p><strong>Australian Prime Minister Kevin Rudd, left, comforts a man
 attending the apology ceremony in the Australian capital yesterday.

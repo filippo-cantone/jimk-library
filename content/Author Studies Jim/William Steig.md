@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image1.jpeg"
+<img src="assets/William Steig/media/image1.jpeg"
 style="width:5.97917in;height:5.0625in" />
 
 **William Steig**
@@ -57,7 +57,7 @@ Abel’s Island
 
 The Real Thief
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image2.jpeg"
+<img src="assets/William Steig/media/image2.jpeg"
 style="width:1.9375in;height:2.91667in" />
 
 William Steig was born in Brooklyn on November 14, 1907. His father was
@@ -89,7 +89,7 @@ actress.
 
 Steig died in 2003 at the age of 95.
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image3.jpeg"
+<img src="assets/William Steig/media/image3.jpeg"
 style="width:2.27639in;height:2.69653in" />
 
 An American cartoonist, William Steig brought Shrek to life with words
@@ -136,7 +136,7 @@ Independent work: Highlight new/vivid words.
 
 Students to create a Book Wall.
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image4.jpeg"
+<img src="assets/William Steig/media/image4.jpeg"
 style="width:2.04722in;height:2.56389in" />
 
 > cowed
@@ -397,19 +397,19 @@ together.
 So they got hitched as soon as possible. And they lived horribly ever
 after, scaring the socks off all who fell afoul of them.
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image5.jpeg"
+<img src="assets/William Steig/media/image5.jpeg"
 style="width:6.56597in;height:3.49375in" />
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image6.jpeg"
+<img src="assets/William Steig/media/image6.jpeg"
 style="width:4.68889in;height:3.33264in" />
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image7.jpeg"
+<img src="assets/William Steig/media/image7.jpeg"
 style="width:6.21806in;height:8.05in" />
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image8.jpeg"
+<img src="assets/William Steig/media/image8.jpeg"
 style="width:3.79167in;height:4.19861in" />
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image9.jpeg"
+<img src="assets/William Steig/media/image9.jpeg"
 style="width:3.83194in;height:4.37639in" />
 
 **Sylvester and the Magic Pebble William Steig**
@@ -500,16 +500,16 @@ overcome these obstacles?
 What characteristics or qualities did they need in order to succeed? How
 do you think this compares to real life?
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image10.jpeg"
+<img src="assets/William Steig/media/image10.jpeg"
 style="width:2.04236in;height:2.08194in" />
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image11.jpeg"
+<img src="assets/William Steig/media/image11.jpeg"
 style="width:2.34236in;height:2.33333in" />
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image12.jpeg"
+<img src="assets/William Steig/media/image12.jpeg"
 style="width:1.9375in;height:2.125in" />
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image13.jpeg"
+<img src="assets/William Steig/media/image13.jpeg"
 style="width:5.40625in;height:6.08333in" />
 
 **Sylvester and the Magic Pebble**
@@ -678,13 +678,13 @@ put the magic pebble in an iron safe. Some day they might want to use
 it, but really, for now, what more could they wish for? They had all
 that they wanted.
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image14.jpeg"
+<img src="assets/William Steig/media/image14.jpeg"
 style="width:7.36667in;height:9.37778in" />
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image15.jpeg"
+<img src="assets/William Steig/media/image15.jpeg"
 style="width:3.125in;height:2.71875in" />
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image16.jpeg"
+<img src="assets/William Steig/media/image16.jpeg"
 style="width:4.16667in;height:3.34375in" />
 
 **Amos & Boris William Steig**
@@ -888,7 +888,7 @@ the great whale’s cheeks. The tiny mouse had tears in his eyes too.
 They knew they might never meet again. They knew they would never forget
 each other.
 
-<img src="/tmp/tmp.J2GamhElqJ/media/media/image17.jpeg"
+<img src="assets/William Steig/media/image17.jpeg"
 style="width:2.11458in;height:2.58333in" />
 
 Brave Irene is Irene Bobbin, the dressmaker's daughter. Her mother, Mrs.

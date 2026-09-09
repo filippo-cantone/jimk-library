@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.M9RI4mOWfQ/media/media/image1.png"
+<img src="assets/VOCABULARY 5/media/image1.png"
 style="width:5.20833in;height:4.125in" />
 
 **VOCABULARY 5**
@@ -724,7 +724,7 @@ fathers they love.
 
 A tribute to mud. Simple yet very descriptive.
 
-<img src="/tmp/tmp.M9RI4mOWfQ/media/media/image2.jpeg"
+<img src="assets/VOCABULARY 5/media/image2.jpeg"
 style="width:5in;height:3.75in" />
 
 <table>

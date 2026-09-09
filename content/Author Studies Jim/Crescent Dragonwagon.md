@@ -346,7 +346,7 @@ illustrations go all the way to the edge of the paper, but when the text
 is about the family from long ago, the illustrations are set in frames
 as if we are looking through a window into the past.
 
-<img src="/tmp/tmp.NzQh3bn5mZ/media/media/image1.jpeg"
+<img src="assets/Crescent Dragonwagon/media/image1.jpeg"
 style="width:3.33333in;height:2.53125in" />
 
 In imagining the people who lived in this house long ago, the girl sees

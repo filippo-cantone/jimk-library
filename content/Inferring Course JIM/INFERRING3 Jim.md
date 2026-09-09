@@ -10,7 +10,7 @@ tags: [jim-k]
 
 **PART 3**
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image1.jpeg"
+<img src="assets/INFERRING3 Jim/media/image1.jpeg"
 style="width:3.125in;height:4.16667in" />
 
 **Inferring 3**
@@ -574,7 +574,7 @@ Lilly. “Julius is the baby of the world.”
 
 And from then on, he was. In everyone’s opinion. Especially in Lilly’s.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image2.jpeg"
+<img src="assets/INFERRING3 Jim/media/image2.jpeg"
 style="width:2.34375in;height:2.34375in" />
 
 Piggins is a mystery book in which Piggins, butler to Mr. and Mrs.
@@ -1003,7 +1003,7 @@ spend five dollars.
 I’ll tell her tonight. She’ll understand. It’s nothing really. We’ll
 both laugh about it once it’s done. Oh, I wish it was over!
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image3.jpeg"
+<img src="assets/INFERRING3 Jim/media/image3.jpeg"
 style="width:2.54097in;height:2.15694in" />
 
 The story of an alienated alien
@@ -1244,16 +1244,16 @@ Teacher in the school playground
 
 Girl with a skipping rope?)
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image4.jpeg"
+<img src="assets/INFERRING3 Jim/media/image4.jpeg"
 style="width:4.01042in;height:3.70764in" />
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image5.jpeg"
+<img src="assets/INFERRING3 Jim/media/image5.jpeg"
 style="width:4.16667in;height:3.64583in" />
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image6.png"
+<img src="assets/INFERRING3 Jim/media/image6.png"
 style="width:4.8125in;height:3.875in" />
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image7.jpeg"
+<img src="assets/INFERRING3 Jim/media/image7.jpeg"
 style="width:5.00069in;height:3.75in" />
 
 **Beegu Alexis Deacon**
@@ -1294,7 +1294,7 @@ But she knew it couldn’t be …
 
 It was!
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image8.jpeg"
+<img src="assets/INFERRING3 Jim/media/image8.jpeg"
 style="width:4.01042in;height:4.19792in" />
 
 Beegu told her parents all about life on Earth. How Earth creatures were
@@ -1377,7 +1377,7 @@ own.</p></td>
 
 **Fireflies Julie Brinckloe**
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image9.jpeg"
+<img src="assets/INFERRING3 Jim/media/image9.jpeg"
 style="width:2.04167in;height:2.67708in" />
 
 A young boy is proud of having caught a jar full of fireflies, which
@@ -1724,7 +1724,7 @@ monologue.</td>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image10.jpeg"
+<img src="assets/INFERRING3 Jim/media/image10.jpeg"
 style="width:3.125in;height:2.5625in" />
 
 **Book Summary**
@@ -1866,7 +1866,7 @@ happen if you were to visit this person.
 
 **The Garden of Abdul Gasazi Chris Van Allsburg**
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image11.png"
+<img src="assets/INFERRING3 Jim/media/image11.png"
 style="width:4.68681in;height:3.62431in" />
 
 The story starts with Miss Hester leaving her disobedient pitbull dog
@@ -1880,24 +1880,24 @@ across a sign: “ABSOLUTELY, POSITIVELY NO DOGS ALLOWED IN THIS GARDEN,”
 signed by Abdul Gasazi, retired magician. Fritz breaks free and bolts
 straight through the door with Alan chasing behind him.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image12.png"
+<img src="assets/INFERRING3 Jim/media/image12.png"
 style="width:4.68889in;height:3.65694in" />
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image13.png"
+<img src="assets/INFERRING3 Jim/media/image13.png"
 style="width:4.68681in;height:3.67639in" />
 
 Alan falls and can’t keep up with Fritz, who disappears into the garden.
 Alan is desperate to find Fritz before Mr Gasazi finds out they’ve been
 in his garden.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image14.png"
+<img src="assets/INFERRING3 Jim/media/image14.png"
 style="width:4.68681in;height:3.59306in" />
 
 Alan searches for Fritz everywhere and finally comes across some dog
 tracks which lead to the great and imposing house belonging to this
 mysterious Abdul Gasazi.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image15.png"
+<img src="assets/INFERRING3 Jim/media/image15.png"
 style="width:4.68681in;height:3.66597in" />
 
 Alan asks for the dog back and Gasazi says “certainly you may have your
@@ -1907,7 +1907,7 @@ trees. “Do you know what I do to dogs I find in my garden? I TURN THEM
 INTO DUCKS” Alan is horrified to learn that only time can turn Fritz
 back – maybe years maybe just a day.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image16.png"
+<img src="assets/INFERRING3 Jim/media/image16.png"
 style="width:4.68681in;height:3.64514in" />
 
 Alan takes the bird in his arms and heads for home, devastated. Behind
@@ -1919,17 +1919,17 @@ by the thought he at least had a hat to chew on. He tells Miss Hester
 what has happened to Fritz, but she tells him it must have all been a
 joke: Fritz is home, eating his dinner.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image17.png"
+<img src="assets/INFERRING3 Jim/media/image17.png"
 style="width:4.68681in;height:3.69722in" />
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image18.png"
+<img src="assets/INFERRING3 Jim/media/image18.png"
 style="width:4.68681in;height:3.63472in" />
 
 Alan heads home, feeling silly, and is convinced he won’t be fooled
 again. Miss Hester calls Fritz back into the house and he drops Alan’s
 hat at her feet.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image19.jpeg"
+<img src="assets/INFERRING3 Jim/media/image19.jpeg"
 style="width:2.11458in;height:2.58333in" />
 
 Brave Irene is Irene Bobbin, the dressmaker's daughter. Her mother, Mrs.
@@ -2263,7 +2263,7 @@ person Irene was.
 
 Which of course, Mrs Bobbin knew. Better than the duchess.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image20.jpeg"
+<img src="assets/INFERRING3 Jim/media/image20.jpeg"
 style="width:2.625in;height:2.825in" /> (See also Vocabulary 4 course
 for more extensive work on Spelling with Crickwing)
 
@@ -2627,7 +2627,7 @@ holiday,” she yawned.
 And for the first time in colony history, the leafcutters took a day
 off.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image21.jpeg"
+<img src="assets/INFERRING3 Jim/media/image21.jpeg"
 style="width:2.49583in;height:3.24861in" />
 
 Edwardo is a regular kid. He eats, goes to school, plays, and goes to
@@ -2824,7 +2824,7 @@ clumsy, noisy, nasty and rude. But really Edwardo is…
 
 THE LOVELIEST BOY IN THE WHOLE WIDE WORLD.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image22.jpeg"
+<img src="assets/INFERRING3 Jim/media/image22.jpeg"
 style="width:2.23819in;height:2.74931in" />
 
 James and Eamon spend a week at Eamon's grandparent's house so they can
@@ -2851,7 +2851,7 @@ and sticks to build an Antarctic scene, complete with penguins. "And
 then they walked like a couple of penguins all the way to the front
 door." It's a perfect ending to the boys' best week ever.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image23.jpeg"
+<img src="assets/INFERRING3 Jim/media/image23.jpeg"
 style="width:2.59514in;height:3.27014in" />
 
 A hungry fox can't believe his luck when a pig actually shows up on his
@@ -2901,7 +2901,7 @@ to describe the fox and pig. Talk about what makes a character a
 “trickster” and discuss other tricksters the children may have
 encountered in other books.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image24.png"
+<img src="assets/INFERRING3 Jim/media/image24.png"
 style="width:3.34444in;height:2.04097in" />
 
 **My Lucky Day**
@@ -3013,7 +3013,7 @@ tallest pine the hanging
 
 tree. rock.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image25.png"
+<img src="assets/INFERRING3 Jim/media/image25.png"
 style="width:2.37569in;height:1.88681in" />
 
 Eaglet's world expands from its beginning inside his warm egg, to his
@@ -3108,7 +3108,7 @@ was huge! And it was all his! He would soar there above it, surprised by
 its bigness, its colour and brightness, forever! Forever! Where Eaglet
 was … was *wonderful!*
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image26.jpeg"
+<img src="assets/INFERRING3 Jim/media/image26.jpeg"
 style="width:3.50069in;height:2.74167in" />
 
 There's nothing predictable about this alphabet book other than the
@@ -3130,7 +3130,7 @@ add an inviting dimension
 Students use their observational skills and prior knowledge to make
 inferences about the identity of the animals.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image27.jpeg" /><img src="/tmp/tmp.4WB7AwryM1/media/media/image27.jpeg"
+<img src="assets/INFERRING3 Jim/media/image27.jpeg" /><img src="assets/INFERRING3 Jim/media/image27.jpeg"
 style="width:3.375in;height:2.54097in" />
 
 When Californian Tameka invites her favourite uncle for a visit, he
@@ -3175,7 +3175,7 @@ is lost? He has not heard from anyone who has found him in 17 days.
 Characterisation: List Oliver’s character traits as you read what his
 drivers and friends say about him
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image28.jpeg"
+<img src="assets/INFERRING3 Jim/media/image28.jpeg"
 style="width:7.5in;height:2.95833in" />
 
 **The Journey of Oliver K. Woodman**
@@ -3200,7 +3200,7 @@ Tameka
 
 XOXOXO
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image29.jpeg"
+<img src="assets/INFERRING3 Jim/media/image29.jpeg"
 style="width:2.25in;height:2.89444in" />
 
 “Pink is for crow . . . White is for blueberry . . . Yellow is for pine
@@ -3233,7 +3233,7 @@ things in new ways long after the covers of this book have been closed.
 Older students could create their own creative “colour” books and think
 of different ways to view colours.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image30.jpeg"
+<img src="assets/INFERRING3 Jim/media/image30.jpeg"
 style="width:2.60069in;height:3.39375in" />
 
 "It was a great day for a picnic." These are the first words of a story
@@ -3330,7 +3330,7 @@ Ask a student to lay his head on his arm on the desk. “Why did
 *“We also make inferences when we read. We use clues from the text and
 what we already know.”*
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image31.jpeg"
+<img src="assets/INFERRING3 Jim/media/image31.jpeg"
 style="width:3in;height:3.30278in" />
 
 An adaptation of the Indian fable "The Blind Men and the Elephant"
@@ -3791,7 +3791,7 @@ about)*
 
 Mentor Text: Willy the Wimp by Anthony Browne.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image32.jpeg"
+<img src="assets/INFERRING3 Jim/media/image32.jpeg"
 style="width:2.25833in;height:2.41736in" />
 
 Willy is kind and gentle, and bullied by the suburban gorilla gang who
@@ -3883,13 +3883,13 @@ Willy was proud. “I’m not a wimp!” A hero. BANG!
 
 “Oh, I’m sorry!” said Willy.
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image33.jpeg"
+<img src="assets/INFERRING3 Jim/media/image33.jpeg"
 style="width:2.3125in;height:2.36458in" />
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image34.jpeg"
+<img src="assets/INFERRING3 Jim/media/image34.jpeg"
 style="width:3.26042in;height:3.33264in" />
 
-<img src="/tmp/tmp.4WB7AwryM1/media/media/image35.jpeg"
+<img src="assets/INFERRING3 Jim/media/image35.jpeg"
 style="width:3.375in;height:2.53194in" />
 
 **Inferring and Writing**

@@ -437,7 +437,7 @@ You might show them this cluster, discussing how Mem Fox's book is
 mostly inspired by these six adjectives; discuss how she chose (word
 choice!) six interesting adjectives that all mean different things.
 
-<img src="/tmp/tmp.5SKrIpAt50/media/media/image1.jpeg"
+<img src="assets/Mem Fox/media/image1.jpeg"
 style="width:4.68889in;height:2.90694in" />
 
 Make three columns on your whiteboard or chalkboard or on chart paper,
@@ -470,7 +470,7 @@ example, *an angry pirate scratching his head* is an acceptable choice
 of a unique character because different rows are represented in the
 choice.
 
-<img src="/tmp/tmp.5SKrIpAt50/media/media/image2.jpeg"
+<img src="assets/Mem Fox/media/image2.jpeg"
 style="width:2.93681in;height:1.9375in" />
 
 Have students create a page in their notebooks or journals for this

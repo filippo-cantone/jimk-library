@@ -8,7 +8,7 @@ tags: [jim-k]
 
 **Tony Johnston**
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image1.jpeg"
+<img src="assets/Tony Johnstone 2/media/image1.jpeg"
 style="width:4.15764in;height:3.96181in" />
 
 **Tony Johnston**
@@ -163,7 +163,7 @@ connected.</p></td>
 
 **Some of her** **Books**
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image2.jpeg"
+<img src="assets/Tony Johnstone 2/media/image2.jpeg"
 style="width:1.37083in;height:1.40556in" /> 1994
 
 Amber’s mountain is beautiful, but it is a lonely place, until the day
@@ -172,7 +172,7 @@ how to read. Suddenly, Amber’s world is filled with a new magic, and new
 challenges. But when Anna returns to the city, will Amber be able to
 keep reading on her own?
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image3.jpeg"
+<img src="assets/Tony Johnstone 2/media/image3.jpeg"
 style="width:1.34653in;height:1.78194in" /> 1998
 
 In the old growth forest, a dashing Bigfoot prince searches for his
@@ -180,7 +180,7 @@ Bigfoot princess. Rrrrrella, who also lives in the forest, would be a
 perfect match. But can she get past her ugly stepsisters to win the
 prince's heart?
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image4.jpeg"
+<img src="assets/Tony Johnstone 2/media/image4.jpeg"
 style="width:1.38681in;height:1.67431in" /> 1983
 
 The Vanishing Pumpkin. In this "appealing, participatory, fast-paced"
@@ -188,7 +188,7 @@ story, a 700-yeard-old woman and an 800-year-old man go out to the patch
 to get a pumpkin to make a pie--only to discover that their pumpkin's
 been "snitched".
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image5.jpeg"
+<img src="assets/Tony Johnstone 2/media/image5.jpeg"
 style="width:1.37083in;height:1.875in" /> 2002
 
 That summer the brothers ran into the sun, freed from school. Time for
@@ -210,14 +210,14 @@ the brothers and sisters of seriously ill children--and for all family
 members when a child is losing the fight against a terrible disease.
 It's sure to stimulate helpful discussions."
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image6.jpeg"
+<img src="assets/Tony Johnstone 2/media/image6.jpeg"
 style="width:1.45in;height:1.87778in" /> 2004
 
 When the Nazis invade Poland, a family is split apart. A harmonica keeps
 a boy's hope alive. The story is inspired by the life of a Holocaust
 survivor.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image7.jpeg"
+<img src="assets/Tony Johnstone 2/media/image7.jpeg"
 style="width:1.38889in;height:1.76944in" /> 1992
 
 Farethee Well is a woman of strong mind and bodacious body. But when
@@ -226,7 +226,7 @@ from a fake? "Johnston's clever parody of The Princess and the Pea is
 rich with the language and details of the Wild West . . . a great choice
 for read-aloud."-- Booklist.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image8.jpeg"
+<img src="assets/Tony Johnstone 2/media/image8.jpeg"
 style="width:1.15417in;height:1.62292in" /> 2003
 
 Outside her home in Michoacan, Mexico, grows eight-year-old Isabel's
@@ -247,7 +247,7 @@ real-life dilemma it presents. Lush paintings by Susan Guevara radiate
 with the warmth and tenderness between Isabel and her family, and
 capture Mexican rural life in all its vibrant colour and natural beauty.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image9.jpeg"
+<img src="assets/Tony Johnstone 2/media/image9.jpeg"
 style="width:1.31736in;height:1.69792in" /> 2001
 
 In this inspiring story, young Carlos learns that change affects
@@ -267,7 +267,7 @@ VandenBroeck's vivid, expressive illustrations. The colours and styles
 of the Aztec culture bring the ancient gods alive in the imaginations of
 the readers.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image10.jpeg"
+<img src="assets/Tony Johnstone 2/media/image10.jpeg"
 style="width:1.425in;height:1.74861in" /> 2004
 
 The Worm family loves being wormy. They're skinny--they're
@@ -283,7 +283,7 @@ they carry on, doing things they love with the family they love--and
 finally find some fuzzy-wuzzy neighbours who like them just as they are.
 Oh joy! They're Worms!
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image11.jpeg"
+<img src="assets/Tony Johnstone 2/media/image11.jpeg"
 style="width:1.04167in;height:1.33333in" /> 1995
 
 When the Tomie/Tony team move "Baba Yaga" to Santa Fe, look out for
@@ -291,14 +291,14 @@ Alice Nizzy Nazzy! With her bright beady eyes, strings of chiles in her
 hair, and a huge horned lizard around her neck, Alice Nizzy Nazzy is a
 character not soon forgotten.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image12.jpeg"
+<img src="assets/Tony Johnstone 2/media/image12.jpeg"
 style="width:1.74861in;height:1.19861in" /> 1995
 
 Tom and Dom, a young pair of iguanas, come to believe that they are
 dinosaurs, and while Dom is just happy with being himself, Tom is
 uncertain about whether iguana life is right for him.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image13.jpeg"
+<img src="assets/Tony Johnstone 2/media/image13.jpeg"
 style="width:1.63542in;height:1.35417in" />**  
 **2003
 
@@ -314,7 +314,7 @@ Tony Johnston is at her rambunctious best as she goes trekking and
 tracking with Tim Raglin on this downright gleeful read-a-loud adventure
 to *GO TRACK A YAK!*
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image14.jpeg"
+<img src="assets/Tony Johnstone 2/media/image14.jpeg"
 style="width:2.16667in;height:1.72917in" /> 1996
 
 A child is born into slavery, and soon is working from dawn to dark for
@@ -322,7 +322,7 @@ the Master. Life is hard, but the boy never stops dreaming -- dreaming
 of a better place, dreaming of President Lincoln, dreaming that the
 wagon he's helped build for Master is a glorious charity of freedom.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image15.jpeg"
+<img src="assets/Tony Johnstone 2/media/image15.jpeg"
 style="width:1.83264in;height:1.53889in" /> 2002
 
 Johnston's graceful story of a family who leaves New Hampshire for the
@@ -330,7 +330,7 @@ American West harmonises with Caldecott Honor-winning illustrator
 Lewin's lifelike watercolours, giving readers a strong feeling for the
 pioneer family's triumphant struggle on their journey.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image16.jpeg"
+<img src="assets/Tony Johnstone 2/media/image16.jpeg"
 style="width:1.09444in;height:1.45764in" /> 1996
 
 A young boy is embarrassed by his grandfather's old Japanese ways, but
@@ -339,12 +339,12 @@ light.
 
 2013
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image17.jpeg"
+<img src="assets/Tony Johnstone 2/media/image17.jpeg"
 style="width:1.96667in;height:1.50278in" />A wandering cat brightens the
 lives of six lonely people--and persuades all of them to feed him until
 a near accident brings them all together.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image18.jpeg"
+<img src="assets/Tony Johnstone 2/media/image18.jpeg"
 style="width:1.4125in;height:1.74931in" /> 1985
 
 Long ago, a young girl named Abigail put her beloved patchwork quilt in
@@ -355,7 +355,7 @@ generations is the star of this rich picture book . . . Tomie dePaola
 provides a warm, dignified interpretation of Johnston's
 story."--Booklist
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image19.jpeg"
+<img src="assets/Tony Johnstone 2/media/image19.jpeg"
 style="width:1.55069in;height:1.97986in" /> 1990
 
 One lonely Halloween night an old lady who lives on top of a hill
@@ -364,20 +364,20 @@ for a soup bone, she makes the acquaintance of a lively skeleton, and
 spends a riotous evening playing tricks with him, finally agreeing to be
 friends.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image20.jpeg"
+<img src="assets/Tony Johnstone 2/media/image20.jpeg"
 style="width:1.6375in;height:2.00069in" /> 1994
 
 Colourful folk art and Spanish phrases spice up the beloved Oaxaco
 Mexican folktale about the incorrigible Rabbit, who always gets the best
 of Coyote.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image21.jpeg"
+<img src="assets/Tony Johnstone 2/media/image21.jpeg"
 style="width:1.04097in;height:1.52083in" /> 1995
 
 A child and a little green parrot spend the day together, sharing seeds,
 a song, a story, and more.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image22.jpeg"
+<img src="assets/Tony Johnstone 2/media/image22.jpeg"
 style="width:1.04167in;height:1.3125in" /> 1996
 
 In Jacksonville, Texas, when they hear the whistle of the T&NO railroad
@@ -386,7 +386,7 @@ narrative, based on stories told by her father, offers a vivid picture
 of days gone by, perfectly complemented by Forbes' sun-drenched, richly
 colored paintings.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image23.jpeg"
+<img src="assets/Tony Johnstone 2/media/image23.jpeg"
 style="width:1.70694in;height:1.875in" /> 2011
 
 Wild West chaos and creative problem solving are the force behind a
@@ -401,7 +401,7 @@ Gets a Bright Idea *celebrates creativity, innovation, and the
 ubiquitous item that fills the closets of grateful jeans wearers
 worldwide.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image24.jpeg"
+<img src="assets/Tony Johnstone 2/media/image24.jpeg"
 style="width:1.68333in;height:1.99861in" /> 1997
 
 When imps and goblins and scalawags get together in a dark place, they
@@ -409,13 +409,13 @@ like to tell the scariest kind of stories they can think of: Boy
 stories! But who's that sneaking around to listen to them spin their
 spooky yarns? Can it be the scariest thing of all?
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image25.jpeg"
+<img src="assets/Tony Johnstone 2/media/image25.jpeg"
 style="width:1.04167in;height:1.3125in" /> 1990
 
 "Johnson and dePaola . . . work again in pleasing harmony to bring a
 Japanesefolktale to life . . ".—Booklist
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image26.jpeg"
+<img src="assets/Tony Johnstone 2/media/image26.jpeg"
 style="width:1.27639in;height:1.58542in" /> 2006
 
 Illustrated by a Caldecott Honour artist, this moving tribute to the
@@ -423,13 +423,13 @@ strength of family--no matter what its form--is the story of old Joseph,
 who finds a Mexican baby abandoned on a lonely L.A. street and vows to
 raise the child as his own.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image27.jpeg"
+<img src="assets/Tony Johnstone 2/media/image27.jpeg"
 style="width:1.66736in;height:1.33194in" /> 1996
 
 In Colonial Massachusetts, the ghost of a recently-buried farmer haunts
 his widow's house after a dog takes one of his bones on a long journey.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image28.jpeg"
+<img src="assets/Tony Johnstone 2/media/image28.jpeg"
 style="width:1.74861in;height:1.53542in" /> 1988
 
 Yonder uses a plum tree to trace the generations of a 19th-century farm
@@ -437,13 +437,13 @@ family. ""There comes the farmer with a brand-new bride, Riding down the
 hills that roll forever."" Bloom's lush oils capture the verdant
 hillside and the country's untamed beauty.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image29.jpeg"
+<img src="assets/Tony Johnstone 2/media/image29.jpeg"
 style="width:1.69861in;height:2.42639in" /> 1987
 
 Counting as they sing, whales use their mighty voices to pass on to one
 another the numbers from one to ten.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image30.jpeg"
+<img src="assets/Tony Johnstone 2/media/image30.jpeg"
 style="width:1.50139in;height:2.06111in" /> 1988
 
 Long ago a shepherd shared his meal of thin bread--called pages of
@@ -462,7 +462,7 @@ flock over our city, sometimes topping to converse.”
 
 Tony Johnston
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image31.jpeg"
+<img src="assets/Tony Johnstone 2/media/image31.jpeg"
 style="width:1.14583in;height:1.66736in" />
 
 <table>
@@ -733,7 +733,7 @@ of little wild birds.
 
 **The Wagon Tony Johnston**
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image32.jpeg"
+<img src="assets/Tony Johnstone 2/media/image32.jpeg"
 style="width:3.29167in;height:2.54167in" />
 
 “Like all my family, birth to grave, my skin made me a slave.” Black
@@ -753,7 +753,7 @@ plantation in the wagon, they learn that President Lincoln has been
 shot. At the end of the story, as their first free act, the boy and his
 family take the wagon to Washington to say good-bye to Mr. Lincoln.
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image33.jpeg"
+<img src="assets/Tony Johnstone 2/media/image33.jpeg"
 style="width:3.55139in;height:1.54167in" />
 
 **The Wagon Tony Johnston**
@@ -940,7 +940,7 @@ Lincoln</em>.</td>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image34.jpeg"
+<img src="assets/Tony Johnstone 2/media/image34.jpeg"
 style="width:2.74167in;height:2.79653in" />
 
 Amber’s mountain is beautiful, but it is a lonely place, until the day
@@ -1217,7 +1217,7 @@ smiled.</em></p></td>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image5.jpeg"
+<img src="assets/Tony Johnstone 2/media/image5.jpeg"
 style="width:2.41181in;height:3.29653in" />
 
 That summer the brothers ran into the sun, freed from school. Time for
@@ -1567,7 +1567,7 @@ I whispered to Joey,
 
 *Good-bye.*
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image6.jpeg"
+<img src="assets/Tony Johnstone 2/media/image6.jpeg"
 style="width:2.56597in;height:3.32222in" />
 
 When the Nazis invade Poland, a family is split apart. A harmonica keeps
@@ -1864,10 +1864,10 @@ enthralled epaulets despised grazed</em></p>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image35.jpeg"
+<img src="assets/Tony Johnstone 2/media/image35.jpeg"
 style="width:2.60417in;height:3.375in" />
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image36.jpeg"
+<img src="assets/Tony Johnstone 2/media/image36.jpeg"
 style="width:4.91667in;height:3.30208in" />
 
 Author's Note:
@@ -1886,7 +1886,7 @@ ongoing story of the power of music and the strength of the human heart.
 
 — Tony Johnston
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image37.jpeg"
+<img src="assets/Tony Johnstone 2/media/image37.jpeg"
 style="width:2.33194in;height:2.88403in" />
 
 When Manuela's sheep are stolen, she has to go to Alice Nizzy Nazzy's
@@ -2181,7 +2181,7 @@ where’s</em></p>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image3.jpeg"
+<img src="assets/Tony Johnstone 2/media/image3.jpeg"
 style="width:2.33611in;height:3.09375in" />
 
 Summary:
@@ -2491,10 +2491,10 @@ overjoyed</em></p></td>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image38.jpeg"
+<img src="assets/Tony Johnstone 2/media/image38.jpeg"
 style="width:6.83333in;height:8.82292in" />
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image4.jpeg"
+<img src="assets/Tony Johnstone 2/media/image4.jpeg"
 style="width:2.90556in;height:3.50903in" />
 
 The Vanishing Pumpkin In this "appealing, participatory, fast-paced"
@@ -2783,7 +2783,7 @@ No pie. He looked under his hat. And – there it was (along with a bat).
 
 So they all sat down and gobbled it up. Now what do you think of that?
 
-<img src="/tmp/tmp.4kPVG6UaeV/media/media/image39.jpeg"
+<img src="assets/Tony Johnstone 2/media/image39.jpeg"
 style="width:2.39653in;height:3.12569in" />
 
 A young boy is embarrassed by his grandfather's old Japanese ways, but

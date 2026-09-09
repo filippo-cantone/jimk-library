@@ -7,7 +7,7 @@ tags: [jim-k]
 ---
 
 **Tuesday by David Wiesner**
-<img src="/tmp/tmp.PVBfN8sbZl/media/media/image1.png"
+<img src="assets/David Wiesner/media/image1.png"
 style="width:1.68889in;height:1.45764in" />
 
 Review
@@ -161,7 +161,7 @@ Mentor Text:
 
 Tuesday by David Wiesner
 
-<img src="/tmp/tmp.PVBfN8sbZl/media/media/image2.jpeg"
+<img src="assets/David Wiesner/media/image2.jpeg"
 style="width:5.87361in;height:4.35278in" />
 
 *On a perfectly ordinary evening frogs soar through neighbourhoods on
@@ -195,7 +195,7 @@ Independent Writing
 Look at the last page of the book. Write a story that continues where
 David Wiesner left off. What happens on the night that pigs can fly?
 
-<img src="/tmp/tmp.PVBfN8sbZl/media/media/image3.jpeg"
+<img src="assets/David Wiesner/media/image3.jpeg"
 style="width:4.37361in;height:3.43403in" />
 
 This book won the Caldecott Medal in 2002 and was author/illustrator
@@ -227,7 +227,7 @@ this happens Wiesner uses a great amount of negative space. The
 placement of the art is no longer consistent as the pigs start their
 adventure.
 
-<img src="/tmp/tmp.PVBfN8sbZl/media/media/image4.jpeg"
+<img src="assets/David Wiesner/media/image4.jpeg"
 style="width:3.64583in;height:2.05208in" />
 
 Possible Extensions:
@@ -244,7 +244,7 @@ The Wolf's Side of the Story - Students read The True Story of the Three
 Little Pigs as told by A.Wolf by Jon Sciezka. Write your own version of
 what REALLY happened, then illustrate and publish.
 
-<img src="/tmp/tmp.PVBfN8sbZl/media/media/image5.jpeg"
+<img src="assets/David Wiesner/media/image5.jpeg"
 style="width:1.3125in;height:1.66667in" />
 
 Although just about all of us think that we know the story of the three

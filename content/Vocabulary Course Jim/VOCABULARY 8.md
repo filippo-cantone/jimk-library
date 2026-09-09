@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image1.png"
+<img src="assets/VOCABULARY 8/media/image1.png"
 style="width:3.57292in;height:4.30139in" />
 
 **VOCABULARY 8**
@@ -160,7 +160,7 @@ Brainstorm ideas for independent writing.
 
 **Goggles Ezra Jack Keats**
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image2.jpeg"
+<img src="assets/VOCABULARY 8/media/image2.jpeg"
 style="width:2.33333in;height:2.34375in" />
 
 Peter has found a rare treasure, a pair of beat-up motorcycle goggles.
@@ -1135,7 +1135,7 @@ fought and made up,</p>
 
 **Jumanji Chris Van Allsburg**
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image3.jpeg"
+<img src="assets/VOCABULARY 8/media/image3.jpeg"
 style="width:2.91667in;height:2.5in" />
 
 Plot Summary
@@ -1176,7 +1176,7 @@ instructions to Jumanji? What might happen to the Budwing boys?
 How do Peter and Judy change as a result of their adventure with
 Jumanji? What have they learnt?
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image4.jpeg"
+<img src="assets/VOCABULARY 8/media/image4.jpeg"
 style="width:4.29861in;height:3.225in" />
 
 Van Allsburg’s black-and-white pencil drawings create a richly textured
@@ -1193,7 +1193,7 @@ with the characters.
 How are the pictures framed? What does Van Allsburg choose to include
 and not to include?
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image5.jpeg"
+<img src="assets/VOCABULARY 8/media/image5.jpeg"
 style="width:5.20833in;height:4.84375in" />
 
 **Strong Verbs**
@@ -1272,7 +1272,7 @@ collect text evidence for
 
 their theories.
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image6.jpeg"
+<img src="assets/VOCABULARY 8/media/image6.jpeg"
 style="width:4.16667in;height:3.8125in" />
 
 *Adapted from Jumanji- a Teacher’s Guide.*
@@ -1713,10 +1713,10 @@ toad,
 
 who smiles a monstrous smile.
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image7.jpeg"
+<img src="assets/VOCABULARY 8/media/image7.jpeg"
 style="width:4.16667in;height:2.73889in" />
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image8.jpeg"
+<img src="assets/VOCABULARY 8/media/image8.jpeg"
 style="width:2.29167in;height:2.66667in" />
 
 Toad is not a pretty sight. Covered with warts and filled with venom, he
@@ -1727,7 +1727,7 @@ When the camouflage is peeled away and the prehistoric lizardlike
 monster tastes his repulsive catch, he spits it out with a resounding
 "yuuuuuck."
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image9.jpeg"
+<img src="assets/VOCABULARY 8/media/image9.jpeg"
 style="width:2.2875in;height:2.86319in" />
 
 **Mice and Beans Pam Munoz Ryan**
@@ -2049,7 +2049,7 @@ Not just by the stump, like most trees, but everywhere above the roots.”
 Father and son slide the toboggan onto Long Pond. The sun has set behind
 the hill. They start to walk across the frozen pond. It begins to snow.
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image10.jpeg"
+<img src="assets/VOCABULARY 8/media/image10.jpeg"
 style="width:3.18889in;height:4.16667in" />
 
 A father and his son trek through the snow to harvest a Christmas tree.
@@ -2191,7 +2191,7 @@ the phone ring.
 And they danced – *hippy hop-hop –* and they sang – *doodle wop-wop –*
 all night long.
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image11.png"
+<img src="assets/VOCABULARY 8/media/image11.png"
 style="width:3.675in;height:2.42639in" />
 
 **Tessa’s Tip-Tapping Toes Carolyn Crimi**
@@ -2204,7 +2204,7 @@ songs. One rainy day, the toe-tappin' mouse and the caterwauling cat
 meet and the two start up an infectious song and dance that soon has
 everyone joining in.
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image12.png"
+<img src="assets/VOCABULARY 8/media/image12.png"
 style="width:4.39583in;height:3.10417in" />
 
 <table>
@@ -2245,8 +2245,8 @@ Lang-Doo-Lang …”</em></p></td>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image13.png"
-style="width:2.73958in;height:2.71875in" /><img src="/tmp/tmp.Ka6yLKkr9a/media/media/image14.png"
+<img src="assets/VOCABULARY 8/media/image13.png"
+style="width:2.73958in;height:2.71875in" /><img src="assets/VOCABULARY 8/media/image14.png"
 style="width:2.09375in;height:2.53194in" />
 
 The summary on the copyright page of Tessa's Tip-tapping Toes reads:
@@ -2501,7 +2501,7 @@ pirates-Monopoly-Twister!
 
 **Ted Tony DiTerlizzi**
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image15.jpeg"
+<img src="assets/VOCABULARY 8/media/image15.jpeg"
 style="width:3.92639in;height:3.92639in" />
 
 This is the story of a father and a son and the big,
@@ -2564,7 +2564,7 @@ lost it … somewhere …”</em></p></td>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image16.jpeg"
+<img src="assets/VOCABULARY 8/media/image16.jpeg"
 style="width:1.71944in;height:3.02153in" />
 
 **Skippyjon Jones Judy Schachner**
@@ -2797,7 +2797,7 @@ But forget about that …”
 
 “*Buenas noches, mis amigos,”* said Skippyjon Jones.
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image17.jpeg"
+<img src="assets/VOCABULARY 8/media/image17.jpeg"
 style="width:5.53194in;height:1.31389in" />
 
 **Judy Schachner**
@@ -2899,7 +2899,7 @@ leading to an adventure.
 
 **Because of Winn-Dixie Kate DiCamillo**
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image18.jpeg"
+<img src="assets/VOCABULARY 8/media/image18.jpeg"
 style="width:1.85694in;height:2.48958in" />
 
 The summer Opal and her father, the preacher, move to Naomi, Florida,
@@ -3614,7 +3614,7 @@ bless you, baby."
 
 And I feel that I have been blessed. Over and over again.
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image19.jpeg"
+<img src="assets/VOCABULARY 8/media/image19.jpeg"
 style="width:1.58333in;height:2.28125in" />
 
 I was born in Philadelphia, Pennsylvania, raised in Clermont, Florida,
@@ -3687,7 +3687,7 @@ strike out on your own.
 
 **Oh Yeah! Tom Birdseye**
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image20.jpeg"
+<img src="assets/VOCABULARY 8/media/image20.jpeg"
 style="width:2.08194in;height:1.875in" />
 
 (from Tom’s Website)
@@ -3729,7 +3729,7 @@ get the experience on paper. What came out of it was OH YEAH**!**
 
 **From The Story**
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image21.jpeg"
+<img src="assets/VOCABULARY 8/media/image21.jpeg"
 style="width:2.08194in;height:1.85347in" />
 
 One time my friend Jared and I camped out in the backyard.
@@ -3741,7 +3741,7 @@ One time my friend Jared and I camped out in the backyard.
 Even though big, hairy, kid-eating monsters only come out at night, I
 turned off my flashlight. "I could stay out here all night in the dark!"
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image22.jpeg"
+<img src="assets/VOCABULARY 8/media/image22.jpeg"
 style="width:2.08194in;height:1.89583in" />
 
 But Jared looked me right in the eye and said, "Oh yeah? I could stay
@@ -3849,7 +3849,7 @@ Be stubborn. As I said before, it takes time, patience, and practice to
 achieve your goal. Hang in there! Don't give up! Everyone has a story to
 tell, and that includes YOU!
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image23.jpeg"
+<img src="assets/VOCABULARY 8/media/image23.jpeg"
 style="width:2.27986in;height:3.09236in" />
 
 **Words, Words, Words Tom Birdseye**
@@ -4164,10 +4164,10 @@ across the sky.
 
 Good-night clouds.
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image24.png"
+<img src="assets/VOCABULARY 8/media/image24.png"
 style="width:5.25in;height:3.66667in" />
 
-<img src="/tmp/tmp.Ka6yLKkr9a/media/media/image25.jpeg"
+<img src="assets/VOCABULARY 8/media/image25.jpeg"
 style="width:6in;height:4.5in" />
 
 Possible Lessons:

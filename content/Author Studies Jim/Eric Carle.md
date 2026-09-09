@@ -8,12 +8,12 @@ tags: [jim-k]
 
 **Eric Carle**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image1.jpeg"
+<img src="assets/Eric Carle/media/image1.jpeg"
 style="width:4.775in;height:7.12361in" />
 
 **Biographical Notes for Eric Carle**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image2.jpeg"
+<img src="assets/Eric Carle/media/image2.jpeg"
 style="width:1.58333in;height:2.08333in" />
 
 Eric Carle is acclaimed and beloved as the creator of brilliantly
@@ -91,7 +91,7 @@ of North Carolina.
 
 **Eric Carle - some of his books**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image3.png"
+<img src="assets/Eric Carle/media/image3.png"
 style="width:0.75in;height:0.97917in" /> **Brown Bear, Brown Bear, What
 Do You See?** written by Bill Martin Jr, 1967
 
@@ -99,7 +99,7 @@ Appealing animals in bold colours are seen and named in a rhyming
 question-and-response text that delights as it invites young readers and
 listeners to participate actively.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image4.png"
+<img src="assets/Eric Carle/media/image4.png"
 style="width:0.75in;height:1in" /> **1, 2, 3 to the Zoo,** 1968
 
 Fun and learning add up to a perfect 10 in this eloquent but wordless
@@ -107,7 +107,7 @@ counting book. Bright pictures tell the story: each car on the train has
 one more zoo animal than the one before it, and all arrive happily at
 the zoo in a dramatic foldout finale.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image5.png"
+<img src="assets/Eric Carle/media/image5.png"
 style="width:1.06181in;height:0.75in" /> **The Very Hungry
 Caterpillar**, 1969
 
@@ -116,7 +116,7 @@ it grows from egg to cocoon to beautiful butterfly, but also teaches the
 days of the week, counting, good nutrition and more. Striking pictures
 and cleverly die-cut pages offer interactive fun.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image6.png"
+<img src="assets/Eric Carle/media/image6.png"
 style="width:0.75in;height:1.05208in" /> **Pancakes, Pancakes!,** 1970
 
 Jack wants some pancakes, but first he must gather eggs from the
@@ -124,14 +124,14 @@ chickens, wheat from the farmer, flour from the miller, milk from the
 cow, etc. His mother shows him how to cook and flip them, and hungry
 Jack knows what to do with them next.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image7.png"
+<img src="assets/Eric Carle/media/image7.png"
 style="width:0.75in;height:1.03125in" /> **The Tiny Seed, 1970**
 
 Poetic but simple text and lovely collage pictures dramatize the life
 cycle of all plants, as one tiny seed grows into an enormous sunflower,
 which then produces more seeds in its turn.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image8.png"
+<img src="assets/Eric Carle/media/image8.png"
 style="width:0.96875in;height:0.75in" /> **Do You Want to Be My Friend?
 1971**
 
@@ -140,7 +140,7 @@ friend - and happily finds one just in time to save himself from a
 predator who has been hiding there all the time - unseen, but in plain
 sight! A simple story on the universal theme of friendship.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image9.png"
+<img src="assets/Eric Carle/media/image9.png"
 style="width:0.75in;height:1.04167in" /> **Rooster’s Off to See the
 World, 1972**
 
@@ -148,7 +148,7 @@ Rooster and the colourful animals that join him on his journey to see
 the world, provide an enjoyable introduction to the meaning of numbers
 and sets.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image10.png"
+<img src="assets/Eric Carle/media/image10.png"
 style="width:0.75in;height:1.01042in" /> **The Secret Birthday Message,
 1972**
 
@@ -157,14 +157,14 @@ dark cave, an underground tunnel, and other strange places until he
 finds a happy surprise. Die-cut pages demonstrate in a “hands on” way
 the meanings of place-words like up, below, through, etc.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image11.png"
+<img src="assets/Eric Carle/media/image11.png"
 style="width:0.75in;height:1.03125in" /> **Walter the Baker, 1972**
 
 By order of the Duke, Walter the Baker must invent a tasty roll through
 which the rising sun can shine three times. A lively and colourful
 retelling of the legend of the invention of the pretzel.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image12.png"
+<img src="assets/Eric Carle/media/image12.png"
 style="width:1.03194in;height:0.75in" /> **Have You Seen My Cat?, 1973**
 
 A boy’s beloved pet cat has disappeared and he sets out to find it. In
@@ -172,7 +172,7 @@ his search he meets many different kinds of cats, both wild and
 domesticated, before he finally discovers his own cat, who has a happy
 surprise for him. (Can you guess what it is?)
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image13.png"
+<img src="assets/Eric Carle/media/image13.png"
 style="width:0.75in;height:1.01042in" /> **I See a Song, 1973**
 
 As a violinist, shown in black and white, starts to play, colourful
@@ -182,7 +182,7 @@ into a many-coloured figure, bows and leaves. Wordless, this beautiful
 book encourages children to develop their own visual and musical
 imagination and creativity.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image14.png"
+<img src="assets/Eric Carle/media/image14.png"
 style="width:0.75in;height:1.01042in" /> **The Hole in the Dike written
 by Norma Green, 1975**
 
@@ -191,7 +191,7 @@ leak in the dike all night long, preventing the damage from spreading,
 and so saved his town from a devastating flood. Inspiring story of a
 courageous small boy.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image15.png"
+<img src="assets/Eric Carle/media/image15.png"
 style="width:0.75in;height:1.03194in" /> **The Mixed-Up Chameleon,
 1975**
 
@@ -199,7 +199,7 @@ Hilarious pictures show what happens when a bored chameleon wishes it
 could be more like other animals, but is finally convinced it would
 rather just be itself. An imagination-stretcher for children.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image16.png"
+<img src="assets/Eric Carle/media/image16.png"
 style="width:0.75in;height:0.72847in" /> **The Grouchy Ladybug, 1977**
 
 A grouchy ladybug who is looking for a fight challenges everyone it
@@ -208,7 +208,7 @@ its comeuppance and learns the pleasures to be gained by cheerfulness
 and good manners is an amusing lesson in social behaviour. Die-cut pages
 add drama and dimension.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image17.png"
+<img src="assets/Eric Carle/media/image17.png"
 style="width:1.01042in;height:0.75in" /> **The Very Busy Spider, 1984**
 
 With the use of raised printing, this innovative book adds the sense of
@@ -219,7 +219,7 @@ she persists and produces a thing of both beauty and usefulness. Enjoyed
 by all audiences, this book’s tactile element makes it especially
 interesting to the visually-impaired.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image18.png"
+<img src="assets/Eric Carle/media/image18.png"
 style="width:0.75in;height:1.02083in" /> **Papa, Please Get the Moon for
 Me, 1986**
 
@@ -229,7 +229,7 @@ Monica’s father fulfills her request by bringing the moon down from the
 sky after it’s small enough to carry, but it continues to change in
 size.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image19.png"
+<img src="assets/Eric Carle/media/image19.png"
 style="width:0.75in;height:1.04167in" /> **A House for Hermit Crab,
 1987**
 
@@ -239,7 +239,7 @@ readers an interesting first introduction to marine biology as well as
 an appealing story of Hermit Crab’s search for a house he can really
 call his home, as he grows throughout one year’s cycle.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image20.png"
+<img src="assets/Eric Carle/media/image20.png"
 style="width:1.04167in;height:0.75in" /> **The Very Quiet Cricket,
 1990**
 
@@ -249,7 +249,7 @@ young cricket longs to make a sound by rubbing his wings together as
 many other crickets do. How he finally gets his wish is a romantic tale
 as well as a first look at natural history for the very young.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image21.png"
+<img src="assets/Eric Carle/media/image21.png"
 style="width:0.75in;height:0.92708in" /> **Polar Bear, Polar Bear, What
 Do You Hear? written by Bill Martin Jr, 1991**
 
@@ -257,7 +257,7 @@ Easy, repetitive question-and-response text draws children into joyful
 interaction as they imitate the sounds of a variety of zoo animals for
 the zookeeper. Big, bold animal illustrations and lots of noisy fun.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image22.png"
+<img src="assets/Eric Carle/media/image22.png"
 style="width:0.75in;height:1in" /> **Draw Me a Star, 1992**
 
 The artist’s drawing of a star begins the creation of an entire universe
@@ -267,7 +267,7 @@ drawing a star (directions included), this seemingly simple story also
 provides insights into an artist’s private world of creativity. An
 inspiring book.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image23.png"
+<img src="assets/Eric Carle/media/image23.png"
 style="width:0.75in;height:0.98958in" /> **Today Is Monday, 1993**
 
 Based on the well-known children’s song, funny, full-color pictures show
@@ -275,7 +275,7 @@ the foods featured for each day of the week. In a thoughtful new ending
 to the familiar text, all the world’s children are invited on Sunday to
 come and eat it up.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image24.png"
+<img src="assets/Eric Carle/media/image24.png"
 style="width:0.75in;height:1in" /> **My Apron, 1994**
 
 A little boy longs to help his uncle, a mason, plaster the chimney. He
@@ -284,7 +284,7 @@ to do his own small share in real “grown-up” work. A touching story with
 a valuable message, illustrated in a striking technique using a strong
 black outline over bright colour.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image25.png"
+<img src="assets/Eric Carle/media/image25.png"
 style="width:1.03125in;height:0.75in" /> **The Very Lonely Firefly,
 1995**
 
@@ -295,7 +295,7 @@ quite right—until the happy surprise at the very end when the
 illustration of a swarm of friendly fireflies literally shines and
 twinkles a welcome in the night. Heartwarming.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image26.png"
+<img src="assets/Eric Carle/media/image26.png"
 style="width:0.75in;height:0.98958in" /> **Little Cloud, 1996**
 
 Every child loves to see fanciful shapes in the clouds. But what are
@@ -304,7 +304,7 @@ and turns itself into a series of wonderful forms - a sheep, an
 airplane, a hat, a clown - before rejoining the other clouds as they
 perform their real function: making rain.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image27.png"
+<img src="assets/Eric Carle/media/image27.png"
 style="width:0.75in;height:0.98958in" /> **From Head to Toe, 1997**
 
 “I can do it!” is the confidence-building message of this book. As young
@@ -315,7 +315,7 @@ From Head to Toe introduces the basic body parts and simple body
 movements - the ABC’s of dancing, gymnastics, and other sports
 activities.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image28.png"
+<img src="assets/Eric Carle/media/image28.png"
 style="width:0.75in;height:1.17708in" /> **Flora and Tiger: 19 very
 short stories from my life, 1997**
 
@@ -329,7 +329,7 @@ the author. They come from various places and times of his life and have
 three things in common: animals or insects, friends or relatives, and
 Eric Carle.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image29.png"
+<img src="assets/Eric Carle/media/image29.png"
 style="width:1.04097in;height:0.99861in" /> **Hello, Red Fox, 1998**
 
 Mama Frog gets a big surprise when the guests arrive for Little Frog’s
@@ -339,7 +339,7 @@ the animals in their more familiar colours. In this book, Eric Carle
 invites readers to discover complementary colours while enjoying the
 amusing story of Little Frog and his colourful friends.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image30.png"
+<img src="assets/Eric Carle/media/image30.png"
 style="width:0.97778in;height:0.72847in" /> **The Very Clumsy Click
 Beetle, 1999**
 
@@ -350,7 +350,7 @@ older beetle can already do so well. They will understand, too, its
 frustration when at first it fails. And they will surely rejoice in its
 eventual spectacular triumph.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image31.png"
+<img src="assets/Eric Carle/media/image31.png"
 style="width:1.04167in;height:0.84375in" /> ***Does A Kangaroo Have A
 Mother, Too?*, 2000**  
 Meet the little joey, whose kangaroo mother carries him in her pouch.
@@ -359,7 +359,7 @@ colourful collages of animal babies with their caring and affectionate
 mothers offer small readers visual delight as well as comforting
 reassurance.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image32.png"
+<img src="assets/Eric Carle/media/image32.png"
 style="width:1.04097in;height:0.98958in" /> **Dream Snow, 2000**
 
 It’s Christmas Eve, and an old farmer settles down for nap, wondering
@@ -368,7 +368,7 @@ asleep and in his dream, he imagines snowflakes covering him and his
 animals. He awakens to discover it really has snowed. A surprise at the
 end of the book makes this a truly magical Christmas.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image33.png"
+<img src="assets/Eric Carle/media/image33.png"
 style="width:0.75in;height:1.05208in" /> **“Slowly, Slowly, Slowly,”
 said the Sloth, 2002**
 
@@ -379,7 +379,7 @@ are you so slow? Why are you so quiet? Why are you so lazy?” the others
 ask the sloth. And, after a long, long time, the sloth finally tells
 them!
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image34.png"
+<img src="assets/Eric Carle/media/image34.png"
 style="width:0.75in;height:0.92708in" /> **Panda Bear, Panda Bear, What
 Do You See? written by Bill Martin Jr, 2003**
 
@@ -387,7 +387,7 @@ Panda Bear, Panda Bear, What Do You See? is told from the point of view
 of endangered creatures, and one dreaming child; each page a tribute to
 wild animals and their freedom.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image35.png"
+<img src="assets/Eric Carle/media/image35.png"
 style="width:0.75in;height:1.05208in" /> **Mister Seahorse, 2004**
 
 Mister Seahorse and fellow fish fathers who care for their
@@ -395,7 +395,7 @@ soon-to-be-hatched offspring, share their stories while acetate pages
 reveal camouflaged creatures who bear witness to the conversation
 between fathers with fins.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image36.jpeg"
+<img src="assets/Eric Carle/media/image36.jpeg"
 style="width:0.75in;height:0.9375in" /> **Baby Bear, Baby Bear, What Do
 You See?, 2007**
 
@@ -405,7 +405,7 @@ ages will enjoy the rich, colorful illustrations and heartfelt story of
 this last collaboration in a series that has helped millions learn to
 read.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image37.jpeg"
+<img src="assets/Eric Carle/media/image37.jpeg"
 style="width:0.75in;height:0.99861in" /> **The Artist who Painted a Blue
 Horse, 2011**
 
@@ -419,7 +419,7 @@ this experience changed my life, though I didn't know it at the time.
 
 I hope you will enjoy my story and pictures!
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image38.jpeg"
+<img src="assets/Eric Carle/media/image38.jpeg"
 style="width:1.37639in;height:1.37639in" />FRIENDS is a story inspired
 by more than one friendship in my own life, one that I had as a three
 year old boy, as a 6 year old taken by my parents to Germany, and
@@ -452,10 +452,10 @@ is just one approach. There are many wonderful artists to learn about,
 which is important. But you must use your own imagination. You have to
 just do it.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image39.jpeg"
+<img src="assets/Eric Carle/media/image39.jpeg"
 style="width:5.46875in;height:2.03125in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image40.png"
+<img src="assets/Eric Carle/media/image40.png"
 style="width:4.11319in;height:2.825in" />
 
 **The Very Hungry Caterpillar Eric Carle**
@@ -488,10 +488,10 @@ Lead: *In the light of the moon …..*
 
 Words: discuss cocoon/chrysalis
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image41.jpeg"
+<img src="assets/Eric Carle/media/image41.jpeg"
 style="width:2.60347in;height:1.86597in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image42.jpeg"
+<img src="assets/Eric Carle/media/image42.jpeg"
 style="width:5.78125in;height:5.19792in" />
 
 **The Very Hungry Caterpillar Eric Carle**
@@ -534,7 +534,7 @@ pushed his way out and…
 
 he was a beautiful butterfly**!**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image43.jpeg"
+<img src="assets/Eric Carle/media/image43.jpeg"
 style="width:3.69792in;height:1.47917in" />
 
 Story told using puppets – The Very Hungry Caterpillar by Eric Carle.
@@ -567,7 +567,7 @@ The caterpillar’s favourite food was \_\_\_\_\_\_\_\_\_\_\_\_ because
 During the year add the word ‘because’ to the Prep’s high frequency
 list. (It doubles the amount of writing the students do in a sentence.)
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image44.jpeg"
+<img src="assets/Eric Carle/media/image44.jpeg"
 style="width:2.46875in;height:3.11458in" />
 
 **The Very Hungry Caterpillar**
@@ -582,7 +582,7 @@ style="width:2.46875in;height:3.11458in" />
 
 **\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image45.jpeg"
+<img src="assets/Eric Carle/media/image45.jpeg"
 style="width:2.70833in;height:2.73958in" />
 
 **The Grouchy Ladybug, 1977**
@@ -595,7 +595,7 @@ add drama and dimension.
 
 **Lady Bugs**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image46.jpeg"
+<img src="assets/Eric Carle/media/image46.jpeg"
 style="width:4.42778in;height:2.94861in" />
 
 Craft:
@@ -618,7 +618,7 @@ What the Ladybug Heard by Julia Donaldson
 
 (good for phonological awareness)
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image47.jpeg"
+<img src="assets/Eric Carle/media/image47.jpeg"
 style="width:2.25in;height:2.24097in" />
 
 Lessons:
@@ -633,7 +633,7 @@ Independent Writing: Innovation on text.
 
 The Friendly Ladybug
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image48.jpeg"
+<img src="assets/Eric Carle/media/image48.jpeg"
 style="width:2.38681in;height:3.37431in" />
 
 Questioning to drive writing poetry.
@@ -743,10 +743,10 @@ means they rest until it gets warmer..
 These are just a few random facts about ladybugs. Ladybugs are
 fascinating creatures that add to the beauty of our world.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image49.jpeg"
+<img src="assets/Eric Carle/media/image49.jpeg"
 style="width:3.11389in;height:3.00833in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image50.png"
+<img src="assets/Eric Carle/media/image50.png"
 style="width:2.25in;height:2.16667in" />
 
 Hello, Red Fox is a delightfully simple and funny story that lets his
@@ -775,7 +775,7 @@ at his friends long enough. And sure enough, when the reader stares at
 the guests and then at the white facing pages, the animals show their
 true colours.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image51.png"
+<img src="assets/Eric Carle/media/image51.png"
 style="width:3in;height:3in" />
 
 **Looking Together - Sharing Hello, Red Fox with Children**
@@ -815,7 +815,7 @@ of the story. Is a red fox what they see? Yes! Repeat this exercise for
 the butterfly, cat, snake, bird, fish, and flower. Have the children
 rest their eyes between each animal.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image52.png"
+<img src="assets/Eric Carle/media/image52.png"
 style="width:1.71875in;height:2.08333in" />
 
 Johann Wolfgang von Goethe (1749 - 1832) German poet, novelist, and
@@ -904,7 +904,7 @@ children that it is not, that something is taking place between the eye
 and the brain. My optometrist, Dr. Grossman, tells me it is called
 “simultaneous contrast after-image.”
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image53.png"
+<img src="assets/Eric Carle/media/image53.png"
 style="width:3.84375in;height:2.30208in" />
 
 **Today is Monday by Eric Carle**
@@ -919,7 +919,7 @@ kids gathers around a big table to feast on all the foods mentioned —
 the perfect response to the lyric "all you hungry children...come and
 eat it up!"
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image54.jpeg"
+<img src="assets/Eric Carle/media/image54.jpeg"
 style="width:2.39583in;height:2.625in" />
 
 Innovation on text.
@@ -1026,7 +1026,7 @@ All you hungry children
 
 Come and eat it up!
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image55.jpeg"
+<img src="assets/Eric Carle/media/image55.jpeg"
 style="width:4.29861in;height:2.84653in" />
 
 **Rooster’s Off to See the World Eric Carle**
@@ -1036,7 +1036,7 @@ simple introduction to numbers, addition and subtraction for the early
 years as rooster meets some friends who join him. But what will happen
 when it gets dark?
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image56.jpeg"
+<img src="assets/Eric Carle/media/image56.jpeg"
 style="width:2.00069in;height:2.44792in" />
 
 Reader’s Theatre – see Readers’ Theatre course.
@@ -1129,15 +1129,15 @@ perch.
 After a while he went to sleep and had a wonderful happy dream – all
 about a trip around the world.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image57.jpeg"
+<img src="assets/Eric Carle/media/image57.jpeg"
 style="width:3.125in;height:2.4375in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image58.jpeg"
+<img src="assets/Eric Carle/media/image58.jpeg"
 style="width:3.12361in;height:3.80069in" />
 
 **Brown Bear Tells a Story**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image59.jpeg"
+<img src="assets/Eric Carle/media/image59.jpeg"
 style="width:3.28125in;height:2.25in" />
 
 Brown Bear, Brown Bear, What Do You See? was first published in 1967 and
@@ -1160,7 +1160,7 @@ tissue papers in various shades of color. I would use crayon and paint
 to add texture, but over time these papers faded and the rubber cement I
 was using discoloured the papers and did not last as an adhesive.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image60.jpeg"
+<img src="assets/Eric Carle/media/image60.jpeg"
 style="width:3.33333in;height:2.10417in" />
 
 Eventually, I started painting my own papers to achieve even greater
@@ -1173,16 +1173,16 @@ because the original work had faded and needed to be recreated for
 reprints of the books. Fortunately, using archival materials made for
 more long-lasting art work that we hope will last for years to come.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image61.jpeg"
+<img src="assets/Eric Carle/media/image61.jpeg"
 style="width:5.20833in;height:3.88542in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image62.jpeg"
+<img src="assets/Eric Carle/media/image62.jpeg"
 style="width:2.41458in;height:3in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image63.jpeg"
+<img src="assets/Eric Carle/media/image63.jpeg"
 style="width:3.125in;height:3.73958in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image64.jpeg"
+<img src="assets/Eric Carle/media/image64.jpeg"
 style="width:3.12569in;height:3.85486in" />
 
 **Brown Bear, Brown Bear, What do You See?**
@@ -1235,14 +1235,14 @@ We see a brown bear, a red bird, a yellow duck, a blue horse, a green
 frog, a purple cat, a white dog, a black sheep, a goldfish and a monkey
 looking at us. That’s what we see.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image65.jpeg"
+<img src="assets/Eric Carle/media/image65.jpeg"
 style="width:4.94792in;height:3.5625in" />
 
 My book The Very Quiet Cricket is really a love story. For when they
 find each other, "...he chirped the most beautiful sound that she had
 ever heard."
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image66.jpeg"
+<img src="assets/Eric Carle/media/image66.jpeg"
 style="width:3.75in;height:2.73958in" />
 
 **The Very Quiet Cricket Eric Carle**
@@ -1317,7 +1317,7 @@ And this time…
 
 …he chirped the most beautiful sound that she had ever heard**.**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image67.jpeg"
+<img src="assets/Eric Carle/media/image67.jpeg"
 style="width:1.95833in;height:2.60417in" />
 
 Mister Seahorse is a very caring father. Unlike many other wild animals,
@@ -1327,7 +1327,7 @@ transparent pages, readers learn about seahorse and the many undersea
 wildlife whose fathers play an important role in the upbringing of their
 babies.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image68.jpeg"
+<img src="assets/Eric Carle/media/image68.jpeg"
 style="width:4.125in;height:4.16667in" />
 
 I created my book Dream Snow after a two year “sabbatical” from making
@@ -1339,16 +1339,16 @@ animals, and a celebration of Christmas. You might have noticed that
 instead of a white background the animals in this book are set in front
 of bright colourful swatches of painted tissue papers as background.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image69.jpeg"
+<img src="assets/Eric Carle/media/image69.jpeg"
 style="width:2.25in;height:2.25in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image70.jpeg"
+<img src="assets/Eric Carle/media/image70.jpeg"
 style="width:2.25in;height:2.25in" />
 
 This was a change from my previous way of working. My time away making
 abstract art was influencing my book art.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image71.jpeg"
+<img src="assets/Eric Carle/media/image71.jpeg"
 style="width:2.25in;height:2.25in" />
 
 I had always been reluctant about making a Christmas book, but when the
@@ -1470,12 +1470,12 @@ mittens.**
 
 **“Merry Christmas!” he shouted.**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image72.jpeg"
+<img src="assets/Eric Carle/media/image72.jpeg"
 style="width:2.48333in;height:3.43333in" />
 
 **A Pretzel Story**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image73.jpeg"
+<img src="assets/Eric Carle/media/image73.jpeg"
 style="width:3.75in;height:2.65625in" />
 
 I recently read an article about pretzels in the New York Times that
@@ -1497,14 +1497,14 @@ a boy. But I truly had an uncle named Walter who was a baker and who
 baked, along with all kinds of bread, cookies, cakes and rolls;
 pretzels!
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image74.jpeg"
+<img src="assets/Eric Carle/media/image74.jpeg"
 style="width:2.15694in;height:3.12569in" />
 
 When Hermit Crab outgrows his shell, he finds another shell that fits
 but looks rather plain. So he recruits a sea anemone, starfish and
 others to help him add some pizzazz.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image75.jpeg"
+<img src="assets/Eric Carle/media/image75.jpeg"
 style="width:3.12569in;height:1.69792in" />
 
 **A House for Hermit Crab Eric Carle**
@@ -1666,10 +1666,10 @@ spots on their bodies that light up their dark surroundings. Some
 lanternfish have a lantern-like organ that dangles in front of their
 mouths, attracting other fish which become their prey.*
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image76.jpeg"
+<img src="assets/Eric Carle/media/image76.jpeg"
 style="width:6.24861in;height:8.79236in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image77.jpeg"
+<img src="assets/Eric Carle/media/image77.jpeg"
 style="width:5.625in;height:2.33333in" />
 
 **You’ve said that you started out in advertising. Bill Martin Jr saw
@@ -1734,13 +1734,13 @@ interested in the transition from home to school, as this was a
 challenging period in my own childhood. I hope my books will help to
 make transitions easier for children.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image78.jpeg"
+<img src="assets/Eric Carle/media/image78.jpeg"
 style="width:3.75in;height:4.09375in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image79.jpeg"
+<img src="assets/Eric Carle/media/image79.jpeg"
 style="width:2.30208in;height:3.33333in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image80.jpeg"
+<img src="assets/Eric Carle/media/image80.jpeg"
 style="width:2.82292in;height:3.75in" />
 
 Eric Carle’s The Artist who Painted a Blue Horse came out in 2011 as a
@@ -1754,10 +1754,10 @@ sentence expresses Eric Carle’s deep belief that the imagination cannot
 and should not be hindered. In fact, his own creative process is a
 testament to this.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image81.jpeg"
+<img src="assets/Eric Carle/media/image81.jpeg"
 style="width:4.16667in;height:3.35417in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image82.jpeg"
+<img src="assets/Eric Carle/media/image82.jpeg"
 style="width:5.78125in;height:5.42708in" />
 
 **Writing**
@@ -1765,7 +1765,7 @@ style="width:5.78125in;height:5.42708in" />
 Choose one of the colourful animals in the book and write a story about
 it.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image83.jpeg"
+<img src="assets/Eric Carle/media/image83.jpeg"
 style="width:6.50069in;height:3.64444in" />
 
 The child in the book paints a number of animals with unconventional
@@ -1805,7 +1805,7 @@ green lion or a polka-dotted donkey is still a bit of a shock, he says.
 "So in a small way, I repeat the shock I went through, I think. Of
 course, I'm not too sure it will work that way."
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image84.jpeg"
+<img src="assets/Eric Carle/media/image84.jpeg"
 style="width:2.08125in;height:2.99653in" />
 
 **How I developed the idea for From Head to Toe by Eric Carle**
@@ -1891,7 +1891,7 @@ discussions and exchanged notes and sketches until story and pictures
 had been arranged in a pleasing and sensible way, and we both felt that
 we had done our best.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image85.png"
+<img src="assets/Eric Carle/media/image85.png"
 style="width:6.66667in;height:1.84375in" />
 
 When I started this book, my wife mentioned a rhyme that she, as a
@@ -1913,7 +1913,7 @@ Touch your elbows where they bend,
 
 That’s the way this touch game ends.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image86.png"
+<img src="assets/Eric Carle/media/image86.png"
 style="width:6.875in;height:2.66667in" />
 
 I liked this rhyme very much, and I made these drawings but, in the end,
@@ -1931,7 +1931,7 @@ helps me establish the flow of the storyline. This is a very important
 stage in designing a 32-page book. (Most picture books have 32 pages.) I
 may quickly sketch a dozen or two of these until the layout feels right.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image87.png"
+<img src="assets/Eric Carle/media/image87.png"
 style="width:6.44792in;height:5.09375in" />
 
 I considered including an octopus for the arm exercises, but this became
@@ -1940,29 +1940,29 @@ showing an octopus in an aquarium or beach scene would interrupt the
 pace of the book. On the other hand, an octopus without water would be
 unnatural.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image88.png"
+<img src="assets/Eric Carle/media/image88.png"
 style="width:5.99722in;height:1.62222in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image89.png"
+<img src="assets/Eric Carle/media/image89.png"
 style="width:5.91667in;height:4.07292in" />
 
 I decided on the monkey for the arm exercise instead, because monkey’s
 arms are also very expressive.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image90.png"
+<img src="assets/Eric Carle/media/image90.png"
 style="width:6.5625in;height:2.25in" />
 
 Early on, I thought of illustrating this book with animals only, but
 later decided to have children imitate the animals’ actions.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image91.png"
+<img src="assets/Eric Carle/media/image91.png"
 style="width:5.85417in;height:3.91667in" />
 
 This is the final image that I used in the book.
 
 **The Seed that Grows into a Story**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image92.jpeg"
+<img src="assets/Eric Carle/media/image92.jpeg"
 style="width:1.3125in;height:2.45833in" />
 
 Sometimes ideas for my books seem to burst into bloom. But often the
@@ -1973,7 +1973,7 @@ school. I had a strong aversion to physical exercise and sports and felt
 pressured by the competitive nature of physical education. As a result,
 I often skipped gym class.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image93.jpeg"
+<img src="assets/Eric Carle/media/image93.jpeg"
 style="width:3.33333in;height:2.19792in" />
 
 Years later, as an adult, I suffered from back pain (while I enjoyed
@@ -1992,10 +1992,10 @@ had as a school boy who didn't like gym class), and the outside event
 (doing the exercises given to me by my massage therapist) somehow
 mingled together to make a book.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image94.jpeg"
+<img src="assets/Eric Carle/media/image94.jpeg"
 style="width:4.875in;height:3.46875in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image95.jpeg"
+<img src="assets/Eric Carle/media/image95.jpeg"
 style="width:4.16597in;height:3.13472in" />
 
 **The Very Busy Spider, 1984**
@@ -2130,34 +2130,34 @@ The spider didn’t answer. She had fallen asleep.
 
 It had been a very, very busy day.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image96.jpeg"
+<img src="assets/Eric Carle/media/image96.jpeg"
 style="width:2.54167in;height:2.60417in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image97.jpeg"
+<img src="assets/Eric Carle/media/image97.jpeg"
 style="width:6.96875in;height:9.29097in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image98.jpeg"
+<img src="assets/Eric Carle/media/image98.jpeg"
 style="width:4.16667in;height:3.02986in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image99.jpeg"
+<img src="assets/Eric Carle/media/image99.jpeg"
 style="width:4.16667in;height:2.91597in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image100.jpeg"
+<img src="assets/Eric Carle/media/image100.jpeg"
 style="width:4.16667in;height:3.19792in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image101.jpeg"
+<img src="assets/Eric Carle/media/image101.jpeg"
 style="width:2.59861in;height:3.37569in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image102.jpeg"
+<img src="assets/Eric Carle/media/image102.jpeg"
 style="width:2.47222in;height:3.625in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image103.jpeg"
+<img src="assets/Eric Carle/media/image103.jpeg"
 style="width:2.31528in;height:3.5in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image104.jpeg"
+<img src="assets/Eric Carle/media/image104.jpeg"
 style="width:7.29236in;height:5.33333in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image105.jpeg"
+<img src="assets/Eric Carle/media/image105.jpeg"
 style="width:2.48681in;height:3.41597in" />
 
 The Peaceful Sloth
@@ -2173,7 +2173,7 @@ weight consume; this expressionless critter who lives by itself and
 rarely makes a noise seemed the perfect antidote to the hectic situation
 I found myself in.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image106.jpeg"
+<img src="assets/Eric Carle/media/image106.jpeg"
 style="width:3.75in;height:2.73958in" />
 
 Our lives have become increasingly frenetic. We are constantly bombarded
@@ -2183,7 +2183,7 @@ computers, fly and drive in all directions. Maybe the peaceful Sloth can
 teach us something...? This image is an alternative collage illustration
 that was not used in my book Slowly, Slowly, Slowly, said the Sloth.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image107.png"
+<img src="assets/Eric Carle/media/image107.png"
 style="width:3.125in;height:4.07292in" />
 
 The inspiration for Eric Carle's 10 Little Rubber Ducks came from the
@@ -2224,26 +2224,26 @@ animals.
 pictures on headbands, or punch holes to wear as a necklace – or even
 glue them onto construction paper for the children to hold.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image108.jpeg"
+<img src="assets/Eric Carle/media/image108.jpeg"
 style="width:2.39653in;height:3.10486in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image109.jpeg"
+<img src="assets/Eric Carle/media/image109.jpeg"
 style="width:2.39653in;height:3.10486in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image110.jpeg"
+<img src="assets/Eric Carle/media/image110.jpeg"
 style="width:2.39653in;height:3.10278in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image111.jpeg"
+<img src="assets/Eric Carle/media/image111.jpeg"
 style="width:2.39653in;height:3.10278in" />
 
 **NUMERAL RECOGNITION –** for students still needing it. Pictures of
 numbered ducks, or even more fun to get small plastic ducks (they come 2
 in a pack) from a dollar store or somewhere, and put numbers on them!
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image112.jpeg"
+<img src="assets/Eric Carle/media/image112.jpeg"
 style="width:2.39653in;height:3.10278in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image113.jpeg"
+<img src="assets/Eric Carle/media/image113.jpeg"
 style="width:2.39653in;height:3.10278in" />
 
 **COUNTING BACKWARDS!** You could also use these pictures or the plastic
@@ -2262,16 +2262,16 @@ cutting out the boxes they could glue on the numbers counting to 50 by
 10′s on the back, and then glue them onto the boat. That would give them
 a more concrete idea of what it means to count by 10′s.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image114.jpeg"
+<img src="assets/Eric Carle/media/image114.jpeg"
 style="width:3.12569in;height:2.41667in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image115.jpeg"
+<img src="assets/Eric Carle/media/image115.jpeg"
 style="width:3.12569in;height:2.41667in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image116.jpeg"
+<img src="assets/Eric Carle/media/image116.jpeg"
 style="width:3.12569in;height:2.41667in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image117.png"
+<img src="assets/Eric Carle/media/image117.png"
 style="width:3.64583in;height:0.6875in" />
 
 Thousands of rubber ducks to land on British shores after 15 year
@@ -2390,7 +2390,7 @@ significance of her find she left it on the beach. It was only when she
 was chatting to other guests at her hotel that she realised what she had
 seen.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image118.jpeg"
+<img src="assets/Eric Carle/media/image118.jpeg"
 style="width:6.54236in;height:4.01042in" />
 
 # 28,000 Rubber Ducks Teach Us About Our Ocean Systems
@@ -2398,7 +2398,7 @@ style="width:6.54236in;height:4.01042in" />
 Posted by [Guest Post](http://news.co.cr/author/guest-post/) on July 15,
 2012 in [World News](http://news.co.cr/world/) 
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image119.jpeg"
+<img src="assets/Eric Carle/media/image119.jpeg"
 style="width:3.10417in;height:2.875in" />
 
 A shipping container filled with rubber duckies was lost at sea in 1992,
@@ -2434,7 +2434,7 @@ Scotland.”
 
 This map details the extent of where the ducks have travelled so far:
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image120.jpeg"
+<img src="assets/Eric Carle/media/image120.jpeg"
 style="width:5.17708in;height:3.13542in" />
 
 Perhaps the most famous Floatees, though, are the 2,000 of them that
@@ -2485,10 +2485,10 @@ issue.
 “The ones washing up in Alaska after 19 years are still in pretty good
 shape,” added Ebbesmeyer.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image121.jpeg"
+<img src="assets/Eric Carle/media/image121.jpeg"
 style="width:5.84653in;height:8.00069in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image122.png"
+<img src="assets/Eric Carle/media/image122.png"
 style="width:2.29444in;height:2.625in" />
 
 **The Mixed-Up Chameleon, 1975**
@@ -2683,25 +2683,25 @@ The chameleon has a necklace and a hat.
 
 **Isabella Maticevski (Prep)**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image123.jpeg"
+<img src="assets/Eric Carle/media/image123.jpeg"
 style="width:3.33264in;height:2.21944in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image124.jpeg"
+<img src="assets/Eric Carle/media/image124.jpeg"
 style="width:6.62361in;height:9.93542in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image125.jpeg"
+<img src="assets/Eric Carle/media/image125.jpeg"
 style="width:2.875in;height:2.14167in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image126.jpeg"
+<img src="assets/Eric Carle/media/image126.jpeg"
 style="width:4.75in;height:3.5625in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image127.jpeg"
+<img src="assets/Eric Carle/media/image127.jpeg"
 style="width:7.08333in;height:3.125in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image128.jpeg"
+<img src="assets/Eric Carle/media/image128.jpeg"
 style="width:2.52847in;height:3.37431in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image129.jpeg"
+<img src="assets/Eric Carle/media/image129.jpeg"
 style="width:2.08333in;height:2.76042in" />
 
 Friends tells the story of a little boy who braves harsh weather, tall
@@ -2716,7 +2716,7 @@ always believed that friendship is very important. I know it was for me
 as a child. I can still remember my strong attachments and feelings for
 my friends when I was a boy.”
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image130.jpeg"
+<img src="assets/Eric Carle/media/image130.jpeg"
 style="width:5.10278in;height:3.83333in" />
 
 # Author Eric Carle hopes 'Friends' helps him find his
@@ -2725,7 +2725,7 @@ style="width:5.10278in;height:3.83333in" />
 
 ## The 84-year-old's latest picture book includes a photo of him with a girl in a white dress, last seen in 1932 in Syracuse, N.Y.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image131.jpeg"
+<img src="assets/Eric Carle/media/image131.jpeg"
 style="width:1.875in;height:2.47917in" />
 
 **It's a story inspired by Carle's childhood friend, who he is hugging
@@ -2788,7 +2788,7 @@ in this photo, taken in 1932.***(Photo: Eric Carle)*
 > influenced by what he saw: "I think that's why I like such bright
 > colours."
 >
-> <img src="/tmp/tmp.EqTE7iIoy6/media/media/image132.jpeg"
+> <img src="assets/Eric Carle/media/image132.jpeg"
 > style="width:1.875in;height:2.47917in" />
 >
 > **Author Eric Carle and his wife, Bobbie.***(Photo: Penguin)*
@@ -2809,24 +2809,24 @@ in this photo, taken in 1932.***(Photo: Eric Carle)*
 > papyrus?' But one thing doesn't change: It's the story that counts.
 > The medium doesn't matter."
 >
-> <img src="/tmp/tmp.EqTE7iIoy6/media/media/image133.jpeg"
+> <img src="assets/Eric Carle/media/image133.jpeg"
 > style="width:5.20833in;height:5.88542in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image134.jpeg"
+<img src="assets/Eric Carle/media/image134.jpeg"
 style="width:5.20833in;height:7.57292in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image135.jpeg"
+<img src="assets/Eric Carle/media/image135.jpeg"
 style="width:5.20764in;height:8.63333in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image136.jpeg"
+<img src="assets/Eric Carle/media/image136.jpeg"
 style="width:5.20833in;height:3.46875in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image137.jpeg"
+<img src="assets/Eric Carle/media/image137.jpeg"
 style="width:5.20833in;height:3.46875in" />
 
 **Friendship**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image138.jpeg"
+<img src="assets/Eric Carle/media/image138.jpeg"
 style="width:3.75in;height:3.125in" />
 
 Do You Want to Be My Friend? which was published forty years ago in 1971
@@ -2836,14 +2836,14 @@ mystery: why is there a green border on the bottom of every page? And it
 is a story about friendship. Friendship is very important to children,
 adults sometimes forget that.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image139.jpeg"
+<img src="assets/Eric Carle/media/image139.jpeg"
 style="width:4.05208in;height:1.3125in" />
 
 When I was six years old my parents and I moved from Syracuse NY, where
 I was born, to Germany. Almost daily, I would ask them "When are we
 going home?"
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image140.jpeg"
+<img src="assets/Eric Carle/media/image140.jpeg"
 style="width:4.16667in;height:2.65625in" />
 
 Soon after our move to Germany, I received a letter from my friend
@@ -2853,13 +2853,13 @@ at his doorstep and he recognised me. "You're Eric!" he said. I still
 have his precious letter and in my heart Do You Want to Be My Friend? is
 for Carlton.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image141.jpeg"
+<img src="assets/Eric Carle/media/image141.jpeg"
 style="width:6.75in;height:1.21875in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image142.jpeg"
+<img src="assets/Eric Carle/media/image142.jpeg"
 style="width:3.5in;height:4.5in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image143.jpeg"
+<img src="assets/Eric Carle/media/image143.jpeg"
 style="width:6.25in;height:4.15625in" />
 
 Because my dear friends Barry Moser and Norton Juster are frequently
@@ -2868,7 +2868,7 @@ Art](http://www.carlemuseum.org/) made them these T-shirts, which they
 wore with smiles on their faces at the Museum's 10th anniversary
 celebration in November.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image144.jpeg"
+<img src="assets/Eric Carle/media/image144.jpeg"
 style="width:3.4375in;height:3.4375in" />
 
 Then, a few months later, I received a shirt in the mail from Norton
@@ -2877,7 +2877,7 @@ for him!
 
 Life is always better when your friends have a good sense of humour.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image145.jpeg"
+<img src="assets/Eric Carle/media/image145.jpeg"
 style="width:4.5in;height:4.5in" />
 
 **What's Your Favourite Animal?**
@@ -2892,7 +2892,7 @@ different from the next!
 
 **A Bridge**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image146.jpeg"
+<img src="assets/Eric Carle/media/image146.jpeg"
 style="width:5.25in;height:3.51042in" />
 
 When I was a young boy, leaving home to go to school was a difficult
@@ -2902,10 +2902,10 @@ of home to the world inside the classroom and school for children.
 Wishing you all good beginnings of the new school year. I am grateful to
 the teachers who help each child make their way.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image147.jpeg"
+<img src="assets/Eric Carle/media/image147.jpeg"
 style="width:6.07292in;height:6.07292in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image148.jpeg"
+<img src="assets/Eric Carle/media/image148.jpeg"
 style="width:5.25in;height:5.25in" />
 
 All the best wishes for a happy holiday season!
@@ -2914,7 +2914,7 @@ Peace to all,
 
 Eric Carle
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image149.jpeg"
+<img src="assets/Eric Carle/media/image149.jpeg"
 style="width:5.25in;height:4.38542in" />
 
 ### Happy, playful and safe Halloween to all!
@@ -2926,7 +2926,7 @@ young art student in Germany. I thought you might enjoy seeing a few
 more of these. Here I am at 20 years old when I first started to design
 posters for Amerika Haus.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image150.jpeg"
+<img src="assets/Eric Carle/media/image150.jpeg"
 style="width:2.09375in;height:3.33333in" />
 
 During World War ll, German propaganda depicted the United States as a
@@ -2952,7 +2952,7 @@ below). The concept of the Amerika Haus was ingenious, successful and
 resonated with the German population eager for more contact with the
 outside world from which it had been isolated for many years.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image151.jpeg"
+<img src="assets/Eric Carle/media/image151.jpeg"
 style="width:2.95833in;height:4.5in" />
 
 From 1945 to 1949 I studied graphic design at the Akademie der Bildenden
@@ -2966,7 +2966,7 @@ Akademie whether a young student would be interested in designing
 posters for the events at the Amerika Haus. And that is how I, at the
 age of 20, became a poster designer.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image152.jpeg"
+<img src="assets/Eric Carle/media/image152.jpeg"
 style="width:3.17708in;height:4.5in" />
 
 My first design WESTAFRIKA IN SEINER KUNST was for a joint venture
@@ -2994,7 +2994,7 @@ small cardboard suitcase as I needed to be economical in what I packed.
 There were several more posters. But here are a few that I hope you will
 enjoy seeing.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image153.jpeg"
+<img src="assets/Eric Carle/media/image153.jpeg"
 style="width:3.1875in;height:4.5in" />
 
 AMERIKANISCHE VOLSKUNST (American Folk Art) was an interesting and
@@ -3006,20 +3006,20 @@ Tennessee Williams' DIE GLAS MENAGERIE and
 THE BAT a popular Broadway play at the time. Both examples from American
 writers/poets/playwrights.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image154.jpeg"
+<img src="assets/Eric Carle/media/image154.jpeg"
 style="width:3.17639in;height:4.5in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image155.jpeg"
+<img src="assets/Eric Carle/media/image155.jpeg"
 style="width:2.9375in;height:3.97917in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image156.jpeg"
+<img src="assets/Eric Carle/media/image156.jpeg"
 style="width:3.20833in;height:4.5in" />
 
 EINFUEHRUNG IN DIE 12 TON MUSIK, INTRODUCTION TO 12 TON MUSIC
 reintroduced avant-garde music, created by composer Arnold Schönberg who
 was Jewish, which had been banned in Nazi Germany as "Degenerate Art."
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image157.jpeg"
+<img src="assets/Eric Carle/media/image157.jpeg"
 style="width:2.65625in;height:3.89583in" />
 
 MENSCH UND ARBEIT/ BETRIEB UND OEFFENTLICHKEIT,
@@ -3030,7 +3030,7 @@ A lecture on Public Relations which had been an almost unknown concept
 in Germany, given by a former German prisoner of war who had been in a
 camp in the U.S. and while there studied this subject.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image158.jpeg"
+<img src="assets/Eric Carle/media/image158.jpeg"
 style="width:3.10417in;height:4.5in" />
 
 DIE GAUGLER SPIELEN PANTOMIME,
@@ -3040,14 +3040,14 @@ TRAVELING ENTERTAINER PLAY PANTOMIME
 A poster for a performance or a play, this poster was awarded "One of
 the 10 best posters of the year."
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image159.jpeg"
+<img src="assets/Eric Carle/media/image159.jpeg"
 style="width:6.875in;height:6.875in" />
 
 ### All the Beautiful Colours of the Rainbow
 
 **Happy Mother’s Day**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image160.jpeg"
+<img src="assets/Eric Carle/media/image160.jpeg"
 style="width:5in;height:5in" />
 
 Happy Mother's Day to all! Here I am with my Mother when I was 10 years
@@ -3055,12 +3055,12 @@ old on vacation in the Black Forest. I remember being very happy to be
 with my parents in the country. This photo was taken in 1939 just before
 the war began. It was our first and last family vacation.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image161.jpeg"
+<img src="assets/Eric Carle/media/image161.jpeg"
 style="width:3.75in;height:2.41667in" />
 
 **Our friend Maisy**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image162.jpeg"
+<img src="assets/Eric Carle/media/image162.jpeg"
 style="width:3.4375in;height:3.4375in" />
 
 In this painting by Lucy Cousins, Maisy meets
@@ -3069,27 +3069,27 @@ The Very Hungry Caterpillar!
 
 **Hopping towards Spring**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image163.jpeg"
+<img src="assets/Eric Carle/media/image163.jpeg"
 style="width:3.4375in;height:3.4375in" />
 
 **A Winter’s Night**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image164.jpeg"
+<img src="assets/Eric Carle/media/image164.jpeg"
 style="width:5.25in;height:3.48958in" />
 
 **Happy Very Hungry Caterpillar Day**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image165.jpeg"
+<img src="assets/Eric Carle/media/image165.jpeg"
 style="width:3.4375in;height:3.4375in" />
 
 **March 20**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image166.jpeg"
+<img src="assets/Eric Carle/media/image166.jpeg"
 style="width:3.4375in;height:3.4375in" />
 
 **Metal Sculptures**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image167.jpeg"
+<img src="assets/Eric Carle/media/image167.jpeg"
 style="width:5.14583in;height:5.25in" />
 
 Simplify, simplify, simplify. My aim with my work is to simplify and
@@ -3101,30 +3101,30 @@ Art](http://www.carlemuseum.org/). I believe these sculptures are
 examples of my approach applied to its fullest extent. The most
 simplified figure I have created.
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image168.jpeg"
+<img src="assets/Eric Carle/media/image168.jpeg"
 style="width:3.33333in;height:4.5in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image169.jpeg"
+<img src="assets/Eric Carle/media/image169.jpeg"
 style="width:3.39583in;height:4.75in" />
 
 **May there be peace for children everywhere**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image170.jpeg"
+<img src="assets/Eric Carle/media/image170.jpeg"
 style="width:3.42708in;height:4.5in" />
 
 **Happy Thanksgiving!**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image171.jpeg"
+<img src="assets/Eric Carle/media/image171.jpeg"
 style="width:6.11667in;height:6.63542in" />
 
 **Autumn**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image172.jpeg"
+<img src="assets/Eric Carle/media/image172.jpeg"
 style="width:3.75in;height:2.59375in" />
 
 **Summer Fruits**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image173.jpeg"
+<img src="assets/Eric Carle/media/image173.jpeg"
 style="width:3.4375in;height:3.75in" />
 
 Soon it will be summer and it will be time for The Very Hungry
@@ -3154,27 +3154,27 @@ Serve to a small group of friends, after reading a good book.
 
 You'll enjoy every bit of it!
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image174.jpeg"
+<img src="assets/Eric Carle/media/image174.jpeg"
 style="width:4.16667in;height:3.76042in" />
 
 Meeting Tomi Ungerer
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image175.jpeg"
+<img src="assets/Eric Carle/media/image175.jpeg"
 style="width:3.0625in;height:4.16667in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image176.jpeg"
+<img src="assets/Eric Carle/media/image176.jpeg"
 style="width:3.70833in;height:2.40625in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image177.jpeg"
+<img src="assets/Eric Carle/media/image177.jpeg"
 style="width:2.76042in;height:3.75in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image178.jpeg"
+<img src="assets/Eric Carle/media/image178.jpeg"
 style="width:2.55208in;height:3.59375in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image179.jpeg"
+<img src="assets/Eric Carle/media/image179.jpeg"
 style="width:5.78125in;height:2.19792in" />
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image180.jpeg"
+<img src="assets/Eric Carle/media/image180.jpeg"
 style="width:2.25in;height:1.72778in" />
 
 **End Sheets**
@@ -3197,27 +3197,27 @@ Here are some examples:
 
 From Head to Toe
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image181.jpeg"
+<img src="assets/Eric Carle/media/image181.jpeg"
 style="width:3in;height:2.22917in" />
 
 Papa, Please Get the Moon for Me
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image182.jpeg"
+<img src="assets/Eric Carle/media/image182.jpeg"
 style="width:3in;height:2.15625in" />
 
 1,2,3 to the Zoo
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image183.jpeg"
+<img src="assets/Eric Carle/media/image183.jpeg"
 style="width:3in;height:2.02083in" />
 
 Baby Bear, Baby Bear, What Do You See?
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image184.jpeg"
+<img src="assets/Eric Carle/media/image184.jpeg"
 style="width:3in;height:1.8125in" />
 
 **Using Photos for Memories**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image185.jpeg"
+<img src="assets/Eric Carle/media/image185.jpeg"
 style="width:2.94792in;height:4.125in" />
 
 Dear Friends,
@@ -3242,7 +3242,7 @@ Eric Carle
 
 **A Quintet of Books**
 
-<img src="/tmp/tmp.EqTE7iIoy6/media/media/image186.jpeg"
+<img src="assets/Eric Carle/media/image186.jpeg"
 style="width:3.23958in;height:4.16667in" />
 
 Sometimes, readers ask me why a number of my books have the word "Very"

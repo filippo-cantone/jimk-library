@@ -8,7 +8,7 @@ tags: [jim-k]
 
 **Q & A with Tomi Ungerer**
 
-<img src="/tmp/tmp.DaQOlgPLZg/media/media/image1.jpeg"
+<img src="assets/Tomi Ungerer/media/image1.jpeg"
 style="width:1.5625in;height:2.4375in" />
 
 *Tomi Ungerer’s name is instantly recognisable to those who grew up
@@ -60,7 +60,7 @@ out of print. In fact, it had gotten to the point where my Korean
 publisher was talking about publishing me in English. That would have
 been an interesting experience!
 
-<img src="/tmp/tmp.DaQOlgPLZg/media/media/image2.jpeg"
+<img src="assets/Tomi Ungerer/media/image2.jpeg"
 style="width:1.5625in;height:2.1875in" />
 
 *Diogenes agreed to Phaidon’s proposal, and then you had to look again
@@ -92,7 +92,7 @@ Anyway, so a children’s book is always 32 pages, and I always have my
 little \[storyboard\] squares. I always say that my story is a salami
 and I just have to find out where to slice it to put in the pictures.
 
-<img src="/tmp/tmp.DaQOlgPLZg/media/media/image3.jpeg"
+<img src="assets/Tomi Ungerer/media/image3.jpeg"
 style="width:1.56181in;height:2.13542in" />
 
 *You've embraced new media—you have a Twitter feed, and a Facebook page.
@@ -129,7 +129,7 @@ children’s book artists should think more about reality, and about how
 to make children conscious that there are bad things in the world and
 that we have to fight against them.
 
-<img src="/tmp/tmp.DaQOlgPLZg/media/media/image4.jpeg"
+<img src="assets/Tomi Ungerer/media/image4.jpeg"
 style="width:2.08333in;height:3.125in" />
 
 I’ve worked to convince the Germans to teach French as a foreign

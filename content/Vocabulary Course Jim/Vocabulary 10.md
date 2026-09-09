@@ -6,14 +6,14 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image1.jpeg"
+<img src="assets/Vocabulary 10/media/image1.jpeg"
 style="width:4.82292in;height:3.16667in" />
 
 **Vocabulary 10**
 
 **Atlantic Brian Karas**
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image2.jpeg"
+<img src="assets/Vocabulary 10/media/image2.jpeg"
 style="width:2.30972in;height:2.40556in" />
 
 Poetic text and wondrous paintings explore what the Atlantic Ocean is,
@@ -342,7 +342,7 @@ between Americas to the East of the Pacific Ocean basin and the Asian
 and Australian continents to the West as you can see on the map of the
 Pacific Ocean below:
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image3.png"
+<img src="assets/Vocabulary 10/media/image3.png"
 style="width:4.80278in;height:4.34375in" />
 
 **Name**: What does pacific mean? Pacific means "peaceful", coming from
@@ -369,7 +369,7 @@ was formed by the collision of two tectonic plates.
 Why is it called Challenger Deep? Because it was researched by the HMS
 Challenger in 1875.
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image4.png"
+<img src="assets/Vocabulary 10/media/image4.png"
 style="width:5.50139in;height:3.96319in" />
 
 **Volcanoes**: What is the ring of fire? Most of the volcanoes (actually
@@ -425,7 +425,7 @@ Pacific?
 
 **Earthdance Joanne Ryder**
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image5.jpeg"
+<img src="assets/Vocabulary 10/media/image5.jpeg"
 style="width:2.17639in;height:2.38542in" />
 
 Earthdance is written entirely in metaphor.
@@ -658,7 +658,7 @@ and treasure you.
 
 **The Dinosaurs of Waterhouse Hawkins Barbara Kerley**
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image6.jpeg"
+<img src="assets/Vocabulary 10/media/image6.jpeg"
 style="width:2.39583in;height:3.33333in" />**  
 **
 
@@ -676,7 +676,7 @@ of Hawkins’ models have been found to be inaccurate, the true subject of
 this book is his passion for the ancient creatures. Brian Selznick’s
 artwork contributes as much to the story's exuberance as the words do.
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image7.jpeg"
+<img src="assets/Vocabulary 10/media/image7.jpeg"
 style="width:2.76042in;height:4.16667in" />
 
 When the scientists arrived for their elegant, catered dinner, they
@@ -687,41 +687,41 @@ in his research. He transformed the above invitation into a lovely
 bookplate for the book itself. Below is an engraving from the London
 Illustrated News (from Cabinet magazine) of the dinner party.
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image8.jpeg"
+<img src="assets/Vocabulary 10/media/image8.jpeg"
 style="width:4.16667in;height:2.91667in" />
 
 Wood cut illustrations of Hawkins' Crystal Palace Prehistoric Animals as
 published in Johnson's Natural History 1871.
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image9.jpeg"
+<img src="assets/Vocabulary 10/media/image9.jpeg"
 style="width:3.23681in;height:4.52986in" />
 
 Hawkins' Sydenham Studio
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image10.jpeg"
+<img src="assets/Vocabulary 10/media/image10.jpeg"
 style="width:4.6in;height:3.09722in" />
 
 Iguanodon
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image11.jpeg"
+<img src="assets/Vocabulary 10/media/image11.jpeg"
 style="width:5.37292in;height:4in" />
 
 Megalosaurus
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image12.jpeg"
+<img src="assets/Vocabulary 10/media/image12.jpeg"
 style="width:5.12778in;height:3.55347in" />
 
 Hyleosaurus
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image13.jpeg"
+<img src="assets/Vocabulary 10/media/image13.jpeg"
 style="width:5.19236in;height:3.50833in" />
 
 Dinotherium
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image14.jpeg"
+<img src="assets/Vocabulary 10/media/image14.jpeg"
 style="width:4.14583in;height:4.54167in" />
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image15.jpeg"
+<img src="assets/Vocabulary 10/media/image15.jpeg"
 style="width:6.45833in;height:3.36458in" />
 
 **The Dinosaurs of Waterhouse Hawkins**
@@ -1300,10 +1300,10 @@ brick-and iron support.
 
 The finished statue was then painted.
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image16.jpeg"
+<img src="assets/Vocabulary 10/media/image16.jpeg"
 style="width:3.18889in;height:4.25069in" />
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image17.jpeg"
+<img src="assets/Vocabulary 10/media/image17.jpeg"
 style="width:5.20764in;height:3.64444in" />
 
 **Interpret words and phrases as they are used in a text, including
@@ -1413,7 +1413,7 @@ estimate the size and overall shape of these dinosaurs, and Hawkins
 sculpted life size models following Owen's directions. It was inside
 Hawkins' "Iguanodon" that Owen held his famous dinner meeting.
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image18.png"
+<img src="assets/Vocabulary 10/media/image18.png"
 style="width:2.75in;height:3.30208in" />
 
 Hawkins' dinosaurs were also a prime attraction at the Crystal Palace
@@ -1426,7 +1426,7 @@ through the dinosaur islands was soon a popular part of a visit to this
 first large, iron girder and glass building, and public awareness of
 dinosaurs sky-rocketed.
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image19.jpeg"
+<img src="assets/Vocabulary 10/media/image19.jpeg"
 style="width:5.11667in;height:7.87986in" />
 
 Hawkins' dinosaurs were to the mid-19th century what Spielberg's movie
@@ -1436,7 +1436,7 @@ Palace, which burnt to the ground several decades later. In contrast,
 the sculptured dinosaurs still stand in Sydenham Park south of London.
 The figure below shows the Hawkins-Owen Iguanodon as it now appears.
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image20.jpeg"
+<img src="assets/Vocabulary 10/media/image20.jpeg"
 style="width:5.76806in;height:6.59444in" />
 
 Following his success with the Crystal Palace Exhibition, Hawkins came
@@ -1452,7 +1452,7 @@ left foreground is a reclining Iguanodon. The skeleton modelled at the
 rear is that of Hadrosaurus, an American dinosaur described by Joseph
 Leidy in 1858
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image21.png"
+<img src="assets/Vocabulary 10/media/image21.png"
 style="width:4.16667in;height:2.625in" />
 
 However, in 1871, before either the park or the dinosaurs were finished,
@@ -1523,7 +1523,7 @@ Barbara Kerley, illustrated by Edwin Fotheringham (Scholastic Press,
 
 **Becoming Naomi Leon Pam Munoz Ryan**
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image22.jpeg"
+<img src="assets/Vocabulary 10/media/image22.jpeg"
 style="width:2in;height:3.03125in" />
 
 Naomi Soledad Leon Outlaw lives with younger brother Owen and her
@@ -2064,7 +2064,7 @@ Wah-hah-kah. And here, at this star, is Oaxaca City, the capital of the
 state and the town where our family lives. They are very excited that we
 are coming."*
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image23.jpeg"
+<img src="assets/Vocabulary 10/media/image23.jpeg"
 style="width:5.63542in;height:3.96875in" />
 
 **Vocabulary**
@@ -2575,7 +2575,7 @@ cylindrical vats.
 
 Bunuelos
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image24.jpeg"
+<img src="assets/Vocabulary 10/media/image24.jpeg"
 style="width:2.5in;height:2.08333in" />
 
 Tomales
@@ -2597,7 +2597,7 @@ cartoons. Lambs, burros, roosters, chickens, angels, wise men, Christmas
 trees and Santa Claus figures are popular subjects during the holiday
 season.
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image25.png"
+<img src="assets/Vocabulary 10/media/image25.png"
 style="width:3.64583in;height:3.88542in" />
 
 **Chapter 16: A Team of Horses**
@@ -2851,7 +2851,7 @@ How the character changed … Why the character changed …
 
 **Canoe Days Gary Paulsen**
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image26.jpeg"
+<img src="assets/Vocabulary 10/media/image26.jpeg"
 style="width:2.39583in;height:2.625in" />
 
 Peace. Stillness. Quiet. Nature observation at its best. Paulsen's
@@ -2972,7 +2972,7 @@ A canoe day.
 
 **Clabbered Dirt, Sweet Grass Gary Paulsen**
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image27.jpeg"
+<img src="assets/Vocabulary 10/media/image27.jpeg"
 style="width:2.75in;height:2.75in" />
 
 This is a novel, ‘a lyrical tribute to life on a farm.’ It is organised
@@ -3277,7 +3277,7 @@ hooked back into the bobsled, the oak tongue between, and they prance.
 
 **The Alphabet Tree Leo Lionni**
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image28.jpeg"
+<img src="assets/Vocabulary 10/media/image28.jpeg"
 style="width:2.08333in;height:2.625in" />
 
 When a fierce wind threatens to blow all the little letters out of the
@@ -3368,7 +3368,7 @@ began climbing down the tree.
 
 **Black Cat Christopher Myers**
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image29.jpeg"
+<img src="assets/Vocabulary 10/media/image29.jpeg"
 style="width:2.4375in;height:2.96667in" />
 
 On an eye-opening journey through urban landscapes, a stray black cat
@@ -3386,7 +3386,7 @@ where that cat travels.*
 
 *Christopher Myers*
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image30.jpeg"
+<img src="assets/Vocabulary 10/media/image30.jpeg"
 style="width:3.38333in;height:2.35486in" />
 
 **Black Cat Christopher Myers**
@@ -3703,7 +3703,7 @@ anywhere I roam
 
 **Never Take a Shark to the Dentist Judi Barrett**
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image31.jpeg"
+<img src="assets/Vocabulary 10/media/image31.jpeg"
 style="width:2.39583in;height:2.09375in" />
 
 Students write their own 'never sentences', compile a book together as a
@@ -3713,7 +3713,7 @@ Individual books.
 
 **Animals should definitely not wear clothing Judi Barrett**
 
-<img src="/tmp/tmp.yXsB5OTa2u/media/media/image32.jpeg"
+<img src="assets/Vocabulary 10/media/image32.jpeg"
 style="width:2.42639in;height:2.25in" />
 
 Independent Writing:

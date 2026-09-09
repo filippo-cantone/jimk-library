@@ -10,7 +10,7 @@ tags: [jim-k]
 
 **PART 1**
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image1.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image1.jpeg"
 style="width:2.27778in;height:3.42292in" />
 
 **INFERRING 1**
@@ -223,7 +223,7 @@ acts.</td>
 
 Another graphic organiser that could be used is the Inference Web.
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image2.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image2.jpeg"
 style="width:3.90556in;height:3.30278in" />
 
 Guided Practice following modelling.
@@ -366,7 +366,7 @@ Record using the Inference-Evidence Chart
 In Time of Silver Rain  
 Langston Hughes
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image3.png" />
+<img src="assets/INFERRING 1 Jim/media/image3.png" />
 
 <table>
 <colgroup>
@@ -414,7 +414,7 @@ In Time of Silver Rain
 
 **Langston Hughes**
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image3.png" />
+<img src="assets/INFERRING 1 Jim/media/image3.png" />
 
 <table>
 <colgroup>
@@ -1054,7 +1054,7 @@ head . . . The author didn’t say _______</p>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image4.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image4.jpeg"
 style="width:1.88056in;height:2.36944in" />
 
 A man held a stick and a chain. On the other end of the chain was a
@@ -1069,7 +1069,7 @@ their hands.
 
 But Mr Bear could see that the bear did not dance for joy…
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image5.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image5.jpeg"
 style="width:1.37708in;height:1.99653in" />
 
 Cole Matthews is angry. Angry, defiant, smug -in short, a bully. His
@@ -1647,19 +1647,19 @@ next</h1></td>
 
 # 
 
-# <img src="/tmp/tmp.MSLPqpBqct/media/media/image6.jpeg"
+# <img src="assets/INFERRING 1 Jim/media/image6.jpeg"
 style="width:5.28125in;height:6.83333in" />
 
 Books to use with QAR
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image7.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image7.jpeg"
 style="width:1.04167in;height:1.42708in" />How to Heal a Broken Wing by
 Bob Graham
 
 When a young boy spots a hurt bird on a busy city street, he takes it
 home until it can return to the outdoors.
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image8.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image8.jpeg"
 style="width:1.04167in;height:1.30208in" />Pale Male: Citizen Hawk of
 New York City by Janet Schulman,
 
@@ -1694,7 +1694,7 @@ Van Allsburg, Chris Jumanji
 
 Yorinks, Arthur Hey, Al
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image9.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image9.jpeg"
 style="width:3.125in;height:2.39028in" />
 
 Day after day, brand new ducks roll off a giant assembly line operated
@@ -1722,7 +1722,7 @@ Animation.
 
 Writing Craft.
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image10.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image10.jpeg"
 style="width:2.69792in;height:2.03125in" />
 
 **Sitting Ducks Michael Bedard QAR**
@@ -1944,22 +1944,22 @@ hopelessly, vigorously, suddenly,</em></p>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image11.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image11.jpeg"
 style="width:6.79167in;height:3.89583in" />
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image12.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image12.jpeg"
 style="width:5.75in;height:3.79167in" />
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image13.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image13.jpeg"
 style="width:4.5in;height:3.33333in" />
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image14.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image14.jpeg"
 style="width:3.75in;height:2.8125in" />
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image15.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image15.jpeg"
 style="width:8.33333in;height:4.33194in" />
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image16.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image16.jpeg"
 style="width:8.33333in;height:4.32292in" />
 
 **Purpose and Meaning of the**
@@ -2098,7 +2098,7 @@ Wiesner, David Tuesday
 
 Wiesner, David Sector 7
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image17.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image17.jpeg"
 style="width:4.16667in;height:4.16667in" />
 
 **Picture Flick**
@@ -2235,7 +2235,7 @@ Solution:
 |-----|
 |     |
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image18.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image18.jpeg"
 style="width:2.13472in;height:2.76528in" />
 
 *A father and his young child take a winter walk through the cold woods
@@ -2711,10 +2711,10 @@ under a shining
 
 Owl Moon.
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image19.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image19.jpeg"
 style="width:5.20833in;height:7.8125in" />
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image20.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image20.jpeg"
 style="width:6.77083in;height:4.22917in" />
 
 |                               |                                   |                                  |         |
@@ -3433,7 +3433,7 @@ Focus: Did anyone infer what their character was thinking or feeling
 from clues in the text? What clues did you use? What did you infer? How
 did you use your own background knowledge to infer?
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image21.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image21.jpeg"
 style="width:1.66667in;height:1.29167in" />
 
 Read aloud Alexander, Who Used to Be Rich Last Sunday and model how to
@@ -3496,7 +3496,7 @@ change?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image22.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image22.jpeg"
 style="width:2.45069in;height:2.99653in" />
 
 A grandmother living in a Southern mill town at the turn of the century;
@@ -3947,7 +3947,7 @@ stubborn - unreasonably unwilling to do something; obstinate
 
 **Fantastic Mr Fox Roald Dahl**
 
-<img src="/tmp/tmp.MSLPqpBqct/media/media/image23.jpeg"
+<img src="assets/INFERRING 1 Jim/media/image23.jpeg"
 style="width:8.33333in;height:4.16667in" />
 
 Read

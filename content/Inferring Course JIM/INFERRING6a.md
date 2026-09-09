@@ -10,7 +10,7 @@ tags: [jim-k]
 
 **PART 6**
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image1.jpeg"
+<img src="assets/INFERRING6a/media/image1.jpeg"
 style="width:4.47569in;height:5.49583in" />
 
 **INFERRING 6**
@@ -103,7 +103,7 @@ traditionally dominated the comics industry in the U.S., today’s graphic
 novels range into every possible genre, from literary fiction to memoir
 to fantasy.*
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image2.jpeg"
+<img src="assets/INFERRING6a/media/image2.jpeg"
 style="width:2.33333in;height:3.44375in" />
 
 *This is a fantastic rendition of The Wonderful Wizard of Oz! The story
@@ -135,25 +135,25 @@ must read for Oz fans!*
 
 *by Nicola Mansfield*
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image3.jpeg"
+<img src="assets/INFERRING6a/media/image3.jpeg"
 style="width:6.59375in;height:5.59444in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image4.jpeg"
+<img src="assets/INFERRING6a/media/image4.jpeg"
 style="width:3.8125in;height:1.43681in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image5.jpeg"
+<img src="assets/INFERRING6a/media/image5.jpeg"
 style="width:1.5in;height:2.27083in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image6.jpeg"
+<img src="assets/INFERRING6a/media/image6.jpeg"
 style="width:3.91667in;height:4.10417in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image7.jpeg"
+<img src="assets/INFERRING6a/media/image7.jpeg"
 style="width:5.40625in;height:3.88542in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image8.jpeg"
+<img src="assets/INFERRING6a/media/image8.jpeg"
 style="width:5.40556in;height:4.5in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image9.jpeg"
+<img src="assets/INFERRING6a/media/image9.jpeg"
 style="width:2.20833in;height:3.125in" />
 
 *This is a graphic memoir that follows the author from grade six through
@@ -196,10 +196,10 @@ know.*
 
 *by Nicola Mansfield*
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image10.jpeg"
+<img src="assets/INFERRING6a/media/image10.jpeg"
 style="width:3.30208in;height:2.70833in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image11.gif"
+<img src="assets/INFERRING6a/media/image11.gif"
 style="width:3.33333in;height:2.92708in" />
 
 **Before Reading:**
@@ -222,10 +222,10 @@ their life. How does Raina feel in middle school? How is she starting to
 feel about her friends? What is she starting to realise about her
 friends and about her teeth? How does this relate to your life?
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image12.jpeg"
+<img src="assets/INFERRING6a/media/image12.jpeg"
 style="width:6.24861in;height:3.09236in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image13.jpeg"
+<img src="assets/INFERRING6a/media/image13.jpeg"
 style="width:3.12569in;height:2.33333in" />
 
 *“This was a story about my life, it was a real personal experience that
@@ -233,7 +233,7 @@ I simply told to get out of my system. The incredible thing was once it
 was published kids started to read it and kids started to relate to
 it.”*
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image14.jpeg"
+<img src="assets/INFERRING6a/media/image14.jpeg"
 style="width:4.42708in;height:2.29167in" />
 
 **Writing From Life (The Good and the Bad**)
@@ -308,10 +308,10 @@ two front teeth, and if I can relay those emotions as honestly as
 possible in my stories, then they are true stories. Even in fiction,
 stories can feel completely true!*
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image15.jpeg"
+<img src="assets/INFERRING6a/media/image15.jpeg"
 style="width:5.5in;height:8.14583in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image16.jpeg"
+<img src="assets/INFERRING6a/media/image16.jpeg"
 style="width:2.39653in;height:3.33264in" />
 
 This volume reprints three classic Smurfs stories, the title story for
@@ -333,13 +333,13 @@ version. Two of the stories here were written by Yvan Delporte,
 long-time editor of Spirou magazine, the landmark publication where the
 Smurfs first appeared.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image17.jpeg"
+<img src="assets/INFERRING6a/media/image17.jpeg"
 style="width:4.96875in;height:3.69792in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image18.jpeg"
+<img src="assets/INFERRING6a/media/image18.jpeg"
 style="width:5.04861in;height:3.47083in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image19.jpeg"
+<img src="assets/INFERRING6a/media/image19.jpeg"
 style="width:2.00972in;height:2.71736in" />
 
 Most of us know this story. It won the Newbery in 1963, and was the
@@ -366,16 +366,16 @@ absolutely need to take a look at this book. Every character is captured
 beautifully, and the emotional resonance of small moments is told in
 impeccable detail.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image20.png"
+<img src="assets/INFERRING6a/media/image20.png"
 style="width:6.25in;height:4.54167in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image21.jpeg"
+<img src="assets/INFERRING6a/media/image21.jpeg"
 style="width:5.19861in;height:7.32292in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image22.jpeg"
+<img src="assets/INFERRING6a/media/image22.jpeg"
 style="width:4.66736in;height:4.44861in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image23.jpeg"
+<img src="assets/INFERRING6a/media/image23.jpeg"
 style="width:2.49861in;height:2.49861in" />
 
 Wood grabs you on the first page as brothers Duffy and Sumo are called
@@ -389,10 +389,10 @@ or bad?), an erupting volcano, secrets (of every sort), life and death
 circumstances, heart-stopping moments (many of them!), and family ties.
 A truly brilliant work.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image24.jpeg"
+<img src="assets/INFERRING6a/media/image24.jpeg"
 style="width:4.51111in;height:1.85417in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image25.jpeg"
+<img src="assets/INFERRING6a/media/image25.jpeg"
 style="width:2.60347in;height:2.60347in" />
 
 What if Darth Vader and Luke Skywalker had had a normal father/son
@@ -401,10 +401,10 @@ Darth Vader and Son. Novelist Jeffrey Brown says that Star Wars is a
 connection that he can share with his young son – something he didn't
 have with his own father.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image26.jpeg"
+<img src="assets/INFERRING6a/media/image26.jpeg"
 style="width:2.34375in;height:2.34375in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image27.jpeg"
+<img src="assets/INFERRING6a/media/image27.jpeg"
 style="width:2.70833in;height:2.02153in" />
 
 Darth Vader and Son sees Vader desperately trying to be a dad in that
@@ -448,16 +448,16 @@ little book tells us: you can have all the power in the galaxy, but that
 is as nothing compared to the awesome abilities possessed by the average
 four-year-old.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image28.jpeg"
+<img src="assets/INFERRING6a/media/image28.jpeg"
 style="width:2.02153in;height:2.69653in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image29.jpeg"
+<img src="assets/INFERRING6a/media/image29.jpeg"
 style="width:4.79097in;height:2.87361in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image30.jpeg"
+<img src="assets/INFERRING6a/media/image30.jpeg"
 style="width:6.69861in;height:6.69861in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image31.jpeg"
+<img src="assets/INFERRING6a/media/image31.jpeg"
 style="width:2.72917in;height:2in" />
 
 In this irresistibly funny follow-up to the breakout bestseller Darth
@@ -472,19 +472,19 @@ hologram, and making sure Leia doesn’t leave the house wearing only the
 a skirted metal bikini, Vader’s parenting skills are put hilariously to
 the test.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image32.jpeg"
+<img src="assets/INFERRING6a/media/image32.jpeg"
 style="width:6.35417in;height:7.73958in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image33.jpeg"
+<img src="assets/INFERRING6a/media/image33.jpeg"
 style="width:6.35347in;height:6.33264in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image34.jpeg"
+<img src="assets/INFERRING6a/media/image34.jpeg"
 style="width:6.35347in;height:6.11389in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image35.jpeg"
+<img src="assets/INFERRING6a/media/image35.jpeg"
 style="width:6.35417in;height:6.35417in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image36.jpeg"
+<img src="assets/INFERRING6a/media/image36.jpeg"
 style="width:2.36458in;height:3.33333in" />
 
 Emily and Navin lost their father in an accident. Their mother takes
@@ -506,7 +506,7 @@ labelled middle grade and YA and I think it can easily slip into either
 category. I look forward to seeing what lies ahead for these two and the
 rest of their family and friends.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image37.jpeg"
+<img src="assets/INFERRING6a/media/image37.jpeg"
 style="width:3.33333in;height:2.5in" />
 
 Kibuishi, Kazu (2008) Amulet: The Stonekeeper
@@ -539,10 +539,10 @@ perceptive. Good stuff.
 
 Reviews from *Book Commercials*
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image38.jpeg"
+<img src="assets/INFERRING6a/media/image38.jpeg"
 style="width:5.91597in;height:8.85556in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image39.jpeg"
+<img src="assets/INFERRING6a/media/image39.jpeg"
 style="width:2.32153in;height:3.48194in" />
 
 Eoin Colfer has teamed up with established comic writer Andrew Donkin to
@@ -552,10 +552,10 @@ This is the first novel graphic version and it has the same story as the
 first book. Here, Artemis Fowl and his bodyguard, Butler, reveal the
 existence of the lower elements, the fairy living underground.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image40.jpeg"
+<img src="assets/INFERRING6a/media/image40.jpeg"
 style="width:3.34583in;height:4.00833in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image41.jpeg"
+<img src="assets/INFERRING6a/media/image41.jpeg"
 style="width:2.22778in;height:2.84028in" />
 
 The fun and energy in these books are second to none, and young readers
@@ -569,13 +569,13 @@ that sucks her into space, boring party becomes a Wild West
 adventure--and the clever illustrations and hilarious storyline of
 brother-sister team Matthew and Jennifer Holm.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image42.jpeg"
+<img src="assets/INFERRING6a/media/image42.jpeg"
 style="width:2.55278in;height:3.50972in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image43.jpeg"
+<img src="assets/INFERRING6a/media/image43.jpeg"
 style="width:4.42708in;height:5.76042in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image44.jpeg"
+<img src="assets/INFERRING6a/media/image44.jpeg"
 style="width:1.79514in;height:2.83958in" />
 
 Campfire has managed to carve a wonderful little niche for itself by
@@ -598,7 +598,7 @@ popular and exciting adventure stories, The Call of the Wild will enrich
 the reading experience of youngsters, and rekindle fond memories of a
 favorite among older generations.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image45.jpeg"
+<img src="assets/INFERRING6a/media/image45.jpeg"
 style="width:3.12569in;height:3.12569in" />
 
 First published as a series of webcomics, Copper expands on the
@@ -615,10 +615,10 @@ wry sense of humor. These two enormously likable characters build ships
 and planes to travel to surprising destinations and have a knack for
 getting into all sorts of odd situations.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image46.png"
+<img src="assets/INFERRING6a/media/image46.png"
 style="width:6.65694in;height:6.65694in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image47.jpeg"
+<img src="assets/INFERRING6a/media/image47.jpeg"
 style="width:2.47778in;height:3.11389in" />
 
 When James and Eamon go to a week of Nature Camp and stay at Eamon's
@@ -649,7 +649,7 @@ boys to the penguin exhibit at the natural history museum is the other.
 
 Here's the response he gets:
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image48.png"
+<img src="assets/INFERRING6a/media/image48.png"
 style="width:3.125in;height:1.85417in" />
 
 The next line from the narrator is, "They decided to stay home and enjoy
@@ -666,7 +666,7 @@ themselves by ceding control.
 In fact, you could say this is a book about a win-win. Bill and Pam
 model some very instructive win-win parenting (or grandparenting).
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image49.jpeg"
+<img src="assets/INFERRING6a/media/image49.jpeg"
 style="width:3.12569in;height:3.12569in" />
 
 For the first time ever, Charles Schulz’s world-renowned comic strip,
@@ -677,10 +677,10 @@ insecurities.Charlie Brown’s kite-flying woes, Lucy’s unrequited love
 for Schroeder, and everyone’s favourite beagle Snoopy, in a lively and
 colourful spin through Charles Schulz’s imagination.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image50.jpeg"
+<img src="assets/INFERRING6a/media/image50.jpeg"
 style="width:6.77986in;height:10.41597in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image51.jpeg"
+<img src="assets/INFERRING6a/media/image51.jpeg"
 style="width:3.57569in;height:2.70556in" />
 
 *A Theodor Seuss Geisel Honour Book*
@@ -692,7 +692,7 @@ buttons to Velcro and tail holes?
 Eisner Award-winning cartoonist Jeff Smith and his determined Little
 Mouse reveal all the smallest pleasures of this daily task.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image52.jpeg"
+<img src="assets/INFERRING6a/media/image52.jpeg"
 style="width:4.51111in;height:1.85417in" />
 
 *"Little Mouse is actually a character I created when I was a kid," said
@@ -702,16 +702,16 @@ grey mouse with a little red vest.So I thought, ‘Well, maybe he would be
 a good character to use in a comic for kids,’ since I used to make up
 stories with this character when I was a kid."*
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image53.jpeg"
+<img src="assets/INFERRING6a/media/image53.jpeg"
 style="width:3.33333in;height:2.23958in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image54.gif"
+<img src="assets/INFERRING6a/media/image54.gif"
 style="width:3.61458in;height:2.48958in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image55.jpeg"
+<img src="assets/INFERRING6a/media/image55.jpeg"
 style="width:4.38542in;height:2.96181in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image56.jpeg"
+<img src="assets/INFERRING6a/media/image56.jpeg"
 style="width:2.58889in;height:3.35972in" />
 
 Tove Jansson is revered around the world as one of the foremost
@@ -733,16 +733,16 @@ observations of everyday life, including guests who overstay their
 welcome, modern art, movie stars, and high society, easily caught the
 attention of an international audience and still resonate today.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image57.png"
+<img src="assets/INFERRING6a/media/image57.png"
 style="width:7.46667in;height:2.56736in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image58.png"
+<img src="assets/INFERRING6a/media/image58.png"
 style="width:7.8125in;height:2.69792in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image59.png"
+<img src="assets/INFERRING6a/media/image59.png"
 style="width:7.8125in;height:2.72917in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image60.jpeg"
+<img src="assets/INFERRING6a/media/image60.jpeg"
 style="width:2.79861in;height:2.79861in" />
 
 In the world of Mouse Guard, mice struggle to live safely and prosper
@@ -751,21 +751,21 @@ was formed: more than just soldiers that fight off intruders, they are
 guides for common mice looking to journey without confrontation from one
 hidden village to another.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image61.jpeg"
+<img src="assets/INFERRING6a/media/image61.jpeg"
 style="width:3.71667in;height:3.71667in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image62.jpeg"
+<img src="assets/INFERRING6a/media/image62.jpeg"
 style="width:5.76319in;height:5.80764in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image63.jpeg"
+<img src="assets/INFERRING6a/media/image63.jpeg"
 style="width:2.19236in;height:3.08958in" />
 
 Flung across the universe, from star to star, faced with monsters,
 magicians, and maybe new friends, an earth girl named Zita must find a
 way home.
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image64.jpeg"
+<img src="assets/INFERRING6a/media/image64.jpeg"
 style="width:1.82292in;height:2.81319in" />
 
-<img src="/tmp/tmp.jRtWH50WdB/media/media/image65.jpeg"
+<img src="assets/INFERRING6a/media/image65.jpeg"
 style="width:3.45833in;height:5.20764in" />

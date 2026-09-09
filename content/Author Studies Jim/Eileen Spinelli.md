@@ -8,10 +8,10 @@ tags: [jim-k]
 
 **Eileen Spinelli**
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image1.jpeg"
+<img src="assets/Eileen Spinelli/media/image1.jpeg"
 style="width:3.02153in;height:19.79792in" />
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image2.jpeg"
+<img src="assets/Eileen Spinelli/media/image2.jpeg"
 style="width:2.34375in;height:3.17708in" />
 
 As a young child I spent Saturdays at the Sellers Memorial Library in
@@ -68,7 +68,7 @@ barefoot. . . waiting for the mailman. . . star-watching with my husband
 . . . curled up with a novel. . . taking a nap on the back porch.
 Zzzzzzzz. ...Eileen.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image3.jpeg"
+<img src="assets/Eileen Spinelli/media/image3.jpeg"
 style="width:2.66667in;height:3.17708in" />
 
 **Notebook Writing Tips**
@@ -232,7 +232,7 @@ Hero Cat
 
 Buzz
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image4.jpeg"
+<img src="assets/Eileen Spinelli/media/image4.jpeg"
 style="width:4.16667in;height:3.21875in" />
 
 Sophie's no ordinary house spider. She's an artist; and
@@ -472,20 +472,20 @@ Independent Writing:
 
 The students write poetry, weaving special things into their poems.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image5.jpeg"
+<img src="assets/Eileen Spinelli/media/image5.jpeg"
 style="width:4.16667in;height:3.4375in" />
 
 **Lesson:**
 
 Retell the story.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image6.jpeg"
+<img src="assets/Eileen Spinelli/media/image6.jpeg"
 style="width:3.33333in;height:2.47917in" />
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image7.jpeg"
+<img src="assets/Eileen Spinelli/media/image7.jpeg"
 style="width:3.33333in;height:2.5in" />
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image8.jpeg"
+<img src="assets/Eileen Spinelli/media/image8.jpeg"
 style="width:3.33333in;height:1.96875in" />
 
 **Sophie’s Masterpiece**
@@ -581,7 +581,7 @@ characters? E.g.</p>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image9.jpeg"
+<img src="assets/Eileen Spinelli/media/image9.jpeg"
 style="width:5.20764in;height:4.10347in" />
 
 Charlotte’ Web by E.B.White
@@ -648,7 +648,7 @@ Tablecloth.
 
 **Deborah Chandra**
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image10.jpeg"
+<img src="assets/Eileen Spinelli/media/image10.jpeg"
 style="width:1.69514in;height:2.04861in" />
 
 It’s hard to be content with the present moment when you are little. The
@@ -1009,7 +1009,7 @@ I smile.
 
 **Right now.**
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image11.jpeg"
+<img src="assets/Eileen Spinelli/media/image11.jpeg"
 style="width:2.00278in;height:2.49375in" />
 
 Cold Snap is about a ‘cold snap’ that hit the town of Toby Mills. A
@@ -1019,10 +1019,10 @@ story of how Millie Moffat and her brother Chip encounter one
 particularly cold and snowy week and how at the end they just want to go
 home to their cosy pyjamas and warming hot chocolates…
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image12.jpeg"
+<img src="assets/Eileen Spinelli/media/image12.jpeg"
 style="width:6.25in;height:3.32292in" />
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image13.jpeg"
+<img src="assets/Eileen Spinelli/media/image13.jpeg"
 style="width:2.38542in;height:3.11389in" />
 
 Energetic and creative when she is alone, Eileen Spinelli’s unnamed
@@ -1048,7 +1048,7 @@ of Loretta — live their busy, talkative lives in softer colours,
 separated visually, as well as experientially, from the protagonist’s
 inner life.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image14.jpeg"
+<img src="assets/Eileen Spinelli/media/image14.jpeg"
 style="width:1.45764in;height:1.45764in" /> **Eileen Spinelli**
 
 What made you decide to become an author?
@@ -1127,7 +1127,7 @@ and dance.
 
 5\. I don't know how to swim.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image15.jpeg"
+<img src="assets/Eileen Spinelli/media/image15.jpeg"
 style="width:2.42639in;height:3.11944in" />
 
 After the heat of the summer, the arrival of autumn is a wonderful time
@@ -1244,7 +1244,7 @@ on their daddies’ laps.
 
 Sweet autumn dreams, everyone!
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image16.jpeg"
+<img src="assets/Eileen Spinelli/media/image16.jpeg"
 style="width:2.20833in;height:3.33333in" />
 
 Diana loves where she lives. She loves the astronomy charts on her walls
@@ -1793,10 +1793,10 @@ in her will.
 
 “So,” Rose shrugs. “Use it to strain spaghetti.”
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image17.jpeg"
+<img src="assets/Eileen Spinelli/media/image17.jpeg"
 style="width:5.20972in;height:4.13611in" />
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image18.jpeg"
+<img src="assets/Eileen Spinelli/media/image18.jpeg"
 style="width:2.64583in;height:3.11944in" />
 
 Mr. Hatch was not a happy man. The book begins, “Mr. Hatch was tall and
@@ -1807,7 +1807,7 @@ Valentine’s Day the postman delivers him an enormous heart-shaped box of
 candies. Mr. Hatch is stunned. And a little white card with it says,
 “Somebody loves you.” Finally it sinks in: he has a secret admirer.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image19.jpeg"
+<img src="assets/Eileen Spinelli/media/image19.jpeg"
 style="width:2.60417in;height:2.98958in" />
 
 Mr. Hatch is transformed in the way our hearts come alive when we have
@@ -1828,7 +1828,7 @@ the wrong address. Mr. Hatch brings the postman the empty box and the
 little card that says “Somebody loves you”. Mr. Hatch returns to his
 drab, grey existence … or will things turn around?
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image20.jpeg"
+<img src="assets/Eileen Spinelli/media/image20.jpeg"
 style="width:5.20764in;height:6.93889in" />
 
 **Somebody Loves You, Mr Hatch Eileen Spinelli**
@@ -2064,7 +2064,7 @@ sniffed – “somebody loves me after all.”
 And then he smiled. And then he laughed. And then he hurried down to be
 with his friends.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image21.jpeg"
+<img src="assets/Eileen Spinelli/media/image21.jpeg"
 style="width:3.32292in;height:3.33333in" />
 
 Five tiny kittens cry for their mama, as smoke begins to fill the
@@ -2247,7 +2247,7 @@ cries.</em></p>
 **March/April 1996 - It was a story that touched the hearts of people
 throughout the world**.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image22.jpeg"
+<img src="assets/Eileen Spinelli/media/image22.jpeg"
 style="width:1.55208in;height:1.29167in" />
 
 A mother cat pulled her five kittens to safety from a blazing abandoned
@@ -2255,7 +2255,7 @@ building in Brooklyn (USA), badly scorching herself. One kitten,
 weakened by smoke inhalation, died of a virus. Her four remaining
 4-week-old kittens recuperated with her at an animal clinic.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image23.jpeg"
+<img src="assets/Eileen Spinelli/media/image23.jpeg"
 style="width:2.64583in;height:1.82361in" />
 
 The burnt out remains of the derelict building.
@@ -2266,10 +2266,10 @@ and pulled out her kittens, one by one. Once all the kittens had been
 rescued, their mother conducted a head count, touching each kitten with
 her nose to make sure they were all there.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image24.jpeg"
+<img src="assets/Eileen Spinelli/media/image24.jpeg"
 style="width:2.08194in;height:1.80278in" /> Scarlett
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image25.png"
+<img src="assets/Eileen Spinelli/media/image25.png"
 style="width:1.45833in;height:1.80208in" /> David
 
 Firefighter David Giannelli, a 17-year veteran with Ladder Company 175
@@ -2293,7 +2293,7 @@ Two kittens, "Oreo" and "Smokey", went to Debbie Palmarozzo of Miller
 Place, Long Island. "I might change Smokey's name to Cinders," said
 Palmarozzo.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image26.jpeg"
+<img src="assets/Eileen Spinelli/media/image26.jpeg"
 style="width:1.90625in;height:1.4375in" />
 
 The two other kittens "Samsara" and "Panuki", who have been inseparable,
@@ -2310,7 +2310,7 @@ Karen's letter caught the committee's eye because she told of losing her
 own cat seven years ago shortly after she herself was hurt in a car
 accident.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image27.jpeg"
+<img src="assets/Eileen Spinelli/media/image27.jpeg"
 style="width:1.875in;height:1.42708in" />
 
 "The physical and emotional pain I suffered made me more compassionate,
@@ -2345,11 +2345,11 @@ Award for Animal Heroism, in Scarlett's honour. This award is presented
 to animals that have engaged in heroic acts to benefit others, whether
 humans or other animals.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image28.jpeg"
+<img src="assets/Eileen Spinelli/media/image28.jpeg"
 style="width:2.49861in;height:1.65556in" /> Scarlett on her way to
 recovery.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image29.jpeg"
+<img src="assets/Eileen Spinelli/media/image29.jpeg"
 style="width:1.66736in;height:2.47778in" /> Scarlett with her new mum,
 Karen W.
 
@@ -2381,7 +2381,7 @@ but I am also "mother."
 
 Author - Rosemary Asmussen
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image30.jpeg"
+<img src="assets/Eileen Spinelli/media/image30.jpeg"
 style="width:1.71875in;height:2.08333in" />
 
 When Miss Fox shows up at school riding her bicycle, Mouse asks, "Do you
@@ -2519,7 +2519,7 @@ The next day Miss Fox’s class had lots of company going green.
 
 Now it was … the whole school!!
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image31.jpeg"
+<img src="assets/Eileen Spinelli/media/image31.jpeg"
 style="width:2.21944in;height:3.11875in" />
 
 As a young mouse eagerly looks forward to everything that autumn will
@@ -2897,7 +2897,7 @@ now.
 
 Now!
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image32.jpeg"
+<img src="assets/Eileen Spinelli/media/image32.jpeg"
 style="width:1.71875in;height:2.42708in" />
 
 "Will spring ever come?" an inquisitive young mouse asks his mother.
@@ -3181,7 +3181,7 @@ Now is the time
 
 to be.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image33.jpeg"
+<img src="assets/Eileen Spinelli/media/image33.jpeg"
 style="width:4.43681in;height:5.20764in" />
 
 The mercury is climbing in Lumberville, and the folks are doing
@@ -3293,7 +3293,7 @@ LUMBERVILLE POST
 
 **BREAKS**
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image34.png"
+<img src="assets/Eileen Spinelli/media/image34.png"
 style="width:2.48056in;height:2.80764in" />
 
 One day a sash from a local beauty pageant blows across the farm and
@@ -3465,7 +3465,7 @@ She clasped her gold necklace around Cow’s neck. “Three cheers for my
 loyal-royal friends!” cried Pig. And she headed for the good old dance
 floor with regular old Pony.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image35.jpeg"
+<img src="assets/Eileen Spinelli/media/image35.jpeg"
 style="width:1.54167in;height:1.86458in" />
 
 Each segment of the day is special to someone in this rural outing from
@@ -3588,7 +3588,7 @@ For Barn Owl the best time of day …
 
 is the night.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image36.jpeg"
+<img src="assets/Eileen Spinelli/media/image36.jpeg"
 style="width:2.39583in;height:2.625in" />
 
 When the sun sets, night shift Daddy eats dinner with his little girl,
@@ -3687,7 +3687,7 @@ While night shift Daddy snores away
 
 I dress myself, go out and play.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image37.jpeg"
+<img src="assets/Eileen Spinelli/media/image37.jpeg"
 style="width:2.32292in;height:3.125in" />
 
 Summary: Silly Tilly, a goose, drives the other barnyard animals crazy
@@ -3695,28 +3695,28 @@ with her silliness. They very gruffly tell her to stop. So she does.
 Then they discover that they miss her old ways. This is a classic theme
 in children's picture books about being careful what you wish for.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image38.jpeg"
+<img src="assets/Eileen Spinelli/media/image38.jpeg"
 style="width:5.625in;height:3.61458in" />
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image39.jpeg"
+<img src="assets/Eileen Spinelli/media/image39.jpeg"
 style="width:5.17708in;height:3.23958in" />
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image40.jpeg"
+<img src="assets/Eileen Spinelli/media/image40.jpeg"
 style="width:5.17708in;height:3.42708in" />
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image41.jpeg"
+<img src="assets/Eileen Spinelli/media/image41.jpeg"
 style="width:6.66597in;height:4.37361in" />
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image42.jpeg"
+<img src="assets/Eileen Spinelli/media/image42.jpeg"
 style="width:6.66597in;height:3.77083in" />
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image43.jpeg"
+<img src="assets/Eileen Spinelli/media/image43.jpeg"
 style="width:6.53889in;height:8.64861in" />
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image44.jpeg"
+<img src="assets/Eileen Spinelli/media/image44.jpeg"
 style="width:6.6875in;height:8.57917in" />
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image45.jpeg"
+<img src="assets/Eileen Spinelli/media/image45.jpeg"
 style="width:2.47917in;height:2.11458in" />
 
 Writers are often admonished not to have messages or get preachy. Eileen
@@ -3820,7 +3820,7 @@ creaking on the roof. Mama spun and dipped. In fact, everyone was having
 such a good time that Moses was the only one who noticed … when spring
 arrived!
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image46.jpeg"
+<img src="assets/Eileen Spinelli/media/image46.jpeg"
 style="width:3.31319in;height:2.65694in" />
 
 A playful journey into a child's imagination.
@@ -3980,14 +3980,14 @@ window.</em></p></td>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image47.jpeg"
+<img src="assets/Eileen Spinelli/media/image47.jpeg"
 style="width:2.39583in;height:2.625in" />
 
 Everyone tells Wanda that there are no such things as monsters. It is
 Granny who starts Wanda thinking about the monsters in a new, and
 delightful, way.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image48.jpeg"
+<img src="assets/Eileen Spinelli/media/image48.jpeg"
 style="width:2.60417in;height:2.53125in" />
 
 "When Mama comes home from work, dear child, when Mama comes home
@@ -4003,7 +4003,7 @@ glorious pastel paintings. For any parent who comes home at night to a
 waiting child, "When Mama Comes Home Tonight" is the perfect book to
 read together.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image49.jpeg"
+<img src="assets/Eileen Spinelli/media/image49.jpeg"
 style="width:2.5in;height:2.5in" />
 
 It is a great story, an especially great one to use in the Writing
@@ -4107,7 +4107,7 @@ that roller coaster ride with Anne Miles and maybe I won’t. Either way,
 I’ll be happy. I’ll be a winner. Because the story I wrote is my own.
 Not somebody else’s. And that makes it the best.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image50.jpeg"
+<img src="assets/Eileen Spinelli/media/image50.jpeg"
 style="width:1.33056in;height:1.26875in" />
 
 Moe McTooth is an outdoor cat. By day he prowls Dumpsters and doorways.
@@ -4313,7 +4313,7 @@ And life was good.
 
 Together.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image51.jpeg"
+<img src="assets/Eileen Spinelli/media/image51.jpeg"
 style="width:2.08333in;height:2.08333in" />
 
 Little Raccoon likes 'clomping and stomping and romping'. He likes
@@ -4376,7 +4376,7 @@ last star still shining. “Nightie-night,” I croon, all smiles.
 Cat curls up beside me. Mum tousles my hair. She kisses me twice.
 Whispers, “Honey, that was the nicest Mother’s Day ever!”
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image52.jpeg"
+<img src="assets/Eileen Spinelli/media/image52.jpeg"
 style="width:4.16667in;height:3.34444in" />
 
 Everybody wants to have at least one great adventure to trot out when
@@ -4401,7 +4401,7 @@ Pole. Spinelli has taken that fact as her jumping-off point for this
 charming and instructive tale. Slavin's spirited acrylic illustrations
 are a perfect match."
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image53.jpeg"
+<img src="assets/Eileen Spinelli/media/image53.jpeg"
 style="width:2.08333in;height:1.6875in" />
 
 **Something to Tell the Grandcows**.
@@ -4427,7 +4427,7 @@ sky and whales spouting in the bay. She has an encounter with a penguin,
 experiences the midnight sun, and finally on April 19 finds out what
 winter at the South Pole is like:
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image54.jpeg"
+<img src="assets/Eileen Spinelli/media/image54.jpeg"
 style="width:2.08333in;height:1.71875in" />*On that day the sky flared
 blue, green, red  
 and yellow. It was quite beautiful.  
@@ -4606,7 +4606,7 @@ adventure …
 
 And of course they were.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image55.jpeg"
+<img src="assets/Eileen Spinelli/media/image55.jpeg"
 style="width:2.5in;height:2.5in" />
 
 *When Papa comes home tonight, dear child,*
@@ -4629,13 +4629,13 @@ parent and child.
 
 **Baby Loves You So Much**
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image56.jpeg"
+<img src="assets/Eileen Spinelli/media/image56.jpeg"
 style="width:4.79306in;height:5.20972in" />
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image57.jpeg"
+<img src="assets/Eileen Spinelli/media/image57.jpeg"
 style="width:5.20764in;height:2.90694in" />
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image58.jpeg"
+<img src="assets/Eileen Spinelli/media/image58.jpeg"
 style="width:2.15625in;height:2.98958in" />
 
 Three generations of the Hog family set out to attend an operatic
@@ -4654,7 +4654,7 @@ hog sextet in their Sunday best, grinning despite the setbacks; a
 picture of Grandma Hog spinning on roller skates is especially
 entertaining.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image59.jpeg"
+<img src="assets/Eileen Spinelli/media/image59.jpeg"
 style="width:3.41667in;height:4.16667in" />
 
 Buzz, a spunky little bumblebee, has a problem flying after coming
@@ -4777,7 +4777,7 @@ sneezed. Out from his ear popped Buzz.
 
 I CAN FLY!
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image60.jpeg"
+<img src="assets/Eileen Spinelli/media/image60.jpeg"
 style="width:2.60417in;height:2.04167in" />
 
 The Arctic may be a cold and unforgiving place, but it teems with
@@ -4790,7 +4790,7 @@ inhabitants. Eugenie Fernandes's beautiful, realistic renderings
 complement the word pictures. Curious facts about each creature are
 included in the back matter.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image61.jpeg"
+<img src="assets/Eileen Spinelli/media/image61.jpeg"
 style="width:2.60417in;height:3.34375in" />
 
 In this tale of two Thanksgivings, the narrator tells about Abigail
@@ -4941,7 +4941,7 @@ alike in just how loving
 
 our different families are.
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image62.jpeg"
+<img src="assets/Eileen Spinelli/media/image62.jpeg"
 style="width:3.45833in;height:4.16667in" />
 
 Tony loves to dance. He jumps and taps and twirls through his days.
@@ -5103,7 +5103,7 @@ The man who ran the dishwasher watched, too. “Who is that?” he asked.
 
 “That’s my son,” beamed Tony’s father … *“Boy, can he dance!”*
 
-<img src="/tmp/tmp.aU4iZQDAsx/media/media/image63.jpeg"
+<img src="assets/Eileen Spinelli/media/image63.jpeg"
 style="width:3.89583in;height:3.86458in" />
 
 Long ago, when Althea was a child, even a simple routine such as taking

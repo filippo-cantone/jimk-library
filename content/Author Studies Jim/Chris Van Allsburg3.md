@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image1.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image1.jpeg"
 style="width:4.16667in;height:2.53194in" />
 
 **Chris Van Allsburg**
@@ -23,10 +23,10 @@ Queen of the Falls
 
 Probuditi
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image2.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image2.jpeg"
 style="width:2.77083in;height:4.03125in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image3.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image3.jpeg"
 style="width:2.34236in;height:2.34236in" />
 
 One day as a witch is flying over widow Minna Shaw's home, her broom
@@ -62,7 +62,7 @@ Allsburg's typical knack for pushing against the boundaries of reality.
 As readers, we believe as easily in the falling witch and the broom that
 sweeps by itself as in the kindly Minna Pratt.
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image4.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image4.jpeg"
 style="width:1.82361in;height:2.99097in" />
 
 While this book provides wonderful Halloween reading, it raises an
@@ -93,13 +93,13 @@ What I can infer about the character
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image5.png"
+<img src="assets/Chris Van Allsburg3/media/image5.png"
 style="width:5.20764in;height:8.53194in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image6.png"
+<img src="assets/Chris Van Allsburg3/media/image6.png"
 style="width:5.20764in;height:8.38472in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image7.png"
+<img src="assets/Chris Van Allsburg3/media/image7.png"
 style="width:5.20833in;height:8.61458in" />
 
 **Questions:**
@@ -116,12 +116,12 @@ fear someone or something they don't understand?
 Was the magic broom really burned? How did Minna trick the Spiveys into
 thinking her broom was a ghost?
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image8.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image8.jpeg"
 style="width:1.76042in;height:3.10417in" />
 
 **Read and Retell**
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image9.png"
+<img src="assets/Chris Van Allsburg3/media/image9.png"
 style="width:1.55764in;height:2.74583in" />
 
 **Writing -** Personification
@@ -368,10 +368,10 @@ paint she’d given it.
 “You play so nicely,” Minna Shaw said. The broom bowed, put a log on the
 fire, and played another tune.
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image10.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image10.jpeg"
 style="width:5.6875in;height:10.41667in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image11.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image11.jpeg"
 style="width:5.48958in;height:9.86944in" />
 
 Book:
@@ -402,7 +402,7 @@ Book:
 </tbody>
 </table>
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image12.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image12.jpeg"
 style="width:2.17708in;height:2.90625in" />
 
 The Wretched Stone begins with a notice reading: “Excerpts from the log
@@ -730,7 +730,7 @@ events that took place aboard the *Rita Anne.* The men appear to have
 recovered completely, though some show an unnatural appetite for the
 fruit that is available here.
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image13.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image13.jpeg"
 style="width:1.74722in;height:2.62083in" />
 
 *Queen of the Falls* is about Annie Edson Taylor, who dared to do
@@ -750,7 +750,7 @@ was equipped with metal handles to grab onto and a leather belt to strap
 herself securely. She also hired a publicity manager to stir up
 newspaper interest.
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image14.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image14.jpeg"
 style="width:2.29236in;height:2.93819in" />
 
 On October 24 of that year, Annie “took the plunge” in front of huge
@@ -763,13 +763,13 @@ barrel and opened it, finding a slightly bruised and dazed Annie Taylor
 alive! She was the first person to ever go over Niagara Falls in a
 barrel and survive.
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image15.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image15.jpeg"
 style="width:5.20833in;height:2.08333in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image16.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image16.jpeg"
 style="width:4.72778in;height:5.57361in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image17.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image17.jpeg"
 style="width:5.20764in;height:7.34375in" />
 
 **Queen of the Falls Chris Van Allsburg**
@@ -1145,40 +1145,40 @@ was the greatest feat ever performed.”
 
 “And I am content when I can say, ‘I am the one who did it.’”
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image18.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image18.jpeg"
 style="width:5.20833in;height:8.31111in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image19.png"
+<img src="assets/Chris Van Allsburg3/media/image19.png"
 style="width:2.50972in;height:4.00972in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image20.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image20.jpeg"
 style="width:5in;height:3.75in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image21.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image21.jpeg"
 style="width:6.64444in;height:8.50486in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image22.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image22.jpeg"
 style="width:5.02917in;height:7.37014in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image23.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image23.jpeg"
 style="width:5.20833in;height:6.20833in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image24.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image24.jpeg"
 style="width:5.20833in;height:6.25in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image25.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image25.jpeg"
 style="width:5.20833in;height:3.76042in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image26.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image26.jpeg"
 style="width:1.94792in;height:2.8125in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image27.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image27.jpeg"
 style="width:5.55278in;height:9.10764in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image28.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image28.jpeg"
 style="width:6.27847in;height:9.07778in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image29.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image29.jpeg"
 style="width:5in;height:4.0625in" />
 
 **Annie Edson Taylor** (1838–1921) was an American adventurer who, on
@@ -1290,7 +1290,7 @@ Book:
 | **Inference** | **Evidence** |
 |               |              |
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image30.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image30.jpeg"
 style="width:2.21667in;height:2.89028in" />
 
 For his birthday, Calvin’s mother gives him two tickets to see Lomax the
@@ -1579,10 +1579,10 @@ butter sandwich. “The spaghetti was really good,” she told him. “So was
 the cake.” Calvin just grunted. “Know what else I liked?” Trudy asked.
 “That ice cream I had this afternoon. chocolate chip’s my favourite.”
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image31.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image31.jpeg"
 style="width:6.42083in;height:4.81597in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image32.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image32.jpeg"
 style="width:1.75in;height:2.5in" />
 
 What clues help you to understand Calvin’s character?
@@ -1619,10 +1619,10 @@ get more out of them.
 | Mama climbed out of the car …                       |           |                         |          |           |
 | How does Calvin feel about Trudy?                   |           |                         |          |           |
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image33.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image33.jpeg"
 style="width:4.5625in;height:6.25in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image34.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image34.jpeg"
 style="width:4.54167in;height:6.25in" />
 
 **WRITING CRAFT Probuditi**
@@ -1707,7 +1707,7 @@ Book:
 | **Inference** | **Evidence** |
 |               |              |
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image35.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image35.jpeg"
 style="width:2.32778in;height:2.99444in" />
 
 The Z Was Zapped is a delightful alphabet book set up as a play in
@@ -1768,16 +1768,16 @@ using other words? Try to use alliteration if you can.
 Using the pictures and what you know of how the book is put together,
 try to guess how each letter will be described on the following page.
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image36.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image36.jpeg"
 style="width:1.94792in;height:2.8125in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image37.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image37.jpeg"
 style="width:7.10347in;height:9.17292in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image38.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image38.jpeg"
 style="width:5in;height:6.66667in" />
 
-<img src="/tmp/tmp.CiphXiODcj/media/media/image39.jpeg"
+<img src="assets/Chris Van Allsburg3/media/image39.jpeg"
 style="width:4.89583in;height:6.69861in" />
 
 **Chris Van Allsburg**

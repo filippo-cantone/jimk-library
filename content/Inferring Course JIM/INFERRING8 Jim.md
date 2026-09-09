@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.iKET1FYWPZ/media/media/image1.jpeg"
+<img src="assets/INFERRING8 Jim/media/image1.jpeg"
 style="width:2.62778in;height:3.17361in" />
 
 **INFERRING**
@@ -29,7 +29,7 @@ By Anne Kispal
 
 Graphic Organisers
 
-<img src="/tmp/tmp.iKET1FYWPZ/media/media/image2.jpeg"
+<img src="assets/INFERRING8 Jim/media/image2.jpeg"
 style="width:5.76042in;height:3.84375in" />
 
 *Students must infer cause and effect, main ideas, problems and
@@ -300,7 +300,7 @@ interesting because…
 
 • The character I most admire is\_\_\_\_\_\_\_ because…
 
-<img src="/tmp/tmp.iKET1FYWPZ/media/media/image3.jpeg"
+<img src="assets/INFERRING8 Jim/media/image3.jpeg"
 style="width:3.33333in;height:3.33333in" />
 
 **INFER WITH EVIDENCE**
@@ -608,13 +608,13 @@ aloud using her schema, the pictures, and the words in the text to help
 infer answers; gradually invite children to do the same, recording
 thinking on the chart.
 
-<img src="/tmp/tmp.iKET1FYWPZ/media/media/image4.jpeg"
+<img src="assets/INFERRING8 Jim/media/image4.jpeg"
 style="width:7.88681in;height:4.76667in" />
 
-<img src="/tmp/tmp.iKET1FYWPZ/media/media/image5.jpeg"
+<img src="assets/INFERRING8 Jim/media/image5.jpeg"
 style="width:1.875in;height:2.5in" />
 
-<img src="/tmp/tmp.iKET1FYWPZ/media/media/image6.jpeg"
+<img src="assets/INFERRING8 Jim/media/image6.jpeg"
 style="width:1.875in;height:2.5in" />
 
 Goals addressed in Elephants under Attack
@@ -657,7 +657,7 @@ APRIL 19, 2013
 
 By Suzanne Zimbler
 
-<img src="/tmp/tmp.iKET1FYWPZ/media/media/image7.jpeg"
+<img src="assets/INFERRING8 Jim/media/image7.jpeg"
 style="width:5.08333in;height:2.70833in" />
 
 DOZENS OF AFRICAN ELEPHANTS SLAUGHTERED. That headline has become all
@@ -720,7 +720,7 @@ MAY 03, 2013
 
 **By Bryan Walsh for TIME**
 
-<img src="/tmp/tmp.iKET1FYWPZ/media/media/image8.jpeg"
+<img src="assets/INFERRING8 Jim/media/image8.jpeg"
 style="width:5.08333in;height:2.70833in" />
 
 SCIENCE PICTURES CO./SCIENCE FACTION/CORBIS

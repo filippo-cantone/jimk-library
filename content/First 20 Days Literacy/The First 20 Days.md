@@ -12,12 +12,12 @@ tags: [jim-k]
 
 **Days**
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image1.png"
+<img src="assets/The First 20 Days/media/image1.png"
 style="width:5.08194in;height:3.01736in" />
 
 **READING**
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image2.png"
+<img src="assets/The First 20 Days/media/image2.png"
 style="width:3.125in;height:3.875in" />
 
 **CONTENTS**
@@ -433,7 +433,7 @@ o Books can be easy, “just right”, or challenging for a reader.
 
 o Readers should choose “just right” books most of the time.
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image3.jpeg"
+<img src="assets/The First 20 Days/media/image3.jpeg"
 style="width:2.05208in;height:2.66667in" />
 
 **<u>Ways to Choose a Book</u>**
@@ -462,7 +462,7 @@ Genres we like to read
 
 New/popular book
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image4.jpeg"
+<img src="assets/The First 20 Days/media/image4.jpeg"
 style="width:2.46875in;height:2.21875in" />
 
 **<u>Choosing a Just Right Book</u>**
@@ -500,7 +500,7 @@ style="width:2.46875in;height:2.21875in" />
 
 You wouldn’t be able to talk to someone about what you’re reading.
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image5.jpeg"
+<img src="assets/The First 20 Days/media/image5.jpeg"
 style="width:3.04167in;height:2.40833in" />
 
 **Use the Goldilocks Strategy to Choose Books**
@@ -715,7 +715,7 @@ Explain what you want to remember about this book and why.
 Make a list of things you don’t understand, find confusing, or have
 questions about.
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image6.jpeg"
+<img src="assets/The First 20 Days/media/image6.jpeg"
 style="width:5.41944in;height:3.39167in" />
 
 **READING RESPONSE JOURNAL**
@@ -1337,13 +1337,13 @@ it be?
 *I’d say to her, “Keep on believing and hoping, things can and will get
 better!!!”*
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image7.jpeg"
+<img src="assets/The First 20 Days/media/image7.jpeg"
 style="width:2.08333in;height:3.51944in" />
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image8.jpeg"
+<img src="assets/The First 20 Days/media/image8.jpeg"
 style="width:1.875in;height:2.81389in" />
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image9.jpeg"
+<img src="assets/The First 20 Days/media/image9.jpeg"
 style="width:3.12569in;height:2.34444in" />
 
 **READING LOG**
@@ -2475,7 +2475,7 @@ Make sure the children can see the pictures easily.
 - Avoid using the Read Aloud as a ‘reward’. It is an important part of
   the normal, daily Balance Literacy program.
 
-- <img src="/tmp/tmp.6Uhztxfn62/media/media/image10.jpeg"
+- <img src="assets/The First 20 Days/media/image10.jpeg"
   style="width:2.08333in;height:2.61458in" />
 
 **First Day Jitters by Julie Danneberg**
@@ -2489,7 +2489,7 @@ together and goes to school. She is quickly befriended by Mrs. Burton,
 who helps smooth her jittery transition. This charming and familiar
 story will delight readers with its surprise ending**.**
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image11.jpeg"
+<img src="assets/The First 20 Days/media/image11.jpeg"
 style="width:4.74861in;height:3.12569in" />
 
 **First Day Jitters Julie Danneberg**
@@ -2560,7 +2560,7 @@ like you to meet …
 
 … your new teacher, Mrs Sarah Jane Hartwell.”
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image12.jpeg"
+<img src="assets/The First 20 Days/media/image12.jpeg"
 style="width:3.57292in;height:2.625in" />
 
 **First Day Read Alouds**
@@ -2629,10 +2629,10 @@ ugly things that stereotypically-red-headed class bully Ronald Durkin
 says to her, she just grins her giant grinning grin and goes right ahead
 doing whatever it is she’s doing.
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image13.jpeg"
+<img src="assets/The First 20 Days/media/image13.jpeg"
 style="width:4.66458in;height:3.49861in" />
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image14.jpeg"
+<img src="assets/The First 20 Days/media/image14.jpeg"
 style="width:2.08333in;height:2.92708in" />
 
 In this sequel to First Day Jitters, Sarah Jane Hartwell has got up her
@@ -2652,7 +2652,7 @@ Teachers and children alike will identify with Mrs. Hartwell as she
 navigates her first year. And many classes will be inspired to write
 letters about their own experiences**.**
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image15.jpeg"
+<img src="assets/The First 20 Days/media/image15.jpeg"
 style="width:4.75in;height:3.09375in" />
 
 **Read Aloud Suggestions**
@@ -2991,7 +2991,7 @@ Whole class
 
 **Something from Nothing by Phoebe Gilman**
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image16.jpeg"
+<img src="assets/The First 20 Days/media/image16.jpeg"
 style="width:2.11736in;height:2.31875in" />
 
 The blanket Joseph's grandfather made him is transformed into many
@@ -2999,7 +2999,7 @@ things as the years go by: a jacket, a vest, a tie, a handkerchief, and
 finally a button. Gilman's modern adaptation and lively illustrations
 turn this favourite Jewish tale into a contemporary classic.
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image17.jpeg"
+<img src="assets/The First 20 Days/media/image17.jpeg"
 style="width:4.91736in;height:3.17917in" />
 
 **Something from Nothing by Phoebe Gilman**
@@ -3369,10 +3369,10 @@ button she offers him her dolly but not her special blanket.
 Something From Nothing is being made into an animated special by
 Portfolio Entertainment.
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image18.png"
+<img src="assets/The First 20 Days/media/image18.png"
 style="width:1.5625in;height:1.97917in" />
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image21.png"
+<img src="assets/The First 20 Days/media/image21.png"
 style="height:0.15556in" />
 
 **What can I tell you about myself?** I like to make up stories and draw
@@ -3404,7 +3404,7 @@ Shortly after coming to Canada in 1972, I met and married Brian Bender.
 We have three children, Ingrid, Jason and Melissa, two granddaughters,
 Ariana and Emily and a cat, Minoo.
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image22.png"
+<img src="assets/The First 20 Days/media/image22.png"
 style="width:1.77083in;height:2.08333in" />It was because of my
 daughter, Ingrid, that I became an author. When her balloon burst on a
 tree branch, I wished the tree would magically sprout balloons. It
@@ -3684,7 +3684,7 @@ own.</p></td>
 
 **The Paperboy by Dav Pilkey**
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image23.jpeg" /><img src="/tmp/tmp.6Uhztxfn62/media/media/image23.jpeg"
+<img src="assets/The First 20 Days/media/image23.jpeg" /><img src="assets/The First 20 Days/media/image23.jpeg"
 style="width:2.12083in;height:2.48333in" />
 
 A quiet mood piece that depicts the bond between a paperboy and his dog.
@@ -3692,16 +3692,16 @@ Human and canine both struggle to rouse themselves, eat breakfast from
 bowls, and have an intimate knowledge of their route. Pilkey paints
 their shared experiences with a graceful economy of language.
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image24.jpeg"
+<img src="assets/The First 20 Days/media/image24.jpeg"
 style="width:2.13542in;height:2.56181in" />
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image25.jpeg"
+<img src="assets/The First 20 Days/media/image25.jpeg"
 style="width:5.25278in;height:2.95486in" />
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image26.png"
+<img src="assets/The First 20 Days/media/image26.png"
 style="width:4.875in;height:2.78125in" />
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image27.jpeg"
+<img src="assets/The First 20 Days/media/image27.jpeg"
 style="width:4.16667in;height:2.9875in" />
 
 **The Paperboy Dav Pilkey**
@@ -4271,7 +4271,7 @@ alienate, irritate, or frighten you?
 
 **David Macaulay**
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image28.jpeg"
+<img src="assets/The First 20 Days/media/image28.jpeg"
 style="width:1.91042in;height:2.79861in" />
 
 The warning on the title page reads:
@@ -4677,7 +4677,7 @@ Focus: Questioning Before, During, After.
 
 See Book Discussion Questions
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image29.jpeg"
+<img src="assets/The First 20 Days/media/image29.jpeg"
 style="width:2.37361in;height:2.59167in" />
 
 **The Mystery of Eilean Mor Gary Crew**
@@ -6153,5 +6153,5 @@ Readers’ Theatre with Younger Readers
 
 Cicadas by Paul Fleischman.
 
-<img src="/tmp/tmp.6Uhztxfn62/media/media/image30.jpeg"
+<img src="assets/The First 20 Days/media/image30.jpeg"
 style="width:6.56597in;height:8.54375in" />

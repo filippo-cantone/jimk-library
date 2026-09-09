@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.UTc0HvQnD6/media/media/image1.jpeg"
+<img src="assets/Kevin Henkes/media/image1.jpeg"
 style="width:6.25in;height:4.04167in" />
 
 **Kevin Henkes**
@@ -45,7 +45,7 @@ Good-Bye Curtis
 
 Penny and Her Marble
 
-<img src="/tmp/tmp.UTc0HvQnD6/media/media/image2.jpeg"
+<img src="assets/Kevin Henkes/media/image2.jpeg"
 style="width:2.5in;height:3.125in" />
 
 **Meet Kevin Henkes**
@@ -370,7 +370,7 @@ remind them to have fun and not be concerned with creating a
 masterpiece. If, as adults, we value art and books, our children will,
 too.
 
-<img src="/tmp/tmp.UTc0HvQnD6/media/media/image3.jpeg"
+<img src="assets/Kevin Henkes/media/image3.jpeg"
 style="width:2.10417in;height:2.71875in" />
 
 Kevin Henkes is a great Author as Mentor for the units of study.
@@ -398,7 +398,7 @@ Characteristics of Kevin Henkes books:
 \- there is a lot of “show don’t tell” in his books about what his
 characters are feeling.
 
-<img src="/tmp/tmp.UTc0HvQnD6/media/media/image4.jpeg"
+<img src="assets/Kevin Henkes/media/image4.jpeg"
 style="width:1.38542in;height:1.72917in" />
 
 Wemberly is always worried. She is worried about the swings, her
@@ -410,7 +410,7 @@ teacher be mean? What if she does not like the snack? What if she can’t
 find the bathroom? Wemberly is worried about everything. Will she be
 able to go to school and find a friend?
 
-<img src="/tmp/tmp.UTc0HvQnD6/media/media/image5.jpeg"
+<img src="assets/Kevin Henkes/media/image5.jpeg"
 style="width:1.40625in;height:1.71875in" />
 
 Owen has a favourite yellow blanket. He calls it Fuzzy. Owen goes
@@ -425,7 +425,7 @@ buries Fuzzy in the sand so that it smells like sand! Then Mrs. Tweezer
 tells Owen’s parents that he will not be able to bring it to school.
 Will Owen be too smart for this too?
 
-<img src="/tmp/tmp.UTc0HvQnD6/media/media/image6.jpeg"
+<img src="assets/Kevin Henkes/media/image6.jpeg"
 style="width:1.57292in;height:1.95833in" />
 
 Sheila Rae is not afraid of anything. She rides her bicycle without
@@ -438,7 +438,7 @@ cats, turns corners, and walks across streets. She is fine until she
 realises that she is lost. Sheila Rae is not brave any more. Who will be
 the brave mouse now?
 
-<img src="/tmp/tmp.UTc0HvQnD6/media/media/image7.jpeg"
+<img src="assets/Kevin Henkes/media/image7.jpeg"
 style="width:1.48958in;height:1.76042in" />
 
 Ruthie Simms does not have a dog, cat, brother, or sister. She does have
@@ -453,7 +453,7 @@ teacher tells the class to find a partner, Ruthie becomes partners with
 Jessica, but then a different girl asks Ruthie to be her partner. What
 will Ruthie do?
 
-<img src="/tmp/tmp.UTc0HvQnD6/media/media/image8.jpeg"
+<img src="assets/Kevin Henkes/media/image8.jpeg"
 style="width:1.54167in;height:1.89583in" />
 
 Chrysanthemum is a name of a beautiful flower. It is also the name of a
@@ -679,7 +679,7 @@ of the Flowers.
 Eventually, Mrs Twinkle gave birth to a healthy baby girl. And, of
 course, she named her Chrysanthemum.
 
-<img src="/tmp/tmp.UTc0HvQnD6/media/media/image9.jpeg"
+<img src="assets/Kevin Henkes/media/image9.jpeg"
 style="width:1.4375in;height:1.77083in" />
 
 Have you ever been so excited about something that you just have to
@@ -875,7 +875,7 @@ That is, when she didn’t want to be a dancer, or a surgeon or an
 ambulance driver or a diva or a pilot or a hairdresser or a scuba diver
 …
 
-<img src="/tmp/tmp.UTc0HvQnD6/media/media/image10.jpeg"
+<img src="assets/Kevin Henkes/media/image10.jpeg"
 style="width:1.55208in;height:1.92708in" />
 
 Lily found out that she was going to be a big sister. She loved her baby

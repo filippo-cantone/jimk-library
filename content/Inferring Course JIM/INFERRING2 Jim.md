@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image1.jpeg"
+<img src="assets/INFERRING2 Jim/media/image1.jpeg"
 style="width:4.75139in;height:4.75139in" />
 
 **INFERRING**
@@ -268,7 +268,7 @@ Reading Comprehension*.*
 
 **Granddaddy’s Gift Margaree Mitchell**
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image2.jpeg"
+<img src="assets/INFERRING2 Jim/media/image2.jpeg"
 style="width:2.04236in;height:2.67569in" />
 
 Little Joe loves her granddaddy so much she would rather stay home with
@@ -924,12 +924,12 @@ with *The Stranger*.
 | Questions | Inferences |
 |           |            |
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image3.jpeg"
+<img src="assets/INFERRING2 Jim/media/image3.jpeg"
 style="width:2.60347in;height:2.10278in" />
 
 **The Stranger by Chris Van Allsburg** (see also Questioning)
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image4.jpeg"
+<img src="assets/INFERRING2 Jim/media/image4.jpeg"
 style="width:2.08333in;height:1.8125in" />
 
 *It is just as the leaves are beginning to change colours that farmer
@@ -1005,22 +1005,22 @@ Book:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 | Questions | Inferences |
 |           |            |
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image5.jpeg"
+<img src="assets/INFERRING2 Jim/media/image5.jpeg"
 style="width:3.87292in;height:3.03819in" />
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image6.jpeg"
+<img src="assets/INFERRING2 Jim/media/image6.jpeg"
 style="width:4.91667in;height:3.83958in" />
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image7.jpeg"
+<img src="assets/INFERRING2 Jim/media/image7.jpeg"
 style="width:2.60417in;height:2.10417in" />
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image8.jpeg"
+<img src="assets/INFERRING2 Jim/media/image8.jpeg"
 style="width:5.20833in;height:4.11458in" />
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image9.jpeg"
+<img src="assets/INFERRING2 Jim/media/image9.jpeg"
 style="width:5.20764in;height:4.28056in" />
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image10.jpeg"
+<img src="assets/INFERRING2 Jim/media/image10.jpeg"
 style="width:2.64583in;height:2.07292in" />
 
 **The Stranger Chris Van Allsburg**
@@ -1139,7 +1139,7 @@ feelings. It is also easy to predict what will happen next.
 Cover: What can you infer from the picture of the boy with a plate of
 beans?
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image11.jpeg"
+<img src="assets/INFERRING2 Jim/media/image11.jpeg"
 style="width:3.3125in;height:2.68681in" />
 
 What are ‘tight times?’
@@ -1299,7 +1299,7 @@ her chin whiskers.
 
 I sure hope Dog like lima beans.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image12.jpeg"
+<img src="assets/INFERRING2 Jim/media/image12.jpeg"
 style="width:4.16667in;height:3.125in" />
 
 Tight Times Barbara Shook Hazen
@@ -1368,10 +1368,10 @@ Size of print on first page.
 
 From this evidence I would infer that the boy is shy.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image13.jpeg"
+<img src="assets/INFERRING2 Jim/media/image13.jpeg"
 style="width:1.92569in;height:2.83194in" />
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image14.jpeg"
+<img src="assets/INFERRING2 Jim/media/image14.jpeg"
 style="width:2.39375in;height:2.61597in" />
 
 **Create a Dialogue**
@@ -1426,7 +1426,7 @@ the meaning of the story.
 >
 > **Yow!**
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image15.jpeg"
+<img src="assets/INFERRING2 Jim/media/image15.jpeg"
 style="width:2.15694in;height:2.99653in" />
 
 The two friends of the Caldecott Honour Book Yo Yes? meet
@@ -1437,7 +1437,7 @@ side is shown as well.
 
 Students can create their own other half of the conversation.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image16.jpeg"
+<img src="assets/INFERRING2 Jim/media/image16.jpeg"
 style="width:1.71042in;height:2.37986in" /> Review
 
 Understatement, simplicity, and subversion comprise a formula for
@@ -1477,16 +1477,16 @@ What changes do they notice? Can they figure out why those changes
 occurred? In other words, what happens in the story that isn’t narrated
 or revealed directly through the text? (The Classroom Bookshelf)
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image17.jpeg"
+<img src="assets/INFERRING2 Jim/media/image17.jpeg"
 style="width:3.29167in;height:3.80208in" />
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image18.jpeg"
+<img src="assets/INFERRING2 Jim/media/image18.jpeg"
 style="width:4.14583in;height:2.93681in" />
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image19.jpeg"
+<img src="assets/INFERRING2 Jim/media/image19.jpeg"
 style="width:3.15625in;height:3.52083in" />
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image20.jpeg"
+<img src="assets/INFERRING2 Jim/media/image20.jpeg"
 style="width:3.11389in;height:4.95833in" />
 
 Lesson:
@@ -1579,7 +1579,7 @@ questions.”
 
 “Okay. Thank you anyway.”
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image21.jpeg"
+<img src="assets/INFERRING2 Jim/media/image21.jpeg"
 style="width:2.75in;height:1.98958in" />
 
 When a tiny fish shoots into view wearing a round blue topper (which
@@ -1594,7 +1594,7 @@ illustrations to construct layers of meaning. Once again the eyes tell
 it all so that the dark resolution should be no surprise to attentive
 readers.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image22.jpeg"
+<img src="assets/INFERRING2 Jim/media/image22.jpeg"
 style="width:5.75in;height:4.14931in" />
 
 A little fish (the fellow you see on the cover) is narrating the story
@@ -2042,7 +2042,7 @@ Tuesday
 
 Young, Ed Up a Tree
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image23.jpeg"
+<img src="assets/INFERRING2 Jim/media/image23.jpeg"
 style="width:1.66667in;height:1.25in" />
 
 In this wordless picture book, three children arrive in the park one day
@@ -2062,7 +2062,7 @@ Use it to model sequencing by writing a sentence for each page using
 transition words. Then, have students use a different wordless picture
 book to practise writing in sequence using transition words.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image24.jpeg"
+<img src="assets/INFERRING2 Jim/media/image24.jpeg"
 style="width:1.19653in;height:1.66736in" />
 
 Craft: Organisation: After reading aloud I Want My Hat Back, discuss the
@@ -2071,7 +2071,7 @@ was going in? How did the ending stand out? Analyse other picture books
 with surprise endings and have students practise using this technique in
 their own writing.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image25.jpeg"
+<img src="assets/INFERRING2 Jim/media/image25.jpeg"
 style="width:1.66736in;height:1.44861in" />
 
 Making Inferences: Share Bluebird with students. Provide students with
@@ -2080,7 +2080,7 @@ inferences about the section they have. Ask students how words and
 pictures work together to help us understand what we read. Would words
 help them understand what is going on in the pictures? How?
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image26.jpeg"
+<img src="assets/INFERRING2 Jim/media/image26.jpeg"
 style="width:1.66667in;height:1.42708in" />
 
 Read aloud the first half of Tuesday. As you read aloud, model how to
@@ -2091,7 +2091,7 @@ shows/Inference). As you read aloud, model how to fill out the t-chart.
 After reading aloud the first half, provide an opportunity for students
 to work with partners to complete the second half with a t-chart.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image27.jpeg"
+<img src="assets/INFERRING2 Jim/media/image27.jpeg"
 style="width:6.08333in;height:3.15556in" />
 
 A Ball for Daisy C.Raschka
@@ -2173,7 +2173,7 @@ Next lesson: Text that accompanies photos.
 
 Reword new questions and inferences at bottom of chart.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image28.jpeg"
+<img src="assets/INFERRING2 Jim/media/image28.jpeg"
 style="width:2.5in;height:3.17708in" />
 
 Monsieur Bibot, a Parisian dentist, is given two magical figs as payment
@@ -2187,10 +2187,10 @@ his apartment and then under the bed. Annoyed, Bibot goes to sleep. The
 next morning Bibot wakes to find he has become the dog and Marcel the
 new master.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image29.jpeg"
+<img src="assets/INFERRING2 Jim/media/image29.jpeg"
 style="width:3.22917in;height:2.29167in" />
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image30.jpeg"
+<img src="assets/INFERRING2 Jim/media/image30.jpeg"
 style="width:3.45833in;height:4.16667in" />
 
 Preliminary Lessons:
@@ -2409,7 +2409,7 @@ National Geographic One Hundred Photographs That Changed the World
 | **Text says** | **Questions** | **Inferences** |
 |               |               |                |
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image31.jpeg"
+<img src="assets/INFERRING2 Jim/media/image31.jpeg"
 style="width:2.03056in;height:2.6875in" />
 
 Bootsie Barker only wants to play games in which she bites, until one
@@ -2541,7 +2541,7 @@ Although if she does, it’s fine with me.
 
 Book: <u>Owen & Mzee</u> Author: <u>Isabella Hatkoff</u>
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image32.jpeg"
+<img src="assets/INFERRING2 Jim/media/image32.jpeg"
 style="width:2.69653in;height:2.03056in" />
 
 |                    |                   |                  |
@@ -2554,7 +2554,7 @@ style="width:2.69653in;height:2.03056in" />
 Book: <u>The Mysteries of Harris Burdick</u> Author: <u>Chris Van
 Allsburg</u>
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image33.png"
+<img src="assets/INFERRING2 Jim/media/image33.png"
 style="width:2.41181in;height:3.01736in" />
 
 |                    |                   |                  |
@@ -2566,7 +2566,7 @@ style="width:2.41181in;height:3.01736in" />
 
 Book: <u>Bootsie Barker Bites</u> Author: <u>Barbara Bottner</u>
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image34.jpeg"
+<img src="assets/INFERRING2 Jim/media/image34.jpeg"
 style="width:2.08333in;height:2.78125in" />
 
 |                    |                   |                  |
@@ -2578,7 +2578,7 @@ style="width:2.08333in;height:2.78125in" />
 
 Book: <u>Tough Boris</u> Author: <u>Mem Fox</u>
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image35.jpeg"
+<img src="assets/INFERRING2 Jim/media/image35.jpeg"
 style="width:2.70833in;height:2.02153in" />
 
 |                    |                   |                  |
@@ -2605,14 +2605,14 @@ Turn and talk with next pages.
 
 **Hug Jez Alborough**
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image36.jpeg"
+<img src="assets/INFERRING2 Jim/media/image36.jpeg"
 style="width:2.65625in;height:2.05208in" />
 
 Bobo the chimp needs a hug. But his friends don't seem to understand. He
 seeks hugs among various jungle animals, but he does not get what he
 wants. He is sad but finally finds his mother and gets his hug.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image37.jpeg"
+<img src="assets/INFERRING2 Jim/media/image37.jpeg"
 style="width:2.52083in;height:2.16667in" />
 
 **Mama: A True Story in which a BABY HIPPO loses his MAMA during a
@@ -2654,7 +2654,7 @@ A Mama for Owen by Marion Dane Bauer.
 
 Owen & Mzee by Craig Hatkoff.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image38.jpeg"
+<img src="assets/INFERRING2 Jim/media/image38.jpeg"
 style="width:2.05139in;height:2.65486in" />
 
 **A Mama for Owen Marion Dane Bauer**
@@ -2729,7 +2729,7 @@ can find Mzee once more. Then when he finds Mzee, owen licks his
 friendly face, lays his head on the tortoise’s broad back, and smiles
 his great pink smile.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image39.jpeg"
+<img src="assets/INFERRING2 Jim/media/image39.jpeg"
 style="width:2.48958in;height:2.19792in" />
 
 **Owen and Mzee: The True Story of a Remarkable Friendship**
@@ -2749,19 +2749,19 @@ e-mailed from friend to friend quickly made them worldwide celebrities.
 Here is a joyous reminder that in times of trouble, friendship is
 stronger than the differences that too often pull us apart.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image40.jpeg"
+<img src="assets/INFERRING2 Jim/media/image40.jpeg"
 style="width:2.5in;height:1.6875in" />
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image41.jpeg"
+<img src="assets/INFERRING2 Jim/media/image41.jpeg"
 style="width:2.71736in;height:2.00972in" />
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image42.jpeg"
+<img src="assets/INFERRING2 Jim/media/image42.jpeg"
 style="width:4.16667in;height:2.78125in" />
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image43.jpeg"
+<img src="assets/INFERRING2 Jim/media/image43.jpeg"
 style="width:3.375in;height:2.51944in" />
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image44.jpeg"
+<img src="assets/INFERRING2 Jim/media/image44.jpeg"
 style="width:1.68333in;height:2.25in" />
 
 No, David! was based on a book that David Shannon wrote when he was five
@@ -2833,7 +2833,7 @@ relevant to your students. E.g.
 
 **Knuffle Bunny Mo Willems**
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image45.jpeg"
+<img src="assets/INFERRING2 Jim/media/image45.jpeg"
 style="width:3.12569in;height:2.41736in" />
 
 Trixie, a young girl who has not yet learnt how to talk, goes on an
@@ -2861,7 +2861,7 @@ digital photography in a computer (where the images were coloured and
 shaded, the photographs given their sepia tone and sundry air
 conditioners, garbage cans and industrial debris expunged.*
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image46.jpeg"
+<img src="assets/INFERRING2 Jim/media/image46.jpeg"
 style="width:3.42292in;height:2.91319in" />
 
 Did the students notice the appearance of ‘Pigeon’ in the book.
@@ -2946,12 +2946,12 @@ looked. But Knuffle Bunny was nowhere to be found …
 
 So Trixie’s daddy decided to look harder. Until …
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image47.jpeg"
+<img src="assets/INFERRING2 Jim/media/image47.jpeg"
 style="width:3.175in;height:2.35694in" />
 
 And those were the first words Trixie ever said.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image48.jpeg"
+<img src="assets/INFERRING2 Jim/media/image48.jpeg"
 style="width:2.375in;height:2.375in" />
 
 Stunning illustrations capture the exasperation of Bear, whose solitary
@@ -2962,9 +2962,9 @@ to be a splendid friend.
 A very funny story with a warm message about not judging people on first
 impressions.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image49.jpeg"
+<img src="assets/INFERRING2 Jim/media/image49.jpeg"
 style="width:1.75in;height:1.16667in" />
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image50.jpeg"
+<img src="assets/INFERRING2 Jim/media/image50.jpeg"
 style="width:2.2in;height:2.93333in" />
 
 Purpose: Many inferences come from illustrations.
@@ -3030,7 +3030,7 @@ You are my splendid friend.
 
 My splendid friend, indeed.
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image51.jpeg"
+<img src="assets/INFERRING2 Jim/media/image51.jpeg"
 style="width:2.08333in;height:2.23958in" />
 
 Top Cat rules the roost…until a new cat moves in. At first Top Cat
@@ -3194,7 +3194,7 @@ no bites.
 
 Just purrs. *Lip lip lip lip*
 
-<img src="/tmp/tmp.Qmo8gSnPlH/media/media/image52.jpeg"
+<img src="assets/INFERRING2 Jim/media/image52.jpeg"
 style="width:1.33542in;height:1.64861in" />
 
 Albert and his trusty mare June set off early on market day to sell

@@ -6,12 +6,12 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image1.png"
+<img src="assets/Keiko Kasza/media/image1.png"
 style="width:1.44792in;height:1.94792in" />
 
 **Keiko Kasza**
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image2.png"
+<img src="assets/Keiko Kasza/media/image2.png"
 style="width:1.40625in;height:1.97917in" />
 
 **Books:**
@@ -54,69 +54,69 @@ The Rat and the Tiger
 <tbody>
 <tr class="odd">
 <td><a href="http://www.keikokasza.com/books.php#bday"><img
-src="/tmp/tmp.h3uFLPyvAZ/media/media/image3.jpeg"
+src="assets/Keiko Kasza/media/image3.jpeg"
 style="width:0.625in;height:0.83333in" /></a><em><br />
 My Lucky Birthday</em></td>
 <td><a href="http://www.keikokasza.com/books.php#goose"><img
-src="/tmp/tmp.h3uFLPyvAZ/media/media/image4.jpeg"
+src="assets/Keiko Kasza/media/image4.jpeg"
 style="width:0.66667in;height:0.83333in" /></a><em><br />
 Silly Goose’s Big Story</em></td>
 <td><a href="http://www.keikokasza.com/books.php#ready"><img
-src="/tmp/tmp.h3uFLPyvAZ/media/media/image5.jpeg"
+src="assets/Keiko Kasza/media/image5.jpeg"
 style="width:0.63542in;height:0.83333in" /></a><em>Ready for
 Anything!</em></td>
 <td><a href="http://www.keikokasza.com/books.php#badger"><img
-src="/tmp/tmp.h3uFLPyvAZ/media/media/image6.jpeg"
+src="assets/Keiko Kasza/media/image6.jpeg"
 style="width:0.67708in;height:0.83333in" /></a><em>Badger's Fancy
 Meal</em></td>
 </tr>
 <tr class="even">
 <td><a href="http://www.keikokasza.com/books.php#dog"><img
-src="/tmp/tmp.h3uFLPyvAZ/media/media/image7.jpeg"
+src="assets/Keiko Kasza/media/image7.jpeg"
 style="width:0.65625in;height:0.83333in" /></a><em> <br />
 The Dog Who Cried Wolf</em></td>
 <td><a href="http://www.keikokasza.com/books.php#lucky"><img
-src="/tmp/tmp.h3uFLPyvAZ/media/media/image8.jpeg"
+src="assets/Keiko Kasza/media/image8.jpeg"
 style="width:0.67708in;height:0.83333in" /></a><em> <br />
 My Lucky Day</em></td>
 <td><a href="http://www.keikokasza.com/books.php#mighty"><img
-src="/tmp/tmp.h3uFLPyvAZ/media/media/image9.jpeg"
+src="assets/Keiko Kasza/media/image9.jpeg"
 style="width:0.66667in;height:0.83333in" /></a><em> <br />
 The Mightiest</em></td>
 <td><a href="http://www.keikokasza.com/books.php#dorothy"><img
-src="/tmp/tmp.h3uFLPyvAZ/media/media/image10.jpeg"
+src="assets/Keiko Kasza/media/image10.jpeg"
 style="width:0.6875in;height:0.83333in" /></a><em>Dorothy &amp;
 Mickey</em></td>
 </tr>
 <tr class="odd">
 <td><a href="http://www.keikokasza.com/books.php#joe"><img
-src="/tmp/tmp.h3uFLPyvAZ/media/media/image11.jpeg"
+src="assets/Keiko Kasza/media/image11.jpeg"
 style="width:0.67708in;height:0.83333in" /></a><em> <br />
 Don’t Laugh, Joe!</em></td>
 <td><a href="http://www.keikokasza.com/books.php#toad"><img
-src="/tmp/tmp.h3uFLPyvAZ/media/media/image12.jpeg"
+src="assets/Keiko Kasza/media/image12.jpeg"
 style="width:0.63542in;height:0.83333in" /></a><em>Grandpa Toad's
 Secrets</em></td>
 <td><a href="http://www.keikokasza.com/books.php#tiger"><img
-src="/tmp/tmp.h3uFLPyvAZ/media/media/image13.jpeg"
+src="assets/Keiko Kasza/media/image13.jpeg"
 style="width:0.71875in;height:0.83333in" /></a><em> <br />
 The Rat and the Tiger</em></td>
 <td><a href="http://www.keikokasza.com/books.php#choco"><img
-src="/tmp/tmp.h3uFLPyvAZ/media/media/image14.jpeg"
+src="assets/Keiko Kasza/media/image14.jpeg"
 style="width:0.71875in;height:0.83333in" /></a><em> <br />
 A Mother for Choco</em></td>
 </tr>
 <tr class="even">
 <td><a href="http://www.keikokasza.com/books.php#elephant"><img
-src="/tmp/tmp.h3uFLPyvAZ/media/media/image15.jpeg"
+src="assets/Keiko Kasza/media/image15.jpeg"
 style="width:0.82292in;height:0.83333in" /></a><em> When the Elephant
 Walks</em></td>
 <td><a href="http://www.keikokasza.com/books.php#pigs%3E"><img
-src="/tmp/tmp.h3uFLPyvAZ/media/media/image16.jpeg"
+src="assets/Keiko Kasza/media/image16.jpeg"
 style="width:0.73958in;height:0.83333in" /></a><em> <br />
 The Pig's Picnic</em></td>
 <td><a href="http://www.keikokasza.com/books.php#wolf"><img
-src="/tmp/tmp.h3uFLPyvAZ/media/media/image17.jpeg"
+src="assets/Keiko Kasza/media/image17.jpeg"
 style="width:0.72917in;height:0.83333in" /></a><em> <br />
 The Wolf's Chicken Stew</em></td>
 <td></td>
@@ -124,7 +124,7 @@ The Wolf's Chicken Stew</em></td>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image18.jpeg"
+<img src="assets/Keiko Kasza/media/image18.jpeg"
 style="width:2.625in;height:3.28194in" />
 
 ## 10 Interesting facts about Keiko
@@ -182,7 +182,7 @@ hundred good books would be even better, of course!)
 Keiko Kasza lives in Bloomington, Indiana with her husband, a professor
 of Japanese politics at Indiana University, and they have two sons.
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image19.jpeg"
+<img src="assets/Keiko Kasza/media/image19.jpeg"
 style="width:2.48958in;height:3.60278in" />
 
 **VISUAL LITERACY: INTERPRETING AND UNDERSTANDING**
@@ -255,7 +255,7 @@ the illustrations. After reading the entire story to students, go back
 and have students come up with words to describe the wolf’s actions and
 thoughts that go beyond what the words in the story express.
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image20.jpeg"
+<img src="assets/Keiko Kasza/media/image20.jpeg"
 style="width:2.49236in;height:2.84097in" />
 
 **UNDERSTANDING LITERARY ELEMENTS THROUGH KEIKO’S BOOKS**
@@ -713,7 +713,7 @@ progresses through them.</p>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image21.jpeg"
+<img src="assets/Keiko Kasza/media/image21.jpeg"
 style="width:2.12014in;height:2.67153in" />
 
 A hungry fox can't believe his luck when a pig actually shows up on his
@@ -896,7 +896,7 @@ to describe the fox and pig. Talk about what makes a character a
 “trickster” and discuss other tricksters the children may have
 encountered in other books.
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image22.png"
+<img src="assets/Keiko Kasza/media/image22.png"
 style="width:3.34444in;height:2.04097in" />
 
 Discussion: Discuss the “big bad” characters in various folktales and
@@ -907,7 +907,7 @@ Students write or tell about a time when they had a “lucky day”
 
 Use the final page of the book to write a sequel to the story.
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image23.jpeg"
+<img src="assets/Keiko Kasza/media/image23.jpeg"
 style="width:2.35417in;height:2.32292in" />
 
 **My Lucky Day**
@@ -1019,7 +1019,7 @@ tallest pine the hanging
 
 tree. rock.
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image24.jpeg"
+<img src="assets/Keiko Kasza/media/image24.jpeg"
 style="width:2.08333in;height:2.61458in" />
 
 Moka the dog is happy to spend time with his owner, Michelle, until the
@@ -1203,7 +1203,7 @@ He ran, and ran, and ran …
 Moka was home again, and he and Michelle were oh, so happy! Life was
 just perfect, until one day, she read a book about monkeys …
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image25.jpeg"
+<img src="assets/Keiko Kasza/media/image25.jpeg"
 style="width:2.63333in;height:2.63333in" />
 
 Goose's friends love the stories he makes up when they're playing.
@@ -1433,7 +1433,7 @@ me!”
 “Okay, I’ve got a good one,” said Goose. “Once upon a time, there was a
 silly Goose who had the three greatest friends in the world …”
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image26.jpeg"
+<img src="assets/Keiko Kasza/media/image26.jpeg"
 style="width:1.6in;height:1.92292in" />
 
 When apples, worms and roots become unbearably boring, Badger sets off
@@ -1575,8 +1575,8 @@ Thanks for the fancy meal!
 
 **Burp!**
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image27.jpeg" />
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image27.jpeg"
+<img src="assets/Keiko Kasza/media/image27.jpeg" />
+<img src="assets/Keiko Kasza/media/image27.jpeg"
 style="width:2.70833in;height:3.57292in" />
 
 The Wolf’s Chicken Stew
@@ -1589,7 +1589,7 @@ could he eat the
 
 mother of the baby chicks who thankfully give him a hundred kisses?
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image28.jpeg"
+<img src="assets/Keiko Kasza/media/image28.jpeg"
 style="width:2.19861in;height:2.48958in" />
 
 **READING STRATEGIES Why? To gain meaning from our reading.**
@@ -1744,7 +1744,7 @@ instead of the chicken.
 
 # Summary Sentence
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image29.jpeg"
+<img src="assets/Keiko Kasza/media/image29.jpeg"
 style="width:2.09375in;height:2.61597in" />
 
 Don’t Laugh, Joe!
@@ -1925,7 +1925,7 @@ Cockroaches!!!” One by one, they fell to the ground …
 
 … and played dead.
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image30.jpeg"
+<img src="assets/Keiko Kasza/media/image30.jpeg"
 style="width:2.66667in;height:3.125in" />
 
 A Mother for Choco
@@ -2075,7 +2075,7 @@ bear hug.
 
 And Choco was very happy that his new mummy looked just the way she did.
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image31.jpeg"
+<img src="assets/Keiko Kasza/media/image31.jpeg"
 style="width:2.17708in;height:2.51042in" />
 
 The Rat and the Tiger
@@ -2205,7 +2205,7 @@ We do have a little problem, though …
 
 A new kid on the block!
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image32.jpeg"
+<img src="assets/Keiko Kasza/media/image32.jpeg"
 style="width:2.08194in;height:2.61597in" />
 
 The Mightiest
@@ -2403,7 +2403,7 @@ peacefully on its rock, just like before.
 
 But not for long …
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image33.jpeg"
+<img src="assets/Keiko Kasza/media/image33.jpeg"
 style="width:2.03056in;height:2.69653in" />
 
 Grandpa Toad’s Secrets
@@ -2576,7 +2576,7 @@ were smart. You were wonderful!”
 
 Now it was Little Toad who beamed with pleasure.
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image34.jpeg"
+<img src="assets/Keiko Kasza/media/image34.jpeg"
 style="width:1.66736in;height:1.89583in" />
 
 When the Elephant Walks
@@ -2695,10 +2695,10 @@ But when the little Mouse scurries in terror …
 
 …Well, who would be scared by a little Mouse?
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image35.jpeg"
+<img src="assets/Keiko Kasza/media/image35.jpeg"
 style="width:2.18681in;height:2.49861in" />
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image36.jpeg"
+<img src="assets/Keiko Kasza/media/image36.jpeg"
 style="width:2.25833in;height:2.64583in" />
 
 The Pigs’ Picnic
@@ -2712,7 +2712,7 @@ so Mr. Pig quickly
 runs off to return all the loaned items and to return to Miss Pig
 looking just like his natural self.
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image37.jpeg"
+<img src="assets/Keiko Kasza/media/image37.jpeg"
 style="width:6.66944in;height:4.3875in" />
 
 **The Pigs’ Picnic Keiko Kasza**
@@ -2821,7 +2821,7 @@ It was a perfect day for a picnic.
 </tbody>
 </table>
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image38.jpeg"
+<img src="assets/Keiko Kasza/media/image38.jpeg"
 style="width:2.11458in;height:2.58264in" />
 
 A warm, funny tale for little worriers. At first, Raccoon thought a
@@ -3024,7 +3024,7 @@ Duck wanted to cry, but Raccoon stayed calm.
 
 … I’m ready for anything!”
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image39.jpeg"
+<img src="assets/Keiko Kasza/media/image39.jpeg"
 style="width:2.09375in;height:2.60417in" />
 
 Just as Alligator Al is planning the perfect birthday dinner for
@@ -3332,7 +3332,7 @@ But the piglet did. The luckiest ever!
 *Let’s see,* he thought as he cuddled with Little Al. *Who shall I visit
 next?*
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image40.png"
+<img src="assets/Keiko Kasza/media/image40.png"
 style="width:1.60417in;height:1.94792in" />
 
 Dorothy and Mikey
@@ -3623,5 +3623,5 @@ By Mikey
 “Now it’s perfect,” Dorothy murmured. Then she dashed out to play with
 Mikey.
 
-<img src="/tmp/tmp.h3uFLPyvAZ/media/media/image41.jpeg"
+<img src="assets/Keiko Kasza/media/image41.jpeg"
 style="width:2.95833in;height:4.64583in" />

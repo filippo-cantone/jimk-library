@@ -10,23 +10,23 @@ Ezra Jack Keats
 
 **(2)**
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image1.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image1.jpeg"
 style="width:3.58403in;height:3.15208in" />
 
 **Character Study LOUIE**
 
 **Chronological order of books about Louie**
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image2.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image2.jpeg"
 style="width:2in;height:1.81319in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image3.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image3.jpeg"
 style="width:2.00069in;height:1.70347in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image4.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image4.jpeg"
 style="width:2.00069in;height:1.74583in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image5.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image5.jpeg"
 style="width:2.08194in;height:1.85347in" />
 
 **Louie**
@@ -40,10 +40,10 @@ Susie and Roberto have to figure out what to do.
 Read Aloud: Students predict what they think the characters will do
 next. Do their predictions change as they hear more of the story?
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image2.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image2.jpeg"
 style="width:2.08333in;height:1.88542in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image6.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image6.jpeg"
 style="width:3.07153in;height:3.10486in" />
 
 **Louie Ezra Jack Keats**
@@ -121,7 +121,7 @@ the long green string.’”
 
 Louie got up and went outside. HELLO.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image7.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image7.jpeg"
 style="width:4.37361in;height:2.33333in" />
 
 **WRITING CRAFT Louie**
@@ -188,16 +188,16 @@ outside his new front door.
 Have you ever moved to a new place? How did you adjust to the
 experience?
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image3.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image3.jpeg"
 style="width:3.3in;height:2.81042in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image8.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image8.jpeg"
 style="width:4.84444in;height:2.61597in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image9.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image9.jpeg"
 style="width:3.33333in;height:2.5in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image10.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image10.jpeg"
 style="width:2.46875in;height:2.21875in" />
 
 **The Trip Ezra Jack Keats**
@@ -238,7 +238,7 @@ treat!”
 
 Louie went outside to join them.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image11.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image11.jpeg"
 style="width:4.05in;height:3.64444in" />
 
 **Questioning:**
@@ -316,7 +316,7 @@ wandered passed turned</em></p>
 
 **Louie’s Search**
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image4.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image4.jpeg"
 style="width:2.37569in;height:2.06944in" />
 
 Louie has always wanted a father, so he decides to set off in search of
@@ -326,7 +326,7 @@ the truck driver, who angrily accuses him of being a crook. But when the
 driver hears the music box play beautifully for the boy, he gives it to
 him. And that is the beginning of the end of Louie’s search.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image12.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image12.jpeg"
 style="width:4.84375in;height:2.61458in" />
 
 FUN FACT: Ezra sometimes used models when he sketched, to give his
@@ -465,24 +465,24 @@ name’s</em></p>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image13.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image13.jpeg"
 style="width:2.6875in;height:2.03056in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image14.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image14.jpeg"
 style="width:5.00069in;height:3.75in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image15.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image15.jpeg"
 style="width:6.45833in;height:3.28194in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image16.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image16.jpeg"
 style="width:3.23958in;height:1.68889in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image17.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image17.jpeg"
 style="width:4.84444in;height:2.64583in" />
 
 **Regards to the Man in the Moon**
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image5.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image5.jpeg"
 style="width:2.08194in;height:1.85347in" />
 
 Louie is unhappy because the other kids call his father “the junk man.”
@@ -491,7 +491,7 @@ imagination! And a little of that stuff can take you right out of this
 world!” So Louie builds a spaceship fuelled entirely by imagination—and
 blasts off into an amazing adventure.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image18.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image18.jpeg"
 style="width:6.14583in;height:2.91667in" />
 
 Louie, the main character of Regards to the Man in the Moon, is perhaps
@@ -506,13 +506,13 @@ an old bathtub.) Ezra employs colour, collage, photography and marbling
 to capture the immensity, silence and dangers of space—with the very
 Keatsian image of kids piloting an old washing machine.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image19.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image19.jpeg"
 style="width:3.125in;height:1.84375in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image20.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image20.jpeg"
 style="width:3.125in;height:1.86458in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image21.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image21.jpeg"
 style="width:3.12569in;height:1.89583in" />
 
 **Regards to the Man in the Moon Ezra Jack Keats**
@@ -676,7 +676,7 @@ you’re you’ll</em></p></td>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image22.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image22.jpeg"
 style="width:3.75in;height:1.55347in" />
 
 Louie’s father Barney says that what people call “junk” plus a little
@@ -684,34 +684,34 @@ imagination “can take you right out of this world.”
 
 Match Then & Now Think of others and collect pictures.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image23.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image23.jpeg"
 style="width:3.125in;height:3.125in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image24.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image24.jpeg"
 style="width:3.125in;height:1.51042in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image25.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image25.jpeg"
 style="width:1.95833in;height:2.79167in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image26.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image26.jpeg"
 style="width:3in;height:3in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image27.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image27.jpeg"
 style="width:3.00208in;height:4.00347in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image28.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image28.jpeg"
 style="width:3.12569in;height:3.60278in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image29.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image29.jpeg"
 style="width:3.55417in;height:4.75in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image30.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image30.jpeg"
 style="width:2.42708in;height:3.10417in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image31.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image31.jpeg"
 style="width:4.375in;height:3.85556in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image32.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image32.jpeg"
 style="width:3.625in;height:3.625in" />
 
 **Inferring I Wonder about Feelings**
@@ -762,21 +762,21 @@ style="width:3.625in;height:3.625in" />
 
 **WRITER’S NOTEBOOK**
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image2.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image2.jpeg"
 style="width:1.75in;height:1.58333in" /> Making new Friends Puppet shows
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image3.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image3.jpeg"
 style="width:1.74861in;height:1.49097in" /> Make believe A New
 Neighbourhood
 
 Making new Friends
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image4.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image4.jpeg"
 style="width:1.74861in;height:1.52639in" /> Neighbourhoods Fathers
 
 Families
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image5.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image5.jpeg"
 style="width:1.875in;height:1.66736in" /> Imagination
 
 **Other Ezra Jack Keats Books:**
@@ -797,12 +797,12 @@ Maggie and the Pirate
 
 My Dog is Lost
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image33.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image33.jpeg"
 style="width:3.64514in;height:2.72917in" />
 
 **Dreams**
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image34.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image34.jpeg"
 style="width:2.85278in;height:3.64444in" />
 
 Everyone is asleep and dreaming, except Roberto. Looking out his window,
@@ -811,7 +811,7 @@ do. But then something incredible happens: the cat is saved by the most
 surprising hero ever! Swirls of colour evoke the dreamlike yet intense
 beauty of a summer night.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image35.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image35.jpeg"
 style="width:4.625in;height:2.87639in" />
 
 **Dreams Ezra Jack Keats**
@@ -910,7 +910,7 @@ anything</em></p>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image36.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image36.jpeg"
 style="width:3.24792in;height:3.14583in" />
 
 The sound of a harmonica floats through the halls of Sam and Ben’s
@@ -920,10 +920,10 @@ Finally, the brothers find the source of the beautiful music, along with
 a blind man who “sees” with his ears, and the search ends in a new
 friendship.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image37.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image37.jpeg"
 style="width:5.37569in;height:3.62639in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image38.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image38.jpeg"
 style="width:5.99931in;height:4.99931in" />
 
 **Apt. 3 Ezra Jack Keats**
@@ -1016,7 +1016,7 @@ Then the dark room filled with wild, noisy, happy music. It bounced from
 wall to wall. Sam and Ben looked at each other. They couldn’t wait for
 tomorrow.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image39.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image39.jpeg"
 style="width:2.60417in;height:2.08333in" />
 
 **WRITING CRAFT Apt. 3**
@@ -1070,7 +1070,7 @@ couldn’t</em></p></td>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image40.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image40.jpeg"
 style="width:3.14653in;height:3.64444in" />
 
 In this almost wordless book, a cat asks a dog to dance. Suddenly we are
@@ -1078,7 +1078,7 @@ carried away on a flight of imagination, from country to country and
 from era to era, by the humorous antics of the unusual pair on the dance
 floor.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image41.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image41.jpeg"
 style="width:2.00903in;height:2.52986in" />
 
 Skates! is Keats’s second nearly wordless picture book, after Psst!
@@ -1086,7 +1086,7 @@ Doggie-, that features animals rather than people as characters. Young
 readers are encouraged to participate in the action in their own way by
 the humorous story and engaging illustrations.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image42.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image42.jpeg"
 style="width:2.07292in;height:2.63542in" />
 
 When is a puppy not a puppy? When he’s a kitten for a day! Four carefree
@@ -1124,7 +1124,7 @@ Sorry! Puppy, come home right now!
 
 Next time let’s all be puppies!
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image43.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image43.jpeg"
 style="width:3in;height:2.44306in" />
 
 While walking in the desert, tiny Clementina and her father encounter a
@@ -1135,10 +1135,10 @@ returns, Clementina searches for the cactus and discovers a spectacular
 surprise. The stunning artwork in this wordless book provides a rich
 field for imaginative reading.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image44.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image44.jpeg"
 style="width:4.16667in;height:3.32361in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image45.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image45.jpeg"
 style="width:3in;height:2.65694in" />
 
 Jennie can hardly wait for the new hat her aunt has promised her. “It
@@ -1300,7 +1300,7 @@ favourite aunt</em></p>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image46.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image46.jpeg"
 style="width:3.64583in;height:2.97917in" />
 
 One day Maggie’s pet cricket is stolen, cage and all! The only clue is a
@@ -1309,7 +1309,7 @@ pirate’s hideout, and make a surprising discovery—and a new friend.
 Keats’ brilliant use of colour and gesture creates a landscape where
 anything can happen and feelings run deep.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image47.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image47.jpeg"
 style="width:3.125in;height:3.10417in" />
 
 **Maggie and the Pirate Ezra Jack Keats**
@@ -1483,7 +1483,7 @@ didn’t it’s</em></p></td>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image48.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image48.jpeg"
 style="width:2.30139in;height:3.24792in" />
 
 Juanito has just moved from Puerto Rico to the big city, where
@@ -1493,7 +1493,7 @@ through the city, Juanito finds new friends. This refreshing book, which
 predates The Snowy Day, displays all of Keats’s mastery of fusing image
 with story.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image49.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image49.jpeg"
 style="width:4.84444in;height:2.86458in" />
 
 “Juanito bent his legs to show how his dog ran (patizambo!)”
@@ -1697,7 +1697,7 @@ the children’s lives run smoothly and the gangs of older boys, who make
 life more difficult. In addition, Jennie, Clementina and Maggie have
 their own adventures in decidedly different climates.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image50.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image50.jpeg"
 style="width:4.58333in;height:1.33333in" />
 
 Amy            Maggie            Roberto            Louie           
@@ -1834,7 +1834,7 @@ class can continue the story or create a different ending.
 
 ## Characters
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image51.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image51.jpeg"
 style="width:6.66458in;height:2.04653in" />
 
 In the more than twenty children's books he wrote and illustrated, Ezra
@@ -1854,7 +1854,7 @@ occupies a core position in at least one story and takes a supporting
 role in others. In addition, there are Jennie and Maggie, and Peter's
 dog Willie.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image52.png"
+<img src="assets/EZRA JACK KEATS 2/media/image52.png"
 style="width:1.04167in;height:1.19792in" />
 
 Peter, perhaps the most famous Keats character, was introduced to his
@@ -1873,7 +1873,7 @@ real and recognisable to his young readers. The ability of Keats'
 characters to deal with these problems, to change their outlooks and
 grow, makes them attractive role models for their audience.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image53.png"
+<img src="assets/EZRA JACK KEATS 2/media/image53.png"
 style="width:0.72917in;height:1.84375in" />
 
 As Peter matures, he is confronted with the problems of becoming an
@@ -1883,7 +1883,7 @@ of escaping the tyranny and violence of a gang of older boys in his
 neighbourhood, and finally of deciding what kind of older boy he will
 become, given the options he sees placed before him.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image54.png"
+<img src="assets/EZRA JACK KEATS 2/media/image54.png"
 style="width:0.95833in;height:1.30208in" />
 
 **Louie** is the quietest member of the Keats community. Living alone
@@ -1899,7 +1899,7 @@ silent child. Susie appears in several Keats books and becomes a great
 friend to Louie, accompanying him into the galaxy in an imaginary space
 ship built out of found objects and imagination.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image55.png"
+<img src="assets/EZRA JACK KEATS 2/media/image55.png"
 style="width:0.83333in;height:1.875in" />
 
 Louie goes on to discover that he won't lose friends when he moves from
@@ -1910,7 +1910,7 @@ Finally, with the help of his new father, Louie gains the confidence to
 confront the taunts and teasing of his peers, thus causing his
 detractors to envy what they once criticised.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image56.png"
+<img src="assets/EZRA JACK KEATS 2/media/image56.png"
 style="width:0.83333in;height:1.22917in" />
 
 Archie is Peter's best friend. Together, in [**Hi
@@ -1924,7 +1924,7 @@ able to enter a pet show even though his pet has disappeared.  Archie's
 ingenuity and creativity just will not quit and, as Keats drew him,
 these qualities also allow him to be generous and kind.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image57.png"
+<img src="assets/EZRA JACK KEATS 2/media/image57.png"
 style="width:2.08333in;height:1.80208in" />
 
 **Amy**, the title character in [**A Letter to
@@ -1936,7 +1936,7 @@ present, having trained her parrot to wish Peter a Happy Birthday! And
 it is Amy who proves that girls do not ruin birthday parties, and they
 can even have a good time themselves!
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image58.png"
+<img src="assets/EZRA JACK KEATS 2/media/image58.png"
 style="width:2.60417in;height:1.77083in" />
 
 Amy, in [**Dreams**](http://illdave.com/web/ezra/ezra/books.htm#dreams),
@@ -1956,7 +1956,7 @@ mouse, Amy's bravery and her parrot, Archie's generosity and pet cat,
 sister Susie, Peter's strong sense of family and friendship and, of
 course, his dog Willie.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image59.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image59.jpeg"
 style="width:3.54236in;height:1.45764in" />
 
 Then there
@@ -1999,10 +1999,10 @@ among kittens, thinks he is a cat, and enjoys it! Cat and dog dance in
 costumed folk dances! Two dogs put on a prize performance on a skating
 rink! As a result, a skating rink in Tokyo was named after Keats.
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image60.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image60.jpeg"
 style="width:3.29236in;height:3.18819in" />
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image61.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image61.jpeg"
 style="width:3.29236in;height:3.16736in" />
 
 **The Caldecott Medal –** Ezra Jack Keats’ actual medal in its leather
@@ -2108,5 +2108,5 @@ Keats’s stories after the last page of the book.
 | A Letter to Amy       | Peter invites Amy to his birthday party.                                                            |
 | Louie                 | Susie and Roberto share their puppets with Louie.                                                   |
 
-<img src="/tmp/tmp.7nLSXYEiWb/media/media/image62.jpeg"
+<img src="assets/EZRA JACK KEATS 2/media/image62.jpeg"
 style="width:3.95694in;height:4.72778in" />

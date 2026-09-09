@@ -10,7 +10,7 @@ tags: [jim-k]
 
 **PATRICIA POLACCO – 4**
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image1.jpeg"
+<img src="assets/Patricia Polacco 4/media/image1.jpeg"
 style="width:3.08333in;height:4.16667in" />
 
 **TEACHING SENSITIVE TOPICS**
@@ -66,7 +66,7 @@ exploring faith.
 The Lemonade Club can be used to help students understand illness and
 Betty Doll can help ease the pain of loss.
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image2.jpeg"
+<img src="assets/Patricia Polacco 4/media/image2.jpeg"
 style="width:2.49861in;height:2.49861in" />
 
 In the middle of the night, The Crosswhites—including young Sadie—must
@@ -171,37 +171,37 @@ think Sadie shares her secret with Polly?
 
 (The World of Patricia Polacco – Philomel Books)
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image3.jpeg"
+<img src="assets/Patricia Polacco 4/media/image3.jpeg"
 style="width:3.64583in;height:2.30208in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image4.jpeg"
+<img src="assets/Patricia Polacco 4/media/image4.jpeg"
 style="width:3.64583in;height:2.51042in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image5.jpeg"
+<img src="assets/Patricia Polacco 4/media/image5.jpeg"
 style="width:3.64583in;height:2.625in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image6.jpeg"
+<img src="assets/Patricia Polacco 4/media/image6.jpeg"
 style="width:3.64583in;height:2.78125in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image7.jpeg"
+<img src="assets/Patricia Polacco 4/media/image7.jpeg"
 style="width:3.64583in;height:2.58333in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image8.jpeg"
+<img src="assets/Patricia Polacco 4/media/image8.jpeg"
 style="width:3.64583in;height:2.92708in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image9.jpeg"
+<img src="assets/Patricia Polacco 4/media/image9.jpeg"
 style="width:3.64583in;height:3.05208in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image10.jpeg"
+<img src="assets/Patricia Polacco 4/media/image10.jpeg"
 style="width:3.5in;height:2.77986in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image11.jpeg"
+<img src="assets/Patricia Polacco 4/media/image11.jpeg"
 style="width:3.5in;height:2.73958in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image12.jpeg"
+<img src="assets/Patricia Polacco 4/media/image12.jpeg"
 style="width:3.5in;height:2.75972in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image13.jpeg"
+<img src="assets/Patricia Polacco 4/media/image13.jpeg"
 style="width:2.05208in;height:2.65625in" />
 
 A great historical fiction story. The reader follows Monique as she
@@ -221,7 +221,7 @@ confirmation that her dear friend is safe somewhere in the world. It is
 then that she and her mother spot tons of butterflies and Monique
 believes that Sevrine is safe and sound somewhere in the world.
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image14.jpeg"
+<img src="assets/Patricia Polacco 4/media/image14.jpeg"
 style="width:1.59236in;height:2.21944in" />
 
 THE BUTTERFLY
@@ -252,16 +252,16 @@ This story pays homage to those who have stood up against oppression...
 those who have shown courage... and those who know the joy of true
 friendship.
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image15.jpeg"
+<img src="assets/Patricia Polacco 4/media/image15.jpeg"
 style="width:4.38542in;height:6in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image16.jpeg"
+<img src="assets/Patricia Polacco 4/media/image16.jpeg"
 style="width:4.35417in;height:6in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image17.jpeg"
+<img src="assets/Patricia Polacco 4/media/image17.jpeg"
 style="width:2.75417in;height:3.75347in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image18.jpeg"
+<img src="assets/Patricia Polacco 4/media/image18.jpeg"
 style="width:2.68472in;height:3.72778in" />
 
 **The Butterfly Patricia Polacco**
@@ -734,7 +734,7 @@ Thirty years after the end of the war, Marcel contacted local Jewish
 agencies and asked them to unearth possessions that were buried in her
 basement by families that never returned to reclaim them.
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image19.jpeg"
+<img src="assets/Patricia Polacco 4/media/image19.jpeg"
 style="width:2.85in;height:3.75in" />
 
 Young Mary Ellen is heartbroken when her family's farmhouse burns to the
@@ -1045,25 +1045,25 @@ great-granddaughters asked, “Where did Gramma go/”*
 
 *We answered, “On a long journey ahead of us.”*
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image20.jpeg"
+<img src="assets/Patricia Polacco 4/media/image20.jpeg"
 style="width:2.91042in;height:4.24792in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image21.jpeg"
+<img src="assets/Patricia Polacco 4/media/image21.jpeg"
 style="width:3.14583in;height:4.5in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image22.jpeg"
+<img src="assets/Patricia Polacco 4/media/image22.jpeg"
 style="width:3.05208in;height:4.5in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image23.jpeg"
+<img src="assets/Patricia Polacco 4/media/image23.jpeg"
 style="width:3.05972in;height:4.25069in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image24.jpeg"
+<img src="assets/Patricia Polacco 4/media/image24.jpeg"
 style="width:3.01875in;height:4.24792in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image25.jpeg"
+<img src="assets/Patricia Polacco 4/media/image25.jpeg"
 style="width:2.96042in;height:4.125in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image26.jpeg"
+<img src="assets/Patricia Polacco 4/media/image26.jpeg"
 style="width:2.66319in;height:3.62361in" />
 
 **Vocabulary:**
@@ -1191,7 +1191,7 @@ witnessed by both mother and doll? Like Mary Ellen’s relationship with
 her own mother, does Betty Doll also symbolise the relationship between
 Mary Ellen and her daughter, Patricia?
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image27.jpeg"
+<img src="assets/Patricia Polacco 4/media/image27.jpeg"
 style="width:2.0625in;height:2.65625in" />
 
 Lyla was very nervous about starting sixth grade at her new school, but
@@ -1643,25 +1643,25 @@ hope for the best? Or should we go to another?
 
 ***What would you do?***
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image28.jpeg"
+<img src="assets/Patricia Polacco 4/media/image28.jpeg"
 style="width:5.62917in;height:3.62847in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image29.jpeg"
+<img src="assets/Patricia Polacco 4/media/image29.jpeg"
 style="width:5.625in;height:3.62639in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image30.jpeg"
+<img src="assets/Patricia Polacco 4/media/image30.jpeg"
 style="width:6.0375in;height:3.89792in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image31.jpeg"
+<img src="assets/Patricia Polacco 4/media/image31.jpeg"
 style="width:6in;height:3.87847in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image32.jpeg"
+<img src="assets/Patricia Polacco 4/media/image32.jpeg"
 style="width:6.0375in;height:3.89792in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image33.jpeg"
+<img src="assets/Patricia Polacco 4/media/image33.jpeg"
 style="width:5.99861in;height:3.87292in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image34.png"
+<img src="assets/Patricia Polacco 4/media/image34.png"
 style="width:1.51042in;height:2in" />
 
 In true Polacco fashion, the bestselling author of Chicken Sunday and
@@ -1990,7 +1990,7 @@ still works right there at the science centre and bird sanctuary.
 You’ll know her when you see her; she’ll always be with the geese. She’s
 the one looking at the sky. And listening.
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image35.png"
+<img src="assets/Patricia Polacco 4/media/image35.png"
 style="width:1.38542in;height:1.875in" />
 
 How much TV is too much TV? Welcome to Triple Creek, where the
@@ -2344,47 +2344,47 @@ award for first-class journalism and excellence just last year. He keeps
 the trophy right there on the shelf behind him, next to a tattered,
 well-loved copy of* Moby Dick.
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image36.jpeg"
+<img src="assets/Patricia Polacco 4/media/image36.jpeg"
 style="width:2.42986in;height:3.12569in" />
 
 Animals make many different loud noises, but when they are too loud
 
 their mommies quiet them down.
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image37.jpeg"
+<img src="assets/Patricia Polacco 4/media/image37.jpeg"
 style="width:3.60417in;height:4.16667in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image38.jpeg"
+<img src="assets/Patricia Polacco 4/media/image38.jpeg"
 style="width:3.21875in;height:4.16667in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image39.jpeg"
+<img src="assets/Patricia Polacco 4/media/image39.jpeg"
 style="width:3.25in;height:4.16667in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image40.jpeg"
+<img src="assets/Patricia Polacco 4/media/image40.jpeg"
 style="width:3.25in;height:4.16667in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image41.jpeg"
+<img src="assets/Patricia Polacco 4/media/image41.jpeg"
 style="width:3.03125in;height:4.16667in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image42.jpeg"
+<img src="assets/Patricia Polacco 4/media/image42.jpeg"
 style="width:4.16667in;height:4.10417in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image43.jpeg"
+<img src="assets/Patricia Polacco 4/media/image43.jpeg"
 style="width:3.14583in;height:4.16667in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image44.jpeg"
+<img src="assets/Patricia Polacco 4/media/image44.jpeg"
 style="width:3.77083in;height:4.16667in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image45.jpeg"
+<img src="assets/Patricia Polacco 4/media/image45.jpeg"
 style="width:3.1875in;height:4.16667in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image46.jpeg"
+<img src="assets/Patricia Polacco 4/media/image46.jpeg"
 style="width:3.17708in;height:4.16667in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image47.jpeg"
+<img src="assets/Patricia Polacco 4/media/image47.jpeg"
 style="width:3.16667in;height:4.16667in" />
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image48.jpeg"
+<img src="assets/Patricia Polacco 4/media/image48.jpeg"
 style="width:1.36458in;height:1.79097in" />
 
 An innocent bee stops on a tree in Enzo's Italian restaurant. When a
@@ -2402,7 +2402,7 @@ first student or group should chime in when the part they originally
 read appears again. By the end of the book, the entire class should be
 reading together.
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image49.jpeg"
+<img src="assets/Patricia Polacco 4/media/image49.jpeg"
 style="width:3.125in;height:2.16667in" />
 
 **In Enzo’s Splendid Gardens Patricia Polacco**
@@ -2686,7 +2686,7 @@ that he’d stop and land on that tree
 
 in Enzo’s splendid gardens.
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image50.jpeg"
+<img src="assets/Patricia Polacco 4/media/image50.jpeg"
 style="width:2.43194in;height:3.12361in" />
 
 From A is for Apple to Z is for Zoe, G is for Goat takes you on an
@@ -2704,7 +2704,7 @@ Independent Writing:
 Students write their own stories, such as “F is for Family” or “H is for
 home.”
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image51.jpeg"
+<img src="assets/Patricia Polacco 4/media/image51.jpeg"
 style="width:1.56389in;height:1.99931in" />
 
 The famous Polacco goats are back! In this playful interactive chant,
@@ -2715,7 +2715,7 @@ squeak, squeak!), over a bridge (click, click, click!), through some mud
 happy to turn right around and run straight back over the path they
 travelled, until at last they are back home again, safe and sound.
 
-<img src="/tmp/tmp.O9nxJ48tf0/media/media/image52.png"
+<img src="assets/Patricia Polacco 4/media/image52.png"
 style="width:1.70625in;height:2.125in" />
 
 Meet Yasha, whose beard grows down to the ground and keeps growing,

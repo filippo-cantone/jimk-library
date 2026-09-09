@@ -10,7 +10,7 @@ tags: [jim-k]
 
 **PATRICIA POLACCO**
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image1.jpeg"
+<img src="assets/Patricia Polacco/media/image1.jpeg"
 style="width:2.39583in;height:2.625in" />
 
 **Patricia Polacco**
@@ -27,7 +27,7 @@ from Michigan. I must say that living on that little farm with them was
 the most magical time of my life...and that my Babushka and other
 grandparents were some of the most inspirational people in my life.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image2.png"
+<img src="assets/Patricia Polacco/media/image2.png"
 style="width:1.63472in;height:1.10347in" />
 
 My parents were divorced when I was 3, and both my father and mother
@@ -57,7 +57,7 @@ come back to Michigan to see my Dad and family.
 
 Anyway...
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image3.png"
+<img src="assets/Patricia Polacco/media/image3.png"
 style="width:0.89653in;height:1.35278in" />
 
 In 1949 we left the farm to move , first to Coral Gables, Florida. I
@@ -88,7 +88,7 @@ that I cannot learn the way most of you do. As a matter of fact most
 learning disabled children are actually GENIUSES! Once I learnt how to
 read and caught up with the rest of my fellow students, I did very well.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image4.png"
+<img src="assets/Patricia Polacco/media/image4.png"
 style="width:1.5in;height:2.13542in" />
 
 I went on to university, majored in Fine Art, then went on to do a
@@ -111,7 +111,7 @@ THEM, you become very good at telling stories yourself. So at the age of
 41 I started putting stories that I told down on paper and did drawings
 to help illustrate them...I guess the rest is history.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image5.png"
+<img src="assets/Patricia Polacco/media/image5.png"
 style="width:1.5in;height:1.85347in" />
 
 I have enjoyed a wonderful career of writing books for children . Who
@@ -130,7 +130,7 @@ to listen to the voice, turn off the T.V. and
 
 LISTEN...LISTEN...LISTEN.
 
-### <img src="/tmp/tmp.yoqurDaMli/media/media/image6.png"
+### <img src="assets/Patricia Polacco/media/image6.png"
 style="width:3.125in;height:4.51042in" />
 
 ### 
@@ -145,7 +145,7 @@ style="width:3.125in;height:4.51042in" />
 
 ### Author Interview with Patricia Polacco
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image7.jpeg"
+<img src="assets/Patricia Polacco/media/image7.jpeg"
 style="width:1.47847in;height:2.08194in" />
 
  **What is the best part about being a storyteller?**
@@ -194,7 +194,7 @@ poured over photos of Brosie and my kids growing up together....and it
 helped me. I think it helped me process his death and my grief. So the
 stories are very much about real people in my life.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image8.jpeg"
+<img src="assets/Patricia Polacco/media/image8.jpeg"
 style="width:4.16667in;height:3.11458in" />
 
 *This is the original Fondo from I Can Hear the Sun. It is done after my
@@ -900,7 +900,7 @@ member you feel a special connection with, or an item you treasure.
 Write a short piece about what makes your moment, relative, or item
 stand out as unique and special.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image9.jpeg"
+<img src="assets/Patricia Polacco/media/image9.jpeg"
 style="width:2.02153in;height:2.70833in" />
 
 A little girl and her older brother lived on a small Michigan farm with
@@ -933,10 +933,10 @@ to the sibling rivalry presented in the book. Hopefully they would be
 able to recognise that siblings may get on your nerves sometimes but in
 the end, they will be there for you.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image10.jpeg"
+<img src="assets/Patricia Polacco/media/image10.jpeg"
 style="width:2.99028in;height:4.12778in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image11.jpeg"
+<img src="assets/Patricia Polacco/media/image11.jpeg"
 style="width:3.01042in;height:4.00139in" />
 
 **My Rotten Redheaded Older Brother Patricia Polacco**
@@ -1360,7 +1360,7 @@ done for them?
 7\. What are some of the things you love about your sibling/friend? How
 is that person important in your life?
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image12.jpeg"
+<img src="assets/Patricia Polacco/media/image12.jpeg"
 style="width:2.33333in;height:3in" />
 
 Rotten Richie and the Ultimate Dare tells the story of one of those
@@ -1403,7 +1403,7 @@ have had the experience. The story, told with humour and amusement,
 teaches that it takes a lot of resistance and mental strength to play
 hockey, and endurance and synchronisation to dance at a ballet recital.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image13.jpeg"
+<img src="assets/Patricia Polacco/media/image13.jpeg"
 style="width:4.68889in;height:2.40556in" />
 
 **Artistic Elements**
@@ -1416,7 +1416,7 @@ putting the reader in the shoes of the characters. The illustrations
 also have a small caption underneath explaining what is happening
 (scrapbook style), which lets readers into Polacco's real life.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image14.jpeg"
+<img src="assets/Patricia Polacco/media/image14.jpeg"
 style="width:4.6875in;height:2.94792in" />
 
 **Analysis and Critique**
@@ -1438,10 +1438,10 @@ happens in any household with more than one child. This is why it is a
 great book for children to read and learn how to respect other's
 feelings and ideas.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image15.jpeg"
+<img src="assets/Patricia Polacco/media/image15.jpeg"
 style="width:4.68889in;height:2.93681in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image16.jpeg"
+<img src="assets/Patricia Polacco/media/image16.jpeg"
 style="width:4.68889in;height:2.93681in" />
 
 Our mum loved us both more than anything. She always told us that. she
@@ -1881,7 +1881,7 @@ skates helped me in dancing, that’s for sure …
 To this day, he still calls me Slapshot, and I still call him Dance
 King.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image17.jpeg"
+<img src="assets/Patricia Polacco/media/image17.jpeg"
 style="width:2.05208in;height:2.66667in" />
 
 Thunder Cake is a story about Patricia’s own childhood as she dissolved
@@ -1914,10 +1914,10 @@ ROARED above us so hard it shook the windows and rattled the dishes in
 the cupboards, we just smiled and ate our Thunder Cake. From that time
 on, I never feared the voice of thunder again."*
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image18.jpeg"
+<img src="assets/Patricia Polacco/media/image18.jpeg"
 style="width:3.26944in;height:4.5in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image19.jpeg"
+<img src="assets/Patricia Polacco/media/image19.jpeg"
 style="width:3.04306in;height:4.0625in" />
 
 **Thunder Cake Patricia Polacco**
@@ -2273,7 +2273,7 @@ you’re, can’t, haven’t</em></p>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image20.jpeg"
+<img src="assets/Patricia Polacco/media/image20.jpeg"
 style="width:2.06389in;height:2.65486in" />
 
 Marmee, Meema, and the kids are just like any other family on the block.
@@ -2284,16 +2284,16 @@ and no dad? But Marmee and Meema’s house is full of love. And they teach
 their children that different doesn’t mean wrong. And no matter how many
 mums or dads they have, they are everything a family is meant to be**.**
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image21.jpeg"
+<img src="assets/Patricia Polacco/media/image21.jpeg"
 style="width:3.64444in;height:2.35486in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image22.jpeg"
+<img src="assets/Patricia Polacco/media/image22.jpeg"
 style="width:3.64583in;height:2.35417in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image23.jpeg"
+<img src="assets/Patricia Polacco/media/image23.jpeg"
 style="width:3.64444in;height:2.35486in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image24.jpeg"
+<img src="assets/Patricia Polacco/media/image24.jpeg"
 style="width:3.64444in;height:2.35486in" />
 
 **In Our Mothers’ House Patricia Polacco**
@@ -2593,7 +2593,7 @@ all of us and our families. The walls still whisper our mothers’ names..
 All of our hearts find peace whenever we are there … not only
 remembering them, but being there, together, in our mothers’ house.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image25.jpeg"
+<img src="assets/Patricia Polacco/media/image25.jpeg"
 style="width:2.875in;height:3.75in" />
 
 *"When we passed Mr. Kodinski’s hat shop, Miss Eula would always stop
@@ -2698,10 +2698,10 @@ Resolutions
 
 - they earn money, but Mr Kodinski gives them the hat.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image26.jpeg"
+<img src="assets/Patricia Polacco/media/image26.jpeg"
 style="width:2.89931in;height:4.00139in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image27.jpeg"
+<img src="assets/Patricia Polacco/media/image27.jpeg"
 style="width:3.10486in;height:4.5in" />
 
 **Chicken Sunday Patricia Polacco**
@@ -2976,16 +2976,16 @@ holding admire rolled laughed
 
 rumbles
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image28.jpeg"
+<img src="assets/Patricia Polacco/media/image28.jpeg"
 style="width:3.14653in;height:4.5in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image29.jpeg"
+<img src="assets/Patricia Polacco/media/image29.jpeg"
 style="width:2.88056in;height:4.00139in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image30.jpeg"
+<img src="assets/Patricia Polacco/media/image30.jpeg"
 style="width:3.22778in;height:4.5in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image31.jpeg"
+<img src="assets/Patricia Polacco/media/image31.jpeg"
 style="width:2.72569in;height:3.75in" />
 
 *"She was the last of her kind. A creature of legends. A being of the
@@ -3379,28 +3379,28 @@ gasped kissed smiled brimming
 
 danced judge accepted
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image32.jpeg"
+<img src="assets/Patricia Polacco/media/image32.jpeg"
 style="width:2.97292in;height:2.99097in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image33.jpeg"
+<img src="assets/Patricia Polacco/media/image33.jpeg"
 style="width:3.11944in;height:4.12778in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image34.jpeg"
+<img src="assets/Patricia Polacco/media/image34.jpeg"
 style="width:2.92708in;height:4.00139in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image35.jpeg"
+<img src="assets/Patricia Polacco/media/image35.jpeg"
 style="width:2.89583in;height:4.06181in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image36.jpeg"
+<img src="assets/Patricia Polacco/media/image36.jpeg"
 style="width:3.09306in;height:4.17569in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image37.jpeg"
+<img src="assets/Patricia Polacco/media/image37.jpeg"
 style="width:3.17708in;height:4.5in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image38.jpeg"
+<img src="assets/Patricia Polacco/media/image38.jpeg"
 style="width:3.75347in;height:3.87569in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image39.jpeg" /><img src="/tmp/tmp.yoqurDaMli/media/media/image39.jpeg"
+<img src="assets/Patricia Polacco/media/image39.jpeg" /><img src="assets/Patricia Polacco/media/image39.jpeg"
 style="width:2.70833in;height:3.47986in" />
 
 Trisha can hardly wait. Soon all the relatives will arrive, dozens of
@@ -3419,13 +3419,13 @@ was magical, but this is a trick she can’t wait to see. She doesn’t know
 it yet, but 'lightning in a jar' will become the most remembered ritual
 of all ... one she will proudly share with generations to come.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image40.jpeg"
+<img src="assets/Patricia Polacco/media/image40.jpeg"
 style="width:2.88889in;height:3.74653in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image41.jpeg"
+<img src="assets/Patricia Polacco/media/image41.jpeg"
 style="width:3.4375in;height:4.52292in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image42.jpeg"
+<img src="assets/Patricia Polacco/media/image42.jpeg"
 style="width:3.87569in;height:3.00278in" />
 
 **Vocabulary:**
@@ -3513,10 +3513,10 @@ they were born.”
 
 What do you think she means by this?
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image43.jpeg"
+<img src="assets/Patricia Polacco/media/image43.jpeg"
 style="width:2.95972in;height:3.87292in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image44.jpeg"
+<img src="assets/Patricia Polacco/media/image44.jpeg"
 style="width:3.43819in;height:4.68542in" />
 
 **When Lightning Comes in a Jar Patricia Polacco**
@@ -3827,7 +3827,7 @@ this well.
 She also knew that some day they would tell their children about all of
 us, and of the magic nights when we caught lightning in a jar.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image45.jpeg"
+<img src="assets/Patricia Polacco/media/image45.jpeg"
 style="width:2.07292in;height:2.63333in" />
 
 Based on Patricia’s own life, her entire family forgets her birthday.
@@ -3843,22 +3843,22 @@ accidentally fell in the water while breaking up a dogfight; there was
 no monster. At this time, Gramma walks out with the birthday cake and no
 one forgot her birthday.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image46.png"
+<img src="assets/Patricia Polacco/media/image46.png"
 style="width:4.5in;height:2.92708in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image47.png"
+<img src="assets/Patricia Polacco/media/image47.png"
 style="width:4.24792in;height:2.77292in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image48.png"
+<img src="assets/Patricia Polacco/media/image48.png"
 style="width:4.24792in;height:2.61528in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image49.png"
+<img src="assets/Patricia Polacco/media/image49.png"
 style="width:4.24792in;height:2.78264in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image50.png"
+<img src="assets/Patricia Polacco/media/image50.png"
 style="width:4.5in;height:2.94792in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image51.png"
+<img src="assets/Patricia Polacco/media/image51.png"
 style="width:4.5in;height:2.95833in" />
 
 **Some Birthday! Patricia Polacco**
@@ -4157,7 +4157,7 @@ rubber monster scary voice
 
 .
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image52.jpeg"
+<img src="assets/Patricia Polacco/media/image52.jpeg"
 style="width:2.525in;height:3.25069in" />
 
 When Mary Ellen gets bored with her reading, Grandpa knows a hunt for a
@@ -4166,22 +4166,22 @@ but it's not until everyone returns home that Mary Ellen makes a
 discovery of her own: Sometimes, even the sweetest of things must be
 worked for.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image53.png"
+<img src="assets/Patricia Polacco/media/image53.png"
 style="width:4.5in;height:2.9375in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image54.png"
+<img src="assets/Patricia Polacco/media/image54.png"
 style="width:4.5in;height:2.9375in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image55.png"
+<img src="assets/Patricia Polacco/media/image55.png"
 style="width:4.5in;height:2.94792in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image56.png"
+<img src="assets/Patricia Polacco/media/image56.png"
 style="width:4.5in;height:2.97917in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image57.png"
+<img src="assets/Patricia Polacco/media/image57.png"
 style="width:4.5in;height:2.91667in" />
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image58.png"
+<img src="assets/Patricia Polacco/media/image58.png"
 style="width:4.5in;height:2.95764in" />
 
 **The Bee Tree Patricia Polacco**
@@ -4348,7 +4348,7 @@ From that day on, Mary Ellen never again complained about her reading.
 She found it to be every bit as exciting as a wild chase through the
 Michigan countryside, and as sweet as the honey from a bee tree.
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image59.jpeg"
+<img src="assets/Patricia Polacco/media/image59.jpeg"
 style="width:2.94722in;height:3in" />
 
 Babushka's doll was special. She had played with it only once, when she
@@ -4520,7 +4520,7 @@ Think About:
 
 How the character changed … Why the character changed …
 
-<img src="/tmp/tmp.yoqurDaMli/media/media/image60.jpeg"
+<img src="assets/Patricia Polacco/media/image60.jpeg"
 style="width:2.19514in;height:2.87361in" />
 
 The meteor that crash lands in the middle of Grandma and Grandpa

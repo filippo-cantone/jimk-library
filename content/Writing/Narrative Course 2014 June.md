@@ -8,7 +8,7 @@ tags: [jim-k]
 
 **Narrative**
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image1.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image1.jpeg"
 style="width:3.125in;height:2.91667in" />
 
 **Narrative**
@@ -233,25 +233,25 @@ Narrative poetry gives a verbal representation, in verse, of a sequence
 of connected events, it propels characters through a plot. It is always
 told by a narrator.
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image2.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image2.jpeg"
 style="width:6.75in;height:5.0625in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image3.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image3.jpeg"
 style="width:6.83333in;height:5.125in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image4.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image4.jpeg"
 style="width:6.75in;height:5.0625in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image5.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image5.jpeg"
 style="width:7.08264in;height:5.3125in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image6.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image6.jpeg"
 style="width:6.91667in;height:5.1875in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image7.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image7.jpeg"
 style="width:7.08333in;height:5.3125in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image8.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image8.jpeg"
 style="width:6.75in;height:5.0625in" />
 
 ### 
@@ -310,7 +310,7 @@ personal narratives about topics that matter to them.
 
 **Satisfying Ending**
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image9.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image9.jpeg"
 style="width:2.08333in;height:2.38542in" />
 
 ### 
@@ -1007,10 +1007,10 @@ hourglass.”*
 *“use the bottom of the hourglass for details about the new narrower
 focus.”*
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image10.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image10.jpeg"
 style="width:1.25in;height:3.08333in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image11.png"
+<img src="assets/Narrative Course 2014 June/media/image11.png"
 style="width:5.99236in;height:7.06875in" />
 
 **Small Moment Writing in Personal Narrative**
@@ -1178,7 +1178,7 @@ fireflies swam in my tears, but I could feel myself smiling.
 
 **Knuffle Bunny Mo Willems**
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image12.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image12.jpeg"
 style="width:3.12569in;height:2.41736in" />
 
 Trixie, a young girl who has not yet learnt how to talk, goes on an
@@ -1206,7 +1206,7 @@ digital photography in a computer (where the images were coloured and
 shaded, the photographs given their sepia tone and sundry air
 conditioners, garbage cans and industrial debris expunged.*
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image13.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image13.jpeg"
 style="width:3.42292in;height:2.91319in" />
 
 Did the students notice the appearance of ‘Pigeon’ in the book.
@@ -1291,7 +1291,7 @@ looked. But Knuffle Bunny was nowhere to be found …
 
 So Trixie’s daddy decided to look harder. Until …
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image14.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image14.jpeg"
 style="width:3.175in;height:2.35694in" />
 
 And those were the first words Trixie ever said.
@@ -1370,7 +1370,7 @@ Students have a copy for their Mentor Text folders. Notice Hettie’s
 thoughts in italics. Students can highlight these as they go on a
 ‘thoughtshots hunt.’
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image15.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image15.jpeg"
 style="width:3.3125in;height:2.83264in" />
 
 Mama and Papa agree that eggs for breakfast would be nice, but they’re
@@ -1386,7 +1386,7 @@ love and depict a warmly supportive world in which Hetty ventures forth
 toward independence. A fine book that speaks straight to the
 heart.”--Booklist
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image16.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image16.jpeg"
 style="width:7.03333in;height:4.76458in" />
 
 Read Aloud.
@@ -1750,7 +1750,7 @@ full of sweet red apples.
 
 And the next morning … there was apple pie for breakfast.
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image17.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image17.jpeg"
 style="width:3.03125in;height:3.33333in" />
 
 The Hello, Goodbye Window takes place at Nanna and Poppy’s, the
@@ -1875,19 +1875,19 @@ When I get my own house someday I’m going to have a special Hello,
 Goodbye Window too. by that time I might be a Nanna myself. I don’t know
 who the Poppy will be, but I hope he can play the harmonica.
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image18.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image18.jpeg"
 style="width:5.91667in;height:4.875in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image19.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image19.jpeg"
 style="width:6.03542in;height:6.88333in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image20.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image20.jpeg"
 style="width:6.77083in;height:3.71875in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image21.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image21.jpeg"
 style="width:7in;height:3.5in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image22.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image22.jpeg"
 style="width:6.75in;height:5.80139in" />
 
 In The Hello Goodbye Window, the “big” story is all about a little girl
@@ -1908,13 +1908,13 @@ Draw and write about a moment in the book.
 
 Draw and write about a small moment you have had with your grandparents.
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image23.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image23.jpeg"
 style="width:5.20833in;height:5.52083in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image24.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image24.jpeg"
 style="width:6.77083in;height:3.72917in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image25.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image25.jpeg"
 style="width:3.09236in;height:3.82778in" />
 
 A nostalgic look at the past as a mother tells her daughter about how
@@ -2018,21 +2018,21 @@ tap-danced on garbage can lids …
 
 … and who dreamt of having her own little girl to love.
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image26.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image26.jpeg"
 style="width:6.18889in;height:7.79653in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image27.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image27.jpeg"
 style="width:5.30069in;height:6.92986in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image28.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image28.jpeg"
 style="width:5.775in;height:7.93194in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image29.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image29.jpeg"
 style="width:6.25in;height:7.65625in" />
 
 **Narrative Planning**
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image30.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image30.jpeg"
 style="width:1.90486in;height:2.68194in" />
 
 **Ideas:**
@@ -2275,7 +2275,7 @@ Show the main character and the problem, or hint at the problem**.**
 
 **Write**
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image31.png"
+<img src="assets/Narrative Course 2014 June/media/image31.png"
 style="width:2.08333in;height:1.58333in" />
 
 Don’t write until you’ve planned your character, conflict, scenes, and
@@ -2465,7 +2465,7 @@ can use to plan instruction.
 
 **Resolution:**
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image32.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image32.jpeg"
 style="width:6.80208in;height:5.20833in" />
 
 **Narrative**
@@ -2536,7 +2536,7 @@ Ending: Wrap up story.
 
 **Theme:**
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image33.png"
+<img src="assets/Narrative Course 2014 June/media/image33.png"
 style="width:7in;height:5.40694in" />
 
 **Who, What, Where, When, Why, and How**
@@ -2550,19 +2550,19 @@ style="width:7in;height:5.40694in" />
 | **Why**   |
 | **How**   |
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image34.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image34.jpeg"
 style="width:4.78472in;height:6.37986in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image35.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image35.jpeg"
 style="width:6.5625in;height:8.75in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image36.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image36.jpeg"
 style="width:6.375in;height:8.5in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image37.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image37.jpeg"
 style="width:6.65972in;height:8.87986in" />
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image38.jpeg"
+<img src="assets/Narrative Course 2014 June/media/image38.jpeg"
 style="width:7.11944in;height:9.21597in" />
 
 **Storyboard**
@@ -2573,7 +2573,7 @@ style="width:7.11944in;height:9.21597in" />
 |     |     |     |
 |     |     |     |
 
-<img src="/tmp/tmp.vKSqSI66Y0/media/media/image39.png"
+<img src="assets/Narrative Course 2014 June/media/image39.png"
 style="width:6.60278in;height:7.79028in" />
 
 **The Writing Diamond Defined**

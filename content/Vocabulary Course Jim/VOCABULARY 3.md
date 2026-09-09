@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.UiimUf7x0L/media/media/image1.jpeg"
+<img src="assets/VOCABULARY 3/media/image1.jpeg"
 style="width:3.33889in;height:2.96736in" />
 
 **VOCABULARY 3**

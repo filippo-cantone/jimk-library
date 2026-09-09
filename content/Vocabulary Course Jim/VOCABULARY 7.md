@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.SLpY2guhke/media/media/image1.jpeg"
+<img src="assets/VOCABULARY 7/media/image1.jpeg"
 style="width:3.00833in;height:2.78056in" />
 
 **VOCABULARY 7**
@@ -25,7 +25,7 @@ Discussion: Our five senses.
 
 Read Aloud: Mentor text – Hello Ocean by Pam Munoz Ryan.
 
-<img src="/tmp/tmp.SLpY2guhke/media/media/image2.jpeg"
+<img src="assets/VOCABULARY 7/media/image2.jpeg"
 style="width:2.49861in;height:2.49861in" />
 
 Keywording using a Visualisation Chart.
@@ -1668,7 +1668,7 @@ Mowgli
 
 Tarzan
 
-<img src="/tmp/tmp.SLpY2guhke/media/media/image3.png"
+<img src="assets/VOCABULARY 7/media/image3.png"
 style="width:2.43889in;height:3.00208in" />
 
 **Romulus and Remus**
@@ -1991,7 +1991,7 @@ complete.
 >
 > Ahae! My heart is heavy with the things that I do not understand.
 
-<img src="/tmp/tmp.SLpY2guhke/media/media/image4.jpeg"
+<img src="assets/VOCABULARY 7/media/image4.jpeg"
 style="width:3.87986in;height:2.89792in" />
 
 **Tarzan Edgar Rice Burroughs**
@@ -2747,7 +2747,7 @@ Photo display.
 
 Read Aloud: Pale Male by Janet Schulman
 
-<img src="/tmp/tmp.SLpY2guhke/media/media/image5.jpeg"
+<img src="assets/VOCABULARY 7/media/image5.jpeg"
 style="width:2.22292in;height:2.875in" />
 
 Discussion:

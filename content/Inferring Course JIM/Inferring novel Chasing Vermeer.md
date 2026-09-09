@@ -6,7 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 ---
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image1.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image1.jpeg"
 style="width:2.76042in;height:3.33333in" />
 
 **Chasing Vermeer**
@@ -15,7 +15,7 @@ A novel by
 
 **Blue Balliett**
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image2.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image2.jpeg"
 style="width:2.22847in;height:3.11389in" />
 
 When a book of unexplainable occurrences brings Petra Andalee and Calder
@@ -115,7 +115,7 @@ it.
 
 **Blue Balliett**
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image3.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image3.jpeg"
 style="width:2.90625in;height:4.03125in" />
 
 Blue Balliett’s first book, Chasing Vermeer, was a New York Times
@@ -326,7 +326,7 @@ kids.
 
 **Meet the Illustrator: Brett Helquist**
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image4.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image4.jpeg"
 style="width:2.90625in;height:2.77083in" />
 
 I’m originally from a small town in Arizona that’s surrounded by red
@@ -398,11 +398,11 @@ stories with pictures.
 
 |                                                       |                                                                                                                                                                                                                    |
 |-------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="/tmp/tmp.KthmiQXSlS/media/media/image5.png" 
+| <img src="assets/Inferring novel Chasing Vermeer/media/image5.png" 
  style="width:1.71875in;height:2.44792in" />            | Every piece of art has a skeleton that starts with a few lines.                                                                                                                                                    |
-| <img src="/tmp/tmp.KthmiQXSlS/media/media/image6.png" 
+| <img src="assets/Inferring novel Chasing Vermeer/media/image6.png" 
  style="width:1.71875in;height:3.47986in" />            | One way to determine if a person’s head is drawn too big or too small for their body is through proportions: For young people, the body is usually five heads high; adults’ bodies are generally seven heads high. |
-| <img src="/tmp/tmp.KthmiQXSlS/media/media/image7.png" 
+| <img src="assets/Inferring novel Chasing Vermeer/media/image7.png" 
  style="width:2.87361in;height:3.26944in" />            | Illustrators often have to draw the same character over and over again with different expressions. With each small adjustment the character begins to come to life.                                                |
 
 **Vermeer Fast Facts**
@@ -439,117 +439,117 @@ By passing off his forgeries as real Vermeer works, Han Van Meegeren, an
 infamous Vermeer forger, made it even more difficult to solve the
 mysteries of Vermeer’s paintings.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image8.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image8.jpeg"
 style="width:4.16667in;height:4.6875in" />
 
 The Milkmaid
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image9.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image9.jpeg"
 style="width:4.11597in;height:4.68889in" />
 
 A Lady Writing
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image10.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image10.jpeg"
 style="width:3.66667in;height:4.6875in" />
 
 Girl with a Ted Hat
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image11.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image11.jpeg"
 style="width:4.13333in;height:4.68889in" />
 
 Girl with a Flute
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image12.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image12.jpeg"
 style="width:3.95833in;height:4.63542in" />
 
 Girl with a Pearl Earring
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image13.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image13.jpeg"
 style="width:4.16667in;height:4.79167in" />
 
 Mistress and Maid
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image14.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image14.jpeg"
 style="width:4.09444in;height:4.68889in" />
 
 The Astronomer
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image15.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image15.jpeg"
 style="width:4.09444in;height:4.68889in" />
 
 The Guitar Player
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image16.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image16.jpeg"
 style="width:4.58333in;height:5.48958in" />
 
 Lady Writing a Letter with Her Maid
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image17.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image17.jpeg"
 style="width:3.98958in;height:4.68889in" />
 
 The Lacemaker
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image18.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image18.jpeg"
 style="width:4.15486in;height:4.68889in" />
 
 The Geographer
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image19.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image19.jpeg"
 style="width:4.19653in;height:4.68889in" />
 
 Study of a Young Woman
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image20.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image20.jpeg"
 style="width:4.68889in;height:5.60347in" />
 
 The Art of Painting
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image21.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image21.jpeg"
 style="width:4.15694in;height:4.68889in" />
 
 The Concert
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image22.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image22.jpeg"
 style="width:3.90556in;height:4.68889in" />
 
 Woman in Blue Reading a Letter
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image23.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image23.jpeg"
 style="width:4.09444in;height:4.68889in" />
 
 The Music Lesson
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image24.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image24.jpeg"
 style="width:3.41667in;height:4.68889in" />
 
 A Girl Reading a Letter by an Open Window
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image25.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image25.jpeg"
 style="width:4.03194in;height:4.66736in" />
 
 A Woman Asleep
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image26.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image26.jpeg"
 style="width:4.30208in;height:4.6875in" />
 
 Officer and Laughing Girl
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image27.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image27.jpeg"
 style="width:4.15556in;height:4.6875in" />
 
 Woman Holding a Balance
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image28.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image28.jpeg"
 style="width:4.09444in;height:4.76042in" />
 
 Young Woman with a Water Pitcher
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image29.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image29.jpeg"
 style="width:4.03125in;height:4.6875in" />
 
 Woman with a Pearl Necklace
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image30.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image30.jpeg"
 style="width:4.17708in;height:4.6875in" />
 
 A Lady Seated at a Virginal
@@ -959,7 +959,7 @@ interesting. Include the page number.
 
 • Reflection
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image31.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image31.jpeg"
 style="width:2.09375in;height:2.61458in" />
 
 **Chasing Vermeer Chapter Summaries**
@@ -1011,7 +1011,7 @@ Who were the three people who received the letters?
 
 Why would their lives be in danger if they went to the authorities?
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image32.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image32.jpeg"
 style="width:1.35278in;height:3.77083in" />
 
 *I congratulate you on your pursuit of justice.*
@@ -1045,7 +1045,7 @@ Vocabulary:
 
 stationery impressive pretentious flattered
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image32.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image32.jpeg"
 style="width:2.57986in;height:7.19375in" />
 
 **Chapter 2 The Letter is Dead**
@@ -1151,7 +1151,7 @@ her spying on Ms Hussey.*
 Revise the meaning of the literary device, foreshadowing. How might the
 conclusion of Chapter Two be an example of this?
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image33.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image33.jpeg"
 style="width:3.86528in;height:6.21458in" />
 
 **Chapter 3 Lost in the Art**
@@ -1166,7 +1166,7 @@ Petra and Calder end up in a storage room.
 
 What’s in a name? Petra/Calder
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image34.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image34.jpeg"
 style="width:5.5in;height:3.35417in" />
 
 Petra is an historical and archaeological city in the southern Jordanian
@@ -1185,7 +1185,7 @@ in response to motor power or air currents; by contrast, Calder’s
 stationary sculptures are called stabiles. He also produced numerous
 wire figures, notably for a vast miniature circus. (Wikipedia)
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image35.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image35.jpeg"
 style="width:6.53333in;height:4.89861in" />
 
 At the Art Institute, Petra mentions:
@@ -1201,22 +1201,22 @@ Auguste Bernard
 
 These paintings are at the Art Institute in Chicago.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image36.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image36.jpeg"
 style="width:6.1875in;height:8in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image37.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image37.jpeg"
 style="width:7.36667in;height:4.95347in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image38.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image38.jpeg"
 style="width:7.70069in;height:4.55347in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image39.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image39.jpeg"
 style="width:7.73056in;height:5.04236in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image40.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image40.jpeg"
 style="width:6.42708in;height:8in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image41.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image41.jpeg"
 style="width:3.61458in;height:5.72986in" />
 
 **Chapter 4 Picasso’s Lie**
@@ -1246,10 +1246,10 @@ Day.*
 made familiar stuff seems mysterious. It sent her back to her life
 feeling a little different, at least for a few minutes.*
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image42.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image42.jpeg"
 style="width:5.00069in;height:3.88472in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image43.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image43.jpeg"
 style="width:3.63542in;height:5.72986in" />
 
 Discuss art that makes you think.
@@ -1288,67 +1288,67 @@ By Charles Fort.*
 
 What significance does it have?
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image44.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image44.jpeg"
 style="width:5.18542in;height:4.29236in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image45.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image45.jpeg"
 style="width:4.42847in;height:4.42847in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image46.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image46.jpeg"
 style="width:6.99236in;height:5.96944in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image47.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image47.jpeg"
 style="width:5.51042in;height:7.11458in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image48.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image48.jpeg"
 style="width:6.63264in;height:5.27569in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image49.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image49.jpeg"
 style="width:6.24861in;height:8.25833in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image50.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image50.jpeg"
 style="width:6.77639in;height:7.50278in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image51.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image51.jpeg"
 style="width:6.13472in;height:4.60069in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image52.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image52.jpeg"
 style="width:6.8125in;height:4.44167in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image53.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image53.jpeg"
 style="width:6.46736in;height:6.46736in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image54.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image54.jpeg"
 style="width:7.64861in;height:6.04167in" />
 
 **Is this art?**
 
 Cauliflower
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image55.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image55.jpeg"
 style="width:3.65625in;height:3.5in" />
 
 Chocolate
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image56.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image56.jpeg"
 style="width:2.85417in;height:3.75in" />
 
 Butter
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image57.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image57.jpeg"
 style="width:4.5in;height:6.77083in" />
 
 **Footpath**
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image58.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image58.jpeg"
 style="width:5.38194in;height:3.91458in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image59.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image59.jpeg"
 style="width:5.38542in;height:3.91111in" />
 
 Graffiti
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image60.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image60.jpeg"
 style="width:6.30208in;height:5.21875in" />
 
 **Chapter 5 Worms, Snakes and Periwinkles**
@@ -1367,7 +1367,7 @@ out.
 
 Charles Fort
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image61.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image61.jpeg"
 style="width:1.76042in;height:1.86597in" />
 
 Fort spent a good part of his adult life in the New York City public
@@ -1389,22 +1389,22 @@ Text-to-World connection: We know her to be A Lady Writing by Vermeer.
 
 We have also seen her in other Vermeer paintings.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image62.png"
+<img src="assets/Inferring novel Chasing Vermeer/media/image62.png"
 style="width:4.17639in;height:6.81181in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image9.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image9.jpeg"
 style="width:4.11597in;height:4.68889in" />
 
 **Chapter 6 The Geographer’s Box**
 
 Calder remembers a box his grandmother had given him.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image63.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image63.jpeg"
 style="width:3.21806in;height:5.20694in" />
 
 He examines the picture on the lid:
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image64.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image64.jpeg"
 style="width:2.78125in;height:3.11458in" />
 
 Looking out of his window Calder sees Mrs Sharpe, an old lady, on the
@@ -1414,7 +1414,7 @@ He receives a coded message from Tommy, and digs out his pentomino code.
 
 The kid living next door to Tommy had disappeared.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image65.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image65.jpeg"
 style="width:1.48958in;height:5.20694in" />
 
 |     |     |     |     |     |      |     |     |     |     |     |     |     |     |     |     |
@@ -1504,7 +1504,7 @@ tea.
 What significance is the coincidence of Vermeer’s The Geographer being
 on Calder’s box and Mrs Sharpe’s wall?
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image66.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image66.jpeg"
 style="width:3.20694in;height:5.20764in" />
 
 **Chapter 8 A Halloween Surprise**
@@ -1517,14 +1517,14 @@ Calder recognises Petra’s Halloween costume from a book he borrowed. But
 she dreamt the costume – worn by the woman who appeared to her. Calder
 shows her the picture – Jan Vermeer, A Lady Writing.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image67.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image67.jpeg"
 style="width:3.23958in;height:5.20764in" />
 
 **Chapter 9 The Blue Ones**
 
 They decide to start keeping ‘*a record of unexplained stuff.’*
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image68.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image68.jpeg"
 style="width:3.20833in;height:5.20694in" />
 
 Calder explains to Petra that the pentominoes talk to him as he pulls
@@ -1545,7 +1545,7 @@ her favourite painter, had used more red.
 
 Calder looks down towards Petra’s place. She is wearing a red hat.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image69.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image69.jpeg"
 style="width:3.20833in;height:5.20694in" />
 
 **Chapter 11 Nightmare**
@@ -1561,7 +1561,7 @@ the three people to whom he sent letters.
 
 *Why?*
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image70.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image70.jpeg"
 style="width:3.61458in;height:5.72917in" />
 
 **Chapter Eleven: Nightmare**
@@ -1881,14 +1881,14 @@ See the solution below:
 |     |     |     |     |     |      |      |      | V:2 | L:2 | F:2 | F:2 | F:3 |     |     |
 |     |     |     |     |     |      |      |      | T   | O   | M   | M   | Y   |     |     |
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image71.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image71.jpeg"
 style="width:3.20833in;height:5.20694in" />
 
 **Chapter 13 X The Experts**
 
 The thief sends messages to the newspapers.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image72.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image72.jpeg"
 style="width:3.22847in;height:5.20694in" />
 
 **Chapter 14 Flashing Lights**
@@ -1936,7 +1936,7 @@ scholar before being murdered in Europe doing research.
 |     |     |      |     |     |      |     | V:2  | L:2 | F:2 | F:2 | F:3 |     |     |     |
 |     |     |      |     |     |      |     | T    | O   | M   | M   | Y   |     |     |     |
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image73.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image73.jpeg"
 style="width:3.21806in;height:5.20694in" />
 
 **Chapter 15 Murder and Hot Chocolate**
@@ -1951,7 +1951,7 @@ she was released.
 
 *Who received the third letter?*
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image74.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image74.jpeg"
 style="width:3.16736in;height:5.18681in" />
 
 **Chapter 16 A Morning in the Dark**
@@ -1960,7 +1960,7 @@ Petra and Calder go looking for the painting, convinced Ms Hussey may be
 involved, and has hidden it in the university building. They find what
 they think is the missing Vermeer in the supply room. it isn’t.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image75.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image75.jpeg"
 style="width:3.17639in;height:5.20764in" />
 
 **Chapter 17 What Happens Now?**
@@ -1975,7 +1975,7 @@ Petra finds a torn paper in a hedge near Mrs Sharpe’s house.
 An anonymous gift made it possible for people to buy The Vermeer
 Dilemma: What Happens Now for \$1.50. Discussion about art takes off.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image76.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image76.jpeg"
 style="width:3.16597in;height:5.20694in" />  
   
   
@@ -1995,7 +1995,7 @@ stretchered into an ambulance. She gives them a letter to post,
 addressed to Ms Hussey. In hospital, Calder shows Mrs Sharpe the
 pentominoes. She invents a word game with them.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image77.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image77.jpeg"
 style="width:3.18819in;height:5.20694in" />
 
 **Chapter 19 The Shock on the Stairs**
@@ -2007,14 +2007,14 @@ finds …* Mrs Sharpe’s words.
 
 *She could feel the blood heating wildly in her temples …*
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image78.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image78.jpeg"
 style="width:3.61458in;height:5.72917in" />
 
 **Chapter 20 A Maniac**
 
 Another letter from the thief in the newspaper with demands.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image79.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image79.jpeg"
 style="width:3.17639in;height:5.20764in" />
 
 **Chapter 21 Looking and Seeing**
@@ -2025,7 +2025,7 @@ They see Petra’s dad, who meets up with the mystery man. he is the same
 man they saw in the Post Office – the one who stood on Mrs Sharpe’s
 letter.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image80.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image80.jpeg"
 style="width:3.17639in;height:5.18681in" />
 
 **Chapter 22 Twelves**
@@ -2037,7 +2037,7 @@ They go back to Delia Dell building at night, and find the painting.
 
 They set off the alarm as they leave the building.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image81.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image81.jpeg"
 style="width:3.19792in;height:5.20764in" />
 
 **Chapter 23 Help!**
@@ -2046,7 +2046,7 @@ A man chases them. Petra gets the police, but Calder is missing. Petra
 finds Calder in the neighbour’s tree-house. He followed the man who left
 the painting there. The man hit him and he pretended to be unconscious.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image82.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image82.jpeg"
 style="width:3.19792in;height:5.20694in" />
 
 **Chapter 24 The Pieces**
@@ -2058,7 +2058,7 @@ Vermeer.
 
 All the pieces come together as the mysteries are explained.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image83.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image83.jpeg"
 style="width:1.63472in;height:5.20764in" />
 
 **Chasing Vermeer A Pentomino Approach**
@@ -2086,7 +2086,7 @@ Each piece is made up of five squares that share at least one side.
 Pentominoes are used by mathematicians around the world to explore ideas
 about geometry and numbers. The set looks like this:
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image84.png"
+<img src="assets/Inferring novel Chasing Vermeer/media/image84.png"
 style="width:5.20833in;height:3.23958in" />
 
 Pentominoes are named after letters in the alphabet, although they don’t
@@ -2122,7 +2122,7 @@ creature that
 might help us discover the hidden message described in the introductory
 pages.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image32.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image32.jpeg"
 style="width:1.35278in;height:3.77083in" />
 
 Students make their own pentomino set.
@@ -2136,7 +2136,7 @@ Visualising geometric arrangements.
 
 Figuring out all twelve possible arrangements (logical thinking).
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image85.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image85.jpeg"
 style="width:6.69861in;height:9.44653in" />
 
 Lesson2:
@@ -2174,12 +2174,12 @@ challenge.
 Read Aloud: Chapter 6. On page 57, there is a code involving pentominoes
 and some messages to be decoded.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image86.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image86.jpeg"
 style="width:0.77083in;height:2.71875in" />
 
 Decode the messages.
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image65.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image65.jpeg"
 style="width:1.49097in;height:5.20764in" />
 
 Continue to return to the book:
@@ -2290,13 +2290,13 @@ Vocabulary from Chasing Vermeer by Blue Balliett
 
 Top of Form
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image6.png"
+<img src="assets/Inferring novel Chasing Vermeer/media/image6.png"
 style="width:1.71875in;height:3.47917in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image67.jpeg"
+<img src="assets/Inferring novel Chasing Vermeer/media/image67.jpeg"
 style="width:3.24028in;height:5.20694in" />
 
-<img src="/tmp/tmp.KthmiQXSlS/media/media/image87.png"
+<img src="assets/Inferring novel Chasing Vermeer/media/image87.png"
 style="width:5.20694in;height:6.51944in" />
 
 |     |

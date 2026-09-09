@@ -8,7 +8,7 @@ tags: [jim-k]
 
 **Janell Cannon**
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image1.jpeg"
+<img src="assets/Janell Cannon/media/image1.jpeg"
 style="width:3.64583in;height:3.64583in" />
 
 **Janell Cannon**
@@ -67,19 +67,19 @@ beings to them.
 “Leaping and looping with his little striped friends, Verdi laughed and
 said "I may be big and very green, but I'm still me!”
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image2.jpeg"
+<img src="assets/Janell Cannon/media/image2.jpeg"
 style="width:1.84375in;height:2.77083in" />
 
 **Janell Cannon Books**
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image3.jpeg"
+<img src="assets/Janell Cannon/media/image3.jpeg"
 style="width:1.46597in;height:1.46597in" /> Stellaluna is the tender
 story of a lost young bat who finally finds her way safely home to her
 mother and friends. This award-winning book by Janell Cannon has sold
 over 500,000 copies and was on the bestseller list for more than two
 years.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image4.jpeg"
+<img src="assets/Janell Cannon/media/image4.jpeg"
 style="width:1.46528in;height:1.54792in" /> Young Verdi doesn’t want to
 grow up big and green. He likes his bright yellow skin and sporty
 stripes. Besides, all the green snakes he meets are lazy, boring, and
@@ -91,7 +91,7 @@ himself. “Cannon is on a roll, her gift for creating memorable
 characters and scenes on glorious display in this tale of a feisty
 python hatchling.”--Publishers Weekly
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image5.jpeg"
+<img src="assets/Janell Cannon/media/image5.jpeg"
 style="width:1.55069in;height:1.56875in" /> After sleeping through the
 hot East African afternoon, it is time for Mama Hyena and her child to
 go hunting. Pinduli promises to stay close by, but then trots off. She
@@ -112,7 +112,7 @@ far-reaching effects on many others.
 
 –Mary N. Oluonye, Shaker Heights Public Library, OH
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image6.jpeg"
+<img src="assets/Janell Cannon/media/image6.jpeg"
 style="width:1.74444in;height:1.75417in" /> Artistic flair and the
 spirit of cooperation save the day!
 
@@ -130,7 +130,7 @@ suddenly everyone is in danger. Crickwing has to do something, but what?
 He's an artist, not a fighter. What the leafcutters need is a hero. Or,
 maybe, a cockroach with a really clever idea.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image7.jpeg"
+<img src="assets/Janell Cannon/media/image7.jpeg"
 style="width:1.78819in;height:1.8in" /> Trupp, a young Fuzzhead, decides
 to venture into the world. With a cheeky raven for a companion, Trupp
 rambles through the city, going virtually unnoticed by humans-that is,
@@ -138,7 +138,7 @@ until they are confronted by a homeless woman who sees Trupp for who he
 really is. Before Trupp can decide whether to stay or run away, this
 unusual woman realises that he could use a little help.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image8.jpeg"
+<img src="assets/Janell Cannon/media/image8.jpeg"
 style="width:1.88125in;height:1.875in" /> Little Yau wants nothing more
 than for the Wise Ones to teach her the great secrets of the mountains.
 But when her best friend, Trupp, is in grave danger, Yau's dreams are
@@ -151,7 +151,7 @@ Little Yau in a story about loyalty and friendship that brims with
 humour, emotion, and suspense. The world is a big place--is Little Yau
 ready?
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image9.png"
+<img src="assets/Janell Cannon/media/image9.png"
 style="width:2.5in;height:2in" />
 
 **By Katherine Pierpont**
@@ -217,7 +217,7 @@ look and look and take in as much as I can. Then I synthesise it. I
 never work directly from a photo — I just mix it all up and put it back
 down."
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image10.jpeg"
+<img src="assets/Janell Cannon/media/image10.jpeg"
 style="width:2.08333in;height:1.77083in" />
 
 Janell, who worked for a number of years for the Carlsbad Public Library
@@ -266,17 +266,17 @@ Crickwing Janell Cannon
 Reading Janell Cannon’s books, it is very obvious what makes the writing
 so powerful.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image11.jpeg"
+<img src="assets/Janell Cannon/media/image11.jpeg"
 style="width:2.33333in;height:2.34375in" />
 
 **Crickwing**
 
 **Verdi**
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image12.jpeg"
+<img src="assets/Janell Cannon/media/image12.jpeg"
 style="width:2.25833in;height:2.42639in" />
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image13.jpeg"
+<img src="assets/Janell Cannon/media/image13.jpeg"
 style="width:2.625in;height:2.825in" />
 
 Crickwing is in a very disgruntled mood. A close encounter with a toad
@@ -716,25 +716,25 @@ hugest strangest greenest darkest
 
 leaf-cutting sharp-eyed
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image14.jpeg"
+<img src="assets/Janell Cannon/media/image14.jpeg"
 style="width:2.38542in;height:2.39583in" />
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image15.jpeg"
+<img src="assets/Janell Cannon/media/image15.jpeg"
 style="width:2.34375in;height:2.39583in" />
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image16.jpeg"
+<img src="assets/Janell Cannon/media/image16.jpeg"
 style="width:2.42708in;height:2.39583in" />
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image17.jpeg"
+<img src="assets/Janell Cannon/media/image17.jpeg"
 style="width:2.36458in;height:2.39583in" />
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image18.jpeg"
+<img src="assets/Janell Cannon/media/image18.jpeg"
 style="width:2.42708in;height:2.39583in" />
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image19.jpeg"
+<img src="assets/Janell Cannon/media/image19.jpeg"
 style="width:2.375in;height:2.39583in" />
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image20.jpeg"
+<img src="assets/Janell Cannon/media/image20.jpeg"
 style="width:2.62639in;height:2.67222in" />
 
 Young Verdi doesn’t want to grow up big and green. He likes his bright
@@ -769,7 +769,7 @@ Yellow Snake 1
 
 Yellow Snake 2
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image21.png"
+<img src="assets/Janell Cannon/media/image21.png"
 style="width:5.4375in;height:5.5in" />
 
 **Verdi Janell Cannon**
@@ -968,13 +968,13 @@ With practice the three snakes performed a perfect triple figure eight.
 Leaping and looping with his little striped friends, Verdi laughed. “I
 may be big and very green, but I’m still me!”
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image22.jpeg"
+<img src="assets/Janell Cannon/media/image22.jpeg"
 style="width:2.52083in;height:2.5in" />
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image23.jpeg"
+<img src="assets/Janell Cannon/media/image23.jpeg"
 style="width:2.44792in;height:2.5in" />
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image24.jpeg"
+<img src="assets/Janell Cannon/media/image24.jpeg"
 style="width:2.4375in;height:2.5in" />
 
 **Verdi**
@@ -1021,7 +1021,7 @@ plummeting shaking
 
 **Stellaluna Janell Cannon**
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image25.jpeg"
+<img src="assets/Janell Cannon/media/image25.jpeg"
 style="width:2.34375in;height:2.34375in" />
 
 Stellaluna is a baby bat who is accidentally separated from her mother
@@ -1030,7 +1030,7 @@ birds. Although Stellaluna is a fruit bat, she tries to fit in with the
 customs of the birds by eating insects, sleeping at night, and she
 sleeps in their nest instead of hanging upside down by her feet.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image26.jpeg"
+<img src="assets/Janell Cannon/media/image26.jpeg"
 style="width:2.22917in;height:2.44792in" />
 
 Although Stellaluna is accepted by the birds, she somehow never feels at
@@ -1050,7 +1050,7 @@ herself.
 The small pen and ink drawings at the top of the text pages tell the
 story of how Stellaluna's mother is alive and searching for her baby.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image27.jpeg"
+<img src="assets/Janell Cannon/media/image27.jpeg"
 style="width:2.55in;height:2.15694in" />
 
 **Writing Ideas**
@@ -1070,7 +1070,7 @@ rat, mouse, spider, etc.). Next, have your students write a story about
 their animal that will help change people's feeling and perceptions
 about this animal.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image28.jpeg"
+<img src="assets/Janell Cannon/media/image28.jpeg"
 style="width:2.08264in;height:1.92639in" />
 
 **Compare/Contrast**
@@ -1460,16 +1460,16 @@ night-blooming trees and plants. Others eat whole fruits, seeds and all,
 and distribute the seeds over the forest floor in their droppings.
 Regeneration of tropical forests depends greatly on bats.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image29.jpeg"
+<img src="assets/Janell Cannon/media/image29.jpeg"
 style="width:4.64583in;height:4.6875in" />
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image30.jpeg"
+<img src="assets/Janell Cannon/media/image30.jpeg"
 style="width:4.64583in;height:4.67708in" />
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image31.jpeg"
+<img src="assets/Janell Cannon/media/image31.jpeg"
 style="width:4.64583in;height:4.66667in" />
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image32.jpeg"
+<img src="assets/Janell Cannon/media/image32.jpeg"
 style="width:6.86806in;height:7.41667in" />
 
 **Bats are the only mammals that can really fly, and flight has made
@@ -1744,7 +1744,7 @@ bird*.
 
 8.  How do physical appearances affect who you are?
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image33.jpeg"
+<img src="assets/Janell Cannon/media/image33.jpeg"
 style="width:2.60417in;height:2.60417in" />
 
 *Flitter asks Stellaluna, "How can we be so different and feel so much
@@ -1768,7 +1768,7 @@ so much alike?*
 *Stellaluna ate bugs and slept right side up even though she didn't want
 to.*
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image34.jpeg"
+<img src="assets/Janell Cannon/media/image34.jpeg"
 style="width:2.60347in;height:1.36458in" />
 
 1.  Do you do things to please your family? Why?
@@ -1812,7 +1812,7 @@ family.*
 
 8.  How does this affect who you are?
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image35.jpeg"
+<img src="assets/Janell Cannon/media/image35.jpeg"
 style="width:2.60417in;height:1.78125in" />
 
 *Stellaluna promises Mama Bird that she will not sleep upside down.*
@@ -1847,7 +1847,7 @@ her promise that she would not sleep upside down.*
 7.  Would you make a promise to someone even if it makes you
     > uncomfortable or you don't agree with it? When?
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image36.jpeg"
+<img src="assets/Janell Cannon/media/image36.jpeg"
 style="width:3.38125in;height:3.20556in" />
 
 This story is about a hyena named Pinduli. The story starts off with
@@ -2159,7 +2159,7 @@ hyena can raise the mane to make itself look bigger and more
 intimidating. These animals can grow to be more than a hundred pounds,
 and they eat just about anything – from bugs to fruit to small animals.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image37.jpeg"
+<img src="assets/Janell Cannon/media/image37.jpeg"
 style="width:4.21736in;height:3.40139in" />
 
 The spotted hyena (*Crocuta crocuta)* is well known and often is called
@@ -2175,7 +2175,7 @@ deepest jungles and driest deserts. They are very good hunters, and with
 their powerful jaws, the hyenas can rapidly consume any large prey,
 bones and all.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image38.jpeg"
+<img src="assets/Janell Cannon/media/image38.jpeg"
 style="width:4.38194in;height:3.28125in" />
 
 The brown hyena (*Parahyaena brunnea)* lives only in the southern tip of
@@ -2184,7 +2184,7 @@ striped cousin, it hunts on its own but stays close to a small clan of
 family members. It eats a wide variety of foods, from carrion, insects,
 and small animals to eggs, vegetables, and fruit.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image39.jpeg"
+<img src="assets/Janell Cannon/media/image39.jpeg"
 style="width:2.29167in;height:2.16597in" />
 
 The aardwolf (*Proteles cristatus)* is the smallest member of the hyena
@@ -2192,7 +2192,7 @@ family, rarely reaching a weight of more than thirty pounds. Aardwolf, a
 word in the Afrikaans language, means “earth wolf,” apparently referring
 to the aardwolf’s tendency to live in underground burrows.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image40.jpeg"
+<img src="assets/Janell Cannon/media/image40.jpeg"
 style="width:2.88542in;height:1.89583in" />
 
 Aardwolves live in eastern Africa and southern Africa. They are believed
@@ -2209,7 +2209,7 @@ The marabou stork and the vulture are meat eating scavengers. To get
 enough to eat during the typically vigorous competition for a carcass,
 they move quickly and aggressively, which makes for a messy meal.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image41.jpeg"
+<img src="assets/Janell Cannon/media/image41.jpeg"
 style="width:2.71667in;height:2.53472in" />
 
 After eating, the bird will groom its feathers. It can reach every part
@@ -2217,7 +2217,7 @@ of its body but its head. If these birds had feathery heads, they’d have
 a terrible time trying to clean their matted plumage. Being bald helps
 them stay clean and healthy.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image42.jpeg"
+<img src="assets/Janell Cannon/media/image42.jpeg"
 style="width:2.79861in;height:2.49236in" />
 
 A bald male African lion? They do exist, especially in the Tsavo area of
@@ -2228,7 +2228,7 @@ with long fur. Perhaps these lions have adapted to the conditions by
 shedding their manes. Being less bulky and conspicuous also may allow
 the male lions to be stealthier hunters.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image43.jpeg"
+<img src="assets/Janell Cannon/media/image43.jpeg"
 style="width:5.20764in;height:3.46736in" />
 
 Throughout Africa, male lions sport a wide variety of manes – colour can
@@ -2247,20 +2247,20 @@ creating cooling air currents around the zebra’s whole body. It’s
 possible that the variations between the stripes of different zebras are
 a way for them to attract and identify each other.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image44.jpeg"
+<img src="assets/Janell Cannon/media/image44.jpeg"
 style="width:2.69792in;height:2.02083in" />
 
 The African eagle owl and the adder are predators, and they use their
 stripes to hide themselves when they hunt. The stripes also help these
 creatures to stay hidden from other predators.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image45.jpeg"
+<img src="assets/Janell Cannon/media/image45.jpeg"
 style="width:3.125in;height:3.125in" />
 
 The owl’s feather stripes mimic the pattern of tree bark, while the
 adder’s stripes blend with leaves and rocks on the ground.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image46.jpeg"
+<img src="assets/Janell Cannon/media/image46.jpeg"
 style="width:4.16667in;height:3.22917in" />
 
 **And Why the Big Ears?**
@@ -2269,14 +2269,14 @@ The Cape hunting dog, fennec fox, and serval have big ears in common.
 They all live in hot, dry climates, where keeping cool is a high
 priority. Large ears are great heat radiators.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image47.jpeg"
+<img src="assets/Janell Cannon/media/image47.jpeg"
 style="width:4.05278in;height:4.42153in" />
 
 As the blood circulates in the broad, thin ear surface, body heat
 dissipates, lowering the animal’s temperature. All three animals are
 predators, and keen hearing is necessary to locate prey.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image48.jpeg"
+<img src="assets/Janell Cannon/media/image48.jpeg"
 style="width:5.78542in;height:3.85833in" />
 
 They can swivel their huge ears to zero in on the soft sounds their prey
@@ -2284,7 +2284,7 @@ makes in tall grass or rocky terrain. While Cape hunting dogs hunt in
 packs and often take larger prey, the fennec fox and serval are solitary
 hunters that depend heavily on a diet of rodents, reptiles, and insects.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image49.jpeg"
+<img src="assets/Janell Cannon/media/image49.jpeg"
 style="width:2.66042in;height:3.98403in" />
 
 <table>
@@ -2578,7 +2578,7 @@ all around his photo. It seemed wrong for this tiny soul to be sold as
 just another THING—and I've never been able to shake the image out of my
 mind. I am now writing a story about a dog in this predicament.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image7.jpeg"
+<img src="assets/Janell Cannon/media/image7.jpeg"
 style="width:3.31181in;height:3.33264in" />
 
 Trupp, a young Fuzzhead, decides to venture into the world. With a
@@ -2588,7 +2588,7 @@ homeless woman who sees Trupp for who he really is. Before Trupp can
 decide whether to stay or run away, this unusual woman realises that he
 could use a little help.
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image50.jpeg"
+<img src="assets/Janell Cannon/media/image50.jpeg"
 style="width:4.16667in;height:3.55139in" />
 
 **Trupp Janell Cannon**
@@ -2896,7 +2896,7 @@ everywhere uptown</em></p>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.YM8pGeVBUo/media/media/image8.jpeg"
+<img src="assets/Janell Cannon/media/image8.jpeg"
 style="width:3.31181in;height:3.30278in" />
 
 Little Yau wants nothing more than for the Wise Ones to teach her the

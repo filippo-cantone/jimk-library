@@ -12,12 +12,12 @@ tags: [jim-k]
 
 **Days**
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image1.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image1.jpeg"
 style="width:3.04167in;height:2.11458in" />
 
 **Spelling**
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image2.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image2.jpeg"
 style="width:5.20764in;height:3.71944in" />
 
 **The First 20 Days Spelling**
@@ -425,7 +425,7 @@ Direct Instruction
 
 Building an interest in words
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image3.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image3.jpeg"
 style="width:4.79306in;height:4.79306in" />
 
 **Essential Components** (See also Diagram Vocabulary 2)
@@ -569,7 +569,7 @@ Students determine meaning of the root from all the examples.
 Relate to other words demonstrating how knowing the meaning of the root
 helps comprehension and vocabulary development.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image4.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image4.jpeg"
 style="width:2.22917in;height:3.125in" />
 
 **Strategies for Analysing Word Parts.**
@@ -652,7 +652,7 @@ Have-a-go page helpful, and it is one reason why I have four columns.
 The first column has the spelling the student has used in the text. A
 quick survey of this indicates problems and possible class/group lessons
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image5.png"
+<img src="assets/The First 20 Days - Spelling/media/image5.png"
 style="width:1.04167in;height:1.27083in" />
 
 **SPELLING**
@@ -842,16 +842,16 @@ style="width:1.04167in;height:1.27083in" />
 |     |     |     |     |     |     |     |     |     |     |     |     |
 |     |     |     |     |     |     |     |     |     |     |     |     |
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image6.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image6.jpeg"
 style="width:7.33194in;height:10.66736in" />
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image7.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image7.jpeg"
 style="width:7.30139in;height:10.66736in" />
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image8.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image8.jpeg"
 style="width:7.5625in;height:10.65556in" />
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image9.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image9.jpeg"
 style="width:7.42778in;height:10.66736in" />
 
 **Prep**
@@ -905,7 +905,7 @@ awareness.</td>
 
 **The Alphabet Tree Leo Lionni**
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image10.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image10.jpeg"
 style="width:2.08333in;height:2.625in" />
 
 When a fierce wind threatens to blow all the little letters out of the
@@ -994,13 +994,13 @@ began climbing down the tree.
 
 “To the President,” said the caterpillar.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image11.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image11.jpeg"
 style="width:2.74931in;height:2.76042in" />
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image12.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image12.jpeg"
 style="width:2.00069in;height:2.72986in" />
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image13.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image13.jpeg"
 style="width:2.05833in;height:2.76042in" />
 
 **Off We Go! Jane Yolen**
@@ -1282,7 +1282,7 @@ Zany zebras zigzagging in zinc zeppelins.
 
 **Alphabet Under Construction Denise Fleming**
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image14.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image14.jpeg"
 style="width:2.15139in;height:2.64583in" />
 
 Mouse is hard at work as he constructs the alphabet letter by letter.
@@ -1658,7 +1658,7 @@ Use of big book as part of a five day program.
 
 Somewhere by Jane Baskwill
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image15.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image15.jpeg"
 style="width:2.04167in;height:2.6875in" />
 
 **Somewhere**
@@ -1705,13 +1705,13 @@ Something marvellous happens,
 
 Bringing wonder and delight.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image16.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image16.jpeg"
 style="width:2.34375in;height:2.33333in" />
 
 A flight across the night to see what happens in nature . . . while the
 world is sleeping.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image17.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image17.jpeg"
 style="width:3.12569in;height:2.3125in" />
 
 The Adventures of Taxi Dog by Debra and Sal Barraca is a about a stray
@@ -1720,7 +1720,7 @@ of his days riding in the front seat soaking up the diversity of their
 fares. The rhyming text, and detailed illustrations by Marc Buehner work
 well together to make this a fun read.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image18.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image18.jpeg"
 style="width:2.84375in;height:3.125in" />
 
 Tired of being just an Emu, Edward decides to try being like other
@@ -1873,7 +1873,7 @@ Then the new emu said, with a shy little smile,
 
 You’re the best thing I’ve seen since I came to the zoo!”
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image19.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image19.jpeg"
 style="width:2.88403in;height:3.10625in" />
 
 In this sequel to the popular Edward the Emu, Edward and his mate Edwina
@@ -2180,14 +2180,14 @@ The day is waiting to be born,
 
 The world has finished sleeping.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image20.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image20.jpeg"
 style="width:2.3125in;height:2.36458in" />
 
 Lively rhythm and rhyme, and alluring art, carry children off on a
 captivating journey along the railroad tracks. There they meet a hungry
 little ant and the gentle giant of a switchman who cares for him.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image21.png"
+<img src="assets/The First 20 Days - Spelling/media/image21.png"
 style="width:2.09167in;height:2.125in" />
 
 With its irresistible rhythm and rhyme, adorable art, and appealing
@@ -2509,7 +2509,7 @@ A good book for children to read themselves as each illustration
 encourages them to find the right witch in a group of witches. The
 rhyming clues are in the form of questions.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image22.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image22.jpeg"
 style="width:2.80208in;height:2.52708in" />
 
 Read Aloud
@@ -2793,7 +2793,7 @@ work with onset and rime, that little work will need to be done in grade
 A clever example of using the word 'ant' within words beginning with
 every letter of the alphabet---ant from A to Z.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image23.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image23.jpeg"
 style="width:2.08333in;height:2.625in" />
 
 Using the dictionary, students find words that begin with each letter
@@ -2802,10 +2802,10 @@ their a-n-t words. As in Cathi Hepworth’s book, the central figure in
 the illustration should be an ant that is demonstrating the selected
 word.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image24.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image24.jpeg"
 style="width:2.66528in;height:3.63333in" />
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image25.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image25.jpeg"
 style="width:2.64375in;height:3.61667in" />
 
 **Antics Cathi Hepworth**
@@ -4001,7 +4001,7 @@ to a stage…coach. Set in the Old West, the story takes the reader into
 every nook and cranny that compound words can offer. Will the bullfrog
 ever find his hop?
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image26.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image26.jpeg"
 style="width:2.20069in;height:2.48819in" />
 
 **Once There Was a Bull … (Frog) Rick Walton**
@@ -4104,7 +4104,7 @@ granddaughter, in first-person narration, describes the scent of mashed
 potatoes detected while romping with her brother, implying that the
 grandfather's story might not be purely fictitious.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image27.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image27.jpeg"
 style="width:2.80069in;height:2.47222in" />
 
 **Cloudy with a Chance of Meatballs**
@@ -4329,7 +4329,7 @@ potatoes.
 </tbody>
 </table>
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image28.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image28.jpeg"
 style="width:2.625in;height:2.825in" /> Crickwing is in a very
 disgruntled mood. A close encounter with a toad left one of the
 cockroach's wings bent at an awkward and painful angel. To make things
@@ -4573,7 +4573,7 @@ Was it because he was just mean?
 When Crickwing started picking on the ants, he stopped noticing all the
 beautiful colours of his food which he used to enjoy. Why was that?
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image29.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image29.jpeg"
 style="width:4.24167in;height:4.26597in" />
 
 Non-fiction notes:
@@ -4586,7 +4586,7 @@ Ant Notes.
 
 This is something the students might like to try during the year.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image30.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image30.jpeg"
 style="width:3.125in;height:1.625in" />
 
 *… “when an animal is generally misunderstood and unpopular with humans,
@@ -4712,7 +4712,7 @@ hugest strangest greenest brightest
 
 **Python Christopher Cheng**
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image31.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image31.jpeg"
 style="width:2.82292in;height:3.125in" />
 
 It’s morning in the bush. Python stirs and slithers out from her
@@ -4726,7 +4726,7 @@ a meal**.**
 Combines two genres – narrative and information text in two different
 fonts similar to Nicola Davies.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image32.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image32.jpeg"
 style="width:3.54861in;height:1.95in" />
 
 **Python Christopher Cheng**
@@ -4893,7 +4893,7 @@ non-venomous deserved incubate slimy</td>
 
 **The Dandelion Seed Joseph Anthony**
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image33.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image33.jpeg"
 style="width:1.77569in;height:2.29167in" />
 
 A dandelion seed is the last to leave the dead flowers in autumn. It
@@ -4980,10 +4980,10 @@ the rain will take care of you. Let go and you will see.”
 
 You will see.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image34.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image34.jpeg"
 style="width:5.55in;height:3.39861in" />
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image35.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image35.jpeg"
 style="width:5.55in;height:3.39236in" />
 
 **DANDELION - by Valerie Worth**
@@ -5114,16 +5114,16 @@ Narrative
 
 Poetry
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image36.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image36.jpeg"
 style="width:2.79167in;height:3.71667in" />
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image37.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image37.jpeg"
 style="width:4.44861in;height:2.97847in" />
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image38.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image38.jpeg"
 style="width:3.175in;height:3.02153in" />
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image39.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image39.jpeg"
 style="width:2.55347in;height:3.82292in" />
 
 **A Dandelion’s Life John Himmelman**
@@ -5131,7 +5131,7 @@ style="width:2.55347in;height:3.82292in" />
 Nonfiction text which follows the path one seed takes during its first
 season of growing into a mature flower.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image40.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image40.jpeg"
 style="width:2.08333in;height:1.72917in" />
 
 **Sequence of events:**
@@ -5164,10 +5164,10 @@ The seeds blow away and the stem withers.
 
 The plant buds again the next spring.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image41.jpeg"
-style="width:2.8875in;height:2.8875in" /> <img src="/tmp/tmp.uNpaBqjG1n/media/media/image42.jpeg"
-style="width:2.94653in;height:2.94653in" /> <img src="/tmp/tmp.uNpaBqjG1n/media/media/image43.jpeg"
-style="width:2.91875in;height:2.91875in" /> <img src="/tmp/tmp.uNpaBqjG1n/media/media/image44.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image41.jpeg"
+style="width:2.8875in;height:2.8875in" /> <img src="assets/The First 20 Days - Spelling/media/image42.jpeg"
+style="width:2.94653in;height:2.94653in" /> <img src="assets/The First 20 Days - Spelling/media/image43.jpeg"
+style="width:2.91875in;height:2.91875in" /> <img src="assets/The First 20 Days - Spelling/media/image44.jpeg"
 style="width:2.89792in;height:2.94861in" />
 
 **A Dandelion’s Life John Himmelman**
@@ -5974,7 +5974,7 @@ That sly, slippery slope was simply a sham. Such a shock, such a shame.
 
 Such a succulent slug!
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image45.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image45.jpeg"
 style="width:2.61458in;height:1.16667in" />
 
 **Clara Caterpillar**
@@ -6329,7 +6329,7 @@ superlatives.</em></p>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image46.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image46.jpeg"
 style="width:2.5in;height:2.48333in" />
 
 The Worst Band in the Universe by Graeme Base
@@ -6364,7 +6364,7 @@ strong and clever story. This is a story that teaches about bullying and
 the reasons why it happens, a story about good versus evil and rising
 above to beat the powers that be.
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image47.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image47.jpeg"
 style="width:5.49722in;height:2.75278in" />
 
 Review 2:
@@ -9031,5 +9031,5 @@ yourself</td>
 | -ure       | an action or process, a collective                  | legislature, procedure, scripture                                                                                   |
 | -y         | full of, denoting a condition, or a diminutive      | glory, hungry, messy, jealousy, sleepy                                                                              |
 
-<img src="/tmp/tmp.uNpaBqjG1n/media/media/image48.jpeg"
+<img src="assets/The First 20 Days - Spelling/media/image48.jpeg"
 style="width:3.74653in;height:5.24653in" />

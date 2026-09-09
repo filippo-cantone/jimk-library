@@ -8,10 +8,10 @@ tags: [jim-k]
 
 **Eve Bunting**
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image1.jpeg"
+<img src="assets/Eve Bunting (2)/media/image1.jpeg"
 style="width:6.17639in;height:2.34236in" />
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image2.jpeg"
+<img src="assets/Eve Bunting (2)/media/image2.jpeg"
 style="width:3.47917in;height:5in" />
 
 Born the small village of Maghera, Ireland in 1928, Eve Bunting grew up
@@ -89,7 +89,7 @@ relatable?
 
 sorrow in a few simple words.” – Eve Bunting
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image3.jpeg"
+<img src="assets/Eve Bunting (2)/media/image3.jpeg"
 style="width:2.08264in;height:2.85278in" />
 
 **Themes:** E.g.
@@ -352,10 +352,10 @@ One Green Apple
 
 A Day’s Work
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image4.jpeg"
+<img src="assets/Eve Bunting (2)/media/image4.jpeg"
 style="width:3.33264in;height:2.80139in" />
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image5.jpeg"
+<img src="assets/Eve Bunting (2)/media/image5.jpeg"
 style="width:3.08333in;height:3.08333in" />
 
 Terrible Things is an allegory of the Holocaust and what happens when
@@ -395,7 +395,7 @@ feeling in this story. He is spot on in the way he has captured the fear
 of the animals as the Terrible Things come for them, but in the sense of
 isolation each animal type feels as they try to flee:
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image6.jpeg"
+<img src="assets/Eve Bunting (2)/media/image6.jpeg"
 style="width:2.65625in;height:3.33333in" />
 
 Lessons:
@@ -599,7 +599,7 @@ was later made into a play and film.
 
 **Anne Frank**
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image7.jpeg"
+<img src="assets/Eve Bunting (2)/media/image7.jpeg"
 style="width:5.82292in;height:3.54167in" />
 
 OVERVIEW AND BACKGROUND
@@ -678,7 +678,7 @@ many languages and is used in thousands of middle school and high school
 curricula in Europe and the Americas. Anne Frank has become a symbol for
 the lost promise of the children who died in the Holocaust.
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image8.jpeg"
+<img src="assets/Eve Bunting (2)/media/image8.jpeg"
 style="width:2.40625in;height:2.97917in" />
 
 Excerpt from Anne Frank's diary, October 10, 1942: "This is a photograph
@@ -686,30 +686,30 @@ of me as I wish I looked all the time. Then I might still have a chance
 of getting to Hollywood. But now I am afraid I usually look quite
 different." Amsterdam, the Netherlands.
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image9.jpeg"
+<img src="assets/Eve Bunting (2)/media/image9.jpeg"
 style="width:1.61458in;height:3.64583in" />
 
 Anne Frank at five years of age. Bad Aachen, Germany, September 11,
 1934.
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image10.jpeg"
+<img src="assets/Eve Bunting (2)/media/image10.jpeg"
 style="width:2.79167in;height:3.84375in" />
 
 Anne Frank at 11 years of age, two years before going into hiding.
 Amsterdam, the Netherlands, 1940.
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image11.jpeg"
+<img src="assets/Eve Bunting (2)/media/image11.jpeg"
 style="width:3.0625in;height:3.84375in" />
 
 Anne Frank with her mother and sister. Frankfurt, Germany, 1933.
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image12.jpeg"
+<img src="assets/Eve Bunting (2)/media/image12.jpeg"
 style="width:4.79167in;height:3.4375in" />
 
 A page from Anne Frank's photo album showing snapshots taken between
 1935 and 1942. Amsterdam, the Netherlands
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image13.jpeg"
+<img src="assets/Eve Bunting (2)/media/image13.jpeg"
 style="width:2.3125in;height:3.54167in" />
 
 The house at Prinsengracht 263, where Anne Frank and her family were
@@ -717,7 +717,7 @@ hidden. Amsterdam, the Netherlands. After 1935.
 
 Watch The Terrible Things on Vimeo
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image14.jpeg"
+<img src="assets/Eve Bunting (2)/media/image14.jpeg"
 style="width:6.66597in;height:3.72847in" />
 
 Literature Links:
@@ -736,7 +736,7 @@ The Boy in the Striped Pyjamas John Coyne
 
 The Diary of a Young Girl Anne Frank
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image15.jpeg"
+<img src="assets/Eve Bunting (2)/media/image15.jpeg"
 style="width:3.85417in;height:2.89583in" />
 
 **Terrible Things**
@@ -930,7 +930,7 @@ only we creatures had stuck together, it could have been different.
 Sadly, Little Rabbit left the clearing. He’d go tell other forest
 creatures about the terrible Things. He hoped someone would listen.
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image16.jpeg"
+<img src="assets/Eve Bunting (2)/media/image16.jpeg"
 style="width:2.13542in;height:3.125in" />
 
 Eve Bunting unobtrusively weaves many authentic details of ancient
@@ -939,7 +939,7 @@ everything was to the people who were living it all. Young Heb-Nefert
 catches the eye of the Pharaoh’s brother – she dances for him, and they
 fall in love:
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image17.jpeg"
+<img src="assets/Eve Bunting (2)/media/image17.jpeg"
 style="width:1.82292in;height:3.125in" />
 
 Time eventually passes for the pair, and while still young, Heb-Nefert
@@ -948,10 +948,10 @@ own mummification. And soon enough she watches her loved one approaching
 the afterlife as well – and their shared journey toward the
 incomprehensible:
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image18.jpeg"
+<img src="assets/Eve Bunting (2)/media/image18.jpeg"
 style="width:1.875in;height:3.125in" />
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image19.jpeg"
+<img src="assets/Eve Bunting (2)/media/image19.jpeg"
 style="width:1.88542in;height:3.125in" />
 
 Heb-Nefert was no wise woman in her own time, no prophet or seer.
@@ -960,10 +960,10 @@ gawkers are suffused with a serene wisdom that utterly, wonderfully
 preserves the weird, imperative dignity of the ancient Egyptians. The
 concluding line of I am the Mummy Heb-Nefert provides a poignant ending.
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image20.jpeg"
+<img src="assets/Eve Bunting (2)/media/image20.jpeg"
 style="width:2.54167in;height:3.125in" />
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image21.jpeg"
+<img src="assets/Eve Bunting (2)/media/image21.jpeg"
 style="width:2.16667in;height:3.125in" />
 
 Once I was beautiful.
@@ -1424,7 +1424,7 @@ Ending:
 
 *Once I was beautiful.*
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image22.jpeg"
+<img src="assets/Eve Bunting (2)/media/image22.jpeg"
 style="width:2.08333in;height:2.23958in" />
 
 This book is about gargoyles coming to life at night. It expresses how
@@ -1541,10 +1541,10 @@ Independent Writing
 
 Gargoyle poetry.
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image23.jpeg"
+<img src="assets/Eve Bunting (2)/media/image23.jpeg"
 style="width:6.80069in;height:8.28542in" />
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image24.jpeg"
+<img src="assets/Eve Bunting (2)/media/image24.jpeg"
 style="width:2.91597in;height:2.80486in" />
 
 A homeless boy who lives in an airport with his father, moving from
@@ -1574,10 +1574,10 @@ Why don't they go to a shelter?
 
 Why can't Dad work?
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image25.png"
+<img src="assets/Eve Bunting (2)/media/image25.png"
 style="width:2.08333in;height:1.77083in" />
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image26.png"
+<img src="assets/Eve Bunting (2)/media/image26.png"
 style="width:2.08333in;height:1.72917in" />
 
 Students understand how text clues and background knowledge helped them
@@ -1604,7 +1604,7 @@ Character study from photos.
 
 Write the story.
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image27.jpeg"
+<img src="assets/Eve Bunting (2)/media/image27.jpeg"
 style="width:2.34375in;height:2.34375in" />
 
 The Lady in the Box by Ann McGovern
@@ -1615,7 +1615,7 @@ children for a stranger. Written in direct, disarming prose, Ben’s story
 tells how he and his sister try to help the “lady in the box” who keeps
 her “home” over the heating grate outside the Circle Deli.
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image28.jpeg"
+<img src="assets/Eve Bunting (2)/media/image28.jpeg"
 style="width:2.05208in;height:2.65625in" />
 
 The Family Under the Bridge by Natalie Savage Carlson
@@ -2052,7 +2052,7 @@ someone would find him and call the vet that has Prince’s records.”
 “He’s a great dog!” the man replied. “The minute I saw him, I knew he
 was a prince in disguise.”
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image29.png"
+<img src="assets/Eve Bunting (2)/media/image29.png"
 style="width:2.5in;height:3.32292in" />
 
 Simon and his mum don’t have much - the cardboard house they built for
@@ -2251,33 +2251,33 @@ December smiles down at us from her place on the wall. I never noticed
 until after last Christmas Eve, but if you look real closely you can see
 she has a faded rose in her hair.
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image30.jpeg"
+<img src="assets/Eve Bunting (2)/media/image30.jpeg"
 style="width:4.91667in;height:3.63542in" />
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image31.jpeg"
+<img src="assets/Eve Bunting (2)/media/image31.jpeg"
 style="width:6.16667in;height:4.625in" />
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image32.jpeg"
+<img src="assets/Eve Bunting (2)/media/image32.jpeg"
 style="width:6.24861in;height:6.24861in" />
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image33.jpeg"
+<img src="assets/Eve Bunting (2)/media/image33.jpeg"
 style="width:7.12292in;height:4.49931in" />
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image34.jpeg"
+<img src="assets/Eve Bunting (2)/media/image34.jpeg"
 style="width:4.41528in;height:3.31111in" />
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image35.jpeg"
+<img src="assets/Eve Bunting (2)/media/image35.jpeg"
 style="width:3.125in;height:3.10417in" />
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image36.jpeg"
+<img src="assets/Eve Bunting (2)/media/image36.jpeg"
 style="width:5.05139in;height:2.49861in" />
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image37.jpeg"
+<img src="assets/Eve Bunting (2)/media/image37.jpeg"
 style="width:5.05208in;height:2.5in" />
 
 **Night Tree Eve Bunting**
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image38.jpeg"
+<img src="assets/Eve Bunting (2)/media/image38.jpeg"
 style="width:1.91944in;height:2.51042in" />
 
 Night Tree recounts a family's annual Christmas Eve outing to a nearby
@@ -2412,7 +2412,7 @@ to wake up I just bet it would wake up for Christmas.**
 they’re all there together, singing their own Christmas songs on
 Christmas Day around our tree.**
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image39.jpeg"
+<img src="assets/Eve Bunting (2)/media/image39.jpeg"
 style="width:2.99792in;height:2.93333in" />
 
 Dealing with memories of a dead mother is hard. A young girl
@@ -2656,7 +2656,7 @@ She swallowed. “Will you really help me restring them, Jane?”
 Jane wiped her hands on a rag and stood up. “Anytime you want,” she
 said. “I’m here.”
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image40.jpeg"
+<img src="assets/Eve Bunting (2)/media/image40.jpeg"
 style="width:3.50069in;height:3.24167in" />
 
 A young ten-year-old boy named James considers joining a gang but has
@@ -3069,7 +3069,7 @@ halfway headlights streetlights peephole outside</em></p></td>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image41.jpeg"
+<img src="assets/Eve Bunting (2)/media/image41.jpeg"
 style="width:3.3125in;height:3.91667in" />
 
 Farah feels alone, even when surrounded by her classmates. She listens
@@ -3085,7 +3085,7 @@ Ted Lewin’s gorgeous sun-drenched paintings and Eve Bunting’s sensitive
 text immediately put the reader into another child’s shoes in this
 timely story of a young Muslim immigrant.
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image42.jpeg"
+<img src="assets/Eve Bunting (2)/media/image42.jpeg"
 style="width:3.33264in;height:1.97986in" />
 
 **Discussion:**
@@ -3392,13 +3392,13 @@ the reader understand this character's perspective</p>
 </tbody>
 </table>
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image43.png"
+<img src="assets/Eve Bunting (2)/media/image43.png"
 style="width:3.56528in;height:4.17986in" />
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image44.jpeg"
+<img src="assets/Eve Bunting (2)/media/image44.jpeg"
 style="width:3.19792in;height:3.76042in" />
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image45.jpeg"
+<img src="assets/Eve Bunting (2)/media/image45.jpeg"
 style="width:3.74931in;height:3.31111in" />
 
 “A Day’s work” is a heart-warming story that teaches a lesson on the
@@ -3453,7 +3453,7 @@ that lesson?
 • Ben said that the ‘important things your grandfather knows already.’
 What are the things he is referring to?
 
-<img src="/tmp/tmp.wSGvmCfQMh/media/media/image46.jpeg"
+<img src="assets/Eve Bunting (2)/media/image46.jpeg"
 style="width:6.56389in;height:2.21944in" />
 
 **Another set of Questions:**
