@@ -1,3 +1,10 @@
+---
+title: "Photos Writer's Notebook 3 Quick Writes"
+source_file: "Writer's Notebook/Photos Writer's Notebook 3 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(3)**
@@ -408,3 +415,4 @@ height="7.490277777777778in"}
 
 ![http://qph.is.quoracdn.net/main-qimg-0ca1f8617e44d18d6e89a91683bb26fa?convert_to_webp=true](assets/Photos Writer's Notebook 3 Quick Writes/media/media/image104.jpeg){width="6.268055555555556in"
 height="4.696819772528434in"}
+

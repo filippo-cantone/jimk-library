@@ -1,3 +1,10 @@
+---
+title: "Fantasy - Writer's Notebook 9 Quick Writes"
+source_file: "Writer's Notebook/Fantasy - Writer's Notebook 9 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(9)**
@@ -2299,3 +2306,4 @@ friendship, a sure and open friendship which Ged could not help but
 return.*
 
 Friendship *\*
+

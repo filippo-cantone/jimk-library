@@ -1,3 +1,10 @@
+---
+title: "News - Writer's Notebook 8 Quick Writes"
+source_file: "Writer's Notebook/News - Writer's Notebook 8 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(8)**
@@ -1213,3 +1220,4 @@ Dan Austin, living in Seattle, WA. is the director of seven
 documentaries and author of three books. His 1999 documentary True Fans
 tells the story of the bike ride he took across America with his brother
 and best friend.
+

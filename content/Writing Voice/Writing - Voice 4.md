@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 4"
+source_file: "Writing Voice/Writing - Voice 4.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 > **Voice**
 >
 > **(4)**
@@ -4184,3 +4191,4 @@ My love will always surround you...
 with the strength of blue horses.
 
 .
+

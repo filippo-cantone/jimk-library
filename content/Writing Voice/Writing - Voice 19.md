@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 19"
+source_file: "Writing Voice/Writing - Voice 19.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 > **Voice**
 >
 > **(19)**
@@ -2887,3 +2894,4 @@ side by side, watching, listening,
 feeling the bears that roam,
 
 that belong in the deep, dark woods.
+

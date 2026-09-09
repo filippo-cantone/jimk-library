@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 7"
+source_file: "Writing Voice/Writing - Voice 7.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 **Voice**
 
 > **(7)**
@@ -3329,3 +3336,4 @@ Cardinal
 Little sister
 
 Brother
+

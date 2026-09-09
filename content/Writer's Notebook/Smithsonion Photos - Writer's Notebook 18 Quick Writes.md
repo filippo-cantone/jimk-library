@@ -1,3 +1,10 @@
+---
+title: "Smithsonion Photos - Writer's Notebook 18 Quick Writes"
+source_file: "Writer's Notebook/Smithsonion Photos - Writer's Notebook 18 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(18)**
@@ -369,3 +376,4 @@ height="4.250301837270341in"}
 
 ![null](assets/Smithsonion Photos - Writer's Notebook 18 Quick Writes/media/media/image102.jpeg){width="6.268055555555556in"
 height="4.113614391951006in"}
+

@@ -1,3 +1,10 @@
+---
+title: "Narrative Art - Writer's Notebook 12 Quick Writes"
+source_file: "Writer's Notebook/Narrative Art - Writer's Notebook 12 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(12)**
@@ -453,3 +460,4 @@ height="7.7477143482064745in"}
 
 ![http://www.ezra-jack-keats.org/wp-content/uploads/2011/11/peter-looks-at-3-footprints.jpg](assets/Narrative Art - Writer's Notebook 12 Quick Writes/media/media/image101.jpeg){width="3.660416666666667in"
 height="3.329861111111111in"}
+

@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 17"
+source_file: "Writing Voice/Writing - Voice 17.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 **Voice**
 
 > **(17)**
@@ -4237,3 +4244,4 @@ Alex
 "Yessssss!"
 
 "Thanks, Alex!"
+

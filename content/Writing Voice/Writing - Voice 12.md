@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 12"
+source_file: "Writing Voice/Writing - Voice 12.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 **Voice**
 
 > **(12)**
@@ -3411,3 +3418,4 @@ Thank you - Michelle.
 
 ![http://www.penguin.com/static/images/yr/pdf/Elephant_ActivitySheet.JPG](assets/Writing - Voice 12/media/media/image86.jpeg){width="6.268055555555556in"
 height="4.815470253718285in"}
+

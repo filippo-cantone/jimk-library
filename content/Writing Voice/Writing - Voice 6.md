@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 6"
+source_file: "Writing Voice/Writing - Voice 6.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 **Voice**
 
 > **(6)**
@@ -3565,3 +3572,4 @@ height="4.666666666666667in"}
 
 ![Stellaluna%2B7](assets/Writing - Voice 6/media/media/image76.jpeg){width="6.864583333333333in"
 height="7.416666666666667in"}
+

@@ -1,3 +1,10 @@
+---
+title: "National Geographic Photo of the day - Writer's Notebook 13 Quick Writes"
+source_file: "Writer's Notebook/National Geographic Photo of the day - Writer's Notebook 13 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(13)**
@@ -421,3 +428,4 @@ height="4.696819772528434in"}
 ![Photo: Children playing in
 rain](assets/National Geographic Photo of the day - Writer's Notebook 13 Quick Writes/media/media/image100.jpeg){width="6.268055555555556in"
 height="4.700936132983377in"}
+

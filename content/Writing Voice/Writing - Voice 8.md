@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 8"
+source_file: "Writing Voice/Writing - Voice 8.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 > **Voice**
 >
 > **(8)**
@@ -4433,3 +4440,4 @@ As for Enemy Pie, I still don't know how to make it. I still wonder if
 enemies really do hate it or if their hair falls out or their breath
 turns bad. But I don't know if I'll ever get an answer, because I just
 lost my best enemy.
+

@@ -1,3 +1,10 @@
+---
+title: "Writer's Notebook"
+source_file: "Writer's Notebook/Writer's Notebook.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 INCLUDEPICTURE
 \"https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcST8dIoIHS5wo2Vw7uKnxfrBbs9tQig7JUiA-0QDlirQD36XLKw\"
 \\\* MERGEFORMATINET
@@ -4820,3 +4827,4 @@ it enriches our interaction with it and understanding of it. The next
 time you encounter a children's book, try looking at the illustrations
 first to see how it affects your interpretation of the story, and to
 appreciate the amazing skills of the artist who created it.
+

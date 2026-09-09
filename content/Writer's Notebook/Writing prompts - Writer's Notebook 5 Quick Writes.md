@@ -1,3 +1,10 @@
+---
+title: "Writing prompts - Writer's Notebook 5 Quick Writes"
+source_file: "Writer's Notebook/Writing prompts - Writer's Notebook 5 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(5)**
@@ -1478,3 +1485,4 @@ height="7.291666666666667in"}
 
 ![https://writersmanifest.files.wordpress.com/2012/03/this-one1.png](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image74.png){width="4.96875in"
 height="3.2708333333333335in"}
+

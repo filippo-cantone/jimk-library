@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 9"
+source_file: "Writing Voice/Writing - Voice 9.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 > **Voice**
 >
 > **(9)**
@@ -3889,3 +3896,4 @@ after Charlotte is gone? How does it affect his ability and desire to
 make friends in the future? What will Wilbur look for in a friend, and
 how will he try to act towards one? What have you learned about
 friendship from Charlotte and Wilbur?
+

@@ -1,3 +1,10 @@
+---
+title: "People Photos - Writer's Notebook 11 Quick Writes"
+source_file: "Writer's Notebook/People Photos - Writer's Notebook 11 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(11)**
@@ -501,3 +508,4 @@ height="6.1147189413823275in"}
 
 ![http://dingo.care2.com/pictures/greenliving/1291/1290494.large.jpg](assets/People Photos - Writer's Notebook 11 Quick Writes/media/media/image100.jpeg){width="4.614583333333333in"
 height="2.78125in"}
+

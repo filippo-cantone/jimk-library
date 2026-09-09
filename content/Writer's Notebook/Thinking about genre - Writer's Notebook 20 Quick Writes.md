@@ -1,3 +1,10 @@
+---
+title: "Thinking about genre - Writer's Notebook 20 Quick Writes"
+source_file: "Writer's Notebook/Thinking about genre - Writer's Notebook 20 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(20)**
@@ -1146,3 +1153,4 @@ young adult readers and, overall, I would recommend this as an engaging
 and
 
 entertaining mystery.
+

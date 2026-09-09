@@ -1,3 +1,10 @@
+---
+title: "Kids at play - Writer's Notebook 23 Quick Writes"
+source_file: "Writer's Notebook/Kids at play - Writer's Notebook 23 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(22)**
@@ -362,3 +369,4 @@ height="4.095234033245844in"}
 
 ![http://www.denhaag.nl/upload/0f1ea466-f458-421b-a9fd-dc0a41df5056_Children-playing-music.gif](assets/Kids at play - Writer's Notebook 23 Quick Writes/media/media/image100.gif){width="6.09375in"
 height="3.65625in"}
+

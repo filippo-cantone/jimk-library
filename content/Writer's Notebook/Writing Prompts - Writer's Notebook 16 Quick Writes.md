@@ -1,3 +1,10 @@
+---
+title: "Writing Prompts - Writer's Notebook 16 Quick Writes"
+source_file: "Writer's Notebook/Writing Prompts - Writer's Notebook 16 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(16)**
@@ -354,3 +361,4 @@ height="4.701042213473316in"}
 ![#652 stranger dreams (cross posted with common core connections at Big
 Universe)](assets/Writing Prompts - Writer's Notebook 16 Quick Writes/media/media/image100.png){width="6.268055555555556in"
 height="4.701042213473316in"}
+

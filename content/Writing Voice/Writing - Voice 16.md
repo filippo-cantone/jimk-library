@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 16"
+source_file: "Writing Voice/Writing - Voice 16.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 **Voice**
 
 > **(16)**
@@ -2824,3 +2831,4 @@ animals, also form many atolls in the Pacific Oceans.
 
 Did you know that most of the world's supply of fish is caught in the
 Pacific?
+

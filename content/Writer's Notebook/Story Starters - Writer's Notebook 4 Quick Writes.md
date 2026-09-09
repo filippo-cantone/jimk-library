@@ -1,3 +1,10 @@
+---
+title: "Story Starters - Writer's Notebook 4 Quick Writes"
+source_file: "Writer's Notebook/Story Starters - Writer's Notebook 4 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(4)**
@@ -361,3 +368,4 @@ height="4.709072615923009in"}
 ![579 step inside a
 painting](assets/Story Starters - Writer's Notebook 4 Quick Writes/media/media/image100.png){width="6.268055555555556in"
 height="4.701042213473316in"}
+

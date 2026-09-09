@@ -1,3 +1,10 @@
+---
+title: "Children's Literature Prompts - Writer's Notebook 17 Quick Writes"
+source_file: "Writer's Notebook/Children's Literature Prompts - Writer's Notebook 17 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(17)**
@@ -607,3 +614,4 @@ you.](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/m
 height="3.4375in"}
 
 **The Giving Tree**
+

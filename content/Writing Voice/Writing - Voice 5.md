@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 5"
+source_file: "Writing Voice/Writing - Voice 5.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 > **Voice**
 >
 > **(5)**
@@ -2869,3 +2876,4 @@ Rabbit smiled, and somehow he knew that the Black Rabbit was smiling
 back.
 
 Hand in hand, they bounced off across the field.
+

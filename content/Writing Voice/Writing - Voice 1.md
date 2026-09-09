@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 1"
+source_file: "Writing Voice/Writing - Voice 1.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 > **Voice**
 >
 > **(1)**
@@ -2759,3 +2766,4 @@ He never moves.
 
 But he always nods his head to the girl whenever she walks past. And the
 girl always smiles back.
+

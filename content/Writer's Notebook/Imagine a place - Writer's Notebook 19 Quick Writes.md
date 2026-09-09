@@ -1,3 +1,10 @@
+---
+title: "Imagine a place - Writer's Notebook 19 Quick Writes"
+source_file: "Writer's Notebook/Imagine a place - Writer's Notebook 19 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(19)**
@@ -450,3 +457,4 @@ height="8.337536089238846in"}
 
 ![http://www.sapergalleries.com/GonsalvesBeyondTheReef](assets/Imagine a place - Writer's Notebook 19 Quick Writes/media/media/image84.jpeg){width="6.268055555555556in"
 height="3.1291305774278215in"}
+

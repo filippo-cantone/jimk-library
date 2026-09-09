@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 3"
+source_file: "Writing Voice/Writing - Voice 3.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 > **Voice**
 >
 > **(3)**
@@ -3752,3 +3759,4 @@ height="3.6979166666666665in"}
 
 ![http://bp1.blogger.com/\_-5oAyjIPwHQ/RiAnd60IWgI/AAAAAAAAA1E/rabwY-gOkCc/s320/Grace.jpg](assets/Writing - Voice 3/media/media/image49.jpeg){width="2.5729166666666665in"
 height="3.3333333333333335in"}
+

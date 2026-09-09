@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 14"
+source_file: "Writing Voice/Writing - Voice 14.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 > **Voice**
 >
 > **(14)**
@@ -3644,3 +3651,4 @@ into energy. Readers also learn why we burp, vomit, and pass gas.
 
 ![http://www.charlesbridge.com/client/client_images/spreads/Quest2Digest.jpg](assets/Writing - Voice 14/media/media/image50.jpeg){width="4.666666666666667in"
 height="3.0208333333333335in"}
+

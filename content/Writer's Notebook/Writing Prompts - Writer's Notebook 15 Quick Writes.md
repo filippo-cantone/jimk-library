@@ -1,3 +1,10 @@
+---
+title: "Writing Prompts - Writer's Notebook 15 Quick Writes"
+source_file: "Writer's Notebook/Writing Prompts - Writer's Notebook 15 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(15)**
@@ -353,3 +360,4 @@ height="4.726149387576553in"}
 ![writing prompt
 #240](assets/Writing Prompts - Writer's Notebook 15 Quick Writes/media/media/image102.png){width="6.268055555555556in"
 height="4.721699475065617in"}
+

@@ -1,3 +1,10 @@
+---
+title: "Animal Photographs - Writer's Notebook 10 Quick Writes"
+source_file: "Writer's Notebook/Animal Photographs - Writer's Notebook 10 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(10)**
@@ -360,3 +367,4 @@ height="3.1131944444444444in"}
 
 ![G:\\photos\\emppen.jpg](assets/Animal Photographs - Writer's Notebook 10 Quick Writes/media/media/image98.jpeg){width="3.51875in"
 height="4.688888888888889in"}
+

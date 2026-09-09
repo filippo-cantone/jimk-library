@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 11"
+source_file: "Writing Voice/Writing - Voice 11.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 **Voice**
 
 > **(11)**
@@ -2933,3 +2940,4 @@ ALWAYS hungry.
 **EATS**
 
 **PEOPLE.**
+

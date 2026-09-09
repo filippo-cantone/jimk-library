@@ -1,3 +1,10 @@
+---
+title: "Writer's Notebook Contents"
+source_file: "Writer's Notebook/Writer's Notebook Contents.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 ![Cartoon: writer (medium) by Ramses tagged
@@ -1751,3 +1758,4 @@ young adult readers and, overall, I would recommend this as an engaging
 and
 
 entertaining mystery.
+

@@ -1,3 +1,10 @@
+---
+title: "Writing -Voice  Contents"
+source_file: "Writing Voice/Writing -Voice  Contents.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 > **Voice**
 >
 > ![http://willonasloan.files.wordpress.com/2013/05/unleash_your_writing_creativity.jpg](assets/Writing -Voice  Contents/media/media/image1.jpeg){width="5.510416666666667in"
@@ -887,3 +894,4 @@ Let's Be Enemies Janice Udry
 Turtle, Turtle, Watch Out! April Sayre
 
 Bears Out There Joanne Ryder
+

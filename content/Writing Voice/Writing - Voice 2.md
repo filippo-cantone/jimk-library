@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 2"
+source_file: "Writing Voice/Writing - Voice 2.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 > **Voice**
 >
 > **(2)**
@@ -3502,3 +3509,4 @@ us to think and remember. I want to feel real sand between my barefoot
 toes, not virtual, and wonder at the nighttime sky. I want to hear my
 own muse, yet also raise my voice with other voices, to make a symphony
 worth living for.
+

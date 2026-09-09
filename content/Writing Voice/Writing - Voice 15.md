@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 15"
+source_file: "Writing Voice/Writing - Voice 15.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 > **Voice**
 >
 > **(15)**
@@ -3627,3 +3634,4 @@ might bring about a better future. Although he died in 2001, his is an
 ongoing story of the power of music and the strength of the human heart.
 
 > --- Tony Johnston
+

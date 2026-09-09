@@ -1,3 +1,10 @@
+---
+title: "Story Starters 2 - Writer's Notebook 6 Quick Writes"
+source_file: "Writer's Notebook/Story Starters 2 - Writer's Notebook 6 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(6)**
@@ -355,3 +362,4 @@ height="7.677083333333333in"}
 
 ![http://api.ning.com/files/tRWf35-7wybp6zyOdwRqqQ9TzMknmfjJJ44Ra6h9otvURXAP-23tSvg6KcdqMIKWQsYmkcifLyb35fCo-Wis3Rot7a7YW4Nb/CaptionComp1.jpg](assets/Story Starters 2 - Writer's Notebook 6 Quick Writes/media/media/image98.jpeg){width="6.268055555555556in"
 height="4.329481627296588in"}
+

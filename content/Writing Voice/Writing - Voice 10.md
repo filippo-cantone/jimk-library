@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 10"
+source_file: "Writing Voice/Writing - Voice 10.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 **Voice**
 
 > **(10)**
@@ -3817,3 +3824,4 @@ watched with hope in their hearts as she flew out of sight.
 
 ![http://mandyevebarnett.files.wordpress.com/2013/12/bob.jpg](assets/Writing - Voice 10/media/media/image49.jpeg){width="6.25in"
 height="4.0in"}
+

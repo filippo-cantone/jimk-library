@@ -1,3 +1,10 @@
+---
+title: "Banksy Street art - Writer's Notebook 14 Quick Writes"
+source_file: "Writer's Notebook/Banksy Street art - Writer's Notebook 14 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(14)**
@@ -312,3 +319,4 @@ height="4.380692257217848in"}
 
 ![http://www.ekosystem.org/0_Images_v2/5/l/918605.jpg](assets/Banksy Street art - Writer's Notebook 14 Quick Writes/media/media/image97.jpeg){width="6.268055555555556in"
 height="3.2716765091863516in"}
+

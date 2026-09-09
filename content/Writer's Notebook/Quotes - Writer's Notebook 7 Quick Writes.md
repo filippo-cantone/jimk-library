@@ -1,3 +1,10 @@
+---
+title: "Quotes - Writer's Notebook 7 Quick Writes"
+source_file: "Writer's Notebook/Quotes - Writer's Notebook 7 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(7)**
@@ -484,3 +491,4 @@ height="4.207638888888889in"}
 ![Italian quotes, best, wise, sayings, beauty
 ](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image98.jpeg){width="6.245138888888889in"
 height="8.32986111111111in"}
+

@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 18"
+source_file: "Writing Voice/Writing - Voice 18.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 > **Voice**
 >
 > **(18)**
@@ -3245,3 +3252,4 @@ Then the Lorax
 and all of his friends
 
 may come back.\"
+

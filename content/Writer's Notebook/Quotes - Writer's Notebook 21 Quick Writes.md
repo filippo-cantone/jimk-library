@@ -1,3 +1,10 @@
+---
+title: "Quotes - Writer's Notebook 21 Quick Writes"
+source_file: "Writer's Notebook/Quotes - Writer's Notebook 21 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(21)**
@@ -366,3 +373,4 @@ height="3.90625in"}
 
 ![Quotes](assets/Quotes - Writer's Notebook 21 Quick Writes/media/media/image102.jpeg){width="5.208333333333333in"
 height="7.8125in"}
+

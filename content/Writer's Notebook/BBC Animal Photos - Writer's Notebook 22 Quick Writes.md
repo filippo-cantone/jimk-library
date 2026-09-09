@@ -1,3 +1,10 @@
+---
+title: "BBC Animal Photos - Writer's Notebook 22 Quick Writes"
+source_file: "Writer's Notebook/BBC Animal Photos - Writer's Notebook 22 Quick Writes.md"
+tags: [jim-k]
+strand: writers-notebook
+---
+
 **Writer's Notebook**
 
 **(22)**
@@ -420,3 +427,4 @@ height="4.23541447944007in"}
 
 ![http://news.bbc.co.uk/media/images/46799000/jpg/\_46799205_gallery1_766wildlife.jpg](assets/BBC Animal Photos - Writer's Notebook 22 Quick Writes/media/media/image109.jpeg){width="6.268055555555556in"
 height="4.181431539807524in"}
+

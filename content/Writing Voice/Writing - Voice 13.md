@@ -1,3 +1,10 @@
+---
+title: "Writing Voice 13"
+source_file: "Writing Voice/Writing - Voice 13.md"
+tags: [jim-k]
+strand: writing-voice
+---
+
 **Voice**
 
 > **(13)**
@@ -3012,3 +3019,4 @@ feel your strength
 under their feet,
 
 and treasure you.
+
