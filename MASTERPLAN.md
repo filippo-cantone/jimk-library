@@ -34,6 +34,12 @@ Per-note standard:
 
 - Fix OCR errors; rebuild tables verified against the scans; repair landscape
   sections. Keep `<!-- p.N -->` page markers for traceability.
+- **Visuals are preserved, not described.** Hand-drawn sketches, worked
+  diagrams and annotated examples are clipped from the scans at high
+  resolution into `assets/` and embedded as figures (with a text key beneath
+  for searchability). Photocopy masters (planners, analysis forms, blank
+  templates) keep their original line-by-line layout as structured forms —
+  never flattened into paragraphs.
 - Heading structure; reorder rambling sequences into teaching order with a
   change-note where order moves; keep Jim's wording.
 - Replace `needs-review` with `reviewed` + date in frontmatter.
