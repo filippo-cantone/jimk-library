@@ -2898,4 +2898,3 @@ Adapted from Guiding Readers and Writers, by Irene Fountas and Gay Su Pinnell
 
 <!-- page 78 | FLAGGED: low-confidence -->
 
-

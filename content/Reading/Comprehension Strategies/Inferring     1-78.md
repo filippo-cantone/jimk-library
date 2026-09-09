@@ -109,8 +109,6 @@ During Share Time record the inferences on an Inference/Evidence Chart
 
 <!-- page 4 | FLAGGED: low-confidence -->
 
-
-
 ---
 
 <!-- page 5 -->
@@ -176,8 +174,6 @@ Why are the workers in the town able to dream?
 ---
 
 <!-- page 8 | FLAGGED: low-confidence -->
-
-
 
 ---
 
@@ -2542,5 +2538,4 @@ I sure hope Dog like lima beans.
 ---
 
 <!-- page 74 | FLAGGED: low-confidence -->
-
 

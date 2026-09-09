@@ -3,13 +3,15 @@ title: "INQUIRY BASED APPROACH"
 source_file: "Reading/INQUIRY BASED APPROACH.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
 > <img src="assets/INQUIRY BASED APPROACH/media/image1.jpeg"
-> style="width:4.55208in;height:3.26042in" />
+> />
 
-**INQUIRY BASED APPROACH**
+## INQUIRY BASED APPROACH
 
 > “A skilled magazine writer can make any subject fascinating, yet in
 > school we teach children to write research papers that often end up
@@ -153,7 +155,7 @@ tags: [jim-k]
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -173,7 +175,7 @@ tags: [jim-k]
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -254,7 +256,7 @@ This can be modelled, with gradual release of responsibility to the
 students. Children then customise their data charts to their Question
 and Structure.
 
-**Narrowing the Search**
+## Narrowing the Search
 
 Students begin to take notes that will answer their research questions.
 
@@ -276,12 +278,12 @@ This can be modelled using:
 
 - Independent work
 
-**Recording and Organising Relevant Data**
+## Recording and Organising Relevant Data
 
 Using the data chart, students decide how to order the information they
 will use. This may be as simple as numbering their notes.
 
-**Going from Data to First Draft**
+## Going from Data to First Draft
 
 Revise writing mini-lessons.
 
@@ -291,10 +293,10 @@ Logical progression of ideas
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -370,7 +372,7 @@ little questions.
 
 Ref: *Knowing How*
 
-**Analysing Nonfiction Text Structure**
+## Analysing Nonfiction Text Structure
 
 When the students understand the text structure, they have a better
 chance of determining important information.
@@ -400,7 +402,7 @@ bumps.*
 When students know what to look for in terms of text structure, meaning
 is grasped more easily.
 
-**Nonfiction Writing**
+## Nonfiction Writing
 
 E.g. Look at Handouts on
 
@@ -410,7 +412,7 @@ E.g. Look at Handouts on
 
 \- Endings
 
-**Instructional Method**
+## Instructional Method
 
 - Name the Strategy
 
@@ -425,7 +427,7 @@ E.g. Look at Handouts on
 - Students share how they have used this strategy. This is where share
   time is a learning time – not every student reading their work.
 
-**Strategies to Connect One Paragraph to the Next**
+## Strategies to Connect One Paragraph to the Next
 
 Teachers can collect strategies from nonfiction books/magazines, as well
 as student samples.
@@ -575,14 +577,13 @@ Nov/Dec 2001
 >
 > “Barton even became a movie star.”
 
-<img src="assets/INQUIRY BASED APPROACH/media/image2.png"
-style="width:5.73958in;height:5.04167in" />
+<img src="assets/INQUIRY BASED APPROACH/media/image2.png" />
 
 Dr Cornelia Brunner
 
 Centre for Children and Technology
 
-**Posing Real Questions**
+## Posing Real Questions
 
 What do I want to know about this topic?
 
@@ -604,7 +605,7 @@ importantly, students formulate hypotheses about what the answer might
 be. This is a powerful tool in determining whether a question is
 answerable.
 
-**Developing an Essential Question**
+## Developing an Essential Question
 
 An essential question has these characteristics:
 
@@ -638,7 +639,7 @@ Two things that most interest you.
 
 One question you have.
 
-**Finding Relevant Resources**
+## Finding Relevant Resources
 
 The focus is on finding sources that might have information that could
 lead to the answer.
@@ -648,7 +649,7 @@ lead to the answer.
 | What I Learnt | Where I Learnt It | New Questions |
 |               |                   |               |
 
-**Technology**
+## Technology
 
 Wembley’s approach to technology looks at meaningful ways technology can
 enhance the learning. It can enable the students to accomplish tasks
@@ -662,7 +663,7 @@ taught.
 How the infusion of technology will affect the way the students acquire
 the concepts.
 
-**Interpreting Information**
+## Interpreting Information
 
 How is this information relevant?
 
@@ -680,10 +681,9 @@ focus.
 
 (Interpretation 3)
 
-<img src="assets/INQUIRY BASED APPROACH/media/image3.png"
-style="width:6in;height:4.48958in" />
+<img src="assets/INQUIRY BASED APPROACH/media/image3.png" />
 
-**Reporting Findings**
+## Reporting Findings
 
 The finished product could appear in any number of forms:
 
@@ -695,10 +695,9 @@ Published in printed form.
 
 Various formats.
 
-**Inquiry Based Approach**
+## Inquiry Based Approach
 
-<img src="assets/INQUIRY BASED APPROACH/media/image4.jpeg"
-style="width:4.41667in;height:3.22917in" />
+<img src="assets/INQUIRY BASED APPROACH/media/image4.jpeg" />
 
 Technology and Inquiry Based Learning
 
@@ -713,37 +712,37 @@ solutions and answers.”*
 
 M.Steed, B.Clark, N.Nocente - Alberta
 
-**Inquiry-Based Learning and the 5 E’s**
+## Inquiry-Based Learning and the 5 E’s
 
 We’ve used the 5 E’s before when conducting science experiments in the
 classroom at Wembley. It has also been adapted to other disciplines when
 using Inquiry-Based learning.
 
-**Engage:**
+## Engage:
 
 Capture the student’s attention, stimulate their thinking, and help them
 access prior knowledge.
 
-**Explore:**
+## Explore:
 
 Give students time to think, plan, investigate and organise collected
 information.
 
-**Explain:**
+## Explain:
 
 Involve students in an analysis of their explorations. Use reflective
 activities to clarify and modify their understanding.
 
-**Elaborate:**
+## Elaborate:
 
 Give students the opportunity to expand and solidify their understanding
 of the concept and/or apply it to a real-world situation.
 
-**Evaluate:**
+## Evaluate:
 
 Evaluate throughout the study.
 
-**Writing Inquiry-Based Social Studies Lessons**
+## Writing Inquiry-Based Social Studies Lessons
 
 Grade 6 concept learning is leadership.
 
@@ -775,17 +774,16 @@ become leaders?
 
 What we’re looking for is deeper more important concepts.
 
-<img src="assets/INQUIRY BASED APPROACH/media/image5.jpeg"
-style="width:4.89583in;height:3.3125in" />
+<img src="assets/INQUIRY BASED APPROACH/media/image5.jpeg" />
 
-**Photograph**
+## Photograph
 
 |                             |                                |
 |-----------------------------|--------------------------------|
 | **What we know by looking** | **What we would like to know** |
 |                             |                                |
 
-**Photograph Analysis**
+## Photograph Analysis
 
 |                                   |                 |              |
 |-----------------------------------|-----------------|--------------|
@@ -798,8 +796,7 @@ style="width:4.89583in;height:3.3125in" />
 
 # Gentle touch of Fred Hollows opened our eyes to hope
 
-<img src="assets/INQUIRY BASED APPROACH/media/image6.jpeg"
-style="width:6.77083in;height:3.8125in" />
+<img src="assets/INQUIRY BASED APPROACH/media/image6.jpeg" />
 
 **IT was the single moment captured for a lifetime, an image that
 cemented Fred Hollows' amazing legacy - and helped save more than a
@@ -896,18 +893,16 @@ the firm hand of the visionary doctor who never shirked a challenge.
 
 "But Dr Fred gave me a very special gift for life."
 
-<img src="assets/INQUIRY BASED APPROACH/media/image7.jpeg"
-style="width:3.29167in;height:4.38542in" />
+<img src="assets/INQUIRY BASED APPROACH/media/image7.jpeg" />
 
 Fred's legacy ... Tran Van Giap today with Gabi Hollows / Pic: Michael
 Amendolia Source: The Daily Telegraph
 
-<img src="assets/INQUIRY BASED APPROACH/media/image8.jpeg"
-style="width:6.625in;height:4.96875in" />
+<img src="assets/INQUIRY BASED APPROACH/media/image8.jpeg" />
 
 The Fred Hollows Foundation is celebrating World Health Day in Kenya.
 
-**FRED HOLLOWS**
+## FRED HOLLOWS
 
 (1929 - 1993)
 
@@ -1230,51 +1225,51 @@ And have I told you that I love you?
 
 The author begins by posing a thought provoking, open-ended question.
 
-**“Imagine”**
+## “Imagine”
 
 The author hooks the reader by drawing him directly into a scene that
 evokes another time, place, or situation. The word “imagine” often
 occurs in this lead.
 
-**Guess who or what**
+## Guess who or what
 
 The author immediately snatches the reader’s attention by inviting him
 to solve a riddle.
 
-**Common Reaction**
+## Common Reaction
 
 With this strategy the author begins with a generally held impression of
 her topic.
 
-**Right to the Point**
+## Right to the Point
 
 The author begins with one short, clear, declarative sentence that
 states the main idea. The curt statement begs for a fuller explanation,
 which is found in the remainder of the text.
 
-**Series of Intriguing Questions**
+## Series of Intriguing Questions
 
 The writer provides a series of well-designed, open-ended questions that
 may appear to be unconnected. The questions urge the reader on, setting
 up the expectation that the questions will be answered and that the
 relationship that ties them together will be revealed.
 
-**Question and Two-Word Questions**
+## Question and Two-Word Questions
 
 The author begins by asking one major question and then breaks this
 question down into a series of two-word subquestions.
 
-**Hanging On**
+## Hanging On
 
 The author provides a series of clues, which the reader uses to uncover
 the identity of the topic.
 
-**Past to Present**
+## Past to Present
 
 The author makes a connection with the past. He notes how things once
 were and then moves to the present.
 
-**Indisputable Fact**
+## Indisputable Fact
 
 The writer leads off with a statement that is unquestionable; one with
 which everyone could agree.
@@ -1284,11 +1279,11 @@ which everyone could agree.
 There is a problem. The author clearly identifies it in the lead
 sentence.
 
-**Anecdote**
+## Anecdote
 
 The writer shares a short story that relates to the topic.
 
-**Inside Someone’s Head**
+## Inside Someone’s Head
 
 With this strategy, the author reveals what someone or something is
 thinking.
@@ -1298,7 +1293,7 @@ thinking.
 The lead immediately introduces the reader to the issue at hand and the
 step(s) taken to address the issue.
 
-**Paradox (Something that goes against common sense)**
+## Paradox (Something that goes against common sense)
 
 With this strategy, there appears to be a contradiction between what has
 been written and what we believe to be true.
@@ -1310,42 +1305,42 @@ been written and what we believe to be true.
 The article concludes with the author wondering about future
 possibilities for his topic.
 
-**Posing a Question**
+## Posing a Question
 
 The author asks a thought-provoking question to get the reader to
 continue to think about the topic after the piece has been read.
 
-**Ask a Question and Answer It**
+## Ask a Question and Answer It
 
 The author concludes by asking a question and then supplying the answer
 in the same paragraph.
 
-**“Although”**
+## “Although”
 
 The author ends the writing by contrasting a piece of information with
 the main point of the article. The first word of this conclusion is
 “although”.
 
-**“Finally”**
+## “Finally”
 
 Many writers signal the end of their piece by beginning the last
 paragraph with the word “finally.”
 
-**Help**
+## Help
 
 The author lets the reader know that help is needed.
 
-**No Doubt About It**
+## No Doubt About It
 
 The author ends the piece by drawing one indisputable conclusion about
 her topic. Phrases such as “one thing seems certain,” “Without a doubt,”
 or “There is no question” may signal the use of this strategy.
 
-**Giving Advice**
+## Giving Advice
 
 The author ends the piece by providing a bit of advice or a suggestion.
 
-**Sharing an Emotion**
+## Sharing an Emotion
 
 The author describes the emotional effect the topic has had on him.
 
@@ -1354,29 +1349,29 @@ The author describes the emotional effect the topic has had on him.
 The author concludes by telling the reader what the final step in a
 sequence of events will be.
 
-**Right Now**
+## Right Now
 
 The author concludes by bringing the reader up-to-date. He describes the
 topic’s current condition, often using the word “today” to signal this
 strategy.
 
-**“No Matter” Plus Draw a Conclusion**
+## “No Matter” Plus Draw a Conclusion
 
 The author begins with the words “No matter.” Next she draws a
 conclusion.
 
-**Providing a Summary**
+## Providing a Summary
 
 The author recaps the key points in the article or report in the last
 paragraph.
 
-**Connecting Beginning and End**
+## Connecting Beginning and End
 
 The author connects information from the first paragraph to information
 in the final paragraph. Often the same words are repeated in both parts
 of the report or article.
 
-**Quote**
+## Quote
 
 The author finds an appropriate quote from her research that can bring
 closure to the piece.
@@ -1394,7 +1389,7 @@ flashlights, they help writers to see where they are heading.”
 
 B.Lane *After the End*
 
-**Presentation**
+## Presentation
 
 What will we teach?
 
@@ -1456,7 +1451,7 @@ What will we teach?
 >
 > **Mr K**
 
-**“You Can’t Get Through!”**
+## “You Can’t Get Through!”
 
 The last child had been reunited – reunited with a frantic parent
 wondering what was going to happen next. With the school empty of its
@@ -1506,7 +1501,7 @@ Brooklyn.
 Finally I could go no further. But I was only a few kilometres away, and
 shortly…home.
 
-**VOICE**
+## VOICE
 
 See other writing course handouts.
 
@@ -1649,7 +1644,7 @@ Third person. Describes everyone as “he” or “she”.
 Students need to not only notice what authors do, they need to think
 about why writers use a particular craft, and try it out for themselves.
 
-**Listening**
+## Listening
 
 Partner talk. Five minutes talking to a partner about a favorite
 subject. Talk about what you find most interesting or surprising.
@@ -1662,7 +1657,7 @@ as if talking to a friend.
 own personalities on the information - they make it their own.*
 R.Fletcher
 
-**IN NOVEMBER Cynthia Rylant**
+## IN NOVEMBER Cynthia Rylant
 
 In November, the earth is growing quiet. It is making its bed, a winter
 bed for flowers and small creatures. The bed is white and silent, and
@@ -1705,7 +1700,7 @@ In November, at winter’s gate, the stars are brittle. The sun is a
 sometime friend. And the world has tucked her children in, with a kiss
 on their heads, till spring.
 
-**Turtles**
+## Turtles
 
 *World Book Encyclopaedia (1996)*
 
@@ -1749,7 +1744,7 @@ night.**
 around the world, from North America to Africa, Europe, Asia and
 Australia.**
 
-**BAT LOVES THE NIGHT**
+## BAT LOVES THE NIGHT
 
 Nicola Davies
 
@@ -1834,7 +1829,7 @@ blackness, shouting.
 
 Bat loves the night.
 
-**Text Structures**
+## Text Structures
 
 Awareness of the organisational patterns in texts is helpful in reading
 comprehension.
@@ -2103,7 +2098,7 @@ probably now extinct.
 
 (*Patterns of Thinking)*
 
-**Problem/solution**
+## Problem/solution
 
 The pattern helps students to identify and clarify a difficulty.
 
@@ -2138,7 +2133,7 @@ The writer organises ideas and information to show links between
 
 > Ann Turner in *Patterns of Thinking*
 
-**Description**
+## Description
 
 Description draws on
 
@@ -2243,7 +2238,7 @@ Students utilise
 
 Material to use in lessons:
 
-**REPORTS**
+## REPORTS
 
 Text organisation:
 
@@ -2308,7 +2303,7 @@ Differences
 
 Similarities
 
-**Problems/solutions**
+## Problems/solutions
 
 Problems Solutions
 
@@ -2318,7 +2313,7 @@ Problems Solutions
 
 3\.
 
-**Cause/effect**
+## Cause/effect
 
 Cause Effect
 
@@ -2411,7 +2406,7 @@ much as 10 kilograms of meat.*
 
 M.Berger *Call of the Wolves*
 
-**Compare/contrast**
+## Compare/contrast
 
 Shows how two or more things are alike or different.
 
@@ -2448,7 +2443,7 @@ metres long, and they weigh about 364 kilograms.*
 
 Cherrie Winner *Bison*
 
-**Problem/solution**
+## Problem/solution
 
 An author uses problem/solution to present a problem, and then give
 possible solutions to this problem.
@@ -2490,7 +2485,7 @@ still get bitten, and that makes them itch even more.*
 
 Cherrie Winner *Bison*
 
-**Cause/effect**
+## Cause/effect
 
 Used to discuss cause and effect.
 
@@ -2520,7 +2515,7 @@ its tail behind.*
 
 *All About Lizards*
 
-**Writing a Report**
+## Writing a Report
 
 Students follow the writing process. Again questions can drive their
 research. A graphic organiser may assist their planning and notetaking.
@@ -2562,7 +2557,7 @@ Herds
 
 Travels
 
-**Sequence of events:**
+## Sequence of events:
 
 Eating
 
@@ -2581,7 +2576,7 @@ Food passes to other chambers in the stomach.
 
 Digestion continues.
 
-**Compare/contrast:**
+## Compare/contrast:
 
 Similarities. Coloring
 
@@ -2597,7 +2592,7 @@ Called bulls Called cows
 
 Up to 909 kilograms Up to 364 kilograms
 
-**Problems/solutions:**
+## Problems/solutions:
 
 *Problems Solutions*
 
@@ -2609,13 +2604,13 @@ Insects Use tails to shoo away
 
 Small calf may wander Bulls stand guard
 
-**Cause/effect:**
+## Cause/effect:
 
 *Cause Effect*
 
 Bison are startled Stampede
 
-**BISON Cherie Winner**
+## BISON Cherie Winner
 
 You know what bison look like. You’ve probably seen pictures of them.
 Maybe you’ve even seen some live bison.
@@ -2970,7 +2965,7 @@ They will roam the plains, find mates, and raise calves of their own.
 And the herds will grow larger and larger. Maybe one day, they will
 again reach as far as the eye can see.
 
-**Call of the Wolves Melvin Berger**
+## Call of the Wolves Melvin Berger
 
 AHWOOOOO! The wolf’s call rings through the air. It can be heard for
 miles around.
@@ -3129,7 +3124,7 @@ but highly intelligent animals with a family structure very much like
 our own. Wolves were once a natural part of our environment. Today there
 is hope that they will be again.
 
-**Wolves Grade 1 – The Bronx**
+## Wolves Grade 1 – The Bronx
 
 Wolves are wild dogs.
 
@@ -3182,7 +3177,7 @@ The Very Hungry Caterpillar Eric Carle
 
 The Shopping Basket John Burningham
 
-**Compare/contrast**
+## Compare/contrast
 
 The True Story of the Three Little Pigs Jon Scieszka
 
@@ -3190,7 +3185,7 @@ The Three Little Pigs
 
 Different versions of Folktales
 
-**Problem/solution**
+## Problem/solution
 
 The Cat in the Hat Dr Seuss
 
@@ -3200,7 +3195,7 @@ The Lighthouse Keeper’s Lunch Ronda Armitage
 
 Possum Magic Mem Fox
 
-**Cause/effect**
+## Cause/effect
 
 Alexander and the Horrible, No good,
 
@@ -3226,7 +3221,7 @@ The Napping House Audrey penn
 
 The Pirate Who Wouldn’t Wash Michael Salmon
 
-**Possum Magic Mem Fox**
+## Possum Magic Mem Fox
 
 Once upon a time, but not very long ago, deep in the Australian bush
 lived two possums. Their names were hush and Grandma Poss. Grandma Poss
@@ -3294,7 +3289,7 @@ visible forever.
 
 And she did.
 
-**INFORMATION REPORT**
+## INFORMATION REPORT
 
 Purpose: ‘To document, organise, and store factual information on a
 topic.
@@ -3473,11 +3468,11 @@ the echidna who does live in Jackie’s garden, as well an informational
 text about echidnas. Information from this text could be used to
 demonstrate notetaking and the use of a matrix.
 
-**There’s an Echidna at the Bottom of My Garden**
+## There’s an Echidna at the Bottom of My Garden
 
 (informational text)
 
-**Jackie French**
+## Jackie French
 
 Often the best time of year to see echidnas is in spring. When the days
 are warm but not too hot the young males may be searching for new
@@ -3570,7 +3565,7 @@ sometimes almost 10% of its body weight.
 Usually you only see one echidna at a time, and it is very rare to see
 an echidna less than a year old.
 
-**List Poems**
+## List Poems
 
 The list from what we have just learnt can be turned into a list poem. I
 did this with what I knew about the echidna.
@@ -3685,7 +3680,7 @@ What I knew,
 
 (Informational text)
 
-**Jackie French**
+## Jackie French
 
 Blacktailed wallabies, one of Australia’s most common wallabies, eat
 grass and many other things. Unlike kangaroos and some other species of
@@ -3877,7 +3872,7 @@ A mother octopus rests in her cave den. She watches her babies swim up
 through the water. a gentle Giant octopus shrinks in the shadows. Her
 life is over as their lives begin.
 
-**Lists in Art**
+## Lists in Art
 
 Set out how to make an echidna.
 
@@ -3905,7 +3900,7 @@ e.g. Monotremes.
 
 List attributes of the echidna and platypus.
 
-**FARM ANIMALS Prep**
+## FARM ANIMALS Prep
 
 K – What we already know. E.g List farm animals.
 
@@ -4204,7 +4199,7 @@ tube and into the shaft.*
 
 Highlight signal words. *Another problem =* problem/solution.
 
-**Searching for Gold**
+## Searching for Gold
 
 In order to search for gold, people had to have a claim and a licence.
 Often two or three people would work a claim together, sharing the costs
@@ -4291,7 +4286,7 @@ experienced coal and tin miners from Wales, Cornwall and Scotland
 arrived in Australia, and they knew how to operate deep mine shafts, and
 so a second gold rush started in Ballarat.
 
-**Life on the Australian Goldfields**
+## Life on the Australian Goldfields
 
 On hearing that there was gold to be found, thousands of people left
 their homes and jobs and set off to the diggings to find their fortune.
@@ -4333,7 +4328,7 @@ disposed of in a sanitary fashion, and disease was common. There were a
 few doctors or chemists at the diggings, but not all were qualified.
 Many people died of diseases such as dysentery or typhoid.
 
-**The Eureka Stockade**
+## The Eureka Stockade
 
 In 1851 there were less than 50 soldiers and a few police in Victoria.
 The gold rush meant that more police had to be quickly recruited. Most
@@ -4379,7 +4374,7 @@ wounded and went into hiding. Thirteen miners were charged with treason
 hanged if found guilty. However, they were all acquitted at their trial
 and set free. Later, the licence system was changed.
 
-**Chinese at the Goldfields**
+## Chinese at the Goldfields
 
 At the time that news about the Australian goldrush reached China in
 1853, the country had been suffering from years of war and famine. In
@@ -4423,7 +4418,7 @@ They found jobs, set up market gardens, restaurants or laundries. They
 brought their families to Australia. Gradually the Chinese became a
 respected group in Australian society.
 
-**Women on the Australian Goldfields**
+## Women on the Australian Goldfields
 
 In the early years of the gold rush there were very few women at any of
 the goldfields. A few women were diggers, and some were shopkeepers at
@@ -4478,7 +4473,7 @@ dance.
 | Other experiences |     |
 |                   |     |
 
-**PRIMARY SOURCES**
+## PRIMARY SOURCES
 
 A primary source is first hand evidence. It was there at the time of the
 event. It is contemporary to the period being studied.
@@ -4606,7 +4601,7 @@ myself an equal chance.
 
 ‘Write down your feelings about your name.’ (5 minutes)
 
-**THE NAME PROJECT**
+## THE NAME PROJECT
 
 We care about our names. Given to us by our parents, they soon become
 our own. Sometimes they change, become shortened, or altered into
@@ -4788,7 +4783,7 @@ Hence we could develop work on:
 
 - Civil Rights etc.
 
-**Children Living Through war**
+## Children Living Through war
 
 Accounts of young people during wartime help illustrate the impact that
 war has on people’s lives.
@@ -5047,7 +5042,7 @@ it be?
 *I’d say to her, “Keep on believing and hoping, things can and will get
 better!!!”*
 
-**Children in Slavery**
+## Children in Slavery
 
 Examining photographs of children in slavery helps the historical
 children become real.
@@ -5074,14 +5069,14 @@ Holocaust Exhibit.
 *The Struggle Against Slavery (D.Waldstreicher)* is a history in
 documents.
 
-**Lives of Children Who Were Slaves**
+## Lives of Children Who Were Slaves
 
 |          |              |                       |          |               |              |
 |----------|--------------|-----------------------|----------|---------------|--------------|
 | **Food** | **Clothing** | **Living Conditions** | **Work** | **Education** | **Auctions** |
 |          |              |                       |          |               |              |
 
-**Child Labour**
+## Child Labour
 
 Primary source – Lewis Hine photographs.
 
@@ -5097,7 +5092,7 @@ in Coal Country ( S.Bartoletti)* E.g. photo of a boy with a mule.
 
 *Questions about relationship with mule.*
 
-**Child Labour**
+## Child Labour
 
 |                   |                  |                        |           |
 |-------------------|------------------|------------------------|-----------|
@@ -5197,7 +5192,7 @@ studied showed that not all people’s living conditions were the same.
 Things were different for the Chinese, as they were for women. Other
 considerations included rich/poor, Aborigines, miners, police.
 
-**Civil Rights**
+## Civil Rights
 
 Questions focused on feelings and reactions can guide the study of
 photographs. E.g.
@@ -5268,7 +5263,7 @@ Elizabeth Eckford, one of the Little Rock Nine said, “When you believe
 in something, even if you’re afraid, you’ll find a way to accomplish
 your goals.”
 
-**Multigenre Research**
+## Multigenre Research
 
 Multigenre paper – ‘each piece in the paper utilises a different genre,
 reveals one facet of the topic and makes its own point.’ I.e. A collage
@@ -5368,7 +5363,7 @@ Used to express two sides of an issue.
 
 - Saying/thinking.
 
-**Bibliography**
+## Bibliography
 
 Allen, C The Multigenre Research Paper
 
@@ -5590,7 +5585,7 @@ dinosaurs.
 Turtles live long lives. Some species live to be more than one hundred
 years old. But even a day-old turtle knows its way in the world.
 
-**Sharks Jim Arnosky**
+## Sharks Jim Arnosky
 
 Sharks have been swimming in the oceans for millions of years, and they
 haven’t changed much in all that time. Like their prehistoric ancestors,

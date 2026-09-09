@@ -2,302 +2,118 @@
 title: "Note Making, Main Idea and Summarising"
 source_file: "Reading/Comprehension Strategies/Note Making, Main Idea and Summarising.pdf"
 pages: 12
-conversion: "OCR (tesseract, local)"
-converted: "2026-09-07"
-flagged_pages: [3, 4]
-tags: [jim-k, needs-review]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
 # Note Making, Main Idea and Summarising
 
-<!-- page 1 -->
+> Reorganised from Jim's 12-page scanned pack. His wording is kept; headings
+> and section order are mine. Original page numbers are marked `<!-- p.N -->`.
 
-Note Making, Main Idea and Summarising
-Students first need to formulate guiding questions which will drive their
-notemaking and summarising.
-Summarising is the act of briefly presenting the main points.
-Notemaking helps the students identify and gain relevant information from
-texts. It assists students to organise, summarise, and record ideas as they
-are reading.
+## 1. The sequence
 
-e Refer to guiding questions. This could be a Prior Knowledge Chart.
+Students first formulate **guiding questions** to drive notemaking and
+summarising. Summarising is briefly presenting the main points; notemaking
+helps students identify, organise, summarise and record relevant ideas while
+reading.
 
-e Highlight key words found in the Prior Knowledge Chart.
+1. Refer to guiding questions (e.g. a prior-knowledge chart).
+2. Highlight key words from the chart.
+3. Read-along, shared, or independent reading; skim and scan.
+4. Record main ideas — the ones answering key questions. Keywords help.
+5. Turn notes into summary paragraphs.
 
-e Read Along, shared reading, or independent reading.
+<!-- p.1 -->
 
-e Skimming and scanning techniques can be used.
+## 2. Masters
 
-e Record main ideas. These will be those which answer key questions.
+**Notemaking sheet:** Research Topic · Text · Keywords · Main Ideas.
 
-Keywords will help.
-e Notes can be turned into summary paragraphs.
+**Prior-knowledge chart:**
 
----
+| What we know | What we'd like to know |
+|---|---|
+| | |
 
-<!-- page 2 -->
+**Response chart** (Title / Author): Facts | Questions | Response.
 
-NOTEMAKING
-Research Topic:
-Text:
+<!-- p.2–4 -->
 
-Keywords:
+## 3. Two-column notes
 
-Main Ideas:
+Double entries/T-charts — adaptable; teachers invent their own: What I
+Know / What I Wonder · What I Know / What I Learned · Questions / Answers ·
+Interesting / Important · Text-about / Makes-me-think · Text-about /
+Makes-me-wonder · Opinion / Proof · Facts / Questions (great for monitoring
+comprehension) · Convention / Purpose · Direct Quote / Personal Response ·
+Note Taking / Note Making (information vs personal response).
 
----
+**Response chart:** add a third column — connecting reading to background
+knowledge deepens comprehension, stepping summarising towards synthesising.
 
-<!-- page 3 | FLAGGED: low-confidence -->
+<!-- p.5 -->
 
-Prior Knowledge Chart
-What we know What we'd like to Know
+## 4. Nonfiction notebooks
 
-*[This page is a blank chart template with ruled lines for student responses; the ruled lines were too garbled by OCR to reliably render and have been omitted.]*
+Writer's Notebooks hold interests that grow into big research questions. The
+nonfiction section may contain: interest lists · prior-knowledge statements ·
+thoughts · topic lists · drawings, diagrams, sketches · quotes · observations
+· interviews · poems · research notes · craft ideas (e.g. nonfiction leads) ·
+beautiful language models · useful conventions · photos · pictures ·
+postcards · drafts.
 
----
+<!-- p.6–7 -->
 
-<!-- page 4 | FLAGGED: low-confidence -->
+## 5. Questioning
 
-Responses
+> "Questions are the door to human wonder." — S. Harvey
 
-Title:
+True research answers sincere questions researchers don't know — students
+need enough topic knowledge to ask authentically; KWHL charts help.
+**Categorise questions:** T — answered in text · C — confusion (words/ideas)
+· I — inferred · BK — background knowledge · R — needs research.
 
-Author:
+> "Living like a non-fiction writer means watching for surprise and
+> perplexity and mystery… even familiar subjects can be endlessly new." —
+> L. Calkins
 
-Facts | Questions | Response
+Topic lists start the year with known topics and grow all year, including
+through content-area studies (e.g. Australian History).
 
-*[This page is a blank chart template with ruled lines for student responses; the ruled lines were too garbled by OCR to reliably render and have been omitted.]*
+**Double entry in use:** What I Know / What I Wonder, then What I Learned /
+What I Wonder — read-along/shared nonfiction, note new learning, re-read for
+wonderings, then independently.
 
----
+**Teach strategies explicitly and interrelated** (see Reading Strategies
+handouts): prior knowledge (build it where absent) · questioning (the heart
+of nonfiction inquiry) · determining important ideas · monitoring and
+repairing · inferring · synthesising · visualising · **connections**: text–
+self, text–text, text–world.
 
-<!-- page 5 -->
+<!-- p.8–9 -->
 
-Two Column Notes
-These are sometimes called double entries or T-charts, Their adaptability
-makes them very useful. Some have already been referred to - teachers can
-make up their own.
+## 6. Background knowledge and beyond KWL
 
-- What I Know/what I Wonder
+> "Crucial to comprehension is the knowledge the reader brings — of
+> language, text structure, subject, and broad world knowledge." — R. Day
 
-- What I Know/What I Learned
+Content-area reading is harder than fiction; activating and building
+background scaffolds expository reading. *Do we ask kids to write about
+concepts with no background?* "The bigger the issue, the smaller you write…
+You don't write about the horrors of war. You write about a kid's burnt
+socks." — R. Fletcher. Many learners need background *before* they know
+enough to want more (J. Allen).
 
-- Questions/Answers
+**Beyond KWL:** (i) **KWHL** — adds *how* to find information. (ii)
+**Writing to Learn** — builds on the reading–writing bond: Source(s) →
+Facts → Response → Connection → I wonder / Now that I know / I want to know
+/ I'm interested in knowing… (iii) Shared **BKWLQ** — facts plus personal
+connections first, then class understandings from Writing-to-Learn work:
 
-- What's Interesting/What's Important
+| Build background | What do I know? | What do I want to know? | What did I learn? | What new questions do I have? |
+|---|---|---|---|---|
+| | | | | |
 
-- What the Text is about/What it makes me think about
-
-- What the text is about/what it makes me wonder about
-
-- Opinion/Proof
-
-- Facts/Questions. Great for monitoring comprehension.
-
-- Convention/Purpose
-
-- Direct Quote/Personal Response
-
-- Note Taking/Note Making. Information on one side and personal
-
-response on the other.
-
-Response Chart
-Add a third Column for a response. If the students connect what they read
-to their background knowledge, then they comprehend more deeply. This
-then takes summarising that step further, and the students are beginning to
-synthesise.
-
----
-
-<!-- page 6 -->
-
-Non-fiction Notebook
-By using their Writer's Notebook, students are able to explore their
-interests, These entries may turn into big research questions.
-As well as entries discussed in the handout ‘Writer's Notebook’, the non-
-fiction section may contain
-
-e Lists of interests
-
-e Prior knowledge statements
-
-e Thoughts
-
-e Topic lists
-
-e Drawings, diagrams, sketches
-
-e Quotes
-
-e Observations
-
-e Interviews
-
-e Poems
-
-e Notes from research
-
-e Writing craft ideas e.g. non-fiction leads
-
-e Beautiful language model found during reading
-
-e Useful non-fiction conventions
-
-e Photos
-
-e Pictures
-
-e Postcards
-
-e Drafts
-
----
-
-<!-- page 7 -->
-
-Non-fiction Notebook
-e Lists of interests
-e Prior knowledge statements
-° Thoughts
-e Topic lists
-e Drawings, diagrams, sketches
-e Quotes
-© Observations
-° Interviews
-° Poems
-e Notes from research
-e Writing craft ideas e.g. non-fiction leads
-e Beautiful language model found during reading
-e Useful non-fiction conventions
-2 Photos
-e Pictures
-e Postcards
-e Drafts
-
----
-
-<!-- page 8 -->
-
-Questioning
-“Questions are the door to human wonder.” (S.Harvey)
-
-: True research is more than merely reporting information. True research
-answers sincere questions to which researchers don't know the answers.
-Students need to know about the topic in order to formulate authentic
-questions. Careful use of KWHL charts help.
-
-Categorising questions.
-
-T- answered in the text
-
-C- confusion ~ words or ideas
-
-I- inferred answers
-
-BK- answers from background knowledge
-
-R- requiring further research
-‘Living like a non-fiction writer means watching for surprise and perplexity
-and mystery. It means knowing that even the subjects we know very well can
-be endlessly new to us.’ (L.Calkins)
-When students are developing their Possible Topic List at the beginning of
-the year, they will include topics that they know something about. This list
-should be added to throughout the year.
-Topic development is also undertaken during studies in specific content
-areas. E.g. Australian History.
-Double Entry (Two Column)
-
-What I Know What I Wonder
-
----
-
-<!-- page 9 -->
-
-Questions define the study
-(Variation)
-What I Learned | What I Wonder
-
-Read Along or Shared Reading of non-fiction text.
-Students can note when they learnt something new.
-Reread, noting what they wondered.
-Double entries can be used to record this.
-Students can then do this independently.
-Strategies
-See Comprehension handouts (Reading Strategies)
-Teachers need to explicitly teach interrelated strategies in order to assist
-students to comprehend non-fiction text.
-“ Prior knowledge. Where this doesn't exist, teachers need to
-assist in the building up of background knowledge.
-* Questioning - is at the heart of non-fiction inquiry.
-Determining important ideas
-“ Monitoring and repairing comprehension
-Drawing inferences
- Synthesising information
-* Visualising - gathering pictures in your mind while reading
-Making Connections.
-Comprehension is deepened when students can connect prior knowledge and
-experience to reading.
-T-S Text to Self
-T-T Text to Text
-T-W Text to World
-
----
-
-<!-- page 10 -->
-
-‘Crucial to comprehension is the knowledge that the reader brings to the
-text, The construction of meaning depends on the reader's knowledge of the
-language, the structure of texts, a knowledge of the subject of the reading
-and a broad-based background or world knowledge."
-
-R.Day
-Content area reading is more difficult than reading fiction.
-Activating and building background knowledge is critical to the reading
-process. By supporting their understanding of texts as the students read,
-through establishing background, we are scaffolding that difficult task of
-reading expository text.
-Do we ask kids to write about concepts, themes and events where they have
-no background?
-‘The bigger the issue, the smaller you write. Remember that. You don't
-write about the horrors of war. No. You write about a kid's burnt socks
-lying on the road." R.Fletcher
-Supporting Connections and Questions
-Building background knowledge.
-.. ‘many learners need some background knowledge before they know enough
-to want to know more.’ J.Allen
-Beyond KWL
-i, KWHL - includes the students thinking about how they are going to
-find information.
-ii, Writing to Learn - this organiser builds on the significant relationship
-between reading and writing.
-After building factual knowledge and making personal connections at an
-individual level, a shared BKWLQ can be used to ascertain class
-understandings.
-iii, = BKWLQ - using information from Writing to Learn
-
----
-
-<!-- page 11 -->
-
-Writing to Learn
-Source: Source: Source:
-Facts: Facts: Facts:
-Response: Response: Response:
-Connection: Connection:
-I wonder: Now that I know:
-I want to know: I'm interested in knowing...
-5
-Writing to Learn
-Source: Source: Source:
-Facts: Facts: Facts:
-Response: Response: Response:
-Connection: Connection:
-I wonder: Now that I know:
-I want to know: I'm interested in knowing...
-
----
-
-<!-- page 12 -->
-
-B-K-W-L-Q
-Build background | What do I know? | What do I want to know? | What did I learn? | What new questions do I have?
+<!-- p.10–12 -->

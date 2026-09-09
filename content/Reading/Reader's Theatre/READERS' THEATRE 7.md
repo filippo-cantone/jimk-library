@@ -3,18 +3,18 @@ title: "READERS' THEATRE 7"
 source_file: "Reading/Reader's Theatre/READERS' THEATRE 7.docx"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
-**READERS’ THEATRE 7**
+## READERS’ THEATRE 7
 
-<img src="assets/READERS' THEATRE 7/media/image1.png"
-style="width:3.01042in;height:2.95833in" alt="theatre-clip-art-8" />
+<img src="assets/READERS' THEATRE 7/media/image1.png" alt="theatre-clip-art-8" />
 
-<img src="assets/READERS' THEATRE 7/media/image1.png"
-style="width:3.01042in;height:2.95833in" alt="theatre-clip-art-8" />
+<img src="assets/READERS' THEATRE 7/media/image1.png" alt="theatre-clip-art-8" />
 
-**Readers’ Theatre 7**
+## Readers’ Theatre 7
 
 The Hat Jan Brett
 
@@ -82,7 +82,7 @@ Pony
 
 Lisa
 
-**The Hat Jan Brett**
+## The Hat Jan Brett
 
 Winter was on the way. Lisa took her woollen clothes out of the chest
 and carried them outside.
@@ -192,7 +192,7 @@ Iguana
 
 Pig
 
-**Cook-a-Doodle-Doo! Janet Stevens**
+## Cook-a-Doodle-Doo! Janet Stevens
 
 Peck. Peck. Peck.
 
@@ -483,7 +483,7 @@ Bats
 
 Rabbits
 
-**The Mixed-Up Rooster Pamela Duncan Edwards**
+## The Mixed-Up Rooster Pamela Duncan Edwards
 
 A ray of sunshine found its way through a crack in the henhouse door and
 landed on Daisy Mae’s face.
@@ -648,7 +648,7 @@ Katydid
 
 Cricket
 
-**Bravo, Livingstone Mouse! Pamela Duncan Edwards**
+## Bravo, Livingstone Mouse! Pamela Duncan Edwards
 
 One night, Livingstone Mouse put on his explorer hat and set off to
 investigate the Wild Wood.
@@ -819,7 +819,7 @@ Weasel
 
 Woodchuck
 
-**The Worrywarts Pamela Duncan Edwards**
+## The Worrywarts Pamela Duncan Edwards
 
 One warm Wednesday morning, the sun winked through Wombat’s window and
 woke her up.
@@ -968,7 +968,7 @@ So they went back along the pathway.
 
 “Why not?” said Woodchuck. “BUT … WHAT IF …?”
 
-**Seven Blind Mice Ed Young**
+## Seven Blind Mice Ed Young
 
 8 Readers
 
@@ -988,7 +988,7 @@ Blue Mouse
 
 White Mouse
 
-**Seven Blind Mice Ed Young**
+## Seven Blind Mice Ed Young
 
 One day seven blind mice were surprised to find a strange Something by
 their pond. “What is it?” they cried, and they all ran home.
@@ -1053,7 +1053,7 @@ The Mouse Moral:
 Knowing in part may make a fine tale, but wisdom comes from seeing the
 whole.
 
-**It’s Mine Leo Lionni**
+## It’s Mine Leo Lionni
 
 4 Readers
 
@@ -1065,7 +1065,7 @@ Rupert
 
 Lydia
 
-**It’s Mine! Leo Lionni**
+## It’s Mine! Leo Lionni
 
 In the middle of rainbow pond there was a small island. Smooth pebbles
 lined its beaches, and it was covered with ferns and leafy weeds. On the
@@ -1115,7 +1115,7 @@ in the weeds, they felt happy in a way they had never been before.
 
 “It’s ours!” she said.
 
-**Little Pink Pig Pat Hutchins**
+## Little Pink Pig Pat Hutchins
 
 9 Readers
 
@@ -1133,7 +1133,7 @@ Sheep (2 or more)
 
 Hens (2 or more)
 
-**Little Pink Pig Pat Hutchins**
+## Little Pink Pig Pat Hutchins
 
 “Hurry up, Little Pink Pig,” said Little Pink Pig’s mother. “It’s time
 you were in bed.”
@@ -1236,7 +1236,7 @@ And this time Little Pink Pig heard them.
 
 “Wait for me!” squealed Little Pink Pig.
 
-**The Rooster and the Fox Helen Ward**
+## The Rooster and the Fox Helen Ward
 
 4 Readers
 
@@ -1248,7 +1248,7 @@ Pertolote
 
 Mr Fox
 
-**The Rooster and the Fox Retold by Helen Ward**
+## The Rooster and the Fox Retold by Helen Ward
 
 Over the rolling hills, beyond the wood, there was once a small farm.
 Surrounded by fields and gardens, it was a quiet place. Early one
@@ -1314,7 +1314,7 @@ high tree. “Now there is a moral worth remembering!”
 And with the briefest of nods the fox turned and slunk away through the
 murky wood, his stomach rumbling all the way.
 
-**Henny Penny Vivian French**
+## Henny Penny Vivian French
 
 7 Readers
 
@@ -1526,7 +1526,7 @@ have a slice of corn cake instead.”
 
 And that, as Turkey Lukey said, was the best surprise of all.
 
-**Stellaluna Janell Cannon**
+## Stellaluna Janell Cannon
 
 10 Readers (or 8 with bats 1 and 2 by other characters)
 
@@ -1550,7 +1550,7 @@ Bat 1 (one line)
 
 Bat 2 (one line)
 
-**Stellaluna Janell Cannon**
+## Stellaluna Janell Cannon
 
 In a warm and sultry forest far, far away, there once lived a mother
 fruit bat and her new baby.
@@ -1755,7 +1755,7 @@ They perched in silence for a long time.
 
 “I agree,” said Stellaluna. “But we’re friends. And that’s a fact.”
 
-**Don’t Need Friends Carolyn Crimi**
+## Don’t Need Friends Carolyn Crimi
 
 6 Readers
 
@@ -1771,7 +1771,7 @@ Raccoon
 
 Dog
 
-**Don’t Need Friends Carolyn Crimi**
+## Don’t Need Friends Carolyn Crimi
 
 Rat had a best friend named Possum. Rat and Possum did everything
 together…
@@ -1949,7 +1949,7 @@ together in harmony.
 “Don’t need many friends,” thought Rat each night as he lay next to Dog.
 “Just need one.”
 
-**My Lucky Day** **Keiko Kasza**
+## My Lucky Day** **Keiko Kasza
 
 3 Readers
 
@@ -2068,7 +2068,7 @@ tallest pine the hanging
 
 tree. rock.
 
-**William’s Doll Charlotte Zolotow**
+## William’s Doll Charlotte Zolotow
 
 6 Readers
 
@@ -2084,7 +2084,7 @@ William
 
 Grandmother
 
-**William’s Doll** **Charlotte Zolotow**
+## William’s Doll** **Charlotte Zolotow
 
 William wanted a doll. He wanted to hug it and cradle it in his arms and
 give it a bottle and take it to the park and push it in the swing and
@@ -2151,7 +2151,7 @@ he’ll know how to take care of his baby and feed him and love him and
 bring him the things he wants, like a doll so that he can practise being
 a father.”
 
-**Mr Gumpy’s Outing John Burningham**
+## Mr Gumpy’s Outing John Burningham
 
 13 Readers
 
@@ -2177,7 +2177,7 @@ Calf
 
 Goat
 
-**Mr Gumpy’s Outing John Burningham**
+## Mr Gumpy’s Outing John Burningham
 
 This is Mr Gumpy. Mr Gumpy owned a boat and his house was by the river.
 
@@ -2251,7 +2251,7 @@ swam to the bank and climbed out to dry in the hot sun.
 
 “Good-bye,” said Mr Gumpy. “Come for a ride another day.”
 
-**The Wolf Who Cried Boy Bob Hartman**
+## The Wolf Who Cried Boy Bob Hartman
 
 4 Readers
 
@@ -2417,7 +2417,7 @@ grew fond of Granny Smith Pie. And he never, ever cried “Boy!” again!
 
 And that’s why the boys, at least, lived happily ever after.
 
-**Oliver Button is a Sissy Tomie dePaola**
+## Oliver Button is a Sissy Tomie dePaola
 
 11 Readers
 
@@ -2557,7 +2557,7 @@ SISSY.
 
 STAR!
 
-**Chrysanthemum Kevin Henkes**
+## Chrysanthemum Kevin Henkes
 
 9 Readers
 
@@ -2813,7 +2813,7 @@ Farmer Tucker
 
 Mrs Tucker
 
-**Three Hens and a Peacock Lester Laminack**
+## Three Hens and a Peacock Lester Laminack
 
 Things were quiet on the Tuckers’ Farm.
 
@@ -2974,7 +2974,7 @@ Cat
 
 Pig
 
-**The Little Red Hen retold by Brenda Parkes**
+## The Little Red Hen retold by Brenda Parkes
 
 One spring morning, the little Red Hen found a grain of wheat.
 
@@ -3087,7 +3087,7 @@ Beaver 2
 
 Beaver 3
 
-**Get Busy Beaver Carolyn Crimi**
+## Get Busy Beaver Carolyn Crimi
 
 It was fall, and the Beaver family was busy, busy, busy building their
 dam.

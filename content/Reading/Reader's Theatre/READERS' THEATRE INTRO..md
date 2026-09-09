@@ -3,13 +3,14 @@ title: "READERS' THEATRE INTRO."
 source_file: "Reading/Reader's Theatre/READERS' THEATRE INTRO..docx"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
-**READERS’ THEATRE**
+## READERS’ THEATRE
 
 <img src="assets/READERS' THEATRE INTRO/media/image1.jpeg"
-style="width:6.26806in;height:5.36963in"
 alt="http://fc03.deviantart.net/fs71/i/2010/026/6/3/comedy___tragedy_Mask_Tattoo_by_Takumy.jpg" />
 
 **INTRODUCTION**
@@ -85,7 +86,7 @@ What makes a text suitable for Readers’ Theatre?
 
 - Repetition or cumulative text for younger readers.
 
-**Readers’ Theatre with Younger Readers**
+## Readers’ Theatre with Younger Readers
 
 - Shared Reading can be turned into Readers’ Theatre in many ways.
 
@@ -137,10 +138,9 @@ What makes a text suitable for Readers’ Theatre?
 >
 > Cicadas by Paul Fleischman.
 
-<img src="assets/READERS' THEATRE INTRO/media/image2.jpeg"
-style="width:2.88542in;height:2.11458in" alt="Drama-Masks" />
+<img src="assets/READERS' THEATRE INTRO/media/image2.jpeg" alt="Drama-Masks" />
 
-**Readers’ Theatre 1**
+## Readers’ Theatre 1
 
 Readers’ Theatre with Younger Readers
 
@@ -206,10 +206,9 @@ Mister Seahorse Eric Carle
 
 John Brown,Rose and the Midnight Cat Jenny Wagner
 
-<img src="assets/READERS' THEATRE INTRO/media/image3.png"
-style="width:2.60417in;height:2.54167in" alt="7724216" />
+<img src="assets/READERS' THEATRE INTRO/media/image3.png" alt="7724216" />
 
-**Readers’ Theatre 2**
+## Readers’ Theatre 2
 
 The Garden of Abdul Gasazi Chris Van Allsburg
 
@@ -257,10 +256,9 @@ The Watertower Gary Crew
 
 Nothing Ever Happens on 90<sup>th</sup> Street Roni Schotter
 
-<img src="assets/READERS' THEATRE INTRO/media/image4.jpeg"
-style="width:2.65946in;height:2.1875in" alt="drama+mask" />
+<img src="assets/READERS' THEATRE INTRO/media/image4.jpeg" alt="drama+mask" />
 
-**Readers’ Theatre 3**
+## Readers’ Theatre 3
 
 Beatrice Doesn’t Want to Laura Numeroff
 
@@ -302,10 +300,9 @@ Four Famished Foxes and Fosdyke Pamela Duncan Edwards
 
 The Worrywarts Pamela Duncan Edwards
 
-<img src="assets/READERS' THEATRE INTRO/media/image5.jpeg"
-style="width:2.0625in;height:1.73958in" alt="DramaMasks" />
+<img src="assets/READERS' THEATRE INTRO/media/image5.jpeg" alt="DramaMasks" />
 
-**Readers’ Theatre 4**
+## Readers’ Theatre 4
 
 Two Parts
 
@@ -369,10 +366,9 @@ Goggles Ezra Jack Keats
 
 Pet Show Ezra Jack Keats
 
-<img src="assets/READERS' THEATRE INTRO/media/image6.jpeg"
-style="width:3.67014in;height:2.40556in" alt="drama+masks" />
+<img src="assets/READERS' THEATRE INTRO/media/image6.jpeg" alt="drama+masks" />
 
-**Readers’ Theatre 5**
+## Readers’ Theatre 5
 
 The Magician’s Elephant Kate DiCamillo
 
@@ -406,10 +402,9 @@ Crow and the Waterhole Ambelin Kwaymullina
 
 Knots on a Counting Rope Bill Martin Jr.
 
-<img src="assets/READERS' THEATRE INTRO/media/image7.png"
-style="width:2.28125in;height:2.46017in" alt="mask" />
+<img src="assets/READERS' THEATRE INTRO/media/image7.png" alt="mask" />
 
-**Readers’ Theatre 6**
+## Readers’ Theatre 6
 
 Double Trouble at Walla Walla Andrew Clements
 
@@ -437,10 +432,9 @@ The Frog Prince Continued Jon Scieszka
 
 The Great Kapok Tree Lynne Cherry
 
-<img src="assets/READERS' THEATRE INTRO/media/image8.png"
-style="width:3.01042in;height:2.95833in" alt="theatre-clip-art-8" />
+<img src="assets/READERS' THEATRE INTRO/media/image8.png" alt="theatre-clip-art-8" />
 
-**Readers’ Theatre 7**
+## Readers’ Theatre 7
 
 The Hat Jan Brett
 
@@ -484,10 +478,9 @@ Little Red Hen Brenda Parkes
 
 Get Busy, Beaver! Carolyn Crimi
 
-<img src="assets/READERS' THEATRE INTRO/media/image9.jpeg"
-style="width:2.17708in;height:2.67708in" alt="masks" />
+<img src="assets/READERS' THEATRE INTRO/media/image9.jpeg" alt="masks" />
 
-**Readers’ Theatre 8**
+## Readers’ Theatre 8
 
 Wolf! Becky Bloom
 
@@ -527,10 +520,9 @@ The Porcupine Roald Dahl
 
 The Ant-Eater Roald Dahl
 
-<img src="assets/READERS' THEATRE INTRO/media/image10.png"
-style="width:2.86458in;height:2.34615in" alt="masks" />
+<img src="assets/READERS' THEATRE INTRO/media/image10.png" alt="masks" />
 
-**Readers’ Theatre 9 Performing Poetry**
+## Readers’ Theatre 9 Performing Poetry
 
 Introduction to Poetry Billy Collins
 
@@ -630,10 +622,9 @@ Goldilocks and the Three Bears Roald Dahl
 
 Notes on Performing Poetry
 
-<img src="assets/READERS' THEATRE INTRO/media/image11.png"
-style="width:2.51875in;height:2.06597in" alt="maskscomedytragedy" />
+<img src="assets/READERS' THEATRE INTRO/media/image11.png" alt="maskscomedytragedy" />
 
-**Readers’ Theatre 10**
+## Readers’ Theatre 10
 
 King Bidgood’s in the Bathtub Audrey Wood
 

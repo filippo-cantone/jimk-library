@@ -3,18 +3,18 @@ title: "READERS' THEATRE 10"
 source_file: "Reading/Reader's Theatre/READERS' THEATRE 10.docx"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
-**READERS’ THEATRE 10**
+## READERS’ THEATRE 10
 
-<img src="assets/READERS' THEATRE 10/media/image1.png"
-style="width:3.19732in;height:2.62256in" alt="maskscomedytragedy" />
+<img src="assets/READERS' THEATRE 10/media/image1.png" alt="maskscomedytragedy" />
 
-<img src="assets/READERS' THEATRE 10/media/image1.png"
-style="width:2.51875in;height:2.06597in" alt="maskscomedytragedy" />
+<img src="assets/READERS' THEATRE 10/media/image1.png" alt="maskscomedytragedy" />
 
-**Readers’ Theatre 10**
+## Readers’ Theatre 10
 
 King Bidgood’s in the Bathtub Audrey Wood
 
@@ -58,7 +58,7 @@ The Little Old Lady Who Was Not Afraid of Anything
 
 Me First Helen Lester
 
-**King Bidgood’s in the Bathtub Audrey Wood**
+## King Bidgood’s in the Bathtub Audrey Wood
 
 6 Readers
 
@@ -74,7 +74,7 @@ Knight
 
 Duke
 
-**King Bidgood’s in the Bathtub Audrey Wood**
+## King Bidgood’s in the Bathtub Audrey Wood
 
 “Help! Help!” cried the Page when the sun came up. “King Bidgood’s in the
 bathtub, and he won’t get out! Oh, who knows what to do?
@@ -128,7 +128,7 @@ Glub, glub, glub.
 **  
 **
 
-**Bravery Soup Maryann Cocca-Leffler**
+## Bravery Soup Maryann Cocca-Leffler
 
 8 Readers
 
@@ -258,7 +258,7 @@ Trembling, he entered.
 Minutes later, his friends found the broken stick by the mouth of the
 cave.
 
-**“OH, NO! HE HAS BEEN EATEN BY THE MONSTER!”**
+## “OH, NO! HE HAS BEEN EATEN BY THE MONSTER!”
 
 But Carlin had not been eaten by the monster.
 
@@ -316,7 +316,7 @@ Big Bear.
 **  
 **
 
-**The Straight Line Wonder Mem Fox**
+## The Straight Line Wonder Mem Fox
 
 5 Readers
 
@@ -331,7 +331,7 @@ Film Director
 **  
 **
 
-**The Straight Line Wonder Mem Fox**
+## The Straight Line Wonder Mem Fox
 
 Once upon a time there were three straight lines. They were the best of
 friends.
@@ -562,7 +562,7 @@ an egg at all, but a stone of perfect shape, and size and colour.
 And he continued to love it with all his heart. It was his egg. It was
 his secret. And it remained his friend forever.
 
-**Earthquack Margie Palatini**
+## Earthquack Margie Palatini
 
 17 Readers
 
@@ -600,7 +600,7 @@ Joel Mole
 
 Lowell Mole
 
-**Earthquack Margie Palatini**
+## Earthquack Margie Palatini
 
 Little Chucky Ducky had just finished swimming his morning laps. He
 dried off his bill, wiped off his two webbed feet, and was letting the
@@ -845,7 +845,7 @@ that little quack, Chucky Ducky.
 
 Who, right from the beginning, was all wet.
 
-**Henny-Penny Traditional**
+## Henny-Penny Traditional
 
 7 Readers
 
@@ -971,7 +971,7 @@ only hurt Cocky-locky, but didn't kill him, he called out to
 Henny-Penny. But she turned tail and off she ran home, so she never told
 the king the sky was a-falling.
 
-**Lousy Rotten Stinkin’ Grapes Margie Palatini**
+## Lousy Rotten Stinkin’ Grapes Margie Palatini
 
 7 Readers
 
@@ -992,7 +992,7 @@ Skunk
 **  
 **
 
-**Lousy Rotten Stinkin’ Grapes Margie Palatini**
+## Lousy Rotten Stinkin’ Grapes Margie Palatini
 
 Fox eyed a bunch of tantalising grapes hanging from a vine growing high
 on a tree.
@@ -1205,7 +1205,7 @@ anyway.”
 
 “If you say so.”
 
-**Bad Boys Margie Palatini**
+## Bad Boys Margie Palatini
 
 6 Readers
 
@@ -1220,7 +1220,7 @@ Betty Mutton
 Trudie Ewe
 
 Meryl Sheep  
-**Bad Boys Margie Palatini**
+## Bad Boys Margie Palatini
 
 Those bad boys, Willy and Wally Wolf, were in trouble. Again. And now
 they were on the run – with everyone hot on their tails.
@@ -1431,7 +1431,7 @@ were two very bad haircuts.
 
 Oh yeah, they were bad. Bad. Really, *really* bad.
 
-**Silly Goose’s Big Story Keiko Kasza**
+## Silly Goose’s Big Story Keiko Kasza
 
 6 Readers
 
@@ -1447,7 +1447,7 @@ Squirrel
 
 Wolf
 
-**Silly Goose’s Big Story Keiko Kasza**
+## Silly Goose’s Big Story Keiko Kasza
 
 Goose made up great stories. His friends would always beg him, “Tell us
 a story, Goose!”
@@ -1568,7 +1568,7 @@ me!”
 “Okay, I’ve got a good one,” said Goose. “Once upon a time, there was a
 silly Goose who had the three greatest friends in the world …”
 
-**The Mightiest Keiko Kasza**
+## The Mightiest Keiko Kasza
 
 6 Readers
 
@@ -1584,7 +1584,7 @@ Old Woman
 
 Giant
 
-**The Mightiest Keiko Kasza**
+## The Mightiest Keiko Kasza
 
 Deep in the quiet woods, there was a golden crown sitting on a rock.
 
@@ -1618,21 +1618,21 @@ woman to come near. When she finally reached the bushes …
 
 … the Lion jumped up.
 
-**“Rooarrrrr!”**
+## “Rooarrrrr!”
 
 “Oh, my!” cried the tiny old woman. “You scared the daylights out of
 me!”
 
 Then the Bear jumped up.
 
-**“Grrrrrrrrrrrrr!”**
+## “Grrrrrrrrrrrrr!”
 
 “Oh, my!” cried the tiny old woman. “You scared the daylights out of
 me!”
 
 Finally, it was the Elephant’s turn. He sucked in the air and …
 
-**“Baarrruuuu!”**
+## “Baarrruuuu!”
 
 “Oh, my!” cried the tiny old woman. “You scared the daylights out of
 me!”
@@ -1712,7 +1712,7 @@ peacefully on its rock, just like before.
 
 But not for long …
 
-**The Pigs’ Picnic Keiko Kasza**
+## The Pigs’ Picnic Keiko Kasza
 
 6 Readers
 
@@ -1728,7 +1728,7 @@ Lion
 
 Zebra
 
-**The Pigs’ Picnic Keiko Kasza**
+## The Pigs’ Picnic Keiko Kasza
 
 It was a perfect day for a picnic. Mr Pig tried to look his best. He was
 going to ask Miss Pig to go on a picnic with him.
@@ -1781,7 +1781,7 @@ visited her house. Her handsome friend Mr Pig listened sympathetically.
 
 It was a perfect day for a picnic.
 
-**Miss Fox’s Class Goes Green Eileen Spinelli**
+## Miss Fox’s Class Goes Green Eileen Spinelli
 
 9 Readers
 
@@ -1802,7 +1802,7 @@ Squirrel
 Bear
 
 Possum  
-**Miss Fox’s Class Goes Green Eileen Spinelli**
+## Miss Fox’s Class Goes Green Eileen Spinelli
 
 The morning Miss Fox came to school on a bicycle, her students were
 surprised.
@@ -1922,7 +1922,7 @@ The next day Miss Fox’s class had lots of company going green.
 
 Now it was … the whole school!!
 
-**Dinorella Pamela Duncan Edwards**
+## Dinorella Pamela Duncan Edwards
 
 6 Readers
 
@@ -1938,7 +1938,7 @@ Fairydactyl
 
 Duke Dudley
 
-**Dinorella Pamela Duncan Edwards**
+## Dinorella Pamela Duncan Edwards
 
 Dora, Doris, and Dinorella lived down in the dunes in a dinosaur den.
 
@@ -2075,7 +2075,7 @@ adorable. You're definitely quite a dish. I beg you to be my dearest."
 
 Dora and Doris said, "DRAT!"
 
-**CLICK, CLACK, MOO Cows That Type**
+## CLICK, CLACK, MOO Cows That Type
 
 > **Doreen Cronin**
 
@@ -2091,7 +2091,7 @@ Typewriter
 
 2 Ducks (letter)
 
-**CLICK, CLACK, MOO Cows That Type Doreen Cronin**
+## CLICK, CLACK, MOO Cows That Type Doreen Cronin
 
 Farmer Brown has a problem. His cows like to type. All day long he hears
 
@@ -2605,7 +2605,7 @@ clumsy, noisy, nasty and rude. But really Edwardo is…
 
 THE LOVELIEST BOY IN THE WHOLE WIDE WORLD.
 
-**The Stray Dog Marc Simont**
+## The Stray Dog Marc Simont
 
 6 Readers
 
@@ -2621,7 +2621,7 @@ Boy
 
 Dog Warden
 
-**The Stray Dog Marc Simont**
+## The Stray Dog Marc Simont
 
 It was a great day for a picnic.
 
@@ -2846,7 +2846,7 @@ And one scary pumpkin head go BOO, BOO!
 
 And scare all the crows away!
 
-**ME FIRST Helen Lester**
+## ME FIRST Helen Lester
 
 3 Readers
 
@@ -2856,7 +2856,7 @@ Pinkerton
 
 Sandwitch
 
-**ME FIRST Helen Lester**
+## ME FIRST Helen Lester
 
 Pinkerton was pink, plump, and pushy. He would do anything to be first,
 even

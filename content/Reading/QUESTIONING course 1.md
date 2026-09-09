@@ -3,15 +3,16 @@ title: "QUESTIONING course 1"
 source_file: "Reading/QUESTIONING course 1.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
-**QUESTIONING**
+## QUESTIONING
 
-<img src="assets/QUESTIONING course 1/media/image1.jpeg"
-style="width:2.60417in;height:3.15625in" />
+<img src="assets/QUESTIONING course 1/media/image1.jpeg" />
 
-**Questioning**
+## Questioning
 
 Questioning
 
@@ -49,7 +50,7 @@ Curious George by H.A.Ray
 
 Beatrice Doesn’t Want To by Laura Numeroff
 
-**QUESTIONING**
+## QUESTIONING
 
 Proficient readers ask questions before, during, and after they read.
 
@@ -261,7 +262,7 @@ Questioning improves comprehension by:
 >
 > Readers understand that asking questions deepens their comprehension.
 
-**Questions Game**
+## Questions Game
 
 Used to scaffold questioning to assist students to move from literal to
 inferential questioning.
@@ -352,7 +353,7 @@ New questions lead to a higher level of connections. T-S, T-T, and T-W.
 - Whole class comes together to document class understandings using the
   **B-K-W-L-Q**.
 
-**QARS - Question-Answer-Relationship-Strategy**
+## QARS - Question-Answer-Relationship-Strategy
 
 > Demonstrates to students that there are different types of questions
 > and possible places for finding answers to those questions.
@@ -396,7 +397,7 @@ Group work
 | Author and You                                     | Implicit and Explicit              | Answer requires that students mesh their thoughts about a topic with information the author presents |
 | On Your own                                        | Implicit                           | Answer comes from application of the information from the text                                       |
 
-**Questioning Before, During and After Reading**
+## Questioning Before, During and After Reading
 
 > **Preps and Shared Reading**
 >
@@ -511,7 +512,7 @@ Group work
 Let me know if you want some Big Book covers made.
 
 **Possible Questions during Reading Conference** when the focus has been
-**Questioning:**
+## Questioning:
 
 Did you ask any questions today?
 
@@ -588,7 +589,7 @@ questions?
 > **Charlie Anderson Barbara Abercrombie**
 >
 > <img src="assets/QUESTIONING course 1/media/image2.jpeg"
-> style="width:2.26042in;height:2.87014in" />
+> />
 >
 > Charlie, a fuzzy grey cat, walked out of the woods one evening and
 > into Elizabeth's and Sarah's hearts. Now he sleeps on their beds, lets
@@ -658,7 +659,7 @@ questions?
 > into themes and bigger ideas, where the students have to infer
 > meaning.
 
-**Charlie Anderson by Barbara Abercrombie**
+## Charlie Anderson by Barbara Abercrombie
 
 One cold night a cat walked out of the woods, up the steps, across the
 deck, and into the house where Elizabeth and Sarah lived.
@@ -754,10 +755,10 @@ families who love him.
 
 He’s a lucky cat.
 
-**Grandfather Twilight Barbara Berger**
+## Grandfather Twilight Barbara Berger
 
 > <img src="assets/QUESTIONING course 1/media/image3.jpeg"
-> style="width:3.31181in;height:3.53056in" />
+> />
 >
 > ‘*Each evening, as the shadows begin to deepen, Grandfather Twilight
 > walks through the forest to welcome the night with his gift to the
@@ -818,7 +819,7 @@ After this lesson has been repeated with several different pieces of
 short text, students partner read a new text and record their questions
 before, during and after reading.
 
-**Grandfather Twilight Barbara Berger**
+## Grandfather Twilight Barbara Berger
 
 Grandfather Twilight lives among the trees. When day is done he closes
 his book, combs his beard, and puts on his jacket. Next, he opens a
@@ -837,7 +838,7 @@ goes to sleep. Good night.
 > **The Lotus Seed Sherry Garland**
 >
 > <img src="assets/QUESTIONING course 1/media/image4.jpeg"
-> style="width:3.3125in;height:4.32292in" />
+> />
 >
 > When the civil war breaks out in Vietnam, the family flee with only a
 > few possessions. On a crowded boat they head for America.
@@ -884,7 +885,7 @@ goes to sleep. Good night.
 > knowledge. We generate ideas. Asking questions leads to more
 > questions. We also visualise and infer to gain meaning.
 
-**The Lotus Seed Sherry Garland**
+## The Lotus Seed Sherry Garland
 
 My grandmother saw the emperor cry the day he lost his golden dragon
 throne.
@@ -947,7 +948,7 @@ them about the day my grandmother saw the emperor cry.
 > **Brave Irene by William Steig**
 >
 > <img src="assets/QUESTIONING course 1/media/image5.jpeg"
-> style="width:3.3125in;height:4.05208in" />
+> />
 
 Brave Irene is Irene Bobbin, the dressmaker's daughter. Her mother, Mrs.
 Bobbin, isn't feeling so well and can't possibly deliver the beautiful
@@ -1243,8 +1244,8 @@ Which of course, Mrs Bobbin knew. Better than the duchess.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1284,10 +1285,9 @@ she leapt. The box shot forward, like a sled.</td>
 </tbody>
 </table>
 
-**The Other Side Jacqueline Woodson**
+## The Other Side Jacqueline Woodson
 
-<img src="assets/QUESTIONING course 1/media/image6.jpeg"
-style="width:3.31181in;height:2.87361in" />
+<img src="assets/QUESTIONING course 1/media/image6.jpeg" />
 
 Clover's mum says it isn't safe to cross the fence that segregates their
 African-American side of town from the white side where Anna lives. But
@@ -1420,10 +1420,9 @@ Annie said.
 
 And I nodded. “Yeah,” I said. “Someday.”
 
-**Star of Hope, Star of Fear by Jo Hoestlandt**
+## Star of Hope, Star of Fear by Jo Hoestlandt
 
-<img src="assets/QUESTIONING course 1/media/image7.jpeg"
-style="width:3.31319in;height:2.79236in" />
+<img src="assets/QUESTIONING course 1/media/image7.jpeg" />
 
 Nine-year-old Helen is confused by the disappearance of her Jewish
 friend during the German occupation of Paris.
@@ -1595,7 +1594,7 @@ Think about whether and how their questions are answered.
 
 Provide evidence from the text to explain their thinking.
 
-**Star of Fear, Star of Hope Jo Hoestlandt**
+## Star of Fear, Star of Hope Jo Hoestlandt
 
 My name is Helen, and I’m nearly an old woman now. When I’m gone, who
 will remember Lydia? That is why I want to tell you our story.
@@ -1884,7 +1883,7 @@ It would make me so happy to hear her voice …
 
 I’ll always have hope …
 
-**Star of Fear, Star of Hope by Jo Hoestlandt**
+## Star of Fear, Star of Hope by Jo Hoestlandt
 
 |              |          |              |
 |--------------|----------|--------------|
@@ -1895,17 +1894,17 @@ I’ll always have hope …
 |              |          |              |
 |              |          |              |
 
-**It Says – I Say – And So …**
+## It Says – I Say – And So …
 
 **Reading Strategies:** Making Inferences, Making Connections,
 Synthesising
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1936,8 +1935,7 @@ bigger, so she weighs more</em></td>
 </tbody>
 </table>
 
-<img src="assets/QUESTIONING course 1/media/image8.jpeg"
-style="width:1.85069in;height:2.17153in" />
+<img src="assets/QUESTIONING course 1/media/image8.jpeg" />
 
 This story has George being found by the man in the yellow hat and then
 taken to the zoo. Along the way curious little George gets into a bit of
@@ -1948,7 +1946,7 @@ finally lands on a traffic light, which causes all sorts of problems
 with the traffic below, but to his relief, the man with the yellow hat
 is there to save him.
 
-**Questioning:**
+## Questioning:
 
 Before.
 
@@ -1969,7 +1967,7 @@ After.
 
 Will George get in trouble because he escaped from jail?
 
-**Prediction**
+## Prediction
 
 Do you think the man with the yellow hat will capture George?
 
@@ -1988,7 +1986,7 @@ Will George ever come down from floating in the air?
 
 Where is the man with the yellow hat going to take George**?**
 
-**Compare & Contrast**
+## Compare & Contrast
 
 Compare and contrast the zoo and the jungle**.**
 
@@ -2003,13 +2001,13 @@ then I think I would be happy to live there.
 
 My conclusion: I think George was happy living in the zoo.
 
-**Problem/Solution**
+## Problem/Solution
 
 Problem: George is a curious little monkey that causes many problems.
 
 Solution: Put George in the zoo to live**.**
 
-**Sequencing**
+## Sequencing
 
 The man with the yellow hat catches George.
 
@@ -2051,12 +2049,12 @@ traffic light.
 
 Finally: The man in the yellow hat finally got George to the zoo.
 
-**Cause and Effect**
+## Cause and Effect
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2079,12 +2077,12 @@ home?</p>
 </tbody>
 </table>
 
-**Cause and Effect**
+## Cause and Effect
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2118,10 +2116,9 @@ away.</p>
 </tbody>
 </table>
 
-**Curious George H.A.Ray**
+## Curious George H.A.Ray
 
-<img src="assets/QUESTIONING course 1/media/image9.jpeg"
-style="width:1.86736in;height:2.54931in" /> This is George. He lived in
+<img src="assets/QUESTIONING course 1/media/image9.jpeg" /> This is George. He lived in
 Africa. He was a good little monkey and always very curious.
 
 One day George saw a man. He had on a large yellow straw hat. The man
@@ -2226,13 +2223,11 @@ climbed into the car and at last, away they went to the ZOO!
 
 What a nice place for George to live!
 
-<img src="assets/QUESTIONING course 1/media/image10.jpeg"
-style="width:5.46319in;height:8.14097in" />
+<img src="assets/QUESTIONING course 1/media/image10.jpeg" />
 
-<img src="assets/QUESTIONING course 1/media/image11.jpeg"
-style="width:3.29167in;height:3.33333in" />
+<img src="assets/QUESTIONING course 1/media/image11.jpeg" />
 
-**Questioning:**
+## Questioning:
 
 Before: From the cover.
 
@@ -2246,14 +2241,13 @@ Why won't Beatrice even look at a book at the library?
 
 Will Beatrice listen to the story that the librarian reads?
 
-<img src="assets/QUESTIONING course 1/media/image12.jpeg"
-style="width:2.58333in;height:3.33333in" />
+<img src="assets/QUESTIONING course 1/media/image12.jpeg" />
 
 After:
 
 Will Beatrice like to read books now?
 
-**Beatrice Doesn’t Want To Laura Numeroff**
+## Beatrice Doesn’t Want To Laura Numeroff
 
 Beatrice didn’t like books. She didn’t even like to read. More than
 that, she hated going to the library. But that’s where her big brother,
@@ -2372,8 +2366,7 @@ Henry said.
 
 “I don’t want to,” Beatrice said.
 
-<img src="assets/QUESTIONING course 1/media/image13.jpeg"
-style="width:2.58264in;height:3.33264in" />
+<img src="assets/QUESTIONING course 1/media/image13.jpeg" />
 
 **Beginning, middle, end** –
 
@@ -2391,7 +2384,7 @@ End - most important event from end
 Henry made Beatrice go to story time where she heard a book that she
 loved and wanted to stay at the library to look at that book.
 
-**Cause and effect –**
+## Cause and effect –
 
 Why did Beatrice hate going to the library?
 
@@ -2427,7 +2420,7 @@ Why did Beatrice not want to leave the library?
 
 Because she found a book that she connected with.
 
-**Characterisation**
+## Characterisation
 
 Describe Beatrice, describe Henry
 
@@ -2439,7 +2432,7 @@ thoughts
 
 character
 
-**Text-to-Self Connections**
+## Text-to-Self Connections
 
 Having a little brother or sister that drives you crazy.
 
@@ -2451,7 +2444,7 @@ Going to a story time.
 
 Having to do a report.
 
-**Drawing conclusions & inferencing – BK+TC=I**
+## Drawing conclusions & inferencing – BK+TC=I
 
 Why do you think Beatrice doesn't like books?
 
@@ -2464,7 +2457,7 @@ other things to do in the library.
 I: My conclusion: I think Beatrice doesn't like books because she has
 never found a book that she **connected with or interested her.**
 
-**Main idea & details –**
+## Main idea & details –
 
 Main idea: Beatrice doesn't like books.
 
@@ -2472,7 +2465,7 @@ Details: She doesn't want to go to the library. She won't look at any
 books in the library. She won't even turn to listen to the story the
 librarian is reading.
 
-**Prediction –**
+## Prediction –
 
 Will Beatrice look at books in the library?
 
@@ -2488,13 +2481,13 @@ Will Beatrice like the story the librarian reads?
 
 Does Beatrice likes books now?
 
-**Problem & Solution –**
+## Problem & Solution –
 
 Problem: Beatrice does not like books.
 
 Solution: Beatrice finally hears a story that she can connect to.
 
-**Sequencing –**
+## Sequencing –
 
 > Beatrice and Henry have to go to the library.
 
@@ -2526,7 +2519,7 @@ Beatrice asks the librarian to look at the book.
 
 Beatrice does not want to leave the library.
 
-**Summarising – Someone Wanted But So Then Finally**
+## Summarising – Someone Wanted But So Then Finally
 
 Someone: Henry
 
@@ -2540,8 +2533,7 @@ Then: where the librarian read a story and
 
 Finally: finally Beatrice liked a book.
 
-<img src="assets/QUESTIONING course 1/media/image14.jpeg"
-style="width:3.3125in;height:2.75in" />
+<img src="assets/QUESTIONING course 1/media/image14.jpeg" />
 
 Plot Summary: Jon Muth takes Leo Tolstoy’s short story, The Three
 Questions, as the starting point for an account of a young boy’s search
@@ -2590,10 +2582,9 @@ is right?
 
 Ref. University of Washington Centre for Philosophy for Children
 
-<img src="assets/QUESTIONING course 1/media/image15.png"
-style="width:4.54167in;height:3.99861in" />
+<img src="assets/QUESTIONING course 1/media/image15.png" />
 
-**Review The Three Questions by Jon Muth**
+## Review The Three Questions by Jon Muth
 
 The Three Questions - "Based on a story by Leo Tolstoy."
 
@@ -2605,8 +2596,7 @@ The eponymous three questions are these:
 
 *What is the right thing to do?*
 
-<img src="assets/QUESTIONING course 1/media/image16.jpeg"
-style="width:4.16667in;height:3.09236in" />
+<img src="assets/QUESTIONING course 1/media/image16.jpeg" />
 
 In this version of the story, they are formulated and pondered by a
 young Kite-wielding protagonist named Nikolai. He shares an early
@@ -2639,8 +2629,7 @@ There is most assuredly a classic fairy-tale structure at work, with the
 number three being so integral. Three questions asked and three answers
 for each question.
 
-<img src="assets/QUESTIONING course 1/media/image17.jpeg"
-style="width:4.16667in;height:3.375in" />
+<img src="assets/QUESTIONING course 1/media/image17.jpeg" />
 
 What is the right thing to do?
 
@@ -2670,8 +2659,7 @@ only a mother, but her young child as well, who lay helpless beneath
 fallen branches, scared and alone. They are both brought to Leo’s
 dwelling, and nursed back to health.
 
-<img src="assets/QUESTIONING course 1/media/image18.jpeg"
-style="width:4.16667in;height:3.40625in" />
+<img src="assets/QUESTIONING course 1/media/image18.jpeg" />
 
 Within these actions lie the answers to Nikolai’s three questions. They
 lift young Nikolai with their simple profundity, and he leaves Leo’s
@@ -2680,7 +2668,7 @@ mountaintop promontory in the company of his good friends.
 “For these are the answers to what is most important in the world," says
 Leo the Wise. The final page reads: "That is why we are here."
 
-**The Three Questions Jon Muth**
+## The Three Questions Jon Muth
 
 There was once a boy named Nikolai who sometimes felt uncertain about
 the right way to act. “I want to be a good person,” he told his friends.
@@ -2845,17 +2833,15 @@ moralistic and ascetic views, which he adopted after a moral crisis and
 spiritual awakening in the 1870s, after which he also became noted as a
 moral thinker and social reformer.
 
-<img src="assets/QUESTIONING course 1/media/image19.jpeg"
-style="width:2.5in;height:3.08333in" />
+<img src="assets/QUESTIONING course 1/media/image19.jpeg" />
 
-**During:**
+## During:
 
 Read Aloud.
 
 Page 1 (illustration) & page 2 (text)
 
-<img src="assets/QUESTIONING course 1/media/image16.jpeg"
-style="width:4.16667in;height:3.09236in" />
+<img src="assets/QUESTIONING course 1/media/image16.jpeg" />
 
 What did Nikolai want to know? (AT)
 
@@ -2892,10 +2878,10 @@ Advice Nikolai receives:
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2975,7 +2961,7 @@ was trying to find out how to be a good person.
 Continue reading the story and record the answers to the three
 questions.
 
-**After:**
+## After:
 
 Independent Reading
 
@@ -3000,7 +2986,7 @@ surprised
 
 content
 
-**Synthesising:**
+## Synthesising:
 
 “Did Nikolai change in the story?”
 
@@ -3021,7 +3007,7 @@ and
 
 in the community where thinking about others could make a difference.
 
-**Nikolai’s feelings**
+## Nikolai’s feelings
 
 Nikolai felt uncertain when …
 
@@ -3035,8 +3021,7 @@ Nikolai felt surprised when …
 
 Nikolai felt content when …
 
-<img src="assets/QUESTIONING course 1/media/image14.jpeg"
-style="width:3.3125in;height:2.75in" />
+<img src="assets/QUESTIONING course 1/media/image14.jpeg" />
 
 Some discussion questions:
 
@@ -3065,14 +3050,14 @@ is wrong?
 Give an example of an action that is right. Why do you think the action
 is right?
 
-**Advice Nikolai receives:**
+## Advice Nikolai receives:
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3105,7 +3090,7 @@ is right?
 </tbody>
 </table>
 
-**The Three Questions Nikolai’s Journey**
+## The Three Questions Nikolai’s Journey
 
 |     |     |
 |-----|-----|
@@ -3113,10 +3098,9 @@ is right?
 | 3\. | 4\. |
 | 5\. | 6\. |
 
-**Big Al Andrew Clements**
+## Big Al Andrew Clements
 
-<img src="assets/QUESTIONING course 1/media/image20.jpeg"
-style="width:3.3125in;height:2.70833in" />
+<img src="assets/QUESTIONING course 1/media/image20.jpeg" />
 
 Poor Big Al! He just wants to make friends. And in the whole wide blue
 sea you can't find a nicer fish. But because Big Al is large and
@@ -3129,10 +3113,9 @@ he'll ever have a single friend. Then one frightening day, when a
 fishing net captures the other fish, Big Al gets the chance to prove
 what a wonderful friend he can be!
 
-<img src="assets/QUESTIONING course 1/media/image21.jpeg"
-style="width:2.46597in;height:1.96736in" />
+<img src="assets/QUESTIONING course 1/media/image21.jpeg" />
 
-**Big Al Andrew Clements**
+## Big Al Andrew Clements
 
 In the wide blue sea there was a very friendly fish named Big Al. you
 could not find a nicer fish. But Big Al was also very, very, scary.
@@ -3200,7 +3183,7 @@ who has more friends than anyone else.
 
 Big Al.
 
-**Big Al Andrew Clements**
+## Big Al Andrew Clements
 
 Read Aloud.
 
@@ -3296,11 +3279,9 @@ Read and Retell/Listen and Retell.
 
 Use the Story Map to read and retell/listen and retell the story.
 
-<img src="assets/QUESTIONING course 1/media/image22.jpeg"
-style="width:6.66667in;height:2.82292in" />
+<img src="assets/QUESTIONING course 1/media/image22.jpeg" />
 
-<img src="assets/QUESTIONING course 1/media/image23.jpeg"
-style="width:3.33333in;height:2.83333in" />
+<img src="assets/QUESTIONING course 1/media/image23.jpeg" />
 
 Summary: Ahmed drives his donkey cart through the streets of Cairo,
 delivering butane gas cylinders to his father's customers. He knows
@@ -3313,7 +3294,7 @@ can write his name.
 *Fundamental questions can be used to delve deeper into a text and can
 lead to sophisticated questioning and thinking.*
 
-**Questions: Before, During, & After**
+## Questions: Before, During, & After
 
 |            |                    |                    |                   |
 |------------|--------------------|--------------------|-------------------|
@@ -3371,7 +3352,7 @@ How did questioning keep us engaged in the story?
 
 How did it help us to understand the story?
 
-**Questions: Before, During, & After**
+## Questions: Before, During, & After
 
 |            |                    |                    |                   |
 |------------|--------------------|--------------------|-------------------|
@@ -3383,7 +3364,7 @@ How did it help us to understand the story?
 | **Why?**   |                    |                    |                   |
 | **How?**   |                    |                    |                   |
 
-**The Day of Ahmed’s Secret Florence Parry Heide**
+## The Day of Ahmed’s Secret Florence Parry Heide
 
 Today I have a secret, and all day long my secret will be like a friend
 to me.
@@ -3540,8 +3521,7 @@ I write my name over and over as they watch, and I think of my name now
 lasting longer than the sound of it, maybe even lasting, like the old
 buildings in the city, a thousand years.
 
-<img src="assets/QUESTIONING course 1/media/image24.jpeg"
-style="width:3.3125in;height:3.3125in" />
+<img src="assets/QUESTIONING course 1/media/image24.jpeg" />
 
 One morning a young boy wakes up to find that Dad is gone. And in this
 affecting tale from acclaimed picture book artist Anthony Browne,
@@ -3554,7 +3534,7 @@ haunting place where nothing is quite what it seems, until the boy — and
 the reader — are deeply relieved to arrive at a warm, welcoming
 homecoming.
 
-**Interview (extract)**
+## Interview (extract)
 
 TEACHINGBOOKS: Into the Forest has an ominous fairy tale feel. What was
 the impetus for this book?
@@ -3588,7 +3568,7 @@ mysterious and dark and ambiguous. It brought back my original ideas, so
 I went back to work and the whole thing just flowed. The story came out
 fully formed.
 
-**Response to Visual Text - Into the Forest**
+## Response to Visual Text - Into the Forest
 
 **ACARA –** Australian Curriculum Assessment and Reporting Authority
 
@@ -3615,19 +3595,15 @@ Questions literal information in an illustration.
 
 Makes inferences based on information in an illustration.
 
-<img src="assets/QUESTIONING course 1/media/image25.jpeg"
-style="width:5.05in;height:4.43403in" />
+<img src="assets/QUESTIONING course 1/media/image25.jpeg" />
 
-<img src="assets/QUESTIONING course 1/media/image26.jpeg"
-style="width:5.05in;height:4.10694in" />
+<img src="assets/QUESTIONING course 1/media/image26.jpeg" />
 
-<img src="assets/QUESTIONING course 1/media/image27.jpeg"
-style="width:4.5625in;height:4.89236in" />
+<img src="assets/QUESTIONING course 1/media/image27.jpeg" />
 
-<img src="assets/QUESTIONING course 1/media/image28.jpeg"
-style="width:4.38264in;height:3.95972in" />
+<img src="assets/QUESTIONING course 1/media/image28.jpeg" />
 
-**Into the Forest Anthony Browne**
+## Into the Forest Anthony Browne
 
 One night I was woken up by a terrible sound.
 

@@ -3,18 +3,18 @@ title: "READERS' THEATRE 6"
 source_file: "Reading/Reader's Theatre/READERS' THEATRE 6.docx"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
-**READERS’ THEATRE 6**
+## READERS’ THEATRE 6
 
-<img src="assets/READERS' THEATRE 6/media/image1.png"
-style="width:2.65625in;height:2.86458in" alt="mask" />
+<img src="assets/READERS' THEATRE 6/media/image1.png" alt="mask" />
 
-<img src="assets/READERS' THEATRE 6/media/image1.png"
-style="width:2.28125in;height:2.46017in" alt="mask" />
+<img src="assets/READERS' THEATRE 6/media/image1.png" alt="mask" />
 
-**Readers’ Theatre 6**
+## Readers’ Theatre 6
 
 Double Trouble at Walla Walla Andrew Clements
 
@@ -697,7 +697,7 @@ and give thanks
 
 to the wild night.
 
-**I Love You the Purplest Barbara Joose**
+## I Love You the Purplest Barbara Joose
 
 4 Readers
 
@@ -709,7 +709,7 @@ Max
 
 Julian
 
-**I Love You the Purplest Barbara Joose**
+## I Love You the Purplest Barbara Joose
 
 Early in the evening the brothers and their Mama finished supper in the
 sturdy red cabin and set out to fish.
@@ -792,7 +792,7 @@ loved best.
 
 Extract from A Colourful Symphony – **The Phantom Tollbooth**
 
-**Norton Juster**
+## Norton Juster
 
 5 Readers
 
@@ -917,7 +917,7 @@ thin air.
 And Milo, full of thoughts and questions, curled up on the pages of
 tomorrow’s music and eagerly awaited the dawn.
 
-**The Odious Ogre Norton Juster**
+## The Odious Ogre Norton Juster
 
 6 Readers
 
@@ -933,7 +933,7 @@ Villager 2
 
 Villager 3
 
-**The Odious Ogre Norton Juster**
+## The Odious Ogre Norton Juster
 
 There was once an Ogre who had a terrible reputation. Not that Ogres
 usually have good reputations, but his was worse than anyone could
@@ -1155,7 +1155,7 @@ She also understood that the terrible things that can happen when you
 come face-to-face with an Ogre can sometimes happen to the Ogre and not
 to you.
 
-**Pinduli Janell Cannon**
+## Pinduli Janell Cannon
 
 12 Readers
 
@@ -1183,7 +1183,7 @@ Adder
 
 Marabou
 
-**Pinduli Janell Cannon**
+## Pinduli Janell Cannon
 
 The sun was low in the East African sky. The animals had been sleeping
 all through the hot afternoon, and now they began to stir.
@@ -1385,7 +1385,7 @@ Laughing and feasting, Pinduli told the whole story.
 “You’re not only the most beautiful hyena ever,” said Mama, “you’re the
 smartest hyena ever!”
 
-**The BFG Roald Dahl**
+## The BFG Roald Dahl
 
 3 Readers
 
@@ -1398,7 +1398,7 @@ Sophie
 **  
 **
 
-**The BFG Roald Dahl**
+## The BFG Roald Dahl
 
 Imagine late one night you couldn’t sleep, so you got out of bed and
 looked out
@@ -1679,7 +1679,7 @@ Miss Viola Swamp
 
 Detective McSmogg
 
-<u>Miss Nelson is Missing!</u>
+Miss Nelson is Missing!
 
 By Harry Allard and James Marshall
 
@@ -1837,7 +1837,7 @@ P.S. Detective McSmogg is working on a new case.
 
 He is *now* looking for Miss Viola Swamp.
 
-**The Emperor’s New Clothes Hans Christian Andersen**
+## The Emperor’s New Clothes Hans Christian Andersen
 
 13 Readers
 
@@ -1863,7 +1863,7 @@ Little Child
 
 Father
 
-**The Emperor’s New Clothes Hans Christian Andersen**
+## The Emperor’s New Clothes Hans Christian Andersen
 
 Many years ago there was an Emperor so exceedingly fond of new clothes
 that he spent all his money on being well dressed. He cared nothing
@@ -2035,7 +2035,7 @@ The Emperor shivered, for he suspected they were right. But he thought,
 "This procession has got to go on." So he walked more proudly than ever,
 as his noblemen held high the train that wasn't there at all.
 
-**The Principal’s New Clothes Stephanie Calmenson**
+## The Principal’s New Clothes Stephanie Calmenson
 
 7 Readers
 
@@ -2053,7 +2053,7 @@ Roger
 
 Prep Child - Alice
 
-**The Principal’s New Clothes Stephanie Calmenson**
+## The Principal’s New Clothes Stephanie Calmenson
 
 Mr. Bundy is the principal of PS88. He is also the sharpest dresser in
 town.
@@ -2523,7 +2523,7 @@ smiled, and he and Miz Lurleen rode off into the sunset. They lived
 happily ever after, roping, and cow poking, and gitting them dogies
 along.
 
-**THE FROG PRINCE CONTINUED**
+## THE FROG PRINCE CONTINUED
 
 > **Jon Scieszka**
 
@@ -2543,7 +2543,7 @@ Witch 3
 
 Fairy Godmother
 
-**THE FROG PRINCE CONTINUED**
+## THE FROG PRINCE CONTINUED
 
 > **Jon Scieszka**
 
@@ -2783,7 +2783,7 @@ The Prince kissed the Princess. They both turned into frogs.
 
 And they hopped off happily ever after.
 
-**The Great Kapok Tree Lynne Cherry**
+## The Great Kapok Tree Lynne Cherry
 
 14 Readers
 
@@ -2811,7 +2811,7 @@ Sloth
 
 Boy
 
-**The Great Kapok Tree Lynne Cherry**
+## The Great Kapok Tree Lynne Cherry
 
 One man was walking into the rain forest. Moments before, the forest had
 been alive

@@ -3,18 +3,18 @@ title: "READERS' THEATRE 3"
 source_file: "Reading/Reader's Theatre/READERS' THEATRE 3.docx"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
-**READERS’ THEATRE 3**
+## READERS’ THEATRE 3
 
-<img src="assets/READERS' THEATRE 3/media/image1.jpeg"
-style="width:3.69792in;height:3.04167in" alt="drama+mask" />
+<img src="assets/READERS' THEATRE 3/media/image1.jpeg" alt="drama+mask" />
 
-<img src="assets/READERS' THEATRE 3/media/image2.jpeg"
-style="width:2.65946in;height:2.1875in" alt="drama+mask" />
+<img src="assets/READERS' THEATRE 3/media/image2.jpeg" alt="drama+mask" />
 
-**Readers’ Theatre 3**
+## Readers’ Theatre 3
 
 Beatrice Doesn’t Want to Laura Numeroff
 
@@ -56,7 +56,7 @@ Four Famished Foxes and Fosdyke Pamela Duncan Edwards
 
 The Worrywarts Pamela Duncan Edwards
 
-**Beatrice Doesn’t Want To Laura Numeroff**
+## Beatrice Doesn’t Want To Laura Numeroff
 
 4 Readers
 
@@ -68,7 +68,7 @@ Wanda (one line)
 
 Librarian
 
-**Beatrice Doesn’t Want To Laura Numeroff**
+## Beatrice Doesn’t Want To Laura Numeroff
 
 Beatrice didn’t like books. She didn’t even like to read. More than
 that, she hated going to the library. But that’s where her big brother,
@@ -187,7 +187,7 @@ Henry said.
 
 “I don’t want to,” Beatrice said.
 
-**The Clown Said No Mischa Damjan**
+## The Clown Said No Mischa Damjan
 
 9 Readers
 
@@ -209,7 +209,7 @@ Augustus the Lion
 
 Boy (one line)
 
-**The Clown Said No Mischa Damjan**
+## The Clown Said No Mischa Damjan
 
 There was a breathless hush in the circus tent when the ringmaster
 shouted, “Ladies and gentlemen and children of all ages! Now for our
@@ -511,7 +511,7 @@ Mama was writing in her book, copying letters into words into meanings.
 “You have looked and listened and learnt well, Mama,” said Mari. “Soon
 you will be writing your own story. Just think what Mr Petrie will say!”
 
-**Old Pig Margaret Wild**
+## Old Pig Margaret Wild
 
 3 Readers
 
@@ -639,7 +639,7 @@ Then she climbed into Old Pig’s bed. She put her arms around Old Pig,
 and for the very last time Old Pig and Granddaughter held each other
 tight until morning.
 
-**The Stinky Cheese Man Jon Scieszka**
+## The Stinky Cheese Man Jon Scieszka
 
 8 Readers
 
@@ -659,7 +659,7 @@ Little Boy
 
 Fox
 
-**The Stinky Cheese Man Jon Scieszka**
+## The Stinky Cheese Man Jon Scieszka
 
 Once upon a time there was a little old woman and a little old man who
 lived together in a little old house. They were lonely. So the little
@@ -725,7 +725,7 @@ The fox swam to the middle of the river and said, “Oh man! What is that
 funky smell?” The fox coughed, gagged, and sneezed, and the Stinky
 Cheese Man flew off his back and into the river where he fell apart.
 
-**Thinderella Dick King-Smith**
+## Thinderella Dick King-Smith
 
 6 Readers
 
@@ -741,7 +741,7 @@ Mirabelle
 
 Hairy Godfather
 
-**Thinderella Dick King-Smith**
+## Thinderella Dick King-Smith
 
 Once upon a time there was a tall skinny girl named Thinderella.
 
@@ -959,7 +959,7 @@ the front steps. “I don’t even know your name!”
 “What a beautiful name,” said the Prince, blinking at her through his
 thick spectacles, “for a perfectly beautiful girl.”
 
-**Thinderella Dick King-Smith**
+## Thinderella Dick King-Smith
 
 Once upon a time there was a tall skinny girl named Thinderella.
 
@@ -1177,7 +1177,7 @@ the front steps. “I don’t even know your name!”
 “What a beautiful name,” said the Prince, blinking at her through his
 thick spectacles, “for a perfectly beautiful girl.”
 
-**Little Red Riding Hood Trina Schart Hyman**
+## Little Red Riding Hood Trina Schart Hyman
 
 6 Readers
 
@@ -1193,7 +1193,7 @@ Grandmother
 
 Huntsman
 
-**Little Red Riding Hood Retold by Trina Schart Hyman**
+## Little Red Riding Hood Retold by Trina Schart Hyman
 
 Once upon a time, there was a little girl named Elisabeth who lived with
 her mother in a house on the edge of a village. She was loved by all who
@@ -1367,7 +1367,7 @@ live. I should have kept my promise to my mother.” She was comforted,
 though, that she had at least minded her manners, and had always said,
 “Good morning,” “Please.” And “Thank you.”
 
-**Red Riding Hood Brenda Parkes**
+## Red Riding Hood Brenda Parkes
 
 6 Readers
 
@@ -1663,7 +1663,7 @@ On the next day, their mother returned with baskets of food from their
 real Po Po, and the three sisters told her the story of the Po Po who
 had come.
 
-**Little Red Riding Hood and the Wolf Roald Dahl**
+## Little Red Riding Hood and the Wolf Roald Dahl
 
 4 Readers
 
@@ -1783,7 +1783,7 @@ Little Red Riding Hood
 
 ***My lovely furry WOLFSKIN COAT.”***
 
-**The Paper Bag Princess Adapted by Robert Munsch**
+## The Paper Bag Princess Adapted by Robert Munsch
 
 4 Readers
 
@@ -1795,7 +1795,7 @@ Prince Ronald
 
 Dragon
 
-**The Paper Bag Princess Adapted by Robert Munsch**
+## The Paper Bag Princess Adapted by Robert Munsch
 
 **Elizabeth was a beautiful princess. She lived in a castle and had
 expensive princess clothes. She was going to marry a prince named
@@ -1824,22 +1824,22 @@ busy dragon. Come back tomorrow.”**
 **“Wait! Is it true that you are the smartest and fiercest dragon in the
 whole world?”**
 
-**“Yes.”**
+## “Yes.”
 
 **“Is it true that you can burn up ten forests with your fiery
 breath?”**
 
-**“Oh, yes.”**
+## “Oh, yes.”
 
 **And he took a huge, deep breath and breathed out so much fire that he
 burnt up fifty forests.**
 
-**“Fantastic!”**
+## “Fantastic!”
 
 **Then the dragon took another huge breath and breathed out so much fire
 that he burnt up one hundred forests.**
 
-**“Magnificent!”**
+## “Magnificent!”
 
 **Then the dragon took another huge breath, but this time nothing came
 out. The dragon didn’t even have enough fire left to cook a meatball.**
@@ -1847,7 +1847,7 @@ out. The dragon didn’t even have enough fire left to cook a meatball.**
 **“Dragon, is it true that you can fly around the world in just ten
 seconds?”**
 
-**“Why, yes.”**
+## “Why, yes.”
 
 **The dragon jumped up and flew all the way around the world in just ten
 seconds. He was very tired when he got back, but Elizabeth shouted,
@@ -1857,7 +1857,7 @@ seconds. He was very tired when he got back, but Elizabeth shouted,
 seconds. When he got back he was too tired to talk, and he lay down and
 went straight to sleep.**
 
-**Elizabeth whispered, “Hey, dragon.”**
+## Elizabeth whispered, “Hey, dragon.”
 
 **The dragon didn’t move at all. She lifted up the dragon’s ear and put
 her head right inside. She shouted as loud as she could, “Hey Dragon!”**
@@ -2698,7 +2698,7 @@ have a slice of corn cake instead.”
 
 And that, as Turkey Lukey said, was the best surprise of all.
 
-**Stranger in the Woods Carl R.Sams 11 & Jean Stoick**
+## Stranger in the Woods Carl R.Sams 11 & Jean Stoick
 
 16 Readers
 
@@ -2732,7 +2732,7 @@ Little Sister
 
 Brother
 
-**Stranger in the Woods Carl R.Sams 11 & Jean Stoick**
+## Stranger in the Woods Carl R.Sams 11 & Jean Stoick
 
 The snowflakes were
 
@@ -3194,7 +3194,7 @@ February 5
 
 “For a fox is a fox, whatever the food.”
 
-**The Worrywarts Pamela Duncan Edwards**
+## The Worrywarts Pamela Duncan Edwards
 
 10 Readers
 
@@ -3212,7 +3212,7 @@ Squirrel
 
 Stinkbug
 
-**The Worrywarts Pamela Duncan Edwards**
+## The Worrywarts Pamela Duncan Edwards
 
 One warm Wednesday morning, the sun winked through Wombat’s window and
 woke her up.

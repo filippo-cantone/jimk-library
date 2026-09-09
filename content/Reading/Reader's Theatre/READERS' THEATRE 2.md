@@ -3,18 +3,18 @@ title: "READERS' THEATRE 2"
 source_file: "Reading/Reader's Theatre/READERS' THEATRE 2.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
-**READERS’ THEATRE 2**
+## READERS’ THEATRE 2
 
-<img src="assets/READERS' THEATRE 2/media/image1.png"
-style="width:3.57569in;height:3.48889in" />
+<img src="assets/READERS' THEATRE 2/media/image1.png" />
 
-<img src="assets/READERS' THEATRE 2/media/image1.png"
-style="width:2.60417in;height:2.54167in" />
+<img src="assets/READERS' THEATRE 2/media/image1.png" />
 
-**Readers’ Theatre 2**
+## Readers’ Theatre 2
 
 The Garden of Abdul Gasazi Chris Van Allsburg
 
@@ -62,7 +62,7 @@ The Watertower Gary Crew
 
 Nothing Ever Happens on 90<sup>th</sup> Street Roni Schotter
 
-**The Garden of Abdul Gasazi Chris Van Allsburg**
+## The Garden of Abdul Gasazi Chris Van Allsburg
 
 4 Readers
 
@@ -74,7 +74,7 @@ Gasazi the Great
 
 Miss Hester
 
-**The Garden of Abdul Gasazi Chris Van Allsburg**
+## The Garden of Abdul Gasazi Chris Van Allsburg
 
 Six times Miss Hester’s dog fritz had bitten dear cousin Eunice. So when
 Miss Hester received an invitation to visit Eunice she was not surprised
@@ -184,7 +184,7 @@ yard. He came trotting up the front steps with something in his mouth
 and dropped it at Miss Hester’s feet. “Why you bad dog,” she said. “What
 are you doing with Alan’s hat?”
 
-**Bigfoot Cinderrrrrella Tony Johnston**
+## Bigfoot Cinderrrrrella Tony Johnston
 
 6 Readers
 
@@ -415,7 +415,7 @@ they followed these rules carefully:
 
 *No kick royal family.*
 
-**The Three Questions Jon Muth**
+## The Three Questions Jon Muth
 
 7 Readers
 
@@ -433,7 +433,7 @@ Leo the turtle
 
 The Panda (one line)
 
-**The Three Questions Jon Muth**
+## The Three Questions Jon Muth
 
 There was once a boy named Nikolai who sometimes felt uncertain about
 the right way to act. “I want to be a good person,” he told his friends.
@@ -719,7 +719,7 @@ been.
 
 And they all lived sloppily ever after.
 
-**Jumanji Chris Van Allsburg**
+## Jumanji Chris Van Allsburg
 
 7 Readers
 
@@ -737,7 +737,7 @@ The Guide
 
 Mrs Budwing
 
-**Jumanji Chris Van Allsburg**
+## Jumanji Chris Van Allsburg
 
 “Now remember,” Mother said, “your father and I are bringing some guests
 by after the opera, so please keep the house neat.”
@@ -969,7 +969,7 @@ Budwing. They were looking out the window. Two boys were running through
 the park. They were Danny and Walter Budwing, and Danny had a long, thin
 box under his arm.
 
-**Bear Has a Story to Tell Philip Stead**
+## Bear Has a Story to Tell Philip Stead
 
 6 Readers
 
@@ -985,7 +985,7 @@ Frog
 
 Mole (one line)
 
-**Bear Has a Story to Tell Philip Stead**
+## Bear Has a Story to Tell Philip Stead
 
 It was almost winter and Bear was getting sleepy. But first, Bear had a
 story to tell.
@@ -1083,7 +1083,7 @@ and began his story with …
 
 “It was almost winter and Bear was getting sleepy.”
 
-**The Three Silly Billies Margie Palatini**
+## The Three Silly Billies Margie Palatini
 
 11 Readers
 
@@ -1109,7 +1109,7 @@ Jack
 
 Giant (one line)
 
-**The Three Silly Billies Margie Palatini**
+## The Three Silly Billies Margie Palatini
 
 The Three Silly Billies were ready to kick up their heels and have some
 fun in the sun. They packed up their old jalopy, and with a spit, a
@@ -1291,7 +1291,7 @@ Is that a troll I smell? … Yummy yum yum!”
 >
 > management
 
-**The Three Billy Goats Gruff**
+## The Three Billy Goats Gruff
 
 5 Readers
 
@@ -1305,7 +1305,7 @@ Big Billy Goat Gruff
 
 Troll
 
-**The Three Billy Goats Gruff**
+## The Three Billy Goats Gruff
 
 Once upon a time there were three Billy Goats Gruff. There was Little
 Billy Goat Gruff, Middle-sized Billy Goat Gruff, and Big Billy Goat
@@ -1379,7 +1379,7 @@ The three Billy Goats Gruff lived happily ever after. They always had
 plenty of sweet green grass to eat, and nobody has ever seen the mean
 Troll again.
 
-**The Three Silly Girls Gruff Elizabeth Wilcock**
+## The Three Silly Girls Gruff Elizabeth Wilcock
 
 6 Readers
 
@@ -1395,7 +1395,7 @@ Billy Goat
 
 Mr Llort
 
-**The Three Silly Girls Gruff Elizabeth Wilcock**
+## The Three Silly Girls Gruff Elizabeth Wilcock
 
 Elizabeth Gruff, Virginia Gruff and Amy Gruff lived in a grand old house
 on Willow Street. Behind their house was an enormous backyard teeming
@@ -1751,7 +1751,7 @@ only we creatures had stuck together, it could have been different.
 Sadly, Little Rabbit left the clearing. He’d go tell other forest
 creatures about the terrible Things. He hoped someone would listen.
 
-**Goldie and the Three Hares Margie Palatini**
+## Goldie and the Three Hares Margie Palatini
 
 6 Readers
 
@@ -1767,7 +1767,7 @@ Bunny
 
 Alice (one line)
 
-**Goldie and the Three Hares Margie Palatini**
+## Goldie and the Three Hares Margie Palatini
 
 Papa Hare, Mama Hare, and Little Baby Hare (also known as Bunny) were
 enjoying a quiet, peaceful, lovely day at home down their rabbit hole.
@@ -1926,11 +1926,11 @@ Baby Hare saw the big little girl eyeing his “just right” little bed.
 
 “I’ve had it!” said Bunny, speed-dialling. “I’m calling – the Bears.”
 
-**“DA BEARS?”**
+## “DA BEARS?”
 
 “Uh. Gotta go. Good-bye. So long. See you.
 
-**Arrivederci, rabbits!”**
+## Arrivederci, rabbits!”
 
 The big little girl with the big swollen foot scooted out of the Hare
 house without even an aachoo and ran up the rabbit hole, past that lulu
@@ -1955,7 +1955,7 @@ stoop!”
 
 “I have *got* to fix that lulu of a first step.”
 
-**Little Red Writing Joan Holub**
+## Little Red Writing Joan Holub
 
 9 Readers
 
@@ -1977,7 +1977,7 @@ Wolf 3000
 
 Mr Woodcutter
 
-**Little Red Writing Joan Holub**
+## Little Red Writing Joan Holub
 
 Once upon a time in pencil school, a teacher named Ms 2 told her class,
 “Today we’re going to write a story!”
@@ -2193,7 +2193,7 @@ Con
 
 The Stranger
 
-**The Man Who Could Call Down Owls Eve Bunting**
+## The Man Who Could Call Down Owls Eve Bunting
 
 There was once a man who could call down owls. He wore a cloak of
 softest white and a wide hat with a feather in it, and he carried a
@@ -2329,7 +2329,7 @@ To gather on branches closest to where he stood.
 
 Chirping and screeching and filling the night with love, the owls came.
 
-**Fox Margaret Wild**
+## Fox Margaret Wild
 
 4 Readers
 
@@ -2341,7 +2341,7 @@ Dog
 
 Fox
 
-**Fox Margaret Wild & Ron Brooks**
+## Fox Margaret Wild & Ron Brooks
 
 Through the charred forest, over hot ash, runs Dog, with a bird clamped
 in his big, gentle mouth.
@@ -2453,7 +2453,7 @@ desert. But then she thinks of Dog waking to find her gone.
 
 Slowly, jiggety-hop, she begins the long journey home.
 
-**Hooway for Wodney Wat Helen Lester**
+## Hooway for Wodney Wat Helen Lester
 
 7 Readers
 
@@ -2471,7 +2471,7 @@ Minifeet Mouse
 
 Grizzlefriz Guinea Pig
 
-**Hooway for Wodney Wat Helen Lester**
+## Hooway for Wodney Wat Helen Lester
 
 Poor Wodney. Wodney Wat. His real name was Rodney Rat, but he couldn’t
 pronounce his r’s. To make matters worse, he was a rodent. A wodent.
@@ -2588,7 +2588,7 @@ Rodents never teased Wodney again. He was their hero.
 
 “Woot! Woot! Wooty-toot-toot!”
 
-**Crackers Becky Bloom**
+## Crackers Becky Bloom
 
 7 Readers + some students taking several minor parts
 
@@ -2612,7 +2612,7 @@ Mice Children (2)
 
 Cheese Shop Manager
 
-**Crackers Becky Bloom**
+## Crackers Becky Bloom
 
 One morning Crackers the cat came back from his daily jog and sat down
 for breakfast. He opened the newspaper and turned to the want ads.
@@ -2729,7 +2729,7 @@ Best of all, Crackers was never fired again!
 
 “I always thought I belonged in a cheese shop,” he said happily.
 
-**The Name Jar Yangsook Choi**
+## The Name Jar Yangsook Choi
 
 12 Readers
 
@@ -3096,7 +3096,7 @@ paper next to her name.
 
 And Chinku smiled back.
 
-**The Wolf Who Cried Boy Bob Hartman**
+## The Wolf Who Cried Boy Bob Hartman
 
 4 Readers
 
@@ -3108,7 +3108,7 @@ Father Wolf
 
 Mother Wolf
 
-**The Wolf Who Cried Boy Bob Hartman**
+## The Wolf Who Cried Boy Bob Hartman
 
 Once upon a time there lived a family of wolves. They stole sheep, ran
 after rabbits and dined on ducklings and deer.
@@ -3260,7 +3260,7 @@ grew fond of Granny Smith Pie. And he never, ever cried “Boy!” again!
 
 And that’s why the boys, at least, lived happily ever after.
 
-**Romeow & Drooliet Nina Laden**
+## Romeow & Drooliet Nina Laden
 
 8 Readers
 
@@ -3546,7 +3546,7 @@ Some live in your heart. So don’t you forget
 
 The tale of Romeow and Drooliet.
 
-**A Wrinkle in Time Madeliene L’Engle**
+## A Wrinkle in Time Madeliene L’Engle
 
 Chapter 7 The Man with the Red Eyes
 
@@ -3560,7 +3560,7 @@ Meg
 
 Man
 
-**A Wrinkle in Time Madeleine L’Engle**
+## A Wrinkle in Time Madeleine L’Engle
 
 The Man with Red Eyes Chapter 7
 
@@ -3713,7 +3713,7 @@ quoting. Like Mrs Who. Meg, I’m scared stiff.”
 
 “So ‘m I.” Meg held his hand more tightly.
 
-**Why Mosquitoes Buzz in People’s Ears Verna Aardema**
+## Why Mosquitoes Buzz in People’s Ears Verna Aardema
 
 9 Readers
 
@@ -3901,7 +3901,7 @@ at me?”
 
 When she does that, she gets an honest answer.
 
-**The Watertower Gary Crew**
+## The Watertower Gary Crew
 
 3 Readers
 
@@ -4062,7 +4062,7 @@ happened to me, won’t she?” He shut the hatch with a thud.
 
 Deep in the tank, the water eddied and swirled.
 
-**Nothing Ever Happens on 90<sup>th</sup> Street Roni Schotter**
+## Nothing Ever Happens on 90<sup>th</sup> Street Roni Schotter
 
 12 Readers
 

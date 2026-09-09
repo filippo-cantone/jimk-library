@@ -3,7 +3,9 @@ title: "Nonfiction"
 source_file: "Reading/Nonfiction.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
 > **INQUIRY BASED APPROACH**
@@ -150,7 +152,7 @@ tags: [jim-k]
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -170,7 +172,7 @@ tags: [jim-k]
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -251,7 +253,7 @@ This can be modelled, with gradual release of responsibility to the
 students. Children then customise their data charts to their Question
 and Structure.
 
-**Narrowing the Search**
+## Narrowing the Search
 
 Students begin to take notes that will answer their research questions.
 
@@ -273,12 +275,12 @@ This can be modelled using:
 
 - Independent work
 
-**Recording and Organising Relevant Data**
+## Recording and Organising Relevant Data
 
 Using the data chart, students decide how to order the information they
 will use. This may be as simple as numbering their notes.
 
-**Going from Data to First Draft**
+## Going from Data to First Draft
 
 Revise writing mini-lessons.
 
@@ -288,10 +290,10 @@ Logical progression of ideas
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -367,7 +369,7 @@ little questions.
 
 Ref: *Knowing How*
 
-**Nonfiction Writing**
+## Nonfiction Writing
 
 E.g. Look at Handouts on
 
@@ -377,7 +379,7 @@ E.g. Look at Handouts on
 
 \- Endings
 
-**Instructional Method**
+## Instructional Method
 
 - Name the Strategy
 
@@ -392,7 +394,7 @@ E.g. Look at Handouts on
 - Students share how they have used this strategy. This is where share
   time is a learning time – not every student reading their work.
 
-**Strategies to Connect One Paragraph to the Next**
+## Strategies to Connect One Paragraph to the Next
 
 Teachers can collect strategies from nonfiction books/magazines, as well
 as student samples.
@@ -548,51 +550,51 @@ Nov/Dec 2001
 
 The author begins by posing a thought provoking, open-ended question.
 
-**“Imagine”**
+## “Imagine”
 
 The author hooks the reader by drawing him directly into a scene that
 evokes another time, place, or situation. The word “imagine” often
 occurs in this lead.
 
-**Guess who or what**
+## Guess who or what
 
 The author immediately snatches the reader’s attention by inviting him
 to solve a riddle.
 
-**Common Reaction**
+## Common Reaction
 
 With this strategy the author begins with a generally held impression of
 her topic.
 
-**Right to the Point**
+## Right to the Point
 
 The author begins with one short, clear, declarative sentence that
 states the main idea. The curt statement begs for a fuller explanation,
 which is found in the remainder of the text.
 
-**Series of Intriguing Questions**
+## Series of Intriguing Questions
 
 The writer provides a series of well-designed, open-ended questions that
 may appear to be unconnected. The questions urge the reader on, setting
 up the expectation that the questions will be answered and that the
 relationship that ties them together will be revealed.
 
-**Question and Two-Word Questions**
+## Question and Two-Word Questions
 
 The author begins by asking one major question and then breaks this
 question down into a series of two-word subquestions.
 
-**Hanging On**
+## Hanging On
 
 The author provides a series of clues, which the reader uses to uncover
 the identity of the topic.
 
-**Past to Present**
+## Past to Present
 
 The author makes a connection with the past. He notes how things once
 were and then moves to the present.
 
-**Indisputable Fact**
+## Indisputable Fact
 
 The writer leads off with a statement that is unquestionable; one with
 which everyone could agree.
@@ -602,11 +604,11 @@ which everyone could agree.
 There is a problem. The author clearly identifies it in the lead
 sentence.
 
-**Anecdote**
+## Anecdote
 
 The writer shares a short story that relates to the topic.
 
-**Inside Someone’s Head**
+## Inside Someone’s Head
 
 With this strategy, the author reveals what someone or something is
 thinking.
@@ -616,7 +618,7 @@ thinking.
 The lead immediately introduces the reader to the issue at hand and the
 step(s) taken to address the issue.
 
-**Paradox (Something that goes against common sense)**
+## Paradox (Something that goes against common sense)
 
 With this strategy, there appears to be a contradiction between what has
 been written and what we believe to be true.
@@ -628,42 +630,42 @@ been written and what we believe to be true.
 The article concludes with the author wondering about future
 possibilities for his topic.
 
-**Posing a Question**
+## Posing a Question
 
 The author asks a thought-provoking question to get the reader to
 continue to think about the topic after the piece has been read.
 
-**Ask a Question and Answer It**
+## Ask a Question and Answer It
 
 The author concludes by asking a question and then supplying the answer
 in the same paragraph.
 
-**“Although”**
+## “Although”
 
 The author ends the writing by contrasting a piece of information with
 the main point of the article. The first word of this conclusion is
 “although”.
 
-**“Finally”**
+## “Finally”
 
 Many writers signal the end of their piece by beginning the last
 paragraph with the word “finally.”
 
-**Help**
+## Help
 
 The author lets the reader know that help is needed.
 
-**No Doubt About It**
+## No Doubt About It
 
 The author ends the piece by drawing one indisputable conclusion about
 her topic. Phrases such as “one thing seems certain,” “Without a doubt,”
 or “There is no question” may signal the use of this strategy.
 
-**Giving Advice**
+## Giving Advice
 
 The author ends the piece by providing a bit of advice or a suggestion.
 
-**Sharing an Emotion**
+## Sharing an Emotion
 
 The author describes the emotional effect the topic has had on him.
 
@@ -672,29 +674,29 @@ The author describes the emotional effect the topic has had on him.
 The author concludes by telling the reader what the final step in a
 sequence of events will be.
 
-**Right Now**
+## Right Now
 
 The author concludes by bringing the reader up-to-date. He describes the
 topic’s current condition, often using the word “today” to signal this
 strategy.
 
-**“No Matter” Plus Draw a Conclusion**
+## “No Matter” Plus Draw a Conclusion
 
 The author begins with the words “No matter.” Next she draws a
 conclusion.
 
-**Providing a Summary**
+## Providing a Summary
 
 The author recaps the key points in the article or report in the last
 paragraph.
 
-**Connecting Beginning and End**
+## Connecting Beginning and End
 
 The author connects information from the first paragraph to information
 in the final paragraph. Often the same words are repeated in both parts
 of the report or article.
 
-**Quote**
+## Quote
 
 The author finds an appropriate quote from her research that can bring
 closure to the piece.
@@ -712,7 +714,7 @@ flashlights, they help writers to see where they are heading.”
 
 B.Lane *After the End*
 
-**Presentation**
+## Presentation
 
 What will we teach?
 
@@ -725,4 +727,3 @@ What will we teach?
 - Video
 
 - Oral presentation
-

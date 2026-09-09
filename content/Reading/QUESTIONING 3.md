@@ -3,15 +3,16 @@ title: "QUESTIONING 3"
 source_file: "Reading/QUESTIONING 3.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
-**QUESTIONING 3**
+## QUESTIONING 3
 
-<img src="assets/QUESTIONING 3/media/image1.jpeg"
-style="width:3.34444in;height:3.63681in" />
+<img src="assets/QUESTIONING 3/media/image1.jpeg" />
 
-**Questioning 3**
+## Questioning 3
 
 QAR
 
@@ -31,7 +32,7 @@ Picture–Question–Answer Relationship (P–QAR) Types
 
 Suggested Books for Teaching P-QARs
 
-**QARS - QUESTION-ANSWER-RELATIONSHIP-STRATEGY**
+## QARS - QUESTION-ANSWER-RELATIONSHIP-STRATEGY
 
 > Demonstrates to students that there are different types of questions
 > and possible places for finding answers to those questions.
@@ -147,10 +148,10 @@ Four types of questions are examined in the QAR:
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 27%" />
-<col style="width: 22%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -216,9 +217,9 @@ other texts that relate to this topic</h1></td>
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -310,20 +311,17 @@ next</h1></td>
 
 # 
 
-# <img src="assets/QUESTIONING 3/media/image2.jpeg"
-style="width:5.28125in;height:6.83333in" />
+# <img src="assets/QUESTIONING 3/media/image2.jpeg" />
 
 Books to use with QAR
 
-<img src="assets/QUESTIONING 3/media/image3.jpeg"
-style="width:1.04167in;height:1.42708in" />How to Heal a Broken Wing by
+<img src="assets/QUESTIONING 3/media/image3.jpeg" />How to Heal a Broken Wing by
 Bob Graham
 
 When a young boy spots a hurt bird on a busy city street, he takes it
 home until it can return to the outdoors.
 
-<img src="assets/QUESTIONING 3/media/image4.jpeg"
-style="width:1.04167in;height:1.30208in" />Pale Male: Citizen Hawk of
+<img src="assets/QUESTIONING 3/media/image4.jpeg" />Pale Male: Citizen Hawk of
 New York City by Janet Schulman,
 
 A red-tailed hawk takes up residence in a tiny New York neighbourhood
@@ -357,8 +355,7 @@ Van Allsburg, Chris Jumanji
 
 Yorinks, Arthur Hey, Al
 
-<img src="assets/QUESTIONING 3/media/image5.jpeg"
-style="width:3.125in;height:2.39028in" />
+<img src="assets/QUESTIONING 3/media/image5.jpeg" />
 
 Day after day, brand new ducks roll off a giant assembly line operated
 by alligators at the Colossal Duck Factory. They are loaded into trucks
@@ -385,8 +382,7 @@ Animation.
 
 Writing Craft.
 
-<img src="assets/QUESTIONING 3/media/image6.jpeg"
-style="width:2.69792in;height:2.03125in" />
+<img src="assets/QUESTIONING 3/media/image6.jpeg" />
 
 **Sitting Ducks Michael Bedard QAR**
 
@@ -396,7 +392,7 @@ What is the setting in this picture? (*factory)*
 
 What is the alligator doing? (*punching the time clock)*
 
-**Think and Search**
+## Think and Search
 
 How does the duck’s feelings about the waiter in the diner change?
 
@@ -407,7 +403,7 @@ Why does the duck give the alligator a ticket?
 
 *(He wants the alligator to go to Florida too.)*
 
-**Author/Artist and You**
+## Author/Artist and You
 
 How do you think the duck feels when the waiter in the restaurant shows
 them the daily special? Why?
@@ -418,7 +414,7 @@ What do the ducks seem to be doing?
 
 *(Exercising in order to get in shape to fly south.)*
 
-**On Your Own**
+## On Your Own
 
 In this picture, the egg fell off the assembly line. Why do you think
 this happened?
@@ -429,7 +425,7 @@ Why do you think the alligator put the duck in his lunch pail?
 
 *(Many possible answers.)*
 
-**Sitting Ducks Michael Bedard**
+## Sitting Ducks Michael Bedard
 
 Day after day, a steady supply of ducks rolled off the assembly line at
 the Colossal Duck Factory. Alligators pushed buttons and pulled levers
@@ -551,8 +547,8 @@ Life was good at the Flapping Arms Seaside Resort.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -607,35 +603,27 @@ hopelessly, vigorously, suddenly,</em></p>
 </tbody>
 </table>
 
-<img src="assets/QUESTIONING 3/media/image7.jpeg"
-style="width:6.79167in;height:3.89583in" />
+<img src="assets/QUESTIONING 3/media/image7.jpeg" />
 
-<img src="assets/QUESTIONING 3/media/image8.jpeg"
-style="width:5.75in;height:3.79167in" />
+<img src="assets/QUESTIONING 3/media/image8.jpeg" />
 
-<img src="assets/QUESTIONING 3/media/image9.jpeg"
-style="width:4.5in;height:3.33333in" />
+<img src="assets/QUESTIONING 3/media/image9.jpeg" />
 
-<img src="assets/QUESTIONING 3/media/image10.jpeg"
-style="width:3.75in;height:2.8125in" />
+<img src="assets/QUESTIONING 3/media/image10.jpeg" />
 
-<img src="assets/QUESTIONING 3/media/image11.jpeg"
-style="width:8.33333in;height:4.33194in" />
+<img src="assets/QUESTIONING 3/media/image11.jpeg" />
 
-<img src="assets/QUESTIONING 3/media/image12.jpeg"
-style="width:8.33333in;height:4.32292in" />
+<img src="assets/QUESTIONING 3/media/image12.jpeg" />
 
-**Fables by Arnold Lobel QAR**
+## Fables by Arnold Lobel QAR
 
-<img src="assets/QUESTIONING 3/media/image13.jpeg"
-style="width:2.14583in;height:2.91597in" />
+<img src="assets/QUESTIONING 3/media/image13.jpeg" />
 
 This collection tells the stories of a selfish lion, a lovesick ostrich,
 a greedy hippopotamus, a vain rhinoceros, a proud camel, the timid duck
 sisters, and others, and the lessons that they learnt.
 
-<img src="assets/QUESTIONING 3/media/image14.jpeg"
-style="width:1.5in;height:1.64583in" />
+<img src="assets/QUESTIONING 3/media/image14.jpeg" />
 
 The American author or illustrator of nearly 100 children's books,
 Arnold Stark Lobel is best remembered for his classic series of Frog and
@@ -657,15 +645,14 @@ Saved the Day (1977), A Treeful of Pigs (1979), and The Rose in My
 Garden (1984). He also illustrated The Random House Book of Poetry for
 Children (1983) and The Random House Book of Mother Goose (1986).
 
-<img src="assets/QUESTIONING 3/media/image15.jpeg"
-style="width:4.875in;height:2.58333in" />
+<img src="assets/QUESTIONING 3/media/image15.jpeg" />
 
 QAR and Arnold Lobel Fables
 
 The following questions are based on fables found in Fables by Arnold
 Lobel.
 
-**Madame Rhinoceros and Her Dress Arnold Lobel**
+## Madame Rhinoceros and Her Dress Arnold Lobel
 
 Madame Rhinoceros saw a dress in a shop window. It was covered with
 polka dots and flowers. It was adorned with ribbons and lace. She
@@ -707,7 +694,7 @@ Madame Rhinoceros felt more glamourous and alluring with every step.
 
 *Nothing is harder to resist than a bit of flattery.*
 
-**Madame Rhinoceros and Her Dress**
+## Madame Rhinoceros and Her Dress
 
 On My Own
 
@@ -741,10 +728,9 @@ Camel Dances.
 Compare and contract Madame Rhinoceros and the Bear in the fable The
 Bear and the Crow.
 
-<img src="assets/QUESTIONING 3/media/image16.jpeg"
-style="width:2.34375in;height:3.69792in" />
+<img src="assets/QUESTIONING 3/media/image16.jpeg" />
 
-**The Baboon's Umbrella Arnold Lobel**
+## The Baboon's Umbrella Arnold Lobel
 
 The Baboon was taking his daily walk in the jungle. He met his friend,
 the Gibbon, on the path.
@@ -777,7 +763,7 @@ the skin.
 *Advice from others can be like the weather. Some of it is good; some of
 it is bad.*
 
-**The Bad Kangaroo Arnold Lobel**
+## The Bad Kangaroo Arnold Lobel
 
 There was a small Kangaroo who was bad in school. He put thumbtacks on
 the teacher’s chair. He threw spitball across the classroom. He set off
@@ -819,7 +805,7 @@ dining-room table.
 
 *A child´s conduct will reflect the ways of his parents.*
 
-**The Ducks and the Fox Arnold Lobel**
+## The Ducks and the Fox Arnold Lobel
 
 Two Duck sisters were waddling down the road to the pond for their
 morning swim.
@@ -866,10 +852,9 @@ pond.
 
 *At times, a change of routine can be most healthful*.
 
-<img src="assets/QUESTIONING 3/media/image17.jpeg"
-style="width:1.69792in;height:2.67292in" />
+<img src="assets/QUESTIONING 3/media/image17.jpeg" />
 
-**The Ducks and the Fox**
+## The Ducks and the Fox
 
 On My Own
 
@@ -912,7 +897,7 @@ Why do you think the second Duck sister is so reluctant to change?
 What Fox behaviours might have warned the Sisters to be suspicious of
 him even before he attacked them?
 
-**The Hen and the Apple Tree Arnold Lobel**
+## The Hen and the Apple Tree Arnold Lobel
 
 One October day, a Hen looked out her window. She saw an apple tree
 growing in her backyard.
@@ -957,7 +942,7 @@ hungry rage.
 
 *It is always difficult to pose as something that one is not.*
 
-**The Hen and the Apple Tree**
+## The Hen and the Apple Tree
 
 On My Own
 
@@ -995,7 +980,7 @@ tree was the wolf in disguise?
 
 Do you think Wolf was a character to be admired – why or why not?
 
-**The Hippopotamus at Dinner Arnold Lobel**
+## The Hippopotamus at Dinner Arnold Lobel
 
 The Hippopotamus went into a restaurant and sat at his favorite table.
 
@@ -1036,7 +1021,7 @@ Occasionally, he burped.
 
 *Too much of anything often leaves one with a feeling of regret.*
 
-**The Hippopotamus at Dinner**
+## The Hippopotamus at Dinner
 
 On My Own
 
@@ -1070,7 +1055,7 @@ Do you think the Hippopotamus has good manners?
 
 Do you think Hippopotamus learned a lesson in this fable?
 
-**The Young Rooster Arnold Lobel**
+## The Young Rooster Arnold Lobel
 
 A young Rooster was summoned to his Father’s bedside.
 
@@ -1116,7 +1101,7 @@ the tip of the morning sun coming up over the trees.
 
 *A first failure may prepare the way for later success.*
 
-**The Camel Dances Arnold Lobel**
+## The Camel Dances Arnold Lobel
 
 The camel had her heart set on becoming a ballet dancer.
 
@@ -1150,7 +1135,7 @@ That is what she did. It gave her many years of pleasure.
 
 *Satisfaction will come to those who please themselves.*
 
-**The Camel Dances**
+## The Camel Dances
 
 On My Own
 
@@ -1193,10 +1178,9 @@ fable and why:
 
  If a job is worth doing, it is worth doing well.
 
-<img src="assets/QUESTIONING 3/media/image18.jpeg"
-style="width:4.19931in;height:7.00069in" />
+<img src="assets/QUESTIONING 3/media/image18.jpeg" />
 
-**The Pelican and the Crane Arnold Lobel**
+## The Pelican and the Crane Arnold Lobel
 
 The Crane invited the Pelican to tea.
 
@@ -1235,7 +1219,7 @@ called for his maid to clean up the mess.
 
 *When one is a social failure, the reasons are as clear as day.*
 
-**The Pelican and the Crane**
+## The Pelican and the Crane
 
 On My Own
 
@@ -1264,7 +1248,7 @@ their home?
 
 Do you think Crane will invite Pelican again?
 
-**The Crocodile in the Bedroom Arnold Lobel**
+## The Crocodile in the Bedroom Arnold Lobel
 
 A Crocodile became increasingly fond of the wallpaper in his bedroom. He
 stared at it for hours and hours.
@@ -1301,10 +1285,9 @@ the walls. He turned a very pale and sickly shade of green.
 
 *Without a doubt, there is such a thing as too much order.*
 
-<img src="assets/QUESTIONING 3/media/image19.png"
-style="width:4.375in;height:6.75in" />
+<img src="assets/QUESTIONING 3/media/image19.png" />
 
-**The Crocodile in the Bedroom**
+## The Crocodile in the Bedroom
 
 On My Own
 
@@ -1384,7 +1367,7 @@ King Lion was covered with wet mud.
 
 *It is the high and mighty who have the longest distance to fall.*
 
-**King Lion and the Beetle**
+## King Lion and the Beetle
 
 On My Own
 
@@ -1422,7 +1405,7 @@ Do you think the beetle planned to make King Lion fall into the mud?
 
 How do you think King Lion dressed the next time he went for a walk?
 
-**The Lobster and the Crab Arnold Lobel**
+## The Lobster and the Crab Arnold Lobel
 
 On a stormy day, the Crab went strolling along the beach. He was
 surprised to see the Lobster preparing to set sail in his boat.
@@ -1467,10 +1450,9 @@ of the ordinary.
 
 *Even the taking of small risks will add excitement to life.*
 
-<img src="assets/QUESTIONING 3/media/image20.jpeg"
-style="width:3.04792in;height:4.06736in" />
+<img src="assets/QUESTIONING 3/media/image20.jpeg" />
 
-**The Lobster and the Crab**
+## The Lobster and the Crab
 
 On My Own
 
@@ -1516,7 +1498,7 @@ Think about an adventure you had. If you were going to write the story,
 what are some sentences you might write that could be punctuated with an
 exclamation point?
 
-**The Frogs at the Rainbow’s End**
+## The Frogs at the Rainbow’s End
 
 MORAL: “The highest hopes may lead to the greatest disappointment.”
 
@@ -1554,7 +1536,7 @@ of gold?
 
 Why are so many fables and fairy tales written about finding a treasure?
 
-**The Bear and the Crow**
+## The Bear and the Crow
 
 On My Own
 
@@ -1586,7 +1568,7 @@ What lesson has the Bear learned by being fooled?
 
 What is another way to explain the lesson or the moral of the fable?
 
-**The Cat and His Visions**
+## The Cat and His Visions
 
 On My Own
 
@@ -1620,7 +1602,7 @@ Demonstrate how the cat’s face looked after supper.
 Why do you think the cat was so persistent? Why didn’t he give up after
 the first hour?
 
-**The Mouse at the Seashore**
+## The Mouse at the Seashore
 
 On My Own
 
@@ -1640,8 +1622,7 @@ Author and Me
 
 Do you think Mouse will ever go on another trip?
 
-<img src="assets/QUESTIONING 3/media/image21.jpeg"
-style="width:2.57292in;height:4.16667in" />
+<img src="assets/QUESTIONING 3/media/image21.jpeg" />
 
 **Purpose and Meaning of the**
 
@@ -1649,8 +1630,8 @@ style="width:2.57292in;height:4.16667in" />
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1689,7 +1670,7 @@ what they have noticed across</p>
 </tbody>
 </table>
 
-**Tuesday by David Wiesner P-QARs**
+## Tuesday by David Wiesner P-QARs
 
 A few examples of questions for this story are as follows:
 
@@ -1743,7 +1724,7 @@ make predictions about the story and understand what is happening*.*
 
 *Ref: Read Write Think*
 
-**Suggested Books for Teaching P-QARs**
+## Suggested Books for Teaching P-QARs
 
 Aardema, Verna Why Mosquitoes Buzz in People’s Ears
 
@@ -1779,10 +1760,9 @@ Wiesner, David Tuesday
 
 Wiesner, David Sector 7
 
-<img src="assets/QUESTIONING 3/media/image22.jpeg"
-style="width:4.16667in;height:4.16667in" />
+<img src="assets/QUESTIONING 3/media/image22.jpeg" />
 
-**Questioning and our Author Studies**
+## Questioning and our Author Studies
 
 Some of the best books for Questioning are by authors we have included
 in our Author Studies course. Notes on most of these books can be found

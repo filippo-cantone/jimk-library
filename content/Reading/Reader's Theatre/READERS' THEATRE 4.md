@@ -3,16 +3,18 @@ title: "READERS' THEATRE 4"
 source_file: "Reading/Reader's Theatre/READERS' THEATRE 4.docx"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
-**READERS’ THEATRE 4**
+## READERS’ THEATRE 4
 
 *[embedded image omitted -- see original file]*
 
 *[embedded image omitted -- see original file]*
 
-**Readers’ Theatre 4**
+## Readers’ Theatre 4
 
 Two Parts
 
@@ -76,7 +78,7 @@ Goggles Ezra Jack Keats
 
 Pet Show Ezra Jack Keats
 
-**The Secret Circus Johanna Wright**
+## The Secret Circus Johanna Wright
 
 Somewhere deep in the city of Paris,
 
@@ -134,7 +136,7 @@ know how to keep the circus …
 
 secret.
 
-**Wolf Won’t Bite Emily Gravett**
+## Wolf Won’t Bite Emily Gravett
 
 *[embedded image omitted -- see original file]*
 
@@ -164,7 +166,7 @@ We can even place our heads between his mighty jaws but WOLF WON’T …
 
 BITE!
 
-**Four Furry Seals Jack Prelutsky**
+## Four Furry Seals Jack Prelutsky
 
 Four furry seals, four funny fat seals
 
@@ -208,7 +210,7 @@ Ork! Ork! Ork!
 
 *[embedded image omitted -- see original file]*
 
-**That’s Good! That’s Bad! Margery Cuyler**
+## That’s Good! That’s Bad! Margery Cuyler
 
 One day a little boy went to the zoo with his mother and father. They
 bought him a shiny red balloon. It lifted him high up into the sky, WOW!
@@ -325,7 +327,7 @@ Oh, that’s good.
 
 *No, that’s GREAT!*
 
-**Fortunately Remy Charlip**
+## Fortunately Remy Charlip
 
 Fortunately one day, Ned got a letter that said, “Please Come to a
 Surprise Party.”
@@ -370,7 +372,7 @@ And fortunately the party was for him, because fortunately
 
 it was his birthday!
 
-**Yay! Emily Rodda**
+## Yay! Emily Rodda
 
 We’re going to Crazy Family Fun World. Yay!
 
@@ -470,7 +472,7 @@ all over again. Yay!
 
 This day has been the BEST!
 
-**In a Dark Dark Wood**
+## In a Dark Dark Wood
 
 In a dark dark wood,
 
@@ -500,7 +502,7 @@ And in that dark dark box,
 
 there was a....GHOST.
 
-**A Dark, Dark Tale Ruth Brown**
+## A Dark, Dark Tale Ruth Brown
 
 Once upon a time there
 
@@ -556,7 +558,7 @@ Was … A MOUSE!
 
 *[embedded image omitted -- see original file]*
 
-**Outside, Inside Carolyn Crimi**
+## Outside, Inside Carolyn Crimi
 
 Outside, black clouds sink down to the bottom of the sky.
 
@@ -642,7 +644,7 @@ and lets the outside in!
 >
 > **Yow!**
 
-**MEANIES Joy Cowley**
+## MEANIES Joy Cowley
 
 Where do meanies sleep?
 
@@ -856,7 +858,7 @@ world!”
 
 And together they went for one last SPLASHY slide!
 
-**Seven Blind Mice Ed Young**
+## Seven Blind Mice Ed Young
 
 8 Readers
 
@@ -876,7 +878,7 @@ Blue Mouse
 
 White Mouse
 
-**Seven Blind Mice Ed Young**
+## Seven Blind Mice Ed Young
 
 One day seven blind mice were surprised to find a strange something by
 their pond.
@@ -944,7 +946,7 @@ The Mouse Moral:
 Knowing in part may make a fine tale, but wisdom comes from seeing the
 whole.
 
-**Little Pink Pig Pat Hutchins**
+## Little Pink Pig Pat Hutchins
 
 9 Readers
 
@@ -962,7 +964,7 @@ Cow
 
 2 Hens
 
-**Little Pink Pig Pat Hutchins**
+## Little Pink Pig Pat Hutchins
 
 “Hurry up, Little Pink Pig,” said Little Pink Pig’s mother. “It’s time
 you were in bed.”
@@ -1065,7 +1067,7 @@ And this time Little Pink Pig heard them.
 
 “Wait for me!” squealed Little Pink Pig.
 
-**Corduroy Don Freeman**
+## Corduroy Don Freeman
 
 6 Readers
 
@@ -1081,7 +1083,7 @@ Watchman
 
 Saleslady (one line)
 
-**Corduroy Don Freeman**
+## Corduroy Don Freeman
 
 Corduroy is a bear who once lived in the toy department of a big store.
 Day after day he waited with all the other animals and dolls for
@@ -1231,7 +1233,7 @@ That sly, slippery slope was simply a sham. Such a shock, such a shame.
 
 Such a succulent slug!
 
-**The Secret Shortcut Mark Teague**
+## The Secret Shortcut Mark Teague
 
 4 Readers
 
@@ -1243,7 +1245,7 @@ Floyd
 
 Ms Gernsblatt
 
-**The Secret Shortcut Mark Teague**
+## The Secret Shortcut Mark Teague
 
 On Monday, Wendell and Floyd were late for school.
 
@@ -1469,7 +1471,7 @@ Queen of the Trampoline?”
 
 “Maybe.”
 
-**McDuff Moves In Rosemary Wells**
+## McDuff Moves In Rosemary Wells
 
 6 Readers
 
@@ -1485,7 +1487,7 @@ Lucy
 
 Fred
 
-**McDuff Moves In Rosemary Wells**
+## McDuff Moves In Rosemary Wells
 
 In the back of a dogcatcher’s truck sat a little white dog nobody
 wanted.
@@ -1574,7 +1576,7 @@ Lucy and Fred and McDuff fell sound asleep.
 
 “How happy we are!” they said in their dreams.
 
-**McDuff Saves the Day Rosemary Wells**
+## McDuff Saves the Day Rosemary Wells
 
 6 Readers
 
@@ -1590,7 +1592,7 @@ Mr DiMaggio
 
 Baby
 
-**McDuff Saves the Day Rosemary Wells**
+## McDuff Saves the Day Rosemary Wells
 
 It was the Fourth of July/ Lucy and Fred took McDuff and the baby for a
 picnic at Lake Ocarina.
@@ -1719,7 +1721,7 @@ got into the driver’s seat, and McDuff came in the front seat.
 
 “Yes,” said Lucy, “but after all, he saved the day!”
 
-**McDuff’s New Friend Rosemary Wells**
+## McDuff’s New Friend Rosemary Wells
 
 5 Readers
 
@@ -1733,7 +1735,7 @@ Lucy
 
 Santa
 
-**McDuff’s New Friend Rosemary Wells**
+## McDuff’s New Friend Rosemary Wells
 
 It was Christmas Eve. Lucy and Fred and McDuff scanned the snowy skies
 for a glimpse of Santa Claus’s sleigh.
@@ -1813,7 +1815,7 @@ McDuff’s present was a new friend.
 She drank three eggcups of milk in a row. Then she settled against
 McDuff’s warm side. And everyone slept until Christmas afternoon.
 
-**McDuff Goes to School Rosemary Wells**
+## McDuff Goes to School Rosemary Wells
 
 9 Readers
 
@@ -1834,7 +1836,7 @@ Pierre
 Trainer
 
 Judge  
-**McDuff Goes to School Rosemary Wells**
+## McDuff Goes to School Rosemary Wells
 
 A new name was painted on the mailbox at number nine Elm Road.
 Marie-Antoinette sat among the movers’ boxes. She kept her eye on
@@ -1934,7 +1936,7 @@ Celeste made a grand French picnic to celebrate the two winners.
 
 “*Ouf!”* said McDuff.
 
-**Glossary**
+## Glossary
 
 *a bas* (ah-BAH): get down
 
@@ -1950,7 +1952,7 @@ Celeste made a grand French picnic to celebrate the two winners.
 
 *viens* (vyehn): come
 
-**Frederick Leo Lionni**
+## Frederick Leo Lionni
 
 5 Readers
 
@@ -1959,7 +1961,7 @@ Narrator
 Frederick
 
 3 Mice (any number)  
-**Frederick Leo Lionni**
+## Frederick Leo Lionni
 
 All along the meadow where the cows grazed and the horses ran, there was
 an old stone wall. In that wall, not far from the barn and the granary,
@@ -2043,7 +2045,7 @@ said, “you are a poet!”
 
 Frederick blushed, took a bow, and said shyly, “I know it.”
 
-**I Have to Go Robert Munsch**
+## I Have to Go Robert Munsch
 
 6 Readers
 
@@ -2058,7 +2060,7 @@ Father
 Grandma
 
 Grandpa  
-**I HAVE TO GO Robert Munsch**
+## I HAVE TO GO Robert Munsch
 
 One day Andrew’s mother and father were taking him to see his grandma
 and grandpa. Before they put him in the car his mother said, “Andrew, do
@@ -2133,7 +2135,7 @@ say he had to go pee.”
 
 Then Andrew said, “I wet my bed.”
 
-**Peter’s Chair Ezra Jack Keats**
+## Peter’s Chair Ezra Jack Keats
 
 4 Readers
 
@@ -2145,7 +2147,7 @@ Mother
 
 Father
 
-**Peter’s Chair Ezra Jack Keats**
+## Peter’s Chair Ezra Jack Keats
 
 Peter stretched as high as he could. There! His tall building was
 finished. CRASH! Down it came.
@@ -2201,7 +2203,7 @@ Peter sat in a grown-up chair. His father sat next to him.
 
 And they did.
 
-**Goggles! Ezra Jack Keats**
+## Goggles! Ezra Jack Keats
 
 4 Readers
 
@@ -2213,7 +2215,7 @@ Archie
 
 Big Boy
 
-**Goggles! Ezra Jack Keats**
+## Goggles! Ezra Jack Keats
 
 “Archie, look what I found,” Peter shouted through the pipe. “Motorcycle
 goggles!”
@@ -2270,7 +2272,7 @@ Archie laughed and said, “We sure fooled ‘em, didn’t we?”
 
 “They sure do,” said Peter.
 
-**Pet Show Ezra Jack Keats**
+## Pet Show Ezra Jack Keats
 
 9 Readers
 
@@ -2291,7 +2293,7 @@ Judge 1
 Judge 2
 
 Old Woman  
-**Pet Show Ezra Jack Keats**
+## Pet Show Ezra Jack Keats
 
 Everyone was talking about the pet show. The kids told each other about
 the pets they would bring. Matt said he would bring ants!

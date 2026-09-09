@@ -3,18 +3,18 @@ title: "READERS' THEATRE 5"
 source_file: "Reading/Reader's Theatre/READERS' THEATRE 5.docx"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
-<img src="assets/READERS' THEATRE 5/media/image1.jpeg"
-style="width:5.67917in;height:3.72639in" alt="drama+masks" />
+<img src="assets/READERS' THEATRE 5/media/image1.jpeg" alt="drama+masks" />
 
-**READERS’ THEATRE 5**
+## READERS’ THEATRE 5
 
-<img src="assets/READERS' THEATRE 5/media/image1.jpeg"
-style="width:3.67014in;height:2.40556in" alt="drama+masks" />
+<img src="assets/READERS' THEATRE 5/media/image1.jpeg" alt="drama+masks" />
 
-**Readers’ Theatre 5**
+## Readers’ Theatre 5
 
 The Magician’s Elephant Kate DiCamillo
 
@@ -48,7 +48,7 @@ Crow and the Waterhole Ambelin Kwaymullina
 
 Knots on a Counting Rope Bill Martin Jr.
 
-**The Magician’s Elephant Kate DiCamillo**
+## The Magician’s Elephant Kate DiCamillo
 
 4 Readers
 
@@ -60,7 +60,7 @@ Fortuneteller
 
 Vilna Lutz
 
-**The Magician’s Elephant Kate DiCamillo**
+## The Magician’s Elephant Kate DiCamillo
 
 > **A**t the end of the century before last, in the market square of the
 > city of Baltese, there stood a boy with a hat on his head and a coin
@@ -479,7 +479,7 @@ himself, already planning the world tour of Bellini and Mirette.
 As for the master and his pupil, they were thinking only of the wire,
 and of crossing to the end.
 
-**The Happy Prince Oscar Wilde**
+## The Happy Prince Oscar Wilde
 
 6 Readers
 
@@ -495,7 +495,7 @@ Mayor (one line)
 
 God
 
-**The Happy Prince Oscar Wilde**
+## The Happy Prince Oscar Wilde
 
 **High above the city, on a tall column, stood the statue of the Happy
 Prince. He was gilded all over with thin leaves of fine gold, for eyes
@@ -685,7 +685,7 @@ more.”**
 **  
 **
 
-**How Echidna got his Quills L.& G. Adams**
+## How Echidna got his Quills L.& G. Adams
 
 8 Readers
 
@@ -705,7 +705,7 @@ Eagle
 
 Great One
 
-**How Echidna got his Quills L.& G. Adams**
+## How Echidna got his Quills L.& G. Adams
 
 In the very beginning the world was empty and silent. There were no
 animals in the bush. No birds to sing their songs. No pretty butterflies
@@ -947,7 +947,7 @@ thank you, Great One. Thank you!”
 And giving his nice new quills a proud little shake, Echidna waddled off
 into the bush, never to be bothered by the other animals ever again.
 
-**Piggins Jane Yolen**
+## Piggins Jane Yolen
 
 10 Readers
 
@@ -971,7 +971,7 @@ Lady Ratsby
 
 Lord Ratsby
 
-**Piggins Jane Yolen**
+## Piggins Jane Yolen
 
 *Trit-trot, trit-trot.* That is the sound of Piggins, the butler at 47
 The Meadows, going up the stairs. He has shone the silver teapot so well
@@ -1216,7 +1216,7 @@ front door at 47 The Meadows. He hears the kettle whistling.
 It has been a long and interesting evening. Piggins is tired. Teapot in
 hand, he goes back down the stairs, *Trit-trot, trit-trot, trit-trot.*
 
-**Crickwing Janell Cannon**
+## Crickwing Janell Cannon
 
 7 Readers
 
@@ -1234,7 +1234,7 @@ Eartha
 
 Lieutenant (one line)
 
-**Crickwing Janell Cannon**
+## Crickwing Janell Cannon
 
 Far below the great forest canopy lies a shadowy world that many insects
 call home. Among the damp clutter of fallen leaves and branches,
@@ -2279,7 +2279,7 @@ at me?”
 
 When she does that, she gets an honest answer.
 
-**Verdi Janell Cannon**
+## Verdi Janell Cannon
 
 10 Readers
 
@@ -2301,7 +2301,7 @@ Old Fish
 
 2 Yellow Snakes
 
-**Verdi Janell Cannon**
+## Verdi Janell Cannon
 
 On a small tropical island, the sun rose high above the steamy jungle. A
 mother python was sending her hatchlings out into the forest the way all
@@ -2582,7 +2582,7 @@ And one of them – Seagull – flew right into the heart of Tanglewood.
 
 “We bring you family,” she said.
 
-**From the Elephant Pit**
+## From the Elephant Pit
 
 8 Readers
 
@@ -2602,7 +2602,7 @@ The hunter
 
 The king
 
-**From the Elephant Pit**
+## From the Elephant Pit
 
 (Tibet)  
 *A* hunter once dug a pit to catch and trap wild elephants. One day, a
@@ -2732,7 +2732,7 @@ palace. You shall live here as my chief hunter."
                 Thus, through the gratitude of the beasts, the hunter
 rose to high position and honour in the court of his king.
 
-**Mr Peabody’s Apples Madonna**
+## Mr Peabody’s Apples Madonna
 
 5 Readers
 
@@ -2746,7 +2746,7 @@ Tommy
 
 Billy
 
-**Mr Peabody’s Apples Madonna**
+## Mr Peabody’s Apples Madonna
 
 In the town of Happville (which wasn’t a very big town), Mr Peabody was
 congratulating his Little league team on a great game. They had not won,
@@ -2902,7 +2902,7 @@ quick to judge a person. And remember the power of your words.”
 
 Then he handed Tommy the shiny red apple and made his way home.
 
-**Crow and the Waterhole Ambelin Kwaymullina**
+## Crow and the Waterhole Ambelin Kwaymullina
 
 6 Readers
 
@@ -2918,7 +2918,7 @@ Paperbark
 
 Kookaburra
 
-**Crow and the Waterhole Ambelin Kwaymullina**
+## Crow and the Waterhole Ambelin Kwaymullina
 
 There was once a crow who lived in a tree by a waterhole.
 
@@ -3035,13 +3035,13 @@ destiny, she would show them their reflection in the waterhole, and say
 – “Your destiny lies within you. All you need to do is learn how to see
 it.”
 
-**Knots on a Counting Rope Bill Martin Jr. and John Archambault**
+## Knots on a Counting Rope Bill Martin Jr. and John Archambault
 
 Partner Reading Script for Two Voices
 
 BOY’S PART: GRANDFATHER’S PART:
 
-**Knots on a Counting Rope Bill Martin Jr. and John Archambault**
+## Knots on a Counting Rope Bill Martin Jr. and John Archambault
 
 Partner Reading Script for Two Voices
 

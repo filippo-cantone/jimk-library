@@ -3,13 +3,14 @@ title: "QUESTIONING 2"
 source_file: "Reading/QUESTIONING 2.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
-**QUESTIONING 2**
+## QUESTIONING 2
 
-<img src="assets/QUESTIONING 2/media/image1.jpeg"
-style="width:2.45833in;height:3.27083in" />
+<img src="assets/QUESTIONING 2/media/image1.jpeg" />
 
 **Questioning 2**
 
@@ -33,8 +34,7 @@ Amelia’s Road by Linda Altman
 
 Knots on a Counting Rope by Bill Martin Jr
 
-<img src="assets/QUESTIONING 2/media/image2.jpeg"
-style="width:3.31181in;height:2.91597in" />
+<img src="assets/QUESTIONING 2/media/image2.jpeg" />
 
 Have you ever dreamt of being locked in a department store at night? The
 endearing story of Corduroy paints a picture of the adventures that
@@ -153,7 +153,7 @@ comfortable with your shoulder strap fastened.”
 
 “Me too!” said Lisa, and gave him a big hug.
 
-**Lesson:**
+## Lesson:
 
 Corduroy is the name of a stuffed bear who lives in a department store.
 He is hoping someone will buy him and take him home.
@@ -186,14 +186,14 @@ apartment, and straight to her own room.*
 **Name:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**Corduroy**
+## Corduroy
 
 by Don Freeman
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 49%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -217,29 +217,21 @@ by Don Freeman
 </tbody>
 </table>
 
-<img src="assets/QUESTIONING 2/media/image3.jpeg"
-style="width:7.2in;height:3.98681in" />
+<img src="assets/QUESTIONING 2/media/image3.jpeg" />
 
-<img src="assets/QUESTIONING 2/media/image4.jpeg"
-style="width:3.75in;height:3.19792in" />
+<img src="assets/QUESTIONING 2/media/image4.jpeg" />
 
-<img src="assets/QUESTIONING 2/media/image5.jpeg"
-style="width:4.47917in;height:3.47917in" />
+<img src="assets/QUESTIONING 2/media/image5.jpeg" />
 
-<img src="assets/QUESTIONING 2/media/image6.jpeg"
-style="width:3.75in;height:2.8125in" />
+<img src="assets/QUESTIONING 2/media/image6.jpeg" />
 
-<img src="assets/QUESTIONING 2/media/image7.jpeg"
-style="width:5.83194in;height:4.5in" />
+<img src="assets/QUESTIONING 2/media/image7.jpeg" />
 
-<img src="assets/QUESTIONING 2/media/image8.jpeg"
-style="width:6.60694in;height:5.98472in" />
+<img src="assets/QUESTIONING 2/media/image8.jpeg" />
 
-<img src="assets/QUESTIONING 2/media/image9.jpeg"
-style="width:4.89583in;height:6.66667in" />
+<img src="assets/QUESTIONING 2/media/image9.jpeg" />
 
-<img src="assets/QUESTIONING 2/media/image10.jpeg"
-style="width:2.60417in;height:2.58333in" />
+<img src="assets/QUESTIONING 2/media/image10.jpeg" />
 
 THE STORY BEHIND CORDUROY
 
@@ -284,8 +276,7 @@ to all: if you believe something is good, then do not give up! Corduroy
 the bear did not give up when he was first rejected because he was
 missing a button! He perked up his courage and went looking too!
 
-<img src="assets/QUESTIONING 2/media/image11.png"
-style="width:0.85486in;height:1.125in" />**  
+<img src="assets/QUESTIONING 2/media/image11.png" />**  
 Five Little Bears: Counting up**
 
 **  
@@ -307,8 +298,7 @@ Along came another
 Then there were five!  
 *Author Unknown***
 
-<img src="assets/QUESTIONING 2/media/image12.png"
-style="width:0.97778in;height:0.95694in" />**  
+<img src="assets/QUESTIONING 2/media/image12.png" />**  
 Bears Are Sleeping  
 (tune:  Brother John)  
   
@@ -321,8 +311,7 @@ Soon it will be spring time,
 Wake up, bears!  
 Wake up, bears!**
 
-<img src="assets/QUESTIONING 2/media/image12.png"
-style="width:0.97778in;height:0.95694in" />**  
+<img src="assets/QUESTIONING 2/media/image12.png" />**  
 Here is a cave.  
 Bend fingers on one hand)  
 Inside is a bear.  
@@ -350,7 +339,7 @@ Inside the bear sleeps
 All cosy and snug.   
 (Place one hand over the other.)**
 
-**Text-to-Text Connection**
+## Text-to-Text Connection
 
 **We’re Going on a Bear Hunt** by Michael Rosen
 
@@ -418,10 +407,9 @@ earned him a prominent place in the children's book hall of fame.
 
 **The Teddy Bears’ Picnic -** various versions.
 
-<img src="assets/QUESTIONING 2/media/image13.jpeg"
-style="width:3.09375in;height:2.60417in" />
+<img src="assets/QUESTIONING 2/media/image13.jpeg" />
 
-**Mailing May Michael Tunnell**
+## Mailing May Michael Tunnell
 
 Nowadays it's no big deal for a girl to travel seventy-five miles. But
 when Charlotte May Pierstorff wanted to cross seventy-five miles of
@@ -433,16 +421,14 @@ father's ingenuity, and the U.S. mail.
 
 Five year old May tells her story.
 
-<img src="assets/QUESTIONING 2/media/image14.jpeg"
-style="width:3.90625in;height:3.875in" />
+<img src="assets/QUESTIONING 2/media/image14.jpeg" />
 
 May lives in the mountains of Idaho and wants to visit her beloved
 grandma. Unfortunately, her parents can’t afford the train ticket for
 the trip. She is resourceful and tries to find work so that she can
 purchase a ticket.
 
-<img src="assets/QUESTIONING 2/media/image15.jpeg"
-style="width:3.90625in;height:3.78125in" />
+<img src="assets/QUESTIONING 2/media/image15.jpeg" />
 
 She is told that she’s just too little to work in the local grocery
 store.
@@ -451,35 +437,30 @@ Her parents wake her early one morning and she is ‘flabbergasted’ to
 learn that her father, who is also very resourceful, has found a way to
 send her to Grandma’s. They are going to mail her!
 
-<img src="assets/QUESTIONING 2/media/image16.jpeg"
-style="width:3.90625in;height:2.79167in" />
+<img src="assets/QUESTIONING 2/media/image16.jpeg" />
 
 She is mailed as a 48lb baby chick! While in the care of cousin Leonard
 the mailman, the train weaves its way through the Idaho mountains with
 May describing the details throughout the story. She safely arrives in
 the arms of her grandmother.
 
-<img src="assets/QUESTIONING 2/media/image17.jpeg"
-style="width:3.90625in;height:2.82292in" />
+<img src="assets/QUESTIONING 2/media/image17.jpeg" />
 
-<img src="assets/QUESTIONING 2/media/image18.jpeg"
-style="width:1.15625in;height:2.21875in" />
+<img src="assets/QUESTIONING 2/media/image18.jpeg" />
 
 May when she was five years old, about the age when she was mailed.
 
-<img src="assets/QUESTIONING 2/media/image19.jpeg"
-style="width:3.03125in;height:2in" />
+<img src="assets/QUESTIONING 2/media/image19.jpeg" />
 
 The Camas Prairie Railroad at about the time May would have ridden in
 the mail car as a package.
 
-<img src="assets/QUESTIONING 2/media/image20.jpeg"
-style="width:1.52083in;height:2.21875in" />
+<img src="assets/QUESTIONING 2/media/image20.jpeg" />
 
 May’s grandmother’s house as it looked several years after May was
 mailed to her.
 
-**Mailing May Michael Tunnell**
+## Mailing May Michael Tunnell
 
 It all started when ma and pa promised I could stay a spell with Grandma
 Mary, who lived a million miles away through the rough old Idaho
@@ -621,7 +602,7 @@ The second I laid eyes on Grandma Mary, I felt downright warm inside. Ma
 and Pa had kept their promise after all – with a little help from the
 U.S. Post Office!
 
-**Lessons:**
+## Lessons:
 
 Questioning is used to assist students to understand the story, make
 predictions, and infer.
@@ -727,7 +708,7 @@ Whole class discussion.
 *What is a question that got you and your partner talking about the
 story? What did you discuss?*
 
-**Lesson 3: Visualising**
+## Lesson 3: Visualising
 
 Students to visualise to create images from the text.
 
@@ -802,14 +783,12 @@ Whole class discussion:
 *What new questions do you have? What part of the story brought this
 question to mind?*
 
-<img src="assets/QUESTIONING 2/media/image21.jpeg"
-style="width:2.19931in;height:3.21597in" />
+<img src="assets/QUESTIONING 2/media/image21.jpeg" />
 
 Ikarus Jackson, the new boy in school, is outcast because he has wings,
 but his resilient spirit inspires one girl to speak up for him.
 
-<img src="assets/QUESTIONING 2/media/image22.jpeg"
-style="width:6.04167in;height:4.54167in" />
+<img src="assets/QUESTIONING 2/media/image22.jpeg" />
 
 Analysis of Christopher Myers' Work
 
@@ -871,7 +850,7 @@ story, the essential message is, "stick with your own kind, find
 sameness at all costs." I wanted to do a book that told kids it was okay
 to be different, even if you never found your own kind."
 
-**Lesson:**
+## Lesson:
 
 *Lesson Objective:* Through a close reading of Wings, students will see
 how Ikarus Jackson’s wings make him different and potentially
@@ -1027,7 +1006,7 @@ his wings. The things that make us different also make us strong*.
 
 Adapted from Interactive Read Aloud by Jenna Komarin
 
-**Wings Christopher Myers**
+## Wings Christopher Myers
 
 “Look at that strange boy!” Everyone from the neighbourhood is pointing
 fingers and watching the sky. “How is he doing that?” They stretch their
@@ -1090,10 +1069,9 @@ found his wings again.
 “look at that amazing boy!” I called to all the people on the street as
 I pointed to my new friend Ikarus swirling through the sky.
 
-<img src="assets/QUESTIONING 2/media/image23.jpeg"
-style="width:1.33333in;height:1.66667in" />
+<img src="assets/QUESTIONING 2/media/image23.jpeg" />
 
-**Mr. Peabody’s Apples by Madonna**
+## Mr. Peabody’s Apples by Madonna
 
 Set in a tiny American town, this story features the big-hearted and
 much beloved Mr.Peabody, an elementary school teacher and Little League
@@ -1138,16 +1116,13 @@ The feather pillow is a metaphor. What does the pillow represent?
 
 What do you think the illustration on the last page symbolises?
 
-<img src="assets/QUESTIONING 2/media/image24.jpeg"
-style="width:2.55208in;height:2.55208in" />
+<img src="assets/QUESTIONING 2/media/image24.jpeg" />
 
-<img src="assets/QUESTIONING 2/media/image25.jpeg"
-style="width:4.6875in;height:3.64583in" />
+<img src="assets/QUESTIONING 2/media/image25.jpeg" />
 
-<img src="assets/QUESTIONING 2/media/image26.jpeg"
-style="width:3.35417in;height:4.16667in" />
+<img src="assets/QUESTIONING 2/media/image26.jpeg" />
 
-**Mr Peabody’s Apples Madonna**
+## Mr Peabody’s Apples Madonna
 
 In the town of Happville (which wasn’t a very big town), Mr Peabody was
 congratulating his Little league team on a great game. They had not won,
@@ -1303,14 +1278,11 @@ quick to judge a person. And remember the power of your words.”
 
 Then he handed Tommy the shiny red apple and made his way home.
 
-<img src="assets/QUESTIONING 2/media/image27.jpeg"
-style="width:4.19792in;height:5.20833in" />
+<img src="assets/QUESTIONING 2/media/image27.jpeg" />
 
-<img src="assets/QUESTIONING 2/media/image28.jpeg"
-style="width:4.26042in;height:5.20833in" />
+<img src="assets/QUESTIONING 2/media/image28.jpeg" />
 
-<img src="assets/QUESTIONING 2/media/image29.jpeg"
-style="width:2.32361in;height:3.04722in" />
+<img src="assets/QUESTIONING 2/media/image29.jpeg" />
 
 No, David! Story Summary
 
@@ -1330,13 +1302,11 @@ With simple text and vivid colour, this book invokes a message of cause
 and effect in misbehaviour, while sending the reassuring message that
 even "bad boys" are loved.
 
-<img src="assets/QUESTIONING 2/media/image30.jpeg"
-style="width:6.22083in;height:3.85486in" />
+<img src="assets/QUESTIONING 2/media/image30.jpeg" />
 
-<img src="assets/QUESTIONING 2/media/image31.jpeg"
-style="width:3.98958in;height:2.5in" />
+<img src="assets/QUESTIONING 2/media/image31.jpeg" />
 
-**No, David! David Shannon**
+## No, David! David Shannon
 
 David’s mum always said …
 
@@ -1424,8 +1394,7 @@ Cookie jar page.
 
 “I love you!”
 
-<img src="assets/QUESTIONING 2/media/image32.jpeg"
-style="width:3.3125in;height:2.83264in" />
+<img src="assets/QUESTIONING 2/media/image32.jpeg" />
 
 Mama and Papa agree that eggs for breakfast would be nice, but they’re
 too busy to go to the store. So they decide that Hetty is old enough to
@@ -1440,8 +1409,7 @@ love and depict a warmly supportive world in which Hetty ventures forth
 toward independence. A fine book that speaks straight to the
 heart.”--Booklist
 
-<img src="assets/QUESTIONING 2/media/image33.jpeg"
-style="width:7.03333in;height:4.76458in" />
+<img src="assets/QUESTIONING 2/media/image33.jpeg" />
 
 Read Aloud.
 
@@ -1589,7 +1557,7 @@ Whole class discussion.
 
 Use questioning and visualising during independent reading.
 
-**Down the Road Alice Schertle**
+## Down the Road Alice Schertle
 
 Hetty lived in a little grey house with a big stone chimney and a screen
 door that squeaked in a friendly way for comings and goings.
@@ -1804,8 +1772,7 @@ full of sweet red apples.
 
 And the next morning … there was apple pie for breakfast.
 
-<img src="assets/QUESTIONING 2/media/image34.jpeg"
-style="width:3.3125in;height:3.11458in" />
+<img src="assets/QUESTIONING 2/media/image34.jpeg" />
 
 Summary: Animals in the woods sense that a stranger has arrived. They
 cautiously discover a snowman that has been built by children overnight.
@@ -1819,10 +1786,9 @@ the eyes of the woodland animals.
   
 Literary Devices: personification (animals are speaking)
 
-<img src="assets/QUESTIONING 2/media/image35.jpeg"
-style="width:3.11458in;height:2.88542in" />
+<img src="assets/QUESTIONING 2/media/image35.jpeg" />
 
-**Stranger in the Woods Carl R.Sams II & Jean Stoick**
+## Stranger in the Woods Carl R.Sams II & Jean Stoick
 
 The snowflakes were
 
@@ -2136,7 +2102,7 @@ and the trees grow new leaves.”
 
 I think they like carrots the best!
 
-**Possible Inferring Questions**
+## Possible Inferring Questions
 
 Why did day break come softly? What does that mean?
 
@@ -2174,7 +2140,7 @@ until spring?
 
 Why did the stranger arrive after a winter storm?
 
-**Possible** **Inferring Questions Possible Answers**
+## Possible** **Inferring Questions Possible Answers
 
 Why did day break come softly? What does that mean?
 
@@ -2294,10 +2260,9 @@ Little sister
 
 Brother
 
-<img src="assets/QUESTIONING 2/media/image36.jpeg"
-style="width:2.07292in;height:2.61458in" />
+<img src="assets/QUESTIONING 2/media/image36.jpeg" />
 
-**Amelia’s Road Linda Altman**
+## Amelia’s Road Linda Altman
 
 Synopsis
 
@@ -2425,7 +2390,7 @@ Poetry – Querencia (see Poetry course)
 
 Querencia Poetry is set out below.
 
-**About the Author and Illustrator**
+## About the Author and Illustrator
 
 Linda Jacobs Altman is a writer based in Clearlake, California. Amelia's
 Road marked her picture book debut. This title carries special meaning
@@ -2446,7 +2411,7 @@ Institute. He then moved to New York to study set and scene design and
 worked as a graphic designer for Sesame Street. While he is primarily a
 fine artist, he has illustrated many picture books.
 
-**Amelia’s Road Linda Altman**
+## Amelia’s Road Linda Altman
 
 Amelia Luisa Martinez hated roads. Straight roads. Curved roads. Dirt
 roads. Paved roads. Roads leading to all manner of strange places, and
@@ -2588,7 +2553,7 @@ deep breath and joined in to help.
 For the first time in her life, she didn’t cry when her father took out
 the road map.
 
-**QUERENCIA**
+## QUERENCIA
 
 “… a place where one feels safe, a place from which one’s strength of
 character is drawn, a place where one feels at home.” (Spanish)
@@ -2659,7 +2624,7 @@ Use your Writer’s Notebook to begin ideas – to sow the seeds.
 *“A Notebook is a conversation with yourself. And it’s your job as a
 writer to keep up the conversation.” (Georgia Heard)*
 
-**Writing, paying attention to your inner voice: Personal Monologue**
+## Writing, paying attention to your inner voice: Personal Monologue
 
 Be guided by your inner voice: how you feel; what you see; what
 questions you have; and what you remember.
@@ -2954,8 +2919,7 @@ in the morning when I surface, wet and streaked with daylight.
 >
 > **Maddy Johnson Gr 6 Wembley**
 
-<img src="assets/QUESTIONING 2/media/image37.jpeg"
-style="width:3.125in;height:2.53125in" />
+<img src="assets/QUESTIONING 2/media/image37.jpeg" />
 
 Themes/topics: birth, growing up, blindness, Native Americans,
 relationship between child and grandparent, courage, self-confidence,
@@ -2990,8 +2954,7 @@ beautiful paintings.
 
 Ideal to use for Readers’ Theatre.
 
-<img src="assets/QUESTIONING 2/media/image38.jpeg"
-style="width:5.86736in;height:3.90556in" />
+<img src="assets/QUESTIONING 2/media/image38.jpeg" />
 
 Listen to the story on School Tube or YouTube (different readers).
 

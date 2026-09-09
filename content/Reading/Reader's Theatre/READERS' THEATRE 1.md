@@ -3,18 +3,18 @@ title: "READERS' THEATRE 1"
 source_file: "Reading/Reader's Theatre/READERS' THEATRE 1.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
-**READERS’ THEATRE 1**
+## READERS’ THEATRE 1
 
-<img src="assets/READERS' THEATRE 1/media/image1.jpeg"
-style="width:4.68889in;height:3.4375in" />
+<img src="assets/READERS' THEATRE 1/media/image1.jpeg" />
 
-<img src="assets/READERS' THEATRE 1/media/image1.jpeg"
-style="width:2.88264in;height:2.11458in" />
+<img src="assets/READERS' THEATRE 1/media/image1.jpeg" />
 
-**Readers’ Theatre 1**
+## Readers’ Theatre 1
 
 Readers’ Theatre with Younger Readers
 
@@ -382,7 +382,7 @@ the wonderful is **you**.
 
 growing like a red red rose.
 
-**Oh, Look! by Patricia Polacco**
+## Oh, Look! by Patricia Polacco
 
 Oh, look, we see a fence. It’s always there, keeping us in … safe and
 sound.
@@ -560,7 +560,7 @@ We see a brown bear, a red bird, a yellow duck, a blue horse, a green
 frog, a purple cat, a white dog, a black sheep, a goldfish and a monkey
 looking at us. That’s what we see.
 
-**Hairy Maclary from Donaldson’s Dairy**
+## Hairy Maclary from Donaldson’s Dairy
 
 by Lynley Dodd
 
@@ -992,7 +992,7 @@ Oh, how did they come?
 
 Flop! Flop! Flop!
 
-**FROG SERENADE**
+## FROG SERENADE
 
 Georgia Heard
 
@@ -1276,7 +1276,7 @@ Man
 
 Second Bunyip
 
-**The Bunyip of Berkeley’s Creek Jenny Wagner**
+## The Bunyip of Berkeley’s Creek Jenny Wagner
 
 Late one night, for no particular reason, something stirred in the black
 mud at the bottom of Berkeley’s Creek.
@@ -1403,7 +1403,7 @@ like?”
 
 And he lent her his mirror to prove it.
 
-**Wolf! Becky Bloom**
+## Wolf! Becky Bloom
 
 5 Readers
 
@@ -1547,7 +1547,7 @@ The wolf stretched in the grass. He was happy to have such
 
 wonderful friends.
 
-**Who’s in the Shed? Brenda Parkes**
+## Who’s in the Shed? Brenda Parkes
 
 7 Readers
 
@@ -1627,7 +1627,7 @@ What did she see?
 
 And everyone ran away from there.
 
-**Rooster’s Off to See the World Eric Carle**
+## Rooster’s Off to See the World Eric Carle
 
 16 Readers
 
@@ -1731,7 +1731,7 @@ perch.
 After a while he went to sleep and had a wonderful happy dream – all
 about a trip around the world.
 
-**Pierre Maurice Sendak**
+## Pierre Maurice Sendak
 
 5 Readers
 
@@ -1912,7 +1912,7 @@ The moral of Pierre is:
 
 CARE!
 
-**Red Riding Hood Brenda Parkes**
+## Red Riding Hood Brenda Parkes
 
 6 Readers
 
@@ -2025,7 +2025,7 @@ and they all had apple pie for supper.
 
 And so did the wolf.
 
-**Agatha’s Feather Bed Carmen Deedy**
+## Agatha’s Feather Bed Carmen Deedy
 
 5 Readers
 
@@ -2218,7 +2218,7 @@ doorstep every morning.
 
 Where *do* goose eggs come from, anyway?
 
-**Shoes from Grandpa Mem Fox**
+## Shoes from Grandpa Mem Fox
 
 11 Readers
 
@@ -2348,7 +2348,7 @@ And Jessie said, “ You’re all so kind that I hate to be mean,
 
 but please would one of you buy me some jeans?”
 
-**Wombat Divine Mem Fox**
+## Wombat Divine Mem Fox
 
 8 Readers
 
@@ -2364,7 +2364,7 @@ Numbat
 
 Kangaroos (3)
 
-**Wombat Divine by Mem Fox**
+## Wombat Divine by Mem Fox
 
 It was the week before Christmas. Wombat loved Christmas. He loved the
 carols and the candles, the presents and the pudding, but most of all he
@@ -2442,7 +2442,7 @@ they all agreed it had been the best Nativity ever.
 
 And Wombat beamed.
 
-**My Little Sister Ate One Hare Bill Grossman**
+## My Little Sister Ate One Hare Bill Grossman
 
 10 Readers
 
@@ -2604,7 +2604,7 @@ Makes my sister sick, I guess.
 
 Oh, my goodness! What a mess!
 
-**The Grouchy Ladybug Eric Carle**
+## The Grouchy Ladybug Eric Carle
 
 15 Readers
 
@@ -2640,7 +2640,7 @@ The leaf (one line)
 
 One student to hold class clock and change time
 
-**The Grouchy Ladybug by Eric Carle**
+## The Grouchy Ladybug by Eric Carle
 
 It was night, and some fireflies danced around the moon.
 
@@ -2807,7 +2807,7 @@ Soon all the aphids were gone.
 The fireflies, who had been sleeping all day, came out to dance around
 the moon.
 
-**Mister Seahorse Eric Carle**
+## Mister Seahorse Eric Carle
 
 7 Readers
 
@@ -2825,7 +2825,7 @@ Mr Pipe
 
 Mr Bullhead
 
-**Mister Seahorse by Eric Carle**
+## Mister Seahorse by Eric Carle
 
 Mr and Mrs Seahorse drifted gently through the sea. Mrs Seahorse began
 to wiggle and twist, this way and that.
@@ -2915,7 +2915,7 @@ One baby turned around and tried to come back into the pouch.
 “Oh, no!” said Mr Seahorse. “I *do* love you, *but* now you are ready to
 be on your own.”
 
-**John Brown, Rose, and the Midnight Cat Jenny Wagner**
+## John Brown, Rose, and the Midnight Cat Jenny Wagner
 
 3 Readers
 
@@ -2925,7 +2925,7 @@ Rose
 
 John Brown
 
-**John Brown, Rose and the Midnight Cat by Jenny Wagner**
+## John Brown, Rose and the Midnight Cat by Jenny Wagner
 
 Rose’s husband died a long time ago. Now she lived with her dog. His
 name was John Brown. John Brown loved Rose, and he looked after her in

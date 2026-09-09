@@ -3,15 +3,16 @@ title: "READERS' THEATRE 9"
 source_file: "Reading/Reader's Theatre/READERS' THEATRE 9.docx"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
-**READERS’ THEATRE 9**
+## READERS’ THEATRE 9
 
-<img src="assets/READERS' THEATRE 9/media/image1.png"
-style="width:3.39583in;height:2.78125in" alt="masks" />
+<img src="assets/READERS' THEATRE 9/media/image1.png" alt="masks" />
 
-**PERFORMING POETRY**
+## PERFORMING POETRY
 
 # Introduction To Poetry
 
@@ -38,12 +39,11 @@ and torture a confession out of it. 
 They begin beating it with a hose   
 to find out what it really means.
 
-**Billy Collins**
+## Billy Collins
 
-<img src="assets/READERS' THEATRE 9/media/image2.png"
-style="width:2.86458in;height:2.34615in" alt="masks" />
+<img src="assets/READERS' THEATRE 9/media/image2.png" alt="masks" />
 
-**Readers’ Theatre 9 Performing Poetry**
+## Readers’ Theatre 9 Performing Poetry
 
 Introduction to Poetry Billy Collins
 
@@ -146,7 +146,7 @@ Notes on Performing Poetry
 **  
 **
 
-**Performing Poetry**
+## Performing Poetry
 
 Options:
 
@@ -192,7 +192,7 @@ differently?
 Do you think that your interpretation of your selection of poetry was a
 good interpretation? How do you know?
 
-**“Fire! Fire!” Cried Mrs McGuire**
+## “Fire! Fire!” Cried Mrs McGuire
 
 11 Readers
 
@@ -218,7 +218,7 @@ Mrs Davis
 
 Small group or Whole Class with individual voices.
 
-**“Fire! Fire!” Cried Mrs McGuire**
+## “Fire! Fire!” Cried Mrs McGuire
 
 > **“Fire! Fire!”**
 >
@@ -313,7 +313,7 @@ Small group or Whole Class with individual voices.
 **  
 **
 
-**Five Little Pumpkins**
+## Five Little Pumpkins
 
 Five little pumpkins sitting on a gate
 
@@ -333,10 +333,9 @@ and five little pumpkins rolled out of sight. **
 **
 
 <img src="assets/READERS' THEATRE 9/media/image3.jpeg"
-style="width:2.5in;height:2.22917in"
 alt="We&#39;re Going on a Bear Hunt" />
 
-**Dramatic Play**
+## Dramatic Play
 
 Before Reading:
 
@@ -354,9 +353,8 @@ events the family encounter on their bear hunt.
 Reread throughout the week. Small groups can dramatise the story while
 the others narrate it.
 
-**We’re going on a Bear Hunt**
-<img src="assets/READERS' THEATRE 9/media/image4.jpeg"
-style="width:2.11458in;height:1.58333in" alt="bear_hunt_lead_203x152" />
+## We’re going on a Bear Hunt
+<img src="assets/READERS' THEATRE 9/media/image4.jpeg" alt="bear_hunt_lead_203x152" />
 
 We’re going on a bear hunt.
 
@@ -548,25 +546,20 @@ Under the covers.
 
 We’re not going on a bear hunt again.
 
-<img src="assets/READERS' THEATRE 9/media/image5.jpeg"
-style="width:4.16667in;height:1.875in" alt="WGOBH+bear+walking+back" />
+<img src="assets/READERS' THEATRE 9/media/image5.jpeg" alt="WGOBH+bear+walking+back" />
 
 <img src="assets/READERS' THEATRE 9/media/image6.jpeg"
-style="width:2.97917in;height:3.33333in"
 alt="WGOBH+crossing+the+river" />
 
-<img src="assets/READERS' THEATRE 9/media/image7.jpeg"
-style="width:2.9375in;height:4.16667in" alt="WGOBH+up+the+stairs" />
+<img src="assets/READERS' THEATRE 9/media/image7.jpeg" alt="WGOBH+up+the+stairs" />
 
 <img src="assets/READERS' THEATRE 9/media/image8.jpeg"
-style="width:3.02083in;height:3.33333in"
 alt="WGOBH+entering+the+cave" />
 
 <img src="assets/READERS' THEATRE 9/media/image9.jpeg"
-style="width:2.84375in;height:4.16667in"
 alt="WGOBH+Getting+to+bedroom" />
 
-**The Pig Roald Dahl**
+## The Pig Roald Dahl
 
 2 Readers
 
@@ -574,7 +567,7 @@ Narrator
 
 The Pig
 
-**The Pig**
+## The Pig
 
 In England once there lived a big   
 And wonderfully clever pig.   
@@ -646,7 +639,7 @@ Giant
 Doctor**  
 **
 
-**The Adventures Of Isabel**
+## The Adventures Of Isabel
 
 Isabel met an enormous bear,
 
@@ -798,7 +791,7 @@ That's
 
 That!
 
-**The Tale of Custard The Dragon**
+## The Tale of Custard The Dragon
 
 Belinda lived in a little white house,
 
@@ -912,12 +905,11 @@ Mustard is as brave as a tiger in a rage,
 
 But Custard keeps crying for a nice safe cage.
 
-**Ogden Nash**
+## Ogden Nash
 
-<img src="assets/READERS' THEATRE 9/media/image10.jpeg"
-style="width:5.20833in;height:3.90625in" alt="Mac " />
+<img src="assets/READERS' THEATRE 9/media/image10.jpeg" alt="Mac " />
 
-**Mushrooms**
+## Mushrooms
 
 Overnight, very
 
@@ -1107,7 +1099,7 @@ Or the sardine tin and the clod of mud.
                                                                                               **Wes
 Magee**
 
-**The Boneyard Rap**
+## The Boneyard Rap
 
 This is the rhythm
 
@@ -1349,7 +1341,7 @@ devil
 
 wheeEEE
 
-**CONCRETE MIXERS**
+## CONCRETE MIXERS
 
 > **Patricia Hubbell**
 
@@ -1485,7 +1477,7 @@ That Pobbles are happier without their toes!"
 
 > **Edward Lear**
 
-**I opened a book**
+## I opened a book
 
 I opened a book
 
@@ -1543,7 +1535,7 @@ running and running
 
 as fast as I could...
 
-**Michael Rosen**
+## Michael Rosen
 
 Write a refrain to go in between each verse. Pick up on words or ideas
 in the poem. Think of the rhythm you’ll create. E.g.
@@ -1566,7 +1558,7 @@ that's 300,000 questions. And this of course explains the situation
 which most children understand which is that all school teachers are
 crazy. Allan Ahlberg
 
-**Please Mrs Butler Allan Ahlberg**
+## Please Mrs Butler Allan Ahlberg
 
 Please Mrs Butler
 
@@ -1616,7 +1608,7 @@ Do whatever you can, my flower.
 
 But don't ask me!
 
-**Cows James Reeves**
+## Cows James Reeves
 
 Half the time they munched the grass, and all the time they lay
 
@@ -1682,7 +1674,7 @@ A-mooing,
 
 To pass the hours away.
 
-**Knoxville Tennessee**
+## Knoxville Tennessee
 
 I always like summer   
 Best   
@@ -1709,7 +1701,7 @@ All the time 
 Not only when you go to bed   
 And sleep
 
-**Nikki Giovanni**
+## Nikki Giovanni
 
 # If I Were In Charge of the World
 
@@ -1775,13 +1767,12 @@ a draught.
 
 <table>
 <colgroup>
-<col style="width: 24%" />
-<col style="width: 75%" />
+<col />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
 <th><img src="assets/READERS' THEATRE 9/media/image11.gif"
-style="width:0.10417in;height:0.15625in"
 alt="http://www.macleans.school.nz/co-curricular/writersclub/images/spacer.gif" /><strong>Excuses,
 Excuses</strong></th>
 <th></th>
@@ -1794,7 +1785,6 @@ Excuses</strong></th>
 </tr>
 <tr class="even">
 <td colspan="2"><img src="assets/READERS' THEATRE 9/media/image11.gif"
-style="width:0.10417in;height:0.15625in"
 alt="http://www.macleans.school.nz/co-curricular/writersclub/images/spacer.gif" /></td>
 </tr>
 <tr class="odd">
@@ -1825,7 +1815,6 @@ You missed the maths test Blenkinsopp!</td>
 </tr>
 <tr class="even">
 <td colspan="2"><img src="assets/READERS' THEATRE 9/media/image11.gif"
-style="width:0.10417in;height:0.20833in"
 alt="http://www.macleans.school.nz/co-curricular/writersclub/images/spacer.gif" /></td>
 </tr>
 <tr class="odd">
@@ -1842,7 +1831,6 @@ Not ironed sir.</td>
 </tr>
 <tr class="even">
 <td colspan="2"><img src="assets/READERS' THEATRE 9/media/image11.gif"
-style="width:0.10417in;height:0.20833in"
 alt="http://www.macleans.school.nz/co-curricular/writersclub/images/spacer.gif" /></td>
 </tr>
 <tr class="odd">
@@ -1859,10 +1847,8 @@ Dead sir. <strong>Gareth Owen</strong></td>
 <tr class="even">
 <td colspan="2"><p><img
 src="assets/READERS' THEATRE 9/media/image12.gif"
-style="width:3.125in;height:3.32292in"
 alt="Giggle Poetry Featured Image" /><img
 src="assets/READERS' THEATRE 9/media/image11.gif"
-style="width:0.10417in;height:0.3125in"
 alt="http://www.macleans.school.nz/co-curricular/writersclub/images/spacer.gif" /></p>
 <h3 id="theres-a-new-cook-in-the-cafeteria-by-bruce-lansky">There's a
 New Cook In the Cafeteria<br />
@@ -1918,7 +1904,7 @@ he learns by watching you.”</p>
 **  
 **
 
-**BE SPECIFIC **  
+## BE SPECIFIC 
   
 Don't say you saw a bird: you saw a swallow,  
 Or a great horned owl, a hawk, or oriole.  
@@ -1987,10 +1973,10 @@ who have changed.
 **  
 **
 
-**The Highwayman**
+## The Highwayman
 
-> **<u> [ALFRED
-> NOYES](http://www.poetryfoundation.org/bio/alfred-noyes)</u>**
+> ** [ALFRED
+> NOYES](http://www.poetryfoundation.org/bio/alfred-noyes)**
 
 PART ONE
 
@@ -2217,7 +2203,7 @@ barred.   *
 
 *Plaiting a dark red love-knot into her long black hair.*
 
-**Dentist and the Crocodile Roald Dahl**
+## Dentist and the Crocodile Roald Dahl
 
 The crocodile, with cunning smile, sat in the dentist's chair.
 
@@ -2294,7 +2280,7 @@ Willie Worm Grandpa Tucker
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -2572,7 +2558,7 @@ Dahl</a></p></th>
 </tbody>
 </table>
 
-**Water Boatman**
+## Water Boatman
 
 > **Paul Fleischman**
 
@@ -2712,7 +2698,7 @@ Don't waste it again on a live bird, I pray.
 I'm an owl; you're another. Sir Critic, good day!"  
 And the barber kept on shaving.
 
-**James Fields**
+## James Fields
 
 ## 
 
@@ -2765,7 +2751,7 @@ through the afternoon, and night,
 but he didn’t like the taste  
 so Freddie never ate a bite.
 
-**Green Eggs and Ham Dr Seuss**
+## Green Eggs and Ham Dr Seuss
 
 I am Sam
 
@@ -3295,7 +3281,7 @@ The King’﻿s Breakfast
 
 *I do like a little bit of butter to my bread!*”
 
-**THE MAN FROM IRONBARK A.B. "Banjo" Paterson**
+## THE MAN FROM IRONBARK A.B. "Banjo" Paterson
 
 It was the man from Ironbark who struck the Sydney town,
 
@@ -3393,7 +3379,7 @@ And whether he's believed or no, there's one thing to remark,
 
 That flowing beards are all the go way up in Ironbark.
 
-**A BUSH CHRISTENING A.B. "Banjo" Paterson**
+## A BUSH CHRISTENING A.B. "Banjo" Paterson
 
 On the outer Barcoo where the churches are few,
 
@@ -3491,7 +3477,7 @@ To be asked by the folk who have heard of the joke,
 
 How he came to be christened "Maginnis"!
 
-**The Man from Snowy River**
+## The Man from Snowy River
 
 THERE was movement at the station, for the word had passed around
 
@@ -3702,12 +3688,12 @@ The Man from Snowy River is a household word today,
 
 And the stockmen tell the story of his ride.
 
-**Andrew Barton Paterson**
+## Andrew Barton Paterson
 
 **  
 **
 
-**Mulga Bill's Bicycle**
+## Mulga Bill's Bicycle
 
 'TWAS Mulga Bill, from Eaglehawk, that caught the cycling craze;
 
@@ -3785,7 +3771,7 @@ It's safe at rest in Dead Man's Creek - we'll leave it lying still;
 
 A horse's back is good enough henceforth for Mulga Bill."
 
-**Andrew Barton Paterson**
+## Andrew Barton Paterson
 
 **  
 What In The World**
@@ -3896,7 +3882,7 @@ Who knows? **Eve Merriam**
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col />
 </colgroup>
 <thead>
 <tr class="header">
@@ -4297,8 +4283,7 @@ Provided that you always win.</p>
 
 ### 
 
-### <img src="assets/READERS' THEATRE 9/media/image13.jpeg"
-style="width:3.88542in;height:2.1875in" alt="Cindy" />
+### <img src="assets/READERS' THEATRE 9/media/image13.jpeg" alt="Cindy" />
 
 **  
 **
@@ -4541,13 +4526,12 @@ style="width:3.88542in;height:2.1875in" alt="Cindy" />
 >
 > **Roald Dahl**
 
-<img src="assets/READERS' THEATRE 9/media/image14.jpeg"
-style="width:3.52227in;height:2.41667in" alt="Jack" />
+<img src="assets/READERS' THEATRE 9/media/image14.jpeg" alt="Jack" />
 
 **  
 **
 
-**Goldilocks and the Three Bears**
+## Goldilocks and the Three Bears
 
 > This famous wicked little tale
 >
@@ -4783,8 +4767,7 @@ style="width:3.52227in;height:2.41667in" alt="Jack" />
 >
 > **Roald Dahl**
 
-<img src="assets/READERS' THEATRE 9/media/image15.jpeg"
-style="width:2.96875in;height:3.92708in" alt="Goldy" />
+<img src="assets/READERS' THEATRE 9/media/image15.jpeg" alt="Goldy" />
 
 Poetry often is meant to be performed, sometimes even with music.
 
@@ -4827,7 +4810,7 @@ The characters in the poem
 
 Repetition
 
-**Benefits of Using Reader’s Theatre**
+## Benefits of Using Reader’s Theatre
 
 • It gives purpose to reading.
 

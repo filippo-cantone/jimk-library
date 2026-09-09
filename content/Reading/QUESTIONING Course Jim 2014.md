@@ -3,15 +3,16 @@ title: "QUESTIONING Course Jim 2014"
 source_file: "Reading/QUESTIONING Course Jim 2014.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
-**QUESTIONING**
+## QUESTIONING
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image1.jpeg"
-style="width:2.60417in;height:3.15625in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image1.jpeg" />
 
-**QUESTIONING**
+## QUESTIONING
 
 Proficient readers ask questions before, during, and after they read.
 
@@ -223,7 +224,7 @@ Questioning improves comprehension by:
 >
 > Readers understand that asking questions deepens their comprehension.
 
-**Questions Game**
+## Questions Game
 
 Used to scaffold questioning to assist students to move from literal to
 inferential questioning.
@@ -473,7 +474,7 @@ Group work
 Let me know if you want some Big Book covers made.
 
 **Possible Questions during Reading Conference** when the focus has been
-**Questioning:**
+## Questioning:
 
 Did you ask any questions today?
 
@@ -552,7 +553,7 @@ questions?
 > **Charlie Anderson Barbara Abercrombie**
 >
 > <img src="assets/QUESTIONING Course Jim 2014/media/image2.jpeg"
-> style="width:2.26042in;height:2.87014in" />
+> />
 >
 > Charlie, a fuzzy grey cat, walked out of the woods one evening and
 > into Elizabeth's and Sarah's hearts. Now he sleeps on their beds, lets
@@ -625,7 +626,7 @@ questions?
 > **Grandfather Twilight Barbara Berger**
 >
 > <img src="assets/QUESTIONING Course Jim 2014/media/image3.jpeg"
-> style="width:3.31181in;height:3.53056in" />
+> />
 >
 > ‘*Each evening, as the shadows begin to deepen, Grandfather Twilight
 > walks through the forest to welcome the night with his gift to the
@@ -689,7 +690,7 @@ before, during and after reading.
 > **The Lotus Seed Sherry Garland**
 >
 > <img src="assets/QUESTIONING Course Jim 2014/media/image4.jpeg"
-> style="width:3.3125in;height:4.32292in" />
+> />
 >
 > When the civil war breaks out in Vietnam, the family flee with only a
 > few possessions. On a crowded boat they head for America.
@@ -739,7 +740,7 @@ before, during and after reading.
 > **Brave Irene by William Steig**
 >
 > <img src="assets/QUESTIONING Course Jim 2014/media/image5.jpeg"
-> style="width:3.3125in;height:4.05208in" />
+> />
 
 Brave Irene is Irene Bobbin, the dressmaker's daughter. Her mother, Mrs.
 Bobbin, isn't feeling so well and can't possibly deliver the beautiful
@@ -830,8 +831,8 @@ of the Year.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -871,10 +872,9 @@ she leapt. The box shot forward, like a sled.</td>
 </tbody>
 </table>
 
-**The Other Side Jacqueline Woodson**
+## The Other Side Jacqueline Woodson
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image6.jpeg"
-style="width:3.31181in;height:2.87361in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image6.jpeg" />
 
 Clover's mum says it isn't safe to cross the fence that segregates their
 African-American side of town from the white side where Anna lives. But
@@ -914,10 +914,9 @@ Also for questioning.
 This would lend itself also to a compare and contrast with The Other
 Side.
 
-**Star of Fear, Star of Hope by Jo Hoestlandt**
+## Star of Fear, Star of Hope by Jo Hoestlandt
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image7.jpeg"
-style="width:3.31319in;height:2.79236in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image7.jpeg" />
 
 Nine-year-old Helen is confused by the disappearance of her Jewish
 friend during the German occupation of Paris.
@@ -1089,7 +1088,7 @@ Think about whether and how their questions are answered.
 
 Provide evidence from the text to explain their thinking.
 
-**Star of Fear, Star of Hope by Jo Hoestlandt**
+## Star of Fear, Star of Hope by Jo Hoestlandt
 
 |              |          |              |
 |--------------|----------|--------------|
@@ -1100,17 +1099,17 @@ Provide evidence from the text to explain their thinking.
 |              |          |              |
 |              |          |              |
 
-**It Says – I Say – And So …**
+## It Says – I Say – And So …
 
 **Reading Strategies:** Making Inferences, Making Connections,
 Synthesising
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1141,8 +1140,7 @@ bigger, so she weighs more</em></td>
 </tbody>
 </table>
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image8.jpeg"
-style="width:1.85069in;height:2.17153in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image8.jpeg" />
 
 This story has George being found by the man in the yellow hat and then
 taken to the zoo. Along the way curious little George gets into a bit of
@@ -1153,7 +1151,7 @@ finally lands on a traffic light, which causes all sorts of problems
 with the traffic below, but to his relief, the man with the yellow hat
 is there to save him.
 
-**Questioning:**
+## Questioning:
 
 Before.
 
@@ -1174,7 +1172,7 @@ After.
 
 Will George get in trouble because he escaped from jail?
 
-**Prediction**
+## Prediction
 
 Do you think the man with the yellow hat will capture George?
 
@@ -1193,7 +1191,7 @@ Will George ever come down from floating in the air?
 
 Where is the man with the yellow hat going to take George**?**
 
-**Compare & Contrast**
+## Compare & Contrast
 
 Compare and contrast the zoo and the jungle**.**
 
@@ -1208,13 +1206,13 @@ then I think I would be happy to live there.
 
 My conclusion: I think George was happy living in the zoo.
 
-**Problem/Solution**
+## Problem/Solution
 
 Problem: George is a curious little monkey that causes many problems.
 
 Solution: Put George in the zoo to live**.**
 
-**Sequencing**
+## Sequencing
 
 The man with the yellow hat catches George.
 
@@ -1256,12 +1254,12 @@ traffic light.
 
 Finally: The man in the yellow hat finally got George to the zoo.
 
-**Cause and Effect**
+## Cause and Effect
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1284,12 +1282,12 @@ home?</p>
 </tbody>
 </table>
 
-**Cause and Effect**
+## Cause and Effect
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1323,8 +1321,7 @@ away.</p>
 </tbody>
 </table>
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image9.jpeg"
-style="width:3.29167in;height:3.33333in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image9.jpeg" />
 
 Before: From the cover.
 
@@ -1338,18 +1335,15 @@ Why won't Beatrice even look at a book at the library?
 
 Will Beatrice listen to the story that the librarian reads?
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image10.jpeg"
-style="width:2.58333in;height:3.33333in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image10.jpeg" />
 
 After:
 
 Will Beatrice like to read books now?
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image11.jpeg"
-style="width:2.58264in;height:3.33264in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image11.jpeg" />
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image12.jpeg"
-style="width:3.3125in;height:2.75in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image12.jpeg" />
 
 Plot Summary: Jon Muth takes Leo Tolstoy’s short story, The Three
 Questions, as the starting point for an account of a young boy’s search
@@ -1398,10 +1392,9 @@ is right?
 
 Ref. University of Washington Centre for Philosophy for Children
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image13.png"
-style="width:4.54167in;height:3.99861in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image13.png" />
 
-**Review The Three Questions by Jon Muth**
+## Review The Three Questions by Jon Muth
 
 The Three Questions - "Based on a story by Leo Tolstoy."
 
@@ -1413,8 +1406,7 @@ The eponymous three questions are these:
 
 *What is the right thing to do?*
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image14.jpeg"
-style="width:4.16667in;height:3.09236in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image14.jpeg" />
 
 In this version of the story, they are formulated and pondered by a
 young Kite-wielding protagonist named Nikolai. He shares an early
@@ -1447,8 +1439,7 @@ There is most assuredly a classic fairy-tale structure at work, with the
 number three being so integral. Three questions asked and three answers
 for each question.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image15.jpeg"
-style="width:4.16667in;height:3.375in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image15.jpeg" />
 
 What is the right thing to do?
 
@@ -1478,8 +1469,7 @@ only a mother, but her young child as well, who lay helpless beneath
 fallen branches, scared and alone. They are both brought to Leo’s
 dwelling, and nursed back to health.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image16.jpeg"
-style="width:4.16667in;height:3.40625in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image16.jpeg" />
 
 Within these actions lie the answers to Nikolai’s three questions. They
 lift young Nikolai with their simple profundity, and he leaves Leo’s
@@ -1488,7 +1478,7 @@ mountaintop promontory in the company of his good friends.
 “For these are the answers to what is most important in the world," says
 Leo the Wise. The final page reads: "That is why we are here."
 
-**The Three Questions Jon Muth**
+## The Three Questions Jon Muth
 
 There was once a boy named Nikolai who sometimes felt uncertain about
 the right way to act. “I want to be a good person,” he told his friends.
@@ -1653,17 +1643,15 @@ moralistic and ascetic views, which he adopted after a moral crisis and
 spiritual awakening in the 1870s, after which he also became noted as a
 moral thinker and social reformer.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image17.jpeg"
-style="width:2.5in;height:3.08333in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image17.jpeg" />
 
-**During:**
+## During:
 
 Read Aloud.
 
 Page 1 (illustration) & page 2 (text)
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image14.jpeg"
-style="width:4.16667in;height:3.09236in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image14.jpeg" />
 
 What did Nikolai want to know? (AT)
 
@@ -1700,10 +1688,10 @@ Advice Nikolai receives:
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1783,7 +1771,7 @@ was trying to find out how to be a good person.
 Continue reading the story and record the answers to the three
 questions.
 
-**After:**
+## After:
 
 Independent Reading
 
@@ -1808,7 +1796,7 @@ surprised
 
 content
 
-**Synthesising:**
+## Synthesising:
 
 “Did Nikolai change in the story?”
 
@@ -1829,7 +1817,7 @@ and
 
 in the community where thinking about others could make a difference.
 
-**Nikolai’s feelings**
+## Nikolai’s feelings
 
 Nikolai felt uncertain when …
 
@@ -1843,8 +1831,7 @@ Nikolai felt surprised when …
 
 Nikolai felt content when …
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image12.jpeg"
-style="width:3.3125in;height:2.75in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image12.jpeg" />
 
 Some discussion questions:
 
@@ -1873,14 +1860,14 @@ is wrong?
 Give an example of an action that is right. Why do you think the action
 is right?
 
-**Advice Nikolai receives:**
+## Advice Nikolai receives:
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1913,7 +1900,7 @@ is right?
 </tbody>
 </table>
 
-**The Three Questions Nikolai’s Journey**
+## The Three Questions Nikolai’s Journey
 
 |     |     |
 |-----|-----|
@@ -1921,10 +1908,9 @@ is right?
 | 3\. | 4\. |
 | 5\. | 6\. |
 
-**Big Al Andrew Clements**
+## Big Al Andrew Clements
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image18.jpeg"
-style="width:3.3125in;height:2.70833in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image18.jpeg" />
 
 Poor Big Al! He just wants to make friends. And in the whole wide blue
 sea you can't find a nicer fish. But because Big Al is large and
@@ -1937,10 +1923,9 @@ he'll ever have a single friend. Then one frightening day, when a
 fishing net captures the other fish, Big Al gets the chance to prove
 what a wonderful friend he can be!
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image19.jpeg"
-style="width:2.46597in;height:1.96736in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image19.jpeg" />
 
-**Big Al Andrew Clements**
+## Big Al Andrew Clements
 
 In the wide blue sea there was a very friendly fish named Big Al. You
 could not find a nicer fish. But Big Al was also very, very, scary.
@@ -2008,7 +1993,7 @@ who has more friends than anyone else.
 
 Big Al.
 
-**Big Al Andrew Clements**
+## Big Al Andrew Clements
 
 Read Aloud.
 
@@ -2104,11 +2089,9 @@ Read and Retell/Listen and Retell.
 
 Use the Story Map to read and retell/listen and retell the story.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image20.jpeg"
-style="width:6.66667in;height:2.82292in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image20.jpeg" />
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image21.jpeg"
-style="width:3.33333in;height:2.83333in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image21.jpeg" />
 
 Summary: Ahmed drives his donkey cart through the streets of Cairo,
 delivering butane gas cylinders to his father's customers. He knows
@@ -2121,7 +2104,7 @@ can write his name.
 *Fundamental questions can be used to delve deeper into a text and can
 lead to sophisticated questioning and thinking.*
 
-**Questions: Before, During, & After**
+## Questions: Before, During, & After
 
 |            |                    |                    |                   |
 |------------|--------------------|--------------------|-------------------|
@@ -2179,7 +2162,7 @@ How did questioning keep us engaged in the story?
 
 How did it help us to understand the story?
 
-**Questions: Before, During, & After**
+## Questions: Before, During, & After
 
 |            |                    |                    |                   |
 |------------|--------------------|--------------------|-------------------|
@@ -2191,7 +2174,7 @@ How did it help us to understand the story?
 | **Why?**   |                    |                    |                   |
 | **How?**   |                    |                    |                   |
 
-**The Day of Ahmed’s Secret Florence Parry Heide**
+## The Day of Ahmed’s Secret Florence Parry Heide
 
 Today I have a secret, and all day long my secret will be like a friend
 to me.
@@ -2348,8 +2331,7 @@ I write my name over and over as they watch, and I think of my name now
 lasting longer than the sound of it, maybe even lasting, like the old
 buildings in the city, a thousand years.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image22.jpeg"
-style="width:3.3125in;height:3.3125in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image22.jpeg" />
 
 One morning a young boy wakes up to find that Dad is gone. And in this
 affecting tale from acclaimed picture book artist Anthony Browne,
@@ -2362,7 +2344,7 @@ haunting place where nothing is quite what it seems, until the boy — and
 the reader — are deeply relieved to arrive at a warm, welcoming
 homecoming.
 
-**Interview (extract)**
+## Interview (extract)
 
 TEACHINGBOOKS: Into the Forest has an ominous fairy tale feel. What was
 the impetus for this book?
@@ -2396,7 +2378,7 @@ mysterious and dark and ambiguous. It brought back my original ideas, so
 I went back to work and the whole thing just flowed. The story came out
 fully formed.
 
-**Response to Visual Text - Into the Forest**
+## Response to Visual Text - Into the Forest
 
 **ACARA –** Australian Curriculum Assessment and Reporting Authority
 
@@ -2423,19 +2405,15 @@ Questions literal information in an illustration.
 
 Makes inferences based on information in an illustration.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image23.jpeg"
-style="width:5.05in;height:4.43403in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image23.jpeg" />
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image24.jpeg"
-style="width:5.05in;height:4.10694in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image24.jpeg" />
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image25.jpeg"
-style="width:4.5625in;height:4.89236in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image25.jpeg" />
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image26.jpeg"
-style="width:4.38264in;height:3.95972in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image26.jpeg" />
 
-**Into the Forest Anthony Browne**
+## Into the Forest Anthony Browne
 
 One night I was woken up by a terrible sound.
 
@@ -2521,8 +2499,7 @@ When we got home I pushed open the door.
 
 And Mum came out, smiling.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image27.jpeg"
-style="width:3.31181in;height:2.91597in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image27.jpeg" />
 
 Have you ever dreamt of being locked in a department store at night? The
 endearing story of Corduroy paints a picture of the adventures that
@@ -2641,7 +2618,7 @@ comfortable with your shoulder strap fastened.”
 
 “Me too!” said Lisa, and gave him a big hug.
 
-**Lesson:**
+## Lesson:
 
 Corduroy is the name of a stuffed bear who lives in a department store.
 He is hoping someone will buy him and take him home.
@@ -2680,8 +2657,8 @@ apartment, and straight to her own room.*
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 49%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2705,29 +2682,21 @@ apartment, and straight to her own room.*
 </tbody>
 </table>
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image28.jpeg"
-style="width:7.2in;height:3.98681in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image28.jpeg" />
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image29.jpeg"
-style="width:3.75in;height:3.19792in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image29.jpeg" />
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image30.jpeg"
-style="width:4.47917in;height:3.47917in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image30.jpeg" />
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image31.jpeg"
-style="width:3.75in;height:2.8125in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image31.jpeg" />
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image32.jpeg"
-style="width:5.83194in;height:4.5in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image32.jpeg" />
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image33.jpeg"
-style="width:6.60694in;height:5.98472in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image33.jpeg" />
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image34.jpeg"
-style="width:4.89583in;height:6.66667in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image34.jpeg" />
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image35.jpeg"
-style="width:2.60417in;height:2.58333in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image35.jpeg" />
 
 THE STORY BEHIND CORDUROY
 
@@ -2772,8 +2741,7 @@ to all: if you believe something is good, then do not give up! Corduroy
 the bear did not give up when he was first rejected because he was
 missing a button! He perked up his courage and went looking too!
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image36.png"
-style="width:0.85486in;height:1.125in" />**  
+<img src="assets/QUESTIONING Course Jim 2014/media/image36.png" />**  
 Five Little Bears: Counting up**
 
 **  
@@ -2795,8 +2763,7 @@ Along came another
 Then there were five!  
 *Author Unknown***
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image37.png"
-style="width:0.97778in;height:0.95694in" />**  
+<img src="assets/QUESTIONING Course Jim 2014/media/image37.png" />**  
 Bears Are Sleeping  
 (tune:  Brother John)  
   
@@ -2809,8 +2776,7 @@ Soon it will be spring time,
 Wake up, bears!  
 Wake up, bears!**
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image37.png"
-style="width:0.97778in;height:0.95694in" />**  
+<img src="assets/QUESTIONING Course Jim 2014/media/image37.png" />**  
 Here is a cave.  
 (Bend fingers on one hand)  
 Inside is a bear.  
@@ -2838,7 +2804,7 @@ Inside the bear sleeps
 All cosy and snug.   
 (Place one hand over the other.)**
 
-**Text-to-Text Connection**
+## Text-to-Text Connection
 
 **We’re Going on a Bear Hunt** by Michael Rosen
 
@@ -2906,10 +2872,9 @@ earned him a prominent place in the children's book hall of fame.
 
 **The Teddy Bears’ Picnic -** various versions.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image38.jpeg"
-style="width:3.09375in;height:2.60417in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image38.jpeg" />
 
-**Mailing May Michael Tunnell**
+## Mailing May Michael Tunnell
 
 Nowadays it's no big deal for a girl to travel seventy-five miles. But
 when Charlotte May Pierstorff wanted to cross seventy-five miles of
@@ -2921,16 +2886,14 @@ father's ingenuity, and the U.S. mail.
 
 Five year old May tells her story.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image39.jpeg"
-style="width:3.90625in;height:3.875in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image39.jpeg" />
 
 May lives in the mountains of Idaho and wants to visit her beloved
 grandma. Unfortunately, her parents can’t afford the train ticket for
 the trip. She is resourceful and tries to find work so that she can
 purchase a ticket.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image40.jpeg"
-style="width:3.90625in;height:3.78125in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image40.jpeg" />
 
 She is told that she’s just too little to work in the local grocery
 store.
@@ -2939,35 +2902,30 @@ Her parents wake her early one morning and she is ‘flabbergasted’ to
 learn that her father, who is also very resourceful, has found a way to
 send her to Grandma’s. They are going to mail her!
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image41.jpeg"
-style="width:3.90625in;height:2.79167in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image41.jpeg" />
 
 She is mailed as a 48lb baby chick! While in the care of cousin Leonard
 the mailman, the train weaves its way through the Idaho mountains with
 May describing the details throughout the story. She safely arrives in
 the arms of her grandmother.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image42.jpeg"
-style="width:3.90625in;height:2.82292in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image42.jpeg" />
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image43.jpeg"
-style="width:1.15625in;height:2.21875in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image43.jpeg" />
 
 May when she was five years old, about the age when she was mailed.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image44.jpeg"
-style="width:3.03125in;height:2in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image44.jpeg" />
 
 The Camas Prairie Railroad at about the time May would have ridden in
 the mail car as a package.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image45.jpeg"
-style="width:1.52083in;height:2.21875in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image45.jpeg" />
 
 May’s grandmother’s house as it looked several years after May was
 mailed to her.
 
-**Mailing May Michael Tunnell**
+## Mailing May Michael Tunnell
 
 It all started when ma and pa promised I could stay a spell with Grandma
 Mary, who lived a million miles away through the rough old Idaho
@@ -3109,7 +3067,7 @@ The second I laid eyes on Grandma Mary, I felt downright warm inside. Ma
 and Pa had kept their promise after all – with a little help from the
 U.S. Post Office!
 
-**Lessons:**
+## Lessons:
 
 Questioning is used to assist students to understand the story, make
 predictions, and infer.
@@ -3215,7 +3173,7 @@ Whole class discussion.
 *What is a question that got you and your partner talking about the
 story? What did you discuss?*
 
-**Lesson 3: Visualising**
+## Lesson 3: Visualising
 
 Students to visualise to create images from the text.
 
@@ -3290,14 +3248,12 @@ Whole class discussion:
 *What new questions do you have? What part of the story brought this
 question to mind?*
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image46.jpeg"
-style="width:2.19931in;height:3.21597in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image46.jpeg" />
 
 Ikarus Jackson, the new boy in school, is outcast because he has wings,
 but his resilient spirit inspires one girl to speak up for him.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image47.jpeg"
-style="width:6.04167in;height:4.54167in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image47.jpeg" />
 
 Analysis of Christopher Myers' Work
 
@@ -3359,7 +3315,7 @@ story, the essential message is, "stick with your own kind, find
 sameness at all costs." I wanted to do a book that told kids it was okay
 to be different, even if you never found your own kind."
 
-**Lesson:**
+## Lesson:
 
 *Lesson Objective:* Through a close reading of Wings, students will see
 how Ikarus Jackson’s wings make him different and potentially
@@ -3515,7 +3471,7 @@ his wings. The things that make us different also make us strong*.
 
 Adapted from Interactive Read Aloud by Jenna Komarin
 
-**Wings Christopher Myers**
+## Wings Christopher Myers
 
 “Look at that strange boy!” Everyone from the neighbourhood is pointing
 fingers and watching the sky. “How is he doing that?” They stretch their
@@ -3578,10 +3534,9 @@ found his wings again.
 “look at that amazing boy!” I called to all the people on the street as
 I pointed to my new friend Ikarus swirling through the sky.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image48.jpeg"
-style="width:1.33333in;height:1.66667in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image48.jpeg" />
 
-**Mr. Peabody’s Apples by Madonna**
+## Mr. Peabody’s Apples by Madonna
 
 Set in a tiny American town, this story features the big-hearted and
 much beloved Mr.Peabody, an elementary school teacher and Little League
@@ -3609,7 +3564,7 @@ Could Tommy repair the damage?
 
 Use strategies outlined in previous lesson: Mirette on the High Wire.
 
-**Mr Peabody’s Apples Madonna**
+## Mr Peabody’s Apples Madonna
 
 In the town of Happville (which wasn’t a very big town), Mr Peabody was
 congratulating his Little league team on a great game. They had not won,
@@ -3765,8 +3720,7 @@ quick to judge a person. And remember the power of your words.”
 
 Then he handed Tommy the shiny red apple and made his way home.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image49.jpeg"
-style="width:2.32361in;height:3.04722in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image49.jpeg" />
 
 No, David! Story Summary
 
@@ -3786,13 +3740,11 @@ With simple text and vivid colour, this book invokes a message of cause
 and effect in misbehaviour, while sending the reassuring message that
 even "bad boys" are loved.
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image50.jpeg"
-style="width:6.22083in;height:3.85486in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image50.jpeg" />
 
-<img src="assets/QUESTIONING Course Jim 2014/media/image51.jpeg"
-style="width:3.98958in;height:2.5in" />
+<img src="assets/QUESTIONING Course Jim 2014/media/image51.jpeg" />
 
-**No, David! David Shannon**
+## No, David! David Shannon
 
 David’s mum always said …
 

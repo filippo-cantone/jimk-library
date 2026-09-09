@@ -1045,8 +1045,6 @@ My Ideas about
 
 <!-- page 33 | FLAGGED: low-confidence -->
 
-
-
 ---
 
 <!-- page 34 | FLAGGED: low-confidence -->
@@ -1194,8 +1192,6 @@ IDR Reading Response Tasks
 ---
 
 <!-- page 40 | FLAGGED: low-confidence -->
-
-
 
 ---
 

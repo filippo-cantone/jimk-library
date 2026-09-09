@@ -3,18 +3,18 @@ title: "READERS' THEATRE 8"
 source_file: "Reading/Reader's Theatre/READERS' THEATRE 8.docx"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
-**READERS’ THEATRE 8**
+## READERS’ THEATRE 8
 
-<img src="assets/READERS' THEATRE 8/media/image1.jpeg"
-style="width:2.66667in;height:3.27911in" alt="masks" />
+<img src="assets/READERS' THEATRE 8/media/image1.jpeg" alt="masks" />
 
-<img src="assets/READERS' THEATRE 8/media/image1.jpeg"
-style="width:2.17708in;height:2.67708in" alt="masks" />
+<img src="assets/READERS' THEATRE 8/media/image1.jpeg" alt="masks" />
 
-**Readers’ Theatre 8**
+## Readers’ Theatre 8
 
 Wolf! Becky Bloom
 
@@ -54,7 +54,7 @@ The Porcupine Roald Dahl
 
 The Ant-Eater Roald Dahl
 
-**Wolf! Becky Bloom**
+## Wolf! Becky Bloom
 
 5 Readers
 
@@ -198,7 +198,7 @@ The wolf stretched in the grass. He was happy to have such
 
 wonderful friends.
 
-**Fantastic Mr Fox Roald Dahl**
+## Fantastic Mr Fox Roald Dahl
 
 6 Readers
 
@@ -284,7 +284,7 @@ the moment he poked his head out.”
 
 “He won’t be poking it out again in a hurry,” Bunce said.
 
-**The Paw Thing Paul Jennings**
+## The Paw Thing Paul Jennings
 
 3 Readers
 
@@ -350,7 +350,7 @@ I took the twenty dollars and walked out of the door with Singenpoo
 still in my arms. She was shivering with fear. Cats can tell when
 something is wrong.
 
-**The Giving Tree Shel Silverstein**
+## The Giving Tree Shel Silverstein
 
 3 Readers
 
@@ -507,7 +507,7 @@ you –***
 
 ***And the tree was happy.***
 
-**The Turnip**
+## The Turnip
 
 4 Readers
 
@@ -519,7 +519,7 @@ The King
 
 The Rich Brother
 
-**The Turnip**
+## The Turnip
 
 A German Folk Tale
 
@@ -599,7 +599,7 @@ Avery
 
 Teacher (one line)
 
-**Before Breakfast**
+## Before Breakfast
 
 "Where's Papa going with that axe?" said Fern to her mother as they were
 setting the table for breakfast.
@@ -740,7 +740,7 @@ Charlotte
 
 Templeton
 
-**Charlotte’s Web E.B.White**
+## Charlotte’s Web E.B.White
 
 **Chapter 21 Last Day   
 **
@@ -951,7 +951,7 @@ infield was littered with bottles and trash. Nobody, of the hundreds of
 people what had visited the Fair, knew that a grey spider had played the
 most important part of all. No one was with her when she died.
 
-**The Witches Roald Dahl**
+## The Witches Roald Dahl
 
 2 main readers plus audience
 
@@ -1307,7 +1307,7 @@ By sveeping all the mice avay.
 
 AND ALL US VITCHES SHOUT HOORAY!"
 
-**Anansi the Spider Dorothy Francis**
+## Anansi the Spider Dorothy Francis
 
 8 Readers
 
@@ -1323,7 +1323,7 @@ Animals (2-3)
 
 Snake
 
-**Anansi the Spider Dorothy Francis**
+## Anansi the Spider Dorothy Francis
 
 A long, long time ago, all the forest animals made fun of Anansi the
 Spider, because he was so weak. When Anansi whispered, nobody listened;
@@ -1597,7 +1597,7 @@ after the grounds.
 how to get past Fluffy, and it was either Snape or Voldemort under that
 cloak…”
 
-**Monster for Hire Trevor Wilson**
+## Monster for Hire Trevor Wilson
 
 7 Readers
 
@@ -1615,7 +1615,7 @@ The King
 
 The Sorcerer
 
-**Monster for Hire Trevor Wilson**
+## Monster for Hire Trevor Wilson
 
 On a stormy hill between two towns lived a giant. Because he was often
 away, the giant decided to hire a monster to guard his castle. So he put
@@ -1793,7 +1793,7 @@ SATISFACTION
 
 GUARANTEED
 
-**The Frog Who Would Be King Kate Walker**
+## The Frog Who Would Be King Kate Walker
 
 6 Readers
 
@@ -1809,7 +1809,7 @@ The Witch
 
 Court Magician
 
-**The Frog Who Would Be King Kate Walker**
+## The Frog Who Would Be King Kate Walker
 
 There was once a frog who dreamt of being someone special, someone brave
 and noble. He wanted to be a king, but he knew that such a thing could
@@ -1967,7 +1967,7 @@ So Reginald married his princess, and in time became king, while all the
 other frogs still sat on their lily pads catching tasteless flies and
 not daring to dream of all the greater things they could be.
 
-**Cinderella Barbara Karlin**
+## Cinderella Barbara Karlin
 
 6 Readers
 
@@ -2106,7 +2106,7 @@ Cinderella moved her family into the palace and found a lord of the
 court for each of her stepsisters to marry. Cinderella’s fairy godmother
 moved in too, just to make sure everyone lived happily ever after.
 
-**Erandi’s Braids Antonio Madrigal**
+## Erandi’s Braids Antonio Madrigal
 
 5 Readers
 
@@ -2299,7 +2299,7 @@ doll.
 **  
 **
 
-**Little Red Riding Hood and the Wolf Roald Dahl**
+## Little Red Riding Hood and the Wolf Roald Dahl
 
 4 Readers
 
@@ -2311,7 +2311,7 @@ Grandma (one line)
 
 Little Red Riding Hood
 
-**Little Red Riding Hood and the Wolf**
+## Little Red Riding Hood and the Wolf
 
 As soon as Wolf began to feel
 
@@ -2427,12 +2427,11 @@ She said, 'Hello, and do please note
 
 My lovely furry wolfskin coat.'
 
-**Roald Dahl**
+## Roald Dahl
 
-<img src="assets/READERS' THEATRE 8/media/image2.jpeg"
-style="width:3.125in;height:4.10417in" alt="Ridy" />
+<img src="assets/READERS' THEATRE 8/media/image2.jpeg" alt="Ridy" />
 
-**The Three Little Pigs Roald Dahl**
+## The Three Little Pigs Roald Dahl
 
 5 Readers
 
@@ -2446,7 +2445,7 @@ Pig 3
 
 Red Riding Hood
 
-**The Three Little Pigs**
+## The Three Little Pigs
 
 The animal I really dig,
 
@@ -2622,15 +2621,13 @@ But when she goes from place to place,
 
 She has a PIGSKIN TRAVELLING CASE.
 
-**Roald Dahl**
+## Roald Dahl
 
-<img src="assets/READERS' THEATRE 8/media/image3.jpeg"
-style="width:3.125in;height:4.125in" alt="ThreePig" />
+<img src="assets/READERS' THEATRE 8/media/image3.jpeg" alt="ThreePig" />
 
-<img src="assets/READERS' THEATRE 8/media/image4.jpeg"
-style="width:2.98958in;height:3.92708in" alt="Snowy" />
+<img src="assets/READERS' THEATRE 8/media/image4.jpeg" alt="Snowy" />
 
-**The Porcupine Roald Dahl**
+## The Porcupine Roald Dahl
 
 3 Readers
 
@@ -2643,7 +2640,7 @@ Dentist
 **  
 **
 
-**The Porcupine Roald Dahl**
+## The Porcupine Roald Dahl
 
 Each Saturday I shout “Hooray!”  
 For that’s my pocket-money day.
@@ -2804,7 +2801,7 @@ Don’t copy me. Don’t be a twit.
 
 Be sure you LOOK before you SIT.
 
-**The Ant-Eater Roald Dahl**
+## The Ant-Eater Roald Dahl
 
 5 Readers
 
@@ -2818,7 +2815,7 @@ Ant-Eater
 
 Aunt
 
-**The Ant-Eater**
+## The Ant-Eater
 
 Some wealthy folks from U.S.A.,
 
@@ -3028,4 +3025,4 @@ And said to Roy, “You little squirt,
 
 “I think I’ll have you for dessert.”
 
-**Roald Dahl**
+## Roald Dahl
