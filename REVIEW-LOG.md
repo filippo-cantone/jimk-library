@@ -12,6 +12,8 @@ Commits are per-folder so anything can be reverted or redone piecemeal.
 - [ ] Over and Under the Snow + Amos & Boris left in pack as abridged — agree?
 - [ ] Guess Who text is scrambled in Jim's original .docx — check print original if held?
 - [ ] Stone Swan / Prince's Unwelcome Disguise / Paddle Whispers: left in pack (source works unidentified) — advise?
+- [ ] Too Many Tamales (pack spells “Tomales”), My Name Is Yoon (pack heads “YOON”): titles corrected in standalones — agree?
+- [ ] The Boy Who Loved Words / Bigmama's / Time Somebody Told Me: left in pack (interleaved or uncertain) — agree?
 
 ## Folder progress
 
@@ -20,7 +22,7 @@ Commits are per-folder so anything can be reverted or redone piecemeal.
 - [x] Choral file-1 extracts assessment — 33 standalones lifted, committed
 - [x] Information Report — guide rewrite, twin scan retired, maps figure clipped
 - [x] Literacy Overview Jim — both guides rewritten, 2 diagrams clipped
-- [ ] First 20 Days Literacy
+- [x] First 20 Days Literacy — headings/frontmatter, 2 dupes retired, 7 mentor lifts
 - [ ] Inferring Course JIM
 - [ ] Vocabulary Course Jim
 - [ ] Mentor Texts (pass 1 done via lifts; needs own pass)

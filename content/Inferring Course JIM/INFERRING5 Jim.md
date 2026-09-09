@@ -3,17 +3,18 @@ title: "INFERRING5 Jim"
 source_file: "Inferring Course JIM/INFERRING5 Jim.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: inferring
 ---
 
 **INFERRING**
 
 **PART 5**
 
-<img src="assets/INFERRING5 Jim/media/image1.jpeg"
-style="width:5.31389in;height:6.25833in" />
+<img src="assets/INFERRING5 Jim/media/image1.jpeg" />
 
-**INFERRING 5**
+## INFERRING 5
 
 Graphic Novels
 
@@ -67,7 +68,7 @@ Coraline – Graphic Novel by Neil Gaiman
 
 Rapunzel’s Revenge by Shannon Hale
 
-**Graphic Novels**
+## Graphic Novels
 
 A book in a comic format that resembles a novel in length and narrative
 development.
@@ -117,8 +118,7 @@ read 'between the lines' in more traditional print narratives.*
 
 *- Literacy Today*
 
-<img src="assets/INFERRING5 Jim/media/image2.jpeg"
-style="width:1.86597in;height:2.38472in" />
+<img src="assets/INFERRING5 Jim/media/image2.jpeg" />
 
 The Lost Thing is a humorous story about a boy who discovers a
 bizarre-looking creature while out collecting bottle-tops at a beach.
@@ -130,8 +130,7 @@ uninvited interruption to day-to-day life. In spite of his better
 judgement, the boy feels sorry for this hapless creature, and attempts
 to find out where it belongs.
 
-<img src="assets/INFERRING5 Jim/media/image3.jpeg"
-style="width:4.16667in;height:4.23889in" />
+<img src="assets/INFERRING5 Jim/media/image3.jpeg" />
 
 **Teaching**
 
@@ -140,18 +139,18 @@ style="width:4.16667in;height:4.23889in" />
 Satire in literature holds the mirror up for us to look at our society,
 our foibles and ourselves. How does The Lost Thing do this?
 
-**Metaphor**
+## Metaphor
 
 Look at The Lost Thing as being a metaphor - having different meanings
 from the surface level.
 
-**Character Study**
+## Character Study
 
 The boy.
 
 The Lost Thing.
 
-**Book Discussion**
+## Book Discussion
 
 Students bring their Reading Response Journals to the group with
 questions and responses they have written.
@@ -162,13 +161,13 @@ The boy says, “And don’t ask me what the moral is.”
 
 What is the moral of the story?
 
-**Reading as a Writer**
+## Reading as a Writer
 
 Style is made up of Voice, Word Choice and Fluency. The Lost Thing lend
 itself to a discussion, particularly with our Grades 5 & 6 who have a
 deep background of studying Author Craft.
 
-**Visual Literacy**
+## Visual Literacy
 
 Discuss the style of the illustrations.
 
@@ -183,10 +182,9 @@ What are the students’ emotional responses to the illustrations?
 
 How does Shaun Tan achieve a change in the mood of the story?
 
-<img src="assets/INFERRING5 Jim/media/image4.jpeg"
-style="width:4.16667in;height:5.51944in" />
+<img src="assets/INFERRING5 Jim/media/image4.jpeg" />
 
-**The Lost Thing Comments by Shaun Tan**
+## The Lost Thing Comments by Shaun Tan
 
 What started out as an amusing nonsensical story soon developed into a
 fable about all sorts of social concerns, with a rather ambiguous
@@ -239,8 +237,7 @@ collection, made from many beer bottle-tops (supplied by my house-mate),
 seems to perfectly sum up the universe in an abstract way - just right
 for an endpaper design.
 
-<img src="assets/INFERRING5 Jim/media/image5.jpeg"
-style="width:4.16667in;height:4.67639in" />
+<img src="assets/INFERRING5 Jim/media/image5.jpeg" />
 
 I also liked the idea that, in keeping with the first-person narrative,
 this book is somehow a product of that world. Stamps and signs marking
@@ -278,10 +275,9 @@ presence can be measured only by the extent to which they are noticed
 broad and open question for the reader, given that they symbolise some
 fairly open-ended notion of ‘things that don’t belong’
 
-<img src="assets/INFERRING5 Jim/media/image6.jpeg"
-style="width:4.16667in;height:5.79167in" />
+<img src="assets/INFERRING5 Jim/media/image6.jpeg" />
 
-**The Lost Thing Shaun Tan**
+## The Lost Thing Shaun Tan
 
 So you want to hear a story? Well, I guess I used to know a whole lot of
 pretty interesting ones. Some of them so funny you’d laugh yourself
@@ -311,7 +307,7 @@ I couldn’t help feeling that something wasn’t quite right.
 
 As the hours slouched by, it seemed less and less likely that anybody
 was coming to take the thing home. There was no denying the unhappy
-truth of the situation. It was <u>lost.</u>
+truth of the situation. It was lost.
 
 I asked a few people if they knew anything about it, but nobody was very
 helpful.
@@ -384,7 +380,7 @@ of the paper happened to catch my eye.
 > We’ve got a pigeon hole to stick it in.
 >
 > <img src="assets/INFERRING5 Jim/media/image7.png"
-> style="width:2.08194in;height:2.66667in" />
+> />
 >
 > Downtown
 >
@@ -451,23 +447,19 @@ them too bust doing other stuff, I guess.
 
 *The next morning we caught a tram into the city.*
 
-<img src="assets/INFERRING5 Jim/media/image8.jpeg"
-style="width:3.63264in;height:2.72361in" />
+<img src="assets/INFERRING5 Jim/media/image8.jpeg" />
 
 John Brack Collins St 5pm (1955)
 
-<img src="assets/INFERRING5 Jim/media/image9.jpeg"
-style="width:3.3in;height:2.31597in" />
+<img src="assets/INFERRING5 Jim/media/image9.jpeg" />
 
 The front cover.
 
-<img src="assets/INFERRING5 Jim/media/image10.jpeg"
-style="width:2.02083in;height:2.69792in" />
+<img src="assets/INFERRING5 Jim/media/image10.jpeg" />
 
 Jeffrey Smart - Cahill Expressway
 
-<img src="assets/INFERRING5 Jim/media/image11.jpeg"
-style="width:2.72917in;height:2in" />
+<img src="assets/INFERRING5 Jim/media/image11.jpeg" />
 
 At the Beach
 
@@ -506,11 +498,9 @@ The Road Ahead is paved in Gold.
 The Postcard to Pete on the back cover had to be Cleared by Relevant
 Authority.
 
-<img src="assets/INFERRING5 Jim/media/image12.jpeg"
-style="width:6.16667in;height:2.64583in" />
+<img src="assets/INFERRING5 Jim/media/image12.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image13.jpeg"
-style="width:2.32292in;height:3.125in" />**Comments by Shaun Tan**
+<img src="assets/INFERRING5 Jim/media/image13.jpeg" />**Comments by Shaun Tan**
 
 The Red Tree is a story without any particular narrative; a series of
 distinct imaginary worlds as self-contained images which invite readers
@@ -584,8 +574,7 @@ rather than any very specific content, so it not only endures variable
 interpretations, it almost demands them. This seems appropriate, as
 everyone’s experience of ‘suffering’ or ‘hope’ is unique and personal.
 
-<img src="assets/INFERRING5 Jim/media/image14.jpeg"
-style="width:5.02153in;height:5.39653in" />
+<img src="assets/INFERRING5 Jim/media/image14.jpeg" />
 
 *Just as bad feelings are inevitable, they are always tempered by hope.*
 
@@ -615,7 +604,7 @@ Interested students could work on a complete text covering the whole
 book. The individual text lines could be incorporated into a longer text
 – “write off them.”
 
-**The Red Tree Shaun Tan**
+## The Red Tree Shaun Tan
 
 sometimes the day begins
 
@@ -675,74 +664,51 @@ quietly waiting
 
 just as you imagined it would be
 
-<img src="assets/INFERRING5 Jim/media/image15.jpeg"
-style="width:3.09236in;height:3.12569in" />
+<img src="assets/INFERRING5 Jim/media/image15.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image16.jpeg"
-style="width:3.09375in;height:3.125in" />
+<img src="assets/INFERRING5 Jim/media/image16.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image17.jpeg"
-style="width:3.70833in;height:3.15625in" />
+<img src="assets/INFERRING5 Jim/media/image17.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image18.jpeg"
-style="width:4.16736in;height:3.58472in" />
+<img src="assets/INFERRING5 Jim/media/image18.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image19.jpeg"
-style="width:2.22847in;height:3.11389in" />
+<img src="assets/INFERRING5 Jim/media/image19.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image20.jpeg"
-style="width:2.14583in;height:3.12431in" />
+<img src="assets/INFERRING5 Jim/media/image20.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image21.jpeg"
-style="width:3.06181in;height:3.12431in" />
+<img src="assets/INFERRING5 Jim/media/image21.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image22.jpeg"
-style="width:3.06181in;height:3.11389in" />
+<img src="assets/INFERRING5 Jim/media/image22.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image23.jpeg"
-style="width:3.0625in;height:3.12569in" />
+<img src="assets/INFERRING5 Jim/media/image23.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image24.jpeg"
-style="width:3.02014in;height:3.12431in" />
+<img src="assets/INFERRING5 Jim/media/image24.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image25.jpeg"
-style="width:3.12431in;height:3.08403in" />
+<img src="assets/INFERRING5 Jim/media/image25.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image26.jpeg"
-style="width:3.12431in;height:2.97917in" />
+<img src="assets/INFERRING5 Jim/media/image26.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image27.jpeg"
-style="width:3.02014in;height:3.12431in" />
+<img src="assets/INFERRING5 Jim/media/image27.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image28.jpeg"
-style="width:3.12431in;height:3.07222in" />
+<img src="assets/INFERRING5 Jim/media/image28.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image29.jpeg"
-style="width:2.16597in;height:3.11389in" />
+<img src="assets/INFERRING5 Jim/media/image29.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image30.jpeg"
-style="width:3.46597in;height:2.55278in" />
+<img src="assets/INFERRING5 Jim/media/image30.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image31.jpeg"
-style="width:2.16597in;height:3.11389in" />
+<img src="assets/INFERRING5 Jim/media/image31.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image32.jpeg"
-style="width:2.28056in;height:3.11389in" />
+<img src="assets/INFERRING5 Jim/media/image32.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image33.jpeg"
-style="width:2.17639in;height:3.11389in" />
+<img src="assets/INFERRING5 Jim/media/image33.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image34.jpeg"
-style="width:2.19792in;height:3.11389in" />
+<img src="assets/INFERRING5 Jim/media/image34.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image35.jpeg"
-style="width:3.06181in;height:3.11389in" />
+<img src="assets/INFERRING5 Jim/media/image35.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image36.jpeg"
-style="width:4.89583in;height:4.86597in" />
+<img src="assets/INFERRING5 Jim/media/image36.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image37.jpeg"
-style="width:1.875in;height:2.91597in" />
+<img src="assets/INFERRING5 Jim/media/image37.jpeg" />
 
 Orphan, clock keeper, and thief, twelve-year-old Hugo lives in the walls
 of a busy Paris train station, where his survival depends on secrets and
@@ -771,23 +737,17 @@ Caldecott Medal. The combination historical fiction-picture book-graphic
 novel demonstrates that Brian Selznick’s writing skills are equal to his
 artistic gifts.
 
-<img src="assets/INFERRING5 Jim/media/image38.jpeg"
-style="width:5.20833in;height:3.90625in" />
+<img src="assets/INFERRING5 Jim/media/image38.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image39.jpeg"
-style="width:5.25139in;height:3.93819in" />
+<img src="assets/INFERRING5 Jim/media/image39.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image40.jpeg"
-style="width:3.125in;height:5.1875in" />
+<img src="assets/INFERRING5 Jim/media/image40.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image41.jpeg"
-style="width:5.72986in;height:4.29236in" />
+<img src="assets/INFERRING5 Jim/media/image41.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image42.jpeg"
-style="width:6.88681in;height:5.18264in" />
+<img src="assets/INFERRING5 Jim/media/image42.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image43.jpeg"
-style="width:2.34375in;height:2.34375in" />
+<img src="assets/INFERRING5 Jim/media/image43.jpeg" />
 
 Ben and Rose secretly wish their lives were different. Ben longs for the
 father he has never known. Rose dreams of a mysterious actress whose
@@ -828,23 +788,17 @@ Point of View: author’s: third person, character’s: Ben and Rose.
 
 Summarising: Summarise Rose’s early life up to when she meets Ben.
 
-<img src="assets/INFERRING5 Jim/media/image44.jpeg"
-style="width:6.87153in;height:5.15347in" />
+<img src="assets/INFERRING5 Jim/media/image44.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image45.jpeg"
-style="width:6.17569in;height:4.6875in" />
+<img src="assets/INFERRING5 Jim/media/image45.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image46.jpeg"
-style="width:6.24861in;height:4.68889in" />
+<img src="assets/INFERRING5 Jim/media/image46.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image47.jpeg"
-style="width:6.25in;height:4.54167in" />
+<img src="assets/INFERRING5 Jim/media/image47.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image48.png"
-style="width:6.66597in;height:3.64444in" />
+<img src="assets/INFERRING5 Jim/media/image48.png" />
 
-<img src="assets/INFERRING5 Jim/media/image49.jpeg"
-style="width:1.39444in;height:1.66736in" />
+<img src="assets/INFERRING5 Jim/media/image49.jpeg" />
 
 *It was a normal summer night in the city. . . hot, noisy, busy. Then
 the lights went out.* The story of one family and what they do when the
@@ -867,10 +821,9 @@ Readers engage with fictional texts as they visualise who, when, where,
 and what. Students make movies in their minds as they follow the
 characters and events of a story from beginning to end.
 
-<img src="assets/INFERRING5 Jim/media/image50.jpeg"
-style="width:5.20833in;height:3.13542in" />
+<img src="assets/INFERRING5 Jim/media/image50.jpeg" />
 
-**Art**
+## Art
 
 *I like to use Berol Turquoise pencils on Strathmore Bristol paper (cold
 press) to do a tonal drawing, and then I scan it into my Mac and use
@@ -882,45 +835,37 @@ looking for.*
 
 *John Rocco*
 
-<img src="assets/INFERRING5 Jim/media/image51.jpeg"
-style="width:2.24028in;height:5.36597in" />
+<img src="assets/INFERRING5 Jim/media/image51.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image52.jpeg"
-style="width:5.20833in;height:3.59375in" />
+<img src="assets/INFERRING5 Jim/media/image52.jpeg" />
 
 Preliminary doodles for Blackout
 
-<img src="assets/INFERRING5 Jim/media/image53.jpeg"
-style="width:5.20833in;height:2.95833in" />
+<img src="assets/INFERRING5 Jim/media/image53.jpeg" />
 
 Character studies for Blackout
 
-<img src="assets/INFERRING5 Jim/media/image54.jpeg"
-style="width:5.20833in;height:3.07292in" />
+<img src="assets/INFERRING5 Jim/media/image54.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image55.jpeg"
-style="width:5.20833in;height:3.07292in" />
+<img src="assets/INFERRING5 Jim/media/image55.jpeg" />
 
 Tonal pencil drawings for Blackout.
 
-<img src="assets/INFERRING5 Jim/media/image56.jpeg"
-style="width:5.20764in;height:3.0625in" />
+<img src="assets/INFERRING5 Jim/media/image56.jpeg" />
 
 *“It started out as a normal summer night. The city was loud and hot.”*
 
-<img src="assets/INFERRING5 Jim/media/image57.jpeg"
-style="width:5.20833in;height:3.1875in" />
+<img src="assets/INFERRING5 Jim/media/image57.jpeg" />
 
 *“The lights went out.”*
 
-<img src="assets/INFERRING5 Jim/media/image58.jpeg"
-style="width:5.20833in;height:3.14583in" />
+<img src="assets/INFERRING5 Jim/media/image58.jpeg" />
 
 *“A party was going on there, too.”  
 Final art
 for *[**Blackout**](http://www.indiebound.org/book/9781423121909)
 
-**Raymond Briggs**
+## Raymond Briggs
 
 I believe Raymond Briggs deserves a special place in the history of
 graphic novels – and he’s still going. I have all of his books if you
@@ -933,13 +878,11 @@ When the Wind Blows
 
 The Tin-pot Foreign General and the Old Iron Maiden.
 
-<img src="assets/INFERRING5 Jim/media/image59.png"
-style="width:2.78819in;height:3.93125in" />
+<img src="assets/INFERRING5 Jim/media/image59.png" />
 
-**When The Wind Blows**
+## When The Wind Blows
 
-<img src="assets/INFERRING5 Jim/media/image60.jpeg"
-style="width:1.5625in;height:2.22917in" />
+<img src="assets/INFERRING5 Jim/media/image60.jpeg" />
 
 This story was written when Cold War tension was at its height, and the
 government issued advice leaflets on what to do in the event of a
@@ -961,11 +904,9 @@ could make up their minds.*
 
 *Raymond Briggs*
 
-<img src="assets/INFERRING5 Jim/media/image61.jpeg"
-style="width:3.33333in;height:2.16667in" />
+<img src="assets/INFERRING5 Jim/media/image61.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image62.jpeg"
-style="width:1.5625in;height:2.29167in" />
+<img src="assets/INFERRING5 Jim/media/image62.jpeg" />
 
 Utterly original, deeply moving and very funny, Raymond Briggs tells the
 story of his parents’ marriage from their first, chance encounter to
@@ -990,8 +931,7 @@ in his regular seat in the kitchen for an arm rest. I put that in*.
 
 *Raymond Briggs*
 
-<img src="assets/INFERRING5 Jim/media/image63.jpeg"
-style="width:4.62569in;height:2.97292in" />
+<img src="assets/INFERRING5 Jim/media/image63.jpeg" />
 
 Raymond Briggs was born in London in 1934, and studied at Wimbledon
 School of Art and the Slade School of Art, London. He initially worked
@@ -1009,14 +949,11 @@ working with adults or children, using Briggs to make points about and
 explore comics, as well as his key themes of history, politics, family
 life and childhood, is always effective.
 
-<img src="assets/INFERRING5 Jim/media/image64.png"
-style="width:5.38472in;height:8.56181in" />
+<img src="assets/INFERRING5 Jim/media/image64.png" />
 
-<img src="assets/INFERRING5 Jim/media/image65.jpeg"
-style="width:6.31181in;height:9.63889in" />
+<img src="assets/INFERRING5 Jim/media/image65.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image66.jpeg"
-style="width:2.0875in;height:2.24653in" />
+<img src="assets/INFERRING5 Jim/media/image66.jpeg" />
 
 The Tin-Pot Foreign General and the Old Iron Woman is a 1984 picture
 book, ostensibly for very young children. It satirises the Falklands
@@ -1043,11 +980,9 @@ Iron Woman, there are various celebrations, to which the maimed are not
 invited in case their appearance spoils the fun (a reference to actual
 occurrences at Falklands War memorial events).
 
-<img src="assets/INFERRING5 Jim/media/image67.jpeg"
-style="width:2.49861in;height:2.49861in" />
+<img src="assets/INFERRING5 Jim/media/image67.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image68.jpeg"
-style="width:1.5625in;height:2.12361in" />
+<img src="assets/INFERRING5 Jim/media/image68.jpeg" />
 
 Gentleman Jim is the story of Jim Bloggs, an imaginative toilet cleaner
 who, dissatisfied with his station in life, devotes his time to
@@ -1060,14 +995,11 @@ accumulating various accoutrements, only to discover that the life of an
 executive, an artist, or a cowboy is more complicated and costly than it
 appears.
 
-<img src="assets/INFERRING5 Jim/media/image69.jpeg"
-style="width:4.64653in;height:4.72778in" />
+<img src="assets/INFERRING5 Jim/media/image69.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image70.jpeg"
-style="width:7.27153in;height:10.04653in" />
+<img src="assets/INFERRING5 Jim/media/image70.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image71.jpeg"
-style="width:2.58542in;height:3.30833in" />
+<img src="assets/INFERRING5 Jim/media/image71.jpeg" />
 
 Deep down underground, in the dark, dripping tunnels of bogeydom, live
 the bogeys, a vile collection of slimy, smelly creatures who revel in
@@ -1075,11 +1007,9 @@ everything revolting. Fungus is a bogeyman-a particularly foul and fetid
 specimen. As he goes about his bogey business, the full horrors of
 bogeydom are revealed.
 
-<img src="assets/INFERRING5 Jim/media/image72.jpeg"
-style="width:4.06181in;height:4.16667in" />
+<img src="assets/INFERRING5 Jim/media/image72.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image73.jpeg"
-style="width:2.62917in;height:2.98403in" />
+<img src="assets/INFERRING5 Jim/media/image73.jpeg" />
 
 Raymond Briggs tells a magical Christmas story that will appeal to
 everyone who wants to believe in Santa Claus.
@@ -1095,14 +1025,11 @@ See also:
 
 Father Christmas Goes on Holiday
 
-<img src="assets/INFERRING5 Jim/media/image74.jpeg"
-style="width:3.76042in;height:1.45833in" />
+<img src="assets/INFERRING5 Jim/media/image74.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image75.jpeg"
-style="width:7.42847in;height:8.54722in" />
+<img src="assets/INFERRING5 Jim/media/image75.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image76.jpeg"
-style="width:1.875in;height:2.13542in" />
+<img src="assets/INFERRING5 Jim/media/image76.jpeg" />
 
 Jim woke up early one morning to find a plant that was very like a
 beanstalk growing outside his window. Climbing to the top of the
@@ -1110,8 +1037,7 @@ beanstalk, he found a castle and a giant, but with very modern problems
 that only Jim could help solve. Raymond Briggs brings a new generation
 to an old tale with humour and imagination.
 
-<img src="assets/INFERRING5 Jim/media/image77.jpeg"
-style="width:3.525in;height:3.65069in" />
+<img src="assets/INFERRING5 Jim/media/image77.jpeg" />
 
 Children predict from front cover who he might be and what he is doing.
 Take a “picture walk” through the book up to where Jack reaches the top
@@ -1131,15 +1057,13 @@ as a modern day version; characters more realistic, language used,
 
 illustrations, repetitive phrases.
 
-<img src="assets/INFERRING5 Jim/media/image78.jpeg"
-style="width:2.21389in;height:3.24583in" />
+<img src="assets/INFERRING5 Jim/media/image78.jpeg" />
 
 To the dismay of his parents and friends, a prehistoric boy continually
 thinks of making things softer, warmer, and nicer, rather than being
 content in a world of stone.
 
-<img src="assets/INFERRING5 Jim/media/image79.jpeg"
-style="width:1.875in;height:2.51042in" />
+<img src="assets/INFERRING5 Jim/media/image79.jpeg" />
 
 Tom refers to his grandfather as “Collar” because he drags him around on
 a lead. One day Tom decides that he will take Collar on a walk to see
@@ -1150,8 +1074,7 @@ wanders off, leaving Collar talking to Mrs. Whitebobblehat, and comes
 across just the person he needs. Finally, with puddles restored to their
 full, family-resembling glory, Tom and Collar go home for tea.
 
-<img src="assets/INFERRING5 Jim/media/image80.jpeg"
-style="width:2.36528in;height:3.26736in" />
+<img src="assets/INFERRING5 Jim/media/image80.jpeg" />
 
 An enchanting big book featuring 124 beautiful pastel illustration
 panels. A huge, snowy white bear arrives mysteriously one cold winter
@@ -1161,11 +1084,9 @@ in "civilising" him to her bemused parents. They are sure Tilly has an
 imaginary friend. But is he imaginary? Whether or not, his story is
 irresistible.
 
-<img src="assets/INFERRING5 Jim/media/image81.jpeg"
-style="width:2.92708in;height:4.35417in" />
+<img src="assets/INFERRING5 Jim/media/image81.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image82.jpeg"
-style="width:2.39653in;height:2.625in" />
+<img src="assets/INFERRING5 Jim/media/image82.jpeg" />
 
 The immensely popular Bone Series is one of the most critically
 acclaimed as well as one of the most beloved by children. Jeff Smith’s
@@ -1175,8 +1096,7 @@ a friend.” The lovely Thorn is considered one of the great fantasy
 heroines of all time. The series creates the classic tension of all good
 stories, humour balanced against the serious demands of adventure.
 
-<img src="assets/INFERRING5 Jim/media/image83.jpeg"
-style="width:3.7375in;height:3.74653in" />
+<img src="assets/INFERRING5 Jim/media/image83.jpeg" />
 
 Fone Bone, a cartoon creature who rather resembles Casper the Ghost, and
 his ne’er-do-well brothers Smiley Bone and Phoney Bone, leave their
@@ -1200,8 +1120,7 @@ Old Man’s Cave
 
 Treasure Hunters
 
-<img src="assets/INFERRING5 Jim/media/image84.jpeg"
-style="width:3.64583in;height:4.73958in" />
+<img src="assets/INFERRING5 Jim/media/image84.jpeg" />
 
 *One of the things I enjoy most about drawing comics is creating the
 compositions with black and white shapes. Now that colour is being
@@ -1214,13 +1133,11 @@ Or maybe I should say a whole new life!*
 
 *Jeff Smith*
 
-<img src="assets/INFERRING5 Jim/media/image85.png"
-style="width:4.58333in;height:4.60417in" />
+<img src="assets/INFERRING5 Jim/media/image85.png" />
 
-<img src="assets/INFERRING5 Jim/media/image86.jpeg"
-style="width:4.57153in;height:4.62569in" />
+<img src="assets/INFERRING5 Jim/media/image86.jpeg" />
 
-**Theme:**
+## Theme:
 
 The theme of the Bone series is adventure and how an ordinary
 
@@ -1234,18 +1151,18 @@ classic archetypes in Bone, with many parallels in other literature,
 include the reluctant hero, the unknown destiny, and the mentor wizard
 figure.
 
-**Reading - Inferring**
+## Reading - Inferring
 
 The space between the panels is known as the gutter. The author/artist
 often implies events that happen between panels in the gutter. Have
 students work in pairs and find an example of how this is true. What
 happened in the space?
 
-**Characters:**
+## Characters:
 
 Compare the three cousins.
 
-**Writing:**
+## Writing:
 
 Given a page from Bone: Out From Boneville, a pencil and paper, students
 rewrite the text in a paragraph format including quotation marks,
@@ -1258,17 +1175,13 @@ story that is not depicted, or only depicted visually. Another great
 exercise is to take a prose passage from a traditional novel, rewrite it
 as dialogue in a graphic novel, then create the pictures to go with it.
 
-<img src="assets/INFERRING5 Jim/media/image87.jpeg"
-style="width:4.16389in;height:2.50764in" />
+<img src="assets/INFERRING5 Jim/media/image87.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image88.jpeg"
-style="width:4.125in;height:3.98958in" />
+<img src="assets/INFERRING5 Jim/media/image88.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image89.jpeg"
-style="width:4in;height:3.98472in" />
+<img src="assets/INFERRING5 Jim/media/image89.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image90.jpeg"
-style="width:2.83333in;height:2.79167in" />
+<img src="assets/INFERRING5 Jim/media/image90.jpeg" />
 
 *My dad is weird. Besides claiming to be from Mars, my dad has a freezer
 full of dead goldfishes. Okay, “full” might be an exaggeration; there’s
@@ -1280,8 +1193,7 @@ before burying them in the garden, but with our long winters my dad soon
 forgot about his frozen fishies. I am sure the neighborhood cats will be
 happy when my dad gets around to giving his goldfish a proper burial.*
 
-<img src="assets/INFERRING5 Jim/media/image91.png"
-style="width:2.08194in;height:2.42639in" />
+<img src="assets/INFERRING5 Jim/media/image91.png" />
 
 Neil Gaiman and Dave McKean’s The Day I Swapped My Dad For Two Goldfish
 brilliantly takes traditional playground swaps and turns them into a
@@ -1292,8 +1204,7 @@ reader in a world where someone’s dad can be traded, quite reasonably,
 for an electric guitar, a gorilla mask or a fat white rabbit. After all,
 Dad’s don’t do much except sit and read the paper.
 
-<img src="assets/INFERRING5 Jim/media/image92.jpeg"
-style="width:4.47847in;height:4.5in" />
+<img src="assets/INFERRING5 Jim/media/image92.jpeg" />
 
 Lesson ideas:
 
@@ -1307,14 +1218,11 @@ New ideas.
 
 Independent writing based on story map.
 
-<img src="assets/INFERRING5 Jim/media/image93.jpeg"
-style="width:4.47847in;height:4.52083in" />
+<img src="assets/INFERRING5 Jim/media/image93.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image94.jpeg"
-style="width:4.47847in;height:4.49097in" />
+<img src="assets/INFERRING5 Jim/media/image94.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image95.jpeg"
-style="width:3.08333in;height:2.40417in" />
+<img src="assets/INFERRING5 Jim/media/image95.jpeg" />
 
 A simple fisherman from a small Japanese village finds a large yellow
 jar during his daily fishing excursion. Shocked to discover a beautiful
@@ -1335,14 +1243,11 @@ This is best stated in the book's introduction, by comic artist P. Craig
 Russell, that Atangan's work shows influences of "Japanese woodblock
 prints and European Art Nouveau."
 
-<img src="assets/INFERRING5 Jim/media/image96.jpeg"
-style="width:2.60347in;height:1.91667in" />
+<img src="assets/INFERRING5 Jim/media/image96.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image97.jpeg"
-style="width:6in;height:4.35417in" />
+<img src="assets/INFERRING5 Jim/media/image97.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image98.png"
-style="width:3.33264in;height:2.60347in" />
+<img src="assets/INFERRING5 Jim/media/image98.png" />
 
 Three stories from China for which Atangan has modified his decorative,
 boldly coloured cartooning style to reflect the influence of Chinese
@@ -1353,11 +1258,9 @@ final story, a young boy whose paintings miraculously come to life is
 kidnapped by the Dowager Empress. Highly recommended for teens and
 adults, especially fans of P. Craig Russell's work.
 
-<img src="assets/INFERRING5 Jim/media/image99.jpeg"
-style="width:3.04167in;height:2.36458in" />
+<img src="assets/INFERRING5 Jim/media/image99.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image100.jpeg"
-style="width:2.08333in;height:1.625in" />
+<img src="assets/INFERRING5 Jim/media/image100.jpeg" />
 
 A prince has fallen in love with a fair maiden, but cannot figure out
 how to woo her over to his side. What he does not realize is that even
@@ -1378,11 +1281,9 @@ look close that you realize that it’s also doubling as sequential art,
 telling part of a story. It’s a real feat that this works so
 wonderfully,
 
-<img src="assets/INFERRING5 Jim/media/image101.jpeg"
-style="width:6.14722in;height:3.93819in" />
+<img src="assets/INFERRING5 Jim/media/image101.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image102.jpeg"
-style="width:2.09653in;height:2.99583in" />
+<img src="assets/INFERRING5 Jim/media/image102.jpeg" />
 
 Clan Apis is the biography a honey bee named Nyuki. Written and drawn by
 biologist Jay Hosler, this story explores an elaborate insect society.
@@ -1391,23 +1292,17 @@ it. But, with help of her sister Dvorah, a dung beetle named Sisyphus
 and a sarcastic flower named Bloomington, she might have a chance to
 figure it all out .
 
-<img src="assets/INFERRING5 Jim/media/image103.jpeg"
-style="width:4.16667in;height:2.18681in" />
+<img src="assets/INFERRING5 Jim/media/image103.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image104.jpeg"
-style="width:1.92708in;height:2.83333in" />
+<img src="assets/INFERRING5 Jim/media/image104.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image105.jpeg"
-style="width:4.16667in;height:3.14653in" />
+<img src="assets/INFERRING5 Jim/media/image105.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image106.png"
-style="width:4.76042in;height:2.67708in" />
+<img src="assets/INFERRING5 Jim/media/image106.png" />
 
-<img src="assets/INFERRING5 Jim/media/image107.jpeg"
-style="width:5.04236in;height:2.51944in" />
+<img src="assets/INFERRING5 Jim/media/image107.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image108.jpeg"
-style="width:2.19583in;height:3.24583in" />
+<img src="assets/INFERRING5 Jim/media/image108.jpeg" />
 
 The Anne Frank House Museum in Amsterdam has launched a graphic novel
 version of the teenage Jewish diarist's biography, hoping to bring her
@@ -1431,14 +1326,11 @@ her family remained in a concealed apartment in Amsterdam. It was
 published after the war by her father Otto Frank, the only survivor.
 Anne Frank died in the Bergen-Belsen concentration camp in 1945.
 
-<img src="assets/INFERRING5 Jim/media/image109.jpeg"
-style="width:4.6875in;height:7.03125in" />
+<img src="assets/INFERRING5 Jim/media/image109.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image110.jpeg"
-style="width:4.6875in;height:7.03125in" />
+<img src="assets/INFERRING5 Jim/media/image110.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image111.jpeg"
-style="width:1.89583in;height:2.88542in" />
+<img src="assets/INFERRING5 Jim/media/image111.jpeg" />
 
 Coraline discovered the door a little after they moved into the house.
 When Coraline steps through a door in her family's new house, she finds
@@ -1449,8 +1341,7 @@ Acclaimed artist P. Craig Russell brings Neil Gaiman's enchanting,
 nationally bestselling children's book Coraline to new life in this
 gorgeously illustrated graphic novel adaptation.
 
-<img src="assets/INFERRING5 Jim/media/image112.jpeg"
-style="width:4.16667in;height:3.94792in" />
+<img src="assets/INFERRING5 Jim/media/image112.jpeg" />
 
 This is a clever, inventive adaptation of a stylish ‘crossover’ novel,
 in which a young girl discovers an alternative reality to the one she
@@ -1510,14 +1401,11 @@ suits it without overburdening it or distracting from the narrative.
 
 *Sharon Robinson*
 
-<img src="assets/INFERRING5 Jim/media/image113.jpeg"
-style="width:4.67708in;height:3.36458in" />
+<img src="assets/INFERRING5 Jim/media/image113.jpeg" />
 
-<img src="assets/INFERRING5 Jim/media/image114.png"
-style="width:3.54167in;height:4.16667in" />
+<img src="assets/INFERRING5 Jim/media/image114.png" />
 
-<img src="assets/INFERRING5 Jim/media/image115.jpeg"
-style="width:2.15625in;height:3.125in" />
+<img src="assets/INFERRING5 Jim/media/image115.jpeg" />
 
 Once upon a time, in a land you only think you know, lived a little girl
 and her mother...or the woman she thought was her mother. Every day,
@@ -1712,11 +1600,11 @@ Poetry
 
 Play
 
-**Teaching Guide - Shannon and Dean Hale**
+## Teaching Guide - Shannon and Dean Hale
 
 Activate **prior knowledge** – Rapunzel
 
-**Speaking and Listening**
+## Speaking and Listening
 
 Rapunzel’s Revenge is particularly rich in “silent” sequences—passages
 in which there is little or no dialogue or narration. Examples can be
@@ -1729,7 +1617,7 @@ by paying attention to these live “voice-overs”—and then being asked to
 jump in and continue or respond to what a previous student said,
 ad-libbing in a way that both makes sense and heightens dramatic power.
 
-**Recalling/Summarise**
+## Recalling/Summarise
 
 The detailed map of Gothel’s Reach (page 73) can be used at various
 points in the guiding reading process. Prior to reading, you can have
@@ -1743,7 +1631,7 @@ provide a summary of the
 
 story after reading it.
 
-**Identify Foreshadowing**
+## Identify Foreshadowing
 
 Help students connect different passages by pointing out instances of
 
@@ -1752,7 +1640,7 @@ a wild boar is made on page 25 and then one appears on page 36.
 Likewise, page 11 shows Rapunzel using a rope to swing from long before
 she uses her hair for the same purpose (page 70).
 
-**Compare and Contrast**
+## Compare and Contrast
 
 What general elements of a traditional fairy tale does Rapunzel’s
 Revenge
@@ -1763,7 +1651,7 @@ stories and how does this text radically alter them?
 Questions like these will help students appreciate the book’s inventive
 revisionism.
 
-**Inferences**
+## Inferences
 
 As students read, model how to make inferences to understand events and
 emotions, particularly in the flashback sequences early in the story
@@ -1773,14 +1661,14 @@ requires inferential thinking as well. For example, what does Jack think
 she means by “prison” on page 48? And what should we infer from his “Are
 you thinking what I’m thinking?” on the bottom of page 53?
 
-**Character Development**
+## Character Development
 
 Support students to interpret an important aspect of the text’s
 
 character development by having them identify key moments when Rapunzel
 and Jack’s relationship evolves (e.g., pages 63, 78, 89, and 113)
 
-**Theme**
+## Theme
 
 What is Shannon and Dean Hale’s conception of a hero? Draw attention to
 the scenes with the “rifle-toting ninny” (pages 41–42) and Rapunzel
@@ -1792,7 +1680,7 @@ heroes, but simply do what’s right. Finally, explore Jack’s shifting
 motives to show why he’s a more authentic hero than the “prince
 archetype” whom he replaces**.**
 
-**Draw Conclusions**
+## Draw Conclusions
 
 As a starting point to analyse her character, explain that “Mother
 Gothel” means “Godmother” in German. Why does she want a daughter so
@@ -1807,7 +1695,7 @@ traditional
 
 fairy tales, adventure stories, or comic books?
 
-**Making Connections**
+## Making Connections
 
 Why is Rapunzel averse to performing a “sultry little dance” (page 57)
 or why does she initially balk at being called “Punzie” (page 55)?
@@ -1824,5 +1712,4 @@ activities they no longer engage in—as well as new ones that they’re
 excited to embrace, a notion consistent with the sense of unlimited
 possibility conveyed by the book’s ending.
 
-<img src="assets/INFERRING5 Jim/media/image116.jpeg"
-style="width:6.24861in;height:8.08194in" />
+<img src="assets/INFERRING5 Jim/media/image116.jpeg" />

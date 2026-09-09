@@ -3,11 +3,12 @@ title: "INFERRING8 Jim"
 source_file: "Inferring Course JIM/INFERRING8 Jim.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: inferring
 ---
 
-<img src="assets/INFERRING8 Jim/media/image1.jpeg"
-style="width:2.62778in;height:3.17361in" />
+<img src="assets/INFERRING8 Jim/media/image1.jpeg" />
 
 **INFERRING**
 
@@ -29,8 +30,7 @@ By Anne Kispal
 
 Graphic Organisers
 
-<img src="assets/INFERRING8 Jim/media/image2.jpeg"
-style="width:5.76042in;height:3.84375in" />
+<img src="assets/INFERRING8 Jim/media/image2.jpeg" />
 
 *Students must infer cause and effect, main ideas, problems and
 solutions, comparisons and contrasts and visual cues to be effective
@@ -85,7 +85,7 @@ out
 
 that . . .
 
-**Asking Questions**
+## Asking Questions
 
 Strategic readers ask themselves questions before, during, and after
 reading to better understand the author and the meaning of the text.
@@ -110,7 +110,7 @@ Always try to infer a possible answer to a question (maybe…).
 
 • This makes me wonder about . .
 
-**Visualising**
+## Visualising
 
 Strategic readers picture what is happening as they read.
 
@@ -129,7 +129,7 @@ story/characters
 
 • If this were a movie . .
 
-**Predicting**
+## Predicting
 
 Strategic readers think about what’s going to happen and make
 predictions based on what they know and what they have read.
@@ -150,7 +150,7 @@ I think this will be about \_\_\_\_\_ because . . .
 
 • My predictions were right/wrong because . . .
 
-**Making Connections**
+## Making Connections
 
 • text to text
 
@@ -186,7 +186,7 @@ Always explain WHY you made the connection (because…).
 
 • This is similar to . . .
 
-**Determining What’s Important**
+## Determining What’s Important
 
 Strategic readers think about the text’s big idea or message and why
 it’s important.
@@ -205,7 +205,7 @@ At first I thought \_\_\_, but then I thought \_\_\_.
 
 • This is relevant to my life because . .
 
-**Summarising and Synthesising**
+## Summarising and Synthesising
 
 Strategic readers identify the most important ideas and restate them in
 their own words.
@@ -226,7 +226,7 @@ The text is mainly about \_\_\_.
 
 • In a nutshell this says that . . .
 
-**Analysing Author’s Craft**
+## Analysing Author’s Craft
 
 Strategic readers notice the way the author uses language to get his or
 her ideas across.
@@ -245,7 +245,7 @@ A golden line for me is . . .
 
 • I like how the author described \_\_\_\_ to show .
 
-**Monitoring and Clarifying**
+## Monitoring and Clarifying
 
 Strategic readers stop to think about their reading and know what to do
 when they don’t understand.
@@ -274,7 +274,7 @@ I had to slow down when . . .
 
 • I need to reread the part where . .
 
-**Evaluating text (commenting)**
+## Evaluating text (commenting)
 
 Strategic readers stop to think about their reading and make judgments
 about the plot, setting, themes, characters, etc.
@@ -300,17 +300,16 @@ interesting because…
 
 • The character I most admire is\_\_\_\_\_\_\_ because…
 
-<img src="assets/INFERRING8 Jim/media/image3.jpeg"
-style="width:3.33333in;height:3.33333in" />
+<img src="assets/INFERRING8 Jim/media/image3.jpeg" />
 
-**INFER WITH EVIDENCE**
+## INFER WITH EVIDENCE
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -372,12 +371,12 @@ style="width:3.33333in;height:3.33333in" />
 
 Centre for Urban Education
 
-**INFERENTIAL QUESTIONS**
+## INFERENTIAL QUESTIONS
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -441,7 +440,7 @@ Centre for Urban Education
 Inferences may occur in the form of conclusions, predictions, or new
 ideas.”
 
-**Prediction or Inference**
+## Prediction or Inference
 
 **Stephanie Harvey** writes, “To help our students understand the
 difference, we encourage them to consider the outcome of an event or
@@ -469,7 +468,7 @@ the text as they read
 Extend their comprehension beyond literal understandings of the printed
 page
 
-**Mosaic of Thought by Ellin Keene**
+## Mosaic of Thought by Ellin Keene
 
 Infers
 
@@ -486,7 +485,7 @@ already know that helped you to make that prediction?
 (text) helped you to know that? What do you already know that helped you
 to decide that?
 
-**Reading With Meaning** **by Debbie Miller**
+## Reading With Meaning** **by Debbie Miller
 
 What’s Key for Kids?
 
@@ -508,7 +507,7 @@ a text.
 
 Reading Between and Beyond the Lines
 
-**WHY**
+## WHY
 
 Comprehension is interactive, meaning that what the reader brings to the
 text (information, ideas, and experiences) and uses during the reading
@@ -541,7 +540,7 @@ cause / effect
 
 problem / solution
 
-**WHO**
+## WHO
 
 This strategy is appropriate for all readers, but is especially
 appropriate for readers who are not yet able to dip into their
@@ -549,7 +548,7 @@ background knowledge, combine it with textual information or clues, and
 develop understandings the author assumes we get without actually
 stating.
 
-**HOW**
+## HOW
 
 Inferential thinking can be demonstrated first by using cloze procedures
 with either portions of texts or entire texts. Begin by creating a
@@ -588,7 +587,7 @@ looking closely at the pictures
 
 using my schema
 
-**Book Choice**
+## Book Choice
 
 Readers know to infer when the answers to their questions are not
 explicitly stated in the text.
@@ -608,14 +607,11 @@ aloud using her schema, the pictures, and the words in the text to help
 infer answers; gradually invite children to do the same, recording
 thinking on the chart.
 
-<img src="assets/INFERRING8 Jim/media/image4.jpeg"
-style="width:7.88681in;height:4.76667in" />
+<img src="assets/INFERRING8 Jim/media/image4.jpeg" />
 
-<img src="assets/INFERRING8 Jim/media/image5.jpeg"
-style="width:1.875in;height:2.5in" />
+<img src="assets/INFERRING8 Jim/media/image5.jpeg" />
 
-<img src="assets/INFERRING8 Jim/media/image6.jpeg"
-style="width:1.875in;height:2.5in" />
+<img src="assets/INFERRING8 Jim/media/image6.jpeg" />
 
 Goals addressed in Elephants under Attack
 
@@ -657,8 +653,7 @@ APRIL 19, 2013
 
 By Suzanne Zimbler
 
-<img src="assets/INFERRING8 Jim/media/image7.jpeg"
-style="width:5.08333in;height:2.70833in" />
+<img src="assets/INFERRING8 Jim/media/image7.jpeg" />
 
 DOZENS OF AFRICAN ELEPHANTS SLAUGHTERED. That headline has become all
 too common. Last month, poachers killed at least 86 elephants in Chad
@@ -684,7 +679,7 @@ that an elephant has to die in order \[for them\] to get ivory," says
 Will Travers, of the Born Free Foundation. In recent years, as China's
 economy has grown, so has the demand for ivory.
 
-**The Trouble with Tusks**
+## The Trouble with Tusks
 
 The hunt for ivory is not a new problem. In the 1980s, as many as 1
 million elephants were slaughtered in Africa. The "Ivory Wars" continued
@@ -718,10 +713,9 @@ able to re-create the creatures. Should they?**
 
 MAY 03, 2013
 
-**By Bryan Walsh for TIME**
+## By Bryan Walsh for TIME
 
-<img src="assets/INFERRING8 Jim/media/image8.jpeg"
-style="width:5.08333in;height:2.70833in" />
+<img src="assets/INFERRING8 Jim/media/image8.jpeg" />
 
 SCIENCE PICTURES CO./SCIENCE FACTION/CORBIS
 
@@ -747,7 +741,7 @@ advances should improve the success rate. In January, Australian
 scientists announced that they were on their way to bringing back the
 gastric brooding frog.
 
-**Correcting Mistakes**
+## Correcting Mistakes
 
 Just because we can bring species back doesn't mean that we should.
 There may be benefits to reviving a species. But there's no way to know
@@ -808,7 +802,7 @@ persuading others of their opinion, using information from TFK.
 Challenge them to include at least one reason not given in the cover
 story.
 
-**Point of View**
+## Point of View
 
 The passenger pigeon used to be one of the most common birds on the
 planet. A century ago, the species became extinct. Scientist Ben Novak,
@@ -817,7 +811,7 @@ back. Here, he explains why to TFK.
 
 Read what Novak has to say. Then answer the questions.
 
-**Why We Should Bring Passenger Pigeons Back from Extinction**
+## Why We Should Bring Passenger Pigeons Back from Extinction
 
 The passenger pigeon is not the bird you probably imagine when you hear
 
@@ -1442,7 +1436,7 @@ similar exercises.
 
  practising inferential questions on aurally presented texts.
 
-**Choosing the right texts:**
+## Choosing the right texts:
 
  taking care not to choose texts that are too easy for classwork: very
 explicit texts provide few opportunities for inferences to be made.
@@ -1451,7 +1445,7 @@ explicit texts provide few opportunities for inferences to be made.
 
  discussion of texts in curricular areas outside literacy.
 
-**Background knowledge**
+## Background knowledge
 
 The importance of background knowledge cannot be over-stressed.
 
@@ -1462,7 +1456,7 @@ background knowledge does not automatically guarantee that the reader
 will necessarily make the inference. The knowledge may not be easily
 accessible or seem pertinent to the reader.
 
-**Word-level knowledge**
+## Word-level knowledge
 
 Word-level processing has some bearing on inferencing.
 
@@ -1493,12 +1487,12 @@ Factors common to those who are adept at automatic inferencing:
 
  sharing the same cultural background as that assumed by the text
 
-**Summary**
+## Summary
 
 The following is a summary of all the specific suggestions that have
 been shown by research to have a place in inference instruction:
 
-**Word level work:**
+## Word level work:
 
  developing fluent basic reading skills (e.g. practice in decoding
 
@@ -1510,7 +1504,7 @@ reading
 
  Lexical training: local cohesive devices (pronouns, connectives)
 
-**Text level work:**
+## Text level work:
 
  make explicit the structure of stories
 
@@ -1520,7 +1514,7 @@ reading
 
 making
 
-**Questions asked by the teacher:**
+## Questions asked by the teacher:
 
  ‘How do you know?’
 
@@ -1552,7 +1546,7 @@ mental representation
 
  practise inferential questions on aurally presented texts
 
-**Question asked by pupils:**
+## Question asked by pupils:
 
  Why-questions
 
@@ -1571,7 +1565,7 @@ questions words from a text and group-members answer. Pupils
 
 take turns in asking and answering the questions.
 
-**Activation of prior knowledge**
+## Activation of prior knowledge
 
  pupils generate initial associations
 
@@ -1581,11 +1575,11 @@ take turns in asking and answering the questions.
 
 result of discussion
 
-**Prediction and contextualisation**
+## Prediction and contextualisation
 
  cloze exercises, and similar
 
-**Aural work**
+## Aural work
 
  listening to stories and story tapes
 
@@ -1593,7 +1587,7 @@ result of discussion
 
  discussion in curricular areas outside literacy
 
-**Considerations when choosing texts**
+## Considerations when choosing texts
 
  Narrative texts generate more inferences but expository texts
 
@@ -1619,7 +1613,7 @@ prose?
 
  Do not choose texts that are too easy.
 
-**Strategies to show inference in use**
+## Strategies to show inference in use
 
  Model inferencing by asking relevant questions aloud and
 
@@ -1639,7 +1633,7 @@ them to make inferences.
 | **What the Text says** | **What I think** |
 | **My Answer**          |                  |
 
-**Inferring using Poetry**
+## Inferring using Poetry
 
 |          |                 |
 |----------|-----------------|
@@ -1656,9 +1650,9 @@ them to make inferences.
 
 <table>
 <colgroup>
-<col style="width: 30%" />
-<col style="width: 30%" />
-<col style="width: 38%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1730,10 +1724,10 @@ head . . . The author didn’t say _______</p>
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 27%" />
-<col style="width: 22%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1777,9 +1771,9 @@ other texts that relate to this topic</h1></td>
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1845,12 +1839,12 @@ next</h1></td>
 </tbody>
 </table>
 
-**WRITING CRAFT**
+## WRITING CRAFT
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1900,12 +1894,12 @@ progresses through them.</p>
 </tbody>
 </table>
 
-**Reading Like a Writer**
+## Reading Like a Writer
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1937,7 +1931,7 @@ progresses through them.</p>
 </tbody>
 </table>
 
-**Predict-O-Gram**
+## Predict-O-Gram
 
 Vocabulary Words
 
@@ -1949,7 +1943,7 @@ Vocabulary Words
 |---------|--------|----------|
 | Problem | Action | Solution |
 
-**Probable Passage**
+## Probable Passage
 
 Setting:
 
@@ -2006,10 +2000,10 @@ What I can infer about the character
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2044,17 +2038,17 @@ Traits:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 | **What does \_\_\_\_\_\_\_\_\_\_\_\_ do?** | **What does this tell us about \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_?** |
 |                                            |                                                                            |
 
-**It Says – I Say – And So …**
+## It Says – I Say – And So …
 
 **Reading Strategies:** Making Inferences, Making Connections,
 Synthesising
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2096,21 +2090,21 @@ answer.</p></td>
 </tbody>
 </table>
 
-**Inferring the Meaning of Unfamiliar Words**
+## Inferring the Meaning of Unfamiliar Words
 
 |          |                            |                       |
 |----------|----------------------------|-----------------------|
 | **Word** | **What We Infer it Means** | **Why We Think That** |
 |          |                            |                       |
 
-**Explaining the Image**
+## Explaining the Image
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2169,12 +2163,12 @@ answer.</p></td>
 | **I noticed …** | **My Questions** | **My Background Knowledge** | **I am Inferring …** |
 |                 |                  |                             |                      |
 
-**Telling Stories Through Pictures**
+## Telling Stories Through Pictures
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2193,8 +2187,8 @@ answer.</p></td>
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2324,9 +2318,9 @@ Book:
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2358,12 +2352,12 @@ Book:
 | **Text says** | **Questions** | **Inferences** |
 |               |               |                |
 
-**INFERRING THEMES**
+## INFERRING THEMES
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2386,12 +2380,12 @@ Book:
 | **How does the character act?**                                                 |
 | **How do other characters react to this character?**                            |
 
-**How and Why Characters Change**
+## How and Why Characters Change
 
 **Text:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**Author: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+## Author: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Character:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -2411,9 +2405,9 @@ Provide evidence from the story to support your conclusion.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2464,7 +2458,7 @@ Provide evidence from the story to support your conclusion.
 |            |           |
 | **Wonder** | **Infer** |
 
-**Text Questions and Inferences**
+## Text Questions and Inferences
 
 |                 |               |                |
 |-----------------|---------------|----------------|

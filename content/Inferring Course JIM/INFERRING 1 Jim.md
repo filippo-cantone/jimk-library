@@ -3,17 +3,18 @@ title: "INFERRING 1 Jim"
 source_file: "Inferring Course JIM/INFERRING 1 Jim.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: inferring
 ---
 
 **INFERRING**
 
 **PART 1**
 
-<img src="assets/INFERRING 1 Jim/media/image1.jpeg"
-style="width:2.27778in;height:3.42292in" />
+<img src="assets/INFERRING 1 Jim/media/image1.jpeg" />
 
-**INFERRING 1**
+## INFERRING 1
 
 Inferring
 
@@ -71,7 +72,7 @@ Erandi’s Braids by Antonio Madrigal
 
 Character Inferences Word List
 
-**INFERRING**
+## INFERRING
 
 “When we read, we stretch the limits of the literal text by folding our
 experience and belief into the literal meanings in the text, creating a
@@ -165,7 +166,7 @@ When proficient readers infer they are more likely to
 - create interpretations which enrich and deepen their engagement with a
   text.
 
-**Teaching Ideas:**
+## Teaching Ideas:
 
 Inferring Feelings Charades
 
@@ -202,8 +203,8 @@ used here.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -223,8 +224,7 @@ acts.</td>
 
 Another graphic organiser that could be used is the Inference Web.
 
-<img src="assets/INFERRING 1 Jim/media/image2.jpeg"
-style="width:3.90556in;height:3.30278in" />
+<img src="assets/INFERRING 1 Jim/media/image2.jpeg" />
 
 Guided Practice following modelling.
 
@@ -298,7 +298,7 @@ And sometimes forgot to flush,
 Would still be allowed to be  
 In charge of the world.
 
-**Judith Viorst**
+## Judith Viorst
 
 Think aloud about the person not liking oatmeal because it says that
 oatmeal would be cancelled. I’d infer that that if you cancelled
@@ -340,7 +340,7 @@ And sometimes forgot to flush,
 Would still be allowed to be  
 In charge of the world.
 
-**Judith Viorst**
+## Judith Viorst
 
 > Poem:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -370,7 +370,7 @@ Langston Hughes
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -412,13 +412,13 @@ wonder.
 
 In Time of Silver Rain
 
-**Langston Hughes**
+## Langston Hughes
 
 <img src="assets/INFERRING 1 Jim/media/image3.png" />
 
 <table>
 <colgroup>
-<col style="width: 100%" />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -450,7 +450,7 @@ In time of silver rain<br />
 </tbody>
 </table>
 
-**Those Winter Sundays**
+## Those Winter Sundays
 
 Sundays too my father got up early
 
@@ -519,8 +519,8 @@ Modelling:
 
 <table>
 <colgroup>
-<col style="width: 49%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -552,7 +552,7 @@ clothes, fresh and unused.</p></td>
 </tbody>
 </table>
 
-**Purchase**
+## Purchase
 
 I like the smell of new clothes,
 
@@ -584,7 +584,7 @@ That I become
 
 When I first wear it.
 
-**Naomi Madgett**
+## Naomi Madgett
 
 |                        |                  |
 |------------------------|------------------|
@@ -668,7 +668,7 @@ Until my mother came
 
 to change the sheets.
 
-**Inferring Using POETRY**
+## Inferring Using POETRY
 
 Gradual release of responsibility.
 
@@ -809,7 +809,7 @@ bite.
 
 Rebecca Kai Dotlich
 
-**Inferring using Poetry**
+## Inferring using Poetry
 
 |          |                 |
 |----------|-----------------|
@@ -826,8 +826,8 @@ Rebecca Kai Dotlich
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -865,8 +865,8 @@ Rebecca Kai Dotlich
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -902,8 +902,8 @@ Rebecca Kai Dotlich
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -946,8 +946,8 @@ Rebecca Kai Dotlich
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -978,13 +978,13 @@ Rebecca Kai Dotlich
 We ask “What does the author want us to think about after reading this
 book?”
 
-**Teaching inferring**
+## Teaching inferring
 
 <table>
 <colgroup>
-<col style="width: 30%" />
-<col style="width: 30%" />
-<col style="width: 38%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1054,8 +1054,7 @@ head . . . The author didn’t say _______</p>
 </tbody>
 </table>
 
-<img src="assets/INFERRING 1 Jim/media/image4.jpeg"
-style="width:1.88056in;height:2.36944in" />
+<img src="assets/INFERRING 1 Jim/media/image4.jpeg" />
 
 A man held a stick and a chain. On the other end of the chain was a
 bear, with a ring through his nose. His mouth was kept shut by a muzzle.
@@ -1069,8 +1068,7 @@ their hands.
 
 But Mr Bear could see that the bear did not dance for joy…
 
-<img src="assets/INFERRING 1 Jim/media/image5.jpeg"
-style="width:1.37708in;height:1.99653in" />
+<img src="assets/INFERRING 1 Jim/media/image5.jpeg" />
 
 Cole Matthews is angry. Angry, defiant, smug -in short, a bully. His
 anger has taken him too far this time, though. After beating up a
@@ -1088,7 +1086,7 @@ island may be more difficult than he could ever imagine. Does he survive
 the year and what happens when he is faced with Spirit Bear, will he
 survive?
 
-**Mr Bear & the Bear Frances Thomas**
+## Mr Bear & the Bear Frances Thomas
 
 Everyone called him Mr Bear, though perhaps he had another name. “Cross
 as a bear,” people said. Nobody smiled at him in the street, children
@@ -1199,7 +1197,7 @@ And there was more: porridge, honeycomb and nuts. The bear ate
 everything up. He had not eaten such delicious things for a long time.
 He looked at Mr Bear, who looked back at him. Mr Bear smiled.
 
-**QAR – Touching Spirit Bear**
+## QAR – Touching Spirit Bear
 
 Students are asking themselves questions during the reading. They should
 be able to recognise through their knowledge of QAR that the sources of
@@ -1239,7 +1237,7 @@ Question: What other liquid could be filling Cole’s mouth?
 You need to infer from the passage what the liquid could be considering
 the fact that Cole has been seriously injured.
 
-**On Your Own**
+## On Your Own
 
 *“The police might not have caught him, but after a week passed, he
 bragged about the break-in at school. When someone ratted on him, the
@@ -1368,7 +1366,7 @@ What does Cole do to help the reader believe he might actually be
 changing? How do you feel about Cole now? Does thinking whether you
 “like” or “dislike” Cole help you to understand the story better?
 
-**QARS - QUESTION-ANSWER-RELATIONSHIP-STRATEGY**
+## QARS - QUESTION-ANSWER-RELATIONSHIP-STRATEGY
 
 > Demonstrates to students that there are different types of questions
 > and possible places for finding answers to those questions.
@@ -1484,10 +1482,10 @@ Four types of questions are examined in the QAR:
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 27%" />
-<col style="width: 22%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1553,9 +1551,9 @@ other texts that relate to this topic</h1></td>
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1647,20 +1645,17 @@ next</h1></td>
 
 # 
 
-# <img src="assets/INFERRING 1 Jim/media/image6.jpeg"
-style="width:5.28125in;height:6.83333in" />
+# <img src="assets/INFERRING 1 Jim/media/image6.jpeg" />
 
 Books to use with QAR
 
-<img src="assets/INFERRING 1 Jim/media/image7.jpeg"
-style="width:1.04167in;height:1.42708in" />How to Heal a Broken Wing by
+<img src="assets/INFERRING 1 Jim/media/image7.jpeg" />How to Heal a Broken Wing by
 Bob Graham
 
 When a young boy spots a hurt bird on a busy city street, he takes it
 home until it can return to the outdoors.
 
-<img src="assets/INFERRING 1 Jim/media/image8.jpeg"
-style="width:1.04167in;height:1.30208in" />Pale Male: Citizen Hawk of
+<img src="assets/INFERRING 1 Jim/media/image8.jpeg" />Pale Male: Citizen Hawk of
 New York City by Janet Schulman,
 
 A red-tailed hawk takes up residence in a tony New York neighbourhood
@@ -1694,8 +1689,7 @@ Van Allsburg, Chris Jumanji
 
 Yorinks, Arthur Hey, Al
 
-<img src="assets/INFERRING 1 Jim/media/image9.jpeg"
-style="width:3.125in;height:2.39028in" />
+<img src="assets/INFERRING 1 Jim/media/image9.jpeg" />
 
 Day after day, brand new ducks roll off a giant assembly line operated
 by alligators at the Colossal Duck Factory. They are loaded into trucks
@@ -1722,8 +1716,7 @@ Animation.
 
 Writing Craft.
 
-<img src="assets/INFERRING 1 Jim/media/image10.jpeg"
-style="width:2.69792in;height:2.03125in" />
+<img src="assets/INFERRING 1 Jim/media/image10.jpeg" />
 
 **Sitting Ducks Michael Bedard QAR**
 
@@ -1733,7 +1726,7 @@ What is the setting in this picture? (*factory)*
 
 What is the alligator doing? (*punching the time clock)*
 
-**Think and Search**
+## Think and Search
 
 How does the duck’s feelings about the waiter in the diner change?
 
@@ -1744,7 +1737,7 @@ Why does the duck give the alligator a ticket?
 
 *(He wants the alligator to go to Florida too.)*
 
-**Author/Artist and You**
+## Author/Artist and You
 
 How do you think the duck feels when the waiter in the restaurant shows
 them the daily special? Why?
@@ -1755,7 +1748,7 @@ What do the ducks seem to be doing?
 
 *(Exercising in order to get in shape to fly south.)*
 
-**On Your Own**
+## On Your Own
 
 In this picture, the egg fell off the assembly line. Why do you think
 this happened?
@@ -1766,7 +1759,7 @@ Why do you think the alligator put the duck in his lunch pail?
 
 *(Many possible answers.)*
 
-**Sitting Ducks Michael Bedard**
+## Sitting Ducks Michael Bedard
 
 Day after day, a steady supply of ducks rolled off the assembly line at
 the Colossal Duck Factory. Alligators pushed buttons and pulled levers
@@ -1888,8 +1881,8 @@ Life was good at the Flapping Arms Seaside Resort.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1944,23 +1937,17 @@ hopelessly, vigorously, suddenly,</em></p>
 </tbody>
 </table>
 
-<img src="assets/INFERRING 1 Jim/media/image11.jpeg"
-style="width:6.79167in;height:3.89583in" />
+<img src="assets/INFERRING 1 Jim/media/image11.jpeg" />
 
-<img src="assets/INFERRING 1 Jim/media/image12.jpeg"
-style="width:5.75in;height:3.79167in" />
+<img src="assets/INFERRING 1 Jim/media/image12.jpeg" />
 
-<img src="assets/INFERRING 1 Jim/media/image13.jpeg"
-style="width:4.5in;height:3.33333in" />
+<img src="assets/INFERRING 1 Jim/media/image13.jpeg" />
 
-<img src="assets/INFERRING 1 Jim/media/image14.jpeg"
-style="width:3.75in;height:2.8125in" />
+<img src="assets/INFERRING 1 Jim/media/image14.jpeg" />
 
-<img src="assets/INFERRING 1 Jim/media/image15.jpeg"
-style="width:8.33333in;height:4.33194in" />
+<img src="assets/INFERRING 1 Jim/media/image15.jpeg" />
 
-<img src="assets/INFERRING 1 Jim/media/image16.jpeg"
-style="width:8.33333in;height:4.32292in" />
+<img src="assets/INFERRING 1 Jim/media/image16.jpeg" />
 
 **Purpose and Meaning of the**
 
@@ -1968,8 +1955,8 @@ style="width:8.33333in;height:4.32292in" />
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2008,7 +1995,7 @@ what they have noticed across</p>
 </tbody>
 </table>
 
-**Tuesday by David Wiesner P-QARs**
+## Tuesday by David Wiesner P-QARs
 
 A few examples of questions for this story are as follows:
 
@@ -2062,7 +2049,7 @@ make predictions about the story and understand what is happening*.*
 
 *Ref: Read Write Think*
 
-**Suggested Books for Teaching P-QARs**
+## Suggested Books for Teaching P-QARs
 
 Aardema, Verna Why Mosquitoes Buzz in People’s Ears
 
@@ -2098,10 +2085,9 @@ Wiesner, David Tuesday
 
 Wiesner, David Sector 7
 
-<img src="assets/INFERRING 1 Jim/media/image17.jpeg"
-style="width:4.16667in;height:4.16667in" />
+<img src="assets/INFERRING 1 Jim/media/image17.jpeg" />
 
-**Picture Flick**
+## Picture Flick
 
 Like a picture walk.
 
@@ -2124,7 +2110,7 @@ Discuss how their predictions were confirmed or not confirmed.
 
 Copy/copies of the book available for students to read independently.
 
-**Questioning the Author**
+## Questioning the Author
 
 Gradual Release …
 
@@ -2147,7 +2133,7 @@ topic conflict, resolution, clue, or fact?*
 
 *Have I figured out the author’s big idea?*
 
-**Predict-o-gram**
+## Predict-o-gram
 
 Provide students with a list of words they will find in the story they
 are to read. These words should be connected to the setting, characters,
@@ -2165,7 +2151,7 @@ and check their predictions. Allow them to change anything they would
 like to change. Discuss each of the words and where it belongs with the
 entire class. Some words will probably fit into more than one category.
 
-**Probable Passage**
+## Probable Passage
 
 Probable Passage is very similar to the Predict-O-Gram. Begin by
 introducing key vocabulary from the story to students. Choose vocabulary
@@ -2191,7 +2177,7 @@ wilted and looked dreadful.
 
 Solution: The students decided to buy new flowers for their school.
 
-**Predict-O-Gram**
+## Predict-O-Gram
 
 Vocabulary Words
 
@@ -2203,7 +2189,7 @@ Vocabulary Words
 |---------|--------|----------|
 | Problem | Action | Solution |
 
-**Probable Passage**
+## Probable Passage
 
 Setting:
 
@@ -2235,8 +2221,7 @@ Solution:
 |-----|
 |     |
 
-<img src="assets/INFERRING 1 Jim/media/image18.jpeg"
-style="width:2.13472in;height:2.76528in" />
+<img src="assets/INFERRING 1 Jim/media/image18.jpeg" />
 
 *A father and his young child take a winter walk through the cold woods
 near their farm to ‘go owling’, or to find an owl in the forest. Along
@@ -2293,10 +2278,10 @@ evidence from the text to support interpretations and inferences. E.g.
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2331,7 +2316,7 @@ Text-to-text connection
 
 Stopping by the Woods on a Snowy Evening – poem by Robert Frost.
 
-**Owl Moon Jane Yolen**
+## Owl Moon Jane Yolen
 
 It was late one winter night,
 
@@ -2711,18 +2696,16 @@ under a shining
 
 Owl Moon.
 
-<img src="assets/INFERRING 1 Jim/media/image19.jpeg"
-style="width:5.20833in;height:7.8125in" />
+<img src="assets/INFERRING 1 Jim/media/image19.jpeg" />
 
-<img src="assets/INFERRING 1 Jim/media/image20.jpeg"
-style="width:6.77083in;height:4.22917in" />
+<img src="assets/INFERRING 1 Jim/media/image20.jpeg" />
 
 |                               |                                   |                                  |         |
 |-------------------------------|-----------------------------------|----------------------------------|---------|
 | I’m wondering what this means | Evidence from the book/Text clues | Background knowledge/What I know | I infer |
 |                               |                                   |                                  |         |
 
-**The Mary Celeste, an Unsolved Mystery from History**
+## The Mary Celeste, an Unsolved Mystery from History
 
 by Jane Yolen and Heidi Stemple
 
@@ -2777,7 +2760,7 @@ Further discussion:
 
 Format of vocabulary notes.
 
-**The Mary Celeste – An Unsolved Mystery from History**
+## The Mary Celeste – An Unsolved Mystery from History
 
 Jane Yolen & Heidi Elisabet Yolen Stemple
 
@@ -3022,7 +3005,7 @@ number. (There were ten, including the captain and his wife and child.)
 Such details make for better gossip, better stories, but they are simply
 not true.
 
-**VOCABULARY**
+## VOCABULARY
 
 Petroleum: crude oil before it has been refined for use.
 
@@ -3099,7 +3082,7 @@ sails.
 Penny Papers: the old name for tabloid newspapers because long ago they
 sold for a penny.
 
-**Inferring about CHARACTERS**
+## Inferring about CHARACTERS
 
 *A strategy that good readers use while reading fiction is to gather
 information about the characters in the story. Good readers think*
@@ -3122,28 +3105,28 @@ character’s physical traits, inner traits, dialogue, and actions.
 Students list examples from the text that fit each of these areas, then
 make inferences about the character based on what they have listed.
 
-**Physical Traits**
+## Physical Traits
 
 Words used to describe facial expression, body, clothing, hair, etc.
 
-**Inner Traits**
+## Inner Traits
 
 Words that tell what the character is thinking (words not spoken) that
 reflect mood, feelings, reactions and personality.
 
-**Dialogue**
+## Dialogue
 
 Consider dialogue between two characters. What does it reveal about a
 character’s thoughts? What do you think the character is thinking when
 he/she says those words?
 
-**Action**
+## Action
 
 Review the character’s actions and think about why the character acts as
 he does, predict what the character might do next, think about words or
 phrases that describe the character’s behavior.
 
-**Character’s Feelings**
+## Character’s Feelings
 
 The author shows the reader how the character is feeling by describing
 the character’s behaviour. It’s then up to the reader, using their own
@@ -3197,7 +3180,7 @@ characters said or thought).
 
 Follow up during Reading Conferences.
 
-**Babushka’s Doll Patricia Polacco**
+## Babushka’s Doll Patricia Polacco
 
 It wasn’t that Natasha was a truly naughty child. She just never
 understood why she had to wait for things.
@@ -3341,10 +3324,10 @@ What I can infer about the character
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3381,7 +3364,7 @@ Traits:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 Mentor Text:
 
-**My Rotten Red-Headed Older Brother by Patricia Polacco**
+## My Rotten Red-Headed Older Brother by Patricia Polacco
 
 Understanding characters through what they say and do.
 
@@ -3433,8 +3416,7 @@ Focus: Did anyone infer what their character was thinking or feeling
 from clues in the text? What clues did you use? What did you infer? How
 did you use your own background knowledge to infer?
 
-<img src="assets/INFERRING 1 Jim/media/image21.jpeg"
-style="width:1.66667in;height:1.29167in" />
+<img src="assets/INFERRING 1 Jim/media/image21.jpeg" />
 
 Read aloud Alexander, Who Used to Be Rich Last Sunday and model how to
 infer what characters are feeling based on the pictures and text. Create
@@ -3444,7 +3426,7 @@ modeled, provide students the opportunity to make inferences with a
 partner (use a different book) using the t-chart. Eventually, have
 students make inferences as they read without the t-chart.
 
-**Character Traits**
+## Character Traits
 
 Book
 Title\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
@@ -3453,8 +3435,8 @@ Genre\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -3496,8 +3478,7 @@ change?\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-<img src="assets/INFERRING 1 Jim/media/image22.jpeg"
-style="width:2.45069in;height:2.99653in" />
+<img src="assets/INFERRING 1 Jim/media/image22.jpeg" />
 
 A grandmother living in a Southern mill town at the turn of the century;
 a mother winning the hard-fought right to vote; a daughter born the year
@@ -3603,7 +3584,7 @@ that school, I’d
 never have another chance to ruin one of her plays. And that was such
 good news, I could stand being famous for a day.
 
-**Erandi’s Braids Antonio Madrigal**
+## Erandi’s Braids Antonio Madrigal
 
 Strategy: Making inferences about characters.
 
@@ -3658,7 +3639,7 @@ the story? How do you know?*
 
 Chart right hand column.
 
-**Erandi’s Braids**
+## Erandi’s Braids
 
 |                          |                                          |
 |--------------------------|------------------------------------------|
@@ -3945,10 +3926,9 @@ competitive - enjoying rivalry, contests, or other tests that put one in
 competition with others  
 stubborn - unreasonably unwilling to do something; obstinate
 
-**Fantastic Mr Fox Roald Dahl**
+## Fantastic Mr Fox Roald Dahl
 
-<img src="assets/INFERRING 1 Jim/media/image23.jpeg"
-style="width:8.33333in;height:4.16667in" />
+<img src="assets/INFERRING 1 Jim/media/image23.jpeg" />
 
 Read
 
@@ -3966,7 +3946,7 @@ Do you think he is wrong to take the chickens from the farmers?
 
 How does he convince Badger that what they are doing is acceptable?
 
-**‘Mr Fox’**
+## ‘Mr Fox’
 
 On a hill above the valley there was a wood.
 
@@ -3998,7 +3978,7 @@ off and
 quickly change direction heading for Chicken House Number Four at the
 other end of the farm.
 
-**‘Badger Has Doubts’**
+## ‘Badger Has Doubts’
 
 Suddenly Badger said, ' Doesn't this worry you just a tiny bit, Foxy?'
 
@@ -4041,12 +4021,12 @@ Badger laid his head on one side and smiled at Mr Fox. 'Foxy,' he said,
 
 'I love you.'
 
-**Fantastic Mr Mr Fox**
+## Fantastic Mr Mr Fox
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">

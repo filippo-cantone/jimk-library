@@ -3,17 +3,18 @@ title: "INFERRING4 Jim"
 source_file: "Inferring Course JIM/INFERRING4 Jim.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: inferring
 ---
 
 **INFERRING**
 
 **PART 4**
 
-<img src="assets/INFERRING4 Jim/media/image1.jpeg"
-style="width:3.125in;height:4.16597in" />
+<img src="assets/INFERRING4 Jim/media/image1.jpeg" />
 
-**INFERRING 4**
+## INFERRING 4
 
 What Good Readers do when They Infer
 
@@ -61,7 +62,7 @@ that it is raining, but the feeling of being rained upon.”
 
 —E.L. Doctorow
 
-**What Good Readers Do When They Infer**
+## What Good Readers Do When They Infer
 
 • Predict and revise predictions as they read.
 
@@ -83,16 +84,15 @@ adapt
 
 their background knowledge to the new understandings they’ve gained.
 
-<img src="assets/INFERRING4 Jim/media/image2.jpeg"
-style="width:4.16667in;height:3.66667in" />
+<img src="assets/INFERRING4 Jim/media/image2.jpeg" />
 
 Teaching Inferring
 
 <table>
 <colgroup>
-<col style="width: 28%" />
-<col style="width: 38%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -158,8 +158,7 @@ connections to my knowledge helped me</p>
 </tbody>
 </table>
 
-<img src="assets/INFERRING4 Jim/media/image3.jpeg"
-style="width:2.77083in;height:2.64583in" />
+<img src="assets/INFERRING4 Jim/media/image3.jpeg" />
 
 Magpie is injured in a bushfire but she discovers that riding atop her
 friend, one-eyed Dog, as he runs through the bush, feels almost the same
@@ -183,7 +182,7 @@ yourself or someone else?
 
 Did your feelings change as you read the book?
 
-**Visual Literacy**
+## Visual Literacy
 
 *The ability to interpret, negotiate, and make meaning from the
 information presented in the form of an image*.
@@ -197,8 +196,7 @@ Ron Brooks in Fox. **Colour**. For me the red comes out in the colour of
 the fox and the desert, adding mood. “*She can feel herself burning with
 nothingness.”*
 
-<img src="assets/INFERRING4 Jim/media/image4.jpeg"
-style="width:2.66667in;height:1.65625in" />
+<img src="assets/INFERRING4 Jim/media/image4.jpeg" />
 
 The pictures seems to have a **texture** where your senses are brought
 together, both sight and feel. This is helped by the **line.** The
@@ -246,7 +244,7 @@ on the other.
 
 Fox can be appreciated by older students who can handle discussing
 
-**Art Elements:**
+## Art Elements:
 
 Colour
 
@@ -283,18 +281,16 @@ added more colour here and there – until I felt the image had everything
 I was able to find. Until I felt it matched the voice in the writing –
 the texture of the language.*
 
-<img src="assets/INFERRING4 Jim/media/image5.jpeg"
-style="width:4.47917in;height:4.34375in" />
+<img src="assets/INFERRING4 Jim/media/image5.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image6.jpeg"
-style="width:3.57292in;height:2.64583in" />
+<img src="assets/INFERRING4 Jim/media/image6.jpeg" />
 
-**Telling Stories Through Pictures**
+## Telling Stories Through Pictures
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -309,7 +305,7 @@ style="width:3.57292in;height:2.64583in" />
 </tbody>
 </table>
 
-**Fox Margaret Wild & Ron Brooks**
+## Fox Margaret Wild & Ron Brooks
 
 Through the charred forest, over hot ash, runs Dog, with a bird clamped
 in his big, gentle mouth.
@@ -427,8 +423,8 @@ Strategies**
 
 <table>
 <colgroup>
-<col style="width: 41%" />
-<col style="width: 58%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -484,12 +480,12 @@ and loneliness.</em></p>
 </tbody>
 </table>
 
-**Fox Reading Like a Writer**
+## Fox Reading Like a Writer
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -545,9 +541,9 @@ and loneliness.</em></p>
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -592,8 +588,7 @@ home.</em></p>
 </tbody>
 </table>
 
-<img src="assets/INFERRING4 Jim/media/image7.jpeg"
-style="width:6.54028in;height:3.12014in" />
+<img src="assets/INFERRING4 Jim/media/image7.jpeg" />
 
 *Essentially an aesthetic perspective asks questions about how the
 illustrator has created mood or feelings and what personal responses are
@@ -620,12 +615,12 @@ to the words.*
 
 *Ron Brooks*
 
-**INFERRING THEMES**
+## INFERRING THEMES
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -646,8 +641,8 @@ to the words.*
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -685,7 +680,7 @@ home.</em></p></td>
 </tbody>
 </table>
 
-**Inferring using PHOTOS**
+## Inferring using PHOTOS
 
 Show students a picture and have them look carefully at the clues in the
 picture.
@@ -699,23 +694,20 @@ feeling \_\_\_\_\_\_\_\_*
 
 *What are you inferring is happening in this picture? Maybe…*
 
-<img src="assets/INFERRING4 Jim/media/image8.jpeg"
-style="width:2.50556in;height:3.81111in" />
+<img src="assets/INFERRING4 Jim/media/image8.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image9.jpeg"
-style="width:6.24861in;height:4.68889in" />
+<img src="assets/INFERRING4 Jim/media/image9.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image10.jpeg"
-style="width:6.45833in;height:4.16667in" />
+<img src="assets/INFERRING4 Jim/media/image10.jpeg" />
 
-**Explaining the Image**
+## Explaining the Image
 
 <table>
 <colgroup>
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
-<col style="width: 25%" />
+<col />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -769,45 +761,39 @@ style="width:6.45833in;height:4.16667in" />
 </tbody>
 </table>
 
-<img src="assets/INFERRING4 Jim/media/image11.jpeg"
-style="width:3.28194in;height:5.00069in" />
+<img src="assets/INFERRING4 Jim/media/image11.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image12.jpeg"
-style="width:4.6in;height:6.50417in" />
+<img src="assets/INFERRING4 Jim/media/image12.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image13.jpeg"
-style="width:2.09375in;height:2.60417in" />
+<img src="assets/INFERRING4 Jim/media/image13.jpeg" />
 
 |                 |                  |                             |                      |
 |-----------------|------------------|-----------------------------|----------------------|
 | **I noticed …** | **My Questions** | **My Background Knowledge** | **I am Inferring …** |
 |                 |                  |                             |                      |
 
-<img src="assets/INFERRING4 Jim/media/image14.jpeg"
-style="width:4.79167in;height:3in" />
+<img src="assets/INFERRING4 Jim/media/image14.jpeg" />
 
 |                 |                  |                             |                      |
 |-----------------|------------------|-----------------------------|----------------------|
 | **I noticed …** | **My Questions** | **My Background Knowledge** | **I am Inferring …** |
 |                 |                  |                             |                      |
 
-<img src="assets/INFERRING4 Jim/media/image15.jpeg"
-style="width:4.72917in;height:3.55208in" />
+<img src="assets/INFERRING4 Jim/media/image15.jpeg" />
 
 |                 |                  |                             |                      |
 |-----------------|------------------|-----------------------------|----------------------|
 | **I noticed …** | **My Questions** | **My Background Knowledge** | **I am Inferring …** |
 |                 |                  |                             |                      |
 
-<img src="assets/INFERRING4 Jim/media/image16.jpeg"
-style="width:3.12569in;height:2.51042in" />
+<img src="assets/INFERRING4 Jim/media/image16.jpeg" />
 
 |                 |                  |                             |                      |
 |-----------------|------------------|-----------------------------|----------------------|
 | **I noticed …** | **My Questions** | **My Background Knowledge** | **I am Inferring …** |
 |                 |                  |                             |                      |
 
-**Inferring using ART**
+## Inferring using ART
 
 To practise inferring, ask students to first look at the painting you
 have chosen. Ask them to make observations only about what they see. For
@@ -831,8 +817,7 @@ Before the Shot Four Sporting Boys
 
 A Tough One
 
-<img src="assets/INFERRING4 Jim/media/image17.jpeg"
-style="width:4.16667in;height:2.625in" />
+<img src="assets/INFERRING4 Jim/media/image17.jpeg" />
 
 **Painting
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -845,58 +830,43 @@ style="width:4.16667in;height:2.625in" />
 |----------------------|
 | Conclusion/Inference |
 
-<img src="assets/INFERRING4 Jim/media/image18.jpeg"
-style="width:4.71736in;height:6.25139in" />
+<img src="assets/INFERRING4 Jim/media/image18.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image19.jpeg"
-style="width:6.51597in;height:7.54444in" />
+<img src="assets/INFERRING4 Jim/media/image19.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image20.jpeg"
-style="width:3.33264in;height:3.39583in" />
+<img src="assets/INFERRING4 Jim/media/image20.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image21.jpeg"
-style="width:3in;height:2.98611in" />
+<img src="assets/INFERRING4 Jim/media/image21.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image22.jpeg"
-style="width:6.95972in;height:7.40278in" />
+<img src="assets/INFERRING4 Jim/media/image22.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image23.jpeg"
-style="width:7.125in;height:6.91111in" />
+<img src="assets/INFERRING4 Jim/media/image23.jpeg" />
 
-**Inferring using CARTOONS**
+## Inferring using CARTOONS
 
-<img src="assets/INFERRING4 Jim/media/image24.jpeg"
-style="width:4.65764in;height:5.5in" />
+<img src="assets/INFERRING4 Jim/media/image24.jpeg" />
 
 Make inferences about the characters in this cartoon.
 
-<img src="assets/INFERRING4 Jim/media/image25.png"
-style="width:6.25in;height:2.02083in" />
+<img src="assets/INFERRING4 Jim/media/image25.png" />
 
 What is your conclusion to this comic?
 
-<img src="assets/INFERRING4 Jim/media/image26.jpeg"
-style="width:4.30139in;height:4.52014in" />
+<img src="assets/INFERRING4 Jim/media/image26.jpeg" />
 
 Wilbur Dawbarn
 
-<img src="assets/INFERRING4 Jim/media/image27.jpeg"
-style="width:5.20833in;height:4.53125in" />
+<img src="assets/INFERRING4 Jim/media/image27.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image28.jpeg"
-style="width:3.98819in;height:2.81111in" />
+<img src="assets/INFERRING4 Jim/media/image28.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image29.jpeg"
-style="width:3.48819in;height:3.14444in" />
+<img src="assets/INFERRING4 Jim/media/image29.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image30.jpeg"
-style="width:3.87292in;height:2.62361in" />
+<img src="assets/INFERRING4 Jim/media/image30.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image31.jpeg"
-style="width:3.84236in;height:2.82153in" />
+<img src="assets/INFERRING4 Jim/media/image31.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image32.png"
-style="width:6.66597in;height:7.65556in" />
+<img src="assets/INFERRING4 Jim/media/image32.png" />
 
 “My homework …”
 
@@ -908,7 +878,7 @@ Text clues.
 
 Background knowledge.
 
-**Inferring using POLITICAL CARTOONS**
+## Inferring using POLITICAL CARTOONS
 
 Sometimes difficult to find appropriate material. As I write this there
 is upheaval in Egypt. It is constantly on the news. And forms the
@@ -916,22 +886,18 @@ subject for a lot of political comment through cartoons. Again text
 clues and background knowledge is necessary when inferring what is
 happening.
 
-<img src="assets/INFERRING4 Jim/media/image33.jpeg"
-style="width:6in;height:4.23958in" />
+<img src="assets/INFERRING4 Jim/media/image33.jpeg" />
 
 ## [Egypt Falling](http://www.cagle.com/2013/08/egypt-falling/)
 
-<img src="assets/INFERRING4 Jim/media/image34.jpeg"
-style="width:6.25in;height:4.40556in" />
+<img src="assets/INFERRING4 Jim/media/image34.jpeg" />
 
 [New hieroglyphs in
 Egypt](http://www.cagle.com/2013/08/new-hieroglyphs-in-egypt/)
 
-<img src="assets/INFERRING4 Jim/media/image35.jpeg"
-style="width:6.25in;height:4.70764in" />
+<img src="assets/INFERRING4 Jim/media/image35.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image36.jpeg"
-style="width:4.68889in;height:6.0625in" />
+<img src="assets/INFERRING4 Jim/media/image36.jpeg" />
 
 by John Sherffius
 
@@ -946,8 +912,7 @@ Comic strips are a text structure with a story. They require the reader
 to combine the print and the graphics to comprehend the intended
 meaning.
 
-<img src="assets/INFERRING4 Jim/media/image37.jpeg"
-style="width:4.16736in;height:3.62569in" />
+<img src="assets/INFERRING4 Jim/media/image37.jpeg" />
 
 Comics can be used to teach literary terms. Many comics rely heavily on
 allusion, satire, irony, and parody.
@@ -956,27 +921,21 @@ allusion, satire, irony, and parody.
 and so enhance rather than undermine reading skills, as well as offering
 a way into exploring the varied forms of visual literacy.*
 
-<img src="assets/INFERRING4 Jim/media/image38.png"
-style="width:7.83264in;height:6.04792in" />
+<img src="assets/INFERRING4 Jim/media/image38.png" />
 
 Present with blank speech bubble. What does Snoopy say?
 
 Look at original version.
 
-<img src="assets/INFERRING4 Jim/media/image39.png"
-style="width:7.78194in;height:6.01458in" />
+<img src="assets/INFERRING4 Jim/media/image39.png" />
 
-<img src="assets/INFERRING4 Jim/media/image40.png"
-style="width:7.86667in;height:6.07639in" />
+<img src="assets/INFERRING4 Jim/media/image40.png" />
 
-<img src="assets/INFERRING4 Jim/media/image41.png"
-style="width:7.86667in;height:6.07639in" />
+<img src="assets/INFERRING4 Jim/media/image41.png" />
 
-<img src="assets/INFERRING4 Jim/media/image42.png"
-style="width:7.86597in;height:6.07778in" />
+<img src="assets/INFERRING4 Jim/media/image42.png" />
 
-<img src="assets/INFERRING4 Jim/media/image43.jpeg"
-style="width:6.83333in;height:2.20139in" />
+<img src="assets/INFERRING4 Jim/media/image43.jpeg" />
 
 > Jeremy figures that “I lost my wallet again today” should have led his
 > mother to infer that he did something to avoid the consequences of
@@ -987,7 +946,7 @@ style="width:6.83333in;height:2.20139in" />
 > possibly to assuming that any reasonable person would respond to
 > repeated wallet loss the way you did.
 
-**Roles in Comic Book Production:**
+## Roles in Comic Book Production:
 
 • Writer: the person who writes the script from which the story will
 
@@ -1017,7 +976,7 @@ helps the creative team find direction for telling the stories.
 
 happy.
 
-**Parts of a comic book:**
+## Parts of a comic book:
 
 • Script: all the written directions for how the comic book will get put
 
@@ -1048,13 +1007,11 @@ particular
 
 events.
 
-<img src="assets/INFERRING4 Jim/media/image44.jpeg"
-style="width:4.16667in;height:3.53125in" />
+<img src="assets/INFERRING4 Jim/media/image44.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image45.jpeg"
-style="width:4.16667in;height:3.0625in" />
+<img src="assets/INFERRING4 Jim/media/image45.jpeg" />
 
-**Wordless Graphic Novels**
+## Wordless Graphic Novels
 
 *For a young child to read a graphic novel, much less a wordless one,
 many essential literacy skills are required, including the ability to
@@ -1080,10 +1037,9 @@ novels, everything is on display and there can be no question as to what
 the student is viewing. Therefore, the art as well as the story line
 must be carefully scrutinised.*
 
-**The Snowman Raymond Briggs**
+## The Snowman Raymond Briggs
 
-<img src="assets/INFERRING4 Jim/media/image46.jpeg"
-style="width:1.92708in;height:2.83333in" />
+<img src="assets/INFERRING4 Jim/media/image46.jpeg" />
 
 At first sight, the book looks like a typical picture book. It's not.
 While it is a fully developed story about a little boy who builds a
@@ -1110,14 +1066,11 @@ suited to snow.
 it a feeling of silence and peace. The house in the book is my own house
 here, at the foot of the South Downs, a few miles from Brighton."
 
-<img src="assets/INFERRING4 Jim/media/image47.jpeg"
-style="width:7.25069in;height:5.08472in" />
+<img src="assets/INFERRING4 Jim/media/image47.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image48.jpeg"
-style="width:7.24722in;height:5.30069in" />
+<img src="assets/INFERRING4 Jim/media/image48.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image49.jpeg"
-style="width:3.22917in;height:2.88542in" />
+<img src="assets/INFERRING4 Jim/media/image49.jpeg" />
 
 In 1978, Briggs created perhaps his most enduring creation The Snowman.
 A beautiful silent comic about a boy who builds a snowman who comes to
@@ -1133,11 +1086,9 @@ partly inspired by his previous book:
 so… I wanted to do something which was clean, pleasant, fresh and
 wordless and quick*.
 
-<img src="assets/INFERRING4 Jim/media/image50.jpeg"
-style="width:3.64583in;height:2.58333in" />
+<img src="assets/INFERRING4 Jim/media/image50.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image51.jpeg"
-style="width:2.86458in;height:2.88958in" />
+<img src="assets/INFERRING4 Jim/media/image51.jpeg" />
 
 While she's in the Metropolitan Museum with her grandmother, a little
 girl leaves her prized yellow balloon tied to a railing outside. But its
@@ -1152,16 +1103,13 @@ larger, main illustration with smaller ones around it. This provides
 supporting details on the page, and is very helpful for the students who
 need more information or visual clues.
 
-<img src="assets/INFERRING4 Jim/media/image52.jpeg"
-style="width:4.47847in;height:4.47847in" />
+<img src="assets/INFERRING4 Jim/media/image52.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image53.jpeg"
-style="width:4.47917in;height:4.47917in" />
+<img src="assets/INFERRING4 Jim/media/image53.jpeg" />
 
-**The Arrival by Shaun Tan**
+## The Arrival by Shaun Tan
 
-<img src="assets/INFERRING4 Jim/media/image54.jpeg"
-style="width:2.47917in;height:3.04861in" />
+<img src="assets/INFERRING4 Jim/media/image54.jpeg" />
 
 This wordless graphic novel tells the story of an immigrant family as
 they respond to the surroundings of their new country. The only words
@@ -1170,8 +1118,7 @@ alphabet created by Tan to mimic the isolation that many immigrants feel
 upon entering a new country. Readers must use imagery and inference to
 follow the course of the story.
 
-<img src="assets/INFERRING4 Jim/media/image55.jpeg"
-style="width:4.16667in;height:4.22917in" />
+<img src="assets/INFERRING4 Jim/media/image55.jpeg" />
 
 .
 
@@ -1189,11 +1136,9 @@ violence, upheaval and hope."
 
 Shaun Tan
 
-<img src="assets/INFERRING4 Jim/media/image56.jpeg"
-style="width:4.6875in;height:3.17708in" />
+<img src="assets/INFERRING4 Jim/media/image56.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image57.jpeg"
-style="width:6.41042in;height:8.68194in" />
+<img src="assets/INFERRING4 Jim/media/image57.jpeg" />
 
 **Questioning:** The students of course will have their own.
 
@@ -1225,7 +1170,7 @@ When does the language barrier present a problem for the main character.
 
 Where is there evidence of this?
 
-**Themes:**
+## Themes:
 
 There are several easily identifiable themes in this book. E.g. Family,
 
@@ -1233,7 +1178,7 @@ Students discover the themes using images in the book as evidence.
 
 (See Thematic graphic organisers).
 
-**Extract from article by Shaun Tan**
+## Extract from article by Shaun Tan
 
 Looking over much of my previous work as an illustrator and writer, such
 as *The Rabbits *(about colonisation), *The Lost Thing* (about a
@@ -1252,8 +1197,7 @@ Rabbits*) only further troubled any sense of a connection to a
 ‘homeland’ in this universe of bulldozed ‘tabula rasa’ coastal dunes,
 and fast-tracked, walled-in housing estates.
 
-<img src="assets/INFERRING4 Jim/media/image58.jpeg"
-style="width:3.75in;height:4.84444in" />
+<img src="assets/INFERRING4 Jim/media/image58.jpeg" />
 
 Being a half-Chinese at a time a place when this was fairly unusual may
 have compounded this, as I was constantly being asked ‘where are you
@@ -1266,11 +1210,9 @@ of separateness, an unclear notion of identity or detachment from roots,
 on top of that traditionally contested concept of what it is to be
 ‘Australian’, or worse, ‘un-Australian’ (whatever that might mean).
 
-<img src="assets/INFERRING4 Jim/media/image59.jpeg"
-style="width:4.68889in;height:3.17639in" />
+<img src="assets/INFERRING4 Jim/media/image59.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image60.jpeg"
-style="width:3.75in;height:4.84444in" />
+<img src="assets/INFERRING4 Jim/media/image60.jpeg" />
 
 Beyond any personal issues, though, I think that the ‘problem’ of
 belonging is perhaps more of a basic existential question that everybody
@@ -1338,8 +1280,7 @@ chronological images illustrating the story of someone’s life. They work
 by inspiring memory and urging us to fill in the silent gaps, animating
 them with the addition of our own storyline.
 
-<img src="assets/INFERRING4 Jim/media/image61.jpeg"
-style="width:3.75in;height:4.84444in" />
+<img src="assets/INFERRING4 Jim/media/image61.jpeg" />
 
 In ‘The Arrival’, the absence of any written description also plants the
 reader more firmly in the shoes of an immigrant character. There is no
@@ -1398,8 +1339,7 @@ studying to the techniques used by storyboard artists and editors in
 that industry. All of these pieces of ‘research’ informed the style and
 structure of the book over several full-length revisions.
 
-<img src="assets/INFERRING4 Jim/media/image62.jpeg"
-style="width:3.75in;height:4.84444in" />
+<img src="assets/INFERRING4 Jim/media/image62.jpeg" />
 
 The actual process of then producing the final images came to be more
 like film-making than conventional illustration. Realising the
@@ -1509,8 +1449,7 @@ to be easily summarised, all the more reason to think further on the
 connections between people and places, and what we might mean when we
 talk about ‘belonging’.
 
-<img src="assets/INFERRING4 Jim/media/image63.jpeg"
-style="width:2.33333in;height:3.08333in" />
+<img src="assets/INFERRING4 Jim/media/image63.jpeg" />
 
 In this wordless picture book, a boy kicks his soccer ball into an empty
 theatre, and goes in after it. It is strange, and dark, and
@@ -1530,8 +1469,7 @@ title) to be released!
 Now Baron, Bear, and Boy are on the run together. But all is not lost!
 Their path takes them right to Queen Elizabeth, and she is charmed...
 
-<img src="assets/INFERRING4 Jim/media/image64.jpeg"
-style="width:3.75in;height:2.76528in" />
+<img src="assets/INFERRING4 Jim/media/image64.jpeg" />
 
 Shakespeare, however, still wants revenge. And he chases the boy back to
 where it all began--the empty stage, and so back home again.
@@ -1540,7 +1478,7 @@ It is sweet and lovely and funny and fascinating, and utterly wonderful.
 The story flows just beautifully, despite being wordless. The artwork is
 full of detail, full of enthusiasm, and captivating.
 
-**Themes:**
+## Themes:
 
 Freedom
 
@@ -1552,7 +1490,7 @@ Love and Friendship
 
 Adventure mischief and fun
 
-**Writing:**
+## Writing:
 
 Write a cumulative text, employing repetition and rhythm in the
 language, in order to engage a young audience, based on the images in
@@ -1564,14 +1502,11 @@ model. These stories have repeated events and words as a structure. The
 boy meets—the bard, the bear, the baron, and the queen. In each instance
 he could be asked the same thing.
 
-<img src="assets/INFERRING4 Jim/media/image65.jpeg"
-style="width:3.12569in;height:1.79097in" />
+<img src="assets/INFERRING4 Jim/media/image65.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image66.jpeg"
-style="width:2.625in;height:2.43333in" />
+<img src="assets/INFERRING4 Jim/media/image66.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image67.jpeg"
-style="width:2.08194in;height:2.75972in" />
+<img src="assets/INFERRING4 Jim/media/image67.jpeg" />
 
 Midsummer Knight is the second book in the series. In this sequel to The
 Boy the Bear the Baron the Bard, he continues the story, and takes us
@@ -1629,8 +1564,7 @@ villain. It’s once again a gloriously
 
 madcap adventure full of visual gags and slapstick comedy.
 
-<img src="assets/INFERRING4 Jim/media/image68.jpeg"
-style="width:2.02083in;height:2.69792in" />
+<img src="assets/INFERRING4 Jim/media/image68.jpeg" />
 
 In this, the third in his ‘Boy Bear’ series of wordless picture books,
 Gregory Rogers creates another rollicking adventure for ‘the boy’,
@@ -1675,7 +1609,7 @@ Love and Friendship
 
 Adventure, mischief and fun
 
-**Connections:**
+## Connections:
 
 Text-to-Text: The other books by Gregory Rogers
 
@@ -1683,7 +1617,7 @@ The Boy the Bear the Baron the Bard.
 
 Midsummer Knight
 
-**Writing:**
+## Writing:
 
 Students learn about the way in which narratives work in developing as a
 sequence of events; the conventions of plotting and planning; how one
@@ -1696,40 +1630,30 @@ book.
 Gregory Rogers’ lesson plans are available to use from the *Allen &
 Unwin* site.
 
-<img src="assets/INFERRING4 Jim/media/image69.jpeg"
-style="width:2.15764in;height:2.89514in" />
+<img src="assets/INFERRING4 Jim/media/image69.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image70.jpeg"
-style="width:1.98958in;height:2.75in" />
+<img src="assets/INFERRING4 Jim/media/image70.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image71.jpeg"
-style="width:2.92778in;height:3.33264in" />
+<img src="assets/INFERRING4 Jim/media/image71.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image72.jpeg"
-style="width:5.20833in;height:1.08333in" />
+<img src="assets/INFERRING4 Jim/media/image72.jpeg" />
 
 Gregory Rogers admired the paintings of Johannes Vermeer and Jan van
 Eyck. When the boy enters a museum to escape the bullies, the dog from
 this painting hops out of the canvas to greet him. They also eventually
 enter this painting.
 
-<img src="assets/INFERRING4 Jim/media/image73.jpeg"
-style="width:2.79167in;height:3.08333in" />
+<img src="assets/INFERRING4 Jim/media/image73.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image74.jpeg"
-style="width:5.20764in;height:6.90556in" />
+<img src="assets/INFERRING4 Jim/media/image74.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image75.jpeg"
-style="width:5.20833in;height:6.90625in" />
+<img src="assets/INFERRING4 Jim/media/image75.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image76.jpeg"
-style="width:5.20833in;height:6.90625in" />
+<img src="assets/INFERRING4 Jim/media/image76.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image77.jpeg"
-style="width:5.20764in;height:6.90556in" />
+<img src="assets/INFERRING4 Jim/media/image77.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image78.jpeg"
-style="width:3.125in;height:3.125in" />
+<img src="assets/INFERRING4 Jim/media/image78.jpeg" />
 
 "If there was ever a true 'all-ages' book, this is it. Korgi hits every
 note perfectly, and can hook readers all across the spectrum with its
@@ -1744,11 +1668,9 @@ amazing adventures in Korgi Hollow. In this first volume in the series,
 Ivy and Sprout discover some interesting things about themselves as they
 stray from their village and face danger for the first time.
 
-<img src="assets/INFERRING4 Jim/media/image79.jpeg"
-style="width:2.0625in;height:2.64583in" />
+<img src="assets/INFERRING4 Jim/media/image79.jpeg" />
 
-<img src="assets/INFERRING4 Jim/media/image80.jpeg"
-style="width:2.91667in;height:4.16667in" />
+<img src="assets/INFERRING4 Jim/media/image80.jpeg" />
 
 Owly is a kind, yet lonely, little owl who's always on the lookout for
 new friends and adventure. The first graphic novel in the series
@@ -1756,17 +1678,14 @@ contains two enchanting novellas, "The Way Home" & "The Bittersweet
 Summer," wherein Owly discovers the meaning of friendship, and that
 saying goodbye doesn't always mean forever.
 
-<img src="assets/INFERRING4 Jim/media/image81.gif"
-style="width:2.27986in;height:3.33264in" />
+<img src="assets/INFERRING4 Jim/media/image81.gif" />
 
-<img src="assets/INFERRING4 Jim/media/image82.jpeg"
-style="width:1.91667in;height:2.71458in" />
+<img src="assets/INFERRING4 Jim/media/image82.jpeg" />
 
 This moving, charming graphic novel about a dog and a robot shows us in
 poignant detail how powerful and fragile relationships are.
 
-<img src="assets/INFERRING4 Jim/media/image83.jpeg"
-style="width:2.30069in;height:3.38333in" />
+<img src="assets/INFERRING4 Jim/media/image83.jpeg" />
 
 Richly endearing and full of surprises, Robot Dreams follows an
 ill-fated friendship between a dog and robot. After a Labor Day jaunt to
@@ -1777,8 +1696,7 @@ to epicurean anteaters. Meanwhile, Robot passes his time daydreaming,
 escaping to better places… Through interwoven journeys, the two
 characters long to recover from their day at the beach.
 
-<img src="assets/INFERRING4 Jim/media/image84.jpeg"
-style="width:2.82292in;height:4.16667in" />
+<img src="assets/INFERRING4 Jim/media/image84.jpeg" />
 
 Although its adorable characters and playful charm will win over young
 readers, Robot Dreams speaks universally to the fragile nature of
@@ -1786,5 +1704,4 @@ friendship, loss, and redemption.
 
 ~dust jacket.
 
-<img src="assets/INFERRING4 Jim/media/image85.jpeg"
-style="width:2.70903in;height:2.70903in" />
+<img src="assets/INFERRING4 Jim/media/image85.jpeg" />

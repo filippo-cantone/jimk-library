@@ -3,17 +3,18 @@ title: "INFERRING3 Jim"
 source_file: "Inferring Course JIM/INFERRING3 Jim.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: inferring
 ---
 
 **INFERRING**
 
 **PART 3**
 
-<img src="assets/INFERRING3 Jim/media/image1.jpeg"
-style="width:3.125in;height:4.16667in" />
+<img src="assets/INFERRING3 Jim/media/image1.jpeg" />
 
-**Inferring 3**
+## Inferring 3
 
 Readers make inferences …
 
@@ -147,7 +148,7 @@ Analysis of Text: Interpretation Judgments
 
 Drawing Conclusions
 
-**Inferring through Questioning**
+## Inferring through Questioning
 
 *Questioning and inferring work in tandem to enhance understanding of
 text.* (Harvey and Goudvis – Strategies That Work)
@@ -162,7 +163,7 @@ student says, “I wonder…,” he/she is posing a question. With questions
 like these, an inference is rarely far behind. Inferring and questions
 are next of kin.
 
-**Inferring through Making Connections**
+## Inferring through Making Connections
 
 *Readers are able to think inferentially when they connect their
 background of information, ideas, and experiences with the text.*
@@ -178,7 +179,7 @@ knowledge of the topic under discussion. Sometimes we need to build that
 background knowledge. This could be through excursions, immersion in a
 genre and practical work.
 
-**Inferring through Predictions**
+## Inferring through Predictions
 
 Predicting is related to inferring, but with a difference.
 
@@ -186,7 +187,7 @@ Making a prediction about an outcome, event, or action is confirmed or
 contradicted by the end of the story. Inferences are often more
 open-ended and may remain unresolved when the story draws to a close.
 
-**Inferring through Imagination/Visualising**
+## Inferring through Imagination/Visualising
 
 As you read, you imagine the situation about which you are reading, and
 you infer things the author has not told you in the text. You infer why
@@ -201,14 +202,14 @@ When you read you visualise – that is, you use all your senses.
 Images from a reader’s personal experience frequently become part of
 his/her comprehension.”* (Ellin Keene)
 
-**Inferring through Analysis of Text: Interpretation/Judgment**
+## Inferring through Analysis of Text: Interpretation/Judgment
 
 *Inferring is the process of taking that which is stated in text and
 extrapolating it to one’s life to create a wholly original
 interpretation that, in turn, becomes part of one’s beliefs or
 knowledge.* (Ellen Keene)
 
-**Inferring through Drawing Conclusions**
+## Inferring through Drawing Conclusions
 
 Proficient readers draw conclusions from the text.
 
@@ -224,7 +225,7 @@ strategy by thinking aloud.
 Different genres can be used for inferring: poetry, narrative and
 nonfiction.
 
-**Guided Practice**
+## Guided Practice
 
 Whole group to small group model.
 
@@ -235,7 +236,7 @@ margin writing to assist our inferences.
 A text tour may help with nonfiction inferring. Taking a chapter,
 students use pictures, labels, subheadings etc.
 
-**Independent Practice**
+## Independent Practice
 
 The students have a text that is easy to read independently.
 
@@ -247,7 +248,7 @@ reading conferences, the teacher focuses on how the student understood
 the reading from his/her background knowledge and how he/she created new
 meaning not directly stated in the text.
 
-**Inferring occurs with:**
+## Inferring occurs with:
 
 Word meanings.
 
@@ -259,7 +260,7 @@ As teachers work with students to develop their ability to infer, unique
 and individual meaning can be created from a word, passages of text, or
 the theme of a large passage.
 
-**Using inferences to assist VOCABULARY**
+## Using inferences to assist VOCABULARY
 
 Inferring can help when readers encounter an unknown word. Sometimes we
 have to infer the meaning of unknown words using context clues provided
@@ -303,7 +304,7 @@ Background knowledge
 
 Paying attention to the word
 
-**Inferring Word Meanings**
+## Inferring Word Meanings
 
 Hold the question in your head and read on to find out.
 
@@ -574,8 +575,7 @@ Lilly. “Julius is the baby of the world.”
 
 And from then on, he was. In everyone’s opinion. Especially in Lilly’s.
 
-<img src="assets/INFERRING3 Jim/media/image2.jpeg"
-style="width:2.34375in;height:2.34375in" />
+<img src="assets/INFERRING3 Jim/media/image2.jpeg" />
 
 Piggins is a mystery book in which Piggins, butler to Mr. and Mrs.
 Reynard solves the mystery of a missing diamond necklace. It is also a
@@ -657,7 +657,7 @@ Follow up at Reading Conferences:
 
 *Show me how you figured out the meaning of this* word.
 
-**Piggins Jane Yolen**
+## Piggins Jane Yolen
 
 *Trit-trot, trit-trot.* That is the sound of Piggins, the butler at 47
 The Meadows, going up the stairs. He has shone the silver teapot so well
@@ -902,14 +902,14 @@ front door at 47 The Meadows. He hears the kettle whistling.
 It has been a long and interesting evening. Piggins is tired. Teapot in
 hand, he goes back down the stairs, *Trit-trot, trit-trot, trit-trot.*
 
-**Inferring the Meaning of Unfamiliar Words**
+## Inferring the Meaning of Unfamiliar Words
 
 |          |                            |                       |
 |----------|----------------------------|-----------------------|
 | **Word** | **What We Infer it Means** | **Why We Think That** |
 |          |                            |                       |
 
-**Inferring to ANSWER QUESTIONS**
+## Inferring to ANSWER QUESTIONS
 
 MentorText: “Five Dollars” from Hey World, Here I Am! by Jean Little
 
@@ -1003,8 +1003,7 @@ spend five dollars.
 I’ll tell her tonight. She’ll understand. It’s nothing really. We’ll
 both laugh about it once it’s done. Oh, I wish it was over!
 
-<img src="assets/INFERRING3 Jim/media/image3.jpeg"
-style="width:2.54097in;height:2.15694in" />
+<img src="assets/INFERRING3 Jim/media/image3.jpeg" />
 
 The story of an alienated alien
 
@@ -1244,19 +1243,15 @@ Teacher in the school playground
 
 Girl with a skipping rope?)
 
-<img src="assets/INFERRING3 Jim/media/image4.jpeg"
-style="width:4.01042in;height:3.70764in" />
+<img src="assets/INFERRING3 Jim/media/image4.jpeg" />
 
-<img src="assets/INFERRING3 Jim/media/image5.jpeg"
-style="width:4.16667in;height:3.64583in" />
+<img src="assets/INFERRING3 Jim/media/image5.jpeg" />
 
-<img src="assets/INFERRING3 Jim/media/image6.png"
-style="width:4.8125in;height:3.875in" />
+<img src="assets/INFERRING3 Jim/media/image6.png" />
 
-<img src="assets/INFERRING3 Jim/media/image7.jpeg"
-style="width:5.00069in;height:3.75in" />
+<img src="assets/INFERRING3 Jim/media/image7.jpeg" />
 
-**Beegu Alexis Deacon**
+## Beegu Alexis Deacon
 
 Beegu was not supposed to be here. She was lost.
 
@@ -1294,8 +1289,7 @@ But she knew it couldn’t be …
 
 It was!
 
-<img src="assets/INFERRING3 Jim/media/image8.jpeg"
-style="width:4.01042in;height:4.19792in" />
+<img src="assets/INFERRING3 Jim/media/image8.jpeg" />
 
 Beegu told her parents all about life on Earth. How Earth creatures were
 mostly big and unfriendly, but there were some small ones who seemed
@@ -1309,8 +1303,8 @@ She hoped they would remember her too.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1375,16 +1369,15 @@ own.</p></td>
 </tbody>
 </table>
 
-**Fireflies Julie Brinckloe**
+## Fireflies Julie Brinckloe
 
-<img src="assets/INFERRING3 Jim/media/image9.jpeg"
-style="width:2.04167in;height:2.67708in" />
+<img src="assets/INFERRING3 Jim/media/image9.jpeg" />
 
 A young boy is proud of having caught a jar full of fireflies, which
 seems to him like owning a piece of moonlight, but as the light begins
 to dim he realises he must set the insects free or they will die.
 
-**Fireflies Julie Brinckloe**
+## Fireflies Julie Brinckloe
 
 On a summer evening I looked up from dinner, through the open window to
 the backyard. It was growing dark. My treehouse was a black shape in the
@@ -1474,12 +1467,12 @@ my head, making circles around the moon, like stars dancing.
 I held the jar, dark and empty, in my hands. The moonlight and the
 fireflies swam in my tears, but I could feel myself smiling.
 
-**Fireflies!** **Reading Strategies**
+## Fireflies!** **Reading Strategies
 
 <table>
 <colgroup>
-<col style="width: 41%" />
-<col style="width: 58%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1533,9 +1526,9 @@ feel myself smiling.</em></p>
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1597,9 +1590,9 @@ feel myself smiling.</em></td>
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1667,8 +1660,8 @@ can be alive and free.</td>
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -1724,10 +1717,9 @@ monologue.</td>
 </tbody>
 </table>
 
-<img src="assets/INFERRING3 Jim/media/image10.jpeg"
-style="width:3.125in;height:2.5625in" />
+<img src="assets/INFERRING3 Jim/media/image10.jpeg" />
 
-**Book Summary**
+## Book Summary
 
 When young Alan Mitz is asked to take care of Miss Hester’s unruly dog
 Fritz while she visits cousin Eunice, he has no idea what adventures are
@@ -1767,7 +1759,7 @@ duck?!
 
 This was Chris Van Allsburg’s first book.
 
-**Inferring**
+## Inferring
 
 Predicting: When Alan tells Gasazi about his problem, stop before Gasazi
 answers and ask the children to predict whether or not they think he
@@ -1791,7 +1783,7 @@ Fritz was so appealing that Chris Van Allsburg chose to hide him in each
 of the many children’s books he has written since his debut with The
 Garden of Abdul Gasazi.
 
-**Questioning**
+## Questioning
 
 • Why do you think Fritz breaks free of the leash to go into Gasazi’s
 garden? Do you think he knows what he is doing?
@@ -1801,7 +1793,7 @@ laughter” as he ran away from Alan? Is he being mean spirited or just
 
 playful? How do you think Alan is feeling at that moment?
 
-**Writing Craft**
+## Writing Craft
 
 Focus: Idea development. Discussuion/writing
 
@@ -1864,10 +1856,9 @@ neighbourhood? Would your magician be a kind or a grouchy character?
 What kind of powers might your magician have? Write about what might
 happen if you were to visit this person.
 
-**The Garden of Abdul Gasazi Chris Van Allsburg**
+## The Garden of Abdul Gasazi Chris Van Allsburg
 
-<img src="assets/INFERRING3 Jim/media/image11.png"
-style="width:4.68681in;height:3.62431in" />
+<img src="assets/INFERRING3 Jim/media/image11.png" />
 
 The story starts with Miss Hester leaving her disobedient pitbull dog
 Fritz with Alan Mitz while she visits her cousin. Alan does his best to
@@ -1880,25 +1871,21 @@ across a sign: “ABSOLUTELY, POSITIVELY NO DOGS ALLOWED IN THIS GARDEN,”
 signed by Abdul Gasazi, retired magician. Fritz breaks free and bolts
 straight through the door with Alan chasing behind him.
 
-<img src="assets/INFERRING3 Jim/media/image12.png"
-style="width:4.68889in;height:3.65694in" />
+<img src="assets/INFERRING3 Jim/media/image12.png" />
 
-<img src="assets/INFERRING3 Jim/media/image13.png"
-style="width:4.68681in;height:3.67639in" />
+<img src="assets/INFERRING3 Jim/media/image13.png" />
 
 Alan falls and can’t keep up with Fritz, who disappears into the garden.
 Alan is desperate to find Fritz before Mr Gasazi finds out they’ve been
 in his garden.
 
-<img src="assets/INFERRING3 Jim/media/image14.png"
-style="width:4.68681in;height:3.59306in" />
+<img src="assets/INFERRING3 Jim/media/image14.png" />
 
 Alan searches for Fritz everywhere and finally comes across some dog
 tracks which lead to the great and imposing house belonging to this
 mysterious Abdul Gasazi.
 
-<img src="assets/INFERRING3 Jim/media/image15.png"
-style="width:4.68681in;height:3.66597in" />
+<img src="assets/INFERRING3 Jim/media/image15.png" />
 
 Alan asks for the dog back and Gasazi says “certainly you may have your
 little Fritzie, follow me.” leading him outside to a gathering of ducks.
@@ -1907,8 +1894,7 @@ trees. “Do you know what I do to dogs I find in my garden? I TURN THEM
 INTO DUCKS” Alan is horrified to learn that only time can turn Fritz
 back – maybe years maybe just a day.
 
-<img src="assets/INFERRING3 Jim/media/image16.png"
-style="width:4.68681in;height:3.64514in" />
+<img src="assets/INFERRING3 Jim/media/image16.png" />
 
 Alan takes the bird in his arms and heads for home, devastated. Behind
 him Gasazi laughs. Alan’s hat blows off and the duck flies off with it
@@ -1919,18 +1905,15 @@ by the thought he at least had a hat to chew on. He tells Miss Hester
 what has happened to Fritz, but she tells him it must have all been a
 joke: Fritz is home, eating his dinner.
 
-<img src="assets/INFERRING3 Jim/media/image17.png"
-style="width:4.68681in;height:3.69722in" />
+<img src="assets/INFERRING3 Jim/media/image17.png" />
 
-<img src="assets/INFERRING3 Jim/media/image18.png"
-style="width:4.68681in;height:3.63472in" />
+<img src="assets/INFERRING3 Jim/media/image18.png" />
 
 Alan heads home, feeling silly, and is convinced he won’t be fooled
 again. Miss Hester calls Fritz back into the house and he drops Alan’s
 hat at her feet.
 
-<img src="assets/INFERRING3 Jim/media/image19.jpeg"
-style="width:2.11458in;height:2.58333in" />
+<img src="assets/INFERRING3 Jim/media/image19.jpeg" />
 
 Brave Irene is Irene Bobbin, the dressmaker's daughter. Her mother, Mrs.
 Bobbin, isn't feeling so well and can't possibly deliver the beautiful
@@ -2019,8 +2002,8 @@ before she completes her mission.
 
 <table>
 <colgroup>
-<col style="width: 50%" />
-<col style="width: 50%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2060,7 +2043,7 @@ on, she leapt. The box shot forward, like a sled.</em></td>
 </tbody>
 </table>
 
-**Brave Irene William Steig**
+## Brave Irene William Steig
 
 Mrs Bobbin, the dressmaker, was tired and had a bad headache, but she
 still managed to sew the last stitches in the gown she was making.
@@ -2263,8 +2246,7 @@ person Irene was.
 
 Which of course, Mrs Bobbin knew. Better than the duchess.
 
-<img src="assets/INFERRING3 Jim/media/image20.jpeg"
-style="width:2.625in;height:2.825in" /> (See also Vocabulary 4 course
+<img src="assets/INFERRING3 Jim/media/image20.jpeg" /> (See also Vocabulary 4 course
 for more extensive work on Spelling with Crickwing)
 
 Crickwing is in a very disgruntled mood. A close encounter with a toad
@@ -2313,9 +2295,9 @@ Use graphic organiser to arrive at theme.
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2339,19 +2321,19 @@ ___________________</strong></td>
 </tbody>
 </table>
 
-**Theme Statement:**
+## Theme Statement:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
-**Crickwing Reading Strategies**
+## Crickwing Reading Strategies
 
 <table>
 <colgroup>
-<col style="width: 43%" />
-<col style="width: 56%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2402,7 +2384,7 @@ that?</p></td>
 </tbody>
 </table>
 
-**Crickwing Janell Cannon**
+## Crickwing Janell Cannon
 
 Far below the great forest canopy lies a shadowy world that many insects
 call home. Among the damp clutter of fallen leaves and branches,
@@ -2627,8 +2609,7 @@ holiday,” she yawned.
 And for the first time in colony history, the leafcutters took a day
 off.
 
-<img src="assets/INFERRING3 Jim/media/image21.jpeg"
-style="width:2.49583in;height:3.24861in" />
+<img src="assets/INFERRING3 Jim/media/image21.jpeg" />
 
 Edwardo is a regular kid. He eats, goes to school, plays, and goes to
 bed. He sometimes makes too much noise or a mess. But when Edwardo is
@@ -2643,7 +2624,7 @@ kind, which is the start of another—more positive—transformation in a
 funny picture book illuminating the sometimes powerful and edgy
 relationship between language, self-perception, and behaviour.
 
-**Text-to-Self**
+## Text-to-Self
 
 Discussion
 
@@ -2824,8 +2805,7 @@ clumsy, noisy, nasty and rude. But really Edwardo is…
 
 THE LOVELIEST BOY IN THE WHOLE WIDE WORLD.
 
-<img src="assets/INFERRING3 Jim/media/image22.jpeg"
-style="width:2.23819in;height:2.74931in" />
+<img src="assets/INFERRING3 Jim/media/image22.jpeg" />
 
 James and Eamon spend a week at Eamon's grandparent's house so they can
 attend a nearby Nature Camp during the day. The two best friends have a
@@ -2851,8 +2831,7 @@ and sticks to build an Antarctic scene, complete with penguins. "And
 then they walked like a couple of penguins all the way to the front
 door." It's a perfect ending to the boys' best week ever.
 
-<img src="assets/INFERRING3 Jim/media/image23.jpeg"
-style="width:2.59514in;height:3.27014in" />
+<img src="assets/INFERRING3 Jim/media/image23.jpeg" />
 
 A hungry fox can't believe his luck when a pig actually shows up on his
 doorstep. "Oh no!" screams the piglet, who's mistaken the fox's house
@@ -2888,7 +2867,7 @@ presented entirely
 through illustration alone. Visual literacy is a form of comprehension,
 and it needs to be taught and honed as much as comprehension of text.
 
-**Character**
+## Character
 
 Study the characters of the fox and the pig. Anticipate the
 characteristics of each, pausing on the page in which the fox is
@@ -2901,8 +2880,7 @@ to describe the fox and pig. Talk about what makes a character a
 “trickster” and discuss other tricksters the children may have
 encountered in other books.
 
-<img src="assets/INFERRING3 Jim/media/image24.png"
-style="width:3.34444in;height:2.04097in" />
+<img src="assets/INFERRING3 Jim/media/image24.png" />
 
 **My Lucky Day**
 
@@ -3013,8 +2991,7 @@ tallest pine the hanging
 
 tree. rock.
 
-<img src="assets/INFERRING3 Jim/media/image25.png"
-style="width:2.37569in;height:1.88681in" />
+<img src="assets/INFERRING3 Jim/media/image25.png" />
 
 Eaglet's world expands from its beginning inside his warm egg, to his
 safe and sturdy nest, to his flight through the wide, blue sky. At each
@@ -3108,8 +3085,7 @@ was huge! And it was all his! He would soar there above it, surprised by
 its bigness, its colour and brightness, forever! Forever! Where Eaglet
 was … was *wonderful!*
 
-<img src="assets/INFERRING3 Jim/media/image26.jpeg"
-style="width:3.50069in;height:2.74167in" />
+<img src="assets/INFERRING3 Jim/media/image26.jpeg" />
 
 There's nothing predictable about this alphabet book other than the
 order of the letters themselves. B follows A, G follows F, and so on.
@@ -3130,8 +3106,7 @@ add an inviting dimension
 Students use their observational skills and prior knowledge to make
 inferences about the identity of the animals.
 
-<img src="assets/INFERRING3 Jim/media/image27.jpeg" /><img src="assets/INFERRING3 Jim/media/image27.jpeg"
-style="width:3.375in;height:2.54097in" />
+<img src="assets/INFERRING3 Jim/media/image27.jpeg" /><img src="assets/INFERRING3 Jim/media/image27.jpeg" />
 
 When Californian Tameka invites her favourite uncle for a visit, he
 regretfully has to decline due to his busy carpentry schedule. However,
@@ -3155,7 +3130,7 @@ the concluding U.S. map and will get great satisfaction out of the final
 leg of Oliver's trip-an aeroplane ride back to South Carolina as Tameka
 and her family head to Uncle Ray's for a visit.
 
-**Lessons**
+## Lessons
 
 Schema: Letter writing.
 
@@ -3175,10 +3150,9 @@ is lost? He has not heard from anyone who has found him in 17 days.
 Characterisation: List Oliver’s character traits as you read what his
 drivers and friends say about him
 
-<img src="assets/INFERRING3 Jim/media/image28.jpeg"
-style="width:7.5in;height:2.95833in" />
+<img src="assets/INFERRING3 Jim/media/image28.jpeg" />
 
-**The Journey of Oliver K. Woodman**
+## The Journey of Oliver K. Woodman
 
 May 10
 
@@ -3200,8 +3174,7 @@ Tameka
 
 XOXOXO
 
-<img src="assets/INFERRING3 Jim/media/image29.jpeg"
-style="width:2.25in;height:2.89444in" />
+<img src="assets/INFERRING3 Jim/media/image29.jpeg" />
 
 “Pink is for crow . . . White is for blueberry . . . Yellow is for pine
 tree . . .” George Shannon and Laura Dronzek’s inspired colour concept
@@ -3233,8 +3206,7 @@ things in new ways long after the covers of this book have been closed.
 Older students could create their own creative “colour” books and think
 of different ways to view colours.
 
-<img src="assets/INFERRING3 Jim/media/image30.jpeg"
-style="width:2.60069in;height:3.39375in" />
+<img src="assets/INFERRING3 Jim/media/image30.jpeg" />
 
 "It was a great day for a picnic." These are the first words of a story
 based on an actual event. The real picture story begins several pages
@@ -3261,7 +3233,7 @@ The pictures can be ‘read’ to make a complete story.
 Tell the story using only the pictures. Compare the stories with the
 original.
 
-**The Stray Dog Marc Simont**
+## The Stray Dog Marc Simont
 
 It was a great day for a picnic.
 
@@ -3330,8 +3302,7 @@ Ask a student to lay his head on his arm on the desk. “Why did
 *“We also make inferences when we read. We use clues from the text and
 what we already know.”*
 
-<img src="assets/INFERRING3 Jim/media/image31.jpeg"
-style="width:3in;height:3.30278in" />
+<img src="assets/INFERRING3 Jim/media/image31.jpeg" />
 
 An adaptation of the Indian fable "The Blind Men and the Elephant"
 cleverly uses paper collage set on a black background. The men are
@@ -3376,7 +3347,7 @@ Dakos.
 | Poem Clues            | What I Know | Inferences |
 |                       |             |            |
 
-**Seven Blind Mice Ed Young**
+## Seven Blind Mice Ed Young
 
 One day seven blind mice were surprised to find a strange something by
 their pond.
@@ -3604,7 +3575,7 @@ within one’s point of view.  We should also try to understand other
 people’s points of view.  This will enable us to get a proper
 perspective on different situations and events.
 
-**What In The World**
+## What In The World
 
 What in the world
 
@@ -3718,7 +3689,7 @@ Good morning,
 
 I’m waiting for you.
 
-**The School Bell**
+## The School Bell
 
 At the end of the day,
 
@@ -3756,7 +3727,7 @@ My head is aching,
 
 Bong! Bong! Bong
 
-**Monkey Bars**
+## Monkey Bars
 
 Rightside up,
 
@@ -3770,7 +3741,7 @@ The kids
 
 Are making monkey sounds. **by Kalli Dakos**
 
-**CONNECT TO WRITING**
+## CONNECT TO WRITING
 
 *What do you already know? (because the author told you)*
 
@@ -3791,15 +3762,14 @@ about)*
 
 Mentor Text: Willy the Wimp by Anthony Browne.
 
-<img src="assets/INFERRING3 Jim/media/image32.jpeg"
-style="width:2.25833in;height:2.41736in" />
+<img src="assets/INFERRING3 Jim/media/image32.jpeg" />
 
 Willy is kind and gentle, and bullied by the suburban gorilla gang who
 call him 'Willy the Wimp'. Desperate to do something about his
 situation, Willy answers a body-building advert and grows big and
 strong, determined no one will ever call him 'wimp' again.
 
-**Willy the Wimp Anthony Browne**
+## Willy the Wimp Anthony Browne
 
 Willy wouldn’t hurt a fly. Willy worried about stepping on tiny insects
 every time he went for a walk. When someone knocked into him, he always
@@ -3883,16 +3853,13 @@ Willy was proud. “I’m not a wimp!” A hero. BANG!
 
 “Oh, I’m sorry!” said Willy.
 
-<img src="assets/INFERRING3 Jim/media/image33.jpeg"
-style="width:2.3125in;height:2.36458in" />
+<img src="assets/INFERRING3 Jim/media/image33.jpeg" />
 
-<img src="assets/INFERRING3 Jim/media/image34.jpeg"
-style="width:3.26042in;height:3.33264in" />
+<img src="assets/INFERRING3 Jim/media/image34.jpeg" />
 
-<img src="assets/INFERRING3 Jim/media/image35.jpeg"
-style="width:3.375in;height:2.53194in" />
+<img src="assets/INFERRING3 Jim/media/image35.jpeg" />
 
-**Inferring and Writing**
+## Inferring and Writing
 
 *Writers don’t tell you everything.*
 
@@ -3930,13 +3897,13 @@ question and infer.
 *One cold night a cat walked out of the woods, up the steps, across the
 deck, and into the house where Elizabeth and Sarah lived*.
 
-**Willy the Wimp by Anthony Browne**
+## Willy the Wimp by Anthony Browne
 
 *Willy wouldn’t hurt a fly. Willy worried about stepping on tiny insects
 every time he went for a walk. When someone knocked into him, he always
 said, “Oh, I’m sorry!” Even when it wasn’t his fault.*
 
-**Fox by Margaret Wild**
+## Fox by Margaret Wild
 
 *Through the charred forest, over hot ash, runs Dog, with a bird clamped
 in his big, gentle mouth.*
@@ -3957,7 +3924,7 @@ run?”*
 *Magpie drags her body into the shadow of the rocks, until she feels
 herself melting into blackness.*
 
-**The Garden of Abdul Gasazi by Chris Van Allsburg**
+## The Garden of Abdul Gasazi by Chris Van Allsburg
 
 *Six times Miss Hester’s dog Fritz had bitten dear cousin Eunice. So
 when Miss Hester received an invitation to visit Eunice she was not
@@ -3965,7 +3932,7 @@ surprised to read “P.S., Please leave your dog home.” On the day of her
 visit Miss Hester asked young Alan Mitz to stay with Fritz and give him
 his afternoon walk.*
 
-**Sami and the Time of the Troubles by Florence Parry Heide**
+## Sami and the Time of the Troubles by Florence Parry Heide
 
 *My name is Sami, and I live in the time of the troubles. It is a time
 of guns and bombs. It is a time that has lasted all my life, and I am
@@ -3978,7 +3945,7 @@ be upstairs. We can go outside: my mother can take my little sister
 Leila to market, my grandfather and uncle can go to work, and I can go
 to school.*
 
-**Charlie Anderson Barbara Abercrombie**
+## Charlie Anderson Barbara Abercrombie
 
 One cold night a cat walked out of the woods, up the steps, across the
 deck, and into the house where Elizabeth and Sarah lived.

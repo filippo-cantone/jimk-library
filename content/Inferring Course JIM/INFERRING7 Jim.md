@@ -3,7 +3,9 @@ title: "INFERRING7 Jim"
 source_file: "Inferring Course JIM/INFERRING7 Jim.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: inferring
 ---
 
 **INFERRING**
@@ -11,9 +13,9 @@ tags: [jim-k]
 **PART 7**
 
 > <img src="assets/INFERRING7 Jim/media/image1.jpeg"
-> style="width:2.5in;height:3.33333in" />
+> />
 
-**INFERRING 7**
+## INFERRING 7
 
 Quotes
 
@@ -182,9 +184,9 @@ they can base their inferences.
 
 <table>
 <colgroup>
-<col style="width: 39%" />
-<col style="width: 40%" />
-<col style="width: 19%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -201,7 +203,7 @@ they can base their inferences.
 </tbody>
 </table>
 
-**PAIRS READ: Read to Analyse**
+## PAIRS READ: Read to Analyse
 
 Paired reading is used in a variety of ways by teachers at all grade
 levels. When helping students develop their inference skills, teachers
@@ -276,7 +278,7 @@ inferences should ask themselves the following questions as they read:
 
 • What was the big idea from this story/passage?
 
-**Skilled readers infer:**
+## Skilled readers infer:
 
 They:
 
@@ -398,7 +400,7 @@ the text and make connections with their prior knowledge. E.g.
 
 • Does the author tell us why?
 
-**Benefits**
+## Benefits
 
 QtA aims to engage all students with the text.
 
@@ -442,7 +444,7 @@ do you think he’s up to?
 
 \- How has the author settled this for us?
 
-**S *Rationale***
+## S *Rationale*
 
 Students need to be taught that they can, and should, ask questions of
 authors as they read. The goal of QtA is to teach students to use a
@@ -522,7 +524,7 @@ this specific spot?
   them and encourage students to continue to investigate and work to
   determine the answer.
 
-**Typical Goals and Queries for QtA**
+## Typical Goals and Queries for QtA
 
 Goal Query
 
@@ -585,8 +587,8 @@ text segment and then asking relevant questions:
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 66%" />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -723,7 +725,7 @@ message?</em></p>
 |     | Background information added during discussion.              |
 |     | Key concepts students got from each segment.                 |
 
-**I’m in Charge of Celebration Byrd Baylor**
+## I’m in Charge of Celebration Byrd Baylor
 
 The girl lives in the desert. Asked if she is lonely, she explains her
 love of the desert and the many wonders she sees there. With obvious
@@ -737,8 +739,7 @@ kind of air". Although the book celebrates the phenomena of the desert,
 the point is that nature everywhere is full of wonder and beauty often
 unnoticed by those of us surrounded by it**.**
 
-<img src="assets/INFERRING7 Jim/media/image2.jpeg"
-style="width:1.66667in;height:2.08333in" />
+<img src="assets/INFERRING7 Jim/media/image2.jpeg" />
 
 How does the Indian girl use her five senses?
 
@@ -760,7 +761,7 @@ charge of, using your five senses.
 I’m in Charge of Celebrations reads like free verse poetry. Use the
 format as a mentor.
 
-**I’m in Charge of Celebrations Byrd Baylor**
+## I’m in Charge of Celebrations Byrd Baylor
 
 Sometimes people ask me, I put
 
@@ -1426,7 +1427,7 @@ I’ll go his direction
 
 awhile.
 
-**Inferring Character Traits**
+## Inferring Character Traits
 
 Building on previous work.
 
@@ -1506,12 +1507,12 @@ that to the chart.
 | **How does the character act?**                                                 |
 | **How do other characters react to this character?**                            |
 
-**How and Why Characters Change**
+## How and Why Characters Change
 
 **Text:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
 
-**Author: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
+## Author: \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 **Character:
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -1541,7 +1542,7 @@ Memoir
 
 Stevie by John Steptoe
 
-**Stray Cynthia Rylant**
+## Stray Cynthia Rylant
 
 In January, a puppy wandered onto the property of Mr Amos Lacey and his
 wife, Mamie, and their daughter, Doris. Icicles hung three feet or more
@@ -1698,7 +1699,7 @@ Mr Lacey sipped his coffee.
 
 “Well,” he said, ”are you going to feed it or not?”
 
-**Mama Sewing Eloise Greenfield**
+## Mama Sewing Eloise Greenfield
 
 I don’t know why Mama ever sewed for me. She sewed for other people,
 made beautiful dresses and suits and blouses, and got paid for doing it.
@@ -1723,7 +1724,7 @@ be too ashamed to say I was sorry.
 
 But Mama knew.
 
-**Maybe a Fight Jean Little**
+## Maybe a Fight Jean Little
 
 Emily and I were about to have a fight. I could feel it in the air, like
 a thunderstorm coming. I was in a foul mood and she was feeling much the
@@ -1784,7 +1785,7 @@ Afterwards I asked Emily, “Did we have a fight or didn’t we?”
 
 “Weren’t you there?” was all she would answer.
 
-**Mr Entwhistle Jean Little**
+## Mr Entwhistle Jean Little
 
 Mr Entwhistle was our substitute teacher. He had big shoulders and a
 mean mouth. He knew, before he’s laid eyes on us, that we were out to
@@ -1825,7 +1826,7 @@ note for me to take. I couldn’t see what he wrote but Pete Evans told me
 later that it was something about insubordination. I did see that his
 hand was shaking. I sat there, stunned. I honestly be
 
-**Stevie John Steptoe**
+## Stevie John Steptoe
 
 One day my momma told me, “You know you’re gonna have a little friend
 come stay with you.”
@@ -1967,7 +1968,7 @@ He was kinda like a little brother.
 
 Little Stevie.
 
-**Observation/Inference Chart**
+## Observation/Inference Chart
 
 Inference is the reasoning involved in drawing conclusions based on
 evidence and prior knowledge rather than observation**.**
@@ -1993,8 +1994,7 @@ Discuss the purpose of this activity and how this activity/skill
 translates to the readings, and critical thinking in general, within the
 topic being studied.
 
-<img src="assets/INFERRING7 Jim/media/image3.png"
-style="width:4.71806in;height:4.23889in" />
+<img src="assets/INFERRING7 Jim/media/image3.png" />
 
 *When inferring, students must draw conclusions when the answer is never
 clearly stated. They bring personal meaning to the text by connecting it
@@ -2044,17 +2044,13 @@ the best clues?
 
 What linkages can be identified? What additional questions arise?
 
-<img src="assets/INFERRING7 Jim/media/image4.jpeg"
-style="width:5.57292in;height:4.19792in" />
+<img src="assets/INFERRING7 Jim/media/image4.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image5.jpeg"
-style="width:5.21944in;height:3.50972in" />
+<img src="assets/INFERRING7 Jim/media/image5.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image6.jpeg"
-style="width:6.24861in;height:4.68889in" />
+<img src="assets/INFERRING7 Jim/media/image6.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image7.jpeg"
-style="width:6.24861in;height:4.16667in" />
+<img src="assets/INFERRING7 Jim/media/image7.jpeg" />
 
 An Indonesian farmer and his buffalo charge through the mud—"an epic
 scene".
@@ -2063,13 +2059,11 @@ Farmers literally put a lot of stock into winning these annual races,
 which they believe will bring them luck during the upcoming growing
 season.
 
-<img src="assets/INFERRING7 Jim/media/image8.jpeg"
-style="width:7.71528in;height:5.7125in" />
+<img src="assets/INFERRING7 Jim/media/image8.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image9.jpeg"
-style="width:3.12569in;height:3.98958in" />
+<img src="assets/INFERRING7 Jim/media/image9.jpeg" />
 
-**INFERRING**
+## INFERRING
 
 Look for the clues.
 
@@ -2090,7 +2084,7 @@ A prediction is either verified or it isn’t. That’s final.
 An inference needs deep thinking because there is no verification when
 you finish reading. You keep thinking.
 
-**OWI OBSERVE, WONDER, INFER**
+## OWI OBSERVE, WONDER, INFER
 
 Gradual release of responsibility model.
 
@@ -2124,14 +2118,14 @@ Whole class share and record in Infer column.
 |                                                        |            |           |
 |--------------------------------------------------------|------------|-----------|
 | <img src="assets/INFERRING7 Jim/media/image5.jpeg" 
- style="width:5.21944in;height:3.50972in" />             |            |           |
+ />             |            |           |
 | **Observe**                                            | **Wonder** | **Infer** |
 
 <table>
 <colgroup>
-<col style="width: 33%" />
-<col style="width: 33%" />
-<col style="width: 33%" />
+<col />
+<col />
+<col />
 </colgroup>
 <tbody>
 <tr class="odd">
@@ -2186,7 +2180,7 @@ their chart.
 Once students understand the difference between observations and
 inferences then they can go onto WI – I Wonder/I Infer.
 
-**Extended OWI**
+## Extended OWI
 
 Group work: Each group has a photo and the extended OWI chart.
 
@@ -2200,7 +2194,7 @@ Hand out the text that goes with the image.
 Groups discuss and record their new questions and inferences on the
 bottom level of the chart.
 
-**WI - Wonder/Infer**
+## WI - Wonder/Infer
 
 Straight to questions without the observations.
 
@@ -2216,7 +2210,7 @@ Students generate questions and record.
 Students select important questions that will extend their thinking and
 learning.
 
-**Moving from Image to Text**
+## Moving from Image to Text
 
 Look at:
 
@@ -2247,7 +2241,7 @@ Repeat through further sections of the text.
 |            |           |
 | **Wonder** | **Infer** |
 
-**Text Questions and Inferences**
+## Text Questions and Inferences
 
 |                 |               |                |
 |-----------------|---------------|----------------|
@@ -2258,8 +2252,7 @@ Repeat through further sections of the text.
 
 **P-QAR**
 
-<img src="assets/INFERRING7 Jim/media/image10.jpeg"
-style="width:2.8125in;height:2.01042in" />
+<img src="assets/INFERRING7 Jim/media/image10.jpeg" />
 
 Review:
 
@@ -2268,8 +2261,7 @@ sketches that are miracles of expressiveness. The first page shocks: a
 dog is tossed onto a lonely road from the window of a car. What follows
 evokes feelings of pity and horror worthy of Greek drama. The dog races
 after the car as it speeds away, falling farther
-behind <img src="assets/INFERRING7 Jim/media/image11.jpeg"
-style="width:1.73958in;height:1.73958in" />until he is no more than a
+behind <img src="assets/INFERRING7 Jim/media/image11.jpeg" />until he is no more than a
 speck with a tail, as seen by the uncaring people who have abandoned
 him. In blind hope, the pooch bounds into the road after the next car to
 come by, causing a terrible accident. Lost amid the chaos, the dog
@@ -2291,7 +2283,7 @@ Good readers ask themselves questions as they read a story. Asking and
 answering questions about the pictures in a story can help to better
 make predictions about the story and understand what is happening.
 
-**a day, a dog by Gabrielle Vincent**
+## a day, a dog by Gabrielle Vincent
 
 As this wordless picture book is ‘read’ different types of questions
 will arise.
@@ -2326,13 +2318,11 @@ Some of these questions will be a combination of Right There and
 
 Artist and You.
 
-<img src="assets/INFERRING7 Jim/media/image12.jpeg"
-style="width:1.90486in;height:1.90486in" />
+<img src="assets/INFERRING7 Jim/media/image12.jpeg" />
 
-**Inferring Vocabulary**
+## Inferring Vocabulary
 
-<img src="assets/INFERRING7 Jim/media/image13.jpeg"
-style="width:2.11597in;height:2.78681in" />
+<img src="assets/INFERRING7 Jim/media/image13.jpeg" />
 
 "Manyoni is on her way to school; she gets up at dawn to walk two hours
 across the plain, along the Limpopo riverbed....As seen in Stock's
@@ -2365,7 +2355,7 @@ We infer the meanings of words by using the pictures, using our
 background knowledge, the words in the text, rereading, thinking, and
 listening to the ideas of others.
 
-**Where are You Going Manyoni? Catherine Stock**
+## Where are You Going Manyoni? Catherine Stock
 
 It’s Manyoni’s favourite time of day. Quietly, she slips on her dress.
 Her baby brother sleeps on.
@@ -2411,8 +2401,7 @@ them.
 yard. They love having time to play with their friends before class
 begins.
 
-<img src="assets/INFERRING7 Jim/media/image14.jpeg"
-style="width:3.08472in;height:3.07222in" />
+<img src="assets/INFERRING7 Jim/media/image14.jpeg" />
 
 George and Martha: not, as one might think, the first president and his
 spouse, but two hippopotamuses created by the singular talent of James
@@ -2423,22 +2412,17 @@ to be a true friend. A man with a talent for friendship, James Marshall
 defined its very essence in his stories about the world's two best
 friends.
 
-<img src="assets/INFERRING7 Jim/media/image15.jpeg"
-style="width:4.06806in;height:4.09861in" />
+<img src="assets/INFERRING7 Jim/media/image15.jpeg" />
 
-**Rose Blanche by Roberto Innocenti**
+## Rose Blanche by Roberto Innocenti
 
-<img src="assets/INFERRING7 Jim/media/image16.jpeg"
-style="width:5.20764in;height:3.58194in" />
+<img src="assets/INFERRING7 Jim/media/image16.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image17.jpeg"
-style="width:5.20833in;height:4.3125in" />
+<img src="assets/INFERRING7 Jim/media/image17.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image18.jpeg"
-style="width:5.20833in;height:6.17708in" />
+<img src="assets/INFERRING7 Jim/media/image18.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image19.jpeg"
-style="width:2.69861in;height:3.55903in" />
+<img src="assets/INFERRING7 Jim/media/image19.jpeg" />
 
 A little girl longs to see beyond the scary sights on the sidewalk and
 the angry scribbling in the halls of her building. When her teacher
@@ -2452,8 +2436,7 @@ your heart is happy,” the girl thinks. Her search for “something
 beautiful” leaves her feeling much happier. She has experienced the
 beauty of friendship and the power of hope.
 
-<img src="assets/INFERRING7 Jim/media/image20.jpeg"
-style="width:3.13472in;height:2.63333in" />
+<img src="assets/INFERRING7 Jim/media/image20.jpeg" />
 
 Holly Evans is a young girl with an idea, vegetable seeds, and balloons.
 Holly plans to study the growth of vegetables once there are in outer
@@ -2472,17 +2455,13 @@ space. Due to a clumsy kitchen worker the entire food supply of the star
 cruiser Alula Borealis is sent down to Earth. So now that the aliens
 lost all of their vegetables, what is for dinner?)
 
-<img src="assets/INFERRING7 Jim/media/image21.png"
-style="width:7.12361in;height:5.52083in" />
+<img src="assets/INFERRING7 Jim/media/image21.png" />
 
-<img src="assets/INFERRING7 Jim/media/image22.jpeg"
-style="width:3.57292in;height:2.72917in" />
+<img src="assets/INFERRING7 Jim/media/image22.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image23.jpeg"
-style="width:4.16667in;height:3.56389in" />
+<img src="assets/INFERRING7 Jim/media/image23.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image24.jpeg"
-style="width:3.02708in;height:3.76528in" />
+<img src="assets/INFERRING7 Jim/media/image24.jpeg" />
 
 How Many Days to America? is a book based on the hardships and triumphs
 of immigrants coming to America. Eve Bunting created a realistic,
@@ -2497,8 +2476,7 @@ coloured pencils and the edges of the people and objects in the
 illustrations seem to fade into each other. The softness of the
 illustrations seems to contrast the hard, realistic story.
 
-<img src="assets/INFERRING7 Jim/media/image25.jpeg"
-style="width:2.46875in;height:3.33333in" />
+<img src="assets/INFERRING7 Jim/media/image25.jpeg" />
 
 Cynthia Rylant's story An Angel for Solomon Singer is the story of
 Solomon Singer, who lives in a hotel for men in New York City, and
@@ -2520,8 +2498,7 @@ not? Is being home about a place outside of us, or about something
 inside us? Can we be at home anywhere? Do homes change? Can a home
 become no longer a home? Does home mean the same thing to all people?
 
-<img src="assets/INFERRING7 Jim/media/image26.jpeg"
-style="width:2.80417in;height:3.49306in" />
+<img src="assets/INFERRING7 Jim/media/image26.jpeg" />
 
 This is the story of a zoo in Japan during a war. City officials worry
 that if the city is bombed, the zoo animals may escape and cause more
@@ -2530,19 +2507,15 @@ elephants are too smart to eat the poisoned food, and their skin is too
 tough for hypodermic needles. The elephants are starved to death,
 watched by the zookeepers who loved them.
 
-<img src="assets/INFERRING7 Jim/media/image27.jpeg"
-style="width:4.21875in;height:5.34375in" />
+<img src="assets/INFERRING7 Jim/media/image27.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image28.jpeg"
-style="width:4.26042in;height:5.35417in" />
+<img src="assets/INFERRING7 Jim/media/image28.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image29.jpeg"
-style="width:4.28125in;height:5.35417in" />
+<img src="assets/INFERRING7 Jim/media/image29.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image30.jpeg"
-style="width:4.19792in;height:5.35417in" />
+<img src="assets/INFERRING7 Jim/media/image30.jpeg" />
 
-**Faithful Elephants Yukio Tsuchiya**
+## Faithful Elephants Yukio Tsuchiya
 
 The cherry blossoms are in full bloom at the Ueno Zoo. Their petals are
 falling in the soft breeze and sparkling in the sun. Beneath the cherry
@@ -2666,8 +2639,7 @@ this monument.”
 He was still patting the tombstone tenderly as the cherry blossoms fell
 on the grave, like snowflakes.
 
-<img src="assets/INFERRING7 Jim/media/image31.jpeg"
-style="width:3.24861in;height:3.12847in" />
+<img src="assets/INFERRING7 Jim/media/image31.jpeg" />
 
 A homeless boy who lives in an airport with his father, moving from
 terminal to terminal trying not to be noticed, is given hope when a
@@ -2810,8 +2782,7 @@ Dad and I will be here forever. Then I remember the bird. It took a
 while, but a door opened. And when the bird left, when it flew free, I
 know it was singing.
 
-<img src="assets/INFERRING7 Jim/media/image32.jpeg"
-style="width:2.70417in;height:3.34931in" />
+<img src="assets/INFERRING7 Jim/media/image32.jpeg" />
 
 Oliver Button was called a sissy. He didn't like to do things that boys
 are supposed to do. Instead, he liked to walk in the woods and play jump
@@ -2940,20 +2911,15 @@ SISSY.
 
 STAR!
 
-<img src="assets/INFERRING7 Jim/media/image33.jpeg"
-style="width:4.04167in;height:4.16667in" />
+<img src="assets/INFERRING7 Jim/media/image33.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image34.jpeg"
-style="width:3.85486in;height:4.16667in" />
+<img src="assets/INFERRING7 Jim/media/image34.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image35.jpeg"
-style="width:4.10417in;height:4.16667in" />
+<img src="assets/INFERRING7 Jim/media/image35.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image36.jpeg"
-style="width:4.07292in;height:4.16667in" />
+<img src="assets/INFERRING7 Jim/media/image36.jpeg" />
 
-<img src="assets/INFERRING7 Jim/media/image37.png"
-style="width:1.66736in;height:2.44792in" />
+<img src="assets/INFERRING7 Jim/media/image37.png" />
 
 When an ant scout returns home with a mysterious crystal, the queen ant
 decides it is the most delicious food she has ever tasted. That evening
@@ -3038,7 +3004,7 @@ their new found home. A giant silver scoop hovered above them, then
 plunged deep into the crystals. It shovelled up both ants and crystals
 and carried them high into the air.
 
-**Predictions:**
+## Predictions:
 
 The ants were wide awake when the scoop turned, dropping them from a
 frightening height. They tumbled through space in a shower of crystals
