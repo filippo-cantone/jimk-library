@@ -17,9 +17,9 @@ Commits are per-folder so anything can be reverted or redone piecemeal.
 
 - [x] Text Structures (4 notes) — reviewed with Phill pre-sleep
 - [x] Choral reading (2 notes + guide + 22 standalones) — reviewed pre-sleep
-- [ ] Choral file-1 extracts assessment (in progress) — 33 standalones lifted, committed
-- [ ] Information Report
-- [ ] Literacy Overview Jim
+- [x] Choral file-1 extracts assessment — 33 standalones lifted, committed
+- [x] Information Report — guide rewrite, twin scan retired, maps figure clipped
+- [x] Literacy Overview Jim — both guides rewritten, 2 diagrams clipped
 - [ ] First 20 Days Literacy
 - [ ] Inferring Course JIM
 - [ ] Vocabulary Course Jim
