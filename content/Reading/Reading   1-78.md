@@ -10,7 +10,49 @@ tags: [jim-k, needs-review]
 
 # Reading
 
-<!-- page 1 | FLAGGED: low-confidence -->
+> Page 1 (and page 2) of this file is a scanned flowchart that was rotated
+> 90° clockwise in the source PDF and could not be OCR'd cleanly by
+> tesseract. It was reconstructed from the user's screenshot and rebuilt
+> as the structured flowchart below.
+
+<!-- flowchart reconstructed from rotated scan image — Reading 1-78.pdf p.1 -->
+
+**Reading is Thinking — strategy flowchart**
+
+```
+┌─────────────────────────────────────────────────────────────────────────────┐
+│   STRATEGIES        MODEL              GUIDED PRACTICE      INDEPENDENT USE  │
+│                                                                             │
+│  Prior Knowledge → Read Aloud /      → Guided Reading     → Independent     │
+│  Visualising     → Shared Reading      Recip. Teaching      (teacher-led,     │
+│  Questioning     → Shared Reading      Recip. Teaching      then solo)       │
+│  Inferring       → Read Aloud /        Guided Reading     → Independent     │
+│                    Shared Reading      Recip. Teaching      (collaborative →  │
+│  Det. Important  → Read Aloud /        Guided Reading      solo read)        │
+│  Ideas            Shared Reading      Recip. Teaching                      │
+│  Synthesising     → Shared Reading      Recip. Teaching     → Independent     │
+│                                                                             │
+│  Reading is Thinking  →  TC  →  TO  →  WITH  →  BY                           │
+│  TC = Thinking Aloud (teacher)                                                │
+│  TO = Thinking Aloud (teacher) by (student) with teacher / students           │
+│  WITH = Thinking Aloud (teacher/students with/by students / peer)             │
+│  BY = Thinking Aloud (student by student) / Independent                      │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+The chart reads vertically: **Prior Knowledge · Visualising · Questioning ·
+Inferring · Determining Important Ideas · Synthesising** — with sub-categories
+for MODEL (`Read Aloud / Shared Rdg / Recip. Tchg / Partner Rdg / Think, Pair,
+Share`), GUIDED PRACTICE (`Guided Rdg / Recip. Tchg / Partner Rdg / Think, Pair,
+Share / Think Aloud`), and INDEPENDENT USE (`Think Aloud — teacher / by student
+with teacher / by student with peer / by student solo / Independent`). The
+bottom axis — TC / TO / WITH / BY — maps the four stages of thinking-aloud
+release of responsibility. Source: reconstructed from user's screenshot
+(`Screenshot_2026-09-10_at_6.51.31_am`), reading clockwise.
+
+<!-- page 1 | FLOWCHART RECONSTRUCTED FROM ROTATED SCAN -->
+
+<!-- page 2 | FLAGGED: low-confidence -->
 
 *[This page was too garbled by OCR to reliably correct and has been left as scanned.]*
 
