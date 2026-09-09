@@ -3,13 +3,14 @@ title: "CHORAL READING TEXTS 1"
 source_file: "Choral reading/CHORAL READING TEXTS 1.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
 **CHORAL READING**
 
-<img src="assets/CHORAL READING TEXTS 1/media/image1.png"
-style="width:2.86458in;height:2.02153in" />
+![](assets/CHORAL READING TEXTS 1/media/image1.png)
 
 **FOUND POETRY**
 
@@ -265,7 +266,7 @@ laughed, shutting her out from their group. When she woke, she was
 crying. Her upper arms, which had served as her pillow, were wet. She
 could not remember the dream.*
 
-**Mockingjay**
+### Mockingjay
 
 **Just the most beautiful thing.**
 
@@ -301,7 +302,7 @@ could not remember the dream.*
 
 **A Found poem based on *The Hunger Games \#2***
 
-**The Clap and Flash**
+### The Clap and Flash
 
 **A change in the weather;**
 
@@ -381,7 +382,7 @@ could not remember the dream.*
 
 **Jay Vine Gr.4 W.P.S.**
 
-**The Tenth Good Thing About Barney**
+### The Tenth Good Thing About Barney
 
 **My cat Barney died last Friday.**
 
@@ -441,7 +442,7 @@ could not remember the dream.*
 
 > **Lauren Williams Gr.4 W.P.S.**
 
-**My Cat Barney**
+### My Cat Barney
 
 **My cat Barney died last Friday.**
 
@@ -661,7 +662,7 @@ Jim K.
 
 A Found poem based on Stone Swan by Helen Bell
 
-**The black swan shadowed his mate**
+### The black swan shadowed his mate
 
 **Towards the pale mustard moon.**
 

@@ -3,20 +3,55 @@ title: "CHORAL READING 2"
 source_file: "Choral reading/CHORAL READING 2.docx"
 conversion: "Word doc (pandoc, native text -- no OCR needed)"
 converted: "2026-09-07"
-tags: [jim-k]
+reviewed: "2026-09-09"
+tags: [jim-k, reviewed]
+strand: reading
 ---
 
 **CHORAL READING**
 
-<img src="assets/CHORAL READING 2/media/image1.jpeg"
-style="width:3.46875in;height:3.9057in"
-alt="http://1.bp.blogspot.com/-ABcjIYVxwo8/TsK3ZQjX__I/AAAAAAAAAc4/FERAhWjpavA/s1600/Red%2BLeaf%2B2.jpg" />
+![Red autumn leaf illustration](assets/CHORAL READING 2/media/image1.jpeg)
 
 **FOUND POETRY**
 
 **(2)**
 
 **Choral Reading/Found Poetry Texts 2**
+
+- [Over and Under the Snow Kate Messner](#over-and-under-the-snow-kate-messner)
+- [Nothing to Do Douglas Wood](#nothing-to-do-douglas-wood)
+- [The Stone Swan](#the-stone-swan)
+- [Forest Sonya Hartnett](#forest-sonya-hartnett)
+- [Faithful Elephants Yukio Tsuchiya](#faithful-elephants-yukio-tsuchiya)
+- [Letters from Rifka Karen Hesse](#letters-from-rifka-karen-hesse)
+- [The Hunger Games](#the-hunger-games)
+- [Home Place Crescent Dragonwagon](#home-place-crescent-dragonwagon)
+- [The Tenth Good Thing about Barney Judith Viorst](#the-tenth-good-thing-about-barney-judith-viorst)
+- [An Angel for Solomon Singer Cynthia Rylant](#an-angel-for-solomon-singer-cynthia-rylant)
+- [Fly Away Home](#fly-away-home)
+- [Homeless — Anna Quindlen](#homeless-anna-quindlen)
+- [Prince’s Unwelcome Disguise:](#princes-unwelcome-disguise)
+- [Night Tree Eve Bunting](#night-tree-eve-bunting)
+- [Sylvester and the Magic Pebble](#sylvester-and-the-magic-pebble)
+- [Amos & Boris William Steig](#amos-boris-william-steig)
+- [DAKOTA DUGOUT](#dakota-dugout)
+- [Encounter Jane Yolen](#encounter-jane-yolen)
+- [Barefoot](#barefoot)
+- [The Book Thief Markus Zusak](#the-book-thief-markus-zusak)
+- [Paddle Whispers Douglas Wood](#paddle-whispers-douglas-wood)
+- [Twilight Holly Young Huth](#twilight-holly-young-huth)
+- [The Last Dinosaur Jim Murphy](#the-last-dinosaur-jim-murphy)
+- [The Blue Cat of Castle Town](#the-blue-cat-of-castle-town)
+- [I Like Noisy Mum Likes Quiet Eileen Spinelli](#i-like-noisy-mum-likes-quiet-eileen-spinelli)
+- [Moving Michael Rosen](#moving-michael-rosen)
+- [Guess Who My Favourite Person Is Byrd Baylor](#guess-who-my-favourite-person-is-byrd-baylor)
+- [Python Christopher Cheng](#python-christopher-cheng)
+- [Slower Than the Rest Cynthia Rylant](#slower-than-the-rest-cynthia-rylant)
+- [John Henry Julius Lester](#john-henry-julius-lester)
+- [Grandad’s Prayers of the Earth Douglas Wood](#grandads-prayers-of-the-earth-douglas-wood)
+- [The Deliverance of Dancing Bears Elizabeth Stanley](#the-deliverance-of-dancing-bears-elizabeth-stanley)
+- [Daddy Played Music Maryann Weidt](#daddy-played-music-maryann-weidt)
+- [The One and Only Ivan Katherine Applegate](#the-one-and-only-ivan-katherine-applegate)
 
 Over and Under the Snow Kate Messner
 
@@ -86,8 +121,7 @@ Daddy Played Music Maryann Weidt
 
 The One and Only Ivan Katherine Applegate
 
-**Over and Under the Snow Kate Messner**
-
+## Over and Under the Snow Kate Messner
 Over the snow I glide. Into woods, frosted fresh and white.
 
 Over the snow, a flash of fur – a red squirrel disappears down a crack.
@@ -113,7 +147,7 @@ through the crust, up the hill, under a tree. An oval of melted snow
 tells the story of a good night’s sleep.
 
 Under the snow, deer mice doze. They huddle up, cuddle up against the
-cold ina nest of feathers and fur.
+cold in a nest of feathers and fur.
 
 Over the snow I climb, digging in my edges so I don’t slide back down.
 
@@ -187,8 +221,7 @@ of cuddling deer mice and slumbering frogs. Hungry beavers and
 tunnelling voles. Drowsy bears and busy squirrels. And the secret
 kingdom under the snow.
 
-**Nothing to Do Douglas Wood**
-
+## Nothing to Do Douglas Wood
 Once in a while, along comes a day when there is nothing –
 
 absolutely, positively *nothing* ……………………………………………….**to do.**
@@ -268,7 +301,7 @@ how to do it with you.
 Maybe even someone with big shoes. Just to remind them that, sometimes,
 doing nothing is the most important thing in the whole wide world to do.
 
-**The Stone Swan**
+## The Stone Swan
 
 **Helen Bell**
 
@@ -470,7 +503,7 @@ into the sky. Jo stood there until the black shape became a dot and
 disappeared. Turning back to the water, she gazed at the stone until it
 was swallowed by shadows and it, too, disappeared.
 
-**Forest Sonya Hartnett**
+## Forest Sonya Hartnett
 
 Inside the box they crouched, too frightened to make a sound. Through
 their feet they could feel they were flying; even in blackness they
@@ -653,8 +686,7 @@ exposed. He stared at the peeling trunks and massing ferns, daunted,
 fretful for the comfort of his cemented home. “We don’t belong here,” he
 told the kittens softly. “We have to go back where we came from.”
 
-**Faithful Elephants Yukio Tsuchiya**
-
+## Faithful Elephants Yukio Tsuchiya
 The cherry blossoms are in full bloom at the Ueno Zoo. Their petals are
 falling in the soft breeze and sparkling in the sun. Beneath the cherry
 trees, crowds of people are pushing to enter the zoo on such a beautiful
@@ -777,7 +809,7 @@ this monument.”
 He was still patting the tombstone tenderly as the cherry blossoms fell
 on the grave, like snowflakes.
 
-**Letters from Rifka Karen Hesse**
+## Letters from Rifka Karen Hesse
 
 September 21, 1920
 
@@ -935,7 +967,7 @@ I didn’t want to stop.
 I cried until I was empty of tears. Then I was still. As still as the
 sea after a storm.
 
-**The Hunger Games**
+## The Hunger Games
 
 **Suzanne Collins**
 
@@ -1088,8 +1120,7 @@ moment…
 
 If only I wasn’t so thirsty.
 
-**Home Place Crescent Dragonwagon**
-
+## Home Place Crescent Dragonwagon
 Every year,
 
 these daffodils come up.
@@ -1350,8 +1381,7 @@ to trumpet their good news
 
 forever and forever.
 
-**The Tenth Good Thing about Barney Judith Viorst**
-
+## The Tenth Good Thing about Barney Judith Viorst
 **My cat Barney died last Friday. I was very sad.**
 
 **I cried, and I didn’t watch television. I cried, and I didn’t eat my
@@ -1550,8 +1580,7 @@ Annie said.
 
 And I nodded. “Yeah,” I said. “Someday.”
 
-**An Angel for Solomon Singer Cynthia Rylant**
-
+## An Angel for Solomon Singer Cynthia Rylant
 Solomon Singer lived in a hotel for men near the corner of Columbus
 Avenue and Eighty-Fifth Street in New York City, and he did not like it.
 The hotel had none of the things he loved.
@@ -1646,7 +1675,7 @@ were in a field of conversational crickets beneath the shining stars, go
 inside, and Angel will take your order and Solomon Singer will smile and
 make you feel you are home.
 
-**Fly Away Home**
+## Fly Away Home
 
 **Eve Bunting**
 
@@ -1783,9 +1812,7 @@ Dad and I will be here forever. Then I remember the bird. It took a
 while, but a door opened. And when the bird left, when it flew free, I
 know it was singing.
 
-## Homeless
-
-**by Anna Quindlen**
+## Homeless — Anna Quindlen
 
  
 
@@ -1877,8 +1904,7 @@ not the homeless. They are people who have no homes. No drawer that
 holds the spoons. No window to look out upon the world. My God. That is
 everything.
 
-**Prince’s Unwelcome Disguise:**
-
+## Prince’s Unwelcome Disguise:
 **The Trials of a Pup Without a Home**
 
 **On the Road**
@@ -2074,8 +2100,7 @@ someone would find him and call the vet that has Prince’s records.”
 “He’s a great dog!” the man replied. “The minute I saw him, I knew he
 was a prince in disguise.”
 
-**Night Tree Eve Bunting**
-
+## Night Tree Eve Bunting
 On the night before Christmas we always go to find our tree.
 
 We bundle up so we’re warm. Nina is already wearing her boots that are
@@ -2190,8 +2215,7 @@ Maybe a fox has come, stepping high on its thin, sharp paws, and they’re
 all there together, singing their own Christmas songs on Christmas Day
 around our tree.
 
-**Sylvester and the Magic Pebble**
-
+## Sylvester and the Magic Pebble
 **William Steig**
 
 Sylvester Duncan lived with his mother and father at Acorn Road in
@@ -2356,8 +2380,7 @@ put the magic pebble in an iron safe. Some day they might want to use
 it, but really, for now, what more could they wish for? They had all
 that they wanted.
 
-**Amos & Boris William Steig**
-
+## Amos & Boris William Steig
 Amos, a mouse, lived by the ocean. He loved the ocean. He loved the
 smell of sea air. He loved to hear the surf sounds – the bursting
 breakers, the backwashes with rolling pebbles.
@@ -2557,7 +2580,7 @@ the great whale’s cheeks. The tiny mouse had tears in his eyes too.
 They knew they might never meet again. They knew they would never forget
 each other.
 
-**DAKOTA DUGOUT**
+## DAKOTA DUGOUT
 
 **Ann Turner**
 
@@ -2621,8 +2644,7 @@ us warm.
 
 Sometimes the things we start with are best.
 
-**Encounter Jane Yolen**
-
+## Encounter Jane Yolen
 The moon was well overhead, and our great fire had burned low. A loud
 clap of thunder woke me from my dream.
 
@@ -2789,7 +2811,7 @@ here wrapped in a stranger’s cloak, counting the stranger’s bells on a
 string, telling my story. May it be a warning to all the children and
 all the people in every land.
 
-**Barefoot**
+## Barefoot
 
 ***Escape on the Underground Railroad***
 
@@ -2892,7 +2914,7 @@ their dreams the heron’s cry once again screamed a warning.
 
 Another Barefoot was approaching.
 
-**The Book Thief Markus Zusak**
+## The Book Thief Markus Zusak
 
 **PROLOGUE**
 
@@ -3169,8 +3191,7 @@ an attempt—to prove to me that you, and your human existence, are worth
 it. Here it is. One of a handful. The Book Thief. If you feel like it,
 come with me. I will tell you a story. I’ll show you something.
 
-**Paddle Whispers Douglas Wood**
-
+## Paddle Whispers Douglas Wood
 Going in ...
 
 Dawn in the North Woods. The silence of rocks. A sleeping lake, wrapped
@@ -3270,8 +3291,7 @@ I make breakfast, clean up, break camp, move down the lake.
 
 *the canoe glides ...*
 
-**Twilight Holly Young Huth**
-
+## Twilight Holly Young Huth
 The little girl took charge of the day as it turned into night. Up along
 the avenue she skipped in a zigzag, merry way.
 
@@ -3329,8 +3349,7 @@ nighttime now.”
 
 She wasn’t in charge of that.
 
-**The Last Dinosaur Jim Murphy**
-
+## The Last Dinosaur Jim Murphy
 The sun came up slowly, fingers of light poking through into and
 brightening the tangled forest of pine and poplar and hemlock trees. The
 drone of insects quieted, and the tiny mammals scampered to hide.
@@ -3547,8 +3566,7 @@ begin her search.
 
 - 
 
-**The Blue Cat of Castle Town**
-
+## The Blue Cat of Castle Town
 **Catherine Cate Coblentz **
 
 Chapter One
@@ -3681,9 +3699,7 @@ wind?"
 
 "Will listen to you," replied the kitten.
 
-<img src="assets/CHORAL READING 2/media/image2.jpeg"
-style="width:3.53125in;height:4.41667in"
-alt="http://digital.library.upenn.edu/women/coblentz/cat/7-75.jpeg" />
+![http://digital.library.upenn.edu/women/coblentz/cat/7-75.jpeg](assets/CHORAL READING 2/media/image2.jpeg)
 
 Suddenly he remembered his mother. "She said . . ." wailed the kitten.
 
@@ -3707,9 +3723,7 @@ kitten can keep his ears covered all the time. And little by little, day
 after day, he heard the sound of the river. Every now and then it told
 of Castle Town.
 
-<img src="assets/CHORAL READING 2/media/image3.jpeg"
-style="width:7.07292in;height:1.95833in"
-alt="http://digital.library.upenn.edu/women/coblentz/cat/8-75.jpeg" />
+![http://digital.library.upenn.edu/women/coblentz/cat/8-75.jpeg](assets/CHORAL READING 2/media/image3.jpeg)
 
 "Castle Town was settled a long time ago," said the river. "Up from
 Connecticut, through the wilderness, came men and women, riding on
@@ -3832,8 +3846,7 @@ must live your own life and sing your own song."
 "Mer-row! Oh, go and listen to the river then!" said the mother cat
 crossly.
 
-**I Like Noisy Mum Likes Quiet Eileen Spinelli**
-
+## I Like Noisy Mum Likes Quiet Eileen Spinelli
 I like noisy. I like clomping and stomping and romping in the kitchen
 like a monkey.
 
@@ -3884,8 +3897,7 @@ shining. “Nightie-night,” I croon, all smiles.
 Cat curls up beside me. Mum tousles my hair. She kisses me twice.
 Whispers, “Honey, that was the nicest Mother’s Day ever!”
 
-**Moving Michael Rosen**
-
+## Moving Michael Rosen
 No one knows what I do.
 
 No one knows where I go.
@@ -4117,8 +4129,7 @@ I will be nowhere and everywhere.
 
 ... and that’s how it is.
 
-**Guess Who My Favourite Person Is Byrd Baylor**
-
+## Guess Who My Favourite Person Is Byrd Baylor
 I happened I was
 
 to be going back
@@ -5083,8 +5094,7 @@ the road
 
 together.
 
-**Python Christopher Cheng**
-
+## Python Christopher Cheng
 It’s morning in the bush. Python stirs and peeps out from her sheltered
 
 nocturnal resting place. She warms her head and smells the air with her
@@ -5182,8 +5192,7 @@ are ready to start their own lives of smelling, resting and watching.
 
 And waiting.
 
-**Slower Than the Rest Cynthia Rylant**
-
+## Slower Than the Rest Cynthia Rylant
 Leo was the first one to spot the turtle, so he was the one who got to
 keep it. They had all been in the car, driving up Tyler Mountain to
 church, when Leo shouted, “There’s a turtle!” and everyone’s head jerked
@@ -5305,8 +5314,7 @@ with happiness.
 That night, alone in his room, holding Charlie on his shoulder, Leo felt
 proud. And for the first time in a long time, Leo felt fast.
 
-**John Henry Julius Lester**
-
+## John Henry Julius Lester
 You have probably never heard of John Henry. Or maybe you heard about
 him but don’t know the ins and outs of his comings and goings. Well,
 that’s why I’m going to tell you about him.
@@ -5585,8 +5593,7 @@ No, it ain’t gon’ rain.
 
 RINGGGG! RINGGGG!
 
-**Grandad’s Prayers of the Earth Douglas Wood**
-
+## Grandad’s Prayers of the Earth Douglas Wood
 when I was little, my Grandad was my best friend. Being with him always
 made the world seem just right.
 
@@ -5736,8 +5743,7 @@ near.
 
 And for the first time in a long time, the world seemed just right.
 
-**The Deliverance of Dancing Bears Elizabeth Stanley**
-
+## The Deliverance of Dancing Bears Elizabeth Stanley
 There was once a large brown bear who dreamed of a different life.
 
 A life of wandering in the forests: of drinking the cool clear water of
@@ -5899,8 +5905,7 @@ The people released Haluk, who fell to the ground. Humbled by Yusuf’s
 words, he watched silently as the old man and the bear walked home
 together to the little cottage by the wood.
 
-**Daddy Played Music Maryann Weidt**
-
+## Daddy Played Music Maryann Weidt
 Mama always said I was born in the barn while Daddy played music for the
 cows. A bright red can full of seed corn was my rattle. It sang
 *kitch-ka-shoo, kitch-ka-shoo* when I shook it, while the cowboys sang
@@ -5995,8 +6000,7 @@ cowgirl was singing our favourite song. Daddy hummed along, his voice
 flat and happy, and I yodelled like I never had before, while Daddy
 played music for the cows.
 
-**The One and Only Ivan Katherine Applegate**
-
+## The One and Only Ivan Katherine Applegate
 (extract)
 
 *hello*
