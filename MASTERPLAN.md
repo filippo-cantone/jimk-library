@@ -61,6 +61,12 @@ Order: Text Structures → Choral reading → Information Report →
 Literacy Overview → Text Structures… (then by size; photo libraries last).
 Review checkpoint per folder before moving on.
 
+**Two passes per folder.** Pass 1 cleans (OCR, tables, frontmatter, headings,
+visuals, standalone lifts). Pass 2 re-reads the finished folder top to
+bottom asking: is the *organisation* right — method pages vs collections
+split out? Any missed diagrams, missed complete texts, flattened forms,
+mis-titled poems? Only then is the folder committed as reviewed.
+
 ## Phase 2 — Information architecture
 
 One-page map: strand tree (Reading · Writing · Genres · Author studies ·
