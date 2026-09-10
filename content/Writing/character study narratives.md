@@ -4,6 +4,8 @@ source_file: "Writing/character study narratives.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
 tags: [jim-k]
+reviewed: "2026-09-10"
+strand: writing
 ---
 
 **Character Studies**
@@ -672,7 +674,7 @@ will do next?
 |          |             |                      |           |
 
 <img src="/tmp/tmp.5K0n8WsV5E/media/media/image2.wmf"
-style="width:5.99722in;height:4.63403in" />
+ />
 
 **Character Analysis Chart**
 

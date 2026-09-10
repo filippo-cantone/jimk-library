@@ -4,14 +4,14 @@ source_file: "Mentor Texts/Author Study - Patricia Polacco.pdf"
 pages: 28
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1]
+
 tags: [jim-k]
 review_status: "flagged pages manually reviewed and corrected"
 ---
 
 # Author Study - Patricia Polacco
 
-<!-- page 1 | FLAGGED: low confidence, needs review -->
+<!-- page 1 -->
 
 *[Title page: hand-lettered "AUTHOR STUDY — PATRICIA POLACCO"]*
 

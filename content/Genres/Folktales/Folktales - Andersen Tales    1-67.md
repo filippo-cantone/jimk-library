@@ -4,20 +4,17 @@ source_file: "Genres/Folktales/Folktales - Andersen Tales    1-67.pdf"
 pages: 67
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 9, 67]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Folktales - Andersen Tales
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
-| FOLKTALES
+<!-- page 1 -->
 ANDERSEN TALES
-
----
-
-<!-- page 2 -->
+ -->
 
 °
 The Emperor’s New Suit
@@ -410,7 +407,7 @@ appeared quite to fill the chair. The old people sat at their supper, casting fr
 
 ---
 
-<!-- page 9 | FLAGGED: low-confidence -->
+<!-- page 9 -->
 
 *[page skipped: OCR timed out]*
 
@@ -3579,6 +3576,5 @@ THE END
 
 ---
 
-<!-- page 67 | FLAGGED: low-confidence -->
-
+<!-- page 67 -->
 

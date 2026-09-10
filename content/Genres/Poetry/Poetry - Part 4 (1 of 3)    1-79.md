@@ -4,24 +4,17 @@ source_file: "Genres/Poetry/Poetry - Part 4 (1 of 3)    1-79.pdf"
 pages: 79
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 11, 15, 17, 18, 19, 21, 27, 46, 79]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Poetry - Part 4 (1 of 3)
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 POETRY
-Part 4 (1 of 3)
-\) Bx
-a A
-Se,
-Ses
-
----
-
-<!-- page 2 -->
+ -->
 
 POETRY - THOUGHTS & FEELINGS
 Learning from Poets
@@ -381,7 +374,7 @@ soap bubble caterpillar
 
 ---
 
-<!-- page 11 | FLAGGED: low-confidence -->
+<!-- page 11 -->
 
 How the Moon got into the sky
 This story is from Cape York.
@@ -494,7 +487,7 @@ Suddenly the string started to hum. It was the sign that the Sun was coming up.
 
 ---
 
-<!-- page 15 | FLAGGED: low-confidence -->
+<!-- page 15 -->
 
 The Story of Alakitja
 This spectacular group of stars shining in the southern portion of the night sky is the best known of our
@@ -564,7 +557,7 @@ large towns. The Emu's head is the dark shadow called the Coal Sack that sits ne
 
 ---
 
-<!-- page 17 | FLAGGED: low-confidence -->
+<!-- page 17 -->
 
 Its neck passes through the Pointers, and its body lies across the constellation Scorpio. The Emu is most
 easily seen from May to September,
@@ -598,7 +591,7 @@ hunting their food.
 
 ---
 
-<!-- page 18 | FLAGGED: low-confidence -->
+<!-- page 18 -->
 
 As she reaches the west, she disappears over the horizon where she stops and smothers her flaming torch,
 so that it gives off only very little light and heat. She redecorates herself with red ochre, causing the red
@@ -639,7 +632,7 @@ but Warrumma was too strong.
 
 ---
 
-<!-- page 19 | FLAGGED: low-confidence -->
+<!-- page 19 -->
 
 When they had finally stopped screaming and struggling, Warrumma explained that he was lonely and that
 
@@ -692,7 +685,7 @@ dives towards the sea the first rain of the season, Kuki, will begin.
 
 ---
 
-<!-- page 21 | FLAGGED: low-confidence -->
+<!-- page 21 -->
 
 A Celestial Calendar
 Marpeankurric, was a clever woman who live in the mallee forests of southern Australia many thousands of
@@ -909,7 +902,7 @@ Remember - you are the expert on you, No one sees the world as you do.
 
 ---
 
-<!-- page 27 | FLAGGED: low-confidence -->
+<!-- page 27 -->
 
 “Where ?m From”
 Jamfrom
@@ -1561,7 +1554,7 @@ in his sleep.
 
 ---
 
-<!-- page 46 | FLAGGED: low-confidence -->
+<!-- page 46 -->
 
 om Fe
 yo eS <a
@@ -2789,6 +2782,5 @@ Write about the holes when we think of family, friends, pets.
 
 ---
 
-<!-- page 79 | FLAGGED: low-confidence -->
-
+<!-- page 79 -->
 

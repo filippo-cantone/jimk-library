@@ -4,20 +4,17 @@ source_file: "Genres/Folktales/Folktales - Animal Tales    1-10.pdf"
 pages: 10
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Folktales - Animal Tales
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 FOLKTALES
-ANIMAL TALES
-
----
-
-<!-- page 2 -->
+ -->
 
 The Travelling Musicians
 

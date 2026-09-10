@@ -10,9 +10,7 @@ strand: reading
 
 ## READERS’ THEATRE 7
 
-<img src="assets/READERS' THEATRE 7/media/image1.png" alt="theatre-clip-art-8" />
-
-<img src="assets/READERS' THEATRE 7/media/image1.png" alt="theatre-clip-art-8" />
+<img src="assets/READERS' THEATRE 7/media/image1.png"  />
 
 ## Readers’ Theatre 7
 

@@ -1,12 +1,15 @@
 ---
+
 title: "Critical Literacy  Stereotypes in Literature"
 source_file: "Reading/Critical Literacy/Critical Literacy  Stereotypes in Literature  1-41.pdf"
 pages: 41
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [19, 41]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+reviewed: "2026-09-10"
 ---
+
 
 # Critical Literacy  Stereotypes in Literature
 
@@ -745,7 +748,9 @@ secret. And it remained his friend forever.
 
 ---
 
-<!-- page 19 | FLAGGED: low-confidence -->
+<!-- page 19 -->
+
+<!-- blank page -->
 
 ---
 
@@ -1774,5 +1779,7 @@ whichever seems wisest.
 
 ---
 
-<!-- page 41 | FLAGGED: low-confidence -->
+<!-- page 41 -->
+
+<!-- blank page -->
 

@@ -2,6 +2,7 @@
 title: "Writing Voice 4"
 source_file: "Writing Voice/Writing - Voice 4.md"
 tags: [jim-k]
+reviewed: "2026-09-10"
 strand: writing-voice
 ---
 

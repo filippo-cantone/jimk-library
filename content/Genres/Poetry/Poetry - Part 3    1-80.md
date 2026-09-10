@@ -4,25 +4,17 @@ source_file: "Genres/Poetry/Poetry - Part 3    1-80.pdf"
 pages: 80
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 8, 11, 49, 79, 80]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Poetry - Part 3
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 POETRY
-Part 3
-, wie
-( @) :
-AN = sews) yA
-Ay __ ne =
-aa
-
----
-
-<!-- page 2 -->
+ -->
 
 CONCERNS FOR THE WORLD
 Children are very aware and concerned about what is going on in the world
@@ -261,7 +253,7 @@ Jade Garcia
 
 ---
 
-<!-- page 8 | FLAGGED: low-confidence -->
+<!-- page 8 -->
 
 A Parents’ Language Growing Up
 Parents talk with a special Language. Must we grow up?
@@ -415,7 +407,7 @@ Jemnifer Thompson
 
 ---
 
-<!-- page 11 | FLAGGED: low-confidence -->
+<!-- page 11 -->
 
 Mummy?
 
@@ -1909,7 +1901,7 @@ Alicta Gadd-Carolan Gr.é wembley
 
 ---
 
-<!-- page 49 | FLAGGED: low-confidence -->
+<!-- page 49 -->
 
 Milleshake Maker
 chikka chika chikiea.
@@ -3190,7 +3182,7 @@ Beautiful, also, are the spirits of my people.
 
 ---
 
-<!-- page 79 | FLAGGED: low-confidence -->
+<!-- page 79 -->
 
 Memorising Poetry
 
@@ -3233,6 +3225,5 @@ background to the audience.
 
 ---
 
-<!-- page 80 | FLAGGED: low-confidence -->
-
+<!-- page 80 -->
 

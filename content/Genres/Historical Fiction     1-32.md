@@ -4,19 +4,17 @@ source_file: "Genres/Historical Fiction     1-32.pdf"
 pages: 32
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 32]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Historical Fiction
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 HISTORICAL FICTION
-
----
-
-<!-- page 2 -->
+ -->
 
 HISTORICAL FICTION
 Historical Fiction brings history to life. The story is set around historical
@@ -1401,6 +1399,6 @@ sold for a penny.
 
 ---
 
-<!-- page 32 | FLAGGED: low-confidence -->
+<!-- page 32 -->
 
 4

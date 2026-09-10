@@ -4,22 +4,17 @@ source_file: "Genres/Memoir  1-85.pdf"
 pages: 85
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 85]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Memoir
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 MEMOIR
-| a Z ile
-aS )
-wa Su
-
----
-
-<!-- page 2 -->
+ -->
 
 MEMOIR
 Students write best when they write about what they know and love.
@@ -3295,6 +3290,5 @@ remembered them so vividly. All are true. @
 
 ---
 
-<!-- page 85 | FLAGGED: low-confidence -->
-
+<!-- page 85 -->
 

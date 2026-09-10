@@ -1,16 +1,19 @@
 ---
+
 title: "Spelling"
 source_file: "Writing/Conventions/Spelling  1-99.pdf"
 pages: 99
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 9, 10, 11, 13, 14, 15, 16, 22, 23, 24, 25, 26, 27, 28, 29, 53, 54, 55, 56, 62, 63, 64, 65, 68, 69, 70, 82, 83, 92]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+reviewed: "2026-09-10"
 ---
+
 
 # Spelling
 
-<!-- page 1 | FLAGGED: low-confidence -->
+<!-- page 1 -->
 
 SPELLING |
 
@@ -277,7 +280,7 @@ Editing and proof-reading will be explicitly taught.
 
 ---
 
-<!-- page 9 | FLAGGED: low-confidence -->
+<!-- page 9 -->
 
 wlages of Speinng evelopment
 Pre-Communicative
@@ -309,7 +312,7 @@ TAR
 
 ---
 
-<!-- page 10 | FLAGGED: low-confidence -->
+<!-- page 10 -->
 
 Semi-Phonetic
 
@@ -339,7 +342,7 @@ H
 
 ---
 
-<!-- page 11 | FLAGGED: low-confidence -->
+<!-- page 11 -->
 
 Phonetic
 Spelling by sound.
@@ -386,7 +389,7 @@ We went out of the building and saw the donkey statue. -
 
 ---
 
-<!-- page 13 | FLAGGED: low-confidence -->
+<!-- page 13 -->
 
 Conventional_
 A lifelong process.
@@ -418,7 +421,7 @@ wp amol he raver did.In qroole, thre
 
 ---
 
-<!-- page 14 | FLAGGED: low-confidence -->
+<!-- page 14 -->
 
 *[The tables spanning pages 14-16 (the K-3 spelling-development charts) were too garbled by OCR — column structure lost, many words fragmented — to reliably correct and have been left as scanned.]*
 
@@ -466,7 +469,7 @@ technique,
 
 ---
 
-<!-- page 15 | FLAGGED: low-confidence -->
+<!-- page 15 -->
 
 Rp es Sa sud) Daly Sisunel tenant Wate pee elo ne
 ee DES 23 Eee
@@ -513,7 +516,7 @@ More compound words.
 
 ---
 
-<!-- page 16 | FLAGGED: low-confidence -->
+<!-- page 16 -->
 
 cas raat 2s ee eee een eee ea
 ‘ 7 g ae ie see Bereta ian at eae red
@@ -755,7 +758,7 @@ Word Study and Spelling from Student Writing Adapted from J. Kinniburgh February
 
 ---
 
-<!-- page 22 | FLAGGED: low-confidence -->
+<!-- page 22 -->
 
 Where Are You in Writing Workshop?
 
@@ -772,7 +775,7 @@ Proofreading
 
 ---
 
-<!-- page 23 | FLAGGED: low-confidence -->
+<!-- page 23 -->
 
 *[This passage was too garbled by OCR to reliably correct and has been left as scanned.]*
 
@@ -780,7 +783,7 @@ Proofreading
 
 ---
 
-<!-- page 24 | FLAGGED: low-confidence -->
+<!-- page 24 -->
 
 Look, say, name, cover, write, check.
 
@@ -797,7 +800,7 @@ i
 
 ---
 
-<!-- page 25 | FLAGGED: low-confidence -->
+<!-- page 25 -->
 
 *[This passage was too garbled by OCR to reliably correct and has been left as scanned.]*
 
@@ -805,7 +808,7 @@ i
 
 ---
 
-<!-- page 26 | FLAGGED: low-confidence -->
+<!-- page 26 -->
 
 TOPIC WORDS
 
@@ -834,7 +837,7 @@ ee ee
 
 ---
 
-<!-- page 27 | FLAGGED: low-confidence -->
+<!-- page 27 -->
 
 INTERESTING WORDS
 
@@ -863,7 +866,7 @@ a ee
 
 ---
 
-<!-- page 28 | FLAGGED: low-confidence -->
+<!-- page 28 -->
 
 WORDS I NOW KNOW
 
@@ -892,7 +895,7 @@ po
 
 ---
 
-<!-- page 29 | FLAGGED: low-confidence -->
+<!-- page 29 -->
 
 *[This passage was too garbled by OCR to reliably correct and has been left as scanned.]*
 
@@ -1535,7 +1538,7 @@ i
 
 ---
 
-<!-- page 53 | FLAGGED: low-confidence -->
+<!-- page 53 -->
 
 Name Date
 
@@ -1561,7 +1564,7 @@ ee ee ee
 
 ---
 
-<!-- page 54 | FLAGGED: low-confidence -->
+<!-- page 54 -->
 
 PS. 89 ,
 Grade One Checklist
@@ -1587,7 +1590,7 @@ pr | | [Phew | | ff ast Poof | most | | | | |
 
 ---
 
-<!-- page 55 | FLAGGED: low-confidence -->
+<!-- page 55 -->
 
 *[This passage was too garbled by OCR to reliably correct and has been left as scanned.]*
 
@@ -1637,7 +1640,7 @@ Boe | aes alle dlatelaleiEl eles
 
 ---
 
-<!-- page 56 | FLAGGED: low-confidence -->
+<!-- page 56 -->
 
 High Frequency Words
 Ranked in order
@@ -1854,7 +1857,7 @@ i
 
 ---
 
-<!-- page 62 | FLAGGED: low-confidence -->
+<!-- page 62 -->
 
 ack ail = ain
 ake ale ame
@@ -1866,7 +1869,7 @@ est ice ick
 
 ---
 
-<!-- page 63 | FLAGGED: low-confidence -->
+<!-- page 63 -->
 
 ide ight ill
 in ing
@@ -1877,7 +1880,7 @@ ug ump unk
 
 ---
 
-<!-- page 64 | FLAGGED: low-confidence -->
+<!-- page 64 -->
 
 *[This passage was too garbled by OCR to reliably correct and has been left as scanned.]*
 
@@ -1903,7 +1906,7 @@ aazagg-|= 8
 
 ---
 
-<!-- page 65 | FLAGGED: low-confidence -->
+<!-- page 65 -->
 
 *[This passage was too garbled by OCR to reliably correct and has been left as scanned.]*
 
@@ -1994,7 +1997,7 @@ ee
 
 ---
 
-<!-- page 68 | FLAGGED: low-confidence -->
+<!-- page 68 -->
 
 During reading and writing experiences the following aspects of spelling may be planned for:
 A possible ten-day planner forlateinthe year = 5, ovens Shi. RS Ae
@@ -2033,7 +2036,7 @@ time activity.
 
 ---
 
-<!-- page 69 | FLAGGED: low-confidence -->
+<!-- page 69 -->
 
 vuring reading and writing experiences the following aspects of spelling may be planned for:
 - Apossibie ten-day planner ”, : Ss od
@@ -2087,7 +2090,7 @@ eee
 
 ---
 
-<!-- page 70 | FLAGGED: low-confidence -->
+<!-- page 70 -->
 
 haring reading and writing experiences the following aspects of spelling may be planned for:
 crave 2 See ten-day planner : me,
@@ -2589,7 +2592,7 @@ Teacher Notes: .
 
 ---
 
-<!-- page 82 | FLAGGED: low-confidence -->
+<!-- page 82 -->
 
 *[This passage was too garbled by OCR to reliably correct and has been left as scanned.]*
 
@@ -2614,7 +2617,7 @@ hare Sounds Great
 
 ---
 
-<!-- page 83 | FLAGGED: low-confidence -->
+<!-- page 83 -->
 
 *[This passage was too garbled by OCR to reliably correct and has been left as scanned.]*
 
@@ -3129,7 +3132,7 @@ writing.
 
 ---
 
-<!-- page 92 | FLAGGED: low-confidence -->
+<!-- page 92 -->
 
 *[This passage was too garbled by OCR to reliably correct and has been left as scanned.]*
 

@@ -4,8 +4,10 @@ source_file: "Genres/Poetry/Poems by David Harris.pdf"
 pages: 22
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [none]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Poems by David Harris

@@ -10,9 +10,7 @@ strand: reading
 
 ## READERS’ THEATRE 8
 
-<img src="assets/READERS' THEATRE 8/media/image1.jpeg" alt="masks" />
-
-<img src="assets/READERS' THEATRE 8/media/image1.jpeg" alt="masks" />
+<img src="assets/READERS' THEATRE 8/media/image1.jpeg"  />
 
 ## Readers’ Theatre 8
 
@@ -2429,7 +2427,7 @@ My lovely furry wolfskin coat.'
 
 ## Roald Dahl
 
-<img src="assets/READERS' THEATRE 8/media/image2.jpeg" alt="Ridy" />
+<img src="assets/READERS' THEATRE 8/media/image2.jpeg"  />
 
 ## The Three Little Pigs Roald Dahl
 
@@ -2623,9 +2621,9 @@ She has a PIGSKIN TRAVELLING CASE.
 
 ## Roald Dahl
 
-<img src="assets/READERS' THEATRE 8/media/image3.jpeg" alt="ThreePig" />
+<img src="assets/READERS' THEATRE 8/media/image3.jpeg"  />
 
-<img src="assets/READERS' THEATRE 8/media/image4.jpeg" alt="Snowy" />
+<img src="assets/READERS' THEATRE 8/media/image4.jpeg"  />
 
 ## The Porcupine Roald Dahl
 

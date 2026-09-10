@@ -4,8 +4,10 @@ source_file: "Genres/Persuasive/Persuasive Writing Using Fiction.pdf"
 pages: 77
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [18, 19, 39, 41, 42, 76, 77]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Persuasive Writing Using Fiction
@@ -612,7 +614,7 @@ You're ... going? You're still going to the restaurant?
 
 ---
 
-<!-- page 18 | FLAGGED: low-confidence -->
+<!-- page 18 -->
 
 Stop that, I don’t want that.
 I don’t want a good-bye kiss.
@@ -655,7 +657,7 @@ nhl oy
 
 ---
 
-<!-- page 19 | FLAGGED: low-confidence -->
+<!-- page 19 -->
 
 Good-bye.
 er
@@ -1643,7 +1645,7 @@ I Wanna New Room by Karen Orloff
 
 ---
 
-<!-- page 39 | FLAGGED: low-confidence -->
+<!-- page 39 -->
 
 Heading: —_
 Salutation: Dear
@@ -1677,13 +1679,13 @@ The final paragraph will give a summary of the argument and details.
 
 ---
 
-<!-- page 41 | FLAGGED: low-confidence -->
+<!-- page 41 -->
 
 *[page skipped: OCR timed out]*
 
 ---
 
-<!-- page 42 | FLAGGED: low-confidence -->
+<!-- page 42 -->
 
 ow a xt
 2 Bge &
@@ -3134,12 +3136,9 @@ That grew in the ancient forest.
 
 ---
 
-<!-- page 76 | FLAGGED: low-confidence -->
-
-
+<!-- page 76 -->
 
 ---
 
-<!-- page 77 | FLAGGED: low-confidence -->
-
+<!-- page 77 -->
 

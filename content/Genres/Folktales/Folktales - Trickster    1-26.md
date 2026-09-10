@@ -4,20 +4,17 @@ source_file: "Genres/Folktales/Folktales - Trickster    1-26.pdf"
 pages: 26
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 6, 7, 8, 9, 25]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Folktales - Trickster
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 FOLKTALES
-TRICKSTER TALES
-
----
-
-<!-- page 2 -->
+ -->
 
 a
 The Wicked Girl
@@ -213,7 +210,7 @@ Lore, Vol. 2, by Lucy M. J. Garnett, Nutt, London, 1891, chapters 16-22.
 
 ---
 
-<!-- page 6 | FLAGGED: low-confidence -->
+<!-- page 6 -->
 
 f
 B ° ‘ 1
@@ -257,7 +254,7 @@ i i | = XO illustrated by Monica Vachula uf ‘ i) a wa
 
 ---
 
-<!-- page 7 | FLAGGED: low-confidence -->
+<!-- page 7 -->
 
 coe fa
 FE ey Ta Sates ELD Sw G SORT Wit a |
@@ -296,7 +293,7 @@ i
 
 ---
 
-<!-- page 8 | FLAGGED: low-confidence -->
+<!-- page 8 -->
 
 ; gf we But Snake was not fooled. He knew he could not slide.up
 \ & oo the slick sides of the hole, so he wrapped his tail around the
@@ -342,7 +339,7 @@ i! y Ge er | Ee . oS BPO ;
 
 ---
 
-<!-- page 9 | FLAGGED: low-confidence -->
+<!-- page 9 -->
 
 “Tie my tail to the end of the bamboo, then,” Snake said. “I y a ag S
 know I am longer than it is.” & # ti AK
@@ -1106,7 +1103,7 @@ around to catch the squirrel, and Brer Rabbit dashed out and ran for home.
 
 ---
 
-<!-- page 25 | FLAGGED: low-confidence -->
+<!-- page 25 -->
 
 a Nae aD - -
 f aah

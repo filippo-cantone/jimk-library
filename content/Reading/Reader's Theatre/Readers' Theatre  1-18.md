@@ -1,12 +1,15 @@
 ---
+
 title: "Readers' Theatre"
 source_file: "Reading/Reader's Theatre/Readers' Theatre  1-18.pdf"
 pages: 18
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [none]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+reviewed: "2026-09-10"
 ---
+
 
 # Readers' Theatre
 

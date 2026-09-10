@@ -1,47 +1,48 @@
 ---
+
 title: "Spelling Journal"
 source_file: "Writing/Conventions/Spelling Journal.pdf"
 pages: 24
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 2, 3, 4, 5, 6, 7, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+reviewed: "2026-09-10"
 ---
+
 
 # Spelling Journal
 
-<!-- page 1 | FLAGGED: low-confidence -->
+<!-- page 1 -->
 
 |
 
 ---
 
-<!-- page 2 | FLAGGED: low-confidence -->
-
-
+<!-- page 2 -->
 
 ---
 
-<!-- page 3 | FLAGGED: low-confidence -->
+<!-- page 3 -->
 
 ot ___ HAVEA-GO_ oT
 
 ---
 
-<!-- page 4 | FLAGGED: low-confidence -->
+<!-- page 4 -->
 
 5 a 7: s _ ___ HAVE-A-GO
 .
 
 ---
 
-<!-- page 5 | FLAGGED: low-confidence -->
+<!-- page 5 -->
 
 eee AVEO
 
 ---
 
-<!-- page 6 | FLAGGED: low-confidence -->
+<!-- page 6 -->
 
 Leek, say, name, cover, write, check.
 i i
@@ -51,7 +52,7 @@ i
 
 ---
 
-<!-- page 7 | FLAGGED: low-confidence -->
+<!-- page 7 -->
 
 . Leck, say, name, cover, write, check.
 |
@@ -70,7 +71,7 @@ Look, say, name, cover, write, check,
 
 ---
 
-<!-- page 9 | FLAGGED: low-confidence -->
+<!-- page 9 -->
 
 Look, say, neme, cover, write, check.
 a
@@ -81,7 +82,7 @@ ns es ee
 
 ---
 
-<!-- page 10 | FLAGGED: low-confidence -->
+<!-- page 10 -->
 
 Lesk, sey, name, cover, write, cheek.
 ! | °
@@ -91,7 +92,7 @@ Lesk, sey, name, cover, write, cheek.
 
 ---
 
-<!-- page 11 | FLAGGED: low-confidence -->
+<!-- page 11 -->
 
 ; Look, say, name, cover, write, check.
 : | 7
@@ -102,7 +103,7 @@ Lesk, sey, name, cover, write, cheek.
 
 ---
 
-<!-- page 12 | FLAGGED: low-confidence -->
+<!-- page 12 -->
 
 Leak, say, name, cover, write, check.
 | | :
@@ -113,7 +114,7 @@ t at
 
 ---
 
-<!-- page 13 | FLAGGED: low-confidence -->
+<!-- page 13 -->
 
 ; Leek, say, name, cover, write, check.
 |
@@ -124,7 +125,7 @@ i
 
 ---
 
-<!-- page 14 | FLAGGED: low-confidence -->
+<!-- page 14 -->
 
 Leok, say, name, cover, write, check.
 | | :
@@ -135,7 +136,7 @@ i
 
 ---
 
-<!-- page 15 | FLAGGED: low-confidence -->
+<!-- page 15 -->
 
 Loek, say, name, cover, write, check.
 | | :
@@ -147,7 +148,7 @@ if
 
 ---
 
-<!-- page 16 | FLAGGED: low-confidence -->
+<!-- page 16 -->
 
 ; Leok, say, name, cover, write, check.
 | | ”
@@ -158,7 +159,7 @@ i
 
 ---
 
-<!-- page 17 | FLAGGED: low-confidence -->
+<!-- page 17 -->
 
 . Look, say, name, cover, write, check.
 | | :
@@ -169,7 +170,7 @@ i
 
 ---
 
-<!-- page 18 | FLAGGED: low-confidence -->
+<!-- page 18 -->
 
 Look, say, name, cover, write, check.
 a
@@ -179,7 +180,7 @@ a
 
 ---
 
-<!-- page 19 | FLAGGED: low-confidence -->
+<!-- page 19 -->
 
 Look, say, name, cover, write, check.
 
@@ -196,7 +197,7 @@ i
 
 ---
 
-<!-- page 20 | FLAGGED: low-confidence -->
+<!-- page 20 -->
 
 Look, say, name, cover, write, cheek.
 | | :
@@ -206,7 +207,7 @@ Look, say, name, cover, write, cheek.
 
 ---
 
-<!-- page 21 | FLAGGED: low-confidence -->
+<!-- page 21 -->
 
 ae i een GE
 rr ee
@@ -224,7 +225,7 @@ a
 
 ---
 
-<!-- page 22 | FLAGGED: low-confidence -->
+<!-- page 22 -->
 
 | eee EEE
 a
@@ -255,7 +256,7 @@ a 0
 
 ---
 
-<!-- page 23 | FLAGGED: low-confidence -->
+<!-- page 23 -->
 
 . see
 a

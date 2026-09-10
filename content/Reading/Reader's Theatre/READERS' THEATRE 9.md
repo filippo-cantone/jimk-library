@@ -10,7 +10,7 @@ strand: reading
 
 ## READERS’ THEATRE 9
 
-<img src="assets/READERS' THEATRE 9/media/image1.png" alt="masks" />
+<img src="assets/READERS' THEATRE 9/media/image1.png"  />
 
 ## PERFORMING POETRY
 
@@ -41,7 +41,7 @@ to find out what it really means.
 
 ## Billy Collins
 
-<img src="assets/READERS' THEATRE 9/media/image2.png" alt="masks" />
+<img src="assets/READERS' THEATRE 9/media/image2.png"  />
 
 ## Readers’ Theatre 9 Performing Poetry
 
@@ -333,7 +333,7 @@ and five little pumpkins rolled out of sight. **
 **
 
 <img src="assets/READERS' THEATRE 9/media/image3.jpeg"
-alt="We&#39;re Going on a Bear Hunt" />
+ />
 
 ## Dramatic Play
 
@@ -354,7 +354,7 @@ Reread throughout the week. Small groups can dramatise the story while
 the others narrate it.
 
 ## We’re going on a Bear Hunt
-<img src="assets/READERS' THEATRE 9/media/image4.jpeg" alt="bear_hunt_lead_203x152" />
+<img src="assets/READERS' THEATRE 9/media/image4.jpeg"  />
 
 We’re going on a bear hunt.
 
@@ -546,18 +546,18 @@ Under the covers.
 
 We’re not going on a bear hunt again.
 
-<img src="assets/READERS' THEATRE 9/media/image5.jpeg" alt="WGOBH+bear+walking+back" />
+<img src="assets/READERS' THEATRE 9/media/image5.jpeg"  />
 
 <img src="assets/READERS' THEATRE 9/media/image6.jpeg"
-alt="WGOBH+crossing+the+river" />
+ />
 
-<img src="assets/READERS' THEATRE 9/media/image7.jpeg" alt="WGOBH+up+the+stairs" />
+<img src="assets/READERS' THEATRE 9/media/image7.jpeg"  />
 
 <img src="assets/READERS' THEATRE 9/media/image8.jpeg"
-alt="WGOBH+entering+the+cave" />
+ />
 
 <img src="assets/READERS' THEATRE 9/media/image9.jpeg"
-alt="WGOBH+Getting+to+bedroom" />
+ />
 
 ## The Pig Roald Dahl
 
@@ -907,7 +907,7 @@ But Custard keeps crying for a nice safe cage.
 
 ## Ogden Nash
 
-<img src="assets/READERS' THEATRE 9/media/image10.jpeg" alt="Mac " />
+<img src="assets/READERS' THEATRE 9/media/image10.jpeg"  />
 
 ## Mushrooms
 
@@ -1773,7 +1773,7 @@ a draught.
 <thead>
 <tr class="header">
 <th><img src="assets/READERS' THEATRE 9/media/image11.gif"
-alt="http://www.macleans.school.nz/co-curricular/writersclub/images/spacer.gif" /><strong>Excuses,
+ /><strong>Excuses,
 Excuses</strong></th>
 <th></th>
 </tr>
@@ -1785,7 +1785,7 @@ Excuses</strong></th>
 </tr>
 <tr class="even">
 <td colspan="2"><img src="assets/READERS' THEATRE 9/media/image11.gif"
-alt="http://www.macleans.school.nz/co-curricular/writersclub/images/spacer.gif" /></td>
+ /></td>
 </tr>
 <tr class="odd">
 <td> </td>
@@ -1815,7 +1815,7 @@ You missed the maths test Blenkinsopp!</td>
 </tr>
 <tr class="even">
 <td colspan="2"><img src="assets/READERS' THEATRE 9/media/image11.gif"
-alt="http://www.macleans.school.nz/co-curricular/writersclub/images/spacer.gif" /></td>
+ /></td>
 </tr>
 <tr class="odd">
 <td> </td>
@@ -1831,7 +1831,7 @@ Not ironed sir.</td>
 </tr>
 <tr class="even">
 <td colspan="2"><img src="assets/READERS' THEATRE 9/media/image11.gif"
-alt="http://www.macleans.school.nz/co-curricular/writersclub/images/spacer.gif" /></td>
+ /></td>
 </tr>
 <tr class="odd">
 <td> </td>
@@ -1847,9 +1847,9 @@ Dead sir. <strong>Gareth Owen</strong></td>
 <tr class="even">
 <td colspan="2"><p><img
 src="assets/READERS' THEATRE 9/media/image12.gif"
-alt="Giggle Poetry Featured Image" /><img
+ /><img
 src="assets/READERS' THEATRE 9/media/image11.gif"
-alt="http://www.macleans.school.nz/co-curricular/writersclub/images/spacer.gif" /></p>
+ /></p>
 <h3 id="theres-a-new-cook-in-the-cafeteria-by-bruce-lansky">There's a
 New Cook In the Cafeteria<br />
 by Bruce Lansky</h3>
@@ -4283,7 +4283,7 @@ Provided that you always win.</p>
 
 ### 
 
-### <img src="assets/READERS' THEATRE 9/media/image13.jpeg" alt="Cindy" />
+### <img src="assets/READERS' THEATRE 9/media/image13.jpeg"  />
 
 **  
 **
@@ -4526,7 +4526,7 @@ Provided that you always win.</p>
 >
 > **Roald Dahl**
 
-<img src="assets/READERS' THEATRE 9/media/image14.jpeg" alt="Jack" />
+<img src="assets/READERS' THEATRE 9/media/image14.jpeg"  />
 
 **  
 **
@@ -4767,7 +4767,7 @@ Provided that you always win.</p>
 >
 > **Roald Dahl**
 
-<img src="assets/READERS' THEATRE 9/media/image15.jpeg" alt="Goldy" />
+<img src="assets/READERS' THEATRE 9/media/image15.jpeg"  />
 
 Poetry often is meant to be performed, sometimes even with music.
 

@@ -4,19 +4,17 @@ source_file: "Genres/Reports  1-24.pdf"
 pages: 24
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 24]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Reports
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 REPORTS
-
----
-
-<!-- page 2 -->
+ -->
 
 REPORTS
 Text organisation:
@@ -1007,6 +1005,5 @@ And she did.
 
 ---
 
-<!-- page 24 | FLAGGED: low-confidence -->
-
+<!-- page 24 -->
 

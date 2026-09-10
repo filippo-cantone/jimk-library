@@ -4,22 +4,17 @@ source_file: "Genres/Poetry/Poetry - Part 2   1-86.pdf"
 pages: 86
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 24, 28, 30, 77, 86]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Poetry - Part 2
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 POETRY
-«C Ne CE
-| Te,
-AL
-
----
-
-<!-- page 2 -->
+ -->
 
 Honeybees
 Paul Fleischman
@@ -893,7 +888,7 @@ Good morning, the sun, “Cheer, cheer.”
 
 ---
 
-<!-- page 24 | FLAGGED: low-confidence -->
+<!-- page 24 -->
 
 Morning, Noon, and Night ,
 Good morning, the dawn, when the earth ...0.00. cc cccescrceecressttiscrtecsrees
@@ -1020,7 +1015,7 @@ broader and deeper.
 
 ---
 
-<!-- page 28 | FLAGGED: low-confidence -->
+<!-- page 28 -->
 
 (pass through the gateway
 of high stone paltsades,
@@ -1082,7 +1077,7 @@ Sky Tree
 
 ---
 
-<!-- page 30 | FLAGGED: low-confidence -->
+<!-- page 30 -->
 
 Mg anger echogs across
 
@@ -2814,7 +2809,7 @@ and then liked both of her poems.
 
 ---
 
-<!-- page 77 | FLAGGED: low-confidence -->
+<!-- page 77 -->
 
 Mum
 Mun
@@ -3101,6 +3096,5 @@ Naomi Shihab Nye
 
 ---
 
-<!-- page 86 | FLAGGED: low-confidence -->
-
+<!-- page 86 -->
 

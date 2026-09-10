@@ -1,37 +1,25 @@
 ---
+
 title: "Inferring"
 source_file: "Reading/Comprehension Strategies/Inferring     1-78.pdf"
 pages: 74
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 4, 6, 8, 11, 23, 31, 32, 36, 67, 68, 69, 74]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+reviewed: "2026-09-10"
 ---
+
 
 # Inferring
 
-<!-- page 1 | FLAGGED: low-confidence -->
+<!-- page 1 -->
 
-_ INFERRING _
+<!-- Page 1 is a scanned cover/illustration page. Image below. -->
 
-*[This passage was too garbled by OCR to reliably correct and has been left as scanned.]*
+![Cover/illustration page 1](assets/Inferring     1-78/media/cover.jpeg)
 
-FG
-en
-pee ae =
-
-ee E
-
-ae “\
-
-7
-
-; iP >
-
-ae %
-
----
-
+<!-- page break -->
 <!-- page 2 -->
 
 INFERRING
@@ -107,7 +95,9 @@ During Share Time record the inferences on an Inference/Evidence Chart
 
 ---
 
-<!-- page 4 | FLAGGED: low-confidence -->
+<!-- page 4 -->
+
+<!-- blank page -->
 
 ---
 
@@ -139,7 +129,9 @@ e.g. Extend the work with ‘If I Were in Charge of the World.’
 
 ---
 
-<!-- page 6 | FLAGGED: low-confidence -->
+<!-- page 6 -->
+
+<!-- blank page -->
 
 Inference Web
 
@@ -173,7 +165,9 @@ Why are the workers in the town able to dream?
 
 ---
 
-<!-- page 8 | FLAGGED: low-confidence -->
+<!-- page 8 -->
+
+<!-- blank page -->
 
 ---
 
@@ -293,7 +287,11 @@ Judith Viorst
 
 ---
 
-<!-- page 11 | FLAGGED: low-confidence -->
+<!-- page 11 -->
+
+<!-- scanned page embedded below -->
+
+![Page 11](assets/Inferring     1-78/media/scan_p11.jpeg)
 
 Poem:
 I'm inferring... scessecssessssseseesussassusanssessnracesnsseseecsecnsussuanusseesssssvussessneseegasansneseecereses
@@ -562,7 +560,13 @@ head.
 
 ---
 
-<!-- page 23 | FLAGGED: low-confidence -->
+<!-- page 23 -->
+
+<!-- scanned page embedded below -->
+
+![Page 23](assets/Inferring     1-78/media/scan_p23.jpeg)
+
+<!-- blank page -->
 
 Book: enn ETE
 
@@ -760,7 +764,11 @@ understanding plot, characters, and setting.
 
 ---
 
-<!-- page 31 | FLAGGED: low-confidence -->
+<!-- page 31 -->
+
+<!-- scanned page embedded below -->
+
+![Page 31](assets/Inferring     1-78/media/scan_p31.jpeg)
 
 THEMES
 -
@@ -769,7 +777,9 @@ Theme Statement:
 
 ---
 
-<!-- page 32 | FLAGGED: low-confidence -->
+<!-- page 32 -->
+
+<!-- blank page -->
 
 THEMES
 
@@ -877,7 +887,11 @@ his son.
 
 ---
 
-<!-- page 36 | FLAGGED: low-confidence -->
+<!-- page 36 -->
+
+<!-- scanned page embedded below -->
+
+![Page 36](assets/Inferring     1-78/media/scan_p36.jpeg)
 
 Quote or Picture
 
@@ -2271,81 +2285,23 @@ Without worry.
 
 ---
 
-<!-- page 67 | FLAGGED: low-confidence -->
+<!-- page 67 -->
 
-Ramon once again drew and drew the world around him. Making an ish
-drawing felt wonderful.
-He filled his notebooks.
+<!-- illustration page from Ish by Peter Reynolds - scanned page embedded below -->
 
-*[This page consists mainly of small illustration captions/doodles that were too garbled by OCR to reliably correct and have been left as scanned.]*
+![Page 67](assets/Inferring     1-78/media/page67.jpeg)
 
-\ vA ' ' Q ed
-' ——
-ae \ é TM
-Ayers house-ish oats
-eee. } wd
-wee | ' TS
-Us ee © q 7 0 | \ i aN
-=a "Oey “4
-a Loe ho
-oa a a x
-Oy . plyos
-& Lx
-cf a -
-. an
-atterneoryish Fisrrish on
+<!-- page 68 -->
 
----
+<!-- illustration page from Ish by Peter Reynolds - scanned page embedded below -->
 
-<!-- page 68 | FLAGGED: low-confidence -->
+![Page 68](assets/Inferring     1-78/media/page68.jpeg)
 
-Ramon realised he could draw ish feelings too.
+<!-- page 69 -->
 
-*[This page consists mainly of small illustration captions/doodles that were too garbled by OCR to reliably correct and have been left as scanned.]*
+<!-- illustration page from Ish by Peter Reynolds - scanned page embedded below -->
 
-\wWz \ LR
-1
-\ |
-gene en Sill Yish
-
-ae
-s ve “ .
-. aycited-ish,
-
----
-
-<!-- page 69 | FLAGGED: low-confidence -->
-
-His ish art inspired ish writing. He wasn’t sure if he was writing poems,
-but he knew they were poem-ish.
-R
->
-Dp hp y
-Pe,
-A
-Yon Tp, ag.
-end yectg
-2 yg Wd
-~N Tog,
-Very Me
-9
-One spring morning, Ramon had a wonderful feeling. It was a
-feeling that even ish words and ish drawings could not capture. He
-decided NOT to capture it.
-Instead, he simply savored it ...
-And Ramon lived ishfully ever after.
-
-*[This page consists mainly of small illustration captions/doodles that were too garbled by OCR to reliably correct and have been left as scanned.]*
-
-Mee
-ON LAG:
-Y
-i
-aw \
-—> 4 ee ae
-oe COS
-
----
+![Page 69](assets/Inferring     1-78/media/page69.jpeg)
 
 <!-- page 70 -->
 
@@ -2537,5 +2493,7 @@ I sure hope Dog like lima beans.
 
 ---
 
-<!-- page 74 | FLAGGED: low-confidence -->
+<!-- page 74 -->
+
+<!-- blank page -->
 

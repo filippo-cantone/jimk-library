@@ -4,6 +4,7 @@ source_file: "Author Studies Jim/Phyllis Root.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
 tags: [jim-k]
+reviewed: "2026-09-10"
 ---
 
 **Phyllis Root**

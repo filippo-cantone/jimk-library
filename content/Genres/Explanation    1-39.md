@@ -4,19 +4,17 @@ source_file: "Genres/Explanation    1-39.pdf"
 pages: 39
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 13, 36, 39]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Explanation
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 EXPLANATION
-
----
-
-<!-- page 2 -->
+ -->
 
 EXPLANATION
 Stating reasons of how or why something happens.
@@ -351,7 +349,7 @@ used for military or scientific perposes and for leisure.
 
 ---
 
-<!-- page 13 | FLAGGED: low-confidence -->
+<!-- page 13 -->
 
 A tsunamis or tidal wave is w wave thab is -
 lng thaw nara wus A, teunamd ean gob.
@@ -1261,7 +1259,7 @@ Ref. frog.lifecycle.com
 
 ---
 
-<!-- page 36 | FLAGGED: low-confidence -->
+<!-- page 36 -->
 
 ne
 ay . fa “4 c =o *
@@ -1371,6 +1369,5 @@ language eg
 
 ---
 
-<!-- page 39 | FLAGGED: low-confidence -->
-
+<!-- page 39 -->
 

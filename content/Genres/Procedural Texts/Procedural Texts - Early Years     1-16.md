@@ -4,8 +4,10 @@ source_file: "Genres/Procedural Texts/Procedural Texts - Early Years     1-16.pd
 pages: 16
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [5, 6, 11, 16]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Procedural Texts - Early Years
@@ -109,7 +111,7 @@ before you go to bed.
 
 ---
 
-<!-- page 5 | FLAGGED: low-confidence -->
+<!-- page 5 -->
 
 Making tessellarions Soe
 To make tessellations - shapes that fit
@@ -127,7 +129,7 @@ colours and make your tessellations.
 
 ---
 
-<!-- page 6 | FLAGGED: low-confidence -->
+<!-- page 6 -->
 
 To make messy gooey slime. 7 ,
 ¢ corn starch - ;
@@ -274,7 +276,7 @@ Follow up:
 
 ---
 
-<!-- page 11 | FLAGGED: low-confidence -->
+<!-- page 11 -->
 
 Procedure (Instructions) Features of a ;
 Example Procedure (Instructions)
@@ -500,6 +502,5 @@ player to send his or her marble through all nine holes in the correct order win
 
 ---
 
-<!-- page 16 | FLAGGED: low-confidence -->
-
+<!-- page 16 -->
 

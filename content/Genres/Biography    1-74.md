@@ -4,21 +4,17 @@ source_file: "Genres/Biography    1-74.pdf"
 pages: 74
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 4, 15, 68, 69, 70, 72, 73, 74]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Biography
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
-| BIOGRAPHY
-Aye % © fat i
+<!-- page 1 -->
 ES SS
-
----
-
-<!-- page 2 -->
+ -->
 
 BIOGRAPHY
 
@@ -120,7 +116,7 @@ Other considerations in character development
 
 ---
 
-<!-- page 4 | FLAGGED: low-confidence -->
+<!-- page 4 -->
 
 Character Chart
 CRGPQCTOR a csecscccseerrnsesssnssereeeee
@@ -532,7 +528,7 @@ Taylah Tht
 
 ---
 
-<!-- page 15 | FLAGGED: low-confidence -->
+<!-- page 15 -->
 
 “They're Minel*
 “They're mine!”
@@ -3055,13 +3051,13 @@ Ref: Knowing How McMackin, M
 
 ---
 
-<!-- page 68 | FLAGGED: low-confidence -->
+<!-- page 68 -->
 
 READING/ WRITING CONFERENCE NOTES
 
 ---
 
-<!-- page 69 | FLAGGED: low-confidence -->
+<!-- page 69 -->
 
 a OD
 5
@@ -3078,7 +3074,7 @@ WRITING LOG
 
 ---
 
-<!-- page 70 | FLAGGED: low-confidence -->
+<!-- page 70 -->
 
 Meaning .
 e Audience (recognition)
@@ -3129,7 +3125,7 @@ Observed needs
 
 ---
 
-<!-- page 72 | FLAGGED: low-confidence -->
+<!-- page 72 -->
 
 UNIT: :
 FOCUS QUESTION: :
@@ -3157,7 +3153,7 @@ INDEPENDENT TEXT CONSTRUCTION: (Writing Process)
 
 ---
 
-<!-- page 73 | FLAGGED: low-confidence -->
+<!-- page 73 -->
 
 UNIT: i .
 FOCUS QUESTION: |
@@ -3178,6 +3174,5 @@ INDEPENDENT TEXT CONSTRUCTION: — ;
 
 ---
 
-<!-- page 74 | FLAGGED: low-confidence -->
-
+<!-- page 74 -->
 

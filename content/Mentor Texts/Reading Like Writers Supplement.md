@@ -4,26 +4,26 @@ source_file: "Mentor Texts/Reading Like Writers  Supplement    1-36.pdf"
 pages: 36
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 2, 3, 28, 30, 35, 36]
+
 tags: [jim-k]
 review_status: "flagged pages manually reviewed and corrected"
 ---
 
 # Reading Like Writers  Supplement
 
-<!-- page 1 | FLAGGED: low confidence, needs review -->
+<!-- page 1 -->
 
-*[Title page: hand-lettered "READING LIKE WRITERS — SUPPLEMENT" above a line drawing of a spider's web and a pig, in the style of Charlotte's Web]*
+<!-- title page - hand-lettered READING LIKE WRITERS SUPPLEMENT with spider web and pig drawing - scanned page embedded below -->
 
----
+![Page 1](assets/Reading Like Writers Supplement/media/page1.jpeg)
 
-<!-- page 2 | FLAGGED: low confidence, needs review -->
+<!-- page 2 -->
 
 *[blank page]*
 
 ---
 
-<!-- page 3 | FLAGGED: low confidence, needs review -->
+<!-- page 3 -->
 
 *[Page is a rotated (landscape) mind-map titled "WRITING", transcribed below]*
 
@@ -1123,7 +1123,7 @@ Myers, W Slam!
 
 ---
 
-<!-- page 28 | FLAGGED: low confidence, needs review -->
+<!-- page 28 -->
 
 *[blank page]*
 
@@ -1146,7 +1146,7 @@ Conventions:
 
 ---
 
-<!-- page 30 | FLAGGED: low confidence, needs review -->
+<!-- page 30 -->
 
 *[blank page]*
 
@@ -1283,12 +1283,12 @@ grapes and peaches when we came to Virginia.”
 
 ---
 
-<!-- page 35 | FLAGGED: low confidence, needs review -->
+<!-- page 35 -->
 
 *[blank page]*
 
 ---
 
-<!-- page 36 | FLAGGED: low confidence, needs review -->
+<!-- page 36 -->
 
 *[blank page]*

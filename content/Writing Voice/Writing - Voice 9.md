@@ -2,6 +2,7 @@
 title: "Writing Voice 9"
 source_file: "Writing Voice/Writing - Voice 9.md"
 tags: [jim-k]
+reviewed: "2026-09-10"
 strand: writing-voice
 ---
 

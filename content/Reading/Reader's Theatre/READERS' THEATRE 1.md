@@ -12,8 +12,6 @@ strand: reading
 
 <img src="assets/READERS' THEATRE 1/media/image1.jpeg" />
 
-<img src="assets/READERS' THEATRE 1/media/image1.jpeg" />
-
 ## Readers’ Theatre 1
 
 Readers’ Theatre with Younger Readers

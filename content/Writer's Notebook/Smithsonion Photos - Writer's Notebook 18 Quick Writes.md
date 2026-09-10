@@ -2,6 +2,7 @@
 title: "Smithsonion Photos - Writer's Notebook 18 Quick Writes"
 source_file: "Writer's Notebook/Smithsonion Photos - Writer's Notebook 18 Quick Writes.md"
 tags: [jim-k]
+reviewed: "2026-09-10"
 strand: writers-notebook
 ---
 

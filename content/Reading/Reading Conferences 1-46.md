@@ -1,31 +1,25 @@
 ---
+
 title: "Reading Conferences 1-46"
 source_file: "Reading/Reading Conferences 1-46.pdf"
 pages: 46
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 10, 11, 33, 34, 37, 38, 39, 40, 42, 44]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+reviewed: "2026-09-10"
 ---
+
 
 # Reading Conferences 1-46
 
-<!-- page 1 | FLAGGED: low-confidence -->
+<!-- page 1 -->
 
-*[This page was too garbled by OCR to reliably correct and has been left as scanned.]*
+<!-- Page 1 is a scanned cover/illustration page. Image below. -->
 
-READING CONFERENCES
-= .
-Lp X 4 }
-' i
-7 ae
-‘ Nays
-\ PE —_—
-er)
-Pics ‘tee, Ca?
+![Cover/illustration page 1](assets/Reading Conferences 1-46/media/cover.jpeg)
 
----
-
+<!-- page break -->
 <!-- page 2 -->
 
 CONFERRING
@@ -266,13 +260,13 @@ conferences. See My Ideas About sheet.
 
 ---
 
-<!-- page 10 | FLAGGED: low-confidence -->
+<!-- page 10 -->
 
 READING CONFERENCE
 
 ---
 
-<!-- page 11 | FLAGGED: low-confidence -->
+<!-- page 11 -->
 
 READING CONFERENCE
 Name:
@@ -1043,27 +1037,17 @@ My Ideas about
 
 ---
 
-<!-- page 33 | FLAGGED: low-confidence -->
+<!-- page 33 -->
+
+<!-- blank page -->
 
 ---
 
-<!-- page 34 | FLAGGED: low-confidence -->
+<!-- page 34 -->
 
-What Genres Am I Reading?
+<!-- photocopiable form page - scanned page embedded below -->
 
-*[The table on this page was too garbled by OCR to reliably correct and has been left as scanned.]*
-
-a
-een
-cee
-ee
-i
-er
-pee
-eee
-ee
-
----
+![Page 34](assets/Reading Conferences 1-46/media/page34.jpeg)
 
 <!-- page 35 -->
 
@@ -1140,58 +1124,31 @@ rhythm and rhyme to help convey its meaning.
 
 ---
 
-<!-- page 37 | FLAGGED: low-confidence -->
+<!-- page 37 -->
 
-Books I Plan to Read
+<!-- photocopiable Books I Plan to Read form page - scanned page embedded below -->
 
-*[This page was too garbled by OCR to reliably correct and has been left as scanned.]*
+![Page 37](assets/Reading Conferences 1-46/media/page37.jpeg)
 
-ee
-ee ee
-ee ee
-ee ee
-ee ee
-ee ee
-ee ee ee
-ee
-ee
-ee ee
-ee ee ee
-ee ee
-es ee
-es ee
-ee
-es
-ee ee
+<!-- page 38 -->
 
----
+<!-- photocopiable Mini-Lesson Handouts form page - scanned page embedded below -->
 
-<!-- page 38 | FLAGGED: low-confidence -->
+![Page 38](assets/Reading Conferences 1-46/media/page38.jpeg)
 
-Mini-Lesson Handouts
-Unit of Study:
+<!-- page 39 -->
 
-*[This page was too garbled by OCR to reliably correct and has been left as scanned.]*
+<!-- scanned page embedded below -->
 
-|
-eo
-a ee
-of
-ee ee
-fs
-ee ee
-ee ee
-eee
-
----
-
-<!-- page 39 | FLAGGED: low-confidence -->
+![Page 39](assets/Reading Conferences 1-46/media/scan_p39.jpeg)
 
 IDR Reading Response Tasks
 
 ---
 
-<!-- page 40 | FLAGGED: low-confidence -->
+<!-- page 40 -->
+
+<!-- blank page -->
 
 ---
 
@@ -1217,24 +1174,11 @@ hittp://teacher.scholastic.com
 
 ---
 
-<!-- page 42 | FLAGGED: low-confidence -->
+<!-- page 42 -->
 
-Name; —_ Date;s____
-oge og
-Critic’s Corner
-Name of Book Critic:
-Title of Book:
-Author: ne
-Illustrator: nn
-This book was about
-My favorite character in the book was
-I liked/didn't like this book because
-I would recommend this book to
-My Personal Rating of this Book: axe kg koikyxk
-mS CH Ot ASIC
-http://teacher.scholastic.com
+<!-- photocopiable Critic Corner reading response form page - scanned page embedded below -->
 
----
+![Page 42](assets/Reading Conferences 1-46/media/page42.jpeg)
 
 <!-- page 43 -->
 
@@ -1256,107 +1200,11 @@ http://teacher.scholastic.com
 
 ---
 
-<!-- page 44 | FLAGGED: low-confidence -->
+<!-- page 44 -->
 
-*[This page was too garbled by OCR to reliably correct and has been left as scanned.]*
+<!-- photocopiable form page - scanned page embedded below -->
 
-aemenennneey
-pa nee enw
-ween nnen enn :
-neem cnn encens )
-panne nen nnen= |
-a |
-H |
-H |
-1 :
-i |
-t |
-i :
-t | :
-i | |
-1 |
-t |
-1 :
-i |
-1 |
-i |
-! :
-t |
-t |
-' |
-H |
-1 | |
-‘ |
-i |
-H | |
-1 | |
-H | |
-1 , |
-|
-H é |
-| : H 2
-| | s s 1 ges
-1 re & ' S on
-: | z 3 H es
-a) |g Zz (8 oe
-3| \8 z| 5 Bs
-i 3 Ss 5 : Bi
-i 3 1 eel .. | 8 a) 2
-t 5 x 1 @1sje a) 6 2 i
-1 £ ro) tes |2/6 ae i ag
-Toe! alo (Wis) oO Gl co :
-of rigle = ie
-t Gc) El a)/8 ! Zl alole at
-| 2 i 3 is \ eee: H So 3
-: se oo me me oe fol
-2\e a oF
-i be laleZiole me nnn enn nen cnet | a:
-H eee nnn e nen : a
-fo been | =f
-: | t i@e,
-: 1 uae
-t |
-i |
-1 |
-i |
-I | |
-1 | :
-i :
-1 | :
-1 |
-T |
-t :
-t | |
-H |
-I | |
-| |
-y
-i ; i |
-t d : |
-i é |
-| : H ie)
-| : H Es 6 H
-i a z : :
-| i i 3s co)
-1 a $ | : é |
-! 2B @ 3 |
-H ca g : |
-H 3 3 : E |
-i 5 |
-t 3s toast al el
-if c = -_ : |g |
-t ov =< H 3 g E mr |
-H Hele |
-i £ fe) '3lSis8leia
-1 est. -|8 | Os g |
-t @Miclej als = |S 2/82 :
-| Blgle aa ane
-| : : 3 = i a
-File es
-ae a a a ae a ae an oe ne
-t a ee me ttn
-
----
+![Page 44](assets/Reading Conferences 1-46/media/page44.jpeg)
 
 <!-- page 45 -->
 

@@ -4,6 +4,7 @@ source_file: "Author Studies Jim/Chris Van Allsburg2.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
 tags: [jim-k]
+reviewed: "2026-09-10"
 ---
 
 “I am attracted to the idea of seeding the imagination by leaving a

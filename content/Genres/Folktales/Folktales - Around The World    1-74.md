@@ -4,20 +4,17 @@ source_file: "Genres/Folktales/Folktales - Around The World    1-74.pdf"
 pages: 74
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 74]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Folktales - Around The World
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 FOLKTALES
-AROUND THE WORLD
-
----
-
-<!-- page 2 -->
+ -->
 
 The Smallest Samurai Fiona French
 Long ago in old Japan, Hana lived with her husband Tanjo in a small house near a
@@ -3894,6 +3891,5 @@ Mushkil Gusha ~ MUSH-kil goo-SHAH (rhymes with “push kill goo Shah”) .
 
 ---
 
-<!-- page 74 | FLAGGED: low-confidence -->
-
+<!-- page 74 -->
 

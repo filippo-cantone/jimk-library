@@ -8,11 +8,11 @@ tags: [jim-k, reviewed]
 strand: reading
 ---
 
-<img src="assets/READERS' THEATRE 5/media/image1.jpeg" alt="drama+masks" />
+<img src="assets/READERS' THEATRE 5/media/image1.jpeg"  />
 
 ## READERS’ THEATRE 5
 
-<img src="assets/READERS' THEATRE 5/media/image1.jpeg" alt="drama+masks" />
+<img src="assets/READERS' THEATRE 5/media/image1.jpeg"  />
 
 ## Readers’ Theatre 5
 

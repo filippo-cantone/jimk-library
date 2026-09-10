@@ -1,10 +1,13 @@
 ---
+
 title: "Mentor Lists 2012 sorted"
 source_file: "Mentor Texts/Mentor Lists 2012 sorted.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed)"
 converted: "2026-09-07"
 tags: [jim-k]
+reviewed: "2026-09-10"
 ---
+
 
 **CRAFT**
 

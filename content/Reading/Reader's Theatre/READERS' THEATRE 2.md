@@ -12,8 +12,6 @@ strand: reading
 
 <img src="assets/READERS' THEATRE 2/media/image1.png" />
 
-<img src="assets/READERS' THEATRE 2/media/image1.png" />
-
 ## Readers’ Theatre 2
 
 The Garden of Abdul Gasazi Chris Van Allsburg

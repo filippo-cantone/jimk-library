@@ -4,19 +4,17 @@ source_file: "Genres/Journalistic Texts.pdf"
 pages: 54
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 17, 24, 27, 32, 33, 53, 54]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Journalistic Texts
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 JOURNALISTIC TEXTS
-
----
-
-<!-- page 2 -->
+ -->
 
 JOURNALISTIC TEXTS
 The differences between Narrative and Journalistic texts:
@@ -554,7 +552,7 @@ Did the article answer the 5 W's and an H in the lead?
 
 ---
 
-<!-- page 17 | FLAGGED: low-confidence -->
+<!-- page 17 -->
 
 Writing a News Article from Partner Talk
 Tell your partner the subject you are prepared to be interviewed about.
@@ -906,7 +904,7 @@ Pe . ae ? 2, | pre
 
 ---
 
-<!-- page 24 | FLAGGED: low-confidence -->
+<!-- page 24 -->
 
 Who would you use to provide information on health issues?
 aw. a Gwogce: = .
@@ -975,7 +973,7 @@ game day, whether the team won or not.)
 
 ---
 
-<!-- page 27 | FLAGGED: low-confidence -->
+<!-- page 27 -->
 
 ee eee ee ee \
 " ia i 5
@@ -1175,13 +1173,11 @@ Send comments to newmedia@seaitlepi.com
 
 ---
 
-<!-- page 32 | FLAGGED: low-confidence -->
-
-
+<!-- page 32 -->
 
 ---
 
-<!-- page 33 | FLAGGED: low-confidence -->
+<!-- page 33 -->
 
 Is It Really News?
 
@@ -1993,12 +1989,9 @@ Copyright 2010 News Limited. All times AEST (GMT +10).
 
 ---
 
-<!-- page 53 | FLAGGED: low-confidence -->
-
-
+<!-- page 53 -->
 
 ---
 
-<!-- page 54 | FLAGGED: low-confidence -->
-
+<!-- page 54 -->
 

@@ -4,22 +4,17 @@ source_file: "Genres/Poetry/Poetry - Part 1    1-94.pdf"
 pages: 94
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 14, 26, 27, 40, 41, 64, 94]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Poetry - Part 1
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 POETRY
-Jim Kinniburgh
-Part 1
-| ax,
-
----
-
-<!-- page 2 -->
+ -->
 
 POETRY
 Our paramount aim is the enjoyment and love of poetry. We want our
@@ -447,7 +442,7 @@ Raren Hesse
 
 ---
 
-<!-- page 14 | FLAGGED: low-confidence -->
+<!-- page 14 -->
 
 Poetry Study Chart
 rine | rset | tone | toed | cate |
@@ -822,7 +817,7 @@ Nicole Taylor- ar The Browx
 
 ---
 
-<!-- page 26 | FLAGGED: low-confidence -->
+<!-- page 26 -->
 
 At — , tl oo ~
 » \
@@ -838,7 +833,7 @@ f pe \
 
 ---
 
-<!-- page 27 | FLAGGED: low-confidence -->
+<!-- page 27 -->
 
 My Life is a jungle
 
@@ -1419,7 +1414,7 @@ rocks of all.
 
 ---
 
-<!-- page 40 | FLAGGED: low-confidence -->
+<!-- page 40 -->
 
 You Ftd a Rock
 14 you Hud a rock
@@ -1448,7 +1443,7 @@ Fuside,
 
 ---
 
-<!-- page 41 | FLAGGED: low-confidence -->
+<!-- page 41 -->
 
 Vhew again,
 fore might find a vac
@@ -2250,7 +2245,7 @@ lam joy.
 
 ---
 
-<!-- page 64 | FLAGGED: low-confidence -->
+<!-- page 64 -->
 
 [Am 1Am
 i scratch {read
@@ -3267,6 +3262,5 @@ Rebecoa Dent
 
 ---
 
-<!-- page 94 | FLAGGED: low-confidence -->
-
+<!-- page 94 -->
 

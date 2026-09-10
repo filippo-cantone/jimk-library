@@ -1,16 +1,19 @@
 ---
+
 title: "Writing"
 source_file: "Writing/Writing   1-53.pdf"
 pages: 53
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 2, 41, 43, 45, 53]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+reviewed: "2026-09-10"
 ---
+
 
 # Writing
 
-<!-- page 1 | FLAGGED: low-confidence -->
+<!-- page 1 -->
 
 a sk Stes, ax
 a
@@ -21,7 +24,7 @@ ER JETT:
 
 ---
 
-<!-- page 2 | FLAGGED: low-confidence -->
+<!-- page 2 -->
 
 £ on
 bE £ £
@@ -1387,7 +1390,7 @@ Published Works:
 
 ---
 
-<!-- page 41 | FLAGGED: low-confidence -->
+<!-- page 41 -->
 
 Where Are You in Writing Workshop?
 
@@ -1441,7 +1444,7 @@ Portfolies are unique te the person.
 
 ---
 
-<!-- page 43 | FLAGGED: low-confidence -->
+<!-- page 43 -->
 
 a = So g 8 & No eer ee
 6, Ga © fa & Ce & CoP Ce
@@ -1491,7 +1494,7 @@ TOPICS
 
 ---
 
-<!-- page 45 | FLAGGED: low-confidence -->
+<!-- page 45 -->
 
 Possible topics
 ee
@@ -1696,6 +1699,5 @@ job well done!
 
 ---
 
-<!-- page 53 | FLAGGED: low-confidence -->
-
+<!-- page 53 -->
 

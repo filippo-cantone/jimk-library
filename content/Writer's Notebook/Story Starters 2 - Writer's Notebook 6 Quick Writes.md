@@ -2,6 +2,7 @@
 title: "Story Starters 2 - Writer's Notebook 6 Quick Writes"
 source_file: "Writer's Notebook/Story Starters 2 - Writer's Notebook 6 Quick Writes.md"
 tags: [jim-k]
+reviewed: "2026-09-10"
 strand: writers-notebook
 ---
 

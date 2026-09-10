@@ -4,21 +4,17 @@ source_file: "Genres/Poetry/Poems by Alice Schertle.pdf"
 pages: 24
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 24]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Poems by Alice Schertle
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 Poetry
-by
-Alice Schertle
-
----
-
-<!-- page 2 -->
+ -->
 
 Alice Scherile
 | fe ‘lice Schertle
@@ -575,7 +571,7 @@ poetry.
 
 ---
 
-<!-- page 24 | FLAGGED: low-confidence -->
+<!-- page 24 -->
 
 Responeing to the Poem
 Nl @oge

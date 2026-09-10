@@ -4,20 +4,17 @@ source_file: "Genres/Folktales/Folktales - Tall Tales    1-47.pdf"
 pages: 47
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Folktales - Tall Tales
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 FOLKTALES
-TALL TALES
-
----
-
-<!-- page 2 -->
+ -->
 
 King o’ the Cats
 

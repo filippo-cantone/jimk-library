@@ -1,12 +1,15 @@
 ---
+
 title: "Reading Like Writers  2 Supplement"
 source_file: "Mentor Texts/Reading Like Writers  2 Supplement   1-22.pdf"
 pages: 22
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [none]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+reviewed: "2026-09-10"
 ---
+
 
 # Reading Like Writers  2 Supplement
 

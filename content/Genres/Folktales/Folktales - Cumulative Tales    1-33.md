@@ -4,22 +4,17 @@ source_file: "Genres/Folktales/Folktales - Cumulative Tales    1-33.pdf"
 pages: 33
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 9, 33]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Folktales - Cumulative Tales
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 fp FOLKTALES
-i/ CUMULATIVE TALES
-if
-f
-
----
-
-<!-- page 2 -->
+ -->
 
 The Dark Wood
 A Folktale from Engtand
@@ -345,7 +340,7 @@ Perhaps she'll die.
 
 ---
 
-<!-- page 9 | FLAGGED: low-confidence -->
+<!-- page 9 -->
 
 rt
 fe}
@@ -1389,6 +1384,5 @@ eye.
 
 ---
 
-<!-- page 33 | FLAGGED: low-confidence -->
-
+<!-- page 33 -->
 

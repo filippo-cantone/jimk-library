@@ -2,6 +2,7 @@
 title: "Thinking about genre - Writer's Notebook 20 Quick Writes"
 source_file: "Writer's Notebook/Thinking about genre - Writer's Notebook 20 Quick Writes.md"
 tags: [jim-k]
+reviewed: "2026-09-10"
 strand: writers-notebook
 ---
 

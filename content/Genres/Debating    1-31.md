@@ -4,19 +4,17 @@ source_file: "Genres/Debating    1-31.pdf"
 pages: 31
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 6]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Debating
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 DEBATING
-
----
-
-<!-- page 2 -->
+ -->
 
 DEBATING
 Debating is an organised form of argument that involves looking at
@@ -181,7 +179,7 @@ debate.
 
 ---
 
-<!-- page 6 | FLAGGED: low-confidence -->
+<!-- page 6 -->
 
 Adjudicators’ Sheet
 Po ist Tend | ed |

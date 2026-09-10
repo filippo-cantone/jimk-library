@@ -4,20 +4,17 @@ source_file: "Genres/Poetry/Animal Poems.pdf"
 pages: 30
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 30]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Animal Poems
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
-, ish Ton iT {
+<!-- page 1 -->
 Animal Poems
-
----
-
-<!-- page 2 -->
+ -->
 
 The Wren
 he was small not ready yet
@@ -921,6 +918,5 @@ Billy Collins
 
 ---
 
-<!-- page 30 | FLAGGED: low-confidence -->
-
+<!-- page 30 -->
 

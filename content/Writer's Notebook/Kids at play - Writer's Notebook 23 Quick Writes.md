@@ -2,6 +2,7 @@
 title: "Kids at play - Writer's Notebook 23 Quick Writes"
 source_file: "Writer's Notebook/Kids at play - Writer's Notebook 23 Quick Writes.md"
 tags: [jim-k]
+reviewed: "2026-09-10"
 strand: writers-notebook
 ---
 

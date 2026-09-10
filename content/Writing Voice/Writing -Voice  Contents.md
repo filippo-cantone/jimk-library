@@ -2,6 +2,7 @@
 title: "Writing -Voice  Contents"
 source_file: "Writing Voice/Writing -Voice  Contents.md"
 tags: [jim-k]
+reviewed: "2026-09-10"
 strand: writing-voice
 ---
 

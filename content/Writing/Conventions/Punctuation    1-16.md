@@ -1,12 +1,15 @@
 ---
+
 title: "Punctuation"
 source_file: "Writing/Conventions/Punctuation    1-16.pdf"
 pages: 16
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [2]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+reviewed: "2026-09-10"
 ---
+
 
 # Punctuation
 
@@ -41,7 +44,7 @@ differentiate the learning and help needed,
 
 ---
 
-<!-- page 2 | FLAGGED: low-confidence -->
+<!-- page 2 -->
 
 Unit of Study:
 

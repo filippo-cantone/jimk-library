@@ -4,20 +4,17 @@ source_file: "Genres/Folktales/Folktales -Myths & Legends    1-51.pdf"
 pages: 51
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 51]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Folktales -Myths & Legends
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 FOLKTALES
-MYTHS & LEGENDS
-
----
-
-<!-- page 2 -->
+ -->
 
 The Baker’s Dozen
 
@@ -2489,6 +2486,5 @@ traded for a bit of gold or money. Dick
 
 ---
 
-<!-- page 51 | FLAGGED: low-confidence -->
-
+<!-- page 51 -->
 

@@ -4,6 +4,7 @@ source_file: "Author Studies Jim/Libba Moore Gray.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
 tags: [jim-k]
+reviewed: "2026-09-10"
 ---
 
 **Libba Moore Gray**

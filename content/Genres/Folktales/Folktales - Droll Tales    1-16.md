@@ -4,20 +4,17 @@ source_file: "Genres/Folktales/Folktales - Droll Tales    1-16.pdf"
 pages: 16
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 7, 13]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Folktales - Droll Tales
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
-FOLKTALES |
+<!-- page 1 -->
 DROLL TALES
-
----
-
-<!-- page 2 -->
+ -->
 
 Clever Elsie -
 By the Grimm Brothers
@@ -184,7 +181,7 @@ would be a very good exchange — the cow for the horse.’
 
 ---
 
-<!-- page 7 | FLAGGED: low-confidence -->
+<!-- page 7 -->
 
 not talk a little together? I tell you what —1I fancy a horse
 costs more than a cow, but I don’t mind that; a cow would
@@ -526,7 +523,7 @@ Then little dog Dingo went sniffing and sniffing along
 
 ---
 
-<!-- page 13 | FLAGGED: low-confidence -->
+<!-- page 13 -->
 
 to find the little old woman. Soon he came to the hobyahs’
 house. He heard the little old woman crying in the bag.

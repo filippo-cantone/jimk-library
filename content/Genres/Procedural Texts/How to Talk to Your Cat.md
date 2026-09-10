@@ -4,8 +4,10 @@ source_file: "Genres/Procedural Texts/How to Talk to Your Cat.pdf"
 pages: 7
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [none]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # How to Talk to Your Cat

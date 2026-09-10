@@ -1,16 +1,23 @@
 ---
+
 title: "Reading Like Writers"
 source_file: "Writing/Craft/Reading Like Writers/Reading Like Writers  1-85.pdf"
 pages: 85
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 24, 59, 60, 70, 71, 72, 73, 82, 85]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+reviewed: "2026-09-10"
 ---
+
 
 # Reading Like Writers
 
-<!-- page 1 | FLAGGED: low-confidence -->
+<!-- page 1 -->
+
+<!-- scanned page embedded below -->
+
+![Page 1](assets/Reading Like Writers  1-85/media/scan_p1.jpeg)
 
 *[This passage was too garbled by OCR to reliably correct and has been left as scanned.]*
 
@@ -798,7 +805,7 @@ I Know an Old Lady who Swallowed a Pie by Alison Jackson
 
 ---
 
-<!-- page 24 | FLAGGED: low-confidence -->
+<!-- page 24 -->
 
 *[This passage was too garbled by OCR to reliably correct and has been left as scanned.]*
 
@@ -2365,7 +2372,7 @@ Jean Little
 
 ---
 
-<!-- page 59 | FLAGGED: low-confidence -->
+<!-- page 59 -->
 
 . Water Dance ‘ .
 poem written by Thomas Locker
@@ -2429,7 +2436,7 @@ I am the sea.. 4 ,
 
 ---
 
-<!-- page 60 | FLAGGED: low-confidence -->
+<!-- page 60 -->
 
 Drawn upward
 by warm sunlight,
@@ -2920,7 +2927,7 @@ But the important thing about you is that you are you.
 
 ---
 
-<!-- page 70 | FLAGGED: low-confidence -->
+<!-- page 70 -->
 
 *[The "Twilight Comes Twice" excerpt spanning pages 70-73 was too garbled by OCR (dense character-level errors throughout) to reliably correct and has been left as scanned.]*
 
@@ -2955,7 +2962,7 @@ to eat them,
 
 ---
 
-<!-- page 71 | FLAGGED: low-confidence -->
+<!-- page 71 -->
 
 Fireflies appear, .
 swimming through the air,
@@ -2990,7 +2997,7 @@ perhaps a crescent moon,
 
 ---
 
-<!-- page 72 | FLAGGED: low-confidence -->
+<!-- page 72 -->
 
 When the ky is ful -
 and singing with stars
@@ -3024,7 +3031,7 @@ and deep-rooted shadows,
 
 ---
 
-<!-- page 73 | FLAGGED: low-confidence -->
+<!-- page 73 -->
 
 Wlking at dawn is .
 
@@ -3450,7 +3457,7 @@ Perhaps she'll die.
 
 ---
 
-<!-- page 82 | FLAGGED: low-confidence -->
+<!-- page 82 -->
 
 I know an old lady
 who swallowed some bread.
@@ -3560,6 +3567,5 @@ There are many ways to learn to be a writer.
 
 ---
 
-<!-- page 85 | FLAGGED: low-confidence -->
-
+<!-- page 85 -->
 

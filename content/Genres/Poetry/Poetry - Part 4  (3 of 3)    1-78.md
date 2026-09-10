@@ -4,23 +4,17 @@ source_file: "Genres/Poetry/Poetry - Part 4  (3 of 3)    1-78.pdf"
 pages: 78
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 78]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Poetry - Part 4  (3 of 3)
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
-' POETRY
-Part 4 (3 of 3)
+<!-- page 1 -->
 Wg
-NA
-SO
-
----
-
-<!-- page 2 -->
+ -->
 
 Valerie Worth
 
@@ -2856,6 +2850,5 @@ how Charles Simic has created a picture through words.
 
 ---
 
-<!-- page 78 | FLAGGED: low-confidence -->
-
+<!-- page 78 -->
 

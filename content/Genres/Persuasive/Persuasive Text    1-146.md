@@ -4,31 +4,16 @@ source_file: "Genres/Persuasive/Persuasive Text    1-146.pdf"
 pages: 146
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 30, 34, 35, 37, 39, 63, 78, 101, 112, 120, 121, 122, 123, 125, 126, 127, 128, 129, 130, 131, 132, 133, 134, 135, 136, 137, 138, 139, 140, 141, 142, 143, 145, 146]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Persuasive Text
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
-[Look ARouND. You — 17'S $0 OBVIOUS, YET IT'S BEEN RIGHT
-UNDER, OUR NOSES ALL THIS TIME. AND WE NEVER EVEN
-THOUGHT oF IT! JCE..! YES, THATS RIGHT... ECE. ouR
-UNLINUTED NATURAL RESOURCE.) SAY AFTER ME.“ OUR, UNLIMITED
-NATURAL, RESOURCE, ...” VERY GOOD !! NoW iF WE CAN ONLY WORK
-OUT WHO To SELL tf To, We CAN Ati BE FinTHy RICH HI!
-
-ame” f yA er poy’ WN nid
-ui l a ¥ » & LOM ¥ i f ee
-i rf ras } J SS,
-{ e é, os
-Penguin motivational speakers.
-i
-
----
-
-<!-- page 2 -->
+<!-- page 1 -->
+ -->
 
 £
 PERSUASIVE TEXTS
@@ -950,7 +935,7 @@ Are law enforcement cameras an invasion of privacy?
 
 ---
 
-<!-- page 30 | FLAGGED: low-confidence -->
+<!-- page 30 -->
 
 What is | don't Knows.
 the meaning } | The computers
@@ -1026,7 +1011,7 @@ others do?
 
 ---
 
-<!-- page 34 | FLAGGED: low-confidence -->
+<!-- page 34 -->
 
 és
 <
@@ -1068,7 +1053,7 @@ e g
 
 ---
 
-<!-- page 35 | FLAGGED: low-confidence -->
+<!-- page 35 -->
 
 2 8
 2 i= i=
@@ -1160,7 +1145,7 @@ Restate the thesis than imposing school work on student's personal and family li
 
 ---
 
-<!-- page 37 | FLAGGED: low-confidence -->
+<!-- page 37 -->
 
 Persuasive text:
 _ |
@@ -1227,7 +1212,7 @@ effective concession and maps out the implicit direction for the paper that will
 
 ---
 
-<!-- page 39 | FLAGGED: low-confidence -->
+<!-- page 39 -->
 
 Thesis
 and
@@ -2046,7 +2031,7 @@ with something like
 
 ---
 
-<!-- page 63 | FLAGGED: low-confidence -->
+<!-- page 63 -->
 
 Persuasive Techniques That may Be Used in
 Editorials.
@@ -2562,7 +2547,7 @@ Zz Mihagtue { da
 
 ---
 
-<!-- page 78 | FLAGGED: low-confidence -->
+<!-- page 78 -->
 
 CLICK, CLAQK, MOO
 Cows That Type
@@ -3518,7 +3503,7 @@ Biographical information about the author may be helpful
 
 ---
 
-<!-- page 101 | FLAGGED: low-confidence -->
+<!-- page 101 -->
 
 - L aapwhere
 | Win he
@@ -3928,7 +3913,7 @@ Contact Person:
 
 ---
 
-<!-- page 112 | FLAGGED: low-confidence -->
+<!-- page 112 -->
 
 " 1 .
 Lawn Mower" advertisement from the pages of...
@@ -4358,7 +4343,7 @@ Herb Block
 
 ---
 
-<!-- page 120 | FLAGGED: low-confidence -->
+<!-- page 120 -->
 
 Nu
 “THIS IS THE FOREST PRIMEVAL—’
@@ -4406,7 +4391,7 @@ Nerd ls. bain
 
 ---
 
-<!-- page 121 | FLAGGED: low-confidence -->
+<!-- page 121 -->
 
 Veeck ,
 UPS THESE DAYS! CRAZINESS IN SCHOOLS,
@@ -4429,7 +4414,7 @@ t
 
 ---
 
-<!-- page 122 | FLAGGED: low-confidence -->
+<!-- page 122 -->
 
 Ie lee
 “WHAT=US TELL FiBS OF SOME KIND?"
@@ -4460,7 +4445,7 @@ wa
 
 ---
 
-<!-- page 123 | FLAGGED: low-confidence -->
+<!-- page 123 -->
 
 VCE English 2003
 issues: Cartoon Analysis
@@ -4547,7 +4532,7 @@ first about the cartoon?
 
 ---
 
-<!-- page 125 | FLAGGED: low-confidence -->
+<!-- page 125 -->
 
 fe
 ‘ [don't think
@@ -4566,7 +4551,7 @@ igor Aleshin DATALGG
 
 ---
 
-<!-- page 126 | FLAGGED: low-confidence -->
+<!-- page 126 -->
 
 ii Ae fl
 Se /
@@ -4588,7 +4573,7 @@ we “BY TH’ WAY, WHATS THAT Bie NORD?”
 
 ---
 
-<!-- page 127 | FLAGGED: low-confidence -->
+<!-- page 127 -->
 
 a : a :
 
@@ -4605,7 +4590,7 @@ a a Om
 
 ---
 
-<!-- page 128 | FLAGGED: low-confidence -->
+<!-- page 128 -->
 
 Bennett Archive: Planet Earth Page lof 1
 . pee cere semrmmnnrmers eo “ wae) .
@@ -4630,7 +4615,7 @@ my _ | coal e aes cae : :
 
 ---
 
-<!-- page 129 | FLAGGED: low-confidence -->
+<!-- page 129 -->
 
 Bennett Archive: Climate Changs Page 1 of 1
 ey CARTOON | _Cyaone mae.|— ,
@@ -4655,7 +4640,7 @@ i 3 ; * of
 
 ---
 
-<!-- page 130 | FLAGGED: low-confidence -->
+<!-- page 130 -->
 
 od , zZ ;
 
@@ -4675,7 +4660,7 @@ eA) ea on NAS
 
 ---
 
-<!-- page 131 | FLAGGED: low-confidence -->
+<!-- page 131 -->
 
 TRY TO BE NEAT!
 ] aa LP oss ena |
@@ -4686,7 +4671,7 @@ vale ce To |
 
 ---
 
-<!-- page 132 | FLAGGED: low-confidence -->
+<!-- page 132 -->
 
 PLL HOLD THE OKAY...
 BALL, CHARLIE flirts A G
@@ -4701,7 +4686,7 @@ wt MEI ed as Cr, een eee 7) ore inn, ae — _
 
 ---
 
-<!-- page 133 | FLAGGED: low-confidence -->
+<!-- page 133 -->
 
 aan
 nee nit na H can Bae ;
@@ -4717,7 +4702,7 @@ HCD lee
 
 ---
 
-<!-- page 134 | FLAGGED: low-confidence -->
+<!-- page 134 -->
 
 Why CANT I ENT LUNCH RATS! NOBODY 1S LUNCH HOUR IS
 WITH THAT LITTLE EVER GOING TO LIKE ME.) | THE LONEWIEST HOUR
@@ -4731,7 +4716,7 @@ SET q oe 25 AEA a int
 
 ---
 
-<!-- page 135 | FLAGGED: low-confidence -->
+<!-- page 135 -->
 
 USING POSTERS
 Bis | TEVER
@@ -4744,21 +4729,21 @@ FOLLOW!
 
 ---
 
-<!-- page 136 | FLAGGED: low-confidence -->
+<!-- page 136 -->
 
 LEAD
 FOLLOW!
 
 ---
 
-<!-- page 137 | FLAGGED: low-confidence -->
+<!-- page 137 -->
 
 CELEBRATE
 ee at
 
 ---
 
-<!-- page 138 | FLAGGED: low-confidence -->
+<!-- page 138 -->
 
 C\/| EVER
 GIVE UF i
@@ -4768,7 +4753,7 @@ a
 
 ---
 
-<!-- page 139 | FLAGGED: low-confidence -->
+<!-- page 139 -->
 
 A
 LA
@@ -4780,7 +4765,7 @@ ose ep)
 
 ---
 
-<!-- page 140 | FLAGGED: low-confidence -->
+<!-- page 140 -->
 
 60
 FOR
@@ -4788,13 +4773,13 @@ IT! (O
 
 ---
 
-<!-- page 141 | FLAGGED: low-confidence -->
+<!-- page 141 -->
 
 BiG
 
 ---
 
-<!-- page 142 | FLAGGED: low-confidence -->
+<!-- page 142 -->
 
 aa &
 (=)
@@ -4804,7 +4789,7 @@ __. mec val \
 
 ---
 
-<!-- page 143 | FLAGGED: low-confidence -->
+<!-- page 143 -->
 
 Ualomon
 S,
@@ -4859,7 +4844,7 @@ WritingFix
 
 ---
 
-<!-- page 145 | FLAGGED: low-confidence -->
+<!-- page 145 -->
 
 When I Was Little
 
@@ -4876,6 +4861,5 @@ ee
 
 ---
 
-<!-- page 146 | FLAGGED: low-confidence -->
-
+<!-- page 146 -->
 

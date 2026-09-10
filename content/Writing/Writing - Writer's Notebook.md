@@ -1,10 +1,13 @@
 ---
+
 title: "Writing - Writer's Notebook"
 source_file: "Writing/Writing - Writer's Notebook.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
 tags: [jim-k]
+reviewed: "2026-09-10"
 ---
+
 
 <img src="assets/Writing - Writer's Notebook/media/image1.jpeg"
 style="width:2.84375in;height:1.92569in" />

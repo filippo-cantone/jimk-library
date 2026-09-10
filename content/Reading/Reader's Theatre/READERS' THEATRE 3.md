@@ -10,9 +10,9 @@ strand: reading
 
 ## READERS’ THEATRE 3
 
-<img src="assets/READERS' THEATRE 3/media/image1.jpeg" alt="drama+mask" />
+<img src="assets/READERS' THEATRE 3/media/image1.jpeg"  />
 
-<img src="assets/READERS' THEATRE 3/media/image2.jpeg" alt="drama+mask" />
+<img src="assets/READERS' THEATRE 3/media/image2.jpeg"  />
 
 ## Readers’ Theatre 3
 

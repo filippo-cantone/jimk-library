@@ -11,7 +11,7 @@ strand: reading
 ## READERS’ THEATRE
 
 <img src="assets/READERS' THEATRE INTRO/media/image1.jpeg"
-alt="http://fc03.deviantart.net/fs71/i/2010/026/6/3/comedy___tragedy_Mask_Tattoo_by_Takumy.jpg" />
+ />
 
 **INTRODUCTION**
 
@@ -138,7 +138,7 @@ What makes a text suitable for Readers’ Theatre?
 >
 > Cicadas by Paul Fleischman.
 
-<img src="assets/READERS' THEATRE INTRO/media/image2.jpeg" alt="Drama-Masks" />
+<img src="assets/READERS' THEATRE INTRO/media/image2.jpeg"  />
 
 ## Readers’ Theatre 1
 
@@ -206,7 +206,7 @@ Mister Seahorse Eric Carle
 
 John Brown,Rose and the Midnight Cat Jenny Wagner
 
-<img src="assets/READERS' THEATRE INTRO/media/image3.png" alt="7724216" />
+<img src="assets/READERS' THEATRE INTRO/media/image3.png"  />
 
 ## Readers’ Theatre 2
 
@@ -256,7 +256,7 @@ The Watertower Gary Crew
 
 Nothing Ever Happens on 90<sup>th</sup> Street Roni Schotter
 
-<img src="assets/READERS' THEATRE INTRO/media/image4.jpeg" alt="drama+mask" />
+<img src="assets/READERS' THEATRE INTRO/media/image4.jpeg"  />
 
 ## Readers’ Theatre 3
 
@@ -300,7 +300,7 @@ Four Famished Foxes and Fosdyke Pamela Duncan Edwards
 
 The Worrywarts Pamela Duncan Edwards
 
-<img src="assets/READERS' THEATRE INTRO/media/image5.jpeg" alt="DramaMasks" />
+<img src="assets/READERS' THEATRE INTRO/media/image5.jpeg"  />
 
 ## Readers’ Theatre 4
 
@@ -366,7 +366,7 @@ Goggles Ezra Jack Keats
 
 Pet Show Ezra Jack Keats
 
-<img src="assets/READERS' THEATRE INTRO/media/image6.jpeg" alt="drama+masks" />
+<img src="assets/READERS' THEATRE INTRO/media/image6.jpeg"  />
 
 ## Readers’ Theatre 5
 
@@ -402,7 +402,7 @@ Crow and the Waterhole Ambelin Kwaymullina
 
 Knots on a Counting Rope Bill Martin Jr.
 
-<img src="assets/READERS' THEATRE INTRO/media/image7.png" alt="mask" />
+<img src="assets/READERS' THEATRE INTRO/media/image7.png"  />
 
 ## Readers’ Theatre 6
 
@@ -432,7 +432,7 @@ The Frog Prince Continued Jon Scieszka
 
 The Great Kapok Tree Lynne Cherry
 
-<img src="assets/READERS' THEATRE INTRO/media/image8.png" alt="theatre-clip-art-8" />
+<img src="assets/READERS' THEATRE INTRO/media/image8.png"  />
 
 ## Readers’ Theatre 7
 
@@ -478,7 +478,7 @@ Little Red Hen Brenda Parkes
 
 Get Busy, Beaver! Carolyn Crimi
 
-<img src="assets/READERS' THEATRE INTRO/media/image9.jpeg" alt="masks" />
+<img src="assets/READERS' THEATRE INTRO/media/image9.jpeg"  />
 
 ## Readers’ Theatre 8
 
@@ -520,7 +520,7 @@ The Porcupine Roald Dahl
 
 The Ant-Eater Roald Dahl
 
-<img src="assets/READERS' THEATRE INTRO/media/image10.png" alt="masks" />
+<img src="assets/READERS' THEATRE INTRO/media/image10.png"  />
 
 ## Readers’ Theatre 9 Performing Poetry
 
@@ -622,7 +622,7 @@ Goldilocks and the Three Bears Roald Dahl
 
 Notes on Performing Poetry
 
-<img src="assets/READERS' THEATRE INTRO/media/image11.png" alt="maskscomedytragedy" />
+<img src="assets/READERS' THEATRE INTRO/media/image11.png"  />
 
 ## Readers’ Theatre 10
 

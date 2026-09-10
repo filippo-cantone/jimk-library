@@ -4,24 +4,17 @@ source_file: "Genres/Poetry/Poetry - Part 4  (2 of 3)    1-76.pdf"
 pages: 76
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 32, 76]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Poetry - Part 4  (2 of 3)
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 POETRY
-Part 4 (2 of 3)
-Ny ay
-hs RE)
-AIS
-3
-
----
-
-<!-- page 2 -->
+ -->
 
 Kristine O'Connell George
 I have questions about everything. The world fascinates and astonishes me.
@@ -1147,7 +1140,7 @@ You may want to do this.
 
 ---
 
-<!-- page 32 | FLAGGED: low-confidence -->
+<!-- page 32 -->
 
 Tony Johnston
 Where Do You Find Inspiration?
@@ -2590,6 +2583,5 @@ What is happening in your picture?
 
 ---
 
-<!-- page 76 | FLAGGED: low-confidence -->
-
+<!-- page 76 -->
 

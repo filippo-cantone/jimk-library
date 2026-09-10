@@ -4,20 +4,17 @@ source_file: "Genres/Folktales/Folktales - Modern Tales    1-19.pdf"
 pages: 19
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 19]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Folktales - Modern Tales
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 FOLKTALES
-MODERN TALES
-
----
-
-<!-- page 2 -->
+ -->
 
 The Christmas Truce
 By Aaron Shepard
@@ -790,6 +787,5 @@ But the apples never fell for them, and they never did figure out why.
 
 ---
 
-<!-- page 19 | FLAGGED: low-confidence -->
-
+<!-- page 19 -->
 

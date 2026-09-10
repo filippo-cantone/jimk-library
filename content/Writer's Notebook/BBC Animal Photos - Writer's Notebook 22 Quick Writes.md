@@ -2,6 +2,7 @@
 title: "BBC Animal Photos - Writer's Notebook 22 Quick Writes"
 source_file: "Writer's Notebook/BBC Animal Photos - Writer's Notebook 22 Quick Writes.md"
 tags: [jim-k]
+reviewed: "2026-09-10"
 strand: writers-notebook
 ---
 

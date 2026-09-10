@@ -4,19 +4,17 @@ source_file: "Genres/Folktales/Folktales  1-59.pdf"
 pages: 59
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 47, 48]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Folktales
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 FOLKTALES
-
----
-
-<!-- page 2 -->
+ -->
 
 FOLKTALES
 Background.
@@ -2076,7 +2074,7 @@ least minded her manners, and had always said, “Good morning,” “Please.”
 
 ---
 
-<!-- page 47 | FLAGGED: low-confidence -->
+<!-- page 47 -->
 
 Red Riding Hood
 by Brenda Parkes
@@ -2151,7 +2149,7 @@ going, and he trod on Red Riding Hood's skateboard.
 
 ---
 
-<!-- page 48 | FLAGGED: low-confidence -->
+<!-- page 48 -->
 
 The skateboard hit the wall, and the wolf hartled out the window just as the forest ranger came by, on his way home from work,
 “Heyl What are s yotd doing, Wolf?” shouted the forest ranger.

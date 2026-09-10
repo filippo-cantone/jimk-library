@@ -1,12 +1,15 @@
 ---
+
 title: "Writing Conferences"
 source_file: "Writing/Writing Conferences.pdf"
 pages: 36
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [16, 28, 32, 33, 34, 35, 36]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+reviewed: "2026-09-10"
 ---
+
 
 # Writing Conferences
 
@@ -498,7 +501,7 @@ attention?
 
 ---
 
-<!-- page 16 | FLAGGED: low-confidence -->
+<!-- page 16 -->
 
 ASSESSING A WRITING CONFERENCE
 
@@ -911,7 +914,7 @@ lesson.
 
 ---
 
-<!-- page 28 | FLAGGED: low-confidence -->
+<!-- page 28 -->
 
 CONFERENCE NOTES
 Student:
@@ -953,20 +956,20 @@ use what was discussed in your writing.
 
 ---
 
-<!-- page 32 | FLAGGED: low-confidence -->
+<!-- page 32 -->
 
 READING/WRITING CONFERENCE NOTES
 
 ---
 
-<!-- page 33 | FLAGGED: low-confidence -->
+<!-- page 33 -->
 
 WRITING CONFERENCE
 essons
 
 ---
 
-<!-- page 34 | FLAGGED: low-confidence -->
+<!-- page 34 -->
 
 Status of the Class
 Cate: Week:
@@ -1002,7 +1005,7 @@ Key to abbreviations:
 
 ---
 
-<!-- page 35 | FLAGGED: low-confidence -->
+<!-- page 35 -->
 
 WRITING WORKSHOP DAILY LOG
 What I did today... What T think I'll do tomorrow...
@@ -1014,7 +1017,7 @@ Reflections on my week...
 
 ---
 
-<!-- page 36 | FLAGGED: low-confidence -->
+<!-- page 36 -->
 
 = ER
 TS

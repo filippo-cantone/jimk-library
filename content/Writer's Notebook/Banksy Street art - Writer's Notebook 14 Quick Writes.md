@@ -2,6 +2,7 @@
 title: "Banksy Street art - Writer's Notebook 14 Quick Writes"
 source_file: "Writer's Notebook/Banksy Street art - Writer's Notebook 14 Quick Writes.md"
 tags: [jim-k]
+reviewed: "2026-09-10"
 strand: writers-notebook
 ---
 

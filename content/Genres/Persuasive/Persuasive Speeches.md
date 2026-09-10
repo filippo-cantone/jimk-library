@@ -4,8 +4,10 @@ source_file: "Genres/Persuasive/Persuasive Speeches.pdf"
 pages: 8
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [3, 8]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Persuasive Speeches
@@ -91,7 +93,7 @@ Personalised Connections, Visualisation, Food for Thought
 
 ---
 
-<!-- page 3 | FLAGGED: low-confidence -->
+<!-- page 3 -->
 
 EP
 < Rae
@@ -300,7 +302,7 @@ We are free at last." (extract)
 
 ---
 
-<!-- page 8 | FLAGGED: low-confidence -->
+<!-- page 8 -->
 
 a
 Persuasive Map Facts or examples

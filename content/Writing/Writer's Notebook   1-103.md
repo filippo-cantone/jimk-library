@@ -1,16 +1,19 @@
 ---
+
 title: "Writer's Notebook"
 source_file: "Writing/Writer's Notebook   1-103.pdf"
 pages: 103
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 5, 11, 23, 31, 63, 89, 92]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+reviewed: "2026-09-10"
 ---
+
 
 # Writer's Notebook
 
-<!-- page 1 | FLAGGED: low-confidence -->
+<!-- page 1 -->
 
 Writer's Notebook
 
@@ -99,7 +102,7 @@ does, I'll feel thirty when I'm really only thirteen.
 
 ---
 
-<!-- page 5 | FLAGGED: low-confidence -->
+<!-- page 5 -->
 
 Kinds of Notebook Entries
 * Memories
@@ -316,7 +319,7 @@ has stayed in your heart because you care a lat about it.”
 
 ---
 
-<!-- page 11 | FLAGGED: low-confidence -->
+<!-- page 11 -->
 
 fr NF ®*
 i
@@ -751,7 +754,7 @@ Marissa did the following sketch in 5 minutes at the Reading Strategies PD.
 
 ---
 
-<!-- page 23 | FLAGGED: low-confidence -->
+<!-- page 23 -->
 
 SSS \ j hBi//
 | NY MLZ AF
@@ -1006,7 +1009,7 @@ Memory Chain
 
 ---
 
-<!-- page 31 | FLAGGED: low-confidence -->
+<!-- page 31 -->
 
 *[page skipped: OCR timed out]*
 
@@ -2344,7 +2347,7 @@ Moving on...
 
 ---
 
-<!-- page 63 | FLAGGED: low-confidence -->
+<!-- page 63 -->
 
 . Character: 7 . Problem:
 Me—I'm sick a. Ido not want to get
@@ -3693,7 +3696,7 @@ way, and then rewriting it in an interesting way.
 
 ---
 
-<!-- page 89 | FLAGGED: low-confidence -->
+<!-- page 89 -->
 
 Nothing Ever Happens on 90" Street
 
@@ -3736,7 +3739,7 @@ aa
 
 ---
 
-<!-- page 92 | FLAGGED: low-confidence -->
+<!-- page 92 -->
 
 Who? What? Where?
 Character Object Setting

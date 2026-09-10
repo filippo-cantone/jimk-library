@@ -2,6 +2,7 @@
 title: "People Photos - Writer's Notebook 11 Quick Writes"
 source_file: "Writer's Notebook/People Photos - Writer's Notebook 11 Quick Writes.md"
 tags: [jim-k]
+reviewed: "2026-09-10"
 strand: writers-notebook
 ---
 

@@ -4,20 +4,17 @@ source_file: "Genres/Folktales/Folktales - Pourquoi Tales  1-40.pdf"
 pages: 40
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 22, 23, 24, 25]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Folktales - Pourquoi Tales
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 FOLKTALES
-POURQUOI TALES
-
----
-
-<!-- page 2 -->
+ -->
 
 How the Rainbow Was Made
 retold by
@@ -955,7 +952,7 @@ the other marsupial mothers. Ever since then, their babies almost never get lost
 
 ---
 
-<!-- page 22 | FLAGGED: low-confidence -->
+<!-- page 22 -->
 
 Why Frog and Snake
 Never Play Together
@@ -993,7 +990,7 @@ They clasped each other, closed their eyes and sang:
 
 ---
 
-<!-- page 23 | FLAGGED: low-confidence -->
+<!-- page 23 -->
 
 - oe - — “You wish @ wish
 Pitbish d dish, too; ‘ .
@@ -1039,7 +1036,7 @@ arms and legs flailed about as he slithered. He turned over
 
 ---
 
-<!-- page 24 | FLAGGED: low-confidence -->
+<!-- page 24 -->
 
 ad AL TAS DOMULI DA maw QU, Arvess rope ChhkL AUER ape mee ae
 
@@ -1105,7 +1102,7 @@ vay best friend.” ;
 
 ---
 
-<!-- page 25 | FLAGGED: low-confidence -->
+<!-- page 25 -->
 
 “Best friend? Now what is fhis, eh?” said Mama, Frog.
 “What good boy éduld that be, playing in the hush?”

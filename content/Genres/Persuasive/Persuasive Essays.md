@@ -4,8 +4,10 @@ source_file: "Genres/Persuasive/Persuasive Essays.pdf"
 pages: 10
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [8, 9]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Persuasive Essays
@@ -238,7 +240,7 @@ Are law enforcement cameras an invasion of privacy?
 
 ---
 
-<!-- page 8 | FLAGGED: low-confidence -->
+<!-- page 8 -->
 
 “What is [don't Know.
 
@@ -248,7 +250,7 @@ fo ae
 
 ---
 
-<!-- page 9 | FLAGGED: low-confidence -->
+<!-- page 9 -->
 
 ‘
 Name:

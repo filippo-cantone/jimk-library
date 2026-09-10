@@ -4,29 +4,17 @@ source_file: "Genres/Folktales/The Boy who cried Wolf    1-27.pdf"
 pages: 27
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 6, 8, 9, 10, 11, 12, 13, 17, 19, 21, 23]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # The Boy who cried Wolf
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 ed
-ue A
-
-Wh
-
-HH
-
-ri |
-a
-
-The Boy who cried Wolf
-
----
-
-<!-- page 2 -->
+ -->
 
 The Shepherd Boy and the Wolf
 A Shepherd Boy tended his master's sheep near a dark forest not far from the
@@ -131,7 +119,7 @@ thought about what he had done.
 
 ---
 
-<!-- page 6 | FLAGGED: low-confidence -->
+<!-- page 6 -->
 
 ie a
 a .
@@ -160,7 +148,7 @@ Conclusion (what happens as a result of the tricks)
 
 ---
 
-<!-- page 8 | FLAGGED: low-confidence -->
+<!-- page 8 -->
 
 i nately.
 OFA,
@@ -172,7 +160,7 @@ The Boy who cried Wolf
 
 ---
 
-<!-- page 9 | FLAGGED: low-confidence -->
+<!-- page 9 -->
 
 CON aS _
 
@@ -190,7 +178,7 @@ all around the village.
 
 ---
 
-<!-- page 10 | FLAGGED: low-confidence -->
+<!-- page 10 -->
 
 me nrnerene a nate oe
 | The Shepherd Boy worked/yy
@@ -224,7 +212,7 @@ invacn vs '
 
 ---
 
-<!-- page 11 | FLAGGED: low-confidence -->
+<!-- page 11 -->
 
 COS CoS mgt
 a>
@@ -240,7 +228,7 @@ his master's sheep.
 
 ---
 
-<!-- page 12 | FLAGGED: low-confidence -->
+<!-- page 12 -->
 
 i 5
 He had to keep the sheep
@@ -258,7 +246,7 @@ a BCA eects nnncnennnenentceeracenitmtnaramenateaeenan nthe
 
 ---
 
-<!-- page 13 | FLAGGED: low-confidence -->
+<!-- page 13 -->
 
 vail CS °
 + Xs Je
@@ -327,7 +315,7 @@ wolf away.”
 
 ---
 
-<!-- page 17 | FLAGGED: low-confidence -->
+<!-- page 17 -->
 
 pom, OS x3
 enaant- aa “=
@@ -356,7 +344,7 @@ laughing heartily.
 
 ---
 
-<!-- page 19 | FLAGGED: low-confidence -->
+<!-- page 19 -->
 
 eS
 LEB
@@ -383,7 +371,7 @@ _
 
 ---
 
-<!-- page 21 | FLAGGED: low-confidence -->
+<!-- page 21 -->
 
 Mc
 - ; —_
@@ -413,7 +401,7 @@ amr { |
 
 ---
 
-<!-- page 23 | FLAGGED: low-confidence -->
+<!-- page 23 -->
 
 ah / an NO
 oy a i, ae

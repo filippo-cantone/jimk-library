@@ -2,6 +2,7 @@
 title: "Imagine a place - Writer's Notebook 19 Quick Writes"
 source_file: "Writer's Notebook/Imagine a place - Writer's Notebook 19 Quick Writes.md"
 tags: [jim-k]
+reviewed: "2026-09-10"
 strand: writers-notebook
 ---
 

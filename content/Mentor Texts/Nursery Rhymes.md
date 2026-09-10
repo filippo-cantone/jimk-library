@@ -4,14 +4,14 @@ source_file: "Mentor Texts/Nursery Rhymes.pdf"
 pages: 16
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1]
+
 tags: [jim-k]
 review_status: "flagged pages manually reviewed and corrected"
 ---
 
 # Nursery Rhymes
 
-<!-- page 1 | FLAGGED: low confidence, needs review -->
+<!-- page 1 -->
 
 *[Title page: hand-lettered "Nursery Rhymes"]*
 

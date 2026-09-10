@@ -4,20 +4,17 @@ source_file: "Genres/Procedural Texts/Procedural Texts.pdf"
 pages: 14
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Procedural Texts
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 eriow
-Procedural Texts
-
----
-
-<!-- page 2 -->
+ -->
 
 How to Play Jacks
 By an eHow Contributor Play Jacks

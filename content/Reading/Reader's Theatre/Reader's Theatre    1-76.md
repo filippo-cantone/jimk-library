@@ -1,21 +1,25 @@
 ---
+
 title: "Reader's Theatre"
 source_file: "Reading/Reader's Theatre/Reader's Theatre    1-76.pdf"
 pages: 74
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 5, 28, 41, 42, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 60, 61, 62, 63, 70, 71, 73, 74]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+reviewed: "2026-09-10"
 ---
+
 
 # Reader's Theatre
 
-<!-- page 1 | FLAGGED: low-confidence -->
+<!-- page 1 -->
 
-Readers’ Theatre
+<!-- Page 1 is a scanned cover/illustration page. Image below. -->
 
----
+![Cover/illustration page 1](assets/Reader's Theatre    1-76/media/cover.jpeg)
 
+<!-- page break -->
 <!-- page 2 -->
 
 READERS’ THEATRE
@@ -134,7 +138,9 @@ The Frog Who Would be King
 
 ---
 
-<!-- page 5 | FLAGGED: low-confidence -->
+<!-- page 5 -->
+
+<!-- blank page -->
 
 ---
 
@@ -1109,7 +1115,7 @@ tonight.
 
 ---
 
-<!-- page 28 | FLAGGED: low-confidence -->
+<!-- page 28 -->
 
 Red Riding Hood
 by Brenda Parkes
@@ -1776,85 +1782,17 @@ he poked his head out.”
 
 ---
 
-<!-- page 41 | FLAGGED: low-confidence -->
+<!-- page 41 -->
 
-Harry Potter and the Sorcerer's Stone
+<!-- Harry Potter and the Sorcerer's Stone extract - scanned page embedded below -->
 
-J.K. Rowling
-(Extract from Chapter 16)
+![Page 41](assets/Reader's Theatre    1-76/media/page41.jpeg)
 
-*[This passage was too garbled by OCR to reliably correct and has been left as scanned.]*
+<!-- page 42 -->
 
-“Ho mone studyiug," Ros sighed happily thetching out on the grass, “You coutd took mone cheerful, Marry,
-we've got a week Gefore we feud out how badly we've dene, there's ao weed to worry yet.”
-9 wish 9 bnew what this means!” te burst out angrily. “Wy sear heopee hunting — it's hafepewed before, but
-wever ad often as this.”
-"Go to Madam Pomfrey," Henntoue suggested,
-“9 'n wat dt,” said Hany, “9 thiae t's a warning .., & means danger's coming ...”
-Row cautldi't get worked. ups, & waa too hot.
-“Aanry, relax, Heuniene's right, the Stone's sage as toag as Dumbledane's around, Abuguag, we've wever
-had any proof Snape found, out hac ta get pact Fluffy, He nearty had. hie leg riffred. off owee, he's wot gatug
-te ty & agate in a tury, bud Hevitle witl lag Quidditch fon Eugland before Hagrid bets Dewnbledore
-doce,” ,
-Hannu, aodded, but be couldn't shake off a lanking feeling that there was cometting he'd forgotten to de,
-something important. When be tied to explats this, Perutowe said, “That's juct the exams. 7 mate uf bast
-wight aud was halfway through aug Tnawspiganation ates before 7 remembered we'd done that ane,“
-Hany wae quite sine the unsettled feeling dide't have anything to de with work, though. He wateled ac oot
-fatter tomand the echoot aerose the bright Une chi, a note clauyed cw tte mouth, Hagnid was the ouliy owe who
-ever dent teem, letters, Wagnid would neuer betray Dumbledore. Hagnid would weuer tell anyone how to get rast
-Harry cadeenlyy jumped to es fect,
-“Where are you gotug?” said Raw cheepily
-“9 ‘ve juct thougld of something,” said Harny He had tumed elite. "We've got to go and see
-Hagnid, wow,”
-“Wy?” panted Heunione, tunnytieg Uo beeps fe,
-“Dow't you think t's a bit add,” catd Hamny, scrantlling upp the grasey cope, “that what Raguid wants
-cuore than anything elre ts a dragas, and. a etranger tunis fe who juct Gappese to have an egg ta his pocket?
-How many people wander around with dragon egge y's agatuat wizard law? Lucky they found Hagnid,
-don't you think? Why didu't 9 vee it before?"
-“What ane you tating about?" catd Row, but Harry, sprinting acroes the grounds toward the forest, déde't
-ander,
-Hasnid war sitting ia an armchair outeide bis house; hie trousers ard sleeves were ralled uf, and he wae
-shelling peas tate a lange boot,
-"Bette," be eatd enttiug. "Fiataled yer evans? Got tine fora dninb?”
-“Yes, pleace,” datd Ros, Cut Harry wit hin off
-“Te, we're ia a hum, Ragnid, 9 ve got to ack you something. You bron that wiglt you won Uorbert?
-What did the stauger you were playing carde with took tite?”
-“Duo,” said Hagprid casually, “he wouldn't tahe ties cloak off,"
-He saw the three of then look etunued aud raised hi eyebrows,
+<!-- Harry Potter extract continued - scanned page embedded below -->
 
----
-
-<!-- page 42 | FLAGGED: low-confidence -->
-
-"90's wat that anasual, yer get a lat a’ funny fol tu the hog's Head — that's the put doue ta the uillage.
-Wighta bia a dragon deaker, nights’ he? 9 wever caw tia face, te bept bis hood. up.”
-
-Hany caule dow nent to the Cowl of peas,
-
-“What did you tall to tim about, Pagid? Did you mention Hogwarts at att?”
-
-“Mighta come ups,” said Wagnid, fromuing as he tried to remember. “Yeat .,, be adhed what 9 déd, aw’?
-told tim 9 wae gamelecper tere .. He abted a bit about the carta creatures 9 took after... a 9 told hist
-wa 9 said what Td always really wanted was a dragon .,, an’ thea... 9 can trementer too well,
-‘cause he hept buyin’ me drinks .,, Let's dee .,. yeah, then he raid he had the dragon egg an’ we could play
-cands fer it 7 wauted. .., butt he tad. tr be cone 9 could handle ct, te didu't want i ter go ter awy al home
-... So? told, him, after Fluffy, a dragon woukd be cacy..."
-
-“dud. did be — did he seem tuteredted in Fluffy?” Hany ashed, tiytng to beep le voice cab.
-
-“Welt — yeal — how many three headed dogs d'yeh mect, even around Hoguante? So told tim, Pluffy's a
-piece 0' cahe i yeh knows tow to cater biere dow, jeu’ phasy ten a bit 0' marie an’ he'll ga atraight off ter
-deep —"
-
-Haguid euddeuty looked lanrified.
-
-“9 shauldi'ta told yeh thatl” he Cunted. ct, “Forget 7 sata etl Hey — whene'ne yet goin'?”
-
-Hany, Ron, aud Wountaae didn't peat te cach other at alt auttl they came to a batt tu the entrance atl,
-"We've got to ga te Dunlledere,” said Harry, “Hagnid told that wtrauger bow to get pact Fluffy, aud ct
-was either Snape or Voldemort ander that koak,,."
-
----
+![Page 42](assets/Reader's Theatre    1-76/media/page42.jpeg)
 
 <!-- page 43 -->
 
@@ -1959,7 +1897,110 @@ given the King. And it was all he deserved.
 
 ---
 
-<!-- page 45 | FLAGGED: low-confidence -->
+<!-- page 45 -->
+
+<!-- OCR could not reliably read this page. See original scan. -->
+
+<!-- OCR artifact -->
+
+a3 842 3
+
+te a5 Su Bes a
+
+3S =) 2eles Ha .
+
+3 2 aad garage Be 438
+
+5 oal0 Pace he "5b. =z 2
+
+ge 2 ey Sea es er. coe ray eas ”
+
+oo = be peg SZ oo gs 4 £8 ys EUR
+
+BR as Byers ao ga sé “ee 5 6 ¢2 3 Lbs
+3 aie S852 2.8 & Lae o Se go ae
+ao Seo ESS 37 ia Ga § 3 a ict 2 Se sk SB £8
+868 Sag se gS ang £3 28 SCxeB fg ca ak 2 a &
+S23 ZEB ~Bele Be Os S s8e = g 85 3 HEL 28
+3.6 334 See ay S8 of g Eg £ 6 os fae eS BA
+45 go? Ber og cc e808 & e = Bag Bs a
+BR BEE Shu s Bs ee gEegess ~ eR geeeeee
+
+Gag ae] 3] 38 8 s 2 8 Og! Sr &
+
+a rs) oS oe Oo oe 279 + oc Bogs
+5 on 8 DER EP. oe Be Say ESSE 225 Crees:
+22 ESs £25e53%0 FS SESC TSE Bee caaeeees
+2. 3 .o8 5k ( io 3
+=. BSE gee ebeee a8 PES o EEE Bae 2268 2283
+8 : Zz od = 9 i I . s vo gt « o's
+ab Oo BORS Bos 2 Ss 2.8: = Beet Bes % B*,.2
+ES ESE. Gaye PEs SiS es2Ee8 = & tay eies
+
+Sawee i 1 20'e Beas S2EB83 3) Ba Zan8 7
+358 eos 2885 BB. 3 Swe see g Reds SHES oes
+
+Gms So 98 B oS 3) oS ~g8tse 358 a-Gc 8 22s
+aug: sene5 88 ¢ E. 2bs3E532 5 BGSSE LS ga 2S
+EUSLSEzoEES 2 2 533 Zeecgss Si 2gepesit
+SSR ep REE ES F583 eg peg cseeee 2 = 32922222
+Hea aa gos keeet yey 8
+
+. 2: 2 BP Se
+SEG AP ERs eggs c8 |
+at gon” oS? Ba, a. wo am 5
+aE aria: er ectty pos? s6 25 Fes
+nS aediulus SOE eee bese
+¥g- B Give
+BEB gets Ure
+a 58 gla ese as : ode BBE 8
+3 Se 5° eS eee absyer sé
+GO8e Br Bogs SESS o
+- & oR BOSSE aS
+5 0 7 98
+® q
+<!-- OCR artifact -->
+gE »
+& ger gs 2 ¢ 3B bo
+ted Oog 5.8 BR Pa = o
+Q gee ge 8 a © Pe E ee 8
+< ao. fb a3 38 € & bh £82538,
+sab bes seig 48 Rg 82g goede
+Vv go 8 a 8 gs 8 8 s £ BUS a 5 38
+OY Bae ye 5 § & Be 8 Sue 4 2s
+Ps ge. $e Bog. 9 3 gt Reo bE yong
+Ww feo SE : DS Be] } o e oH eES
+a seo > Be . _ dak a
+aS 36% g2 2 ey 8 8 g 58 Bah Suck
+ON g,2 6s ay 2 s24 3 og 8 wd Se gers
+= = Os oD 4 7
+an Begees = 323 3 728 eez Bee feds
+a gis s28 ~ - 32 3 wiz PER gee Rees
+\o 5 Om 2s o 2. g's og % BS S08 8 Pian
+CO say rg a 9 g Bo ong [oy $28 S258
+© reeees = 33s g BERS Bee 5 427 g
+ow oy SEO 8 ae Oost B'S ao Bot te
+= eSee8§ Babee . Beeb eee Se ions
+3 Hes 20 8 Bore uninit eens
+g. gee as fo gse BES esau ke Hoes
+asc S_ Bae? 20 Sasa ga88 o4'3
+Seeeee: 8 jee Ses SEEGSEEEE = gs
+5 ride Ge AMEE
+2 8 Ser > 4 a sekage = oo 8
+fly eescs GSt push ons) aREUR Cees
+Po ee ae ed fase. § ales
+Orge eee Subs
+= ment Bat Ss ge sO 2 a8 3ben53 gS fau
+as ay gs rPOg Pegeses SUS
+6 FG es g& 8h 3 ae ¥ o 5
+ft o : 2 SF Pe ofS
+© eee fz 5
+o e Beet a8 Bs
+SB. ES gs om
+zo So
+<!-- OCR artifact -->
+
+---
 
 *[Pages 45-55 were too garbled by OCR to reliably correct (the scan appears to have captured an illustration or densely formatted page rather than plain text) and have been left as scanned.]*
 
@@ -2064,7 +2105,11 @@ B
 
 ---
 
-<!-- page 46 | FLAGGED: low-confidence -->
+<!-- page 46 -->
+
+<!-- scanned page embedded below -->
+
+![Page 46](assets/Reader's Theatre    1-76/media/scan_p46.jpeg)
 
 Los oe te es » Ly an
 go SP g92 883 ¥ Beast g Hf fe288 YEE
@@ -2147,7 +2192,11 @@ BR ESSER &£ SP eSSERee & SScse
 
 ---
 
-<!-- page 47 | FLAGGED: low-confidence -->
+<!-- page 47 -->
+
+<!-- scanned page embedded below -->
+
+![Page 47](assets/Reader's Theatre    1-76/media/scan_p47.jpeg)
 
 2 ‘Ss
 wh Pb @
@@ -2231,7 +2280,11 @@ BER 85 3
 
 ---
 
-<!-- page 48 | FLAGGED: low-confidence -->
+<!-- page 48 -->
+
+<!-- scanned page embedded below -->
+
+![Page 48](assets/Reader's Theatre    1-76/media/scan_p48.jpeg)
 
 Aan ‘a
 if ,
@@ -2311,7 +2364,11 @@ RE 2
 
 ---
 
-<!-- page 49 | FLAGGED: low-confidence -->
+<!-- page 49 -->
+
+<!-- scanned page embedded below -->
+
+![Page 49](assets/Reader's Theatre    1-76/media/scan_p49.jpeg)
 
 8 BS 2
 $4 497 < o yse
@@ -2410,7 +2467,11 @@ Sf 4 AR obs 8 SSSS
 
 ---
 
-<!-- page 50 | FLAGGED: low-confidence -->
+<!-- page 50 -->
+
+<!-- scanned page embedded below -->
+
+![Page 50](assets/Reader's Theatre    1-76/media/scan_p50.jpeg)
 
 en 9
 é 2
@@ -2520,7 +2581,11 @@ wo ag ae
 
 ---
 
-<!-- page 51 | FLAGGED: low-confidence -->
+<!-- page 51 -->
+
+<!-- scanned page embedded below -->
+
+![Page 51](assets/Reader's Theatre    1-76/media/scan_p51.jpeg)
 
 Lo
 oe E ®
@@ -2630,7 +2695,11 @@ Saaand sss
 
 ---
 
-<!-- page 52 | FLAGGED: low-confidence -->
+<!-- page 52 -->
+
+<!-- scanned page embedded below -->
+
+![Page 52](assets/Reader's Theatre    1-76/media/scan_p52.jpeg)
 
 5 Bee
 be Be. og Bee
@@ -2712,7 +2781,11 @@ a 8 aS BS262
 
 ---
 
-<!-- page 53 | FLAGGED: low-confidence -->
+<!-- page 53 -->
+
+<!-- scanned page embedded below -->
+
+![Page 53](assets/Reader's Theatre    1-76/media/scan_p53.jpeg)
 
 sree
 ey
@@ -2802,7 +2875,11 @@ oH
 
 ---
 
-<!-- page 54 | FLAGGED: low-confidence -->
+<!-- page 54 -->
+
+<!-- scanned page embedded below -->
+
+![Page 54](assets/Reader's Theatre    1-76/media/scan_p54.jpeg)
 
 . urd OO OB SBS
 . . Bs BYVG 8 eS 6 oc oS a
@@ -2882,7 +2959,11 @@ g8aG80 S82 22 &
 
 ---
 
-<!-- page 55 | FLAGGED: low-confidence -->
+<!-- page 55 -->
+
+<!-- scanned page embedded below -->
+
+![Page 55](assets/Reader's Theatre    1-76/media/scan_p55.jpeg)
 
 2 SITE yD Y
 YP ao] ee
@@ -2978,7 +3059,63 @@ $
 
 ---
 
-<!-- page 56 | FLAGGED: low-confidence -->
+<!-- page 56 -->
+
+LITTLE RED RIDING HOOD AND THE WOLF
+As soon as Wolf began to feel
+That he would like a decent meal,
+He went and knocked on Grandma’s door.
+
+When Grandma opened it, she saw
+
+The sharp white teeth, the horrid grin,
+
+And Wolfie said, ‘“May I come in?”
+
+Poor Grandmamma was terrified,
+
+“He’s going to eat me up!” she cried.
+
+And she was absolutely right.
+
+He ate her up in one big bite.
+
+But Grandmamma was small and tough,
+
+And Wolfie wailed, “That’s not enough!
+
+“I haven’t yet begun to feel
+
+“That I have had a decent meal!”
+
+He ran around the kitchen yelping,
+
+“I’ve got to have a second helping!”
+
+Then added with a frightful leer,
+
+“I’m therefore going to wait right here
+
+“Till Little Miss Red Riding Hood
+
+“Comes home from walking in the wood.”
+
+He quickly put on Grandma’s clothes,
+
+(Of course he hadn’t eaten those.)
+
+<!-- OCR could not reliably read this page. See original scan. -->
+
+cr ’ Tp
+: (AN O be By
+: rN ~& ee 4 ¢
+6S ao Nea EN AD
+x gM . LSE ted ~ |
+Qe ZY dy & SS Iss
+SL UI OTS
+Al ess
+
+---
 
 LITTLE RED RIDING HOOD AND THE WOLF
 As soon as Wolf began to feel
@@ -3178,186 +3315,29 @@ a. WF
 
 ---
 
-<!-- page 60 | FLAGGED: low-confidence -->
+<!-- page 60 -->
 
-*[Pages 60-63 (an Anansi the Spider story) were scanned with heavy interference from illustrations, and the OCR text order is too scrambled to reliably reconstruct sentence by sentence. It has been left as scanned.]*
+<!-- Anansi the Spider story page - scanned page embedded below -->
 
-ye
-i Se An a ° uh d
-& iy, 3 a eo, PAS
-hy, Sa msi che a
-ne 3S Pp de VaR ¥y
-BieNe By a j Be 6 i .
-y ™ fe) I first heard this story of Ai i rethy Franeis
-BY), ama Islands. A school nansi the Spider when T was visiting in th
-ets savenal Anansi Stevie eacher who ran a smail bookstore there told oe :
-Shee tb Sk ’ ; ey cal fj e
-Pa a hyp , asked why they were called Anansi Stories, Pid ane and when 1
-é ae Al 1 e this tale. 1
-4 VT ong, long time ago all the fo’ i
-GN wth atl rest
-ik send the Spider, because he was so rest anes made fun of Anarisi |
-0 a <2 nobody listened; when Anansi sh . When Anansi whispered,
-ow But the animals never an eer Whee laughed. . |
-Ce - % pered, they hushed; when Tiger shouted th aie bed his |
-; SE was strong, and the ani , they trembled. Ti :
-4 SEES B. the animals honored hi F ger i
-a ae Anansi ated being laughed at i
-p48 ohh, animals had gathered to tell Ti St and one night, when the
-1 g Be "Tiger, it must be ovonderful tories, Anansi spoke up
-ae . ‘wl .
-ge. Ga many things named after you.” to be strong and to have so
-Sse ENGIN Tiger twitched his tai i
-DE ENS UG tail —
-as @ si) = mean?” il and glared at Anansi. "What do you
-Vee Be “We have Tiger lilies,” toe
-; hte, and Tiger “harke woee Anansi said. “We have Tiger moths
-38 SFG a oul : also have the Tiger Storie t
-Re NEN your strength you have many thi ies. Because of
-’ ey Tiger purred. “Thank y things named after you.
-q re pa, ~. you?” you, Anansi. But what is all this to
-i # S yy Sam “T know Iam weak,” Ai soaig
-: f ay 3 comething named after me nansi said, “but I would like to have
-! b.. ASS All i i
-j \ < We 7 the animals laughed at that idea. j
-: Dow FR h iger padded around the circle where his fri E
-é Ny fo. NN e stopped before Anansi. “Wh e his friends sat, then — |
-. a ‘a BA named after you?” : at would you like to have ;
-/ So A : Anansi th |
-i TWA Le ought for a mi . . {
-: RY As set, Tiger. 1 would like to have the a stories we fel af sure :
- t4ene x cole the Anan Stories
-i BONE 6 |
-j AN tay =? Wie |
-} : FSS . K <a, me, |
-i wf ios illustrated by Monica Vachula ig pe ee
-i RR che able © 1981 by Doroty Francs iat Dory S Su
-eR, Ws PN
-a j
+![Page 60](assets/Reader's Theatre    1-76/media/page60.jpeg)
 
----
+<!-- page 61 -->
 
-<!-- page 61 | FLAGGED: low-confidence -->
+<!-- Anansi the Spider story page continued - scanned page embedded below -->
 
-— . fc ), _ 5 SOR 5 COU Or ga
-‘= Fans, Weaes CAP Pre oe i San A SN
-. This time nobody laughed at Anansi, so eager were they to gh val d
-hear Tiger's reply. So Lae
-, Tiger twitched his tail and said, “Grant me one wish, i ae
-Anansi, and the stories will be named after you.” a Th an
-“What is your wish?” Anansi asked. A Oey
-“Within three days bring Snake to me—alive,” Tiger said. F ws
-The animals laughed at the idea of Anansi being strong er AS
-enough to capture Snake alive, but Anansi ignored them. ; Boos
-“T will grant your wish, Tiger. Within three days I will bring wy aN
-Snake to you—alive.” ee hae
-While the animals went on telling Tiger Stories, Anansi Hitt “9 SN i
-went home to think. How could one small spider catch so enor- 8 3° ys a |
-mous an animal as Snake? At first the task seemed hopeless, ae BNNs |
-but soon Anansi had an idea. % Ma in ia |
-The first day Anansi made a noose from grapevines and - a S ae A |
-laid it across Snake's path. Then he hid behind a bush until { G pein) |
-: Snake came along. ‘) g ‘ i
-Anansi was ready to pull on the vine and tighten the noose i a y !
-the minute Snake glided into it, but Snake saw his dangerand , i) h |
-slithered to one side of the noose. th WS Al Wy i
-Anansi was so angry that he stamped his four left feet. RM, Sy AY 4 3%
-When he calmed down ‘he thought of another scheme. On } if By “0H
-the second day he dug a deep hole, greased the sides, and N Vp y PNY |
-tossed a banana—Snake’s favorite food—into the hole. Then WN Nae :
-he hid behind a rock and waited. Nf x By
-Sar. y y bf 4 1
-LEE Pe } a |
-my GEER I ESD > -_ " gi
-O Ga 7 TA |
-(cy fs ges ae a SS eS) W ne
-e oes Me DY Ce WH. :
-Ye ra ELT rs, ; tA Steg? AS aS SARIS ae as :
-¥, ee Fearn | ei thom SN Ke i a '
+![Page 61](assets/Reader's Theatre    1-76/media/page61.jpeg)
 
----
+<!-- page 62 -->
 
-<!-- page 62 | FLAGGED: low-confidence -->
+<!-- Anansi the Spider story page continued - scanned page embedded below -->
 
-rg. oa But Snake was not fooled. He knew he could not slide. up
-1 @ coy the slick sides of the hole, so he wrapped his tail around the
-“4 ay h same rock Anansi was hiding behind, lowered his head into the
-® ¥ y hole, and ate the banana. After he had dined he pulled himself
-oy j EY up by his tail and glided away.
-és FA ' Anansi was so angry that he stamped his four right feet.
-wiry ~! Snake had escaped again! 4
-% § On the third day Anansi had another plan. He made a box
-‘ 7, y % y trap, baited it with a parrot egg, and hid in a banana tree until :
-Go | ain Snake passed by. i
-i are, But again Snake saw his danger. He looked up at Anansi. “I
-a (= if, > as see you, Spider. You will never catch me.”
-EN ay : ate Anansi crawled down from the banana tree and smiled.
-{ Sy Wags “You are right, Snake. You are too smart for me. And more is
-< ee ] the pity. Now I will never be able to prove that you are the :
-we “Weees longest animal in the forest.” !
-' _ Se “But of course I am the longest animal in the forest,” Snake t
-r CSF Ps said. “Why, I am even longer than the bamboo tree.” Snake i
-! B Yr Re oe stretched himself out so Anansi could see exactly how long he
-: area bad was. Hl
-Bt ” “{" ae Anansi looked at Snake, then he studied the bamboo tree.
-Qe ke "You think you are longer than that bamboo tree right over
-i ban ‘ hg, there?” Balancing on seven feet, Anansi pointed to a particular-
-40 cae) 2, iy tall tree.
-| RAC J "Of course,” Snake replied, stretching a bit more.
-e Li, y Ay, Anansi shook his head. “It is hard to say for sure, you being i
-| 4 Af ‘es uP yy ce here and the tree being there.” i
-ih 8 6 aN a Snake sighed. “Well, bring the bamboo here. Cut it down i
-Hl . PS Beg if and lay it beside me. You will see that am longer.” i
-| By Le in Anansi cut the bamboo, trimmed off all the branches, then ;
-| Bee = ad! 1 Jaid it down beside Snake.
-| He ge Xe ey “How can I trust you?” Anansi asked. “When Llook at your i
-i Bs a We fy head you can pull your tail up and I will not know for sure if :
-: - a if ¢ you ae as long as the en o
-1 og mS: eee os Se OO cnet Pe oe 8 Oo a ee Sale nm
+![Page 62](assets/Reader's Theatre    1-76/media/page62.jpeg)
 
----
+<!-- page 63 -->
 
-<!-- page 63 | FLAGGED: low-confidence -->
+<!-- Anansi the Spider story page continued - scanned page embedded below -->
 
-moa Sa One we a So ‘tt
-“Tie my tail to the end of the bamboo, then,” Snake said, “I % E re N !
-know I am longer than it is.” & & a A |
-Anansi tied snake's tail to the bamboo, then he ran to § ar ‘ep a ay i
-Snake's head. yk DP eN '
-. By now many animals had gathered to watch the show. , # ae ~, |
-“Stretch, Snake, stretch,” they called. “Let us see if you are ve ee » d
-‘ really longer than the bamboo.” ap Wy 6) "
-Snake stretched, then he called to Anansi. “Tie me around Um, Yy A
-the middle so I will not slip back.” go “* WE !
-Anansi tied Snake around the middle. ae ab ed |
-“Stretch as hard as you can, Snake,” the animals called. ei, re és so i
-“The bamboo is six inches longer than you are.” \ iN P
-Anansi ran to Snake's head. “Rest a bit, Snake, thenstretch 7 @ JEN @& i
-for all you are worth. I do believe if you close your eyes and f BN @ ‘ ;
-stretch your hardest, you will make it.” / pe Ap ¥ an i
-Snake rested, then he closed his eyes and stretched as hard P i bg A Ww 4 i
-as he could. At that moment Anansi brought out a vine and yi (es Ye af
-tied Snake's head to the bamboo. He had captured Snake—  & ns IN { i
-alive. V4 ch con iN 2)
-The animals grew silent when they realized that Anansi had GSS » aD) t
-been able to grant Tiger’s wish. Nobody laughed at Anansi, Y& i Pes) H
-and from that time on they called the stories they told at sunset Geant es t
-the Anansi Stories. i ee 4 i |
-J& oo |
-geen |
-. . Fo ee “ OS URE |
-8 vA A Gn 2 FEN 00th CORR
-
-GOS ue a ee
-
-as OE ADO  Neeted SOARES alli EIN Sacks Hs
-Bas OCCA BE ANEW SS 1 Be ENN 4 eum
-
-AE US § ASE RS Ee RS BEAT HONS eg RES
-
-= GG Aare Ney SP
-
----
+![Page 63](assets/Reader's Theatre    1-76/media/page63.jpeg)
 
 <!-- page 64 -->
 
@@ -3638,153 +3618,20 @@ to dream of all the greater things they could be.
 
 ---
 
-<!-- page 70 | FLAGGED: low-confidence -->
+<!-- page 70 -->
 
-Cicadas |
--
-Afternoon, mid-August .
-Two cicadas singing Two cicadas singing °
-Air -kiln-hot, lead-heavy .
-Five cicadas humming Five cicadas humming -.
-Thunderheads northwestward
-Twelve cicadas buzzing Twelve cicadas buzzing ~ , .
-: Up and down the street :
-the mighty choir’s the mighty choir’s
-assembling _ assembling :
-. Shrill cica- :
-das Ci. .
-droning cadas
-droning j
-. in the elms
-. Three years Three years !
-: spent underground ,
-‘ among the roots .
-in darkness in darkness :
-Now they’re breaking ground {
-and climbing up .
-: the tree trunks i
-. splitting skins
-and singing : ‘and singing
-Jubilant
-rejoicing cicadas
-pouring out their :
-fervent praise fervent praise i ;
-for heat and light i
-their hymn theirhymn /
-sung to the sun /
-Cicadas Cicadas i
-whining 7
+<!-- Cicadas poem (Paul Fleischman) two-voice page - scanned page embedded below -->
 
----
+![Page 70](assets/Reader's Theatre    1-76/media/page70.jpeg)
 
-<!-- page 71 | FLAGGED: low-confidence -->
+<!-- page 71 -->
 
-. whin-
-: ing ci-
-cadas
-. whirring
-whir- :
-ring ci- .
-: cadas .
-pulsing \
-pulsing \
-. chanting from the treetops chanting from the treetops :
-sending :
-forth their sending i
-booming forth their i
-boisterous booming . i
-joyful noise! joyful noise! .
-; .
-ie AT},
-Bp. bE PE ee
-ee.) LE
-En MS GE. Le
-See Pe (ae a
-NN) Nees a)
-cats pg? a a eee)
-ey i Rn Nag
-epee wy Nae a
+<!-- Cicadas poem continued - scanned page embedded below -->
 
----
+![Page 71](assets/Reader's Theatre    1-76/media/page71.jpeg)
 
 <!-- page 72 -->
 
-Honeybees
-Being a bée Being a bee |
-; is a joy. ,
-is a pain.
-I’m a queen
-I’m a worker : :
-I’ll gladly explain. I’ll gladly explain.
-Upon rising, I'm fed
-by my royal attendants,
-I’m up at dawn, guarding
-the hive’s narrow entrance -
-I'm bathed ,
-then I take out *
-; the hive’s morning trash
-then I'm groomed.
-: then I put in an hour
-making wax,
-without two minutes’ time
-to sit still and relax. . '
-The rest of my day
-is quite simply set forth: 4
-Then I might collect nectar Hl
-from the field ‘
-three miles north '
-I lay eggs,
-or perhaps I’m on
-larva detail
-by the hundred.
-feeding the grubs
-in their cells,
-wishing that I were still
-helpless and pale.
-I’m loved and I’m lauded,
-I'm outranked by none.
+<!-- Cicadas poem page continued - scanned page embedded below -->
 
----
-
-<!-- page 73 | FLAGGED: low-confidence -->
-
-Then I pack combs with :
-
-pollen—not my idea of fun.
-When I’ve done
-enough laying
-
-Then, weary, I strive . i
-I retire
-
-to patch up any cracks .
-
-in the hive. . !
-for the rest of the day, . .
-
-Then I build some new cells,
-
-slaving away at . .
-
-enlarging this Hell,
-
-dreading the sight i
-
-of another sunrise,
-
-wondering why we don’t .
-
-all unionize.
-
-“Truly, a bee’s is the Truly, a bee’s is the
-worst best ‘ !
-of all lives. “5, of all lives.
-Ao |
-ie ae
-We @ |
-ie
-
----
-
-<!-- page 74 | FLAGGED: low-confidence -->
-
+![Page 72](assets/Reader's Theatre    1-76/media/page72.jpeg)

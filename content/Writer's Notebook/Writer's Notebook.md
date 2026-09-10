@@ -2,6 +2,7 @@
 title: "Writer's Notebook"
 source_file: "Writer's Notebook/Writer's Notebook.md"
 tags: [jim-k]
+reviewed: "2026-09-10"
 strand: writers-notebook
 ---
 

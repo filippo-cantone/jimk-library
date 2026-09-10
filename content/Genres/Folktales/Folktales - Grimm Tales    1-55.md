@@ -4,20 +4,17 @@ source_file: "Genres/Folktales/Folktales - Grimm Tales    1-55.pdf"
 pages: 55
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 25, 55]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Folktales - Grimm Tales
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 FOLKTALES
-GRIMM TALES
-
----
-
-<!-- page 2 -->
+ -->
 
 L
 Backgrounder ~ The Brothers Grimm
@@ -1137,7 +1134,7 @@ not see me again till the end of autumn.’
 
 ---
 
-<!-- page 25 | FLAGGED: low-confidence -->
+<!-- page 25 -->
 
 "I must go to the forest,’ he replied, ‘to hide my treasure from
 
@@ -2552,6 +2549,5 @@ Now all their cares were at an end, and they lived happily together.
 
 ---
 
-<!-- page 55 | FLAGGED: low-confidence -->
-
+<!-- page 55 -->
 

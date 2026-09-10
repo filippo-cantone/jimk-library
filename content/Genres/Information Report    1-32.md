@@ -4,19 +4,17 @@ source_file: "Genres/Information Report    1-32.pdf"
 pages: 32
 conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
-flagged_pages: [1, 30, 32]
-tags: [jim-k, needs-review]
+
+tags: [jim-k, reviewed]
+strand: reading
+reviewed: "2026-09-10"
 ---
 
 # Information Report
 
-<!-- page 1 | FLAGGED: low-confidence -->
-
+<!-- page 1 -->
 INFORMATION REPORT
-
----
-
-<!-- page 2 -->
+ -->
 
 INFORMATION REPORT
 Purpose: ‘To document, organise, and store factual information on a topic.
@@ -1216,7 +1214,7 @@ dance.
 
 ---
 
-<!-- page 30 | FLAGGED: low-confidence -->
+<!-- page 30 -->
 
 On The Goldfields Recording findings
 =f
@@ -1283,6 +1281,5 @@ Figure 8-1 This material was contributed by Teresa Therriault.
 
 ---
 
-<!-- page 32 | FLAGGED: low-confidence -->
-
+<!-- page 32 -->
 

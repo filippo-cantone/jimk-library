@@ -4,10 +4,12 @@ source_file: "Writing/PERSUASIVE TEXTS pack 2.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
 tags: [jim-k]
+reviewed: "2026-09-10"
+strand: writing
 ---
 
 <img src="assets/PERSUASIVE TEXTS pack 2/media/image1.jpeg"
-style="width:3.5in;height:4.03125in" />
+ />
 
 **PERSUASIVE TEXTS**
 
@@ -158,14 +160,14 @@ State opinion.
 Ideas with supporting details.
 
 <img src="assets/PERSUASIVE TEXTS pack 2/media/image2.jpeg"
-style="width:2.51042in;height:2.17708in" />
+ />
 
 **Bottom Bun**
 
 Conclusion or summary.
 
 <img src="assets/PERSUASIVE TEXTS pack 2/media/image3.png"
-style="width:6in;height:4in" />
+ />
 
 **Persuasive Writing/Speech**
 
@@ -218,7 +220,7 @@ Offers a possible solution.
 Restates the position in the conclusion.
 
 <img src="assets/PERSUASIVE TEXTS pack 2/media/image4.png"
-style="width:6.90208in;height:8.93194in" />
+ />
 
 **Persuasive Writing**
 
@@ -1197,7 +1199,7 @@ Ben Harper
 **Friendly letter format with persuasive techniques**
 
 <img src="assets/PERSUASIVE TEXTS pack 2/media/image5.jpeg"
-style="width:3.33264in;height:2.49861in" />
+ />
 
 Read Aloud – sheer enjoyment.
 
@@ -1247,7 +1249,7 @@ electric blankets! Be as persuasive as they were.*
 > Using Persuasive writing techniques.
 >
 > <img src="assets/PERSUASIVE TEXTS pack 2/media/image6.jpeg"
-> style="width:2.09097in;height:2.77153in" />
+>  />
 >
 > Dear Mrs LaRue: Letters from Obedience School uses point-of-view and
 > persuasive writing techniques when writing a friendly letter. Ike
@@ -3651,7 +3653,7 @@ MY HERO!”
 > **My Brother Dan’s Delicious**
 >
 > <img src="assets/PERSUASIVE TEXTS pack 2/media/image7.jpeg"
-> style="width:1.27083in;height:1.66667in" />
+>  />
 >
 > *Third grader, Joey, is left home alone. And what happens when you are
 > left home alone? Your imagination gets the best of you and sometimes
@@ -5232,7 +5234,7 @@ Text Studied:
 |                 |                                    |                                          |                  |
 
 > <img src="assets/PERSUASIVE TEXTS pack 2/media/image8.png"
-> style="width:6.72708in;height:7.87292in" />
+>  />
 
 **Persuasive Mentor Texts**
 
