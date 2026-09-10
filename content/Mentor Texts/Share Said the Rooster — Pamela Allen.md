@@ -107,5 +107,3 @@ And that’s the last story
 of these two little men.
 
 Good-bye Billy. Good-bye Ben.
-
-Nursery Rhymes
