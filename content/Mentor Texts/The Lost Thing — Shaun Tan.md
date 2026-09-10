@@ -163,3 +163,11 @@ I never said it was.
 
 And don’t ask me what the moral is. I mean, I can’t say that the thing
 actually belonged in the place where it ended up. In fact, none of the
+things there really belonged. They all seemed happy enough though, so
+may be that didn’t matter. I don’t know …
+I still thing about that lost thing from time to time. Especially when I
+see something out of the corner of my eye that doesn’t quite fit. You
+know, something with a weird sad, lost sort of look.
+I see that sort of thing less and less these days though. Maybe there
+aren’t many lost things around anymore. Or maybe I’ve stopped noticing
+them too bust doing other stuff, I guess.

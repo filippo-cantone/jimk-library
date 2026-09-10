@@ -63,3 +63,6 @@ the way it began
 but suddenly there it is
 
 right in front of you
+bright and vivid
+quietly waiting
+just as you imagined it would be
