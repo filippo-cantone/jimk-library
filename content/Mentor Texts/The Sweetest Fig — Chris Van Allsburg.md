@@ -109,5 +109,3 @@ own face!
 
 “Time for your walk,” it said. “Come to Marcel.” A hand reached out and
 grabbed him. Bibot tried to yell, but all he could do was bark.
-
-|                    |                    |                         |
