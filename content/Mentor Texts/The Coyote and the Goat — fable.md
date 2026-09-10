@@ -50,4 +50,3 @@ The worried Goat said, "What about me?”
 
 “You?” said Coyote. “| hope that you have learned a lesson! You
 should know what you are getting into or you may get into trouble.”
-SS SS

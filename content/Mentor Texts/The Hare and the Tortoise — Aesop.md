@@ -45,6 +45,3 @@ could carry him, when he reached the other end of the field
 ; he found the Tortoise there already, waiting for him. The
 Tortoise had won the race after all! |
 Retold from, sop
-t
-
----

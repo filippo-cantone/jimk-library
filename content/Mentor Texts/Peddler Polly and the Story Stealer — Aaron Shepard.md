@@ -209,3 +209,14 @@ horse’s back.
 
 “My Story Sucker!” cried Dr. Spellbinder as the balloon floated away with his
 invention.
+“I don’t guess you'll need it where you're going,” said Peddler Polly. “For a crime
+like shutting up stories, a judge is sure to shut you up—unhappily ever after.”
+HEE
+A few weeks later, when all of Dr. Spellbinder’s Storyboxes had been opened and
+the stories returned to their tellers, the people of Taletown held a big storytelling
+festival on the town square.
+“And our special guest for today,” announced Mayor Bigwig, “is Peddler Polly!”
+“Hooray!” cried Penny, and everybody cheered.
+“Well, thanks,” said Peddler Polly. “And now I'll tell a story called ‘Peddler Polly
+and the Story Stealer.”
+And that’s a tale they'll always tell in Taletown.
