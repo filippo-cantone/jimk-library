@@ -45,5 +45,3 @@ because a moose could never manage,
 because opossums might wear it upside down by mistake,
 
 and most of all, because it might be very embarrassing.
-
-## Bibliography Vocabulary 10

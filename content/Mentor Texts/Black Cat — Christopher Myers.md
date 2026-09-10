@@ -6,7 +6,7 @@ completeness: full
 tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
-note: "Pack version includes fill-in worksheet blanks at the end"
+note: "Pack prints the poem twice: clean copy, then worksheet version with fill-in blanks; both kept"
 ---
 
 # Black Cat
@@ -130,22 +130,6 @@ where’s your home?
 black cat answers …
 
 anywhere I roam
-
-Lessons:
-
-Read Aloud: Black Cat Brainstorm cat movements.
-
-Read Along
-
-Choral Reading
-
-Independent Writing using scaffolding provided.
-
-Focus – vivid verbs.
-
-Independent Writing – free verse.
-
-
 
 **Black Cat
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -277,3 +261,7 @@ is there a place of your own?
 we want to know,
 
 where’s your home?
+
+black cat answers …
+
+anywhere I roam
