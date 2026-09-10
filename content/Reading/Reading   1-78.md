@@ -26,54 +26,7 @@ READING
 
 <!-- page 2 -->
 
-Aa
-
-Sjuepnys
-Aq
-phoyy yuly
-
-aou2uaju07 bpey
-Spy ‘dapuy
-
-asn
-LNAQN3daONI
-
-AG/HLIM HLIM OL
-Sjuapn{s /dayove4 Squapnis/sayo0es Aaya
-Aq Aq Aq
-pnojy yuyu, phojy yur — pnojy yury
-
-BADYS “Al” HUI,
-Bbpy voujung
-byo4 “dioay
-
-Spa paping
-
-bpy peuvys
-phojy poay
-
-[ aot19vea aaaing | | 7aqow
-
-Auyiqisuodsay Jo
-asvajay [onpog | —- SITOIILVALS
-
-burjuiy, si burppay
-
-Buyjarey  -
-
-Bulsiupuuing = -
-buisisaysuds
-
-svapr
-juojuodwy Guiunusasaq
-BulquauajuTz
-BHuuolssan’
-Bursiponsi,
-abpajmouy) voig
-
-buluvay buss
-
-9NIQV3aa
+*[Decorative title page — no readable text in scan.]*
 
 <!-- page 3 -->
 
@@ -84,9 +37,9 @@ Most of the Reading time in the classroom must be spent by the children
 READING.
 
 Framework: Readers’ Workshop
-« Mini-lesson
-e Reading - Group work/Independent reading
-e Share
+- Mini-lesson
+- Reading - Group work/Independent reading
+- Share
 
 In the mini-lesson the teacher models through Think Aloud, demonstrating
 the use of strategies, and how they make a difference to getting meaning
@@ -95,23 +48,23 @@ from print.
 In reading time students can practise in small groups, pairs, and
 independently.
 
-In share time the class can talk and reflect on the use of strategies. It isa
+In share time the class can talk and reflect on the use of strategies. It is a
 learning time as well. A great time also for assessment.
 
 This follows the Gradual Release of Responsibility Model (David Pearson).
 
-e Teacher modelling - explaining strategies, thinking aloud about the
+- Teacher modelling - explaining strategies, thinking aloud about the
 
 mental processes used to construct meaning.
 
-e Guided practice. Children practise strategies in pairs or small
+- Guided practice. Children practise strategies in pairs or small
 groups.
 
-e Independent practise where the students apply strategies to their
+- Independent practise where the students apply strategies to their
 own reading. If they are using the strategies independently then
 comprehension will happen.
 
-e Assessment. Handy to take notes during guided reading, reading
+- Assessment. Handy to take notes during guided reading, reading
 conferences, and share time. During these times children share
 their thinking - metacognition.
 
@@ -192,7 +145,7 @@ gems that might turn into more developed pieces of writing.
 
 <!-- page 6 -->
 
-e Double Entry Journals
+- Double Entry Journals
 Copy sentences or words from the text in the left column, write
 thinking in the right side.
 
@@ -253,22 +206,22 @@ are expected to know which strategies to use for effective comprehension.
 
 Teachers need to:
 
-e Understand the cognitive processes used by proficient readers
+- Understand the cognitive processes used by proficient readers
 
-e Provide explicit and in-depth instruction on these strategies
+- Provide explicit and in-depth instruction on these strategies
 
-e Use authentic and challenging texts in the instruction i.e. high
+- Use authentic and challenging texts in the instruction i.e. high
 quality literature and well written non-fiction
 
-e Give feedback to the students during conferences, guided reading,
+- Give feedback to the students during conferences, guided reading,
 share time
 
-e Demonstrate how one strategy build on another, even if dealing
+- Demonstrate how one strategy builds on another, even if dealing
 with them separately.
 
 Implications for our school:
-e What books will we use to model the use of the strategy?
-e Quality is better than quantity.
+- What books will we use to model the use of the strategy?
+- Quality is better than quantity.
 
 We need to carefully choose the books we are using to teach strategies.
 Obviously books lend themselves to different or several strategies.
@@ -428,7 +381,7 @@ minilesson, individual reading, conferring, and sharing) designed to help youngs
 become more effective readers. These experiences can and dé occur simultaneously in
 the classroom. The reading workshop includes:
 
-% Independent Reading
+- Independent Reading
 
 > Individual students read a text, usually of their own choosing.
 
@@ -438,7 +391,7 @@ the classroom. The reading workshop includes:
 students, and facilitate a shared discussion to extend their understanding
 and enjoyment.
 
-% Guided Reading
+- Guided Reading
 
 > Asmail group of students work with the teacher ona particular reading
 strategy.
@@ -448,7 +401,7 @@ introduce it, and provide supportive teaching that helps the group
 understand targeted skills and strategies that will help them become better
 readers.
 
-% Literature Study
+- Literature Study
 
 > A group of readers discuss various aspects of a text or a set of related
 texts and sometimes work on projects to extend and share their learning,
@@ -483,7 +436,7 @@ Independent Reading Guided Reading Literature Study
 
 Group Share and Evaluation
 
-% Readers learn how to work together as a community, supporting one another as well
+- Readers learn how to work together as a community, supporting one another as well
 
 as pursuing individual goals.
 
@@ -495,9 +448,9 @@ The reading workshop is designed to build each student's strengths and meet his 
 
 her needs.
 
-% Readers-take responsibility for their learning.
+- Readers-take responsibility for their learning.
 
-% The reading workshop is rigorous and challenging, with clear expectations for
+- The reading workshop is rigorous and challenging, with clear expectations for
 students’ accomplishments.
 
 FEE
@@ -559,42 +512,42 @@ Easy Books
 Ask yourself these questions. If you answer yes, this book is probably an easy book for
 you. EASY books help you to read more smoothly and are fun to read aloud and silently.
 
-e Is it a favourite book you have read before?
+- Is it a favourite book you have read before?
 
-e Do you understand the story (text) very well?
+- Do you understand the story (text) very well?
 
 © Do you know (can understand and read) just about every word?
-° Can you read it easily and smoothly?
+- Can you read it easily and smoothly?
 
 Just~Right Books
 Ask yourself these questions. If you answer yes, this book is probably a "JUST-
 RIGHT" book for you. “Just-right" books help you learn the most because you can
 figure out most of the words and you understand what's going on in the text.
 
-e Is this an interesting book that you want to read?
+- Is this an interesting book that you want to read?
 
-e Are you familiar with the content, author, series, genre?
+- Are you familiar with the content, author, series, genre?
 
-e Can you tell another person what is happening in the story and/or what
+- Can you tell another person what is happening in the story and/or what
 you're learning?
 
-e Do you sometimes need to reread a part to understand it?
+- Do you sometimes need to reread a part to understand it?
 
 2 Are there just a few words per page you don't know?
 
-e When you read are most places smooth and some choppy?
+- When you read are most places smooth and some choppy?
 
 Hard Books
 Ask yourself these questions, If you answer yes, this book is probably a HARD book
 for you. Spend a little time with it now and learn what you can. Perhaps someone
 can read the book to you. give it another try on your own later.
 
-° Are you interested in reading this book?
+- Are you interested in reading this book?
 
-° Are you confused about what is happening in most of this book?
-e Isit hard to understand even when you reread?
+- Are you confused about what is happening in most of this book?
+- Isit hard to understand even when you reread?
 
-e Do you need lots of help to read this book?
+- Do you need lots of help to read this book?
 
 Ref. Reading Essentials - R.Routman
 
@@ -1162,47 +1115,47 @@ is disjointed. Keep it an enjoyable, naturally well-paced experience.
 
 READ ALOUD TO CHILDREN
 
-e Read aloud at least every day
+- Read aloud at least every day
 
-e Try to set aside at least one scheduled time each day for a story
+- Try to set aside at least one scheduled time each day for a story
 
-e Remember the art of listening is an acquired skill, It must be taught
+- Remember the art of listening is an acquired skill, It must be taught
 and cultivated gradually. Learners need many demonstrations of how
 texts are constructed, used and enjoyed.
 
-e Picture books can be read to all age groups.
+- Picture books can be read to all age groups.
 
 Make sure the children can see the pictures easily.
 
-e Position yourself where both you and the children are comfortable.
+- Position yourself where both you and the children are comfortable.
 
-e Adjust your pace to fit the story. Reading aloud is a skill, which, when
+- Adjust your pace to fit the story. Reading aloud is a skill, which, when
 done with expression and enjoyment, captures the children’s interest.
 
-e Preview the book - so you know what it is about, and can decide if it is
+- Preview the book - so you know what it is about, and can decide if it is
 suitable for the children, or will meet the particular needs you have
 decided to use in your program.
 
 @ Don't continue reading a book if it becomes obvious it is a poor choice.
 Admit the mistake and choose another,
 
-e Vary the genre, subject matter, style of writing and length of the
+- Vary the genre, subject matter, style of writing and length of the
 material so the children can experience a wide variety of reading
 material.
 
-e Vary the level of difficulty of the Read Alouds. Read some simple
+- Vary the level of difficulty of the Read Alouds. Read some simple
 stories as well as more complex material so children can see that all
 reading is valued, whether it is an ‘easy’ read or not.
 
-e If modelling a strategy tell the children what that strategy is. E.g. If
+- If modelling a strategy tell the children what that strategy is. E.g. If
 questioning then there will be question before, during, and after the
 reading. If visualising you might tell the students what you are
 picturing in your mind, or ask them for their pictures,
 
-° Allow time for discussion after reading. Model questions on what you
+- Allow time for discussion after reading. Model questions on what you
 would like children to focus on in their own reading.
 
-e Avoid using the Read Aloud as a ‘reward’. It is an important part of
+- Avoid using the Read Aloud as a ‘reward’. It is an important part of
 the normal, daily Balanced Literacy program.
 
 <!-- page 27 -->
@@ -1212,55 +1165,55 @@ SHARED READING
 What is shared reading?
 Shared reading:
 
-% introduces youngsters to a variety of authors, illustrators, and genres
+- introduces youngsters to a variety of authors, illustrators, and genres
 
-% provides opportunities for them to explore the ways in which authors communicate
+- provides opportunities for them to explore the ways in which authors communicate
 meaning ‘
 
-% provides youngsters with an enjoyable reading experience
+- provides youngsters with an enjoyable reading experience
 
 What is the role of the teacher?
 The teacher:
 
-% selects materials with a particular focus, based upon his or her assessment of
+- selects materials with a particular focus, based upon his or her assessment of
 students’ needs (Three questions help provide the focus.).
 
 1. What strategies and skills do my students need to know and use?
 2. What material will I use to demonstrate these Strategies and skills?
 3. Will it engage my students and invite rereadings?
 
-% models effective reading strategies, skills, and behaviors
+- models effective reading strategies, skills, and behaviors
 
-% provides youngsters with access to print either through multiple copies of the
+- provides youngsters with access to print either through multiple copies of the
 same text, charts, or overhead transparencies
 
-% uses a wide variety of genre, including fiction and nonfiction, to inform and connect
+- uses a wide variety of genre, including fiction and nonfiction, to inform and connect
 literacy to content area study in science, social studies, and mathematics
 
-% reads to and with students while encouraging them to be able to read by
+- reads to and with students while encouraging them to be able to read by
 themselves with increasing independence
 
-% invites active participation
+- invites active participation
 
-% “watches” youngsters as an informal assessment to help determine instructional
+- “watches” youngsters as an informal assessment to help determine instructional
 focus
 
 Which strategies should teachers be prepared to model?
 Before-Reading Strategies:
 
-% preview text: make predictions: skim through material: set a purpose for reading: ask
+- preview text: make predictions: skim through material: set a purpose for reading: ask
 questions; activate prior knowledge; make personal connections
 
 During-Reading Strategies:
 
-% visualize: verify predictions/adjust predictions/make new ones: answer questions/ask new
+- visualize: verify predictions/adjust predictions/make new ones: answer questions/ask new
 ones; self-monitor for understanding (Does this make sense?), self-correct, reread, read
 ahead; adjust reading rate to material: discuss text, take notes; use punctuation to assist
 meaning
 
 After-Reading Strategies
 
-% reflect on reading: confirm, adjust predictions; skim, reread for understanding: locate
+- reflect on reading: confirm, adjust predictions; skim, reread for understanding: locate
 specific information; summarize main points; retell: respond to reading - talking, writing,
 drawing, performing: feel successful and want to read more
 
@@ -1270,20 +1223,20 @@ SHARED READING
 
 Characteristics
 
-% The teacher reads aloud from a text that students can also see
+- The teacher reads aloud from a text that students can also see
 
 > onan overhead
 > ona sheet of paper or ina book in front of them
 
 Appropriate Text
 
-% texts that encourage class involvement in the reading, for example:
+- texts that encourage class involvement in the reading, for example:
 
 > poems
 > plays
 > speeches, etc.
 
-% texts that the teacher wants to use as the focus of a close textual analysis, for
+- texts that the teacher wants to use as the focus of a close textual analysis, for
 example:
 
 web pages
@@ -1299,7 +1252,7 @@ Vvuve
 
 Purposes
 
-% to model of effective reading practices, such as:
+- to model of effective reading practices, such as:
 > making connections
 > identifying the main idea
 identifying supporting details
@@ -1313,7 +1266,7 @@ clarifying vocabulary & ideas
 
 VUVVVY
 
-% to assist students in identifying language and structural features of the text that
+- to assist students in identifying language and structural features of the text that
 help them access meaning
 
 <!-- page 29 -->
@@ -1623,7 +1576,7 @@ the title and illustrations
 
 - make connections
 
-- use the ilustrations to notice details
+- use the illustrations to notice details
 
 - use prediction throughout the book
 
@@ -1673,7 +1626,7 @@ Whole class
 
 Demonstration lesson
 
-Something from Nething by Phoebe Gilman
+Something from Nothing by Phoebe Gilman
 
 Focus: Prediction
 
@@ -2225,12 +2178,12 @@ What Can You Say Besides
 “Sound it Out?”
 
 To help children monitor their reading:
-e Wait.
-e Try that again.
-e Are you right?
+- Wait.
+- Try that again.
+- Are you right?
 
 To help children use meaning (context [semantics], or prior knowledge):
-e Look at the picture to help yourself.
+- Look at the picture to help yourself.
 
 Does that make sense?
 
@@ -2246,15 +2199,15 @@ Skip and retun
 
 To help children use language structure (syntax):
 © Does that sound night?
-e Can we say it that way?
+- Can we say it that way?
 
 To help children cress check (Use two er three sources of information):
 2 Check to see if what you said looks right and makes sense.
-e Check to see if what you said makes sense and looks right.
-e Itcould be , but look at
+- Check to see if what you said makes sense and looks right.
+- Itcould be , but look at
 
 To help children use visual information (priat):
-e Read all the words up to the tricky part.
+- Read all the words up to the tricky part.
 Say more of the word.
 Does that look right to you?
 Get your mouth ready to say it.
@@ -2266,7 +2219,7 @@ Do you know another word that looks/sounds like that?
 6 6 @ © 6 & @
 
 To help children problem solve independently:
-e What can you do to.help yourself?
+- What can you do to.help yourself?
 ® J like the way you tried to help yourself
 Good readers keep trying - good for you!
 I like the way you.worked on the hard part
@@ -2305,21 +2258,21 @@ parent observations, etc
 
 Then —
 
-e Group children working at approximately the same developmental stage and learning needs,
+- Group children working at approximately the same developmental stage and learning needs,
 interests and attitudes
 
-e Identify teaching purpose
+- Identify teaching purpose
 
-e Select of suitable new reading material — considering student need, interest, experience
+- Select of suitable new reading material — considering student need, interest, experience
 
-e Identify in the text features of language , structure or content that will support the reader
+- Identify in the text features of language , structure or content that will support the reader
 
-e Anticipate those features that may offer the reader a challenge.
+- Anticipate those features that may offer the reader a challenge.
 
-e Consider your possible prompts, comments and questions that will support your teaching
+- Consider your possible prompts, comments and questions that will support your teaching
 purpose
 
-e Consider how the learning is to be recognised and how you will document evidence
+- Consider how the learning is to be recognised and how you will document evidence
 
 Then conduct the Guided reading session with the group (no more than 8)
 
@@ -2646,32 +2599,7 @@ Guided Reading Planning Sheet - Lorna Ward, Jim Kinniburgh Summer {nstitute 1999
 
 <!-- page 59 -->
 
-Boo ko Oriewtation:
-
-Pevsencr| Cx periences.
-“Leas Bayonne get a ost /pot toe + leas clone
-somethire, silly /Poany ?
-
-Cover,
-‘Can “you prestvet wheterm this cat aetvaliy,
-tg Kes ridinde cA ‘skkateboa-eal 2°
-LIhak Fells yer that ? VL Ex pressis |
-De es toe iustrathion give “yo any tdea
-about what kre of leookk thes fs geting to be ?
-
-BleL . Wows else cea coe leery about wheat
-lew tel of Lio ak. this iS leePo-e ua) & Ope ws
-the cover ? — lub-coluce bie Lk.
-
-Ens ~ We beck is & fette-
-- Miss WO Sen Ss the
-_ We lethes,
-
-Fea che
-(Lo mn Sxeuse fo Art
-clorig, homework,
-— Ervdsberr ts the nane eof the cat.
-Desecss cat'S nAane \ Looky Cin skher >
+*[Guided-reading book-orientation sheet (handwritten/illustrated master) — OCR unreadable; see scan p.59.]*
 
 <!-- page 60 -->
 
@@ -2830,7 +2758,7 @@ extension, development of a theme, development of concepts, skills.
 
 Will it be likely to promote further interest in reading?
 
-Is the rest of the class suitably invaived in worthwhile reading tasks?
+Is the rest of the class suitably involved in worthwhile reading tasks?
 
 There should be few difficulties so that reading is successful, not a struggle.
 
@@ -2838,9 +2766,9 @@ There should be few difficulties so that reading is successful, not a struggle.
 
 INTRODUCTION - Grab their interest!
 
-° Relate the story to the children’s own experiences.
+- Relate the story to the children’s own experiences.
 
-e Show a picture, object or illustration which will arouse children’s interests, ;
+- Show a picture, object or illustration which will arouse children’s interests, ;
 
 @ Draw attention to other books, stories or features of the class programme which
 relate to this selection.
@@ -2848,26 +2776,26 @@ relate to this selection.
 © Depending on how the material relates to the children's interests and experiences,
 discuss concepts and ideas.
 
-° Give the children oral/aural experience with vocabulary with which you think they may
+- Give the children oral/aural experience with vocabulary with which you think they may
 have difficulty. Don't “teach! these words out of context.
 
-e Alert children to any unusual features in the text such as speech bubbles, print
+- Alert children to any unusual features in the text such as speech bubbles, print
 scattered over pages, print embedded in illustrations.
 
-° Discuss the author, title, illustrations and perhaps read the first paragraph of the
+- Discuss the author, title, illustrations and perhaps read the first paragraph of the
 story. Invite children to predict what the story is about. (Be careful not to overdo
 this and put them off reading it!)
 
 SETTING THE PURPOSES FOR READING
 
-e Make sure that the children know why they are reading this particular story or text.
+- Make sure that the children know why they are reading this particular story or text.
 
-e When you have introduced the book, have the children ask who- what- where- how- why
+- When you have introduced the book, have the children ask who- what- where- how- why
 questions so that they have their own purpose for reading.
 
-e Make sure that the children are clear about what they are rzquired to read.
+- Make sure that the children are clear about what they are rzquired to read.
 
-e Make sure the children know what they are required to do when they finish silent
+- Make sure the children know what they are required to do when they finish silent
 
 reading.
 
@@ -2912,23 +2840,23 @@ Full discussion allows children to -
 
 <!-- page 67 -->
 
-e Clarify, confirm, differ, question, agree, deepen understanding, extend vecabulary,
+- Clarify, confirm, differ, question, agree, deepen understanding, extend vecabulary,
 develop skills.
-° Talk about their own background and experiences in relation to the story.
+- Talk about their own background and experiences in relation to the story.
 During discussion the teacher will:
-e Allow time and space for children to talk about their impressions, reactions and
+- Allow time and space for children to talk about their impressions, reactions and
 attitudes to the story.
-e Encourage the children to search back through the text and read to prove a point or
+- Encourage the children to search back through the text and read to prove a point or
 respond to a question.
-e Pose questions - particularly related to the purposes of reading.
+- Pose questions - particularly related to the purposes of reading.
 2 Encourage the children to present a different point of view.
-e Whenever possible, set purposes fer further reading.
-e Be careful not to do all the talking or kill discussion through over-questioning.
-° Help the.children to become aware of mental images as they read through, talking about
+- Whenever possible, set purposes fer further reading.
+- Be careful not to do all the talking or kill discussion through over-questioning.
+- Help the.children to become aware of mental images as they read through, talking about
 scenes read.
 s Teach skills, e.g. how to work on unfamiliar words.
-e Encourage children to form their own questions as they read.
-e Stress the purposes of reading:
+- Encourage children to form their own questions as they read.
+- Stress the purposes of reading:
 - understanding the story
 - getting information
 - practicing reading skills
@@ -3119,13 +3047,13 @@ Clarifying
 
 Uses context and word knowledge to overcome difficulties.
 
-e unfamiliar vocabulary
+- unfamiliar vocabulary
 
 ¢ text which is structured or Set out in an unfamiliar way
 
 @ new or difficult concepts
 
-° when they lose track of the meaning
+- when they lose track of the meaning
 
 Strategies
 
@@ -3158,11 +3086,11 @@ appropriate question
 
 When suitable questions have been asked, the student can then:
 
-e offer possible solutions
+- offer possible solutions
 
 © find relevant information to answer questions
 
-° monitor their own camprehension
+- monitor their own camprehension
 
 © help others answer questions they have
 
@@ -3193,20 +3121,20 @@ In surnmarising the student needs ¢o:
 
 Teachers should:
 
-e be familiar with the text
+- be familiar with the text
 
 ® provide a brief focused introduction
 
-° where appropriate, link the text being read to current content areas
+- where appropriate, link the text being read to current content areas
 
 ¢ model the strategies, and Support students in using them
 
-e regularly monitor students’ use of strategies
+- regularly monitor students’ use of strategies
 
-° use information gained through monitoring as a guide to the amount of
+- use information gained through monitoring as a guide to the amount of
 further support and practice needed by students
 
-° reduce their own involvement in the dialogue as soon as possible.
+- reduce their own involvement in the dialogue as soon as possible.
 
 During the group lesson, students discuss the text only in small chunks.
 
@@ -3237,7 +3165,7 @@ discuss their impressions after reading silently. Encourages students to
 assume responsibility for the discussion. Often the silent reading has
 taken place the previous day, and the journal jogs students’ memories.
 
-e Respond to open-ended question fone usually enough).
+- Respond to open-ended question fone usually enough).
 By being asked inferential and critical questions, the reader is focused on
 higher-level thinking, and the literal level takes care of itself. E.g.
 
@@ -3275,34 +3203,34 @@ E.g. Comments on a particular character.
 What do you learn about ......?
 Students infer traits through author's language.
 
-e Reflect on personal reactions while reading.
+- Reflect on personal reactions while reading.
 As you are reading, write down somé thoughts that are going
 through your head.
 Were you reminded of something in your own life as you were
 reading?
-What was your overall reaction te what you just read?
+What was your overall reaction to what you just read?
 What questions came te your mind as you were reading?
 
 2 Choose several unknown vocabulary words - perhaps that give insight
 into characters’ personality? vivid picture of setting.
 
-° THustrate part of text. From author's description draw a particular
+- THustrate part of text. From author's description draw a particular
 character/setting.
 
 2 Examine author's style and motives.
 
-e Freewrite
+- Freewrite
 
-e Tagine another point of view.
+- Tagine another point of view.
 If you were the main character what would you do and why?
 Write @ letier to the main character.
 
-e Make up questions for discussion.
+- Make up questions for discussion.
 
-° Respond to a final question when the book is finished.
-What is your reaction te this book?
+- Respond to a final question when the book is finished.
+What is your reaction to this book?
 
-Why de you think the author wrote this book?
+Why do you think the author wroto this book?
 
 Ref. Routman,R Invitations
 
@@ -3312,22 +3240,22 @@ INDEPENDENT READING
 
 How To Begin
 
-% Begin with a whole group meeting that includes a few book talks and a minilesson,
+- Begin with a whole group meeting that includes a few book talks and a minilesson,
 
 > Book talks allow you to present a new book, inform a group of youngsters
 about books of particular interest, or provide opportunities for them to
 learn, sharing just enough information to whet their appetites.
 
-> Aminilesson is a short focused lesson on something most of your readers
+> A minilesson is a short focused lesson on something most of your readers
 need help learning. Occasionally, the minilesson may need to be longer
 because of the particular content you plan to address.
 
 What Happens Next
 
-% Students read independently for about forty minutes, usually a text they've
+- Students read independently for about forty minutes, usually a text they've
 chosen, but sometimes one you've assigned.
 
-& Youngsters read silently, without talking. The room is very quiet. You may wish to
+-  Youngsters read silently, without talking. The room is very quiet. You may wish to
 play soft classical music.
 
 > You circulate, talking quietly with individual students and taking notes that will
@@ -3336,24 +3264,24 @@ document progress,
 
 And...
 
-% Periodically, you ask youngsters ta respond in writing to what they've read. The
-response is usually shared with the whole group, occasionally with smail groups or a
+- Periodically, you ask youngsters to respond in writing to what they've read. The
+response is usually shared with the whole group, occasionally with small groups or a
 partner.
 
-% Asa group, youngsters evaluate their individual work and their ability to work
+- As a group, youngsters evaluate their individual work and their ability to work
 together.
 
 Benefits
 
-% Independent reading, unlike "free reading" or “sustained silent reading", is framed
+- Independent reading, unlike "free reading" or “sustained silent reading", is framed
 by instruction; you actively teach during this time, rather than read your own book.
-% Teaching happens:
+- Teaching happens:
 
-> inthe minilesson
+> in the minilesson
 > in the instructional conversations you have with individual readers
-> inthe sharing and feedback that takes place at the end
+> in the sharing and feedback that takes place at the end
 
-% Independent reading provides an opportunity for you to assess the reading
+- Independent reading provides an opportunity for you to assess the reading
 progress of individual students,
 
 Adapted from Guiding Readers and Writers. by Irene Fountas and Gay Su Pinnell
