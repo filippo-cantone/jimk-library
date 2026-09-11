@@ -6,10 +6,10 @@
 > questions and Phill's recorded answers. Nothing else in the repo gives
 > instructions — if another doc starts doing so, merge it here or delete it.
 
-**Status (2026-09-11): Phase 1 complete and committed. Phase 2 needs Phill's
-approval before anything starts. Next step: Phill approves the Phase 2
-restructuring plan (strand tree below) — until then, do not reorganise,
-rebuild the site, or convert anything new.**
+**Status (2026-09-11): Phase 2 APPROVED by Phill — in progress. Task 1 done
+(mechanical-pass sample verified, all good). Now: Task 2 (Reader's Theatre
+dedupe — comparison done, Phill to decide). Until the IA map (Task 5) is
+approved, do not reorganise, rebuild the site, or convert anything new.**
 
 ## Why (the goal)
 
@@ -70,13 +70,24 @@ links, frontmatter throughout, no `* 2` vestige dirs, source originals
 untouched, committed and pushed. Per-folder trail and Phill's recorded
 answers: `REVIEW-LOG.md`.
 
-## Phase 2 — Information architecture (NOT STARTED — needs Phill's approval)
+## Phase 2 — Information architecture (APPROVED 2026-09-11 — in progress)
 
 One-page map: strand tree (Reading · Writing · Genres · Author studies ·
 Mentor texts · Vocabulary · Inferring · First 20 Days) + filters (strand,
 genre, year level where stated, resource type: mini-lesson / demonstration
 text / template / list). Merge duplicated subtrees, don't publish twice.
-Content restructuring happens here, not before.
+
+### Tasks (approved by Phill 2026-09-11)
+
+- [x] 1. Leftover Phase 1 sample — mechanical pass verified by Phill, all good.
+- [ ] 2. Reader's Theatre dedupe — comparison done; Phill to decide.
+- [ ] 3. Strand-tag audit — reconcile frontmatter against the 8-strand tree.
+- [ ] 4. Resource-type tagging proposal — definitions + coverage estimate.
+- [ ] 5. Draft one-page IA map — the approval gate before restructuring.
+- [ ] 6. Apply the restructure — only after the IA map is approved, folder by
+  folder, one commit each.
+
+Content restructuring happens in Task 6, not before.
 
 ## Phase 3 — Build the site (NOT STARTED)
 

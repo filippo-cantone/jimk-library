@@ -17,7 +17,7 @@ Commits are per-folder so anything can be reverted or redone piecemeal.
 - [x] The Boy Who Loved Words / Bigmama's standalones accepted.
 - [x] Time Somebody Told Me — Quantedius Hall standalone accepted.
 - [x] Author Study – Patricia Polacco reviewed status accepted.
-- [ ] 2026-09-11 mechanical pass (49 Author Studies strand + image-attr strip, 8 supplement/index/nursery/craft tags, 3 photo-library noise strips) — Phill to verify a sample.
+- [x] 2026-09-11 mechanical pass (49 Author Studies strand + image-attr strip, 8 supplement/index/nursery/craft tags, 3 photo-library noise strips) — verified by Phill, all good.
 
 ## Folder progress (updated 2026-09-11)
 
@@ -35,4 +35,4 @@ Commits are per-folder so anything can be reverted or redone piecemeal.
 - [x] Mentor Texts (289 files) — lifts + 8 supplement/index/nursery/craft tags; all `likely` now confirmed by Phill
 - [x] Writer's Notebook (23) + Writing Voice (20) — frontmatter + image-attr noise strip
 - [ ] Reader's Theatre (top-level dup of Reading/Reader's Theatre — dedupe decision needed)
-- [ ] Phase 2 restructuring — NOT STARTED, needs Phill's approval
+- [ ] Phase 2 restructuring — APPROVED 2026-09-11, in progress (tasks in MASTERPLAN.md)
