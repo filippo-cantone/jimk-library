@@ -97,3 +97,11 @@ strategy pages.
 Cloudflare Pages open link (free, unmetered; deploy via CLI/git). Updates
 are a git push. Teacher feedback drives further cleanup; new material enters
 via convert → review → publish.
+
+## Open next — genre/year/trait tagging pass (in progress 2026-09-11)
+
+Three new frontmatter fields — `genre:` (what kind of text), `year:` (only
+where Jim states it), `traits:` (list of writing-craft elements and reading
+strategies the book serves). Guides take genre from their folder path
+mechanically; books get agent judgment grounded in Jim's own lists (Mentor
+Lists 2012, Craft Mentor List, strategy guides' named mentor texts).
