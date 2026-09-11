@@ -10,13 +10,11 @@ strand: writing-voice
 >
 > **(14)**
 >
-> ![http://farm4.staticflickr.com/3587/3351697595_10a00ca3cd_b.jpg](assets/Writing - Voice 14/media/media/image1.jpeg){width="6.268055555555556in"
-> height="6.651283902012248in"}
+> ![http://farm4.staticflickr.com/3587/3351697595_10a00ca3cd_b.jpg](assets/Writing - Voice 14/media/media/image1.jpeg)
 >
 > **Voice in Non-Fiction**
 >
-> ![http://farm4.staticflickr.com/3587/3351697595_10a00ca3cd_b.jpg](assets/Writing - Voice 14/media/media/image2.jpeg){width="1.894582239720035in"
-> height="2.0104166666666665in"}
+> ![http://farm4.staticflickr.com/3587/3351697595_10a00ca3cd_b.jpg](assets/Writing - Voice 14/media/media/image2.jpeg)
 
 **Voice 14**
 
@@ -433,8 +431,7 @@ an earthworm is a living fertiliser factory.
 
 ***Oh, Rats! The Story of Rats and People*  Albert Marrin.**
 
-> ![9826](assets/Writing - Voice 14/media/media/image3.jpeg){width="3.3125in"
-> height="2.5625in"}
+> ![9826](assets/Writing - Voice 14/media/media/image3.jpeg)
 
 Able to claw straight up a brick wall, squeeze through a pipe the width
 of a quarter, and gnaw through iron and concrete, rats are also revealed
@@ -533,8 +530,7 @@ memory.
 A natural acrobat, the rat has a marvellous sense of balance. It can
 scurry along telephone wires without missing a step.
 
-![http://media-cache-ec0.pinimg.com/originals/9c/6f/2a/9c6f2ab200ae4cc599e25bfadab5f0dc.jpg](assets/Writing - Voice 14/media/media/image4.jpeg){width="6.268055555555556in"
-height="4.728231627296588in"}
+![http://media-cache-ec0.pinimg.com/originals/9c/6f/2a/9c6f2ab200ae4cc599e25bfadab5f0dc.jpg](assets/Writing - Voice 14/media/media/image4.jpeg)
 
 It uses its tail for balance, in much the same way that a circus
 tightrope walker uses a wooden pole. Rat experts believe it likes
@@ -673,8 +669,7 @@ mathematics and logic, in the human brain. A controversial study
 suggested that a rat's brain may be influenced in the same way, helping
 them learn to get out of mazes faster than other rats.
 
-![http://img1.imagesbn.com/p/9780547533940_p0_v1_s260x420.JPG](assets/Writing - Voice 14/media/media/image5.jpeg){width="2.7083333333333335in"
-height="2.9479166666666665in"}
+![http://img1.imagesbn.com/p/9780547533940_p0_v1_s260x420.JPG](assets/Writing - Voice 14/media/media/image5.jpeg)
 
 **This is Your Life Cycle**
 
@@ -1021,8 +1016,7 @@ and it's your turn to sit down and die, just remember ...
 
 THIS IS YOUR LIFE CYCLE!
 
-![874393](assets/Writing - Voice 14/media/media/image6.jpeg){width="3.3125in"
-height="2.9583333333333335in"}
+![874393](assets/Writing - Voice 14/media/media/image6.jpeg)
 
 In November, the air grows cold and the earth and all of its creatures
 prepare for winter. Animals seek food and shelter. And people gather
@@ -1334,8 +1328,7 @@ Bat loves the night.
 
 ![I love this book for teaching informational writing\... AND writing
 with two
-voices!](assets/Writing - Voice 14/media/media/image7.jpeg){width="3.7916666666666665in"
-height="4.166666666666667in"}
+voices!](assets/Writing - Voice 14/media/media/image7.jpeg)
 
 **Ice Bear Nicola Davies**
 
@@ -1354,11 +1347,9 @@ her great paws and suckles them. The book includes a short author\'s
 note with information about how global warming may affect polar bears,
 as well as an index.
 
-![http://b.vimeocdn.com/ts/154/124/154124659_640.jpg](assets/Writing - Voice 14/media/media/image8.jpeg){width="6.268055555555556in"
-height="3.5257808398950132in"}
+![http://b.vimeocdn.com/ts/154/124/154124659_640.jpg](assets/Writing - Voice 14/media/media/image8.jpeg)
 
-![http://www.candlewick.com/images/cwp_spreads/648/0763644412.int.1.jpg](assets/Writing - Voice 14/media/media/image9.jpeg){width="6.268055555555556in"
-height="3.4536986001749783in"}
+![http://www.candlewick.com/images/cwp_spreads/648/0763644412.int.1.jpg](assets/Writing - Voice 14/media/media/image9.jpeg)
 
 **Ice Bear Nicola Davies**
 
@@ -1460,8 +1451,7 @@ with speed, how to live in starlit day and sunlit night.
 Many polar bears and Inuit have passed since then and still we share our
 world with gratitude and pride.
 
-![1037240](assets/Writing - Voice 14/media/media/image10.jpeg){width="3.3125in"
-height="3.6041666666666665in"}
+![1037240](assets/Writing - Voice 14/media/media/image10.jpeg)
 
 The gentle quietness of the barn owl pervades the pages of this lovely
 story. The creature is the centre attraction for a girl and her
@@ -1612,8 +1602,7 @@ Grandpa smiled. "You know," he said. "I think they might."
 **Barn owls will come back to the same nest-site year after year if it
 stays safe and there is enough to eat.**
 
-![http://www.education.wisc.edu/ccbc/\_images/books/onetinyturtle.jpg](assets/Writing - Voice 14/media/media/image11.jpeg){width="2.8025656167979003in"
-height="3.0625in"}
+![http://www.education.wisc.edu/ccbc/\_images/books/onetinyturtle.jpg](assets/Writing - Voice 14/media/media/image11.jpeg)
 
 **One Tiny Turtle Nicola Davies**
 
@@ -1660,20 +1649,15 @@ turtles...same 3 categories as before.
 
 3\. Use online research to address student questions:
 
-![http://www.chapmanandwarnes.com/wp-content/uploads/spread154.jpg](assets/Writing - Voice 14/media/media/image12.jpeg){width="6.268055555555556in"
-height="3.216502624671916in"}
+![http://www.chapmanandwarnes.com/wp-content/uploads/spread154.jpg](assets/Writing - Voice 14/media/media/image12.jpeg)
 
-![http://www.chapmanandwarnes.com/wp-content/uploads/spread255.jpg](assets/Writing - Voice 14/media/media/image13.jpeg){width="6.268055555555556in"
-height="3.216502624671916in"}
+![http://www.chapmanandwarnes.com/wp-content/uploads/spread255.jpg](assets/Writing - Voice 14/media/media/image13.jpeg)
 
-![http://www.chapmanandwarnes.com/wp-content/uploads/spread354.jpg](assets/Writing - Voice 14/media/media/image14.jpeg){width="6.268055555555556in"
-height="3.216502624671916in"}
+![http://www.chapmanandwarnes.com/wp-content/uploads/spread354.jpg](assets/Writing - Voice 14/media/media/image14.jpeg)
 
-![http://www.chapmanandwarnes.com/wp-content/uploads/spread439.jpg](assets/Writing - Voice 14/media/media/image15.jpeg){width="6.268055555555556in"
-height="3.216502624671916in"}
+![http://www.chapmanandwarnes.com/wp-content/uploads/spread439.jpg](assets/Writing - Voice 14/media/media/image15.jpeg)
 
-![http://www.chapmanandwarnes.com/wp-content/uploads/spread540.jpg](assets/Writing - Voice 14/media/media/image16.jpeg){width="6.268055555555556in"
-height="3.216502624671916in"}
+![http://www.chapmanandwarnes.com/wp-content/uploads/spread540.jpg](assets/Writing - Voice 14/media/media/image16.jpeg)
 
 **About Turtles**
 
@@ -1785,8 +1769,7 @@ dives under the waves and swims. Swims and swims! Out into the arms of
 the ocean. Far, far out to sea, land becomes a memory waiting to wake in
 the head of the little turtle.
 
-![2395609](assets/Writing - Voice 14/media/media/image17.jpeg){width="3.3125in"
-height="2.1041666666666665in"}
+![2395609](assets/Writing - Voice 14/media/media/image17.jpeg)
 
 ***What's Eating You? Parasites---The Inside Story* by Nicola Davies**
 
@@ -1830,8 +1813,7 @@ to the voice of this intriguing little book that will have your students
 wanting you to read another page--and yet another. If only textbooks
 were more like this!
 
-![http://www.nature.com/nature/journal/v450/n7172/images/450946a-i1.0.jpg](assets/Writing - Voice 14/media/media/image18.jpeg){width="3.7291666666666665in"
-height="2.302760279965004in"}
+![http://www.nature.com/nature/journal/v450/n7172/images/450946a-i1.0.jpg](assets/Writing - Voice 14/media/media/image18.jpeg)
 
 1.You might begin by just talking about parasites. What are they? Where
 do they live? Are they all around us? Are they visible--or invisible? Or
@@ -1905,8 +1887,7 @@ this information in a report, speech, PowerPoint, film--or any form you
 wish. Talk about how presentation can be as important as ideas when it
 comes to getting the message across! - Six Trait Gurus
 
-![http://www.walker.co.uk/walkerdam/getimage.aspx?id=9781406318579-1&size=webuse](assets/Writing - Voice 14/media/media/image19.jpeg){width="2.8742279090113736in"
-height="4.166666666666667in"}
+![http://www.walker.co.uk/walkerdam/getimage.aspx?id=9781406318579-1&size=webuse](assets/Writing - Voice 14/media/media/image19.jpeg)
 
 **Inquiry Approach**
 
@@ -1956,8 +1937,7 @@ Sharing and reflecting: Students turn and talk with a partner about the
 model used for gathering information and why each part of the model is
 important.
 
-![http://i.imgur.com/BDmRjI2.jpg](assets/Writing - Voice 14/media/media/image20.jpeg){width="5.729166666666667in"
-height="3.9895833333333335in"}
+![http://i.imgur.com/BDmRjI2.jpg](assets/Writing - Voice 14/media/media/image20.jpeg)
 
 **Cameleons are Cool Steve Jenkins**
 
@@ -2190,13 +2170,11 @@ east coast of Africa. Most of the others live in mainland Africa.
 | what is!                                    |                        |
 +---------------------------------------------+------------------------+
 
-![Chameleons](assets/Writing - Voice 14/media/media/image21.jpeg){width="6.041666666666667in"
-height="7.239583333333333in"}
+![Chameleons](assets/Writing - Voice 14/media/media/image21.jpeg)
 
 **\**
 
-![http://media-cache-ak0.pinimg.com/736x/52/d6/14/52d614c07d903bdf50a5d0eac76dc4bd.jpg](assets/Writing - Voice 14/media/media/image22.jpeg){width="5.208333333333333in"
-height="4.385416666666667in"}
+![http://media-cache-ak0.pinimg.com/736x/52/d6/14/52d614c07d903bdf50a5d0eac76dc4bd.jpg](assets/Writing - Voice 14/media/media/image22.jpeg)
 
 The author craftily unites the simple and informative text with numerous
 vivid photographs (by Nic Bishop) of a chameleon's daily life. His
@@ -2207,11 +2185,9 @@ back of the book, further information is provided.
 
 KWHL Chart
 
-![http://www.animalhdwallpapers.com/wp-content/uploads/wallpapers/Animals/Chameleon-Eye-Computer-Background.jpg](assets/Writing - Voice 14/media/media/image23.jpeg){width="3.9791666666666665in"
-height="2.4869794400699914in"}
+![http://www.animalhdwallpapers.com/wp-content/uploads/wallpapers/Animals/Chameleon-Eye-Computer-Background.jpg](assets/Writing - Voice 14/media/media/image23.jpeg)
 
-![http://animal-backgrounds.com/download/2277/1024x1024/crop/chameleon-background-hd-wallpaper-1024x1024.jpg](assets/Writing - Voice 14/media/media/image24.jpeg){width="6.59375in"
-height="6.59375in"}
+![http://animal-backgrounds.com/download/2277/1024x1024/crop/chameleon-background-hd-wallpaper-1024x1024.jpg](assets/Writing - Voice 14/media/media/image24.jpeg)
 
 **\**
 
@@ -2333,8 +2309,7 @@ their own colours to tell males if they are friendly or would rather be
 left alone. Chameleons cannot hear sounds very well. So they use colour
 as a way to "talk" to each other.**\**
 
-![638392](assets/Writing - Voice 14/media/media/image25.jpeg){width="3.3125in"
-height="2.6770833333333335in"}
+![638392](assets/Writing - Voice 14/media/media/image25.jpeg)
 
 Bats hunt insects. They eat mosquitoes, moths, beetles, and
 grasshoppers. Bats
@@ -2639,11 +2614,9 @@ If a bat flies past you in the dark, listen closely. Maybe you can hear
 the soft fast flutter of its wings before it's gone. Even if you can't,
 you can be sure that the bat heard you.
 
-![http://www.rainbowresource.com/products/005230i1.jpg](assets/Writing - Voice 14/media/media/image26.jpeg){width="6.25in"
-height="5.28125in"}
+![http://www.rainbowresource.com/products/005230i1.jpg](assets/Writing - Voice 14/media/media/image26.jpeg)
 
-![583975](assets/Writing - Voice 14/media/media/image27.jpeg){width="3.3125in"
-height="2.8020833333333335in"}
+![583975](assets/Writing - Voice 14/media/media/image27.jpeg)
 
 **Boston Globe--Horn Book Award Acceptance**
 
@@ -2827,8 +2800,7 @@ this planet.
 
 -Anita Silvey
 
-![http://childrensbookalmanac.com/wp-content/uploads/Red-Eyed-Tree-Frog-image.jpg](assets/Writing - Voice 14/media/media/image28.jpeg){width="6.268055555555556in"
-height="5.139534120734909in"}
+![http://childrensbookalmanac.com/wp-content/uploads/Red-Eyed-Tree-Frog-image.jpg](assets/Writing - Voice 14/media/media/image28.jpeg)
 
 **Use main idea and supporting details to determine importance.**
 
@@ -2897,8 +2869,7 @@ Gluck."*
 In many pictures in this book, the red-eyed tree frog looks quite big.
 Really it is very small, its body only about two inches long.
 
-![http://travelforkids.com/images/photo-albums/costa-rica/red-eyed-tree-frog.jpg](assets/Writing - Voice 14/media/media/image29.jpeg){width="3.3020833333333335in"
-height="2.6416666666666666in"}
+![http://travelforkids.com/images/photo-albums/costa-rica/red-eyed-tree-frog.jpg](assets/Writing - Voice 14/media/media/image29.jpeg)
 
 Tree frogs spend most of their lives in trees. They even lay their eggs
 in the trees. The female frog glues her eggs onto the underside of
@@ -2930,11 +2901,9 @@ belly, and flattens its body against a leaf. When it closes its eyes to
 sleep, only its green back is left showing. It stays hidden until it is
 ready to wake up again the next evening.
 
-![http://2.bp.blogspot.com/\--BCJW0ah9v8/TdgzcXTyguI/AAAAAAAAASU/N4PPitGguOc/s1600/Red%2BEyed%2BTree%2BFrog%2B-%2Beyes%2Bclosed.jpg](assets/Writing - Voice 14/media/media/image30.jpeg){width="6.268055555555556in"
-height="3.850936132983377in"}
+![http://2.bp.blogspot.com/\--BCJW0ah9v8/TdgzcXTyguI/AAAAAAAAASU/N4PPitGguOc/s1600/Red%2BEyed%2BTree%2BFrog%2B-%2Beyes%2Bclosed.jpg](assets/Writing - Voice 14/media/media/image30.jpeg)
 
-![http://2.bp.blogspot.com/-TeSOq8JNimw/TdgzrVTu2MI/AAAAAAAAASc/FECk9l2v7Hc/s1600/Red%2BEyed%2BTree%2BFrog%2B-%2Beyes%2Bopen.jpg](assets/Writing - Voice 14/media/media/image31.jpeg){width="6.268055555555556in"
-height="5.182705599300087in"}
+![http://2.bp.blogspot.com/-TeSOq8JNimw/TdgzrVTu2MI/AAAAAAAAASc/FECk9l2v7Hc/s1600/Red%2BEyed%2BTree%2BFrog%2B-%2Beyes%2Bopen.jpg](assets/Writing - Voice 14/media/media/image31.jpeg)
 
 **Why We Must SAVE THE FROGS!**
 
@@ -3007,8 +2976,7 @@ frogs vanished within a few years of being discovered by scientists. The
 health of humans and frogs is clearly intertwined.
 
 ![Important
-frogs](assets/Writing - Voice 14/media/media/image32.jpeg){width="5.208333333333333in"
-height="4.114583333333333in"}
+frogs](assets/Writing - Voice 14/media/media/image32.jpeg)
 
 **Ethics**
 
@@ -3026,8 +2994,7 @@ changes to SAVE THE FROGS!
 **National Geographic**
 
 ![Photo: Close-up of a red-eyed tree
-frog](assets/Writing - Voice 14/media/media/image33.jpeg){width="6.25in"
-height="4.6875in"}
+frog](assets/Writing - Voice 14/media/media/image33.jpeg)
 
 **The red-eyed tree frog flashes its brightly coloured body parts when
 startled. It sleeps by day with its eyes closed and body markings
@@ -3061,11 +3028,9 @@ at an alarming rate, and their highly recognizable image is often used
 to promote the cause of saving the world\'s rain forests.
 
 ![Map: Red-eyed tree frog
-range](assets/Writing - Voice 14/media/media/image34.gif){width="2.4583333333333335in"
-height="1.84375in"}
+range](assets/Writing - Voice 14/media/media/image34.gif)
 
-![http://mshahnsreadinglist.files.wordpress.com/2012/09/frogs.jpeg](assets/Writing - Voice 14/media/media/image35.jpeg){width="3.612603893263342in"
-height="4.9375in"}
+![http://mshahnsreadinglist.files.wordpress.com/2012/09/frogs.jpeg](assets/Writing - Voice 14/media/media/image35.jpeg)
 
 KIRKUS REVIEW
 
@@ -3160,8 +3125,7 @@ Most frogs use their tongues to catch prey.
 **The tongue is coated with sticky mucus and shoots forward with deadly
 aim to snatch prey and toss it back into the mouth.**
 
-![http://www.teachingbooks.net/media/bookimages/internals/Bishop_Frogs.gif](assets/Writing - Voice 14/media/media/image36.gif){width="2.5833333333333335in"
-height="3.90625in"} Then the frog may use its eyes again, and this time
+![http://www.teachingbooks.net/media/bookimages/internals/Bishop_Frogs.gif](assets/Writing - Voice 14/media/media/image36.gif) Then the frog may use its eyes again, and this time
 to swallow the prey whole. It blinks both eyeballs down towards its
 mouth where they help push the prey into its stomach.
 
@@ -3199,8 +3163,7 @@ Its eyes sink into its head for protection, and special see-through
 After a good leap, the bullfrog splashes into a pond and hides under
 some waterweeds.
 
-![http://www.nsta.org/publications/ostb/images/Frog.jpg](assets/Writing - Voice 14/media/media/image37.jpeg){width="2.0833333333333335in"
-height="1.40625in"} Some frogs have other ways to foil predators. If the
+![http://www.nsta.org/publications/ostb/images/Frog.jpg](assets/Writing - Voice 14/media/media/image37.jpeg) Some frogs have other ways to foil predators. If the
 common toad sees a snake, it can puff up its body like a ball so that it
 looks too big to swallow. Dart poison frogs, as their name tells you,
 are poisonous. They hop around the rain forest floor, showing off their
@@ -3307,8 +3270,7 @@ with a hiccup, they hop out.
 **Strawberry dart poison frogs are probably the hardest-working parents
 of all.**
 
-![http://media-cache-ak0.pinimg.com/236x/53/c5/93/53c593011b7bf49e309a0b23d3bbd309.jpg](assets/Writing - Voice 14/media/media/image38.jpeg){width="2.1458333333333335in"
-height="3.1641951006124236in"} The female lays her eggs on the damp rain
+![http://media-cache-ak0.pinimg.com/236x/53/c5/93/53c593011b7bf49e309a0b23d3bbd309.jpg](assets/Writing - Voice 14/media/media/image38.jpeg) The female lays her eggs on the damp rain
 forest floor instead of in a pond. When a tadpole hatches, it wriggles
 onto the mother's back and she carries it up into a tree. There, she
 looks for a plant called a bromeliad, which holds pools of water between
@@ -3331,13 +3293,11 @@ trees. They will have large eyes to spot insects, and sticky tongues to
 catch them. And they will soon know how to hunt for prey and hide from
 predators.
 
-![http://charlotteaward.files.wordpress.com/2012/01/nicbishop.jpg](assets/Writing - Voice 14/media/media/image39.jpeg){width="6.268055555555556in"
-height="4.541491688538932in"}
+![http://charlotteaward.files.wordpress.com/2012/01/nicbishop.jpg](assets/Writing - Voice 14/media/media/image39.jpeg)
 
 ** Frogs Euclid Public Library**
 
-![http://www.euclidlibrary.org/images/tickle-your-brain/green-frog.jpg?sfvrsn=0](assets/Writing - Voice 14/media/media/image40.jpeg){width="6.268055555555556in"
-height="4.17870406824147in"}
+![http://www.euclidlibrary.org/images/tickle-your-brain/green-frog.jpg?sfvrsn=0](assets/Writing - Voice 14/media/media/image40.jpeg)
 
 Frogs are small jumping animals with bulging eyes. They are amphibians:
 cold-blooded animals that live in water during the first part of their
@@ -3365,14 +3325,11 @@ into a frog, with lungs instead of gills and legs but no tail.\
   shorter hind legs than frogs. Frogs have webbed feet; toads do not.
   Frogs skin is smooth and slick; a toad's skin is dry and bumpy.
 
-![http://www.euclidlibrary.org/images/tickle-your-brain/frogs_lifecycle.jpg?sfvrsn=0](assets/Writing - Voice 14/media/media/image41.jpeg){width="4.166666666666667in"
-height="3.5520833333333335in"}
+![http://www.euclidlibrary.org/images/tickle-your-brain/frogs_lifecycle.jpg?sfvrsn=0](assets/Writing - Voice 14/media/media/image41.jpeg)
 
-![http://www.euclidlibrary.org/images/tickle-your-brain/blue-poison-dart-frog.jpg?sfvrsn=0](assets/Writing - Voice 14/media/media/image42.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://www.euclidlibrary.org/images/tickle-your-brain/blue-poison-dart-frog.jpg?sfvrsn=0](assets/Writing - Voice 14/media/media/image42.jpeg)
 
-![http://2.bp.blogspot.com/-bgj-b6QWGU0/UquH8lx74jI/AAAAAAAAFb4/Jfi-AF9fGcc/s1600/gentle-giant-octopus.jpg](assets/Writing - Voice 14/media/media/image43.jpeg){width="3.71077646544182in"
-height="4.145833333333333in"}
+![http://2.bp.blogspot.com/-bgj-b6QWGU0/UquH8lx74jI/AAAAAAAAFb4/Jfi-AF9fGcc/s1600/gentle-giant-octopus.jpg](assets/Writing - Voice 14/media/media/image43.jpeg)
 
 Follow a goggle-eyed octopus as she jets through the shadows, tentacles
 flying behind her. Finally she finds a well-hidden den in which to lay
@@ -3489,8 +3446,7 @@ A mother octopus rests in her cave den. She watches her babies swim up
 through the water. a gentle Giant octopus shrinks in the shadows. Her
 life is over as their lives begin.
 
-![2419228](assets/Writing - Voice 14/media/media/image44.jpeg){width="2.61836832895888in"
-height="3.1041666666666665in"}
+![2419228](assets/Writing - Voice 14/media/media/image44.jpeg)
 
 White\'s illustrations are a loving tribute to the four non-human
 species of great apes: chimpanzees, orangutans, bonobos and gorillas. On
@@ -3620,11 +3576,9 @@ aside pieces of wild land where they can live their lives in peace --
 swinging and stomping, chattering and playing, eating and sleeping, and
 doing all the other great things we apes love to do!
 
-![http://1.bp.blogspot.com/\_bYavGHOEqu0/TS-dVvs0LZI/AAAAAAAAGmk/-m5UQ_A7qAo/s1600/100_3612.JPG](assets/Writing - Voice 14/media/media/image45.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://1.bp.blogspot.com/\_bYavGHOEqu0/TS-dVvs0LZI/AAAAAAAAGmk/-m5UQ_A7qAo/s1600/100_3612.JPG](assets/Writing - Voice 14/media/media/image45.jpeg)
 
-![7785077](assets/Writing - Voice 14/media/media/image46.jpeg){width="3.21875in"
-height="4.166666666666667in"}
+![7785077](assets/Writing - Voice 14/media/media/image46.jpeg)
 
 **The Circulatory Story Mary Corcoran**
 
@@ -3634,14 +3588,11 @@ Readers follow a red blood cell on its journey through the body, and in
 the process learn how the body combats disease, performs gas exchanges,
 and fights plaque.
 
-![http://www.charlesbridge.com/client/client_images/spreads/CirculatoryStory_spread.gif](assets/Writing - Voice 14/media/media/image47.gif){width="6.25in"
-height="4.052083333333333in"}
+![http://www.charlesbridge.com/client/client_images/spreads/CirculatoryStory_spread.gif](assets/Writing - Voice 14/media/media/image47.gif)
 
-![https://www.juniorlibraryguild.com/images/9781580892087/InteriorArt/9781580892087-circulatory1_zoom.jpg](assets/Writing - Voice 14/media/media/image48.jpeg){width="6.25in"
-height="8.197916666666666in"}
+![https://www.juniorlibraryguild.com/images/9781580892087/InteriorArt/9781580892087-circulatory1_zoom.jpg](assets/Writing - Voice 14/media/media/image48.jpeg)
 
-![http://www.charlesbridge.com/client/products/ProdimageLg/16649.jpg](assets/Writing - Voice 14/media/media/image49.jpeg){width="2.0833333333333335in"
-height="2.5208333333333335in"}
+![http://www.charlesbridge.com/client/products/ProdimageLg/16649.jpg](assets/Writing - Voice 14/media/media/image49.jpeg)
 
 **The Quest to Digest Mary Corcoran**
 
@@ -3650,6 +3601,5 @@ human digestive system. Discover why mucus is so important to your body
 and how food particles are absorbed by the small intestine and turned
 into energy. Readers also learn why we burp, vomit, and pass gas.
 
-![http://www.charlesbridge.com/client/client_images/spreads/Quest2Digest.jpg](assets/Writing - Voice 14/media/media/image50.jpeg){width="4.666666666666667in"
-height="3.0208333333333335in"}
+![http://www.charlesbridge.com/client/client_images/spreads/Quest2Digest.jpg](assets/Writing - Voice 14/media/media/image50.jpeg)
 

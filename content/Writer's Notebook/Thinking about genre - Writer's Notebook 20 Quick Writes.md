@@ -14,15 +14,13 @@ strand: writers-notebook
 
 ![beautiful face beautiful hands - www.pinterest.com/wholoves/Beautiful
 faces - #beautiful
-#faces](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image1.jpeg){width="4.3125in"
-height="6.666666666666667in"}
+#faces](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image1.jpeg)
 
 **Thinking about Genre**
 
 ![beautiful face beautiful hands - www.pinterest.com/wholoves/Beautiful
 faces - #beautiful
-#faces](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image1.jpeg){width="2.0625in"
-height="3.1884055118110237in"}
+#faces](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image1.jpeg)
 
 **Writer's Notebook 20**
 
@@ -60,8 +58,7 @@ Switch genres while writing. E.g. every 3-4 minutes.
 
 Examples from South Australian government.
 
-![http://blogs.psychcentral.com/therapist-within/files/2011/03/shadow-self-G-Gawne-Kelnar.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image2.jpeg){width="2.9479166666666665in"
-height="3.5520833333333335in"}
+![http://blogs.psychcentral.com/therapist-within/files/2011/03/shadow-self-G-Gawne-Kelnar.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image2.jpeg)
 
 **Write about your shadow.**
 
@@ -76,20 +73,16 @@ How does it change when you move?
 >
 > Does it have a secret life?
 
-![JungianShadow](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image3.jpeg){width="3.4908333333333332in"
-height="4.916666666666667in"}
+![JungianShadow](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image3.jpeg)
 
 ![YOU AND YOUR
-SHADOW](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image4.jpeg){width="5.259009186351706in"
-height="4.864583333333333in"}
+SHADOW](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image4.jpeg)
 
-![http://blog.playdrhutch.com/wp-content/uploads/blog.playdrhutch.com/2012/02/peter-pan.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image5.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://blog.playdrhutch.com/wp-content/uploads/blog.playdrhutch.com/2012/02/peter-pan.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image5.jpeg)
 
 **WHERE DOES YOUR SHADOW GO WHEN YOU ARE SLEEPING?**
 
-![http://uploads3.wikiart.org/images/gustave-courbet/portrait-of-juliette-courbet-as-a-sleeping-child-1841.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image6.jpeg){width="6.268055555555556in"
-height="4.61485564304462in"}
+![http://uploads3.wikiart.org/images/gustave-courbet/portrait-of-juliette-courbet-as-a-sleeping-child-1841.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image6.jpeg)
 
 Write about one or all of **the four seasons.**
 
@@ -99,15 +92,13 @@ What does the season look, feel, smell like?
 
 What memories do you associate with that season? 
 
-![https://charlierobinson.files.wordpress.com/2011/06/2009-02-20-the-four-seasons-of-traffic.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image7.jpeg){width="6.268055555555556in"
-height="3.974864391951006in"}
+![https://charlierobinson.files.wordpress.com/2011/06/2009-02-20-the-four-seasons-of-traffic.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image7.jpeg)
 
 Write about something that happened to someone you know.
 
 Write about it as if it had happened to you.
 
-![http://graphics8.nytimes.com/images/2007/10/23/automobiles/24accident-600.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image8.jpeg){width="6.25in"
-height="3.0729166666666665in"}
+![http://graphics8.nytimes.com/images/2007/10/23/automobiles/24accident-600.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image8.jpeg)
 
 **Dreams**
 
@@ -115,217 +106,164 @@ Write a piece based on a dream you had.
 
 Try to reproduce the sensations of the dream.
 
-![https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3pKACvc9QC5y2yHllLK4rIM6a-T30QuvYleqlD4auZs_KMk2FRQ](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image9.jpeg){width="5.03125in"
-height="3.87170384951881in"}
+![https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcT3pKACvc9QC5y2yHllLK4rIM6a-T30QuvYleqlD4auZs_KMk2FRQ](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image9.jpeg)
 
-![http://quotes.wishbowl.org/image-code/dreams-quotes-11.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image10.jpeg){width="5.208333333333333in"
-height="3.46875in"}
+![http://quotes.wishbowl.org/image-code/dreams-quotes-11.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image10.jpeg)
 
-![http://quotes.wishbowl.org/image-code/dreams-quotes-09.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image11.jpeg){width="4.114583333333333in"
-height="7.291666666666667in"}
+![http://quotes.wishbowl.org/image-code/dreams-quotes-09.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image11.jpeg)
 
-![http://quotes.wishbowl.org/image-code/dreams-quotes-07.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image12.jpeg){width="5.208333333333333in"
-height="6.520833333333333in"}
+![http://quotes.wishbowl.org/image-code/dreams-quotes-07.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image12.jpeg)
 
-![http://quotes.wishbowl.org/image-code/dreams-quotes-06.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image13.jpeg){width="5.208333333333333in"
-height="7.375in"}
+![http://quotes.wishbowl.org/image-code/dreams-quotes-06.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image13.jpeg)
 
-![http://quotes.wishbowl.org/image-code/dreams-quotes-04.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image14.jpeg){width="3.5208333333333335in"
-height="5.208333333333333in"}
+![http://quotes.wishbowl.org/image-code/dreams-quotes-04.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image14.jpeg)
 
 **Fairy Tales**
 
 Write from the perspective of a character in a fairy tale.
 
-![http://www.blogcdn.com/blog.moviefone.com/media/2010/11/disney-princesses-112210.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image15.jpeg){width="5.520833333333333in"
-height="3.1145833333333335in"}
+![http://www.blogcdn.com/blog.moviefone.com/media/2010/11/disney-princesses-112210.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image15.jpeg)
 
 **LOST**
 
 Write about something you lost.
 
 ![i-lost-it - the lost property
-site](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image16.jpeg){width="3.9166666666666665in"
-height="3.3229166666666665in"}
+site](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image16.jpeg)
 
 **Yourself**
 
 Write a piece about yourself in which nothing is true.
 
-![http://www.freshbooks.com/assets/img/blog/2013/03/2013-01-28-Fire-yourself-blog-image.png](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image17.png){width="6.25in"
-height="3.125in"}
+![http://www.freshbooks.com/assets/img/blog/2013/03/2013-01-28-Fire-yourself-blog-image.png](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image17.png)
 
 **\**
 
-![http://www.imgion.com/images/01/dont-try-to-be-somebody-else-be-yourself.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image18.jpeg){width="6.268055555555556in"
-height="8.49669728783902in"}
+![http://www.imgion.com/images/01/dont-try-to-be-somebody-else-be-yourself.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image18.jpeg)
 
-![http://www.patrickbrinksma.nl/wp-content/uploads/2013/01/be-yourself.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image19.jpeg){width="5.208333333333333in"
-height="3.4375in"}
+![http://www.patrickbrinksma.nl/wp-content/uploads/2013/01/be-yourself.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image19.jpeg)
 
 **\**
-![http://greatergood.berkeley.edu/images/uploads/ForgiveYourself.jpeg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image20.jpeg){width="3.4166666666666665in"
-height="4.555555555555555in"}
+![http://greatergood.berkeley.edu/images/uploads/ForgiveYourself.jpeg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image20.jpeg)
 
 **Night-time**
 
-![http://blog.nurturedchild.ca/wp-content/uploads/2011/11/3104766775_03238d7626.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image21.jpeg){width="5.208333333333333in"
-height="3.5in"}
+![http://blog.nurturedchild.ca/wp-content/uploads/2011/11/3104766775_03238d7626.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image21.jpeg)
 
-![http://media4.popsugar-assets.com/files/2012/11/44/4/192/1922243/a4342a9d1fe00b00_nighttime_safety_for_pets_main2.xxxlarge/i/Nighttime-Safety-Tips-Dogs-Cats.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image22.jpeg){width="6.268055555555556in"
-height="6.268055555555556in"}
+![http://media4.popsugar-assets.com/files/2012/11/44/4/192/1922243/a4342a9d1fe00b00_nighttime_safety_for_pets_main2.xxxlarge/i/Nighttime-Safety-Tips-Dogs-Cats.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image22.jpeg)
 
 **COLOUR**
 
 Write about a particular colour.
 
-![https://www.servicecentral.com.au/attachment/46638-50c79-1b20c-b7674-87b9f.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image23.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![https://www.servicecentral.com.au/attachment/46638-50c79-1b20c-b7674-87b9f.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image23.jpeg)
 
 **UNDERWATER**
 
 Write about being underwater.
 
-![http://www.redseawaterworld.com/taba/wp-content/uploads/2011/12/PADI_Digital_Underwater_Photographer_Specialty.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image24.jpeg){width="6.041666666666667in"
-height="2.7083333333333335in"}
+![http://www.redseawaterworld.com/taba/wp-content/uploads/2011/12/PADI_Digital_Underwater_Photographer_Specialty.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image24.jpeg)
 
-![http://i415.photobucket.com/albums/pp236/Keefers\_/Keefers_Photography/Keefers_PhotographyUnderwater2.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image25.jpeg){width="6.041666666666667in"
-height="3.995120297462817in"}
+![http://i415.photobucket.com/albums/pp236/Keefers\_/Keefers_Photography/Keefers_PhotographyUnderwater2.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image25.jpeg)
 
 **Lost in a Book**
 
 The feeling of getting lost in a book.
 
-![https://c2.staticflickr.com/6/5544/9034397453_58ca1ff6cd.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image26.jpeg){width="5.208333333333333in"
-height="3.4479166666666665in"}
+![https://c2.staticflickr.com/6/5544/9034397453_58ca1ff6cd.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image26.jpeg)
 
-![http://mypenmyvoice.files.wordpress.com/2012/08/540945_380137202019952_1886322200_n_large.jpg?w=648](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image27.jpeg){width="5.316666666666666in"
-height="5.333333333333333in"}
+![http://mypenmyvoice.files.wordpress.com/2012/08/540945_380137202019952_1886322200_n_large.jpg?w=648](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image27.jpeg)
 
 **A BAD DREAM**
 
-![https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9eEj7dgZ4Dxa1-P_lIQjHu7hKNIO4uJZXx06Cmjb\_-y59xDzt](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image28.jpeg){width="2.64869094488189in"
-height="4.03125in"}
+![https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS9eEj7dgZ4Dxa1-P_lIQjHu7hKNIO4uJZXx06Cmjb\_-y59xDzt](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image28.jpeg)
 
-![http://2.bp.blogspot.com/-vgZ8c_OxtxQ/Tknp3JEGrEI/AAAAAAAAEOI/yV1lY583lhw/s1600/%2521%2521%2521%2521%2521+bad+dreams.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image29.jpeg){width="4.877191601049868in"
-height="4.197916666666667in"}
+![http://2.bp.blogspot.com/-vgZ8c_OxtxQ/Tknp3JEGrEI/AAAAAAAAEOI/yV1lY583lhw/s1600/%2521%2521%2521%2521%2521+bad+dreams.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image29.jpeg)
 
-![https://beh1980uk.files.wordpress.com/2014/03/bad-dream1.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image30.jpeg){width="4.166666666666667in"
-height="4.0625in"}
+![https://beh1980uk.files.wordpress.com/2014/03/bad-dream1.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image30.jpeg)
 
 **Jealousy**
 
-![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ5RqOAVVVJQbSWCcAbxySWYTLAvhB1y55XtH-Usbi74tX9jhy](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image31.jpeg){width="3.644021216097988in"
-height="3.1041666666666665in"}
+![https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ5RqOAVVVJQbSWCcAbxySWYTLAvhB1y55XtH-Usbi74tX9jhy](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image31.jpeg)
 
 > Reflections on a window
 >
-> ![http://www.nocaptionneeded.com/wp-content/uploads/2010/08/Pakistani-faces-reflected.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image32.jpeg){width="6.268055555555556in"
-> height="4.17870406824147in"}
+> ![http://www.nocaptionneeded.com/wp-content/uploads/2010/08/Pakistani-faces-reflected.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image32.jpeg)
 >
-> ![http://farm3.static.flickr.com/2283/2146580367_bef2f5a768.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image33.jpeg){width="5.208333333333333in"
-> height="3.90625in"}
+> ![http://farm3.static.flickr.com/2283/2146580367_bef2f5a768.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image33.jpeg)
 
 **A PARTICULAR TOY**
 
-![http://toys.phillipmartin.info/misc_toys.gif](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image34.gif){width="6.268055555555556in"
-height="4.681696194225721in"}
+![http://toys.phillipmartin.info/misc_toys.gif](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image34.gif)
 
 **BEING INVISIBLE**
 
-![http://41.media.tumblr.com/tumblr_m0fzqikUUa1r47bczo1_r1_500.png](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image35.png){width="5.208333333333333in"
-height="4.34375in"}
+![http://41.media.tumblr.com/tumblr_m0fzqikUUa1r47bczo1_r1_500.png](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image35.png)
 
-![http://img.picturequotes.com/2/5/4616/invisible-tears-are-the-hardest-to-wipe-away-quote-1.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image36.jpeg){width="5.833333333333333in"
-height="6.875in"}
+![http://img.picturequotes.com/2/5/4616/invisible-tears-are-the-hardest-to-wipe-away-quote-1.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image36.jpeg)
 
 **YOUR GREATEST FEAR**
 
-![Overcoming-fear3](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image37.jpeg){width="4.3485454943132105in"
-height="2.7395833333333335in"}
+![Overcoming-fear3](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image37.jpeg)
 
 **YOUR GRANDMOTHER'S HANDS**
 
-![http://fc07.deviantart.net/fs24/f/2008/012/e/7/My_grandmother\_\_s_hands_by_bastienmillan.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image38.jpeg){width="6.268055555555556in"
-height="4.6258245844269466in"}
+![http://fc07.deviantart.net/fs24/f/2008/012/e/7/My_grandmother\_\_s_hands_by_bastienmillan.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image38.jpeg)
 
-![http://www.literacyshed.com/uploads/1/2/5/7/12572836/5649940_orig.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image39.jpeg){width="5.208333333333333in"
-height="5.208333333333333in"}
+![http://www.literacyshed.com/uploads/1/2/5/7/12572836/5649940_orig.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image39.jpeg)
 
-![http://www.literacyshed.com/uploads/1/2/5/7/12572836/4581307_orig.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image40.jpeg){width="5.208333333333333in"
-height="3.90625in"}
+![http://www.literacyshed.com/uploads/1/2/5/7/12572836/4581307_orig.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image40.jpeg)
 
-![http://www.literacyshed.com/uploads/1/2/5/7/12572836/4349848_orig.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image41.jpeg){width="6.268055555555556in"
-height="7.374183070866142in"}
+![http://www.literacyshed.com/uploads/1/2/5/7/12572836/4349848_orig.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image41.jpeg)
 
-![Picture](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image42.jpeg){width="6.239583333333333in"
-height="8.333333333333334in"}
+![Picture](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image42.jpeg)
 
 ![She Did and Said What? -- plus a Trey
-Update](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image43.jpeg){width="6.268055555555556in"
-height="3.9175349956255467in"}
+Update](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image43.jpeg)
 
-![38770.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image44.jpeg){width="5.5625in"
-height="4.6875in"}
+![38770.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image44.jpeg)
 
-![null](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image45.jpeg){width="6.268055555555556in"
-height="2.551482939632546in"}
+![null](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image45.jpeg)
 
 ![#781
-detached](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image46.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+detached](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image46.png)
 
-![Stantis-Mandela-COLOR-1206](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image47.gif){width="6.268055555555556in"
-height="4.881247812773403in"}
+![Stantis-Mandela-COLOR-1206](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image47.gif)
 
-![http://www.saltedandstyled.com/wp-content/uploads/2012/07/20120311_latoya_151.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image48.jpeg){width="6.268055555555556in"
-height="4.177071303587051in"}
+![http://www.saltedandstyled.com/wp-content/uploads/2012/07/20120311_latoya_151.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image48.jpeg)
 
 ![Today\'s photo needing your
-caption!](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image49.jpeg){width="6.225489938757655in"
-height="3.96875in"}
+caption!](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image49.jpeg)
 
 ![The Amish still use draft horses to pull their farm plows. If a fella
 has a beard, he\'s married; cleanshaven, he\'s single. Good to know,
-huh?](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image50.jpeg){width="6.268055555555556in"
-height="4.48011811023622in"}
+huh?](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image50.jpeg)
 
 ![Plow Horses - gentle
-giants\*](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image51.jpeg){width="6.268055555555556in"
-height="4.48011811023622in"}
+giants\*](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image51.jpeg)
 
-![http://41.media.tumblr.com/4123b1d8bc8ee097bc987f6046192e59/tumblr_mvjte4E1se1rpb27ao1_1280.png](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image52.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://41.media.tumblr.com/4123b1d8bc8ee097bc987f6046192e59/tumblr_mvjte4E1se1rpb27ao1_1280.png](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image52.png)
 
 ![#780 these ducks desperately need a happy
-ending](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image53.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+ending](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image53.png)
 
-![http://3.bp.blogspot.com/\--AcXoiree-4/Tz_P4J3YgeI/AAAAAAAAARk/u2h3_OzZVB4/s1600/Slide8.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image54.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://3.bp.blogspot.com/\--AcXoiree-4/Tz_P4J3YgeI/AAAAAAAAARk/u2h3_OzZVB4/s1600/Slide8.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image54.jpeg)
 
-![http://1.bp.blogspot.com/-IGv9rz1c50Q/Tz_P2FIiFuI/AAAAAAAAARc/BMxglrF5qlU/s1600/Slide7.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image55.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://1.bp.blogspot.com/-IGv9rz1c50Q/Tz_P2FIiFuI/AAAAAAAAARc/BMxglrF5qlU/s1600/Slide7.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image55.jpeg)
 
-![http://1.bp.blogspot.com/-edrbe32KNV8/Tz_PrzDdUfI/AAAAAAAAAQ8/wvRes0My6u0/s1600/Slide3.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image56.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://1.bp.blogspot.com/-edrbe32KNV8/Tz_PrzDdUfI/AAAAAAAAAQ8/wvRes0My6u0/s1600/Slide3.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image56.jpeg)
 
-![http://4.bp.blogspot.com/-b5GSFdhtQOA/Tz_PpRP8zxI/AAAAAAAAAQ0/cJ3yaXfJfAY/s1600/Slide2.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image57.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://4.bp.blogspot.com/-b5GSFdhtQOA/Tz_PpRP8zxI/AAAAAAAAAQ0/cJ3yaXfJfAY/s1600/Slide2.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image57.jpeg)
 
-![http://2.bp.blogspot.com/-0fCRf-EshlU/Tz_PyeQNuiI/AAAAAAAAARM/QjYlxPb5gAQ/s1600/Slide5.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image58.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://2.bp.blogspot.com/-0fCRf-EshlU/Tz_PyeQNuiI/AAAAAAAAARM/QjYlxPb5gAQ/s1600/Slide5.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image58.jpeg)
 
-![https://lh5.googleusercontent.com/fDKAuSdIi15RBC0rw1MANHTaTG85nd6tRB72qII46lSqvzu2oGdB2_gXPpfUz1wILZZMmJ7Jv4dxyTcc5CDUUQ4TbKxY7GCePp-1jwOmk5mqNp3nyrc](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image59.jpeg){width="4.435374015748032in"
-height="3.3333333333333335in"}
+![https://lh5.googleusercontent.com/fDKAuSdIi15RBC0rw1MANHTaTG85nd6tRB72qII46lSqvzu2oGdB2_gXPpfUz1wILZZMmJ7Jv4dxyTcc5CDUUQ4TbKxY7GCePp-1jwOmk5mqNp3nyrc](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image59.jpeg)
 
 ![#779 dinosaur
-ambulance](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image60.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+ambulance](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image60.png)
 
 ![#652 stranger dreams (cross posted with common core connections at Big
-Universe)](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image61.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+Universe)](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image61.png)
 
 **PLACES**
 
@@ -333,109 +271,86 @@ Write about a place that frightens you or a place where you feel happy.
 
 Try to recreate the feeling of the place.
 
-![http://s.gamestar.ru/760/41/daylight_interview_336675.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image62.jpeg){width="6.268055555555556in"
-height="3.52165791776028in"}
+![http://s.gamestar.ru/760/41/daylight_interview_336675.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image62.jpeg)
 
-![http://cadcamstuff.com/wp-content/uploads/2009/06/happy-place.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image63.jpeg){width="5.166666666666667in"
-height="5.208333333333333in"}
+![http://cadcamstuff.com/wp-content/uploads/2009/06/happy-place.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image63.jpeg)
 
 **GROWING OLDER**
 
-![http://3.bp.blogspot.com/\_gzl0O1DLDIc/TE0i8Y7GECI/AAAAAAAACqg/phZ18TSRdyg/s400/aging-women.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image64.jpeg){width="4.09375in"
-height="2.9166666666666665in"}
+![http://3.bp.blogspot.com/\_gzl0O1DLDIc/TE0i8Y7GECI/AAAAAAAACqg/phZ18TSRdyg/s400/aging-women.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image64.jpeg)
 
 **FORGETTING**
 
-![http://pad3.whstatic.com/images/thumb/c/ce/Make-up-for-Forgetting-Mother\'s-Day-Step-1.jpg/670px-Make-up-for-Forgetting-Mother\'s-Day-Step-1.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image65.jpeg){width="6.268055555555556in"
-height="4.705719597550306in"}
+![http://pad3.whstatic.com/images/thumb/c/ce/Make-up-for-Forgetting-Mother\'s-Day-Step-1.jpg/670px-Make-up-for-Forgetting-Mother\'s-Day-Step-1.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image65.jpeg)
 
 **THE SPEED OF LIGHT**
 
 ![abstract night acceleration speed,
-motion.](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image66.jpeg){width="5.989583333333333in"
-height="4.0in"}
+motion.](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image66.jpeg)
 
 **A TIME YOU FELT HOMESICK**
 
-![http://3.bp.blogspot.com/-ymOFb8VkiQ4/T6hQJnpEzgI/AAAAAAAABDQ/sFbXtgDVPLs/s1600/feeling-homesick.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image67.jpeg){width="6.268055555555556in"
-height="3.6981528871391074in"}
+![http://3.bp.blogspot.com/-ymOFb8VkiQ4/T6hQJnpEzgI/AAAAAAAABDQ/sFbXtgDVPLs/s1600/feeling-homesick.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image67.jpeg)
 
 **TIME TRAVEL**
 
 ![Time travel, warp
-speed](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image68.jpeg){width="5.989583333333333in"
-height="4.791666666666667in"}
+speed](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image68.jpeg)
 
 **RAIN**
 
-![http://iyftc1oqf704bytwz45ub151.wpengine.netdna-cdn.com/wp-content/uploads/2013/05/rain-room-nyc-untapped-cities-jane-hu-2.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image69.jpeg){width="6.268055555555556in"
-height="4.181968503937008in"}
+![http://iyftc1oqf704bytwz45ub151.wpengine.netdna-cdn.com/wp-content/uploads/2013/05/rain-room-nyc-untapped-cities-jane-hu-2.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image69.jpeg)
 
-![http://api.ning.com/files/DtcI2O2Ry7CZEAEipTG6zbfJuGle5ZL3hFEjK1WWfBbhA9ykSw9r6BO71GFO7jDxNQjZ\*oMcBYnSlATJ7-FGF0PMyOdnp4JB/1082106352.jpeg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image70.jpeg){width="6.268055555555556in"
-height="3.9121008311461067in"}
+![http://api.ning.com/files/DtcI2O2Ry7CZEAEipTG6zbfJuGle5ZL3hFEjK1WWfBbhA9ykSw9r6BO71GFO7jDxNQjZ\*oMcBYnSlATJ7-FGF0PMyOdnp4JB/1082106352.jpeg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image70.jpeg)
 
 **SNOW**
 
-![http://cdn.images.express.co.uk/img/dynamic/1/590x/snow-christmas-winter-uk\--449815.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image71.jpeg){width="6.145833333333333in"
-height="3.6458333333333335in"}
+![http://cdn.images.express.co.uk/img/dynamic/1/590x/snow-christmas-winter-uk\--449815.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image71.jpeg)
 
 **STORM**
 
-![http://i3.mirror.co.uk/incoming/article2305548.ece/alternates/s2197/Storm.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image72.jpeg){width="6.268055555555556in"
-height="4.1739490376202975in"}
+![http://i3.mirror.co.uk/incoming/article2305548.ece/alternates/s2197/Storm.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image72.jpeg)
 
 **FEELING LONELY**
 
-![http://livinglife2inspire.files.wordpress.com/2013/02/sad.jpeg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image73.jpeg){width="4.875in"
-height="3.90625in"}
+![http://livinglife2inspire.files.wordpress.com/2013/02/sad.jpeg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image73.jpeg)
 
-![http://maximizemylife.com/wp-content/uploads/2012/03/Lonely-Dog.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image74.jpeg){width="6.268055555555556in"
-height="4.185444006999125in"}
+![http://maximizemylife.com/wp-content/uploads/2012/03/Lonely-Dog.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image74.jpeg)
 
-![http://connectyourself.nl/wp-content/uploads/2013/05/rust.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image75.jpeg){width="5.208333333333333in"
-height="5.197916666666667in"}
+![http://connectyourself.nl/wp-content/uploads/2013/05/rust.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image75.jpeg)
 
-![http://fc03.deviantart.net/fs71/i/2011/240/8/2/lonely_dog_by_noxyzz-d484m5p.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image76.jpeg){width="4.166666666666667in"
-height="5.552083333333333in"}
+![http://fc03.deviantart.net/fs71/i/2011/240/8/2/lonely_dog_by_noxyzz-d484m5p.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image76.jpeg)
 
 **AN IMAGINARY FRIEND**
 
-![http://fc00.deviantart.net/fs12/i/2006/287/f/e/My_Imaginary_Friend_by_uncutartist22.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image77.jpeg){width="2.84375in"
-height="4.166666666666667in"}
+![http://fc00.deviantart.net/fs12/i/2006/287/f/e/My_Imaginary_Friend_by_uncutartist22.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image77.jpeg)
 
 **BIRTHDAYS**
 
-![http://birthdaypartyideas2015.com/wp-content/uploads/2014/07/Backyard-Birthday-Party-for-Teenagers-2015.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image78.jpeg){width="5.291666666666667in"
-height="6.604166666666667in"}
+![http://birthdaypartyideas2015.com/wp-content/uploads/2014/07/Backyard-Birthday-Party-for-Teenagers-2015.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image78.jpeg)
 
 **YOUR CITY, TOWN OR NEIGHBOURHOOD**
 
-![https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYjmmBkdLmm9ycM6ByX5PHANtPeDH4dk_A-TLSi-uyFeGAklLg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image79.jpeg){width="4.261731189851268in"
-height="3.5833333333333335in"}
+![https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQYjmmBkdLmm9ycM6ByX5PHANtPeDH4dk_A-TLSi-uyFeGAklLg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image79.jpeg)
 
 **AN IMAGINARY CITY**
 
-![http://www.brainpickings.org/wp-content/uploads/2012/02/urville11.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image80.jpeg){width="6.268055555555556in"
-height="3.8489774715660543in"}
+![http://www.brainpickings.org/wp-content/uploads/2012/02/urville11.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image80.jpeg)
 
 **A ZOO**
 
-![http://i1-news.softpedia-static.com/images/news2/Wild-Tiger-Walks-into-a-Zoo-in-India-Refuses-to-Leave-2.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image81.jpeg){width="3.5625in"
-height="2.875in"}
+![http://i1-news.softpedia-static.com/images/news2/Wild-Tiger-Walks-into-a-Zoo-in-India-Refuses-to-Leave-2.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image81.jpeg)
 
-![http://www.holland.com/upload_mm/2/4/f/3361_fullimage_dierenparkemmen%20savanne_560x350.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image82.jpeg){width="5.833333333333333in"
-height="3.6458333333333335in"}
+![http://www.holland.com/upload_mm/2/4/f/3361_fullimage_dierenparkemmen%20savanne_560x350.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image82.jpeg)
 
 **A SMELL THAT BRING BACK MEMORIES**
 
 ![smell Nearly Impossible Trivia 3/5/10
-Smells](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image83.jpeg){width="4.7161701662292215in"
-height="3.4270833333333335in"}
+Smells](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image83.jpeg)
 
 **LIFE IN THE FUTURE**
 
-![http://soundcenterarts.com/sites/default/files/future.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image84.jpeg){width="6.268055555555556in"
-height="4.337754811898512in"}
+![http://soundcenterarts.com/sites/default/files/future.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image84.jpeg)
 
 **POINT OF VIEW**
 
@@ -453,8 +368,7 @@ height="4.337754811898512in"}
 
 - An alien
 
-![http://media111.com/wp-content/uploads/2013/12/bbc-horizon-life-future-special-documentary.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image85.jpeg){width="5.0in"
-height="3.75in"}
+![http://media111.com/wp-content/uploads/2013/12/bbc-horizon-life-future-special-documentary.jpg](assets/Thinking about genre - Writer's Notebook 20 Quick Writes/media/media/image85.jpeg)
 
 **MORE IDEAS**
 

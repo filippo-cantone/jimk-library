@@ -10,11 +10,9 @@ strand: writing-voice
 >
 > **(19)**
 
-![http://multiracialfamilyblog.files.wordpress.com/2010/06/blackbunny.jpeg](assets/Writing - Voice 19/media/media/image1.jpeg){width="5.104166666666667in"
-height="6.267382983377078in"}
+![http://multiracialfamilyblog.files.wordpress.com/2010/06/blackbunny.jpeg](assets/Writing - Voice 19/media/media/image1.jpeg)
 
-![http://multiracialfamilyblog.files.wordpress.com/2010/06/blackbunny.jpeg](assets/Writing - Voice 19/media/media/image2.jpeg){width="1.875in"
-height="2.3023042432195977in"}
+![http://multiracialfamilyblog.files.wordpress.com/2010/06/blackbunny.jpeg](assets/Writing - Voice 19/media/media/image2.jpeg)
 
 **Voice 19**
 
@@ -154,8 +152,7 @@ Disappointment Shock Exhaustion
 
 Confidence Disapproval Remorse
 
-![piggie-pie](assets/Writing - Voice 19/media/media/image3.jpeg){width="4.166666666666667in"
-height="3.40625in"}
+![piggie-pie](assets/Writing - Voice 19/media/media/image3.jpeg)
 
 Gritch the Witch woke up grouchy, grumpy, and very hungry. Her belly
 grumbled for something delicious. Something delightful. Something
@@ -450,8 +447,7 @@ Ellipses. Exclamation marks. Talking marks.
 
 *Rattlesnake's rattle Old MacDonald's farm*
 
-![421901](assets/Writing - Voice 19/media/media/image4.jpeg){width="3.3125in"
-height="4.041666666666667in"}
+![421901](assets/Writing - Voice 19/media/media/image4.jpeg)
 
 **A Fine, Fine School Sharon Creech**
 
@@ -471,26 +467,19 @@ So it\'s up to Tillie to show her well-intentioned principal, Mr. Keene,
 that even though his fine, fine school is a wonderful place, it\'s not
 fine, fine to be there all the time.
 
-![http://webcontent.harpercollins.com/images/interior/0060277378_int.jpg](assets/Writing - Voice 19/media/media/image5.jpeg){width="4.84375in"
-height="3.0833333333333335in"}
+![http://webcontent.harpercollins.com/images/interior/0060277378_int.jpg](assets/Writing - Voice 19/media/media/image5.jpeg)
 
-![http://3.bp.blogspot.com/-zHywIJrHgA8/U_08KBdZB6I/AAAAAAAAAB8/Me_GpxuKVjg/s1600/a%2Bfine%2B4.jpg](assets/Writing - Voice 19/media/media/image6.jpeg){width="6.268055555555556in"
-height="3.526266404199475in"}
+![http://3.bp.blogspot.com/-zHywIJrHgA8/U_08KBdZB6I/AAAAAAAAAB8/Me_GpxuKVjg/s1600/a%2Bfine%2B4.jpg](assets/Writing - Voice 19/media/media/image6.jpeg)
 
-![http://2.bp.blogspot.com/-9NU9-xYNDY4/U_08OCRTb_I/AAAAAAAAACE/8Bqg8efhkL8/s1600/a%2Bfine%2B5.jpg](assets/Writing - Voice 19/media/media/image7.jpeg){width="6.719438976377953in"
-height="3.78125in"}
+![http://2.bp.blogspot.com/-9NU9-xYNDY4/U_08OCRTb_I/AAAAAAAAACE/8Bqg8efhkL8/s1600/a%2Bfine%2B5.jpg](assets/Writing - Voice 19/media/media/image7.jpeg)
 
-![http://1.bp.blogspot.com/-LUlxh9afqz4/U_08GPCKbuI/AAAAAAAAABs/GJgfeHQX9wo/s1600/a%2Bfine%2B2.jpg](assets/Writing - Voice 19/media/media/image8.jpeg){width="6.71875in"
-height="3.7741601049868767in"}
+![http://1.bp.blogspot.com/-LUlxh9afqz4/U_08GPCKbuI/AAAAAAAAABs/GJgfeHQX9wo/s1600/a%2Bfine%2B2.jpg](assets/Writing - Voice 19/media/media/image8.jpeg)
 
-![http://1.bp.blogspot.com/-hygDn7ICx24/U_08XAWhTJI/AAAAAAAAACk/BLYKj9PQ0-0/s1600/a%2Bfine%2B9.jpg](assets/Writing - Voice 19/media/media/image9.jpeg){width="6.268055555555556in"
-height="3.528741251093613in"}
+![http://1.bp.blogspot.com/-hygDn7ICx24/U_08XAWhTJI/AAAAAAAAACk/BLYKj9PQ0-0/s1600/a%2Bfine%2B9.jpg](assets/Writing - Voice 19/media/media/image9.jpeg)
 
-![http://3.bp.blogspot.com/-ZnR0nv_rUDc/U_08CrQ50ZI/AAAAAAAAABg/RfvsTSP1rIg/s1600/a%2Bfine%2B10.jpg](assets/Writing - Voice 19/media/media/image10.jpeg){width="4.125in"
-height="5.354166666666667in"}
+![http://3.bp.blogspot.com/-ZnR0nv_rUDc/U_08CrQ50ZI/AAAAAAAAABg/RfvsTSP1rIg/s1600/a%2Bfine%2B10.jpg](assets/Writing - Voice 19/media/media/image10.jpeg)
 
-![http://c1.diapers.com/images/products/p/hp/hp-4632_3z.jpg](assets/Writing - Voice 19/media/media/image11.jpeg){width="6.268055555555556in"
-height="7.905837707786526in"}
+![http://c1.diapers.com/images/products/p/hp/hp-4632_3z.jpg](assets/Writing - Voice 19/media/media/image11.jpeg)
 
 **Writing**
 
@@ -913,8 +902,7 @@ A magical father-son fishing trip turns into a real bonding experience.
 +-----------------------------------------------------------------------------------+-----------------------------+----------------------+
 | Repetition                                                                        | *We bumped along, along,    | Slow down reading    |
 |                                                                                   | along the winding lane.*    |                      |
-| ![0060281111](assets/Writing - Voice 19/media/media/image12.jpeg){width="1.125in" |                             | Emphasis             |
-| height="1.46875in"}                                                               | *White white clouds*        |                      |
+| ![0060281111](assets/Writing - Voice 19/media/media/image12.jpeg)                                                               | *White white clouds*        |                      |
 |                                                                                   |                             | Rhythm               |
 |                                                                                   | *What was it like in your   |                      |
 |                                                                                   | house, the house you lived  | Style                |
@@ -1078,8 +1066,7 @@ and tall green green trees and a river rippling cool and clear.
 
 And we caught a father, and we caught a boy, who learnt to fish.
 
-![366712](assets/Writing - Voice 19/media/media/image13.jpeg){width="3.3125in"
-height="4.010416666666667in"}
+![366712](assets/Writing - Voice 19/media/media/image13.jpeg)
 
 **John Henry Julius Lester**
 
@@ -1100,8 +1087,7 @@ working-class people and a celebration of the human spirit -- as seen
 through folk songs, paintings, books, monuments, and video clips that
 have been created in honour of this giant being.
 
-![http://gatheringbooks.files.wordpress.com/2011/01/dsc05093.jpg?w=620](assets/Writing - Voice 19/media/media/image14.jpeg){width="3.8958333333333335in"
-height="2.9218755468066493in"}
+![http://gatheringbooks.files.wordpress.com/2011/01/dsc05093.jpg?w=620](assets/Writing - Voice 19/media/media/image14.jpeg)
 
 The Birth of John Henry with Animals All Around
 
@@ -1136,8 +1122,7 @@ real.
 **Conquering Evil and Working with One's Hands.** John Henry's first
 challenge was
 
-![http://gatheringbooks.files.wordpress.com/2011/01/dsc05094.jpg?w=300&h=225](assets/Writing - Voice 19/media/media/image15.jpeg){width="3.125in"
-height="2.34375in"}
+![http://gatheringbooks.files.wordpress.com/2011/01/dsc05094.jpg?w=300&h=225](assets/Writing - Voice 19/media/media/image15.jpeg)
 
 John Henry with Ferret Faced Freddy whose voice \"sounded like bat wings
 on tombstones.\"
@@ -1201,8 +1186,7 @@ machine attacked the mountain, rocks and dirt and underbrush flew into
 the air. On the other side was John Henry. Next to the mountain he
 didn't look much bigger than a wish that wasn't going to come true.*
 
-![http://gatheringbooks.files.wordpress.com/2011/01/john-henry.jpg?w=620](assets/Writing - Voice 19/media/media/image16.jpeg){width="4.916666666666667in"
-height="4.099865485564305in"}
+![http://gatheringbooks.files.wordpress.com/2011/01/john-henry.jpg?w=620](assets/Writing - Voice 19/media/media/image16.jpeg)
 
 A monument in honour of John Henry
 
@@ -1212,13 +1196,11 @@ stories told in a circle by the fire -- whispered through the ages,
 hollered across train tunnels, declared in public speeches that move
 millions of people.
 
-![http://gatheringbooks.files.wordpress.com/2011/01/360_dsc00795.jpg](assets/Writing - Voice 19/media/media/image17.jpeg){width="2.1666666666666665in"
-height="3.2365146544181975in"}
+![http://gatheringbooks.files.wordpress.com/2011/01/360_dsc00795.jpg](assets/Writing - Voice 19/media/media/image17.jpeg)
 
 The Original Great Bend Tunnel
 
-![http://gatheringbooks.files.wordpress.com/2011/01/dsc_0006crop.jpg?w=620](assets/Writing - Voice 19/media/media/image18.jpeg){width="5.270833333333333in"
-height="5.270833333333333in"}
+![http://gatheringbooks.files.wordpress.com/2011/01/dsc_0006crop.jpg?w=620](assets/Writing - Voice 19/media/media/image18.jpeg)
 
 Plaque that provides rich details about the Big Bend Tunnel.
 
@@ -1558,8 +1540,7 @@ RINGGGG! RINGGGG!
 |                 | *RINGGGG! RINGGGG*         |                      |
 +-----------------+----------------------------+----------------------+
 
-![http://www.christelow.com/images/5-dog%20night.jpg](assets/Writing - Voice 19/media/media/image19.jpeg){width="2.0416666666666665in"
-height="2.5in"}
+![http://www.christelow.com/images/5-dog%20night.jpg](assets/Writing - Voice 19/media/media/image19.jpeg)
 
 **The Five-Dog Night Eileen Christelow**
 
@@ -1591,8 +1572,7 @@ Unbelievably, our conversation was interrupted by a phone call from . .
 . can you guess? Will Curtis! He was asking permission to use one of her
 articles on his radio program.
 
-![http://www.christelow.com/images/2%20big%20dogs%20run.png](assets/Writing - Voice 19/media/media/image20.png){width="2.46875in"
-height="1.1666666666666667in"}
+![http://www.christelow.com/images/2%20big%20dogs%20run.png](assets/Writing - Voice 19/media/media/image20.png)
 
 Did the old Vermonter (Ezra) actually exist?
 
@@ -1603,16 +1583,14 @@ told and retold.
 The expression, \'three-dog night\', has been around for a
 while---shared by many cultures which have dogs and cold nights.
 
-![http://www.christelow.com/images/running%20dogs-1.png](assets/Writing - Voice 19/media/media/image21.png){width="5.270833333333333in"
-height="1.6458333333333333in"}
+![http://www.christelow.com/images/running%20dogs-1.png](assets/Writing - Voice 19/media/media/image21.png)
 
 Was old Betty in the original story?
 
 No, I added old Betty to build the plot. So in addition to a story about
 dogs and warmth, it became a story about friendship.
 
-![http://www.christelow.com/images/5-dog%20night%20pg%2020-21.jpg](assets/Writing - Voice 19/media/media/image22.jpeg){width="6.268055555555556in"
-height="3.895449475065617in"}
+![http://www.christelow.com/images/5-dog%20night%20pg%2020-21.jpg](assets/Writing - Voice 19/media/media/image22.jpeg)
 
 **The Five-Dog Night Eileen Christelow**
 
@@ -1832,8 +1810,7 @@ two-dog night!"
 **Canoe Days Gary Paulsen**
 
 ![Canoe
-Days](assets/Writing - Voice 19/media/media/image23.jpeg){width="2.3958333333333335in"
-height="2.625in"}
+Days](assets/Writing - Voice 19/media/media/image23.jpeg)
 
 Peace. Stillness. Quiet. Nature observation at its best. Paulsen\'s
 poetic language draws the reader onto the serene lake with him and his
@@ -1936,8 +1913,7 @@ the sun is on my back like a golden friend on this perfect day.
 
 A canoe day.
 
-![http://2.bp.blogspot.com/\_8W5Hx-kr6fg/Sq1YA5cXa_I/AAAAAAAABrY/uh0fKvLRiNc/s400/hatebook.jpg](assets/Writing - Voice 19/media/media/image24.jpeg){width="4.166666666666667in"
-height="3.875in"}
+![http://2.bp.blogspot.com/\_8W5Hx-kr6fg/Sq1YA5cXa_I/AAAAAAAABrY/uh0fKvLRiNc/s400/hatebook.jpg](assets/Writing - Voice 19/media/media/image24.jpeg)
 
 **The Hating Book** **Charlotte Zolotow**
 
@@ -2018,11 +1994,9 @@ been afraid to discuss your feelings with them? What were you afraid of?
 
 **.**
 
-![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow8.jpg](assets/Writing - Voice 19/media/media/image25.jpeg){width="5.208333333333333in"
-height="5.125in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow8.jpg](assets/Writing - Voice 19/media/media/image25.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow12.jpg](assets/Writing - Voice 19/media/media/image26.jpeg){width="5.208333333333333in"
-height="4.96875in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow12.jpg](assets/Writing - Voice 19/media/media/image26.jpeg)
 
 [**[The Hating Book: An Illustrated Vintage Parable About What Every
 Friendship
@@ -2032,8 +2006,7 @@ Needs]{.underline}**](http://www.brainpickings.org/2014/02/21/the-hating-book-ch
 
 > *"You're ugly and dumb. Being with you was never fun."*
 
-[![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow.jpg](assets/Writing - Voice 19/media/media/image27.jpeg){width="2.1875in"
-height="2.0208333333333335in"}](http://www.amazon.com/exec/obidos/ASIN/0064431975/braipick-20)In
+[![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow.jpg](assets/Writing - Voice 19/media/media/image27.jpeg)](http://www.amazon.com/exec/obidos/ASIN/0064431975/braipick-20)In
 1961, young [Maurice
 Sendak](http://www.brainpickings.org/index.php/tag/maurice-sendak/) illustrated
 [*Let's Be
@@ -2062,24 +2035,20 @@ that a great deal of how we interpret another person's behavior and
 intentions is merely a projection of the stories we've constructed about
 them, and that open communication is the glue of true friendship.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow1.jpg](assets/Writing - Voice 19/media/media/image28.jpeg){width="5.208333333333333in"
-height="4.885416666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow1.jpg](assets/Writing - Voice 19/media/media/image28.jpeg)
 
 I hate, hate, hated my friend.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow2.jpg](assets/Writing - Voice 19/media/media/image29.jpeg){width="5.208333333333333in"
-height="4.916666666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow2.jpg](assets/Writing - Voice 19/media/media/image29.jpeg)
 
 When I moved over in the school bus, she sat somewhere else.
 
 When her point broke in arithmetic and I passed her my pencil, she took
 Peter's instead.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow3.jpg](assets/Writing - Voice 19/media/media/image30.jpeg){width="5.208333333333333in"
-height="4.729166666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow3.jpg](assets/Writing - Voice 19/media/media/image30.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow4.jpg](assets/Writing - Voice 19/media/media/image31.jpeg){width="5.208333333333333in"
-height="4.75in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow4.jpg](assets/Writing - Voice 19/media/media/image31.jpeg)
 
 What if she should say\
 Oh, please, just go away.\
@@ -2087,24 +2056,20 @@ You're ugly and dumb.\
 Being with you\
 was never fun.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow5.jpg](assets/Writing - Voice 19/media/media/image32.jpeg){width="5.208333333333333in"
-height="4.635416666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow5.jpg](assets/Writing - Voice 19/media/media/image32.jpeg)
 
 Oh, I hated my friend.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow6.jpg](assets/Writing - Voice 19/media/media/image33.jpeg){width="5.208333333333333in"
-height="4.885416666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow6.jpg](assets/Writing - Voice 19/media/media/image33.jpeg)
 
 When it was her turn to wash the board,\
 she didn't ask me to help.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow7.jpg](assets/Writing - Voice 19/media/media/image34.jpeg){width="5.208333333333333in"
-height="4.604166666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow7.jpg](assets/Writing - Voice 19/media/media/image34.jpeg)
 
 Oh, I hated my friend.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow8.jpg](assets/Writing - Voice 19/media/media/image25.jpeg){width="5.208333333333333in"
-height="5.125in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow8.jpg](assets/Writing - Voice 19/media/media/image25.jpeg)
 
 When I went to walk home with her,\
 she had already gone.
@@ -2114,19 +2079,16 @@ and I whistled to him,\
 she put him on a leash\
 and led him away.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow9.jpg](assets/Writing - Voice 19/media/media/image35.jpeg){width="5.208333333333333in"
-height="4.947916666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow9.jpg](assets/Writing - Voice 19/media/media/image35.jpeg)
 
 Oh, I hated my friend.
 
 After a few more spreads of inner turmoil, the snubbed little girl
 eventually decides to take her mother's advice and confront her friend.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow10.jpg](assets/Writing - Voice 19/media/media/image36.jpeg){width="5.208333333333333in"
-height="4.802083333333333in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow10.jpg](assets/Writing - Voice 19/media/media/image36.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow11.jpg](assets/Writing - Voice 19/media/media/image37.jpeg){width="5.208333333333333in"
-height="5.260416666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow11.jpg](assets/Writing - Voice 19/media/media/image37.jpeg)
 
 "You've been so rotten," I said.\
 "Why?"\
@@ -2138,8 +2100,7 @@ I looked like a freak."\
 "I did not!\
 I said you looked *neat*!"
 
-![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow12.jpg](assets/Writing - Voice 19/media/media/image26.jpeg){width="5.208333333333333in"
-height="4.96875in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow12.jpg](assets/Writing - Voice 19/media/media/image26.jpeg)
 
 She looked straight at me for a while,\
 and then we both began to smile.\
@@ -2147,8 +2108,7 @@ My friend said, "Hey\
 maybe tomorrow we can play?"\
 "Oh, yes," I said, "OKAY!"
 
-![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow13.jpg](assets/Writing - Voice 19/media/media/image38.jpeg){width="5.208333333333333in"
-height="4.760416666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/02/thehatingbook_zolotow13.jpg](assets/Writing - Voice 19/media/media/image38.jpeg)
 
 I didn't hate her anyway.\
 I wish it were tomorrow.
@@ -2257,90 +2217,64 @@ I didn't hate her anyway.
 
 I wish it were tomorrow.
 
-![http://media-cache-ak0.pinimg.com/736x/18/10/b9/1810b99a79c0da24a18b288432751b8e.jpg](assets/Writing - Voice 19/media/media/image39.jpeg){width="3.8229166666666665in"
-height="4.3050863954505685in"}
+![http://media-cache-ak0.pinimg.com/736x/18/10/b9/1810b99a79c0da24a18b288432751b8e.jpg](assets/Writing - Voice 19/media/media/image39.jpeg)
 
 James and John are best friends \-- or at least they used to be. They
 shared pretzels, umbrellas, and even chicken pox. Now James always wants
 to be boss, and John doesn\'t want to be friends anymore. But when he
 goes to James\' house to tell him so, something unexpected happens.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies1.jpg](assets/Writing - Voice 19/media/media/image40.jpeg){width="5.208333333333333in"
-height="3.46875in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies1.jpg](assets/Writing - Voice 19/media/media/image40.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies2.jpg](assets/Writing - Voice 19/media/media/image41.jpeg){width="5.208333333333333in"
-height="6.416666666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies2.jpg](assets/Writing - Voice 19/media/media/image41.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies3.jpg](assets/Writing - Voice 19/media/media/image42.jpeg){width="5.208333333333333in"
-height="4.21875in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies3.jpg](assets/Writing - Voice 19/media/media/image42.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies25.jpg](assets/Writing - Voice 19/media/media/image43.jpeg){width="5.208333333333333in"
-height="6.510416666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies25.jpg](assets/Writing - Voice 19/media/media/image43.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies26.jpg](assets/Writing - Voice 19/media/media/image44.jpeg){width="5.208333333333333in"
-height="6.395833333333333in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies26.jpg](assets/Writing - Voice 19/media/media/image44.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies5.jpg](assets/Writing - Voice 19/media/media/image45.jpeg){width="5.208333333333333in"
-height="6.34375in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies5.jpg](assets/Writing - Voice 19/media/media/image45.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies6.jpg](assets/Writing - Voice 19/media/media/image46.jpeg){width="5.208333333333333in"
-height="6.197916666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies6.jpg](assets/Writing - Voice 19/media/media/image46.jpeg)
 
 So now James is my enemy. Now he hasn't got me for a friend.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies7.jpg](assets/Writing - Voice 19/media/media/image47.jpeg){width="5.208333333333333in"
-height="6.28125in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies7.jpg](assets/Writing - Voice 19/media/media/image47.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies8.jpg](assets/Writing - Voice 19/media/media/image48.jpeg){width="5.208333333333333in"
-height="6.427083333333333in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies8.jpg](assets/Writing - Voice 19/media/media/image48.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies9.jpg](assets/Writing - Voice 19/media/media/image49.jpeg){width="5.208333333333333in"
-height="6.427083333333333in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies9.jpg](assets/Writing - Voice 19/media/media/image49.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies10.jpg](assets/Writing - Voice 19/media/media/image50.jpeg){width="5.208333333333333in"
-height="6.53125in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies10.jpg](assets/Writing - Voice 19/media/media/image50.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies11.jpg](assets/Writing - Voice 19/media/media/image51.jpeg){width="5.208333333333333in"
-height="2.96875in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies11.jpg](assets/Writing - Voice 19/media/media/image51.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies12.jpg](assets/Writing - Voice 19/media/media/image52.jpeg){width="5.208333333333333in"
-height="6.5625in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies12.jpg](assets/Writing - Voice 19/media/media/image52.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies13.jpg](assets/Writing - Voice 19/media/media/image53.jpeg){width="5.208333333333333in"
-height="6.34375in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies13.jpg](assets/Writing - Voice 19/media/media/image53.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies14.jpg](assets/Writing - Voice 19/media/media/image54.jpeg){width="5.208333333333333in"
-height="6.53125in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies14.jpg](assets/Writing - Voice 19/media/media/image54.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies15.jpg](assets/Writing - Voice 19/media/media/image55.jpeg){width="5.208333333333333in"
-height="6.333333333333333in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies15.jpg](assets/Writing - Voice 19/media/media/image55.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies16.jpg](assets/Writing - Voice 19/media/media/image56.jpeg){width="5.208333333333333in"
-height="6.395833333333333in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies16.jpg](assets/Writing - Voice 19/media/media/image56.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies17.jpg](assets/Writing - Voice 19/media/media/image57.jpeg){width="5.208333333333333in"
-height="6.416666666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies17.jpg](assets/Writing - Voice 19/media/media/image57.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies18.jpg](assets/Writing - Voice 19/media/media/image58.jpeg){width="5.208333333333333in"
-height="6.135416666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies18.jpg](assets/Writing - Voice 19/media/media/image58.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies19.jpg](assets/Writing - Voice 19/media/media/image59.jpeg){width="5.208333333333333in"
-height="6.166666666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies19.jpg](assets/Writing - Voice 19/media/media/image59.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies21.jpg](assets/Writing - Voice 19/media/media/image60.jpeg){width="5.208333333333333in"
-height="6.4375in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies21.jpg](assets/Writing - Voice 19/media/media/image60.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies22.jpg](assets/Writing - Voice 19/media/media/image61.jpeg){width="5.208333333333333in"
-height="6.385416666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies22.jpg](assets/Writing - Voice 19/media/media/image61.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies23.jpg](assets/Writing - Voice 19/media/media/image62.jpeg){width="5.208333333333333in"
-height="6.34375in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies23.jpg](assets/Writing - Voice 19/media/media/image62.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies24.jpg](assets/Writing - Voice 19/media/media/image63.jpeg){width="5.208333333333333in"
-height="6.166666666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies24.jpg](assets/Writing - Voice 19/media/media/image63.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies20.jpg](assets/Writing - Voice 19/media/media/image64.jpeg){width="5.208333333333333in"
-height="6.270833333333333in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/01/letsbeenemies20.jpg](assets/Writing - Voice 19/media/media/image64.jpeg)
 
 **Let's Be Enemies Janice Udry**
 
@@ -2410,8 +2344,7 @@ one to play with.
 
 "Thank you, James."
 
-![http://www.aprilsayre.com/wp-content/uploads/yapb_cache/sayre_turtlewatchout.6ycrrbjhiy4ow404c4044wk40.5u96ah3skeo8g8c8k4ck8owgo.th.jpeg](assets/Writing - Voice 19/media/media/image65.jpeg){width="4.6875in"
-height="4.6875in"}
+![http://www.aprilsayre.com/wp-content/uploads/yapb_cache/sayre_turtlewatchout.6ycrrbjhiy4ow404c4044wk40.5u96ah3skeo8g8c8k4ck8owgo.th.jpeg](assets/Writing - Voice 19/media/media/image65.jpeg)
 
 **Turtle, Turtle, Watch Out! April Sayre**
 
@@ -2438,8 +2371,7 @@ Repetition
 
 Onomatopoeia
 
-![http://www.charlesbridge.com/client/client_images/spreads/turtle_turtle_spread.jpg](assets/Writing - Voice 19/media/media/image66.jpeg){width="5.59375in"
-height="2.8061975065616798in"}
+![http://www.charlesbridge.com/client/client_images/spreads/turtle_turtle_spread.jpg](assets/Writing - Voice 19/media/media/image66.jpeg)
 
 Mother sea turtle lays her eggs in the Florida sand, then crawls back
 into the water. Raccoons begin to dig up the eggs, but a boy scares them
@@ -2570,8 +2502,7 @@ One day those eggs will hatch. The tiny turtles will begin their
 journeys, scrambling across the sand. And some will make it, with a
 little luck, and fast-moving flippers, and the help of many hands.
 
-![http://ecx.images-amazon.com/images/I/212HFG1ZP5L.jpg](assets/Writing - Voice 19/media/media/image67.jpeg){width="1.1458333333333333in"
-height="1.4583333333333333in"}
+![http://ecx.images-amazon.com/images/I/212HFG1ZP5L.jpg](assets/Writing - Voice 19/media/media/image67.jpeg)
 
 **Bears Out There Joanna Ryder**
 

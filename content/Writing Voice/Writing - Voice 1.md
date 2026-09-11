@@ -11,14 +11,12 @@ strand: writing-voice
 > **(1)**
 >
 > ![credit: marriage minded
-> mentor](assets/Writing - Voice 1/media/media/image1.jpeg){width="6.268055555555556in"
-> height="2.782208005249344in"}
+> mentor](assets/Writing - Voice 1/media/media/image1.jpeg)
 
 **\**
 
 ![credit: marriage minded
-mentor](assets/Writing - Voice 1/media/media/image2.jpeg){width="3.40625in"
-height="1.5104166666666667in"}
+mentor](assets/Writing - Voice 1/media/media/image2.jpeg)
 
 **Voice - 1**
 
@@ -57,13 +55,11 @@ The Bird House Cynthia Rylant
 ![A new submission to our forthcoming all-illustrated Six-Word Memoir
 book by students across the world from Liz P., in high school in Union,
 Missouri. Share yours her or email us \&#8212; more details
-at: http://bit.ly/sixwithted](assets/Writing - Voice 1/media/media/image3.jpeg){width="2.3958333333333335in"
-height="3.296666666666667in"}
+at: http://bit.ly/sixwithted](assets/Writing - Voice 1/media/media/image3.jpeg)
 
 **What is Voice?**
 
-![rushing](assets/Writing - Voice 1/media/media/image4.jpeg){width="2.3020833333333335in"
-height="2.375in"}
+![rushing](assets/Writing - Voice 1/media/media/image4.jpeg)
 
 - It's pizzazz!
 
@@ -154,8 +150,7 @@ mysteriousness are just a few of the angles you can use.
 
 **\**
 
-![https://lynnecollieratthewhiterosewriters.files.wordpress.com/2014/09/dr-seuss-today-you-are-you.jpg](assets/Writing - Voice 1/media/media/image5.jpeg){width="6.0in"
-height="7.5in"}
+![https://lynnecollieratthewhiterosewriters.files.wordpress.com/2014/09/dr-seuss-today-you-are-you.jpg](assets/Writing - Voice 1/media/media/image5.jpeg)
 
 **\**
 
@@ -202,13 +197,11 @@ applying voice when they exhibit the following:
 
 - Scholastic
 
-![https://ingridsnotes.files.wordpress.com/2010/09/i_love_my_voice\_.jpg?w=245&h=300](assets/Writing - Voice 1/media/media/image6.jpeg){width="2.475521653543307in"
-height="3.03125in"}
+![https://ingridsnotes.files.wordpress.com/2010/09/i_love_my_voice\_.jpg?w=245&h=300](assets/Writing - Voice 1/media/media/image6.jpeg)
 
 **Show Don't Tell**
 
-![http://1.bp.blogspot.com/-JfxxQ9Y6aOA/U0LuzyB2kzI/AAAAAAAAAls/kkQV1zt-yNU/s1600/Screen-Shot-2013-11-20-at-3.24.03-PM.png](assets/Writing - Voice 1/media/media/image7.png){width="4.854166666666667in"
-height="3.0in"}
+![http://1.bp.blogspot.com/-JfxxQ9Y6aOA/U0LuzyB2kzI/AAAAAAAAAls/kkQV1zt-yNU/s1600/Screen-Shot-2013-11-20-at-3.24.03-PM.png](assets/Writing - Voice 1/media/media/image7.png)
 
 *The children played in the backyard. There were a lot of them. They
 were loud. It was a hot day. By noon, they got tired.*
@@ -307,8 +300,7 @@ important learning times.
 yourself full of craft. Then try it out yourself and see what works.*
 
 ![Lovely quote from Voltaire, paint your voice on paper. #writing
-#quote](assets/Writing - Voice 1/media/media/image8.jpeg){width="2.90625in"
-height="3.3333333333333335in"}
+#quote](assets/Writing - Voice 1/media/media/image8.jpeg)
 
 **Assisting "Voice"**
 
@@ -340,8 +332,7 @@ works.\"
 
 ![Roald Dahl\'s thank you letter to a fan who sent him a dream in a
 bottle. Photo:
-lettersofnote.com](assets/Writing - Voice 1/media/media/image9.jpeg){width="6.268055555555556in"
-height="4.168511592300963in"}
+lettersofnote.com](assets/Writing - Voice 1/media/media/image9.jpeg)
 
 **Barack Obama:** Thank you for the lovely book
 
@@ -353,8 +344,7 @@ novel an \'elegant proof of God and the power of storytelling\'.
 
 ![Barack Obama\'s thank you letter to Life of Pi author Yann Martel.
 Photo:
-lettersofnote.com](assets/Writing - Voice 1/media/media/image10.jpeg){width="6.268055555555556in"
-height="4.168511592300963in"}
+lettersofnote.com](assets/Writing - Voice 1/media/media/image10.jpeg)
 
 Audrey Hepburn: Thank you for the music
 
@@ -373,8 +363,7 @@ the hippest of cats -- and the most sensitive of composers!
 
 ![Audrey Hepburn\'s thank you letter to composer Henry Mancini, who
 wrote the music for Breakfast at Tiffany\'s. Photo:
-lettersofnote.com](assets/Writing - Voice 1/media/media/image11.jpeg){width="5.416666666666667in"
-height="5.489583333333333in"}
+lettersofnote.com](assets/Writing - Voice 1/media/media/image11.jpeg)
 
 **Dialogue**
 
@@ -450,11 +439,9 @@ character, chances are their second writing experience will have a
 stronger and more authentic voice.
 
 ![ray bradbury quote via la la
-lovely](assets/Writing - Voice 1/media/media/image12.jpeg){width="3.529495844269466in"
-height="5.135416666666667in"}
+lovely](assets/Writing - Voice 1/media/media/image12.jpeg)
 
-![http://2.bp.blogspot.com/-p0My_gnXpv0/UIMvhnUOPFI/AAAAAAAAANI/dOt9HF7-UK0/s320/Best_Story.jpg](assets/Writing - Voice 1/media/media/image13.jpeg){width="2.6979166666666665in"
-height="3.3333333333333335in"}
+![http://2.bp.blogspot.com/-p0My_gnXpv0/UIMvhnUOPFI/AAAAAAAAANI/dOt9HF7-UK0/s320/Best_Story.jpg](assets/Writing - Voice 1/media/media/image13.jpeg)
 
 The perfect read-aloud to teach the importance of VOICE!
 
@@ -561,11 +548,9 @@ that roller coaster ride with Anne Miles and maybe I won't. Either way,
 I'll be happy. I'll be a winner. Because the story I wrote is my own.
 Not somebody else's. And that makes it the best.
 
-![http://ecx.images-amazon.com/images/I/51DnVoqWcWL.jpg](assets/Writing - Voice 1/media/media/image14.jpeg){width="3.9895833333333335in"
-height="5.208333333333333in"}
+![http://ecx.images-amazon.com/images/I/51DnVoqWcWL.jpg](assets/Writing - Voice 1/media/media/image14.jpeg)
 
-![http://www.simandan.com/wp-content/uploads/2010/05/voices-in-the-park.jpg](assets/Writing - Voice 1/media/media/image15.jpeg){width="3.0104166666666665in"
-height="3.4270833333333335in"}
+![http://www.simandan.com/wp-content/uploads/2010/05/voices-in-the-park.jpg](assets/Writing - Voice 1/media/media/image15.jpeg)
 
 Four different voices tell their own versions of the same walk in the
 park. The radically different perspectives give a fascinating depth to
@@ -598,8 +583,7 @@ For an interactive talking book version go to *researchkingsdtonbooks
 alive.*
 
 ![Literacy
-Ideas](assets/Writing - Voice 1/media/media/image16.jpeg){width="1.5625in"
-height="0.3125in"}
+Ideas](assets/Writing - Voice 1/media/media/image16.jpeg)
 
 - Create a character profile for each of the four \'voices\' in the
   story.
@@ -760,8 +744,7 @@ lonely and unsure of himself. The font in Smudge's story is fun and
 childish, matching her cheerful persona.
 
 ![VITP
-Font](assets/Writing - Voice 1/media/media/image17.jpeg){width="2.2083333333333335in"
-height="3.125in"}
+Font](assets/Writing - Voice 1/media/media/image17.jpeg)
 
 Each perspective is shown through a different season, even though the
 scenes unfold at the same point in time. There are links from each
@@ -774,8 +757,7 @@ growth and change for Charles, although his seasons change from spring
 as he has fun with Smudge, to winter as he is alone with his mother
 again. Bright summertime colours signify Smudge's nature.
 
-![VITPSeasons](assets/Writing - Voice 1/media/media/image18.jpeg){width="2.34375in"
-height="3.125in"}
+![VITPSeasons](assets/Writing - Voice 1/media/media/image18.jpeg)
 
 Line can be used to draw the eye to what the illustrator feels is
 important or to suggest movement or establish a mood (Giorgis et al.,
@@ -790,8 +772,7 @@ path; on the side of the mother there is no litter and the path is
 clean.
 
 ![VITP
-Parkbenchexample](assets/Writing - Voice 1/media/media/image19.jpeg){width="3.125in"
-height="2.84375in"}
+Parkbenchexample](assets/Writing - Voice 1/media/media/image19.jpeg)
 
 In one significant image Charles' mother's shadow is cast over him and
 the shape of her hat reappears in the form of lampposts, the shape of a
@@ -799,8 +780,7 @@ tree and the outline of clouds. This suggests the overbearing influence
 of his mother on his life.
 
 ![VITP Hat
-Ex](assets/Writing - Voice 1/media/media/image20.jpeg){width="3.125in"
-height="3.125in"}
+Ex](assets/Writing - Voice 1/media/media/image20.jpeg)
 
 There are many more visual elements within this text representing class
 structure, friendship and assumptions people make about each other which
@@ -885,20 +865,15 @@ he had to go.**
 **When I got home I put the flower in some water, and made Dad a nice
 cup of cocoa.**
 
-![https://kyliejohnson4.files.wordpress.com/2013/08/vitp-parkbenchexample.jpg](assets/Writing - Voice 1/media/media/image21.jpeg){width="6.268055555555556in"
-height="5.70796697287839in"}
+![https://kyliejohnson4.files.wordpress.com/2013/08/vitp-parkbenchexample.jpg](assets/Writing - Voice 1/media/media/image21.jpeg)
 
-![https://learningworld11.files.wordpress.com/2012/05/first_voice_in_the_park.png?w=652](assets/Writing - Voice 1/media/media/image22.png){width="4.322916666666667in"
-height="4.010416666666667in"}
+![https://learningworld11.files.wordpress.com/2012/05/first_voice_in_the_park.png?w=652](assets/Writing - Voice 1/media/media/image22.png)
 
-![http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/3/1/1298972848787/Anthony-Browne-004.jpg](assets/Writing - Voice 1/media/media/image23.jpeg){width="4.413579396325459in"
-height="4.46875in"}
+![http://static.guim.co.uk/sys-images/Guardian/Pix/pictures/2011/3/1/1298972848787/Anthony-Browne-004.jpg](assets/Writing - Voice 1/media/media/image23.jpeg)
 
-![https://kelester19.files.wordpress.com/2013/12/2.jpg](assets/Writing - Voice 1/media/media/image24.jpeg){width="6.268055555555556in"
-height="8.94284230096238in"}
+![https://kelester19.files.wordpress.com/2013/12/2.jpg](assets/Writing - Voice 1/media/media/image24.jpeg)
 
-![https://kelester19.files.wordpress.com/2013/12/3.jpg](assets/Writing - Voice 1/media/media/image25.jpeg){width="6.268055555555556in"
-height="7.661583552055993in"}
+![https://kelester19.files.wordpress.com/2013/12/3.jpg](assets/Writing - Voice 1/media/media/image25.jpeg)
 
 **Anthony Brown on Voices in the Park**
 
@@ -923,161 +898,137 @@ Children notice more than adults do that I\'ve painted the mongrel dog
 with the pedigree dog\'s tail and vice versa. They\'ve almost become
 each other.
 
-![https://scontent-lax.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10981609_941804245853643_5789762166878063941_n.jpg?oh=ba2fa4bdb16d525b4ed1667aa210cc5c&oe=55B64345](assets/Writing - Voice 1/media/media/image26.jpeg){width="2.5416666666666665in"
-height="2.3960498687664042in"}
+![https://scontent-lax.xx.fbcdn.net/hphotos-xfp1/v/t1.0-9/10981609_941804245853643_5789762166878063941_n.jpg?oh=ba2fa4bdb16d525b4ed1667aa210cc5c&oe=55B64345](assets/Writing - Voice 1/media/media/image26.jpeg)
 
 ![voices in the park front
-cover](assets/Writing - Voice 1/media/media/image27.jpeg){width="3.03125in"
-height="3.4583333333333335in"}
+cover](assets/Writing - Voice 1/media/media/image27.jpeg)
 
 ![Mum walking past
-house](assets/Writing - Voice 1/media/media/image28.jpeg){width="4.6875in"
-height="4.25in"}
+house](assets/Writing - Voice 1/media/media/image28.jpeg)
 
 It was time to take Victoria,our pedigree \
 Labrador, and Charles, our son, for a walk.
 
 ![Mum with
-Victoria](assets/Writing - Voice 1/media/media/image29.jpeg){width="4.489583333333333in"
-height="4.166666666666667in"}
+Victoria](assets/Writing - Voice 1/media/media/image29.jpeg)
 
 When we arrived at the park, I let Victoria off her lead. Immediately
 some scruffy mongrel appeared and started bothering her.
 
 ![Charles and Mum on
-bench](assets/Writing - Voice 1/media/media/image30.jpeg){width="4.0in"
-height="4.166666666666667in"}
+bench](assets/Writing - Voice 1/media/media/image30.jpeg)
 
 I shooed it off, but the horrible thing chased her all over the park. I
 ordered it to go away, but it took no notice of me whatsoever. \"Sit,\"
 I said to Charles. \"Here.\"
 
 ![Dad and Mum in
-park](assets/Writing - Voice 1/media/media/image31.jpeg){width="4.739583333333333in"
-height="4.166666666666667in"}
+park](assets/Writing - Voice 1/media/media/image31.jpeg)
 
 I was just planning what we should have to eat that evening when I saw
 Charles had disappeared. Oh dear! Where had he gone?
 
 ![Mum
-shouting](assets/Writing - Voice 1/media/media/image32.jpeg){width="5.09375in"
-height="4.166666666666667in"}
+shouting](assets/Writing - Voice 1/media/media/image32.jpeg)
 
 You get some frightful types in the park these days!\
 I called his name for what seemed like an age.
 
 ![Charles and Smudge in the
-park](assets/Writing - Voice 1/media/media/image33.jpeg){width="3.21875in"
-height="4.166666666666667in"}
+park](assets/Writing - Voice 1/media/media/image33.jpeg)
 
 Then I saw him talking to a very rough-looking child. \"Charles, come
 here. At once!\" I said. \"And come here please, Victoria.\"
 
 ![Mum leaving the
-park](assets/Writing - Voice 1/media/media/image34.jpeg){width="3.5104166666666665in"
-height="4.166666666666667in"}
+park](assets/Writing - Voice 1/media/media/image34.jpeg)
 
 We walked home in silence.
 
 ![Dad at
-home](assets/Writing - Voice 1/media/media/image35.jpeg){width="4.0625in"
-height="4.166666666666667in"}
+home](assets/Writing - Voice 1/media/media/image35.jpeg)
 
 **I needed to get out of the house,**
 
 ![Dad going to the
-park](assets/Writing - Voice 1/media/media/image36.jpeg){width="3.53125in"
-height="4.166666666666667in"}
+park](assets/Writing - Voice 1/media/media/image36.jpeg)
 
 **so me and Smudge took the dog to the park.**
 
 ![Dad and Albert in
-park](assets/Writing - Voice 1/media/media/image37.jpeg){width="4.385416666666667in"
-height="4.166666666666667in"}
+park](assets/Writing - Voice 1/media/media/image37.jpeg)
 
 **He loves it there.**
 
 ![Albert and Victoria in the
-park](assets/Writing - Voice 1/media/media/image38.jpeg){width="3.53125in"
-height="4.166666666666667in"}
+park](assets/Writing - Voice 1/media/media/image38.jpeg)
 
 **I wish I had half the energy he\'s got.**
 
 ![Dad reading a
-newspaper](assets/Writing - Voice 1/media/media/image39.jpeg){width="4.708333333333333in"
-height="4.166666666666667in"}
+newspaper](assets/Writing - Voice 1/media/media/image39.jpeg)
 
 **I settled on a bench and looked through the paper for a job.\
 I know it\'s a waste of time really, but you\'ve got to have a bit of
 hope, haven\'t you?**
 
 ![Dad, Smudge and Albert walking
-home](assets/Writing - Voice 1/media/media/image40.jpeg){width="3.46875in"
-height="4.166666666666667in"}
+home](assets/Writing - Voice 1/media/media/image40.jpeg)
 
 **Then it was time to go. Smudge cheered me up. She chatted happily to
 me all the way home.**
 
 ![Charles at
-home](assets/Writing - Voice 1/media/media/image41.jpeg){width="3.0416666666666665in"
-height="4.166666666666667in"}
+home](assets/Writing - Voice 1/media/media/image41.jpeg)
 
 I was at home on my own again. It\'s so boring. Then Mummy said that it
 was time for our walk.
 
 ![Charles in the
-park](assets/Writing - Voice 1/media/media/image42.jpeg){width="4.03125in"
-height="4.166666666666667in"}
+park](assets/Writing - Voice 1/media/media/image42.jpeg)
 
 There was a very friendly dog in the park and Victoria was having a
 great time. \
 I wished I was.
 
 ![Charles and Smudge on the park
-bench](assets/Writing - Voice 1/media/media/image43.jpeg){width="4.770833333333333in"
-height="4.166666666666667in"}
+bench](assets/Writing - Voice 1/media/media/image43.jpeg)
 
 \"D\'you wanna come on the slide?\" a voice asked. \
 It was a girl, unfortunately, but I went anyway.
 
 ![Charles and Smudge on
-slide](assets/Writing - Voice 1/media/media/image44.jpeg){width="3.3020833333333335in"
-height="4.166666666666667in"}
+slide](assets/Writing - Voice 1/media/media/image44.jpeg)
 
 She was brilliant on the slide, she went really fast. \
 I was amazed.
 
 ![Victoria and Albert in the
-park](assets/Writing - Voice 1/media/media/image45.jpeg){width="3.71875in"
-height="4.166666666666667in"}
+park](assets/Writing - Voice 1/media/media/image45.jpeg)
 
 The two dogs raced round like old friends.
 
 ![Smudge and Victoria on the climbing
-frame](assets/Writing - Voice 1/media/media/image46.jpeg){width="5.104166666666667in"
-height="4.166666666666667in"}
+frame](assets/Writing - Voice 1/media/media/image46.jpeg)
 
 The girl took off her coat and swung on the climbing frame, so I did the
 same.
 
 ![Charles and Smudge climbing a
-tree](assets/Writing - Voice 1/media/media/image47.jpeg){width="3.84375in"
-height="4.166666666666667in"}
+tree](assets/Writing - Voice 1/media/media/image47.jpeg)
 
 I\'m good at climbing trees, so I showed her how to do it. She told me
 her name was Smudge - a funny name, I know, but she\'s quite nice.
 
 ![Mum and Charles leaving the
-park](assets/Writing - Voice 1/media/media/image48.jpeg){width="3.0729166666666665in"
-height="4.166666666666667in"}
+park](assets/Writing - Voice 1/media/media/image48.jpeg)
 
 Then Mummy caught us talking together and I had to go home.
 
 Maybe Smudge will be there next time?
 
 ![Dad, Smudge and Albert go to the
-park](assets/Writing - Voice 1/media/media/image49.jpeg){width="4.25in"
-height="4.166666666666667in"}
+park](assets/Writing - Voice 1/media/media/image49.jpeg)
 
 Dad had been really fed up, so I was pleased when he said we could take
 Albert to the park.
@@ -1085,61 +1036,52 @@ Albert to the park.
 Albert\'s always in such a hurry to be let off his lead.
 
 ![Angry
-Mum](assets/Writing - Voice 1/media/media/image50.jpeg){width="4.114583333333333in"
-height="4.166666666666667in"}
+Mum](assets/Writing - Voice 1/media/media/image50.jpeg)
 
 He went straight up to this lovely dog and sniffed its bum (he always
 does that). Of course, the other dog didn\'t mind, but its owner was
 really angry, the silly twit.
 
 ![Charles and Mum sitting on the park
-bench](assets/Writing - Voice 1/media/media/image51.jpeg){width="4.71875in"
-height="4.166666666666667in"}
+bench](assets/Writing - Voice 1/media/media/image51.jpeg)
 
 I got talking to this boy. I thought he was a bit of a wimp at first,
 but he\'s okay.
 
 ![Smudge and Charles on the
-see-saw](assets/Writing - Voice 1/media/media/image52.jpeg){width="3.0729166666666665in"
-height="4.166666666666667in"}
+see-saw](assets/Writing - Voice 1/media/media/image52.jpeg)
 
 We played on the see-saw and he didn\'t say much, but later on he was a
 bit more friendly.
 
 ![Victoria and Albert in the
-fountain](assets/Writing - Voice 1/media/media/image53.jpeg){width="4.052083333333333in"
-height="4.166666666666667in"}
+fountain](assets/Writing - Voice 1/media/media/image53.jpeg)
 
 We both burst out laughing when we saw Albert having a swim.
 
 ![Charles, Smudge, Victoria and Albert on the
-bandstand](assets/Writing - Voice 1/media/media/image54.jpeg){width="3.0520833333333335in"
-height="4.166666666666667in"}
+bandstand](assets/Writing - Voice 1/media/media/image54.jpeg)
 
 Then we all played on the bandstand, and I felt really, really happy.
 
 ![Smudge and Charles at the
-park](assets/Writing - Voice 1/media/media/image55.jpeg){width="3.2916666666666665in"
-height="4.166666666666667in"}
+park](assets/Writing - Voice 1/media/media/image55.jpeg)
 
 Charlie picked a flower, and gave it to me.
 
 ![Mum and Charles leave the
-park](assets/Writing - Voice 1/media/media/image56.jpeg){width="3.0416666666666665in"
-height="4.166666666666667in"}
+park](assets/Writing - Voice 1/media/media/image56.jpeg)
 
 Then his mum called him and he had to go.\
 He looked sad.
 
 ![Flower in a
-mug](assets/Writing - Voice 1/media/media/image57.jpeg){width="3.3958333333333335in"
-height="4.166666666666667in"}
+mug](assets/Writing - Voice 1/media/media/image57.jpeg)
 
 When I got home I put the flower in some water, and made Dad a nice cup
 of tea.
 
-![http://3.bp.blogspot.com/-Pcx4xkoFvwU/U01dB0JzvQI/AAAAAAAALL8/HWw2GIa7IpI/s1600/9781406341645.jpg](assets/Writing - Voice 1/media/media/image58.jpeg){width="3.817001312335958in"
-height="4.614583333333333in"}
+![http://3.bp.blogspot.com/-Pcx4xkoFvwU/U01dB0JzvQI/AAAAAAAALL8/HWw2GIa7IpI/s1600/9781406341645.jpg](assets/Writing - Voice 1/media/media/image58.jpeg)
 
 Although Voices in the Park (2000) is one of the most well known picture
 
@@ -1215,8 +1157,7 @@ Mr Smith took home Smudge and Albert.
 And Smudge kept the flower.
 
 ![Anthony Browne,
-Author/Illustrator](assets/Writing - Voice 1/media/media/image59.gif){width="1.8125in"
-height="2.0729166666666665in"}
+Author/Illustrator](assets/Writing - Voice 1/media/media/image59.gif)
 
 Anthony Browne talks about \"Voices In The Park\"
 
@@ -1275,11 +1216,9 @@ whole book funnier. I still haven't worked out why it works, and in a
 way I don't want to, but it does show that quite often the best
 decisions I make have more to do with instinct than intellect.
 
-![http://www.riotcommunications.com/wp-content/uploads/2013/12/Anthony-Browne-reading-on-a-bench-in-a-scene-from-his-Voices-in-the-Park-book-940x460.jpg](assets/Writing - Voice 1/media/media/image60.jpeg){width="6.268055555555556in"
-height="3.0673458005249343in"}
+![http://www.riotcommunications.com/wp-content/uploads/2013/12/Anthony-Browne-reading-on-a-bench-in-a-scene-from-his-Voices-in-the-Park-book-940x460.jpg](assets/Writing - Voice 1/media/media/image60.jpeg)
 
-![once%2Bupon%2Bcool](assets/Writing - Voice 1/media/media/image61.jpeg){width="2.65625in"
-height="3.3229166666666665in"}
+![once%2Bupon%2Bcool](assets/Writing - Voice 1/media/media/image61.jpeg)
 
 Once upon a time there was a boy and a girl who had to tell a fairy tale
 to the class, but they couldn't agree on the story.
@@ -1287,13 +1226,11 @@ to the class, but they couldn't agree on the story.
 Could be read as partners reading orally, and then used as a springboard
 for a story written by two.
 
-![http://www.theliteracystore.com/product_images/789471-alt2hr.jpg](assets/Writing - Voice 1/media/media/image62.jpeg){width="2.924688320209974in"
-height="3.9791666666666665in"}
+![http://www.theliteracystore.com/product_images/789471-alt2hr.jpg](assets/Writing - Voice 1/media/media/image62.jpeg)
 
 **Once Upon a Cool Motorcycle Dude Kevin O'Malley**
 
-![onceuponkids](assets/Writing - Voice 1/media/media/image63.png){width="3.5in"
-height="3.15625in"}
+![onceuponkids](assets/Writing - Voice 1/media/media/image63.png)
 
 For our library project, we were supposed to tell you our favourite
 fairy tale, but we couldn't agree on which story was the best. So we
@@ -1422,8 +1359,7 @@ It was a girl.
 
 **\**
 
-![http://ecx.images-amazon.com/images/I/51V%2ByTrtXSL.\_SL500_AA300\_.jpg](assets/Writing - Voice 1/media/media/image64.jpeg){width="3.125in"
-height="3.125in"}
+![http://ecx.images-amazon.com/images/I/51V%2ByTrtXSL.\_SL500_AA300\_.jpg](assets/Writing - Voice 1/media/media/image64.jpeg)
 
 You're skating downhill, but you don't know how to stop. You're having
 your hair cut, and you suddenly realise . . . they're cutting it too
@@ -1540,8 +1476,7 @@ that no matter how quiet she is or how long she waits, she and her
 father might not see any owls at all. Then, after a long, cold search,
 the girl\'s patience is rewarded.
 
-![OwlMoon2](assets/Writing - Voice 1/media/media/image65.jpeg){width="4.552083333333333in"
-height="2.84375in"}
+![OwlMoon2](assets/Writing - Voice 1/media/media/image65.jpeg)
 
 Illustrated by John Schoenherr
 
@@ -2008,8 +1943,7 @@ under a shining
 
 Owl Moon.
 
-![1245637](assets/Writing - Voice 1/media/media/image66.jpeg){width="1.71875in"
-height="1.6979166666666667in"} Author-artist Nina Laden has taken her
+![1245637](assets/Writing - Voice 1/media/media/image66.jpeg) Author-artist Nina Laden has taken her
 trademark wit and applied it to one of Shakespeare\'s best-loved plays.
 Adults familiar with the classic love story will delight in the many
 references to the original play, all of which make this a rarity: a
@@ -2022,17 +1956,13 @@ details throughout the book belie the careful research behind this
 homage to true love won and lost and in the case of this book won again
 proving once and for all that dogs and cats can be friends.
 
-![dance](assets/Writing - Voice 1/media/media/image67.png){width="2.5520833333333335in"
-height="2.5104166666666665in"}
+![dance](assets/Writing - Voice 1/media/media/image67.png)
 
-![porch](assets/Writing - Voice 1/media/media/image68.png){width="2.96875in"
-height="2.90625in"}
+![porch](assets/Writing - Voice 1/media/media/image68.png)
 
-![10273](assets/Writing - Voice 1/media/media/image69.jpeg){width="2.8854166666666665in"
-height="1.625in"}
+![10273](assets/Writing - Voice 1/media/media/image69.jpeg)
 
-![Romeow+and+Drooliet2](assets/Writing - Voice 1/media/media/image70.jpeg){width="2.6354166666666665in"
-height="2.6354166666666665in"}
+![Romeow+and+Drooliet2](assets/Writing - Voice 1/media/media/image70.jpeg)
 
 **Romeow & Drooliet**
 
@@ -2303,8 +2233,7 @@ Some live in your heart. So don't you forget
 
 The tale of Romeow and Drooliet.
 
-![https://twowritingteachers.files.wordpress.com/2012/04/larf.jpg?w=197&h=253](assets/Writing - Voice 1/media/media/image71.jpeg){width="2.0520833333333335in"
-height="2.6458333333333335in"}
+![https://twowritingteachers.files.wordpress.com/2012/04/larf.jpg?w=197&h=253](assets/Writing - Voice 1/media/media/image71.jpeg)
 
 **Larf Ashley Spires**
 
@@ -2326,14 +2255,11 @@ Ashley Spires once again shows her chops for creating irresistible,
 quirky characters and laugh-aloud stories and illustrations. Readers
 with little feet and big feet will fall head over heels for Larf.
 
-![http://archive.writersfest.bc.ca/files/imagecache/festival_author_largest/author_photos_raw/2013/Spires%20Ashley_1.jpg](assets/Writing - Voice 1/media/media/image72.jpeg){width="3.8291141732283465in"
-height="3.78125in"}
+![http://archive.writersfest.bc.ca/files/imagecache/festival_author_largest/author_photos_raw/2013/Spires%20Ashley_1.jpg](assets/Writing - Voice 1/media/media/image72.jpeg)
 
-![http://stageus.kidscanpress.com/Assets/Books/w_Larf_2175/Spreads/Larf_2175_spr3.jpg](assets/Writing - Voice 1/media/media/image73.jpeg){width="6.25in"
-height="4.166666666666667in"}
+![http://stageus.kidscanpress.com/Assets/Books/w_Larf_2175/Spreads/Larf_2175_spr3.jpg](assets/Writing - Voice 1/media/media/image73.jpeg)
 
-![http://www.juniorlibraryguild.com/images/9781554537013/InteriorArt/9781554537013-larf_zoom.jpg](assets/Writing - Voice 1/media/media/image74.jpeg){width="6.25in"
-height="8.010416666666666in"}
+![http://www.juniorlibraryguild.com/images/9781554537013/InteriorArt/9781554537013-larf_zoom.jpg](assets/Writing - Voice 1/media/media/image74.jpeg)
 
 **Larf Ashley Spires**
 
@@ -2439,8 +2365,7 @@ meat."
 Larf decides that just as soon as he gets home, he's going to have a
 bath. After he does his laundry, of course.
 
-![http://www.brucecoville.com/img/books/butterflies_hc.jpg](assets/Writing - Voice 1/media/media/image75.jpeg){width="2.71875in"
-height="2.749297900262467in"}
+![http://www.brucecoville.com/img/books/butterflies_hc.jpg](assets/Writing - Voice 1/media/media/image75.jpeg)
 
 **The Prince of Butterflies Bruce Coville**
 
@@ -2457,11 +2382,9 @@ Passionate, moving, and inspiring, this flight of fantasy from master
 storyteller Bruce Coville is a timely fable about the difficulties---and
 the rewards---of staying true to one\'s heart.
 
-![http://www.johnclapp.com/pob/pob_images/Butterfly%20Man.jpg](assets/Writing - Voice 1/media/media/image76.jpeg){width="6.268055555555556in"
-height="3.1277591863517062in"}
+![http://www.johnclapp.com/pob/pob_images/Butterfly%20Man.jpg](assets/Writing - Voice 1/media/media/image76.jpeg)
 
-![http://www.johnclapp.com/pob/pob_images/the%20return.jpg](assets/Writing - Voice 1/media/media/image77.jpeg){width="6.268055555555556in"
-height="3.1402963692038495in"}
+![http://www.johnclapp.com/pob/pob_images/the%20return.jpg](assets/Writing - Voice 1/media/media/image77.jpeg)
 
 **\**
 
@@ -2660,8 +2583,7 @@ shudder.
 > His heart lifting with joy, John Farrington stretched his
 > orange-and-black wings \... and flew away forever.
 
-![387460](assets/Writing - Voice 1/media/media/image78.jpeg){width="3.9479166666666665in"
-height="4.947916666666667in"}
+![387460](assets/Writing - Voice 1/media/media/image78.jpeg)
 
 Through gentle prose and exquisite paintings, this modern-day fairy tale
 about an orphan girl and a mysterious house adored by birds delivers a

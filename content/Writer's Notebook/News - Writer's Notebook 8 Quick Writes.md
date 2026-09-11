@@ -12,18 +12,15 @@ strand: writers-notebook
 
 **Quick-Writes**
 
-![http://portal.svu.edu.eg/English/MediaCenter/News/PublishingImages/news-button.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image1.jpeg){width="6.268055555555556in"
-height="4.699336176727909in"}
+![http://portal.svu.edu.eg/English/MediaCenter/News/PublishingImages/news-button.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image1.jpeg)
 
-![http://portal.svu.edu.eg/English/MediaCenter/News/PublishingImages/news-button.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image2.jpeg){width="2.15625in"
-height="1.6166010498687664in"}
+![http://portal.svu.edu.eg/English/MediaCenter/News/PublishingImages/news-button.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image2.jpeg)
 
 **Writer's Notebook 8**
 
 **From the News**
 
-![http://www.ps19.us/images/newsboy.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image3.jpeg){width="1.773611111111111in"
-height="1.48125in"}
+![http://www.ps19.us/images/newsboy.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image3.jpeg)
 
 **Response:** Students write 2 or more responses that show a good
 understanding of the topic and deeper thinking.
@@ -40,84 +37,59 @@ and how.
 
 **The Best Person in the World**
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-13-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image4.jpeg){width="6.268055555555556in"
-height="4.70132874015748in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-13-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image4.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-4-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image5.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-4-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image5.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-5-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image6.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-5-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image6.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-6-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image7.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-6-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image7.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-9-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image8.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-9-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image8.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-11-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image9.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-11-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image9.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-14-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image10.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-14-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image10.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-15-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image11.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-15-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image11.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-16-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image12.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-16-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image12.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-20-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image13.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-20-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image13.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-23-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image14.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-23-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image14.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-24-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image15.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-24-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image15.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-29-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image16.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-29-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image16.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-30-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image17.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-30-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image17.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-31-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image18.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-31-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image18.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-33-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image19.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-33-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image19.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-36-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image20.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-36-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image20.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-38-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image21.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-38-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image21.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-40-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image22.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-40-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image22.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-42-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image23.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-42-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image23.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-43-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image24.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-43-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image24.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-45-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image25.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-45-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image25.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-50-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image26.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-50-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image26.jpeg)
 
-![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-54-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image27.jpeg){width="6.268055555555556in"
-height="4.700897856517935in"}
+![http://image.slidesharecdn.com/twipprojectppt-101018094531-phpapp01/95/a-picture-says-a-thousand-words-54-728.jpg?cb=1287413227](assets/News - Writer's Notebook 8 Quick Writes/media/media/image27.jpeg)
 
 ![These ship-breakers claim to be 14, the minimum legal age to work in
 the yards. Managers favor young workers because they are cheap and know
 less about the dangers, and their small bodies enable them to access a
 ship's tightest
-corners.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image28.jpeg){width="6.268055555555556in"
-height="2.8485017497812772in"}
+corners.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image28.jpeg)
 
 These shipbreakers claim to be fourteen, the minimum legal age to work
 in the yards.
@@ -130,8 +102,7 @@ tightest corners.
 yearly Indian princess competition in Pendleton, Oregon. Embraced first
 for war, hunting, and transport, horses became partners in pageantry and
 a way to show tribal
-pride.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image29.jpeg){width="6.268055555555556in"
-height="2.8485017497812772in"}
+pride.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image29.jpeg)
 
 Destiny Buck of the Wanapum Tribe rides her mare, Daisy, in the yearly
 Indian princess competition in Pendleton, Oregon.
@@ -139,8 +110,7 @@ Indian princess competition in Pendleton, Oregon.
 Embraced first for war, hunting, and transportation, horses became
 partners in pageantry and a way to show tribal pride.
 
-![http://s3-ec.buzzfed.com/static/2014-11/19/16/enhanced/webdr06/enhanced-buzz-wide-23333-1416432486-23.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image30.jpeg){width="6.268055555555556in"
-height="4.188526902887139in"}
+![http://s3-ec.buzzfed.com/static/2014-11/19/16/enhanced/webdr06/enhanced-buzz-wide-23333-1416432486-23.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image30.jpeg)
 
 A Slovenian army helicopter team rescues a small baby by winching the
 baby carrier into the helicopter over the village of Tisina in northern
@@ -148,15 +118,13 @@ Bosnia-Herzegovina. Hundreds of thousands of people were forced from
 their homes in Bosnia and Serbia following the worst flooding since
 record keeping began 120 years ago.
 
-![http://s3-ec.buzzfed.com/static/2014-12/30/19/enhanced/webdr12/enhanced-buzz-wide-5969-1419987168-26.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image31.jpeg){width="6.268055555555556in"
-height="3.985923009623797in"}
+![http://s3-ec.buzzfed.com/static/2014-12/30/19/enhanced/webdr12/enhanced-buzz-wide-5969-1419987168-26.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image31.jpeg)
 
 Indians who are considered uncontacted by anthropologists react to a
 plane flying over their community in the Amazon basin near the Xinane
 river in Brazil's Acre State, near the border with Peru.
 
-![http://s3-ec.buzzfed.com/static/2014-12/30/18/enhanced/webdr12/enhanced-buzz-wide-20794-1419982558-35.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image32.jpeg){width="6.268055555555556in"
-height="4.272561242344707in"}
+![http://s3-ec.buzzfed.com/static/2014-12/30/18/enhanced/webdr12/enhanced-buzz-wide-20794-1419982558-35.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image32.jpeg)
 
 A Doctors Without Borders health worker in protective clothing holds a
 child suspected of having Ebola in the MSF treatment centre in
@@ -212,29 +180,22 @@ But it's worth it.
 
 ![Boys and girls age 5-17 can participate in the skateboarding program.
 Photo courtesy of
-Skateistan](assets/News - Writer's Notebook 8 Quick Writes/media/media/image33.jpeg){width="3.122353455818023in"
-height="2.340546806649169in"}
+Skateistan](assets/News - Writer's Notebook 8 Quick Writes/media/media/image33.jpeg)
 
-![http://en.reset.org/files/imagecache/projectgallery/2010/07/29/c_Uggi_Kaldan_fur_Skateistan.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image34.jpeg){width="5.622916666666667in"
-height="3.754861111111111in"}
+![http://en.reset.org/files/imagecache/projectgallery/2010/07/29/c_Uggi_Kaldan_fur_Skateistan.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image34.jpeg)
 
-![http://misturaurbana.com/wp-content/uploads/2012/11/skateistan-girl-skateboarding-2.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image35.jpeg){width="5.699226815398076in"
-height="4.855718503937008in"}
+![http://misturaurbana.com/wp-content/uploads/2012/11/skateistan-girl-skateboarding-2.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image35.jpeg)
 
-![http://misturaurbana.com/wp-content/uploads/2012/11/skateistan-girl-skateboarding-4.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image36.jpeg){width="6.245138888888889in"
-height="4.170138888888889in"}
+![http://misturaurbana.com/wp-content/uploads/2012/11/skateistan-girl-skateboarding-4.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image36.jpeg)
 
-![http://misturaurbana.com/wp-content/uploads/2012/11/426882_10150618732927747_1126502464_n.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image37.jpeg){width="6.245138888888889in"
-height="4.179166666666666in"}
+![http://misturaurbana.com/wp-content/uploads/2012/11/426882_10150618732927747_1126502464_n.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image37.jpeg)
 
-![http://misturaurbana.com/wp-content/uploads/2012/11/skateistan-girl-skateboarding-5.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image38.jpeg){width="6.245138888888889in"
-height="8.22638888888889in"}
+![http://misturaurbana.com/wp-content/uploads/2012/11/skateistan-girl-skateboarding-5.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image38.jpeg)
 
 ![Australia\'s Nathan Hedge rides a wave at Teahupoo, on the French
 Polynesian island Tahiti during the Billabong Pro Tahiti surf event,
 part of the ASP (Association of Surfing Professionals) world
-tour](assets/News - Writer's Notebook 8 Quick Writes/media/media/image39.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+tour](assets/News - Writer's Notebook 8 Quick Writes/media/media/image39.jpeg)
 
 Australia\'s Nathan Hedge rides a wave at Teahupoo, on the French
 Polynesian island Tahiti during the Billabong Pro Tahiti surf event,
@@ -242,8 +203,7 @@ part of the ASP (Association of Surfing Professionals) world tour.
 
 ![Mount Slamet spews lava and gas during an eruption as seen from
 Pandansari village in Brebes, Central Java,
-Indonesia](assets/News - Writer's Notebook 8 Quick Writes/media/media/image40.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+Indonesia](assets/News - Writer's Notebook 8 Quick Writes/media/media/image40.jpeg)
 
 Mount Slamet spews lava and gas during an eruption as seen from
 Pandansari village in Brebes, Central Java, Indonesia.
@@ -251,8 +211,7 @@ Pandansari village in Brebes, Central Java, Indonesia.
 ![Maikel Melero of Spain warms up in the South African savanna prior to
 the fifth stage of the Red Bull X-Fighters World Tour, with a giraffe in
 the
-foreground](assets/News - Writer's Notebook 8 Quick Writes/media/media/image41.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+foreground](assets/News - Writer's Notebook 8 Quick Writes/media/media/image41.jpeg)
 
 A giraffe watches Maikel Melero of Spain warm up in the South African
 savanna prior to the fifth stage of the Red Bull X-Fighters World Tour.
@@ -264,8 +223,7 @@ cinematographer Andy Brandy Casagrande\'s expensive camera unit remains
 after the curious shark\'s attack. The footage was captured from the
 relative safety of a shark cage submerged in the temperate waters off
 the coast of New Zealand by the 360Heros
-team.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image42.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+team.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image42.jpeg)
 
 This is the hair-raising moment a huge great white shark took a bite out
 of a GoPro camera rig worth more than £7,000 before sending it to the
@@ -275,8 +233,7 @@ a shark cage off the coast of New Zealand.
 ![Dozens of Australians tilted a train to free a commuter whose leg was
 trapped between a carriage and a platform, with authorities praising
 their efforts as an example of \'people
-power\'](assets/News - Writer's Notebook 8 Quick Writes/media/media/image43.jpeg){width="6.268055555555556in"
-height="3.845609142607174in"}
+power\'](assets/News - Writer's Notebook 8 Quick Writes/media/media/image43.jpeg)
 
 Dozens of Australians tilted a train to free a commuter whose leg was
 trapped between a carriage and a platform, with authorities praising
@@ -284,8 +241,7 @@ their efforts as an example of \"people power\"
 
 ![Russian cosmonaut Oleg Artemyev\'s photo of the moon taken from the
 International Space
-Station](assets/News - Writer's Notebook 8 Quick Writes/media/media/image44.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+Station](assets/News - Writer's Notebook 8 Quick Writes/media/media/image44.jpeg)
 
 Russian cosmonaut Oleg Artemyev\'s photo of the full moon taken from the
 International Space Station
@@ -300,8 +256,7 @@ people who are just a bit bonkers made their way across four and half
 miles of bogs and ponds, under cargo nets, across monkey bars and over
 inflatable obstacles all in aid of charity partner Marie Curie Cancer
 Care on April 13,
-2014.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image45.jpeg){width="6.268055555555556in"
-height="4.667379702537183in"}
+2014.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image45.jpeg)
 
 GENESIS REGIONAL PHOTOGRAPHER OF THE YEAR FINALIST
 
@@ -319,8 +274,7 @@ troop Royal artillery rears up during their annual inspection parade in
 London\'s Regent Park. The Troop were inspected by Col Hugh Bodington
 Chief of staff of Head quarters London District who announced that they
 were \'Fit to represent the
-nation\'.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image46.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+nation\'.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image46.jpeg)
 
 UKPEG NEWS PHOTOGRAPHER OF THE YEAR FINALIST
 
@@ -339,8 +293,7 @@ numbers over the years and is currently at about 130 by controlling the
 breeding. The herd rages on 2,500 hectares of hill ground between 450
 and 1,309 meters and stay above the tree line all year round regardless
 of the weather
-conditions.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image47.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+conditions.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image47.jpeg)
 
 UKPEG NEWS PHOTOGRAPHER OF THE YEAR FINALIST
 
@@ -357,8 +310,7 @@ Picture: Jeff J Mitchell/Getty Images
 
 ![FIXATION YOUNG PHOTOGRAPHY BURSARY FINALIST Gigantic waves hit the sea
 wall at Porthcawl in South Wales . February 8
-2014.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image48.jpeg){width="6.268055555555556in"
-height="4.17870406824147in"}
+2014.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image48.jpeg)
 
 Gigantic waves hit the sea wall at Porthcawl in South Wales on February
 8, 2014.
@@ -371,8 +323,7 @@ Things - the smallest things in the store!\', a collection showcasing
 the likes of tiny fig wasps, a squid's eyeball and rusty Roman hobnails.
 Pictured: Laura Bradbeer who is on an archaeology placement from
 Bradford University looking at some of the
-collection.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image49.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+collection.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image49.jpeg)
 
 GENESIS REGIONAL PHOTOGRAPHER OF THE YEAR FINALIST
 
@@ -386,8 +337,7 @@ Picture: James Hardisty/Yorkshire Post Newspapers
 
 ![A man smears the face of a woman with colours during celebrations
 marking
-Holi](assets/News - Writer's Notebook 8 Quick Writes/media/media/image50.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+Holi](assets/News - Writer's Notebook 8 Quick Writes/media/media/image50.jpeg)
 
 A man smears the face of a woman with coloured powder during
 celebrations marking Holi, the Hindu festival of colours, in Mumbai,
@@ -396,8 +346,7 @@ India
 Picture: AP
 
 ![Heavy fog shrouds New York\'s iconic Brooklyn
-Bridge](assets/News - Writer's Notebook 8 Quick Writes/media/media/image51.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+Bridge](assets/News - Writer's Notebook 8 Quick Writes/media/media/image51.jpeg)
 
 Heavy fog shrouds New York\'s iconic Brooklyn Bridge
 
@@ -405,8 +354,7 @@ Picture: BEBETO MATTHEWS/AP
 
 ![A fierce storm whipped these monster waves into a frenzy of whitewater
 which subsequently froze in sub-zero temperatures in Senj,
-Croatia](assets/News - Writer's Notebook 8 Quick Writes/media/media/image52.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+Croatia](assets/News - Writer's Notebook 8 Quick Writes/media/media/image52.jpeg)
 
 A fierce storm whipped these monster waves into a frenzy of whitewater
 which subsequently froze in sub-zero temperatures in Senj, Croatia
@@ -416,8 +364,7 @@ Picture: MARKO KOROSEC/SOLENT
 ![An Afghan child holds his boots in a camp for the internally displaced
 on the outskirts of Mazar-e Sharif, north of Kabul, Afghanistan. Mazar-e
 Sharif has been experiencing below freezing weather and
-snow](assets/News - Writer's Notebook 8 Quick Writes/media/media/image53.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+snow](assets/News - Writer's Notebook 8 Quick Writes/media/media/image53.jpeg)
 
 An Afghan child holds his boots in a camp for the internally displaced
 on the outskirts of Mazar-e Sharif, north of Kabul, Afghanistan. Mazar-e
@@ -426,8 +373,7 @@ Sharif has been experiencing below freezing weather and snow
 Picture: MUSTAFA NAJAFIZADA/AP
 
 ![Polar Vortex Niagara
-Falls](assets/News - Writer's Notebook 8 Quick Writes/media/media/image54.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+Falls](assets/News - Writer's Notebook 8 Quick Writes/media/media/image54.jpeg)
 
 The U.S. side of the Niagara Falls is pictured from Ontario, Canada. The
 frigid air and \"polar vortex\" that affected about 240 million people
@@ -439,8 +385,7 @@ Picture: AARON HARRIS/REUTERS
 
 ![Canada\'s Sarah Reid speeds down the track during the women\'s
 skeleton event at the 2014 Sochi Winter
-Olympics](assets/News - Writer's Notebook 8 Quick Writes/media/media/image55.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+Olympics](assets/News - Writer's Notebook 8 Quick Writes/media/media/image55.jpeg)
 
 Canada\'s Sarah Reid speeds down the track during the women\'s skeleton
 event at the 2014 Sochi Winter Olympics
@@ -449,8 +394,7 @@ Picture: MURAD SEZER/REUTERS
 
 ![British yachtsman Alex Thompson climbs to the top of the 100ft mast of
 his yacht Hugo Boss as it heels up off the coast of
-Spain.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image56.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+Spain.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image56.jpeg)
 
 British yachtsman Alex Thompson climbs to the top of the 100ft mast of
 his yacht Hugo Boss as it heels up off the coast of Spain.
@@ -460,8 +404,7 @@ Picture: Hugo Boss
 ![A massive storm cloud looms over Sydney, Australia. A severe
 thunderstorm warning was issued for the city\'s metropolitan area with
 heavy rainfall due to cause flash flooding in
-areas](assets/News - Writer's Notebook 8 Quick Writes/media/media/image57.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+areas](assets/News - Writer's Notebook 8 Quick Writes/media/media/image57.jpeg)
 
 A massive storm cloud looms over Sydney, Australia. A severe
 thunderstorm warning was issued on Wednesday for the city\'s
@@ -477,8 +420,7 @@ soared through space at 174km an hour. A remotely-controlled charge was
 then triggered at \'mission control\' in the school to bring Alban and
 the balloon back. His four-hour flight ended when he landed safely in a
 field at Crewe, Cheshire around 125 miles
-away](assets/News - Writer's Notebook 8 Quick Writes/media/media/image58.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+away](assets/News - Writer's Notebook 8 Quick Writes/media/media/image58.jpeg)
 
 Alban the teddy bear has travelled where no bear has travelled before.
 The mascot of St Alban\'s primary school in Cambridge was attached to a
@@ -496,8 +438,7 @@ Picture: SWNS
 Iguazu National Park near the southern Brazilian city of Foz do Iguacu.
 Forming a border between Argentina and Brazil, the Iguazu Falls, South
 America\'s largest falls, attract more than 1 million visitors a
-year.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image59.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+year.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image59.jpeg)
 
 Tourists view the Iguazu Falls from an observation platform at the
 Iguazu National Park near the southern Brazilian city of Foz do Iguacu.
@@ -514,8 +455,7 @@ from 0-62mph in just 2.5 seconds and a variant of the model holds the
 lap record at the Top Gear test track. That makes it faster than the
 Lamborghini Gallardo LP560-4 Polizia used by Italian cops, the Audi R8
 GTR driven by officers in Germany, and a Ferrari FF used in
-Dubai](assets/News - Writer's Notebook 8 Quick Writes/media/media/image60.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+Dubai](assets/News - Writer's Notebook 8 Quick Writes/media/media/image60.jpeg)
 
 Avon and Somerset police are using a 350bhp Ariel Atom as part of a
 campaign to encourage motorcyclists to curb their speed. Based on the
@@ -533,8 +473,7 @@ Bartolomeo al Mare, Italy. The footage was captured by Nicola Ferrarese,
 who spotted the phenomena while working in his hotel in San Bartolomeo
 al Mare, Italy. Waterspouts are tornadoes which form over water during
 severe storm
-weather.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image61.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+weather.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image61.jpeg)
 
 Two waterspouts twist together during a storm off the coast of San
 Bartolomeo al Mare, Italy. The footage was captured by Nicola Ferrarese,
@@ -546,8 +485,7 @@ Picture: Nicola Ferrarese/Barcroft Media
 
 ![Lava and clouds of smoke and gases are emitted from a volcano on the
 island of Fogo, near Cha das Caldeiras, Cape
-Verde](assets/News - Writer's Notebook 8 Quick Writes/media/media/image62.jpeg){width="6.268055555555556in"
-height="4.17870406824147in"}
+Verde](assets/News - Writer's Notebook 8 Quick Writes/media/media/image62.jpeg)
 
 Lava and clouds of smoke and gases are emitted from a volcano on the
 island of Fogo, near Cha das Caldeiras, Cape Verde
@@ -555,15 +493,13 @@ island of Fogo, near Cha das Caldeiras, Cape Verde
 Picture: EPA/JOAO RELVAS
 
 ![Katy Perry performs at Allphones Arena in Sydney,
-Australia](assets/News - Writer's Notebook 8 Quick Writes/media/media/image63.jpeg){width="6.268055555555556in"
-height="3.8256332020997377in"}
+Australia](assets/News - Writer's Notebook 8 Quick Writes/media/media/image63.jpeg)
 
 Katy Perry performs at the Allphones Arena in Sydney, Australia
 
 Picture: Mark Metcalfe/Getty Images
 
-![http://c.o0bg.com/rf/image_1200w/Boston/2011-2020/2014/11/26/BostonGlobe.com/Magazine/Images/Davis_firefighters.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image64.jpeg){width="6.268055555555556in"
-height="5.378687664041995in"}
+![http://c.o0bg.com/rf/image_1200w/Boston/2011-2020/2014/11/26/BostonGlobe.com/Magazine/Images/Davis_firefighters.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image64.jpeg)
 
 March 26 / Boston \-- It was a cold and very windy day. I was on my way
 to another assignment. I had just got out of the car and was about to
@@ -577,8 +513,7 @@ working to revive one of their brothers. As they got closer, they were
 screaming for an ambulance, which was about a block away. I found out
 later two firefighters died in the blaze. (Jim Davis/globe staff)
 
-![http://c.o0bg.com/rf/image_1200w/Boston/2011-2020/2014/11/26/BostonGlobe.com/Magazine/Images/ryan_morgancrew6_met.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image65.jpeg){width="6.268055555555556in"
-height="4.176963035870516in"}
+![http://c.o0bg.com/rf/image_1200w/Boston/2011-2020/2014/11/26/BostonGlobe.com/Magazine/Images/ryan_morgancrew6_met.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image65.jpeg)
 
 July 15 / Off the Massachusetts coast \-- I'm on board the Charles W.
 Morgan, the oldest commercial ship still sailing. It's a restored
@@ -592,8 +527,7 @@ other antique vessel appeared in the background. In the end the fog made
 it more evocative than it would have been without it. (David L.
 Ryan/Globe Staff)
 
-![http://c.o0bg.com/rf/image_1200w/Boston/2011-2020/2014/12/22/BostonGlobe.com/BigPicture/Images/tb_hands/569f3bc1acc04136b457170dc5e2422b-569f3bc1acc04136b457170dc5e2422b-0.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image66.jpeg){width="6.268055555555556in"
-height="4.125076552930883in"}
+![http://c.o0bg.com/rf/image_1200w/Boston/2011-2020/2014/12/22/BostonGlobe.com/BigPicture/Images/tb_hands/569f3bc1acc04136b457170dc5e2422b-569f3bc1acc04136b457170dc5e2422b-0.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image66.jpeg)
 
 The orangutan named Sandra sits in her enclosure at Buenos Aires\' Zoo
 in Buenos Aires, Argentina, Monday, Dec. 22, 2014. An Argentine court
@@ -603,8 +537,7 @@ Sandra from captivity and have her transferred to a sanctuary in Brazil
 after a court recognized the primate as a \"non-human person\" which has
 some basic human rights. (Natacha Pisarenko/AP)
 
-![http://c.o0bg.com/rf/image_1200w/Boston/2011-2020/2014/12/08/BostonGlobe.com/BigPicture/Images/YEARENDER-%20Leanne/TS-TS-DV1887112.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image67.jpeg){width="6.268055555555556in"
-height="4.176963035870516in"}
+![http://c.o0bg.com/rf/image_1200w/Boston/2011-2020/2014/12/08/BostonGlobe.com/BigPicture/Images/YEARENDER-%20Leanne/TS-TS-DV1887112.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image67.jpeg)
 
 Seventeen-year-old Nobel Peace Prize winner Malala Yousafzai said she
 was \"honoured\" to be the first Pakistani and the youngest person to be
@@ -616,8 +549,7 @@ Scarff/AFP/Getty Images)
 **Quick-thinking dad saves boy from snake bite near Toowoomba**
 
 ![View image on
-Twitter](assets/News - Writer's Notebook 8 Quick Writes/media/media/image68.jpeg){width="6.236111111111111in"
-height="3.5097222222222224in"}
+Twitter](assets/News - Writer's Notebook 8 Quick Writes/media/media/image68.jpeg)
 
 **Article:**
 
@@ -658,8 +590,7 @@ the limb and immediately call triple-0," he said.
 
 # Winds expected to fan bushfire
 
-![https://s.yimg.com/ea/img/-/150104/fire_voodoo_1aagh0e-1aagh2p.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image69.jpeg){width="6.268055555555556in"
-height="3.4636843832020996in"}
+![https://s.yimg.com/ea/img/-/150104/fire_voodoo_1aagh0e-1aagh2p.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image69.jpeg)
 
 **Article:**
 
@@ -695,8 +626,7 @@ In western Victoria, three watch and act messages are current. More than
 
 # British nurse with Ebola in critical condition: hospital
 
-![http://l1.yimg.com/bt/api/res/1.2/4BhX5sMKw73cv0EM2dS7Hw\--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTU0MDtpbD1wbGFuZTtweW9mZj0wO3E9NzU7dz05NjA-/http:/l.yimg.com/os/publish-images/news/2015-01-03/2bfed090-9364-11e4-bef1-4f750070572f_pauline1.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image70.jpeg){width="6.268055555555556in"
-height="3.524475065616798in"}
+![http://l1.yimg.com/bt/api/res/1.2/4BhX5sMKw73cv0EM2dS7Hw\--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTU0MDtpbD1wbGFuZTtweW9mZj0wO3E9NzU7dz05NjA-/http:/l.yimg.com/os/publish-images/news/2015-01-03/2bfed090-9364-11e4-bef1-4f750070572f_pauline1.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image70.jpeg)
 
 **Article:**
 
@@ -735,8 +665,7 @@ controlled ventilation to reduce the risk of further infections.
 
 # Homeless residents make lives in Madrid\'s airport
 
-![http://l3.yimg.com/bt/api/res/1.2/4ZtJQN8GNFvZFULGIHjTVQ\--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTYzODtpbD1wbGFuZTtweW9mZj0wO3E9NzU7dz05NjA-/http:/media.zenfs.com/en_us/News/afp.com/Part-DV-DV1933375-1-1-0.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image71.jpeg){width="6.268055555555556in"
-height="4.163033683289589in"}
+![http://l3.yimg.com/bt/api/res/1.2/4ZtJQN8GNFvZFULGIHjTVQ\--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTYzODtpbD1wbGFuZTtweW9mZj0wO3E9NzU7dz05NjA-/http:/media.zenfs.com/en_us/News/afp.com/Part-DV-DV1933375-1-1-0.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image71.jpeg)
 
 Homeless Bulgarian, Valentin Giorgiev, leans on luggage trolleys at
 Madrid Barajas Adolfo Suarez Airport\'s terminal 4 on December 30, 2014
@@ -845,8 +774,7 @@ away tears. \"I have nothing.\"
 # 3 men see snout, free moose buried in avalanche
 
 ![Alaska Census
-Launch](assets/News - Writer's Notebook 8 Quick Writes/media/media/image72.jpeg){width="6.268055555555556in"
-height="3.731234689413823in"}
+Launch](assets/News - Writer's Notebook 8 Quick Writes/media/media/image72.jpeg)
 
 **Article:**
 
@@ -909,8 +837,7 @@ said. \"That kind of karma is something we don\'t pass up.\"
 
 # Dog not gone: Rescue in the Columbia Gorge
 
-![http://l1.yimg.com/bt/api/res/1.2/MIeFzAfZ3p9_ji91RvuC2w\--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTEyODA7aWw9cGxhbmU7cHlvZmY9MDtxPTc1O3c9OTYw/http:/media.zenfs.com/en_us/News/ap_webfeeds/b53f674dd6326232690f6a706700146d.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image73.jpeg){width="6.268055555555556in"
-height="8.35523075240595in"}
+![http://l1.yimg.com/bt/api/res/1.2/MIeFzAfZ3p9_ji91RvuC2w\--/YXBwaWQ9eW5ld3M7Zmk9ZmlsbDtoPTEyODA7aWw9cGxhbmU7cHlvZmY9MDtxPTc1O3c9OTYw/http:/media.zenfs.com/en_us/News/ap_webfeeds/b53f674dd6326232690f6a706700146d.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image73.jpeg)
 
 **Article:**
 
@@ -938,8 +865,7 @@ trailhead.
 ![In this photograph taken on April 16, 2014, a veterinary staff member
 of the Sumatran Orangutan Conservation Programme Center conducts medical
 examinations on a 14-year-old male
-orangutan.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image74.jpeg){width="6.268055555555556in"
-height="4.17870406824147in"}
+orangutan.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image74.jpeg)
 
 In this photograph taken on April 16, 2014, a veterinary staff member of
 the Sumatran Orangutan Conservation Programme Centre conducts medical
@@ -949,8 +875,7 @@ examinations on a 14-year-old male orangutan.
 
 ![Orchid the Arab-Thoroughbred cross enjoys a roll in her paddock in
 Brentwood, Essex. The 49-year-old is thought to be the world\'s oldest
-horse](assets/News - Writer's Notebook 8 Quick Writes/media/media/image75.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+horse](assets/News - Writer's Notebook 8 Quick Writes/media/media/image75.jpeg)
 
 Orchid the Arab-Thoroughbred cross enjoys a roll in her paddock in
 Brentwood, Essex. The 49-year-old is thought to be the world\'s oldest
@@ -962,8 +887,7 @@ Picture: Caters
 
 ![Primates wrap up in freezing conditions after the boiler at the Wales
 Ape and Monkey Sanctuary broke
-down.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image76.jpeg){width="6.268055555555556in"
-height="3.9182042869641296in"}
+down.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image76.jpeg)
 
 Primates wrap up in freezing conditions after the boiler at the Wales
 Ape and Monkey Sanctuary broke down.
@@ -972,98 +896,76 @@ Picture: WALES NEWS SERVICE
 
 **Candid Moments**
 
-![http://www.thehindu.com/multimedia/dynamic/01201/parshathy_GHC5HFK2_1201386e.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image77.jpeg){width="3.3125in"
-height="2.3020833333333335in"}
+![http://www.thehindu.com/multimedia/dynamic/01201/parshathy_GHC5HFK2_1201386e.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image77.jpeg)
 
 ![A little girl reacts as a horse tries to catch her at Piazza di Spagna
 on October 2, 2014 in Rome.
-](assets/News - Writer's Notebook 8 Quick Writes/media/media/image78.jpeg){width="6.268055555555556in"
-height="4.17870406824147in"}
+](assets/News - Writer's Notebook 8 Quick Writes/media/media/image78.jpeg)
 
 **\**
 
 ![A car sits atop an embankment after the driver lost control on South
 La Brea Ave in Baldwin Hills, Los Angeles on August 24,
-2014.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image79.jpeg){width="6.268055555555556in"
-height="4.572778871391076in"}
+2014.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image79.jpeg)
 
 ![Barack Obama makes a face as he reads "Where the Wild Things Are"
 during the White House Easter Egg Roll on Monday, April 21,
-2014.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image80.jpeg){width="6.268055555555556in"
-height="4.336566054243219in"}
+2014.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image80.jpeg)
 
 ![A child looks at a polar bear during at Mulhouse Zoo on April 2,
-2014.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image81.jpeg){width="6.268055555555556in"
-height="4.17870406824147in"}
+2014.](assets/News - Writer's Notebook 8 Quick Writes/media/media/image81.jpeg)
 
-![http://www.photoforbeginners.com/news/wp-content/uploads/2013/02/Capture-candid-moments.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image82.jpeg){width="6.268055555555556in"
-height="4.169864391951006in"}
+![http://www.photoforbeginners.com/news/wp-content/uploads/2013/02/Capture-candid-moments.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image82.jpeg)
 
-![http://www.thehindu.com/multimedia/dynamic/01487/LAT_NATIONAL_SCHOO_1487907g.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image83.jpeg){width="6.268055555555556in"
-height="4.151965223097113in"}
+![http://www.thehindu.com/multimedia/dynamic/01487/LAT_NATIONAL_SCHOO_1487907g.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image83.jpeg)
 
-![http://www.thehindu.com/multimedia/dynamic/01487/LAT_NATIONAL_SCHOO_1487917g.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image84.jpeg){width="6.268055555555556in"
-height="4.151965223097113in"}
+![http://www.thehindu.com/multimedia/dynamic/01487/LAT_NATIONAL_SCHOO_1487917g.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image84.jpeg)
 
-![http://cdn.onegreenplanet.org/wp-content/uploads/2010/10/2014/10/animalbuddies9meme.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image85.jpeg){width="5.207638888888889in"
-height="4.170138888888889in"}
+![http://cdn.onegreenplanet.org/wp-content/uploads/2010/10/2014/10/animalbuddies9meme.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image85.jpeg)
 
 ![Buffalo Rider
-113](assets/News - Writer's Notebook 8 Quick Writes/media/media/image86.jpeg){width="6.268055555555556in"
-height="3.869002624671916in"}
+113](assets/News - Writer's Notebook 8 Quick Writes/media/media/image86.jpeg)
 
 ![Cambodian Girl
-122](assets/News - Writer's Notebook 8 Quick Writes/media/media/image87.jpeg){width="5.641666666666667in"
-height="8.32986111111111in"}
+122](assets/News - Writer's Notebook 8 Quick Writes/media/media/image87.jpeg)
 
-![http://www.animalfriends.org.uk/wp-content/uploads/2014/07/Dog-at-Beach-Small.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image88.jpeg){width="6.041666666666667in"
-height="4.010416666666667in"}
+![http://www.animalfriends.org.uk/wp-content/uploads/2014/07/Dog-at-Beach-Small.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image88.jpeg)
 
 ![Shuttle Launch
-140](assets/News - Writer's Notebook 8 Quick Writes/media/media/image89.jpeg){width="6.268055555555556in"
-height="4.152750437445319in"}
+140](assets/News - Writer's Notebook 8 Quick Writes/media/media/image89.jpeg)
 
 ![Vietnam Wall
-146](assets/News - Writer's Notebook 8 Quick Writes/media/media/image90.jpeg){width="6.268055555555556in"
-height="6.465330271216098in"}
+146](assets/News - Writer's Notebook 8 Quick Writes/media/media/image90.jpeg)
 
 **\**
 
-![http://www.thebureauinvestigates.com/wp-content/uploads/2012/09/Barack-phone.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image91.jpeg){width="4.4527777777777775in"
-height="6.670138888888889in"}
+![http://www.thebureauinvestigates.com/wp-content/uploads/2012/09/Barack-phone.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image91.jpeg)
 
 **\**
 
 ![President Obama\'s approval rating plummets over scandal mania.
 (Official White House Photo by Pete Souza)
-](assets/News - Writer's Notebook 8 Quick Writes/media/media/image92.jpeg){width="4.4527777777777775in"
-height="6.670138888888889in"}
+](assets/News - Writer's Notebook 8 Quick Writes/media/media/image92.jpeg)
 
 **\**
-![http://www1.pictures.gi.zimbio.com/White+House+Debuts+Obamas+New+Dog+Bo+Portuguese+EkSY8b68HV9l.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image93.jpeg){width="6.188888888888889in"
-height="3.952777777777778in"}**\**
+![http://www1.pictures.gi.zimbio.com/White+House+Debuts+Obamas+New+Dog+Bo+Portuguese+EkSY8b68HV9l.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image93.jpeg)**\**
 
-![http://www.petesouza.com/users/petesouza/images/petesouza18345.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image94.jpeg){width="6.268055555555556in"
-height="4.71873687664042in"}
+![http://www.petesouza.com/users/petesouza/images/petesouza18345.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image94.jpeg)
 
 **\**
 
-![http://www.topdesignmag.com/wp-content/uploads/2012/05/Wonderful-Collection-of-Candid-Photography-9.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image95.jpeg){width="5.208333333333333in"
-height="3.6770833333333335in"}
+![http://www.topdesignmag.com/wp-content/uploads/2012/05/Wonderful-Collection-of-Candid-Photography-9.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image95.jpeg)
 
 **\**
 
-![http://www.topdesignmag.com/wp-content/uploads/2012/05/Wonderful-Collection-of-Candid-Photography-8.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image96.jpeg){width="5.208333333333333in"
-height="3.4583333333333335in"}
+![http://www.topdesignmag.com/wp-content/uploads/2012/05/Wonderful-Collection-of-Candid-Photography-8.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image96.jpeg)
 
 **\**
 
-![http://www.topdesignmag.com/wp-content/uploads/2012/05/b.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image97.jpeg){width="5.208333333333333in"
-height="3.4583333333333335in"}**\
+![http://www.topdesignmag.com/wp-content/uploads/2012/05/b.jpg](assets/News - Writer's Notebook 8 Quick Writes/media/media/image97.jpeg)**\
 The Best Person in the World**
 
-![http://l2.yimg.com/uu/api/res/1.2/OVIovM735tuIt7lcdVtWzg\--/aD0yODE7dz01MDA7YXBwaWQ9eXRhY2h5b24-/http:/media.zenfs.com/en-US/video/video.abcnewsplus.com/966cfba91f64f31f611bb717b109e35f](assets/News - Writer's Notebook 8 Quick Writes/media/media/image98.jpeg){width="5.207638888888889in"
-height="2.9243055555555557in"}
+![http://l2.yimg.com/uu/api/res/1.2/OVIovM735tuIt7lcdVtWzg\--/aD0yODE7dz01MDA7YXBwaWQ9eXRhY2h5b24-/http:/media.zenfs.com/en-US/video/video.abcnewsplus.com/966cfba91f64f31f611bb717b109e35f](assets/News - Writer's Notebook 8 Quick Writes/media/media/image98.jpeg)
 
 ### [More Than Just Jewellery - The Akola Project](http://news.yahoo.com/blogs/best-person-in-the-world/more-than-just-jewelry---the-akola-project-135853844.html)
 
@@ -1092,8 +994,7 @@ Akola currently employs about 250 women in Uganda and Underwood expects
 to nearly double that number in 2015. She estimates their work has
 impacted the lives of thousands of children.
 
-![http://l.yimg.com/uu/api/res/1.2/FV2tdlcY5fqVsVIzhSO0Gg\--/aD0yODE7dz01MDA7YXBwaWQ9eXRhY2h5b24-/http:/media.zenfs.com/en-US/video/video.abcnewsplus.com/d78778e19187d0660e64aeca6f692ff3](assets/News - Writer's Notebook 8 Quick Writes/media/media/image99.jpeg){width="5.207638888888889in"
-height="2.9243055555555557in"}
+![http://l.yimg.com/uu/api/res/1.2/FV2tdlcY5fqVsVIzhSO0Gg\--/aD0yODE7dz01MDA7YXBwaWQ9eXRhY2h5b24-/http:/media.zenfs.com/en-US/video/video.abcnewsplus.com/d78778e19187d0660e64aeca6f692ff3](assets/News - Writer's Notebook 8 Quick Writes/media/media/image99.jpeg)
 
 ### [Matching Gardeners to Pantries Brings A Harvest of Caring](http://news.yahoo.com/blogs/best-person-in-the-world/matching-gardeners-to-pantries-brings-a-harvest-of-caring-134446389.html)
 
@@ -1125,8 +1026,7 @@ the food she distributes is fresh fruits and vegetables.
 Gary Oppenheimer lives in Northwestern New Jersey with his wife and dog,
 where he continues to expand AmpleHarvest.org.
 
-![http://l.yimg.com/uu/api/res/1.2/o8kOJWSsIFgZdOhdUW.\_tA\--/aD0yODE7dz01MDA7YXBwaWQ9eXRhY2h5b24-/http:/media.zenfs.com/en-US/video/video.abcnewsplus.com/7eb2dc45506cffe00794b12b039c398b](assets/News - Writer's Notebook 8 Quick Writes/media/media/image100.jpeg){width="5.207638888888889in"
-height="2.9243055555555557in"}
+![http://l.yimg.com/uu/api/res/1.2/o8kOJWSsIFgZdOhdUW.\_tA\--/aD0yODE7dz01MDA7YXBwaWQ9eXRhY2h5b24-/http:/media.zenfs.com/en-US/video/video.abcnewsplus.com/7eb2dc45506cffe00794b12b039c398b](assets/News - Writer's Notebook 8 Quick Writes/media/media/image100.jpeg)
 
 ### [After a Death, Helping Children Heal](http://news.yahoo.com/blogs/best-person-in-the-world/after-a-death--helping-children-heal-153811782.html)
 
@@ -1156,8 +1056,7 @@ life," says Delp.
 Pennsylvania.  Her dream is to have grief centres in communities
 throughout the country.  
 
-![http://l4.yimg.com/uu/api/res/1.2/5PLgbY0U0FClkgzNFwZbow\--/aD0yODE7dz01MDA7YXBwaWQ9eXRhY2h5b24-/http:/media.zenfs.com/en-US/video/video.abcnewsplus.com/882b7d0600891a89e067559840210954](assets/News - Writer's Notebook 8 Quick Writes/media/media/image101.jpeg){width="5.207638888888889in"
-height="2.9243055555555557in"}
+![http://l4.yimg.com/uu/api/res/1.2/5PLgbY0U0FClkgzNFwZbow\--/aD0yODE7dz01MDA7YXBwaWQ9eXRhY2h5b24-/http:/media.zenfs.com/en-US/video/video.abcnewsplus.com/882b7d0600891a89e067559840210954](assets/News - Writer's Notebook 8 Quick Writes/media/media/image101.jpeg)
 
 ### [Ivan Owen Gives the World a (3D-Printed) Hand](http://news.yahoo.com/blogs/best-person-in-the-world/ivan-owen-gives-the-world-a--3d-printed--hand-145713712.html)
 
@@ -1188,8 +1087,7 @@ Ivan Owen is a propmaker and self-taught engineer who lives in
 Bellingham, WA and assists with teaching 3D printing and mechanical
 design at the University of Washington Bothell campus.
 
-![http://l1.yimg.com/uu/api/res/1.2/3YnqKbqLFg1.ocs5aTXJVQ\--/aD0yODE7dz01MDA7YXBwaWQ9eXRhY2h5b24-/http:/media.zenfs.com/en-US/video/video.abcnewsplus.com/5eec797ac3bf34aa4e7df0ca6ee0e226](assets/News - Writer's Notebook 8 Quick Writes/media/media/image102.jpeg){width="5.207638888888889in"
-height="2.9243055555555557in"}
+![http://l1.yimg.com/uu/api/res/1.2/3YnqKbqLFg1.ocs5aTXJVQ\--/aD0yODE7dz01MDA7YXBwaWQ9eXRhY2h5b24-/http:/media.zenfs.com/en-US/video/video.abcnewsplus.com/5eec797ac3bf34aa4e7df0ca6ee0e226](assets/News - Writer's Notebook 8 Quick Writes/media/media/image102.jpeg)
 
 ### [Dan Austin Gives Bikes to Survivors of Human Trafficking](http://news.yahoo.com/blogs/best-person-in-the-world/dan-austin-gives-bikes-to-survivors-of-human-trafficking-163623204.html)
 

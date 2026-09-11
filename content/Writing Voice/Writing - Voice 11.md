@@ -11,16 +11,14 @@ strand: writing-voice
 > **(11)**
 >
 > ![POV
-> ](assets/Writing - Voice 11/media/media/image1.jpeg){width="5.208333333333333in"
-> height="4.166666666666667in"}
+> ](assets/Writing - Voice 11/media/media/image1.jpeg)
 
 **Narrative Voice**
 
 **Perspective 2**
 
 ![POV
-](assets/Writing - Voice 11/media/media/image1.jpeg){width="2.53125in"
-height="2.025in"}
+](assets/Writing - Voice 11/media/media/image1.jpeg)
 
 **Voice 11**
 
@@ -46,11 +44,9 @@ Stars Beneath Your Bed April Sayre
 
 The Book That Eats People John Perry
 
-![http://yerf.metafur.org/valeramo/new_here.gif](assets/Writing - Voice 11/media/media/image2.gif){width="6.268055555555556in"
-height="4.393152887139108in"}
+![http://yerf.metafur.org/valeramo/new_here.gif](assets/Writing - Voice 11/media/media/image2.gif)
 
-![http://sundryedaffairs.files.wordpress.com/2011/05/uncle-sam.jpg](assets/Writing - Voice 11/media/media/image3.jpeg){width="6.268055555555556in"
-height="4.387638888888889in"}
+![http://sundryedaffairs.files.wordpress.com/2011/05/uncle-sam.jpg](assets/Writing - Voice 11/media/media/image3.jpeg)
 
 **Second Person**
 
@@ -98,8 +94,7 @@ If You give a Moose a Muffin Laura Numeroff
 
 - series
 
-![http://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780805090390.jpg](assets/Writing - Voice 11/media/media/image4.jpeg){width="4.2080205599300085in"
-height="4.229166666666667in"}
+![http://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9780805090390.jpg](assets/Writing - Voice 11/media/media/image4.jpeg)
 
 **Eat Like a Bear April Sayre**
 
@@ -576,35 +571,26 @@ Find \...
 
 two more mouths to feed.
 
-![http://images.macmillan.com/folio-assets/interiors-images/9780805090390.IN01.jpg](assets/Writing - Voice 11/media/media/image5.jpeg){width="6.268055555555556in"
-height="6.268055555555556in"}
+![http://images.macmillan.com/folio-assets/interiors-images/9780805090390.IN01.jpg](assets/Writing - Voice 11/media/media/image5.jpeg)
 
-![http://images.macmillan.com/folio-assets/interiors-images/9780805090390.IN03.jpg](assets/Writing - Voice 11/media/media/image6.jpeg){width="6.268055555555556in"
-height="6.268055555555556in"}
+![http://images.macmillan.com/folio-assets/interiors-images/9780805090390.IN03.jpg](assets/Writing - Voice 11/media/media/image6.jpeg)
 
-![http://images.macmillan.com/folio-assets/interiors-images/9780805090390.IN04.jpg](assets/Writing - Voice 11/media/media/image7.jpeg){width="6.268055555555556in"
-height="6.268055555555556in"}
+![http://images.macmillan.com/folio-assets/interiors-images/9780805090390.IN04.jpg](assets/Writing - Voice 11/media/media/image7.jpeg)
 
-![http://images.macmillan.com/folio-assets/interiors-images/9780805090390.IN05.jpg](assets/Writing - Voice 11/media/media/image8.jpeg){width="6.268055555555556in"
-height="6.268055555555556in"}
+![http://images.macmillan.com/folio-assets/interiors-images/9780805090390.IN05.jpg](assets/Writing - Voice 11/media/media/image8.jpeg)
 
-![http://media-cache-ak0.pinimg.com/736x/73/a5/f6/73a5f66197678a4532ba9bd9770bed01.jpg](assets/Writing - Voice 11/media/media/image9.jpeg){width="6.268055555555556in"
-height="6.1415266841644796in"}
+![http://media-cache-ak0.pinimg.com/736x/73/a5/f6/73a5f66197678a4532ba9bd9770bed01.jpg](assets/Writing - Voice 11/media/media/image9.jpeg)
 
 **\**
 
-![http://images.macmillan.com/folio-assets/interiors-images/9780805090390.IN06.jpg](assets/Writing - Voice 11/media/media/image10.jpeg){width="6.268055555555556in"
-height="6.268055555555556in"}
+![http://images.macmillan.com/folio-assets/interiors-images/9780805090390.IN06.jpg](assets/Writing - Voice 11/media/media/image10.jpeg)
 
-![http://images.macmillan.com/folio-assets/interiors-images/9780805090390.IN07.jpg](assets/Writing - Voice 11/media/media/image11.jpeg){width="6.268055555555556in"
-height="6.268055555555556in"}
+![http://images.macmillan.com/folio-assets/interiors-images/9780805090390.IN07.jpg](assets/Writing - Voice 11/media/media/image11.jpeg)
 
-![http://images.macmillan.com/folio-assets/interiors-images/9780805090390.IN08.jpg](assets/Writing - Voice 11/media/media/image12.jpeg){width="6.268055555555556in"
-height="6.268055555555556in"}
+![http://images.macmillan.com/folio-assets/interiors-images/9780805090390.IN08.jpg](assets/Writing - Voice 11/media/media/image12.jpeg)
 
 ![April
-Sayre](assets/Writing - Voice 11/media/media/image13.jpeg){width="3.90625in"
-height="5.708333333333333in"}
+Sayre](assets/Writing - Voice 11/media/media/image13.jpeg)
 
 **About Me**
 
@@ -647,8 +633,7 @@ a B.A. in biology from Duke University and an M.F.A. in Creative Writing
 from Vermont College.
 
 ![The Iridescence of
-Birds](assets/Writing - Voice 11/media/media/image14.jpeg){width="2.5625in"
-height="3.125in"}
+Birds](assets/Writing - Voice 11/media/media/image14.jpeg)
 
 **The Iridescence of Birds** **: A Book About Henri Matisse**
 
@@ -678,17 +663,13 @@ iridescence. The lovely muted colours of the relief printed
 illustrations, predominately blues and greens, are enhanced by the
 quality of the paper and printing.
 
-![http://www.juniorlibraryguild.com/images/9781596439481/InteriorArt/9781596439481-iridescenceofbirds1_zoom.jpg](assets/Writing - Voice 11/media/media/image15.jpeg){width="6.25in"
-height="3.875in"}
+![http://www.juniorlibraryguild.com/images/9781596439481/InteriorArt/9781596439481-iridescenceofbirds1_zoom.jpg](assets/Writing - Voice 11/media/media/image15.jpeg)
 
-![https://jillsbooks.files.wordpress.com/2014/11/the-iridescence-of-birds-entire-cover-image-hadley-hooper.jpg](assets/Writing - Voice 11/media/media/image16.jpeg){width="6.268055555555556in"
-height="3.466166885389326in"}
+![https://jillsbooks.files.wordpress.com/2014/11/the-iridescence-of-birds-entire-cover-image-hadley-hooper.jpg](assets/Writing - Voice 11/media/media/image16.jpeg)
 
-![http://www.playingbythebook.net/wp-content/uploads/iredescence-inside.jpg](assets/Writing - Voice 11/media/media/image17.jpeg){width="6.268055555555556in"
-height="3.572791994750656in"}
+![http://www.playingbythebook.net/wp-content/uploads/iredescence-inside.jpg](assets/Writing - Voice 11/media/media/image17.jpeg)
 
-![iredescence-inside2](assets/Writing - Voice 11/media/media/image18.jpeg){width="6.268055555555556in"
-height="3.8297823709536307in"}
+![iredescence-inside2](assets/Writing - Voice 11/media/media/image18.jpeg)
 
 [**The Nature and Nurture of Genius: The Sweet Illustrated Story of How
 Henri Matisse's Childhood Shaped His Creative
@@ -699,8 +680,7 @@ Legacy**](http://www.brainpickings.org/2015/02/10/the-iridescence-of-birds-henri
 > *A heartening testament to the nourishing power of parental love in
 > the cultivation of greatness.*
 
-[![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse.jpg](assets/Writing - Voice 11/media/media/image19.jpeg){width="2.1875in"
-height="2.65625in"}](http://www.amazon.com/exec/obidos/ASIN/1596439483/braipick-20)At
+[![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse.jpg](assets/Writing - Voice 11/media/media/image19.jpeg)](http://www.amazon.com/exec/obidos/ASIN/1596439483/braipick-20)At
 8PM on the last day of 1869, a little boy named Henri entered the world
 in a grey textile-mill town in the north of France, in a rundown
 two-room cottage with a leaky roof. He didn't have much materially, but
@@ -820,8 +800,7 @@ Movement
 
 And the iridescence of birds?
 
-![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse1.jpg](assets/Writing - Voice 11/media/media/image20.jpeg){width="5.208333333333333in"
-height="2.8125in"}
+![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse1.jpg](assets/Writing - Voice 11/media/media/image20.jpeg)
 
 In [***The Iridescence of Birds: A Book About Henri
 Matisse***](http://www.amazon.com/exec/obidos/ASIN/1596439483/braipick-20) 
@@ -835,14 +814,11 @@ paints; how his father gave him pigeons, whose iridescent plumage the
 boy observed with endless fascination; how the beautiful silks woven by
 the townspeople beguiled him with their bright patterns.
 
-![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse8.jpg](assets/Writing - Voice 11/media/media/image21.jpeg){width="5.208333333333333in"
-height="2.8645833333333335in"}
+![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse8.jpg](assets/Writing - Voice 11/media/media/image21.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse5.jpg](assets/Writing - Voice 11/media/media/image22.jpeg){width="5.208333333333333in"
-height="2.8125in"}
+![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse5.jpg](assets/Writing - Voice 11/media/media/image22.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse6.jpg](assets/Writing - Voice 11/media/media/image23.jpeg){width="5.208333333333333in"
-height="2.8958333333333335in"}
+![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse6.jpg](assets/Writing - Voice 11/media/media/image23.jpeg)
 
 With a gentle sidewise gleam, the story offers a nuanced answer to the
 eternal nature-versus-nurture question of whether genius is born or
@@ -861,8 +837,7 @@ children's books.)
 For a delightful touch of empathy via a twist of perspective, MacLachlan
 places the reader in little Henri's shoes:
 
-![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse2.jpg](assets/Writing - Voice 11/media/media/image24.jpeg){width="5.208333333333333in"
-height="2.8020833333333335in"}
+![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse2.jpg](assets/Writing - Voice 11/media/media/image24.jpeg)
 
 If you were a boy named Henri Matisse who lived in a dreary town in
 northern France where the skies were grey
@@ -883,11 +858,9 @@ Rivers and birds,
 
 And she let you mix the colours of paint...
 
-![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse3.jpg](assets/Writing - Voice 11/media/media/image25.jpeg){width="5.208333333333333in"
-height="2.8125in"}
+![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse3.jpg](assets/Writing - Voice 11/media/media/image25.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse4.jpg](assets/Writing - Voice 11/media/media/image26.jpeg){width="5.208333333333333in"
-height="2.8125in"}
+![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse4.jpg](assets/Writing - Voice 11/media/media/image26.jpeg)
 
 ... And you raised Pigeons
 
@@ -897,11 +870,9 @@ And red feet,
 And their colours that changed with the light\
 As they moved...
 
-![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse9.jpg](assets/Writing - Voice 11/media/media/image27.jpeg){width="5.208333333333333in"
-height="2.8125in"}
+![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse9.jpg](assets/Writing - Voice 11/media/media/image27.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse10.jpg](assets/Writing - Voice 11/media/media/image28.jpeg){width="5.208333333333333in"
-height="2.8125in"}
+![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse10.jpg](assets/Writing - Voice 11/media/media/image28.jpeg)
 
 ... Would it be a surprise that you became\
 A fine painter who painted\
@@ -911,8 +882,7 @@ Movement
 
 And the iridescence of birds?
 
-![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse12.jpg](assets/Writing - Voice 11/media/media/image29.jpeg){width="5.208333333333333in"
-height="2.9479166666666665in"}
+![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse12.jpg](assets/Writing - Voice 11/media/media/image29.jpeg)
 
 Beneath the biographical particulars of the story itself is MacLachlan's
 larger inquiry into the enduring question of whether artists draw what
@@ -920,8 +890,7 @@ they see or what they feel and remember --- Matisse's life, she writes
 in the afterword, attests to the fact that the two are inextricably
 entwined: *"He painted his feelings and he painted his childhood."*
 
-![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse11.jpg](assets/Writing - Voice 11/media/media/image30.jpeg){width="5.208333333333333in"
-height="3.0625in"}
+![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse11.jpg](assets/Writing - Voice 11/media/media/image30.jpeg)
 
 Hooper's illustrations are themselves a masterwork of artistry,
 scholarship, and creative ingenuity. She spent considerable time
@@ -951,8 +920,7 @@ Einstein](http://www.brainpickings.org/2013/12/30/on-a-beam-of-light-albert-eins
 and [Maria
 Merian](http://www.brainpickings.org/2014/11/25/summer-birds-maria-merian-butterflies/).
 
-![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse9.jpg](assets/Writing - Voice 11/media/media/image27.jpeg){width="6.25in"
-height="3.375in"}
+![http://www.brainpickings.org/wp-content/uploads/2015/02/iridescenceofbirds_matisse9.jpg](assets/Writing - Voice 11/media/media/image27.jpeg)
 
 What kind of manuscript would a publisher not want from you?
 
@@ -974,17 +942,13 @@ stuff that doesn't work and won't sell. He asked what I meant, and I
 told him about my picture book on Matisse. I said that nobody wants a
 book on Matisse. And he leaned forward and said, "I do."
 
-![http://2.bp.blogspot.com/\_j9VUmBswTWg/TQgP2B5LooI/AAAAAAAAAJM/xbeLRNDjf50/s1600/Henri-Matisse-art-painting-Harmony-in-Red.JPG](assets/Writing - Voice 11/media/media/image31.jpeg){width="6.268055555555556in"
-height="5.111141732283465in"}
+![http://2.bp.blogspot.com/\_j9VUmBswTWg/TQgP2B5LooI/AAAAAAAAAJM/xbeLRNDjf50/s1600/Henri-Matisse-art-painting-Harmony-in-Red.JPG](assets/Writing - Voice 11/media/media/image31.jpeg)
 
-![http://uploads8.wikipaintings.org/images/henri-matisse/basket-with-oranges-1913.jpg](assets/Writing - Voice 11/media/media/image32.jpeg){width="6.268055555555556in"
-height="7.201011592300962in"}
+![http://uploads8.wikipaintings.org/images/henri-matisse/basket-with-oranges-1913.jpg](assets/Writing - Voice 11/media/media/image32.jpeg)
 
-![http://www.daydaypaint.com/images/Commerical-Painting/Henri-Matisse-Painting-010.jpg](assets/Writing - Voice 11/media/media/image33.jpeg){width="5.5625in"
-height="4.46875in"}
+![http://www.daydaypaint.com/images/Commerical-Painting/Henri-Matisse-Painting-010.jpg](assets/Writing - Voice 11/media/media/image33.jpeg)
 
-![872640](assets/Writing - Voice 11/media/media/image34.jpeg){width="3.3125in"
-height="2.8958333333333335in"}
+![872640](assets/Writing - Voice 11/media/media/image34.jpeg)
 
 Think of all the rocks there are: the skipping rocks, the splashing
 rocks, and the chalk rocks. Whether the found treasures are climbing
@@ -993,11 +957,9 @@ joyful text and luminous photographs, If You Find a Rock celebrates
 rocks everywhere\--as well as the mysterious and wonderful places they
 are found.
 
-![http://media-cache-ak0.pinimg.com/736x/82/e0/6b/82e06bec0080e56fe83383ab5916717e.jpg](assets/Writing - Voice 11/media/media/image35.jpeg){width="3.3333333333333335in"
-height="2.5in"}
+![http://media-cache-ak0.pinimg.com/736x/82/e0/6b/82e06bec0080e56fe83383ab5916717e.jpg](assets/Writing - Voice 11/media/media/image35.jpeg)
 
-![http://2.bp.blogspot.com/-x9gtQU0Aa3Q/UjJ_9zY7INI/AAAAAAAADZA/RHx34uQnD3g/s1600/IMG_8172.JPG](assets/Writing - Voice 11/media/media/image36.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://2.bp.blogspot.com/-x9gtQU0Aa3Q/UjJ_9zY7INI/AAAAAAAADZA/RHx34uQnD3g/s1600/IMG_8172.JPG](assets/Writing - Voice 11/media/media/image36.jpeg)
 
 If You Find a Rock Peggy Christian
 
@@ -1309,8 +1271,7 @@ Into the rock.
 
 Alana Meehan Gr 5. Wembley
 
-![http://www.my-sf.com/wp-content/uploads/5014/05/Instructions-by-Neil-Gaiman-and-illustrated-by-Charles-Vess.jpg](assets/Writing - Voice 11/media/media/image37.jpeg){width="3.0104166666666665in"
-height="3.159788932633421in"}
+![http://www.my-sf.com/wp-content/uploads/5014/05/Instructions-by-Neil-Gaiman-and-illustrated-by-Charles-Vess.jpg](assets/Writing - Voice 11/media/media/image37.jpeg)
 
 **Instructions Neil Gaiman**
 
@@ -1322,8 +1283,7 @@ The illustrations by Charles Vess evoke the settings of fairy tales
 past, with recognizable characters and settings.
 
 ![Picture
-1](assets/Writing - Voice 11/media/media/image38.png){width="3.125in"
-height="2.6666666666666665in"}
+1](assets/Writing - Voice 11/media/media/image38.png)
 
 The words by Gaiman harken back to A.A. Milne and Lewis Carroll, both of
 whom also issued exhortations to help children avoid getting eaten by
@@ -1340,8 +1300,7 @@ Do not look back.\
 Ride the wise eagle (you shall not fall).\
 Ride the silver fish (you will not drown)."*
 
-![instructions_spread16-19c](assets/Writing - Voice 11/media/media/image39.jpeg){width="6.25in"
-height="3.3333333333333335in"}
+![instructions_spread16-19c](assets/Writing - Voice 11/media/media/image39.jpeg)
 
 **Discussion:** Gaiman's instructions are a bit more mystical than A.A.
 Milne's, but still, I think you can see the parallels in [[this
@@ -1358,8 +1317,7 @@ Go back to their lairs,\
 And I say to them, "Bears,\
 just look how I'm walking in all the squares!"*
 
-![milne2c](assets/Writing - Voice 11/media/media/image40.jpeg){width="3.125in"
-height="2.15625in"}
+![milne2c](assets/Writing - Voice 11/media/media/image40.jpeg)
 
 Similarly, Gaiman's words remind me of the wonderful exhortations by
 Lewis Carroll in "[[Rules and
@@ -1388,8 +1346,7 @@ Be rude to strangers."*
   
 
 ![Instructions from
-\"Instructions\"](assets/Writing - Voice 11/media/media/image41.png){width="6.052083333333333in"
-height="5.885416666666667in"}
+\"Instructions\"](assets/Writing - Voice 11/media/media/image41.png)
 
 > Instructions from "Instructions"
 
@@ -1578,8 +1535,7 @@ to which children will love listening, for so many reasons.
 
 Cate Whittle, ACT
 
-![http://fernfolio.edublogs.org/files/2010/11/Have-I-Got-a-Book-For-You-tzlkbw.jpg](assets/Writing - Voice 11/media/media/image42.jpeg){width="3.125in"
-height="3.125in"}
+![http://fernfolio.edublogs.org/files/2010/11/Have-I-Got-a-Book-For-You-tzlkbw.jpg](assets/Writing - Voice 11/media/media/image42.jpeg)
 
 Meet Al Foxword, salesman, who has just the book for you. He will
 present testimonials from some of his satisfied customers, including
@@ -1606,8 +1562,7 @@ SWELL! A terrific book for children from 4 to 144!
 
 > FernFolio Editor
 
-![http://www.umanitoba.ca/outreach/cm/vol16/no3/haveigotabookforyouint.jpg](assets/Writing - Voice 11/media/media/image43.jpeg){width="2.0833333333333335in"
-height="2.5416666666666665in"}
+![http://www.umanitoba.ca/outreach/cm/vol16/no3/haveigotabookforyouint.jpg](assets/Writing - Voice 11/media/media/image43.jpeg)
 
 Pre-Reading:
 
@@ -1769,8 +1724,7 @@ Now just imagine what you can do with **742 books!**
 
 **YES,** it's the **Book Fort** you've always wanted!
 
-![https://s-media-cache-ak0.pinimg.com/236x/f9/84/cf/f984cf2a232a800043c341dcc032075d.jpg](assets/Writing - Voice 11/media/media/image44.jpeg){width="2.4583333333333335in"
-height="1.84375in"}
+![https://s-media-cache-ak0.pinimg.com/236x/f9/84/cf/f984cf2a232a800043c341dcc032075d.jpg](assets/Writing - Voice 11/media/media/image44.jpeg)
 
 Oh. You're still not convinced.
 
@@ -1792,17 +1746,13 @@ But just one last thing \...
 
 **You break it, you buy it!**
 
-![http://blaine.org/jules/HaveIGotABookForYou_2013_spr1b.jpg](assets/Writing - Voice 11/media/media/image45.jpeg){width="5.208333333333333in"
-height="3.125in"}
+![http://blaine.org/jules/HaveIGotABookForYou_2013_spr1b.jpg](assets/Writing - Voice 11/media/media/image45.jpeg)
 
-![http://blaine.org/jules/HaveIGotABookForYou_2013_spr2c.jpg](assets/Writing - Voice 11/media/media/image46.jpeg){width="5.208333333333333in"
-height="3.1145833333333335in"}
+![http://blaine.org/jules/HaveIGotABookForYou_2013_spr2c.jpg](assets/Writing - Voice 11/media/media/image46.jpeg)
 
-![http://blaine.org/jules/HaveIGotABookForYou_2013_spr3b.jpg](assets/Writing - Voice 11/media/media/image47.jpeg){width="5.208333333333333in"
-height="3.1354166666666665in"}
+![http://blaine.org/jules/HaveIGotABookForYou_2013_spr3b.jpg](assets/Writing - Voice 11/media/media/image47.jpeg)
 
-![http://i.walmartimages.com/i/p/97/81/41/69/79/9781416979227_500X500.jpg](assets/Writing - Voice 11/media/media/image48.jpeg){width="3.6770833333333335in"
-height="3.6770833333333335in"}
+![http://i.walmartimages.com/i/p/97/81/41/69/79/9781416979227_500X500.jpg](assets/Writing - Voice 11/media/media/image48.jpeg)
 
 Could anything possibly be more fun than a pig parade!? You wouldn\'t
 think so. But you\'d be wrong. A pig parade is a terrible idea. Pigs
@@ -1880,14 +1830,11 @@ of?
 12\. There are two different kinds of pigs shown in this book. What is
 the difference?
 
-![http://d28hgpri8am2if.cloudfront.net/tagged_assets/graexc_33565179_9781416979227.in01.jpg](assets/Writing - Voice 11/media/media/image49.jpeg){width="6.268055555555556in"
-height="4.395913167104112in"}
+![http://d28hgpri8am2if.cloudfront.net/tagged_assets/graexc_33565179_9781416979227.in01.jpg](assets/Writing - Voice 11/media/media/image49.jpeg)
 
-![A-pig-parade-is-a-terrible-idea-9781416979227.in02](assets/Writing - Voice 11/media/media/image50.jpeg){width="6.268055555555556in"
-height="4.297260498687664in"}
+![A-pig-parade-is-a-terrible-idea-9781416979227.in02](assets/Writing - Voice 11/media/media/image50.jpeg)
 
-![http://d28hgpri8am2if.cloudfront.net/tagged_assets/graexc_33988419_9781416979227.in02.jpg](assets/Writing - Voice 11/media/media/image51.png){width="6.268055555555556in"
-height="4.17870406824147in"}
+![http://d28hgpri8am2if.cloudfront.net/tagged_assets/graexc_33988419_9781416979227.in02.jpg](assets/Writing - Voice 11/media/media/image51.png)
 
 **A Pig Parade is a Terrible Idea Michael Black**
 
@@ -2010,8 +1957,7 @@ Conclusion:
 
 Ending:
 
-![http://img1.imagesbn.com/p/9780375867132_p0_v1_s260x420.JPG](assets/Writing - Voice 11/media/media/image52.jpeg){width="2.7083333333333335in"
-height="3.46875in"}
+![http://img1.imagesbn.com/p/9780375867132_p0_v1_s260x420.JPG](assets/Writing - Voice 11/media/media/image52.jpeg)
 
 **How to Babysit a Grandpa Jean Reagan**
 
@@ -2077,14 +2023,11 @@ heart. Thank you, Lee!
 I\'m so pleased that this grandpa book has morphed into a HOW-TO series,
 with a total of six books contracted, so far.
 
-![http://4.bp.blogspot.com/-osgo1iJBwqg/U5swUzF85VI/AAAAAAAAQDA/tzQ8Yuei1D0/s1600/excerpt+how+to+babysit+a+grandpa.jpg](assets/Writing - Voice 11/media/media/image53.jpeg){width="4.958333333333333in"
-height="5.947916666666667in"}
+![http://4.bp.blogspot.com/-osgo1iJBwqg/U5swUzF85VI/AAAAAAAAQDA/tzQ8Yuei1D0/s1600/excerpt+how+to+babysit+a+grandpa.jpg](assets/Writing - Voice 11/media/media/image53.jpeg)
 
-![https://s-media-cache-ak0.pinimg.com/736x/00/8d/42/008d42c8b5e14b4267377b8fc5eea8ad.jpg](assets/Writing - Voice 11/media/media/image54.jpeg){width="6.268055555555556in"
-height="5.850752405949256in"}
+![https://s-media-cache-ak0.pinimg.com/736x/00/8d/42/008d42c8b5e14b4267377b8fc5eea8ad.jpg](assets/Writing - Voice 11/media/media/image54.jpeg)
 
-![http://www.randomhousekids.com/media/filer_public_thumbnails/filer_public/2013/05/30/nm_howtobabysit_mainpromo.jpg\_\_620x250_q85_crop-smart.jpg](assets/Writing - Voice 11/media/media/image55.jpeg){width="6.268055555555556in"
-height="2.527442038495188in"}
+![http://www.randomhousekids.com/media/filer_public_thumbnails/filer_public/2013/05/30/nm_howtobabysit_mainpromo.jpg\_\_620x250_q85_crop-smart.jpg](assets/Writing - Voice 11/media/media/image55.jpeg)
 
 **How to Babysit a Grandpa Jean Reagan**
 
@@ -2216,8 +2159,7 @@ HOW TO SAY GOOD-BYE TO GRANDPA
 
 - And ask, "When can I babysit you again?"
 
-![http://2.bp.blogspot.com/-38cJCnCmrRk/Uh96z9YcOiI/AAAAAAAAK_E/gllIsz_dinU/s1600/the-beginners-guide-to-running-away-from-home.jpg](assets/Writing - Voice 11/media/media/image56.jpeg){width="3.434711286089239in"
-height="4.59375in"}
+![http://2.bp.blogspot.com/-38cJCnCmrRk/Uh96z9YcOiI/AAAAAAAAK_E/gllIsz_dinU/s1600/the-beginners-guide-to-running-away-from-home.jpg](assets/Writing - Voice 11/media/media/image56.jpeg)
 
 Big brother being a pain? Baby sister getting all the attention? Mom
 making you eat your vegetables? Whatever your reason is, there's only
@@ -2244,14 +2186,11 @@ see that there really is no place like home. Coming to a close with a
 heartfelt reunion between mother and son, this tale presents an engaging
 journey inside a creative kid's imagination.
 
-![http://media-cache-ec0.pinimg.com/736x/24/95/af/2495af59e1815de95fa516a057704f56.jpg](assets/Writing - Voice 11/media/media/image57.jpeg){width="6.197916666666667in"
-height="4.135416666666667in"}
+![http://media-cache-ec0.pinimg.com/736x/24/95/af/2495af59e1815de95fa516a057704f56.jpg](assets/Writing - Voice 11/media/media/image57.jpeg)
 
-![http://cdn2.artboom.info/wp-content/uploads/2013/06/Beginners-Guide-3-600x406.jpg](assets/Writing - Voice 11/media/media/image58.jpeg){width="6.25in"
-height="4.229166666666667in"}
+![http://cdn2.artboom.info/wp-content/uploads/2013/06/Beginners-Guide-3-600x406.jpg](assets/Writing - Voice 11/media/media/image58.jpeg)
 
-![http://1.bp.blogspot.com/-UDwN4F1fS18/Uc3j41NqTrI/AAAAAAAAT24/6qXO-egjRNU/s595/Beginners_Guide_2_595.jpg](assets/Writing - Voice 11/media/media/image59.jpeg){width="6.197916666666667in"
-height="4.197916666666667in"}
+![http://1.bp.blogspot.com/-UDwN4F1fS18/Uc3j41NqTrI/AAAAAAAAT24/6qXO-egjRNU/s595/Beginners_Guide_2_595.jpg](assets/Writing - Voice 11/media/media/image59.jpeg)
 
 New York Times Best Illustrated artist Chris Sickels spent 15 months
 creating the art for Jennifer LaRue's Huget ode to childhood adventure.
@@ -2264,8 +2203,7 @@ ultimately, coming home.
 
 ![Beginners Guide 1 600x406 Red Nose Studio The Beginners Guide To
 Running Away From
-Home](assets/Writing - Voice 11/media/media/image60.jpeg){width="6.25in"
-height="4.229166666666667in"}
+Home](assets/Writing - Voice 11/media/media/image60.jpeg)
 
 Jules: What is your usual medium?
 
@@ -2275,17 +2213,13 @@ clothing for the characters. Everything is built to fit the approved
 sketch and then photographed here in my studio/garage and sent to the
 publisher.
 
-![http://blaine.org/jules/beginnersguidefinalinteriors2-small.jpg](assets/Writing - Voice 11/media/media/image61.jpeg){width="5.208333333333333in"
-height="3.5208333333333335in"}
+![http://blaine.org/jules/beginnersguidefinalinteriors2-small.jpg](assets/Writing - Voice 11/media/media/image61.jpeg)
 
-![http://blaine.org/jules/FamilyPortrait-small.jpg](assets/Writing - Voice 11/media/media/image62.jpeg){width="5.208333333333333in"
-height="3.46875in"}
+![http://blaine.org/jules/FamilyPortrait-small.jpg](assets/Writing - Voice 11/media/media/image62.jpeg)
 
-![http://blaine.org/jules/head-constructioncssmall.JPG](assets/Writing - Voice 11/media/media/image63.jpeg){width="5.208333333333333in"
-height="3.90625in"}
+![http://blaine.org/jules/head-constructioncssmall.JPG](assets/Writing - Voice 11/media/media/image63.jpeg)
 
-![http://blaine.org/jules/finished_headscssmall.JPG](assets/Writing - Voice 11/media/media/image64.jpeg){width="5.208333333333333in"
-height="3.46875in"}
+![http://blaine.org/jules/finished_headscssmall.JPG](assets/Writing - Voice 11/media/media/image64.jpeg)
 
 Mentor Text:
 
@@ -2334,8 +2268,7 @@ Ending:
 
 Back home
 
-![http://media-cache-ec0.pinimg.com/736x/f9/09/6a/f9096a4c5e767d77050d2c72da47e845.jpg](assets/Writing - Voice 11/media/media/image65.jpeg){width="6.268055555555556in"
-height="8.507863079615047in"}
+![http://media-cache-ec0.pinimg.com/736x/f9/09/6a/f9096a4c5e767d77050d2c72da47e845.jpg](assets/Writing - Voice 11/media/media/image65.jpeg)
 
 **The Beginner's Guide to Running Away from Home Jennifer Huget**
 
@@ -2483,8 +2416,7 @@ And if they don't \...
 
 \... you might just run away from home again.
 
-![1345970](assets/Writing - Voice 11/media/media/image66.jpeg){width="3.3125in"
-height="4.03125in"}
+![1345970](assets/Writing - Voice 11/media/media/image66.jpeg)
 
 **Stars Beneath Your Bed April Sayre**
 
@@ -2745,8 +2677,7 @@ make a sunrise to start your day. And because dust is constantly being
 created and mixed, no two sunsets -- or sunrises -- will ever be the
 same.
 
-![6526671](assets/Writing - Voice 11/media/media/image67.jpeg){width="2.2604166666666665in"
-height="3.070754593175853in"}
+![6526671](assets/Writing - Voice 11/media/media/image67.jpeg)
 
 **The Book That Eats People John Perry**
 
@@ -2770,30 +2701,22 @@ So if you\'re just dying to know the history of this literary monster,
 all you have to do is turn the page\...
 
 Don\'t do it!
-![https://lh5.googleusercontent.com/-XI0FdvlXGkI/ToxJzCxUZ4I/AAAAAAAABOw/bSXzCvr_q04/s288/spread_6_5.jpg](assets/Writing - Voice 11/media/media/image68.jpeg){width="3.0in"
-height="2.1145833333333335in"}
+![https://lh5.googleusercontent.com/-XI0FdvlXGkI/ToxJzCxUZ4I/AAAAAAAABOw/bSXzCvr_q04/s288/spread_6_5.jpg](assets/Writing - Voice 11/media/media/image68.jpeg)
 
-![http://www.markfearing.com/images_picturebooks/book_extra_1.jpg](assets/Writing - Voice 11/media/media/image69.jpeg){width="5.208333333333333in"
-height="6.520833333333333in"}
+![http://www.markfearing.com/images_picturebooks/book_extra_1.jpg](assets/Writing - Voice 11/media/media/image69.jpeg)
 
 ![Book that Eats People extra
-2](assets/Writing - Voice 11/media/media/image70.jpeg){width="6.268055555555556in"
-height="4.239643482064742in"}
+2](assets/Writing - Voice 11/media/media/image70.jpeg)
 
-![http://mfearing.files.wordpress.com/2009/06/sample_3.jpg](assets/Writing - Voice 11/media/media/image71.jpeg){width="6.268055555555556in"
-height="4.427436570428696in"}
+![http://mfearing.files.wordpress.com/2009/06/sample_3.jpg](assets/Writing - Voice 11/media/media/image71.jpeg)
 
-![http://3.bp.blogspot.com/\_7MfY-Y4WDuU/TLR43gOGdzI/AAAAAAAAKWY/81O2OTCb_xo/s400/the+book+that+eats+people+3.jpg](assets/Writing - Voice 11/media/media/image72.jpeg){width="3.9583333333333335in"
-height="4.166666666666667in"}
+![http://3.bp.blogspot.com/\_7MfY-Y4WDuU/TLR43gOGdzI/AAAAAAAAKWY/81O2OTCb_xo/s400/the+book+that+eats+people+3.jpg](assets/Writing - Voice 11/media/media/image72.jpeg)
 
-![http://mfearing.files.wordpress.com/2011/10/eatspeople.jpg](assets/Writing - Voice 11/media/media/image73.jpeg){width="4.395833333333333in"
-height="6.0in"}
+![http://mfearing.files.wordpress.com/2011/10/eatspeople.jpg](assets/Writing - Voice 11/media/media/image73.jpeg)
 
-![https://m1.behance.net/rendition/modules/123809617/disp/12aaa9c4dddad0f174b7ec5083f67a0e.jpg](assets/Writing - Voice 11/media/media/image74.jpeg){width="6.25in"
-height="4.40625in"}
+![https://m1.behance.net/rendition/modules/123809617/disp/12aaa9c4dddad0f174b7ec5083f67a0e.jpg](assets/Writing - Voice 11/media/media/image74.jpeg)
 
-![http://wpc.6b03.edgecastcdn.net/006B03/the-book-that-eats-people-blogsize.jpg](assets/Writing - Voice 11/media/media/image75.jpeg){width="5.677083333333333in"
-height="3.78125in"}
+![http://wpc.6b03.edgecastcdn.net/006B03/the-book-that-eats-people-blogsize.jpg](assets/Writing - Voice 11/media/media/image75.jpeg)
 
 **The Book That Eats People**
 
@@ -2802,8 +2725,7 @@ height="3.78125in"}
 Every once in awhile I pull out one of my old books and talk about it.
 At bus stops. Restaurants. The grocery store. Here on my blog...
 
-![bepawrd](assets/Writing - Voice 11/media/media/image76.jpeg){width="1.44375in"
-height="1.96875in"}
+![bepawrd](assets/Writing - Voice 11/media/media/image76.jpeg)
 
 The Book That Eats People was my first real, grown-up, kids book. (and
 of course it was the 2012 picture book of the year in North Carolina via
@@ -2821,8 +2743,7 @@ run fast you don't have much to worry about.
 
 Below are some samples from early art in the book.
 
-![https://mfearing.files.wordpress.com/2013/03/plate_spoon_v6.jpg](assets/Writing - Voice 11/media/media/image77.jpeg){width="6.268055555555556in"
-height="3.916042213473316in"}
+![https://mfearing.files.wordpress.com/2013/03/plate_spoon_v6.jpg](assets/Writing - Voice 11/media/media/image77.jpeg)
 
 This is a close-up of a fairytale image that is used on the page that
 explains what the book isn't!
@@ -2831,8 +2752,7 @@ This is a development painting that was an early attempt to understand
 how to make an ongoing collage style work. This image is not in the
 final book.
 
-![http://mfearing.files.wordpress.com/2013/03/page_18-19_v_4.jpg](assets/Writing - Voice 11/media/media/image78.jpeg){width="6.268055555555556in"
-height="3.7608333333333333in"}
+![http://mfearing.files.wordpress.com/2013/03/page_18-19_v_4.jpg](assets/Writing - Voice 11/media/media/image78.jpeg)
 
 **The Book That Eats People John Perry**
 

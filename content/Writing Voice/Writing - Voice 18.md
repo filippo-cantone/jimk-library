@@ -10,11 +10,9 @@ strand: writing-voice
 >
 > **(18)**
 >
-> ![http://4.bp.blogspot.com/-tkYkkhP9fms/T1EhRg7BeaI/AAAAAAAAA8A/Ibwm1kEsf7A/s1600/Dr+Seuss+logo.jpg](assets/Writing - Voice 18/media/media/image1.jpeg){width="5.0in"
-> height="3.75in"}
+> ![http://4.bp.blogspot.com/-tkYkkhP9fms/T1EhRg7BeaI/AAAAAAAAA8A/Ibwm1kEsf7A/s1600/Dr+Seuss+logo.jpg](assets/Writing - Voice 18/media/media/image1.jpeg)
 
-![http://4.bp.blogspot.com/-tkYkkhP9fms/T1EhRg7BeaI/AAAAAAAAA8A/Ibwm1kEsf7A/s1600/Dr+Seuss+logo.jpg](assets/Writing - Voice 18/media/media/image2.jpeg){width="2.1770833333333335in"
-height="1.6328127734033246in"}
+![http://4.bp.blogspot.com/-tkYkkhP9fms/T1EhRg7BeaI/AAAAAAAAA8A/Ibwm1kEsf7A/s1600/Dr+Seuss+logo.jpg](assets/Writing - Voice 18/media/media/image2.jpeg)
 
 **Voice 18 Dr Seuss**
 
@@ -28,14 +26,11 @@ The Butter Battle Book
 
 The Lorax
 
-![snootySneetch](assets/Writing - Voice 18/media/media/image3.jpeg){width="1.28125in"
-height="2.7083333333333335in"}
+![snootySneetch](assets/Writing - Voice 18/media/media/image3.jpeg)
 
-![http://images.mentalfloss.com/sites/default/files/styles/article_640x430/public/dr-seuss.png](assets/Writing - Voice 18/media/media/image4.png){width="6.268055555555556in"
-height="4.211349518810149in"}
+![http://images.mentalfloss.com/sites/default/files/styles/article_640x430/public/dr-seuss.png](assets/Writing - Voice 18/media/media/image4.png)
 
-![hooray-for-diffendoofer-day](assets/Writing - Voice 18/media/media/image5.jpeg){width="2.6145833333333335in"
-height="3.3125in"}
+![hooray-for-diffendoofer-day](assets/Writing - Voice 18/media/media/image5.jpeg)
 
 Started by Dr. Seuss, finished by Jack Prelutsky, and illustrated by
 Lane Smith, Hooray for Diffendoofer Day! is a joyous ode to
@@ -52,8 +47,7 @@ greater than the sum of its parts. For all of us who will never forget
 our school days and that special teacher, here is a book to give and to
 get.
 
-![http://media-cache-ec0.pinimg.com/736x/02/c5/fe/02c5fea5b834874adcc83cb174ed7cde.jpg](assets/Writing - Voice 18/media/media/image6.jpeg){width="1.9650481189851268in"
-height="2.6145833333333335in"}
+![http://media-cache-ec0.pinimg.com/736x/02/c5/fe/02c5fea5b834874adcc83cb174ed7cde.jpg](assets/Writing - Voice 18/media/media/image6.jpeg)
 
 **Hooray for Diffendoofer Day! Dr Seuss**
 
@@ -479,11 +473,9 @@ Three cheers for Diffendoofer School --
 
 **HOORAY!**
 
-![http://c2.diapers.com/images/products/p/hp/hp-1877_4z.jpg](assets/Writing - Voice 18/media/media/image7.jpeg){width="6.268055555555556in"
-height="8.724728783902012in"}
+![http://c2.diapers.com/images/products/p/hp/hp-1877_4z.jpg](assets/Writing - Voice 18/media/media/image7.jpeg)
 
-![http://www.best-childrens-books.com/images/diffendoofer-school.jpg](assets/Writing - Voice 18/media/media/image8.jpeg){width="2.4270833333333335in"
-height="3.4270833333333335in"}
+![http://www.best-childrens-books.com/images/diffendoofer-school.jpg](assets/Writing - Voice 18/media/media/image8.jpeg)
 
 **Hooray for Diffendoofer Day!** is a story about creative teaching and
 thinking. It is a tale that celebrates originality, difference, and
@@ -578,25 +570,19 @@ frame to continue the mood or theme of the collage.
 *Unfortunately, the story wasn't complete --- Seuss had only left behind
 a few verses and very rough drawings.*
 
-![after1](assets/Writing - Voice 18/media/media/image9.jpeg){width="5.5625in"
-height="4.239583333333333in"}
+![after1](assets/Writing - Voice 18/media/media/image9.jpeg)
 
-![after2](assets/Writing - Voice 18/media/media/image10.jpeg){width="5.552083333333333in"
-height="3.8541666666666665in"}
+![after2](assets/Writing - Voice 18/media/media/image10.jpeg)
 
-![http://bp1.blogger.com/\_sTvHtDRhr5Y/Rq8urzSNHbI/AAAAAAAABcY/aZlthH7vSOw/s400/bonkers2.jpeg](assets/Writing - Voice 18/media/media/image11.jpeg){width="3.1145833333333335in"
-height="4.166666666666667in"}
+![http://bp1.blogger.com/\_sTvHtDRhr5Y/Rq8urzSNHbI/AAAAAAAABcY/aZlthH7vSOw/s400/bonkers2.jpeg](assets/Writing - Voice 18/media/media/image11.jpeg)
 
-![https://booksmykidsread.files.wordpress.com/2014/03/diffendoofer.jpg](assets/Writing - Voice 18/media/media/image12.jpeg){width="6.268055555555556in"
-height="8.97747265966754in"}
+![https://booksmykidsread.files.wordpress.com/2014/03/diffendoofer.jpg](assets/Writing - Voice 18/media/media/image12.jpeg)
 
 ![cropped images and words rearranged for clarity, Hurray for
 Diffendoofer
-Day](assets/Writing - Voice 18/media/media/image13.jpeg){width="2.1041666666666665in"
-height="8.0in"}
+Day](assets/Writing - Voice 18/media/media/image13.jpeg)
 
-![http://www.blogworld.com/wp-content/uploads/2010/11/Sneetches.gif](assets/Writing - Voice 18/media/media/image14.gif){width="2.6145833333333335in"
-height="3.5104166666666665in"}
+![http://www.blogworld.com/wp-content/uploads/2010/11/Sneetches.gif](assets/Writing - Voice 18/media/media/image14.gif)
 
 Sneetchland is populated by two types of Sneetches: the Star Belly
 Sneetches, born with a yellow star on their stomachs, and the Plain
@@ -874,73 +860,50 @@ That day, all the Sneetches forgot about stars
 
 And whether they had one, or not, upon thars.
 
-![http://wonderyou.files.wordpress.com/2010/01/sneetches.jpg](assets/Writing - Voice 18/media/media/image15.jpeg){width="4.166666666666667in"
-height="5.291666666666667in"}
+![http://wonderyou.files.wordpress.com/2010/01/sneetches.jpg](assets/Writing - Voice 18/media/media/image15.jpeg)
 
-![http://s1.hubimg.com/u/1455456_f520.jpg](assets/Writing - Voice 18/media/media/image16.jpeg){width="5.416666666666667in"
-height="4.020833333333333in"}
+![http://s1.hubimg.com/u/1455456_f520.jpg](assets/Writing - Voice 18/media/media/image16.jpeg)
 
-![http://fc06.deviantart.net/fs71/f/2013/203/2/3/sneetches_by_ghost_peacock-d6ekd98.jpg](assets/Writing - Voice 18/media/media/image17.jpeg){width="6.239583333333333in"
-height="6.239583333333333in"}
+![http://fc06.deviantart.net/fs71/f/2013/203/2/3/sneetches_by_ghost_peacock-d6ekd98.jpg](assets/Writing - Voice 18/media/media/image17.jpeg)
 
-![http://kqinnerview.com/wp-content/uploads/2012/10/Sneetches.jpg](assets/Writing - Voice 18/media/media/image18.jpeg){width="6.65625in"
-height="5.947916666666667in"}
+![http://kqinnerview.com/wp-content/uploads/2012/10/Sneetches.jpg](assets/Writing - Voice 18/media/media/image18.jpeg)
 
-![http://2.bp.blogspot.com/\_yXJqXfyHcQs/TCQHmehieSI/AAAAAAAAAbg/I02fSBTsK38/s1600/sneetches11.jpg](assets/Writing - Voice 18/media/media/image19.jpeg){width="6.302083333333333in"
-height="7.072916666666667in"}
+![http://2.bp.blogspot.com/\_yXJqXfyHcQs/TCQHmehieSI/AAAAAAAAAbg/I02fSBTsK38/s1600/sneetches11.jpg](assets/Writing - Voice 18/media/media/image19.jpeg)
 
-![sneetches5](assets/Writing - Voice 18/media/media/image20.jpeg){width="6.104166666666667in"
-height="6.65625in"}
+![sneetches5](assets/Writing - Voice 18/media/media/image20.jpeg)
 
-![sneetches7](assets/Writing - Voice 18/media/media/image21.jpeg){width="4.822916666666667in"
-height="6.65625in"}
+![sneetches7](assets/Writing - Voice 18/media/media/image21.jpeg)
 
-![http://www.elephantjournal.com/wp-content/uploads/2009/09/sneetches19.jpg](assets/Writing - Voice 18/media/media/image22.jpeg){width="6.65625in"
-height="6.614583333333333in"}\
-![sneetches26](assets/Writing - Voice 18/media/media/image23.jpeg){width="6.5625in"
-height="6.65625in"}
+![http://www.elephantjournal.com/wp-content/uploads/2009/09/sneetches19.jpg](assets/Writing - Voice 18/media/media/image22.jpeg)\
+![sneetches26](assets/Writing - Voice 18/media/media/image23.jpeg)
 
-![sneetches3](assets/Writing - Voice 18/media/media/image18.jpeg){width="6.65625in"
-height="5.947916666666667in"}
+![sneetches3](assets/Writing - Voice 18/media/media/image18.jpeg)
 
-![sneetches11](assets/Writing - Voice 18/media/media/image24.jpeg){width="6.65625in"
-height="6.0in"}
+![sneetches11](assets/Writing - Voice 18/media/media/image24.jpeg)
 
-![sneetches13](assets/Writing - Voice 18/media/media/image25.jpeg){width="5.979166666666667in"
-height="6.65625in"}
+![sneetches13](assets/Writing - Voice 18/media/media/image25.jpeg)
 
-![sneetches15](assets/Writing - Voice 18/media/media/image26.jpeg){width="6.65625in"
-height="6.15625in"}
+![sneetches15](assets/Writing - Voice 18/media/media/image26.jpeg)
 
-![sneetchyell](assets/Writing - Voice 18/media/media/image27.jpeg){width="6.645833333333333in"
-height="6.65625in"}
+![sneetchyell](assets/Writing - Voice 18/media/media/image27.jpeg)
 
-![sneetches19](assets/Writing - Voice 18/media/media/image22.jpeg){width="6.65625in"
-height="6.614583333333333in"}
+![sneetches19](assets/Writing - Voice 18/media/media/image22.jpeg)
 
-![sneetches21](assets/Writing - Voice 18/media/media/image28.jpeg){width="6.65625in"
-height="6.145833333333333in"}
+![sneetches21](assets/Writing - Voice 18/media/media/image28.jpeg)
 
-![sneetches22](assets/Writing - Voice 18/media/media/image29.jpeg){width="4.75in"
-height="6.65625in"}
+![sneetches22](assets/Writing - Voice 18/media/media/image29.jpeg)
 
-![sneetches24](assets/Writing - Voice 18/media/media/image30.jpeg){width="6.65625in"
-height="5.9375in"}
+![sneetches24](assets/Writing - Voice 18/media/media/image30.jpeg)
 
-![sneetches30](assets/Writing - Voice 18/media/media/image31.jpeg){width="6.65625in"
-height="6.364583333333333in"}
+![sneetches30](assets/Writing - Voice 18/media/media/image31.jpeg)
 
-![sneetches31](assets/Writing - Voice 18/media/media/image32.jpeg){width="6.1875in"
-height="6.65625in"}
+![sneetches31](assets/Writing - Voice 18/media/media/image32.jpeg)
 
-![sneetches31](assets/Writing - Voice 18/media/media/image32.jpeg){width="6.1875in"
-height="6.65625in"}
+![sneetches31](assets/Writing - Voice 18/media/media/image32.jpeg)
 
-![sneetches32](assets/Writing - Voice 18/media/media/image33.jpeg){width="6.645833333333333in"
-height="5.145833333333333in"}
+![sneetches32](assets/Writing - Voice 18/media/media/image33.jpeg)
 
-![sneetches34](assets/Writing - Voice 18/media/media/image34.jpeg){width="4.90625in"
-height="6.645833333333333in"}
+![sneetches34](assets/Writing - Voice 18/media/media/image34.jpeg)
 
 **Th**e Sneetches
 
@@ -969,11 +932,9 @@ thars."
 Picture adapted posthumously from the illustration for the 1961 book,
 The Sneetches and Other Stories
 
-![H14743](assets/Writing - Voice 18/media/media/image35.jpeg){width="4.791666666666667in"
-height="9.583333333333334in"}
+![H14743](assets/Writing - Voice 18/media/media/image35.jpeg)
 
-![http://media-cache-ec0.pinimg.com/736x/ae/4c/7a/ae4c7a1eb2c47975ab62fd756e29be95.jpg](assets/Writing - Voice 18/media/media/image36.jpeg){width="3.6145833333333335in"
-height="4.947916666666667in"}
+![http://media-cache-ec0.pinimg.com/736x/ae/4c/7a/ae4c7a1eb2c47975ab62fd756e29be95.jpg](assets/Writing - Voice 18/media/media/image36.jpeg)
 
 'Oh, The Places You'll Go!" offers a surprisingly eloquent perspective
 on life. There are a lot of highs and some low points too, but through
@@ -1012,32 +973,23 @@ related to change, choices, adversity, resilience and self-belief.
 So what are you waiting for?  "Today is your day! Your *life* is
 waiting.  So .... get on your way!".
 
-![http://4.bp.blogspot.com/-t3D1hlazYXM/TsMzpu3NjNI/AAAAAAAAAFQ/VvLMwe3oqFU/s1600/DSC01878.JPG](assets/Writing - Voice 18/media/media/image37.jpeg){width="4.4375in"
-height="3.2916666666666665in"}
+![http://4.bp.blogspot.com/-t3D1hlazYXM/TsMzpu3NjNI/AAAAAAAAAFQ/VvLMwe3oqFU/s1600/DSC01878.JPG](assets/Writing - Voice 18/media/media/image37.jpeg)
 
-![http://4.bp.blogspot.com/-SR7hUAOEaNE/T6jNJ8r052I/AAAAAAAAAe8/H3jBOUkReKQ/s1600/seuss6.jpg](assets/Writing - Voice 18/media/media/image38.jpeg){width="6.25in"
-height="4.625in"}
+![http://4.bp.blogspot.com/-SR7hUAOEaNE/T6jNJ8r052I/AAAAAAAAAe8/H3jBOUkReKQ/s1600/seuss6.jpg](assets/Writing - Voice 18/media/media/image38.jpeg)
 
-![http://millersdrygoods.com/images/detailed/7/ADE-13090-203\_\_27257.jpg](assets/Writing - Voice 18/media/media/image39.jpeg){width="4.5in"
-height="4.5in"}
+![http://millersdrygoods.com/images/detailed/7/ADE-13090-203\_\_27257.jpg](assets/Writing - Voice 18/media/media/image39.jpeg)
 
-![http://whatthedoost.files.wordpress.com/2014/08/drseuss-ohtheplaces.jpg](assets/Writing - Voice 18/media/media/image40.jpeg){width="4.625in"
-height="6.25in"}
+![http://whatthedoost.files.wordpress.com/2014/08/drseuss-ohtheplaces.jpg](assets/Writing - Voice 18/media/media/image40.jpeg)
 
-![http://1.bp.blogspot.com/-\_Bc3hSXD0sY/TnHsAoE5GBI/AAAAAAAAAWo/IMounmh5ry4/s1600/oh-the-places-youll-go.jpg](assets/Writing - Voice 18/media/media/image41.jpeg){width="3.15625in"
-height="4.427083333333333in"}
+![http://1.bp.blogspot.com/-\_Bc3hSXD0sY/TnHsAoE5GBI/AAAAAAAAAWo/IMounmh5ry4/s1600/oh-the-places-youll-go.jpg](assets/Writing - Voice 18/media/media/image41.jpeg)
 
-![http://media-cache-ak0.pinimg.com/736x/ff/0c/54/ff0c54727c8c142f1913249085c0d804.jpg](assets/Writing - Voice 18/media/media/image42.jpeg){width="6.770833333333333in"
-height="8.760416666666666in"}
+![http://media-cache-ak0.pinimg.com/736x/ff/0c/54/ff0c54727c8c142f1913249085c0d804.jpg](assets/Writing - Voice 18/media/media/image42.jpeg)
 
-![http://intentblog.com/wp-content/uploads/2012/02/2994-2-oh-the-places-youll-go-dr-seuss.jpeg](assets/Writing - Voice 18/media/media/image43.jpeg){width="5.0in"
-height="3.3333333333333335in"}
+![http://intentblog.com/wp-content/uploads/2012/02/2994-2-oh-the-places-youll-go-dr-seuss.jpeg](assets/Writing - Voice 18/media/media/image43.jpeg)
 
-![http://25.media.tumblr.com/tumblr_lre962mCxc1qak1hko1_500.jpg](assets/Writing - Voice 18/media/media/image44.jpeg){width="5.0in"
-height="4.8125in"}
+![http://25.media.tumblr.com/tumblr_lre962mCxc1qak1hko1_500.jpg](assets/Writing - Voice 18/media/media/image44.jpeg)
 
-![http://rocketcharities.com/wp-content/uploads/2012/11/oh-the-places-you-ll-go-dr-seuss-screenshot-3.jpg](assets/Writing - Voice 18/media/media/image45.jpeg){width="5.0in"
-height="3.3333333333333335in"}
+![http://rocketcharities.com/wp-content/uploads/2012/11/oh-the-places-you-ll-go-dr-seuss-screenshot-3.jpg](assets/Writing - Voice 18/media/media/image45.jpeg)
 
 \"Oh, The Places You\'ll Go!\" written and illustrated by Theodor
 Geisel, better known as Dr. Seuss, debuted on January 22, 1990.
@@ -1445,8 +1397,7 @@ Your mountain is waiting.
 
 So\...get on your way!
 
-![http://www.teachpeace.com/Ohtheplaceyoullgo.jpg](assets/Writing - Voice 18/media/media/image46.jpeg){width="4.166666666666667in"
-height="4.166666666666667in"}
+![http://www.teachpeace.com/Ohtheplaceyoullgo.jpg](assets/Writing - Voice 18/media/media/image46.jpeg)
 
 **Dr. Seuss teaches peace - **Oh, the Places You\'ll Go! 
 
@@ -1708,8 +1659,7 @@ is timeless and speaks to the eternal foolishness of all human beings,
 whether they be adults or children.
 
 ![The Butter Battle Book
-cover.jpg](assets/Writing - Voice 18/media/media/image47.jpeg){width="2.0833333333333335in"
-height="2.875in"}
+cover.jpg](assets/Writing - Voice 18/media/media/image47.jpeg)
 
 The Butter Battle Book was created in 1984 as a story against war and
 the proliferation of nuclear weapons. It was published in the cold war,
@@ -1903,8 +1853,7 @@ libraries.
 **TEACHING CHILDREN PHILOSOPHY**
 
 ![200px-The Butter Battle Book
-cover.jpg](assets/Writing - Voice 18/media/media/image47.jpeg){width="2.0833333333333335in"
-height="2.875in"}
+cover.jpg](assets/Writing - Voice 18/media/media/image47.jpeg)
 
 Summary
 
@@ -2194,24 +2143,18 @@ destroy the home land of the other.*
 7.  When are people being leaders by not doing something that in the
     past said they would do.
 
-![http://2.bp.blogspot.com/-5NeW2dKKvcA/Ts8kQOruoRI/AAAAAAAAAvg/\_t5bisZUpxI/s1600/Dr-Seuss-butter-battle2.jpg](assets/Writing - Voice 18/media/media/image48.jpeg){width="6.25in"
-height="4.802083333333333in"}
+![http://2.bp.blogspot.com/-5NeW2dKKvcA/Ts8kQOruoRI/AAAAAAAAAvg/\_t5bisZUpxI/s1600/Dr-Seuss-butter-battle2.jpg](assets/Writing - Voice 18/media/media/image48.jpeg)
 
 ![Butter Battle
-Book](assets/Writing - Voice 18/media/media/image49.jpeg){width="5.625in"
-height="2.8854166666666665in"}
+Book](assets/Writing - Voice 18/media/media/image49.jpeg)
 
-![https://seussblog.files.wordpress.com/2013/12/thebutterbattlebook_02.jpg](assets/Writing - Voice 18/media/media/image50.jpeg){width="3.125in"
-height="4.75in"}
+![https://seussblog.files.wordpress.com/2013/12/thebutterbattlebook_02.jpg](assets/Writing - Voice 18/media/media/image50.jpeg)
 
-![http://i.ytimg.com/vi/AK027qfwyd4/maxresdefault.jpg](assets/Writing - Voice 18/media/media/image51.jpeg){width="6.268055555555556in"
-height="3.5257808398950132in"}
+![http://i.ytimg.com/vi/AK027qfwyd4/maxresdefault.jpg](assets/Writing - Voice 18/media/media/image51.jpeg)
 
-![http://seussblog.files.wordpress.com/2013/12/0_e843c_15b72f5f_xl.png](assets/Writing - Voice 18/media/media/image52.png){width="6.268055555555556in"
-height="4.735863954505687in"}
+![http://seussblog.files.wordpress.com/2013/12/0_e843c_15b72f5f_xl.png](assets/Writing - Voice 18/media/media/image52.png)
 
-![http://media-cache-ec0.pinimg.com/736x/30/e3/bd/30e3bd3c3b646aa29a8bae07eb7f208c.jpg](assets/Writing - Voice 18/media/media/image53.jpeg){width="6.268055555555556in"
-height="4.17870406824147in"}
+![http://media-cache-ec0.pinimg.com/736x/30/e3/bd/30e3bd3c3b646aa29a8bae07eb7f208c.jpg](assets/Writing - Voice 18/media/media/image53.jpeg)
 
 **The Butter Battle by Dr. Seuss**
 
@@ -2623,8 +2566,7 @@ Will you . . . ? Or will he . . . ?
 
 We will see . . . \"
 
-![7784](assets/Writing - Voice 18/media/media/image54.jpeg){width="3.3125in"
-height="4.510416666666667in"}
+![7784](assets/Writing - Voice 18/media/media/image54.jpeg)
 
 Long before "going green" was mainstream, Dr. Seuss's Lorax spoke for
 the trees and warned of the dangers of disrespecting the environment. In
@@ -2636,8 +2578,7 @@ Lorax and his classic tale have educated a new generation of young
 readers not only about the importance of seeing the beauty in the world
 around us, but also about our responsibility to protect it.
 
-![http://www.seussville.com/Educators/lorax_classroom/assets/lorax_discuss_head.png](assets/Writing - Voice 18/media/media/image55.png){width="4.635416666666667in"
-height="0.22916666666666666in"}
+![http://www.seussville.com/Educators/lorax_classroom/assets/lorax_discuss_head.png](assets/Writing - Voice 18/media/media/image55.png)
 
 - What was the land of the Lorax like before the Once-ler arrived? Did
   it seem like someplace you\'d like to live? What parts of your own

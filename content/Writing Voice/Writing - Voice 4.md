@@ -11,14 +11,12 @@ strand: writing-voice
 > **(4)**
 
 ![Hunting for Local Treasures: Kids Writing
-Camp](assets/Writing - Voice 4/media/media/image1.jpeg){width="4.637681539807524in"
-height="1.3333333333333333in"}
+Camp](assets/Writing - Voice 4/media/media/image1.jpeg)
 
 **Voice & Emotion**
 
 ![Hunting for Local Treasures: Kids Writing
-Camp](assets/Writing - Voice 4/media/media/image1.jpeg){width="3.1521741032370953in"
-height="0.90625in"}
+Camp](assets/Writing - Voice 4/media/media/image1.jpeg)
 
 **Voice 4 -- Voice & Emotion**
 
@@ -71,8 +69,7 @@ Knots on a Counting Rope Bill Martin Jr. and John Archambault
 - Great voice is not reserved for fiction alone. It can also be in
   non-fiction.
 
-![https://ingridsnotes.files.wordpress.com/2010/09/confused-monkey.jpg?w=660](assets/Writing - Voice 4/media/media/image2.jpeg){width="1.0625in"
-height="0.9375in"}**What is Voice?**
+![https://ingridsnotes.files.wordpress.com/2010/09/confused-monkey.jpg?w=660](assets/Writing - Voice 4/media/media/image2.jpeg)**What is Voice?**
 
 - When writing you are concerned about:
 
@@ -169,8 +166,7 @@ They now know to do this through thoughts, words, or actions.
 
 **The writing comes from the heart.**
 
-![169426](assets/Writing - Voice 4/media/media/image3.jpeg){width="2.4895833333333335in"
-height="3.2974617235345582in"}
+![169426](assets/Writing - Voice 4/media/media/image3.jpeg)
 
 Distinguished poet Donald Hall and award-winning artist Barry Moser have
 teamed up to create a hilarious, affectionate portrait in contrasts of
@@ -332,8 +328,7 @@ embarrassment impatience patience worry
 
 cheer horrify amazement disappointment love
 
-![1227378](assets/Writing - Voice 4/media/media/image4.jpeg){width="2.4166666666666665in"
-height="3.3020833333333335in"}
+![1227378](assets/Writing - Voice 4/media/media/image4.jpeg)
 
 That summer the brothers ran into the sun, freed from school. Time for
 fishing poles, lightning bugs, country roads, baseball gloves.
@@ -684,8 +679,7 @@ I whispered to Joey,
 
 **The Memory String Eve Bunting**
 
-![0395861462](assets/Writing - Voice 4/media/media/image5.jpeg){width="2.25in"
-height="2.1979166666666665in"}
+![0395861462](assets/Writing - Voice 4/media/media/image5.jpeg)
 
 This book is about a young girl, Laura, and a family keepsake referred
 to as a memory string. This keepsake was passed down to her when her
@@ -979,8 +973,7 @@ She swallowed. "Will you really help me restring them, Jane?"
 Jane wiped her hands on a rag and stood up. "Anytime you want," she
 said. "I'm here."
 
-![http://3.bp.blogspot.com/-0sK2IAYbL0E/URZpa3Vi3vI/AAAAAAAABXQ/mxhtS049qv4/s400/Jangles+A+BIG+Fish+Story.png](assets/Writing - Voice 4/media/media/image6.png){width="2.6354166666666665in"
-height="3.3896030183727035in"}
+![http://3.bp.blogspot.com/-0sK2IAYbL0E/URZpa3Vi3vI/AAAAAAAABXQ/mxhtS049qv4/s400/Jangles+A+BIG+Fish+Story.png](assets/Writing - Voice 4/media/media/image6.png)
 
 Breathtaking oil paintings bursting with energy pull readers along into
 Big Lake, the home of Jangles, the biggest fish anyone has seen. Fishing
@@ -1003,8 +996,7 @@ clinked and clattered as he swam. That\'s why he was called Jangles.*
 *Jangles was so big, he ate eagles from the trees that hung over the
 lake, and full-grown beavers that strayed too far from home.*
 
-![http://1.bp.blogspot.com/-ce_BuDrXGbU/URZqQ40NJNI/AAAAAAAABXY/\_CCrtCm2hkE/s400/Jangles+Page+Spread.png](assets/Writing - Voice 4/media/media/image7.png){width="4.166666666666667in"
-height="2.6666666666666665in"}
+![http://1.bp.blogspot.com/-ce_BuDrXGbU/URZqQ40NJNI/AAAAAAAABXY/\_CCrtCm2hkE/s400/Jangles+Page+Spread.png](assets/Writing - Voice 4/media/media/image7.png)
 
 David Shannon\'s recent picture book Jangles: A BIG Fish Story harkens
 back to the day of the traditional Tall Tale. Tall Tales, characterised
@@ -1124,8 +1116,7 @@ A: I have a little cabin in the Sierras that's surrounded by tons of
 rivers, lakes, and streams. It's not just my favourite place to fish;
 it's my favourite place, period!
 
-![http://www.sarahbaingallery.com/shannon/jangles_stories.jpg](assets/Writing - Voice 4/media/media/image8.jpeg){width="6.0in"
-height="4.16in"}
+![http://www.sarahbaingallery.com/shannon/jangles_stories.jpg](assets/Writing - Voice 4/media/media/image8.jpeg)
 
 **Jangles a BIG fish story David Shannon**
 
@@ -1252,8 +1243,7 @@ It was full to the top with shiny metal lures and rusty old fishhooks of
 all shapes and sizes. He never told anyone about catching the giant
 fish. He kept it a secret until that night when he told me.
 
-![http://www.scholastic.com/teachers/sites/default/files/imagecache/300x234_huge/asset/image/9780439490252_xlg.jpg](assets/Writing - Voice 4/media/media/image9.jpeg){width="2.3958333333333335in"
-height="2.625in"}
+![http://www.scholastic.com/teachers/sites/default/files/imagecache/300x234_huge/asset/image/9780439490252_xlg.jpg](assets/Writing - Voice 4/media/media/image9.jpeg)
 
 Alice is a little girl with a big imagination. She is just a temporary
 fairy, but well on her way to becoming a permanent one, learning many
@@ -1389,8 +1379,7 @@ fairy.
 >
 > I'll probably be a Temporary fairy forever.
 
-![http://booklife.com/image-factory/http/localhost/amazongetcover/0307102203.jpg/w204.jpg](assets/Writing - Voice 4/media/media/image10.jpeg){width="2.125in"
-height="2.7916666666666665in"}
+![http://booklife.com/image-factory/http/localhost/amazongetcover/0307102203.jpg/w204.jpg](assets/Writing - Voice 4/media/media/image10.jpeg)
 
 The arrival of a big-hearted, dopey golden retriever puppy disrupts a
 reigning cat\'s domain in sister collaborators Stevens (Tops & Bottoms)
@@ -1557,23 +1546,17 @@ My dish. My sofa. My chair. My mouse. My bed ...
 
 and MY BIG DOG.
 
-![http://www.susanstevenscrummel.com/dog%20page%2018.jpg](assets/Writing - Voice 4/media/media/image11.jpeg){width="6.0in"
-height="7.99in"}
+![http://www.susanstevenscrummel.com/dog%20page%2018.jpg](assets/Writing - Voice 4/media/media/image11.jpeg)
 
-![http://www.susanstevenscrummel.com/dog%20page%2014.jpg](assets/Writing - Voice 4/media/media/image12.jpeg){width="6.25in"
-height="7.875in"}
+![http://www.susanstevenscrummel.com/dog%20page%2014.jpg](assets/Writing - Voice 4/media/media/image12.jpeg)
 
-![http://www.susanstevenscrummel.com/dog%20page%2029.jpg](assets/Writing - Voice 4/media/media/image13.jpeg){width="6.25in"
-height="8.041666666666666in"}
+![http://www.susanstevenscrummel.com/dog%20page%2029.jpg](assets/Writing - Voice 4/media/media/image13.jpeg)
 
-![http://www.susanstevenscrummel.com/dog%20page%204.jpg](assets/Writing - Voice 4/media/media/image14.jpeg){width="6.25in"
-height="7.364583333333333in"}
+![http://www.susanstevenscrummel.com/dog%20page%204.jpg](assets/Writing - Voice 4/media/media/image14.jpeg)
 
-![http://www.susanstevenscrummel.com/dog%20page%203.jpg](assets/Writing - Voice 4/media/media/image15.jpeg){width="6.25in"
-height="7.354166666666667in"}
+![http://www.susanstevenscrummel.com/dog%20page%203.jpg](assets/Writing - Voice 4/media/media/image15.jpeg)
 
- ![8768](assets/Writing - Voice 4/media/media/image16.jpeg){width="3.3125in"
-height="2.8020833333333335in"}
+ ![8768](assets/Writing - Voice 4/media/media/image16.jpeg)
 
 Today I feel silly. Mom says it\'s the heat.
 
@@ -1608,11 +1591,9 @@ While reading, stop at appropriate times to allow for discussion and to
 point out new and interesting feelings words. Class interacts with the
 text while listening to it.    
 
-![http://c4.q-assets.com/images/products/p/hp/hp-195_2z.jpg](assets/Writing - Voice 4/media/media/image17.jpeg){width="6.268055555555556in"
-height="5.6125721784776905in"}
+![http://c4.q-assets.com/images/products/p/hp/hp-195_2z.jpg](assets/Writing - Voice 4/media/media/image17.jpeg)
 
-![http://c2.q-assets.com/images/products/p/hp/hp-195_4z.jpg](assets/Writing - Voice 4/media/media/image18.jpeg){width="6.268055555555556in"
-height="5.540152012248469in"}
+![http://c2.q-assets.com/images/products/p/hp/hp-195_4z.jpg](assets/Writing - Voice 4/media/media/image18.jpeg)
 
 ** Understandings**
 
@@ -1873,8 +1854,7 @@ else\'s feeling and we can learn how to do both this year in school.
   a feeling in their body language (gestures, tone of voice, facial
   expression, etc.). Students then guess the feeling.
 
-![http://2.bp.blogspot.com/-Eqhyvyj1tOI/UJqq9dgir2I/AAAAAAAAARs/H_aExhYfwyw/s1600/When_Sophie_Gets_Angry(1).jpg](assets/Writing - Voice 4/media/media/image19.jpeg){width="2.9644794400699914in"
-height="3.1041666666666665in"}
+![http://2.bp.blogspot.com/-Eqhyvyj1tOI/UJqq9dgir2I/AAAAAAAAARs/H_aExhYfwyw/s1600/When_Sophie_Gets_Angry(1).jpg](assets/Writing - Voice 4/media/media/image19.jpeg)
 
 **When Sophie Gets Angry -- Really, Really Angry** **Molly Bang**
 
@@ -2022,8 +2002,7 @@ exactly as you do? Why is that okay?\
 - After using Anger thermometer use other feeling thermometers (
   Pleased, Happy, Joyful).
 
-![http://kellydycavinu.files.wordpress.com/2012/03/sophie-kicks.jpg](assets/Writing - Voice 4/media/media/image20.jpeg){width="6.0in"
-height="6.810160761154855in"}
+![http://kellydycavinu.files.wordpress.com/2012/03/sophie-kicks.jpg](assets/Writing - Voice 4/media/media/image20.jpeg)
 
 **When Sophie Gets Angry -- Really, Really Angry...**
 
@@ -2075,28 +2054,21 @@ Everything's back together again.
 
 And Sophie isn't angry anymore.
 
-![http://4.bp.blogspot.com/\_YSjmTrKehfY/S8yxLgi3f0I/AAAAAAAAAB8/DDb9n1o-Yec/s1600/sophie.jpg](assets/Writing - Voice 4/media/media/image21.jpeg){width="2.8125in"
-height="2.9895833333333335in"}
+![http://4.bp.blogspot.com/\_YSjmTrKehfY/S8yxLgi3f0I/AAAAAAAAAB8/DDb9n1o-Yec/s1600/sophie.jpg](assets/Writing - Voice 4/media/media/image21.jpeg)
 
-![http://kellydycavinu.files.wordpress.com/2012/03/sophie-tree.jpg?w=267&h=300](assets/Writing - Voice 4/media/media/image22.jpeg){width="2.78125in"
-height="3.125in"}
+![http://kellydycavinu.files.wordpress.com/2012/03/sophie-tree.jpg?w=267&h=300](assets/Writing - Voice 4/media/media/image22.jpeg)
 
-![http://www.chinasprout.com/store/media/BSE010L04.jpg](assets/Writing - Voice 4/media/media/image23.jpeg){width="4.166666666666667in"
-height="2.3333333333333335in"}
+![http://www.chinasprout.com/store/media/BSE010L04.jpg](assets/Writing - Voice 4/media/media/image23.jpeg)
 
-![http://kellydycavinu.files.wordpress.com/2012/04/she-cries.jpg](assets/Writing - Voice 4/media/media/image24.jpeg){width="6.0in"
-height="6.9302635608048995in"}
+![http://kellydycavinu.files.wordpress.com/2012/04/she-cries.jpg](assets/Writing - Voice 4/media/media/image24.jpeg)
 
-![http://kellydycavinu.files.wordpress.com/2012/04/discord.jpg](assets/Writing - Voice 4/media/media/image25.jpeg){width="6.0in"
-height="6.745967847769029in"}
+![http://kellydycavinu.files.wordpress.com/2012/04/discord.jpg](assets/Writing - Voice 4/media/media/image25.jpeg)
 
-![http://media-cache-ec0.pinimg.com/736x/92/b8/e4/92b8e4fc4d3d982c811582d04e088fda.jpg](assets/Writing - Voice 4/media/media/image26.jpeg){width="5.135416666666667in"
-height="5.729166666666667in"}**\**
+![http://media-cache-ec0.pinimg.com/736x/92/b8/e4/92b8e4fc4d3d982c811582d04e088fda.jpg](assets/Writing - Voice 4/media/media/image26.jpeg)**\**
 
 **The Lady in the Box Ann McGovern**
 
-![972238](assets/Writing - Voice 4/media/media/image27.jpeg){width="3.3125in"
-height="4.041666666666667in"}
+![972238](assets/Writing - Voice 4/media/media/image27.jpeg)
 
 It is wintertime in the city and freezing cold, but not everyone is
 inside and warm. Ben and his sister Lizzie know that there is a lady who
@@ -2332,8 +2304,7 @@ Maybe it would bring her luck.
 
 Maybe someday she could use it for her very own key.
 
-![Fly-Away-Home-Bunting-Eve-97803956641551](assets/Writing - Voice 4/media/media/image28.jpeg){width="3.25in"
-height="3.125in"}
+![Fly-Away-Home-Bunting-Eve-97803956641551](assets/Writing - Voice 4/media/media/image28.jpeg)
 
 A homeless boy who lives in an airport with his father, moving from
 terminal to terminal trying not to be noticed, is given hope when a
@@ -2502,8 +2473,7 @@ Dad and I will be here forever. Then I remember the bird. It took a
 while, but a door opened. And when the bird left, when it flew free, I
 know it was singing.
 
-![\$T2eC16FHJG!E9nm3pwYIBQ9D8JQDr!\~\~60_35](assets/Writing - Voice 4/media/media/image29.jpeg){width="3.125in"
-height="2.6145833333333335in"}
+![\$T2eC16FHJG!E9nm3pwYIBQ9D8JQDr!\~\~60_35](assets/Writing - Voice 4/media/media/image29.jpeg)
 
 The story is all too familiar, unless you haven\'t been reading the
 papers or watching television news. A family hastens to escape their
@@ -2805,8 +2775,7 @@ fish. "We've come home."
 **Author & Illustrator: Bardur Oskarsson**
 
 ![Flat
-Rabbit](assets/Writing - Voice 4/media/media/image30.jpeg){width="2.7083333333333335in"
-height="2.71875in"}
+Rabbit](assets/Writing - Voice 4/media/media/image30.jpeg)
 
 The Flat Rabbit follows the traditional plot triangle, with an
 introduction, rising action, climax, and resolution. But it is more
@@ -2839,8 +2808,7 @@ looking at the dog.
 The dog doesn't know, but he offers the rat a turn to hold the kite.
 
 ![Flat Rabbit
-3](assets/Writing - Voice 4/media/media/image31.jpeg){width="2.53125in"
-height="2.6875in"}
+3](assets/Writing - Voice 4/media/media/image31.jpeg)
 
 Now, there's no question that prying up some road kill and taping it to
 a kite is a weird thing to do, and maybe even a bit controversial to
@@ -2865,8 +2833,7 @@ Article by Maria Popova
 A gentle and assuring reminder that we don't have all the answers
 
 [\
-![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit0.jpg](assets/Writing - Voice 4/media/media/image32.jpeg){width="2.3958333333333335in"
-height="2.40625in"}](http://www.amazon.com/exec/obidos/ASIN/1771470593/braipick-20)Neil
+![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit0.jpg](assets/Writing - Voice 4/media/media/image32.jpeg)](http://www.amazon.com/exec/obidos/ASIN/1771470593/braipick-20)Neil
 Gaiman, in discussing his [gorgeous new adaptation of *Hansel and
 Gretel*](http://www.brainpickings.org/2014/10/28/neil-gaiman-hansel-gretel-lorenzo-mattotti/),
 asserted that we shouldn't protect ourselves and children from the dark.
@@ -2904,11 +2871,9 @@ dog walking down the street. Suddenly, he comes upon a rabbit, lying
 silently flattened on the road. As the dog, saddened by the sight,
 wonders what to do, his friend the rat comes by.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit2.jpg](assets/Writing - Voice 4/media/media/image33.jpeg){width="5.208333333333333in"
-height="5.479166666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit2.jpg](assets/Writing - Voice 4/media/media/image33.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit1.jpg](assets/Writing - Voice 4/media/media/image34.jpeg){width="5.208333333333333in"
-height="5.40625in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit1.jpg](assets/Writing - Voice 4/media/media/image34.jpeg)
 
 "She is totally flat," said the rat. For a while they just stood there
 looking at her.
@@ -2922,8 +2887,7 @@ met."
 The two agree that "lying there can't be any fun" and decide to move
 her, but don't know where to take her and head to the park to think.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit3.jpg](assets/Writing - Voice 4/media/media/image35.jpeg){width="5.208333333333333in"
-height="5.697916666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit3.jpg](assets/Writing - Voice 4/media/media/image35.jpeg)
 
 The dog was now so deep in thought that, had you put your ear to his
 skull, you would have actually heard him racking his brain.
@@ -2936,24 +2900,20 @@ combinations in our minds. As the dog sits straining his neurons, we see
 someone flying a kite behind him --- a seeming aside noted only in the
 visual narrative, but one that becomes the seed for the rabbit solution.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit13.jpg](assets/Writing - Voice 4/media/media/image36.jpeg){width="5.208333333333333in"
-height="5.479166666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit13.jpg](assets/Writing - Voice 4/media/media/image36.jpeg)
 
 Exclaiming that he has a plan, the dog returns to the scene with the
 rat. They take the rabbit from the road and work all night on the plan,
 hammering away in the doghouse.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit12.jpg](assets/Writing - Voice 4/media/media/image37.jpeg){width="5.208333333333333in"
-height="5.59375in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit12.jpg](assets/Writing - Voice 4/media/media/image37.jpeg)
 
 In the next scene, we see the rabbit lovingly taped to the frame of a
 kite, which takes the dog and the rat forty-two attempts to fly.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit9.jpg](assets/Writing - Voice 4/media/media/image38.jpeg){width="5.208333333333333in"
-height="5.541666666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit9.jpg](assets/Writing - Voice 4/media/media/image38.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit4.jpg](assets/Writing - Voice 4/media/media/image39.jpeg){width="5.208333333333333in"
-height="5.645833333333333in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit4.jpg](assets/Writing - Voice 4/media/media/image39.jpeg)
 
 With great simplicity and sensitivity, the story lifts off into a subtle
 meditation on the spiritual question of an afterlife --- there is even
@@ -2968,8 +2928,7 @@ all the answers and that, as [John Updike put
 it](http://www.brainpickings.org/2012/07/30/john-updike-jim-holt-why-does-the-world-exist/),
 "the mystery of being is a permanent mystery."
 
-![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit5.jpg](assets/Writing - Voice 4/media/media/image40.jpeg){width="5.208333333333333in"
-height="5.520833333333333in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/11/flatrabbit5.jpg](assets/Writing - Voice 4/media/media/image40.jpeg)
 
 Once the kite was flying, they watched it in silence for a long time.
 
@@ -3044,8 +3003,7 @@ Write a poem from the point of view of the rabbit. First, brainstorm
 phrases or sentences that the rabbit might say --- if she could --- to
 the rat and the dog, based on what happens in the story.
 
-![553924](assets/Writing - Voice 4/media/media/image41.jpeg){width="2.5625in"
-height="3.3229166666666665in"}
+![553924](assets/Writing - Voice 4/media/media/image41.jpeg)
 
 When the Nazis invade Poland, a family is split apart. A harmonica keeps
 a boy\'s hope alive. The story is inspired by the life of a Holocaust
@@ -3348,11 +3306,9 @@ flights of birds. I played for them -- with all my heart.
 | **Spelling:**        |                                             |
 +----------------------+---------------------------------------------+
 
-![The-Harmonica-by-Tony-Johnston](assets/Writing - Voice 4/media/media/image42.jpeg){width="2.6041666666666665in"
-height="3.375in"}
+![The-Harmonica-by-Tony-Johnston](assets/Writing - Voice 4/media/media/image42.jpeg)
 
-![harmonica](assets/Writing - Voice 4/media/media/image43.jpeg){width="4.916666666666667in"
-height="3.3020833333333335in"}
+![harmonica](assets/Writing - Voice 4/media/media/image43.jpeg)
 
 Author\'s Note:
 
@@ -3371,8 +3327,7 @@ ongoing story of the power of music and the strength of the human heart.
 > --- Tony Johnston
 
 ![Crab Moon by
-](assets/Writing - Voice 4/media/media/image44.jpeg){width="4.6875in"
-height="3.8854166666666665in"}
+](assets/Writing - Voice 4/media/media/image44.jpeg)
 
 **Crab Moon Ruth Horowitz**
 
@@ -3437,11 +3392,9 @@ Crabs live to be about 20+ years old.
 
 Horseshoe Crabs swim upside down.
 
-![http://www.enchantedlearning.com/hgifs/Horseshoecrab_bw.GIF](assets/Writing - Voice 4/media/media/image45.gif){width="4.947916666666667in"
-height="4.34375in"}
+![http://www.enchantedlearning.com/hgifs/Horseshoecrab_bw.GIF](assets/Writing - Voice 4/media/media/image45.gif)
 
-![http://snapshotsforsoreeyes.files.wordpress.com/2014/03/img_2821.jpg](assets/Writing - Voice 4/media/media/image46.jpeg){width="6.0in"
-height="3.7496784776902885in"}
+![http://snapshotsforsoreeyes.files.wordpress.com/2014/03/img_2821.jpg](assets/Writing - Voice 4/media/media/image46.jpeg)
 
 **Crab Moon**
 
@@ -3510,8 +3463,7 @@ pausing, Daniel's feet felt their way into the bay. He followed until
 she disappeared. Then he gave the water one last, long look and
 whispered to his horseshoe crab, "See you next summer."
 
-![Knots-on-a-Counting-Rope-300x243](assets/Writing - Voice 4/media/media/image47.jpeg){width="3.125in"
-height="2.53125in"}
+![Knots-on-a-Counting-Rope-300x243](assets/Writing - Voice 4/media/media/image47.jpeg)
 
 Themes/topics: birth, growing up, blindness, Native Americans,
 relationship between child and grandparent, courage, self-confidence,
@@ -3546,8 +3498,7 @@ beautiful paintings.
 
 Ideal to use for Readers' Theatre.
 
-![bf3a2719-d138-0544-fbc4-9ecbfb4272ed_lg](assets/Writing - Voice 4/media/media/image48.jpeg){width="5.864583333333333in"
-height="3.90625in"}
+![bf3a2719-d138-0544-fbc4-9ecbfb4272ed_lg](assets/Writing - Voice 4/media/media/image48.jpeg)
 
 Listen to the story on School Tube or YouTube (different readers).
 

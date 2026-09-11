@@ -12,15 +12,13 @@ strand: writers-notebook
 
 **Quick-Writes**
 
-![http://windling.typepad.com/.a/6a00e54fcf7385883401bb078c5720970d-800wi](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image1.jpeg){width="6.268055555555556in"
-height="3.5884612860892386in"}
+![http://windling.typepad.com/.a/6a00e54fcf7385883401bb078c5720970d-800wi](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image1.jpeg)
 
 **Fantasy**
 
 **\**
 
-![http://windling.typepad.com/.a/6a00e54fcf7385883401bb078c5720970d-800wi](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image1.jpeg){width="3.5116458880139985in"
-height="2.0104166666666665in"}
+![http://windling.typepad.com/.a/6a00e54fcf7385883401bb078c5720970d-800wi](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image1.jpeg)
 
 **Writer's Notebook 9 Fantasy**
 
@@ -108,7 +106,7 @@ A Wizard of Earthsea
 - Realistic settings are often called primary worlds; fantasy settings,
   secondary worlds.
 
-## Portals between Worlds ![http://image.slidesharecdn.com/creativevisualwritingprompts-140511025216-phpapp01/95/creative-visual-writing-prompts-for-studuents-61-638.jpg?cb=1399794921](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image2.jpeg){width="2.75in" height="2.066023622047244in"}
+## Portals between Worlds ![http://image.slidesharecdn.com/creativevisualwritingprompts-140511025216-phpapp01/95/creative-visual-writing-prompts-for-studuents-61-638.jpg?cb=1399794921](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image2.jpeg)
 
 - Protagonists usually cross some kind of opening or "portal" between
   the two worlds
@@ -132,79 +130,58 @@ A Wizard of Earthsea
   - *Inkheart*: a gifted storyteller reads aloud 
 
 ![Concept Art Writing Prompt: The Witch\'s
-Son](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image3.jpeg){width="6.268055555555556in"
-height="9.830272309711287in"}
+Son](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image3.jpeg)
 
 ![lalulutres: Shirotsuki
-](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image4.jpeg){width="4.041666666666667in"
-height="6.25in"}
+](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image4.jpeg)
 
-![http://25.media.tumblr.com/tumblr_m5gzko4yov1qjjts1o1_500.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image5.jpeg){width="5.208333333333333in"
-height="6.447916666666667in"}
+![http://25.media.tumblr.com/tumblr_m5gzko4yov1qjjts1o1_500.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image5.jpeg)
 
 ![huariqueje: Moon Madness, by Andrew Wyeth.
-](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image6.jpeg){width="6.268055555555556in"
-height="4.289700349956256in"}
+](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image6.jpeg)
 
-![Apathy](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image7.jpeg){width="6.268055555555556in"
-height="3.5257808398950132in"}
+![Apathy](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image7.jpeg)
 
-![http://i.imgur.com/dGdseOI.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image8.jpeg){width="6.268055555555556in"
-height="3.0686767279090112in"}
+![http://i.imgur.com/dGdseOI.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image8.jpeg)
 
-![http://i.imgur.com/7zQgyMA.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image9.jpeg){width="6.268055555555556in"
-height="3.5257808398950132in"}
+![http://i.imgur.com/7zQgyMA.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image9.jpeg)
 
-![Morosity](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image10.jpeg){width="6.268055555555556in"
-height="3.5257808398950132in"}
+![Morosity](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image10.jpeg)
 
-![http://i.imgur.com/j2fvA2G.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image11.jpeg){width="6.268055555555556in"
-height="3.524060586176728in"}
+![http://i.imgur.com/j2fvA2G.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image11.jpeg)
 
 ![In
-Command](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image12.jpeg){width="6.268055555555556in"
-height="3.9175349956255467in"}
+Command](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image12.jpeg)
 
 ![Come
-Dawn](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image13.jpeg){width="6.268055555555556in"
-height="3.5257808398950132in"}
+Dawn](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image13.jpeg)
 
 ![The Lonely
-Rider](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image14.jpeg){width="6.268055555555556in"
-height="3.9175349956255467in"}
+Rider](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image14.jpeg)
 
-![Narcisism](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image15.jpeg){width="6.268055555555556in"
-height="3.5257808398950132in"}
+![Narcisism](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image15.jpeg)
 
-![Ruthelessness](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image16.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![Ruthelessness](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image16.jpeg)
 
 ![The
-Wanderers](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image17.jpeg){width="6.268055555555556in"
-height="4.258099300087489in"}
+Wanderers](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image17.jpeg)
 
 ![The Last
-Embrace](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image18.jpeg){width="6.268055555555556in"
-height="3.5257808398950132in"}
+Embrace](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image18.jpeg)
 
 ![
-](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image19.jpeg){width="6.268055555555556in"
-height="5.847004593175853in"}
+](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image19.jpeg)
 
-![CyzUzqU_resultat](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image20.jpeg){width="6.25in"
-height="4.6875in"}\
+![CyzUzqU_resultat](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image20.jpeg)\
 ![charliebowater: inspirationofelves: Communion by
 Wildweasel339http://lanebrownart.tumblr.com/ That lighting! ;\_;
-](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image21.jpeg){width="6.268055555555556in"
-height="10.24226924759405in"}
+](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image21.jpeg)
 
-![http://36.media.tumblr.com/34b45f12a3b4376aec39e5305d88dedc/tumblr_n1nun8wQRQ1rsjhqxo1_500.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image22.jpeg){width="4.697916666666667in"
-height="7.5in"}
+![http://36.media.tumblr.com/34b45f12a3b4376aec39e5305d88dedc/tumblr_n1nun8wQRQ1rsjhqxo1_500.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image22.jpeg)
 
 **The Hobbit J.R.R.Tolkien**
 
-![http://www3.imperial.ac.uk/newseventsimages?p_image_type=mainnews2012&p_image_id=20437](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image23.jpeg){width="6.268055555555556in"
-height="4.338275371828521in"}
+![http://www3.imperial.ac.uk/newseventsimages?p_image_type=mainnews2012&p_image_id=20437](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image23.jpeg)
 
 The story starts with the words \'In a hole in the ground there lived a
 hobbit.\' Could you use this as the starting point for your own story?
@@ -238,19 +215,15 @@ up by the student.
 
 **Harry Potter**
 
-![http://natedsanders.com/blog/wp-content/uploads/2013/11/3176173-1748009911-hp.jp\_.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image24.jpeg){width="6.268055555555556in"
-height="3.5273042432195973in"}
+![http://natedsanders.com/blog/wp-content/uploads/2013/11/3176173-1748009911-hp.jp\_.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image24.jpeg)
 
 Freewrite about Harry Potter.
 
-![http://www.british-film-locations.com/image/b1030-Harry-Potter-and-the-Chamber-Of-Secrets-2002.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image25.jpeg){width="6.268055555555556in"
-height="2.6057206911636044in"}
+![http://www.british-film-locations.com/image/b1030-Harry-Potter-and-the-Chamber-Of-Secrets-2002.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image25.jpeg)
 
-![http://vignette1.wikia.nocookie.net/harrypotter/images/3/39/Nineandthreequarters.jpg/revision/latest/scale-to-width/1000?cb=20110908002818](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image26.jpeg){width="6.268055555555556in"
-height="3.171636045494313in"}
+![http://vignette1.wikia.nocookie.net/harrypotter/images/3/39/Nineandthreequarters.jpg/revision/latest/scale-to-width/1000?cb=20110908002818](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image26.jpeg)
 
-![http://www.the-magician.co.uk/images/harry-potter-trolley.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image27.jpeg){width="3.1458333333333335in"
-height="4.666666666666667in"}
+![http://www.the-magician.co.uk/images/harry-potter-trolley.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image27.jpeg)
 
 Where will Platform 9 ¾ take you?
 
@@ -258,11 +231,9 @@ Where will Platform 9 ¾ take you?
 
 Through the wardrobe to Narnia.
 
-![http://narniafans.s3.amazonaws.com/wp-content/uploads/2005/08/nc_09lg.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image28.jpeg){width="6.268055555555556in"
-height="3.896359361329834in"}
+![http://narniafans.s3.amazonaws.com/wp-content/uploads/2005/08/nc_09lg.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image28.jpeg)
 
-![http://i.telegraph.co.uk/multimedia/archive/02773/Narniaweb_2773956b.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image29.jpeg){width="6.268055555555556in"
-height="3.91248031496063in"}
+![http://i.telegraph.co.uk/multimedia/archive/02773/Narniaweb_2773956b.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image29.jpeg)
 
 **The Voyage of the Dawn Treader C.S.Lewis**
 
@@ -278,8 +249,7 @@ Talking Mouse, who, according to a prophecy, will find what he seeks in
 the \"utter East.\"
 
 ![voyage of the dawn treader ipad
-wallpaper](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image30.jpeg){width="4.0625in"
-height="4.0625in"}
+wallpaper](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image30.jpeg)
 
 Travel into a painting.\
 **Coraline Neil Gaiman**
@@ -296,11 +266,9 @@ parents and three children imprisoned in a mirror. With only a
 bored-through stone and an aloof cat to help, Coraline confronts this
 harrowing task of escaping these monstrous creatures.
 
-![Image](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image31.png){width="2.8229166666666665in"
-height="3.5208333333333335in"}
+![Image](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image31.png)
 
-![Image](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image32.png){width="2.9583333333333335in"
-height="3.5729166666666665in"}
+![Image](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image32.png)
 
 Coraline considered this carefully, then she took the paper and pen and
 went off to explore the inside of the flat.
@@ -335,13 +303,11 @@ The door swung open.
 Her mother was right. The door didn\'t go anywhere. It opened on to a
 brick wall.
 
-![http://2.bp.blogspot.com/-UptnFAXO2yw/TuZxcx18fuI/AAAAAAAAAZ4/75tlck9yq8Q/s1600/Coraline-GraphicNovel-p73.png](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image33.png){width="5.645833333333333in"
-height="6.645833333333333in"}
+![http://2.bp.blogspot.com/-UptnFAXO2yw/TuZxcx18fuI/AAAAAAAAAZ4/75tlck9yq8Q/s1600/Coraline-GraphicNovel-p73.png](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image33.png)
 
 **Peter Pan**
 
-![http://images2.fanpop.com/images/photos/6500000/Peter-Pan-Wallpaper-disney-6583578-1024-768.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image34.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://images2.fanpop.com/images/photos/6500000/Peter-Pan-Wallpaper-disney-6583578-1024-768.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image34.jpeg)
 
 "The moment you doubt whether you can fly, you cease for ever to be able
 to do it."
@@ -393,13 +359,11 @@ still remember dreaming? That's where I'll always love you. That's where
 I'll be waiting."
 
 ![peter pan by
-sce](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image35.jpeg){width="4.166666666666667in"
-height="2.7916666666666665in"}
+sce](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image35.jpeg)
 
 **Haroun and the Sea of Stories Salman Rushdie**
 
-![http://www.hollywoodcomics.com/CarrellHaroun2.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image36.jpeg){width="1.5833333333333333in"
-height="3.2546303587051617in"}
+![http://www.hollywoodcomics.com/CarrellHaroun2.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image36.jpeg)
 
 **Quotes**
 
@@ -454,13 +418,11 @@ he produced a little golden cup from another of his waistcoat pockets,
 \"and you can fill it with water from a single, pure Stream of Story,
 like so,\" as he did precisely that.*
 
-![http://www.hollywoodcomics.com/CarrellHaroun1.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image37.jpeg){width="2.3887904636920383in"
-height="3.7291666666666665in"}
+![http://www.hollywoodcomics.com/CarrellHaroun1.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image37.jpeg)
 
 **Inkheart Cornelia Funke**
 
-![http://fc05.deviantart.net/fs71/f/2011/123/8/7/dustfinger_by_dixie_a-d3fhznk.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image38.jpeg){width="5.397197069116361in"
-height="4.010416666666667in"}
+![http://fc05.deviantart.net/fs71/f/2011/123/8/7/dustfinger_by_dixie_a-d3fhznk.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image38.jpeg)
 
 Mortimer \"Mo\" Folchart raises his thirteen year old daughter Meggie
 alone after the disappearance of his wife Resa. He restores books for a
@@ -655,16 +617,12 @@ structure of the space-time continuum.
 Tesseract into another world.
 
 ![Hope Larson\'s A Wrinkle in Time comic is a love letter to the
-original](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image39.jpeg){width="6.268055555555556in"
-height="3.528244750656168in"}\
-![http://craphound.com/images/WrinkeInTime_LO-38.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image40.jpeg){width="6.268055555555556in"
-height="9.34567038495188in"}
+original](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image39.jpeg)\
+![http://craphound.com/images/WrinkeInTime_LO-38.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image40.jpeg)
 
-![http://craphound.com/images/WrinkeInTime_LO-39.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image41.jpeg){width="6.268055555555556in"
-height="9.22030949256343in"}
+![http://craphound.com/images/WrinkeInTime_LO-39.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image41.jpeg)
 
-![http://craphound.com/images/WrinkeInTime_LO-40.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image42.jpeg){width="6.268055555555556in"
-height="8.913174759405074in"}
+![http://craphound.com/images/WrinkeInTime_LO-40.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image42.jpeg)
 
 **A Wrinkle in Time Madeleine L'Engle**
 
@@ -819,33 +777,25 @@ quoting. Like Mrs Who. Meg, I'm scared stiff."
 
 "So 'm I." Meg held his hand more tightly.
 
-![http://farm6.static.flickr.com/5085/5344927896_45e13efb49_o.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image43.jpeg){width="6.268055555555556in"
-height="9.889989063867016in"}\
-![http://farm6.static.flickr.com/5242/5344928536_37a593a417_o.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image44.jpeg){width="6.268055555555556in"
-height="9.889989063867016in"}
+![http://farm6.static.flickr.com/5085/5344927896_45e13efb49_o.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image43.jpeg)\
+![http://farm6.static.flickr.com/5242/5344928536_37a593a417_o.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image44.jpeg)
 
-![http://farm6.static.flickr.com/5045/5344929394_78eb6eb5bc_o.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image45.jpeg){width="6.268055555555556in"
-height="9.889989063867016in"}
+![http://farm6.static.flickr.com/5045/5344929394_78eb6eb5bc_o.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image45.jpeg)
 
-![http://farm6.static.flickr.com/5125/5344318993_d0021b833c_o.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image46.jpeg){width="6.268055555555556in"
-height="9.889989063867016in"}
+![http://farm6.static.flickr.com/5125/5344318993_d0021b833c_o.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image46.jpeg)
 
-![http://farm6.static.flickr.com/5121/5344930876_5f618518da_o.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image47.jpeg){width="6.268055555555556in"
-height="9.889989063867016in"}
+![http://farm6.static.flickr.com/5121/5344930876_5f618518da_o.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image47.jpeg)
 
 **The Golden Compass Philip Pullman**
 
-![http://www.stuartwilde.com/wp-content/uploads/2012/11/the-golden-compass1.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image48.jpeg){width="6.25in"
-height="3.5208333333333335in"}
+![http://www.stuartwilde.com/wp-content/uploads/2012/11/the-golden-compass1.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image48.jpeg)
 
-![http://graphics8.nytimes.com/images/2007/12/06/movies/07compass-600.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image49.jpeg){width="6.25in"
-height="3.4375in"}
+![http://graphics8.nytimes.com/images/2007/12/06/movies/07compass-600.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image49.jpeg)
 
 **\**
 
 ![Dakota Blue Richards in the film of The Golden
-Compass](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image50.jpeg){width="4.791666666666667in"
-height="2.875in"}
+Compass](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image50.jpeg)
 
 Here lives an orphaned ward named Lyra Belacqua, whose carefree life
 among the scholars at Oxford\'s Jordan College is shattered by the
@@ -864,8 +814,7 @@ being used as subjects in terrible experiments that separate humans from
 their daemons, creatures that reflect each person\'s inner being. And
 somehow, both Lord Asriel and Mrs. Coulter are involved.
 
-![http://4.bp.blogspot.com/\_PT0Z7bM262U/R1HlGXyHO5I/AAAAAAAAAKw/Btz2_6S_za4/s1600-R/daemon_pantheon](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image51.jpeg){width="6.552705599300087in"
-height="3.3541666666666665in"}
+![http://4.bp.blogspot.com/\_PT0Z7bM262U/R1HlGXyHO5I/AAAAAAAAAKw/Btz2_6S_za4/s1600-R/daemon_pantheon](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image51.jpeg)
 
 In The Golden Compass, daemons are more or less your soul worn on your
 sleeve. They appear as talking animal friends that accompany you
@@ -887,8 +836,7 @@ have? Describe your own dæmon.\*
 
 **Where the Wild Things Are**
 
-![http://www.thefoxisblack.com/blogimages/wild-things.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image52.jpeg){width="6.268055555555556in"
-height="4.777726377952756in"}
+![http://www.thefoxisblack.com/blogimages/wild-things.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image52.jpeg)
 
 **Retell** using the following guide:
 
@@ -929,8 +877,7 @@ height="4.777726377952756in"}
 Maurice Sendak has left four pages of Wild Rumpus-ing without text. Have
 students write dialogue and story for these four pages.
 
-![http://1.bp.blogspot.com/\_B7teId0mL9Q/TUbPk8Vrr1I/AAAAAAAAANU/4IF627xWJxE/s400/where-wild-things-are-rumpus-1.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image53.jpeg){width="4.166666666666667in"
-height="1.84375in"}
+![http://1.bp.blogspot.com/\_B7teId0mL9Q/TUbPk8Vrr1I/AAAAAAAAANU/4IF627xWJxE/s400/where-wild-things-are-rumpus-1.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image53.jpeg)
 
 **Where The Wild Things Are Maurice Sendak**
 
@@ -981,8 +928,7 @@ of his very own room where he found his supper waiting for him
 
 and it was still hot.
 
-![http://upload.wikimedia.org/wikipedia/en/0/03/Cloudy_with_a_Chance_of_Meatballs\_(book).jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image54.jpeg){width="5.59375in"
-height="4.947916666666667in"}
+![http://upload.wikimedia.org/wikipedia/en/0/03/Cloudy_with_a_Chance_of_Meatballs\_(book).jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image54.jpeg)
 
 Would you like to live in a place where it rains food and juice? Explain
 your
@@ -991,11 +937,9 @@ answer.
 
 \"The Worst Weather I Ever Experienced\"---
 
-![http://images.amcnetworks.com/blogs.amctv.com/wp-content/uploads/2009/11/Cloudy_Meatballs_560x330_PK-01.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image55.jpeg){width="5.829861111111111in"
-height="3.4340277777777777in"}
+![http://images.amcnetworks.com/blogs.amctv.com/wp-content/uploads/2009/11/Cloudy_Meatballs_560x330_PK-01.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image55.jpeg)
 
-![http://2.bp.blogspot.com/\_Bs0RNqnY4yY/SdSD7EFP2RI/AAAAAAAAPVE/Ag1yHqwWLOk/s1600/Cloudy+with+a+Chance+of+Meatballs+6.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image56.jpeg){width="5.861111111111111in"
-height="3.3182556867891515in"}
+![http://2.bp.blogspot.com/\_Bs0RNqnY4yY/SdSD7EFP2RI/AAAAAAAAPVE/Ag1yHqwWLOk/s1600/Cloudy+with+a+Chance+of+Meatballs+6.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image56.jpeg)
 
 **Cloudy With a Chance of Meatballs** **Judi Barrett**
 
@@ -1163,8 +1107,7 @@ potatoes.
 
 **Mary Poppins P.L.Travers**
 
-![https://c1.staticflickr.com/3/2641/5746371147_b44ffb10bd_z.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image57.jpeg){width="3.6875in"
-height="4.916666666666667in"}
+![https://c1.staticflickr.com/3/2641/5746371147_b44ffb10bd_z.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image57.jpeg)
 
 **Mary Poppins Quotes**
 
@@ -1286,31 +1229,23 @@ consideration, no decency, no milk of rodent kindness, no compunctions,
 no higher feeling, no friendliness, no anything" (p. 46). What would the
 barn be like if all the animals were like Templeton?
 
-![https://spaceintext.files.wordpress.com/2010/12/templetons-egg-charlottes-web-page-46-illustration-1952-gm-williams.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image58.jpeg){width="2.4602077865266843in"
-height="3.144034339457568in"}
+![https://spaceintext.files.wordpress.com/2010/12/templetons-egg-charlottes-web-page-46-illustration-1952-gm-williams.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image58.jpeg)
 
 **Write about one of the illustrations**
 
-![http://4.bp.blogspot.com/-ebr32LSU_xQ/TzxkZJxE3XI/AAAAAAAANoQ/z57_bk2amT8/s1600/845-520x639.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image59.jpeg){width="6.25in"
-height="7.677083333333333in"}
+![http://4.bp.blogspot.com/-ebr32LSU_xQ/TzxkZJxE3XI/AAAAAAAANoQ/z57_bk2amT8/s1600/845-520x639.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image59.jpeg)
 
-![http://spaceintext.files.wordpress.com/2010/12/loneliness-charlottes-web-page-29-illustration-1952-gm-williams.jpg?w=380&h=311](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image60.jpeg){width="3.9583333333333335in"
-height="3.2395833333333335in"}
+![http://spaceintext.files.wordpress.com/2010/12/loneliness-charlottes-web-page-29-illustration-1952-gm-williams.jpg?w=380&h=311](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image60.jpeg)
 
-![http://masajoe326.files.wordpress.com/2013/03/a-deal-for-wilbur-charlottes-web-page-169-illustration-1952-gm-williams.jpg?w=300&h=231](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image61.jpeg){width="3.125in"
-height="2.40625in"}
+![http://masajoe326.files.wordpress.com/2013/03/a-deal-for-wilbur-charlottes-web-page-169-illustration-1952-gm-williams.jpg?w=300&h=231](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image61.jpeg)
 
-![http://3.bp.blogspot.com/-GKkfkkScpgw/UOOC3xfQBJI/AAAAAAAAAE4/bOXJoYakcEM/s1600/Templeton+and+Wilbur,+Charlotte\'s+Web,+page+59+illustration,+1952,+GM+Williams.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image62.jpeg){width="6.268055555555556in"
-height="8.581461067366579in"}
+![http://3.bp.blogspot.com/-GKkfkkScpgw/UOOC3xfQBJI/AAAAAAAAAE4/bOXJoYakcEM/s1600/Templeton+and+Wilbur,+Charlotte\'s+Web,+page+59+illustration,+1952,+GM+Williams.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image62.jpeg)
 
-![http://1.bp.blogspot.com/-YY8axBtj9wg/UWru6654jkI/AAAAAAAAAH4/4sQJ3P-3cts/s1600/charlottesweb_illustration01.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image63.jpeg){width="6.094444444444444in"
-height="7.716666666666667in"}
+![http://1.bp.blogspot.com/-YY8axBtj9wg/UWru6654jkI/AAAAAAAAAH4/4sQJ3P-3cts/s1600/charlottesweb_illustration01.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image63.jpeg)
 
-![http://api.ning.com/files/kV4MbYiv7oSxHFJWLwFCPCf6i9ZYGHMph46ms1kDgjKFn-an-4w\*kvBeJWpLJY-Gpnz\*t2SgWFfx1sbjkUcp1VLT\*-mX81Hx/1082054003.jpeg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image64.jpeg){width="6.268055555555556in"
-height="7.079215879265091in"}
+![http://api.ning.com/files/kV4MbYiv7oSxHFJWLwFCPCf6i9ZYGHMph46ms1kDgjKFn-an-4w\*kvBeJWpLJY-Gpnz\*t2SgWFfx1sbjkUcp1VLT\*-mX81Hx/1082054003.jpeg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image64.jpeg)
 
-![http://upload.wikimedia.org/wikipedia/commons/6/69/Alice_par_John_Tenniel_25.png](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image65.png){width="6.268055555555556in"
-height="4.786462160979878in"}
+![http://upload.wikimedia.org/wikipedia/commons/6/69/Alice_par_John_Tenniel_25.png](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image65.png)
 
 **The Mad Hatter's Tea Party**
 
@@ -1673,8 +1608,7 @@ foot high: then she walked down the little passage: and *THEN*\--she
 found herself at last in the beautiful garden, among the bright
 flower-beds and the cool fountains.
 
-![http://tabletmag.com/wp-content/files_mf/myfirstkafka_071513_620px.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image66.jpeg){width="6.268055555555556in"
-height="4.199583333333333in"}
+![http://tabletmag.com/wp-content/files_mf/myfirstkafka_071513_620px.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image66.jpeg)
 
 Gregor Samsa, in a detail of illustration from My First Kafka: Runaways,
 Rodents, & Giant Bugs, written by Matthue Roth and illustrated by Rohan
@@ -1686,19 +1620,15 @@ Read Aloud -- The Metamorphosis
 
 Like Gregor you have metamorphosed into a giant bug.
 
-![http://i.huffpost.com/gadgets/slideshows/301276/slide_301276_2534655_free.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image67.jpeg){width="4.916666666666667in"
-height="6.697916666666667in"}
+![http://i.huffpost.com/gadgets/slideshows/301276/slide_301276_2534655_free.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image67.jpeg)
 
-![http://i.huffpost.com/gadgets/slideshows/301276/slide_301276_2534653_free.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image68.jpeg){width="6.268055555555556in"
-height="7.8350699912510935in"}
+![http://i.huffpost.com/gadgets/slideshows/301276/slide_301276_2534653_free.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image68.jpeg)
 
-![http://i.huffpost.com/gadgets/slideshows/301276/slide_301276_2534651_free.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image69.jpeg){width="6.268055555555556in"
-height="7.8350699912510935in"}
+![http://i.huffpost.com/gadgets/slideshows/301276/slide_301276_2534651_free.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image69.jpeg)
 
 **The Gruffalo Julia Donaldson**
 
-![http://www.radioanywhere.co.uk/upload/74/2584.extra-the-gruffalo-001.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image70.jpeg){width="4.792361111111111in"
-height="3.6416666666666666in"}
+![http://www.radioanywhere.co.uk/upload/74/2584.extra-the-gruffalo-001.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image70.jpeg)
 
 Write a description of a monster like Gruffalo using descriptive
 language. Provide some prompts:
@@ -1711,16 +1641,13 @@ What colour are his eyes?
 
 Does he have claws? Teeth? etc.
 
-![http://news.bbcimg.co.uk/media/images/58542000/jpg/\_58542625_axelscheffler-gruffaloandstickman(aspecialbirthdaydrawingforjulia).jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image71.jpeg){width="4.703965441819773in"
-height="2.6441119860017497in"}
+![http://news.bbcimg.co.uk/media/images/58542000/jpg/\_58542625_axelscheffler-gruffaloandstickman(aspecialbirthdaydrawingforjulia).jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image71.jpeg)
 
 **How to Train Your Dragon Cressida Cowell**
 
-![C:\\Users\\Jim\\Downloads\\how_to_train_your_dragon_cover_accepted_version_by_aaronlopresti-d5rgce6.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image72.jpeg){width="6.0in"
-height="8.604166666666666in"}
+![C:\\Users\\Jim\\Downloads\\how_to_train_your_dragon_cover_accepted_version_by_aaronlopresti-d5rgce6.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image72.jpeg)
 
-![http://25.media.tumblr.com/tumblr_lzyat94VYV1qbbw8jo1_1280.png](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image73.png){width="6.268055555555556in"
-height="4.201490594925635in"}
+![http://25.media.tumblr.com/tumblr_lzyat94VYV1qbbw8jo1_1280.png](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image73.png)
 
 Hiccup Horrendous Haddock III was an awesome sword-fighter, a
 dragon-whisperer and the greatest Viking Hero who ever lived. But it
@@ -1743,18 +1670,15 @@ and a hilarious snowman named Olaf, Anna and Kristoff battle the
 elements in a race to save the kingdom. Based on the Disney film,
 Frozen.
 
-![http://i1.ytimg.com/vi/sh53GPtA3lQ/0.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image74.jpeg){width="5.0in"
-height="3.75in"}
+![http://i1.ytimg.com/vi/sh53GPtA3lQ/0.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image74.jpeg)
 
 Freewrite about Frozen.
 
 See i-Tunes Read Along
 
-![http://www.ecole-foecy.fr/wp-content/uploads/2012/12/matilda-roald-dahl-3.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image75.jpeg){width="5.009722222222222in"
-height="3.3868055555555556in"}
+![http://www.ecole-foecy.fr/wp-content/uploads/2012/12/matilda-roald-dahl-3.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image75.jpeg)
 
-![https://apocalypsebakery.files.wordpress.com/2012/02/matilda-rd9112.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image76.jpeg){width="4.877083333333333in"
-height="4.886805555555555in"}
+![https://apocalypsebakery.files.wordpress.com/2012/02/matilda-rd9112.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image76.jpeg)
 
 **Matilda**
 
@@ -1765,21 +1689,17 @@ Imagine how it would feel if Miss Trunchbull was your teacher.
 Think of a new situation at school in which Miss Trunchbull intimidates
 the students. This time, perhaps the children get their own back!
 
-![https://apocalypsebakery.files.wordpress.com/2012/02/trunchbull3p.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image77.jpeg){width="5.4430555555555555in"
-height="4.792361111111111in"}
+![https://apocalypsebakery.files.wordpress.com/2012/02/trunchbull3p.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image77.jpeg)
 
 ![Quentin Blake\'s
-Matilda](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image78.jpeg){width="4.679166666666666in"
-height="3.0284722222222222in"}
+Matilda](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image78.jpeg)
 
-![Matilda](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image79.jpeg){width="3.2736111111111112in"
-height="2.783333333333333in"}
+![Matilda](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image79.jpeg)
 
 **The BFG**
 
 ![Roald Dahl\'s The BFG, illustrated by Quentin
-Blake.](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image80.gif){width="6.268055555555556in"
-height="3.5332666229221346in"}
+Blake.](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image80.gif)
 
 'I would dearly love to have an elefunt to ride on,' the BFG said
 dreamily 'I would so much love to have a jumbly big elefunt and go
@@ -1804,8 +1724,7 @@ Extension from the seed.
 Write a new chapter of The BFG in which the dream of one of the
 characters comes true.
 
-![http://i.telegraph.co.uk/multimedia/archive/02165/bfg_2165178b.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image81.jpeg){width="5.15625in"
-height="3.2268143044619424in"}
+![http://i.telegraph.co.uk/multimedia/archive/02165/bfg_2165178b.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image81.jpeg)
 
 **The Witches**
 
@@ -1820,12 +1739,10 @@ height="3.2268143044619424in"}
 • As witchophiles, it is your job to tell the world about witches.
 
 ![Roald Dahl\'s The Witches, illustrated by Quentin
-Blake.](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image82.gif){width="5.657235345581802in"
-height="3.1875in"}
+Blake.](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image82.gif)
 
 ![Roald Dahl\'s Boy, illustrated by Quentin
-Blake.](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image83.gif){width="7.635416666666667in"
-height="4.302083333333333in"}
+Blake.](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image83.gif)
 
 **Boy**
 
@@ -1838,8 +1755,7 @@ Roald Dahl does.
 
 • It still needs to be something that could happen and is believable!
 
-![http://1.bp.blogspot.com/-kUjNJasEYM4/T6l8yvo_9PI/AAAAAAAAAio/HzkRqcoA-QE/s640/08-05-2012+21;00;27.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image84.jpeg){width="3.450865048118985in"
-height="2.6306332020997374in"}
+![http://1.bp.blogspot.com/-kUjNJasEYM4/T6l8yvo_9PI/AAAAAAAAAio/HzkRqcoA-QE/s640/08-05-2012+21;00;27.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image84.jpeg)
 
 **Charlie and the Chocolate Factory**
 
@@ -1887,8 +1803,7 @@ disaster happened.
 
 **Chapter 9 Grandpa Joe takes a Gamble**
 
-![http://www.arthouse-gallery.co.uk/WebRoot/BT3/Shops/BT3958/5242/CF5B/093A/A4E8/43EF/0A0C/05E9/0C81/its-the-fifth-golden-ticket-quentin-blake-art-print.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image85.jpeg){width="3.1678455818022746in"
-height="3.1678455818022746in"}
+![http://www.arthouse-gallery.co.uk/WebRoot/BT3/Shops/BT3958/5242/CF5B/093A/A4E8/43EF/0A0C/05E9/0C81/its-the-fifth-golden-ticket-quentin-blake-art-print.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image85.jpeg)
 
 **Developing Suspense**
 
@@ -1953,8 +1868,7 @@ burst into peals of laughter.
   piece in which the chocolate bar either has a golden ticket within it
   or does not.
 
-![http://www.thetimes.co.uk/tto/multimedia/archive/00206/TIM12131GW03_206504c.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image86.jpeg){width="6.268055555555556in"
-height="4.172642169728784in"}
+![http://www.thetimes.co.uk/tto/multimedia/archive/00206/TIM12131GW03_206504c.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image86.jpeg)
 
 **Chapter 18 Down the Chocolate River**
 
@@ -1988,13 +1902,11 @@ Down the chocolate river, I feel
 Down the chocolate river, life
 is\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\...\....
 
-![http://www.artfund.org/assets/what-to-see/exhibitions/2013/Picture%20this/Charlie-and-the-Chocolate-Factory-by-Roald-Dahl1536P.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image87.jpeg){width="3.5310345581802274in"
-height="5.109599737532808in"}
+![http://www.artfund.org/assets/what-to-see/exhibitions/2013/Picture%20this/Charlie-and-the-Chocolate-Factory-by-Roald-Dahl1536P.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image87.jpeg)
 
 **Chapter 19 The Inventing Room**
 
-![http://media-cache-ec0.pinimg.com/736x/a9/a8/ef/a9a8efce298ed8be218c6870542001d1.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image88.jpeg){width="3.754861111111111in"
-height="3.4715277777777778in"}
+![http://media-cache-ec0.pinimg.com/736x/a9/a8/ef/a9a8efce298ed8be218c6870542001d1.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image88.jpeg)
 
 Charlie Bucket stared around the gigantic room in which he now found
 himself. The place was like a witch's kitchen! All about him black metal
@@ -2028,8 +1940,7 @@ a basket on the floor.
 
 **Chapter 23 Veruca in the Nut Room**
 
-![http://www.roalddahl.com/1056_TIMEIMAGE_0\*768,0,483x272,1;0\*768,0,966x544,2;768\*9999,0,881x497,1;768\*9999,0,1762x994,2_326\_.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image89.jpeg){width="6.268055555555556in"
-height="3.536628390201225in"}
+![http://www.roalddahl.com/1056_TIMEIMAGE_0\*768,0,483x272,1;0\*768,0,966x544,2;768\*9999,0,881x497,1;768\*9999,0,1762x994,2_326\_.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image89.jpeg)
 
 The class makes a list of the minor characters in the story: the
 
@@ -2071,8 +1982,7 @@ squirrels, cows, etc, and so on.
 
 **Dream Chocolate Bar**
 
-![http://3.bp.blogspot.com/-L71vB7c6Mh4/T16O9QuoHvI/AAAAAAAABaY/Ik40en5HVPA/s1600/CharlieBucket.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image90.jpeg){width="4.133827646544182in"
-height="3.331768372703412in"}
+![http://3.bp.blogspot.com/-L71vB7c6Mh4/T16O9QuoHvI/AAAAAAAABaY/Ik40en5HVPA/s1600/CharlieBucket.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image90.jpeg)
 
 • Look at some of the fantabulous inventions from Charlie and the
 Chocolate Factory. For example, use this quote from Chapter 2:
@@ -2116,8 +2026,7 @@ eating the product.
 
 **Danny, the Champion of the World**
 
-![http://www.roalddahl.com/7801_TIMEIMAGE_0\*768,0,483x272,1;0\*768,0,966x544,2;768\*9999,0,881x497,1;768\*9999,0,1762x994,2_3662\_.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image91.jpeg){width="4.262185039370078in"
-height="2.4048556430446193in"}
+![http://www.roalddahl.com/7801_TIMEIMAGE_0\*768,0,483x272,1;0\*768,0,966x544,2;768\*9999,0,881x497,1;768\*9999,0,1762x994,2_3662\_.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image91.jpeg)
 
 He was watching me now as I opened the first packet of raisins.
 
@@ -2191,8 +2100,7 @@ discovery."
 
 ― David Almond
 
-![http://fc09.deviantart.net/fs71/f/2010/223/e/7/Skellig_by_Millmac.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image92.jpeg){width="4.1871183289588805in"
-height="6.645833333333333in"}
+![http://fc09.deviantart.net/fs71/f/2010/223/e/7/Skellig_by_Millmac.jpg](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image92.jpeg)
 
 **\**
 
@@ -2251,8 +2159,7 @@ something like a bird, something like an angel.\" He laughed.
 **A Wizard of Earthsea Ursula Le Guin**
 
 ![Sparrowhawk by
-DappleHack](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image93.jpeg){width="3.4922222222222223in"
-height="4.760416666666667in"}
+DappleHack](assets/Fantasy - Writer's Notebook 9 Quick Writes/media/media/image93.jpeg)
 
 Ged, the greatest sorcerer in all Earthsea, was called Sparrowhawk in
 his reckless youth.

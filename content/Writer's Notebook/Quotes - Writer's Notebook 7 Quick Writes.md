@@ -12,23 +12,20 @@ strand: writers-notebook
 
 **Quick-Writes**
 
-![http://shechive.files.wordpress.com/2013/02/coupla-quotes-2.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image1.jpeg){width="5.207638888888889in"
-height="3.6034722222222224in"}
+![http://shechive.files.wordpress.com/2013/02/coupla-quotes-2.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image1.jpeg)
 
 **Quotes**
 
 **\**
 
-![http://shechive.files.wordpress.com/2013/02/coupla-quotes-2.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image1.jpeg){width="2.699472878390201in"
-height="1.867924321959755in"}
+![http://shechive.files.wordpress.com/2013/02/coupla-quotes-2.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image1.jpeg)
 
 **Writer's Notebook 7**
 
 Quotes
 
 ![Jk rowling, quotes, sayings, about age, wisdom
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image2.jpeg){width="4.792361111111111in"
-height="2.877083333333333in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image2.jpeg)
 
 **Helen Keller** 1880-1968
 
@@ -103,11 +100,9 @@ The world is moved along, not only by the mighty shoves of its heroes,
 but also by the aggregate of tiny pushes of each honest worker.
 
 ![One chance is all you need. - Jesse
-Owens](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image3.jpeg){width="6.268055555555556in"
-height="4.044667541557305in"}
+Owens](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image3.jpeg)
 
-![CMS](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image4.jpeg){width="3.46875in"
-height="5.208333333333333in"}
+![CMS](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image4.jpeg)
 
 [I woke up one morning thinking about wolves and realised that wolf
 packs function as families. Everyone has a role, and if you act within
@@ -118,11 +113,9 @@ pack.](http://www.brainyquote.com/quotes/quotes/j/jodipicoul429302.html)
 [**Jodi
 Picoult**](http://www.brainyquote.com/quotes/quotes/j/jodipicoul429302.html)
 
-![http://wolffacts.org/thecontent/images/2014/01/wolf%20pack%20howling.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image5.jpeg){width="6.268055555555556in"
-height="4.178567366579178in"}**\**
+![http://wolffacts.org/thecontent/images/2014/01/wolf%20pack%20howling.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image5.jpeg)**\**
 
-![Image](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image6.jpeg){width="6.268055555555556in"
-height="3.7216579177602798in"}
+![Image](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image6.jpeg)
 
 Wherever I go, I\'m watching. Even on vacation, when I\'m in an airport
 or a railroad station, I look around, snap pictures, and find out how
@@ -131,8 +124,7 @@ people do things.
 Richard Scarry 1919-1994
 
 ![People Watching by
-VirusHunter](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image7.jpeg){width="6.268055555555556in"
-height="8.109526465441819in"}
+VirusHunter](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image7.jpeg)
 
 I want kids to think that reading can be just as much fun and more so
 than TV or video games or whatever else they do. I think any other kind
@@ -141,355 +133,264 @@ enjoying a book.
 
 Louis Sachar 1954 --
 
-![http://www.teleread.com/wp-content/uploads/2013/08/kids-reading-book.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image8.jpeg){width="6.268055555555556in"
-height="4.17156605424322in"}
+![http://www.teleread.com/wp-content/uploads/2013/08/kids-reading-book.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image8.jpeg)
 
 Write what you care about. If you do that, you stand the best chance of
 doing your best writing.
 
 Jerry Spinelli 1941 -
 
-![http://media.web.britannica.com/eb-media/57/94057-004-90EEAC91.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image9.jpeg){width="5.726388888888889in"
-height="3.8208333333333333in"}
+![http://media.web.britannica.com/eb-media/57/94057-004-90EEAC91.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image9.jpeg)
 
 Don\'t get it right, just get it written.
 
 James Thurber 1894-1961
 
-![http://f-origin.hypotheses.org/wp-content/blogs.dir/2/files/2008/04/formation_marseille.JPG](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image10.jpeg){width="5.207638888888889in"
-height="3.5in"}
+![http://f-origin.hypotheses.org/wp-content/blogs.dir/2/files/2008/04/formation_marseille.JPG](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image10.jpeg)
 
 Strength is the capacity to break a chocolate bar into four pieces with
 your bare hands - and then eat just one of the pieces.
 
 Judith Viorst 1932 --
 
-![https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFp9_pbuPLklQ0WxEhWesCmxdjwWlPoZ53pRs9qnafO-ci9uXm](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image11.jpeg){width="3.622916666666667in"
-height="1.5097222222222222in"}
+![https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQFp9_pbuPLklQ0WxEhWesCmxdjwWlPoZ53pRs9qnafO-ci9uXm](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image11.jpeg)
 
-![http://shechive.files.wordpress.com/2013/02/coupla-quotes-3.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image12.jpeg){width="5.207638888888889in"
-height="3.4625in"}
+![http://shechive.files.wordpress.com/2013/02/coupla-quotes-3.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image12.jpeg)
 
 ![coupla quotes 12 Coupla quotes (19
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image13.jpeg){width="5.207638888888889in"
-height="6.745138888888889in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image13.jpeg)
 
 ![coupla quotes 14 Coupla quotes (19
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image14.jpeg){width="5.207638888888889in"
-height="6.3493055555555555in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image14.jpeg)
 
 ![Inspiration Quotes
-(1)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image15.png){width="3.915277777777778in"
-height="5.0in"}
+(1)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image15.png)
 
 ![Inspiration Quotes
-(10)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image16.jpeg){width="4.415277777777778in"
-height="5.0in"}
+(10)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image16.jpeg)
 
 ![Inspiration Quotes
-(12)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image17.jpeg){width="6.268055555555556in"
-height="4.866449037620297in"}
+(12)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image17.jpeg)
 
 ![Inspiration Quotes
-(13)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image18.jpeg){width="6.268055555555556in"
-height="4.248740157480315in"}
+(13)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image18.jpeg)
 
 ![Mahatma gandhi, quotes, sayings, future, present, wisdom
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image19.jpeg){width="5.207638888888889in"
-height="5.207638888888889in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image19.jpeg)
 
-![http://www.wordsonimages.com/pics/195107-o.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image20.jpeg){width="6.245138888888889in"
-height="4.4527777777777775in"}
+![http://www.wordsonimages.com/pics/195107-o.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image20.jpeg)
 
 ![Inspiration Quotes
-(15)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image21.jpeg){width="6.245138888888889in"
-height="9.065972222222221in"}
+(15)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image21.jpeg)
 
 ![Inspiration Quotes
-(14)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image22.jpeg){width="6.268055555555556in"
-height="8.378353018372703in"}
+(14)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image22.jpeg)
 
 ![Inspiration Quotes
-(16)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image23.jpeg){width="5.0in"
-height="6.0in"}
+(16)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image23.jpeg)
 
 ![Inspiration Quotes
-(18)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image24.jpeg){width="5.207638888888889in"
-height="7.811111111111111in"}
+(18)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image24.jpeg)
 
 ![Inspiration Quotes
-(21)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image25.jpeg){width="4.170138888888889in"
-height="5.207638888888889in"}
+(21)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image25.jpeg)
 
 ![Inspiration Quotes
-(22)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image26.jpeg){width="6.268055555555556in"
-height="4.618337707786527in"}
+(22)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image26.jpeg)
 
 ![Inspiration Quotes
-(28)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image27.jpeg){width="6.245138888888889in"
-height="9.377083333333333in"}
+(28)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image27.jpeg)
 
 ![Inspiration Quotes
-(31)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image28.jpeg){width="6.245138888888889in"
-height="8.839583333333334in"}
+(31)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image28.jpeg)
 
 ![Inspiration Quotes
-(32)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image29.jpeg){width="6.268055555555556in"
-height="3.914116360454943in"}
+(32)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image29.jpeg)
 
 ![Inspiration Quotes
-(36)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image30.jpeg){width="6.268055555555556in"
-height="4.207077865266841in"}
+(36)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image30.jpeg)
 
 ![Inspiration Quotes
-(37)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image31.jpeg){width="6.268055555555556in"
-height="4.1667311898512684in"}
+(37)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image31.jpeg)
 
-![http://webtoolfeed.files.wordpress.com/2012/06/julianbialowas1.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image32.jpeg){width="6.268055555555556in"
-height="3.8585575240594925in"}
+![http://webtoolfeed.files.wordpress.com/2012/06/julianbialowas1.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image32.jpeg)
 
-![http://webtoolfeed.files.wordpress.com/2012/06/20-uplifting-quotes-and-pieces.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image33.jpeg){width="6.268055555555556in"
-height="3.8473097112860892in"}
+![http://webtoolfeed.files.wordpress.com/2012/06/20-uplifting-quotes-and-pieces.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image33.jpeg)
 
-![http://webtoolfeed.files.wordpress.com/2012/06/julianbialowas8.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image34.jpeg){width="6.268055555555556in"
-height="3.8585575240594925in"}
+![http://webtoolfeed.files.wordpress.com/2012/06/julianbialowas8.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image34.jpeg)
 
-![http://webtoolfeed.files.wordpress.com/2012/06/julianbialowas15.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image35.jpeg){width="6.268055555555556in"
-height="3.8585575240594925in"}
+![http://webtoolfeed.files.wordpress.com/2012/06/julianbialowas15.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image35.jpeg)
 
-![http://webtoolfeed.files.wordpress.com/2012/06/julianbialowas17.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image36.jpeg){width="6.268055555555556in"
-height="3.8660936132983377in"}
+![http://webtoolfeed.files.wordpress.com/2012/06/julianbialowas17.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image36.jpeg)
 
-![http://webtoolfeed.files.wordpress.com/2012/06/bialowas-15-620x383.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image37.jpeg){width="6.268055555555556in"
-height="3.870217629046369in"}
+![http://webtoolfeed.files.wordpress.com/2012/06/bialowas-15-620x383.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image37.jpeg)
 
-![Posters](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image38.jpeg){width="6.245138888888889in"
-height="7.311111111111111in"}
+![Posters](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image38.jpeg)
 
-![http://webtoolfeed.files.wordpress.com/2012/03/acting-naturally.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image39.jpeg){width="6.245138888888889in"
-height="3.3020833333333335in"}
+![http://webtoolfeed.files.wordpress.com/2012/03/acting-naturally.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image39.jpeg)
 
-![http://webtoolfeed.files.wordpress.com/2012/03/60aa294e2ae29420a9051ed2775f69281.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image40.jpeg){width="6.245138888888889in"
-height="3.3020833333333335in"}
+![http://webtoolfeed.files.wordpress.com/2012/03/60aa294e2ae29420a9051ed2775f69281.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image40.jpeg)
 
-![http://webtoolfeed.files.wordpress.com/2012/03/72b298950293dbed753cbf2f9061fc261.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image41.jpeg){width="6.245138888888889in"
-height="3.3020833333333335in"}
+![http://webtoolfeed.files.wordpress.com/2012/03/72b298950293dbed753cbf2f9061fc261.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image41.jpeg)
 
-![http://webtoolfeed.files.wordpress.com/2012/02/d5cf3065442def8fc281a33df093dd321.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image42.jpeg){width="6.245138888888889in"
-height="8.82986111111111in"}
+![http://webtoolfeed.files.wordpress.com/2012/02/d5cf3065442def8fc281a33df093dd321.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image42.jpeg)
 
-![http://webtoolfeed.files.wordpress.com/2012/02/6761333617_4237cf4df0_z1.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image43.jpeg){width="6.268055555555556in"
-height="4.184359142607174in"}
+![http://webtoolfeed.files.wordpress.com/2012/02/6761333617_4237cf4df0_z1.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image43.jpeg)
 
 ![Quotes
-inspiration](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image44.jpeg){width="5.207638888888889in"
-height="4.8493055555555555in"}
+inspiration](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image44.jpeg)
 
 ![Quotes
-inspiration](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image45.jpeg){width="5.207638888888889in"
-height="7.528472222222222in"}
+inspiration](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image45.jpeg)
 
-![http://www.theglavo.com/wp-content/uploads/2014/02/disney-quotes-birthday-108.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image46.jpeg){width="4.990277777777778in"
-height="3.160416666666667in"}
+![http://www.theglavo.com/wp-content/uploads/2014/02/disney-quotes-birthday-108.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image46.jpeg)
 
-![http://image.slidesharecdn.com/13-steve-jobs-quotes-for-creatives-and-designers-130602163834-phpapp02/95/13-steve-jobs-quotes-for-creatives-and-designers-14-638.jpg?cb=1406838200](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image47.jpeg){width="6.268055555555556in"
-height="4.709561461067366in"}
+![http://image.slidesharecdn.com/13-steve-jobs-quotes-for-creatives-and-designers-130602163834-phpapp02/95/13-steve-jobs-quotes-for-creatives-and-designers-14-638.jpg?cb=1406838200](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image47.jpeg)
 
 Steve Jobs
 
 ![memorable
-quotes](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image48.jpeg){width="6.268055555555556in"
-height="3.629882983377078in"}
+quotes](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image48.jpeg)
 
 ![Albert Einstein
-quotes](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image49.png){width="6.268055555555556in"
-height="3.917841207349081in"}
+quotes](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image49.png)
 
 ![famous
-quotes](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image50.jpeg){width="6.245138888888889in"
-height="4.679166666666666in"}
+quotes](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image50.jpeg)
 
 ![famous
-quotes](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image51.jpeg){width="6.245138888888889in"
-height="3.783333333333333in"}
+quotes](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image51.jpeg)
 
 ![Famous sayings and
-phrases](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image52.jpeg){width="5.207638888888889in"
-height="3.9055555555555554in"}
+phrases](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image52.jpeg)
 
 ![Famous sayings and
-phrases](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image53.jpeg){width="6.245138888888889in"
-height="5.688888888888889in"}
+phrases](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image53.jpeg)
 
 ![Famous sayings and
-phrases](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image54.jpeg){width="6.268055555555556in"
-height="4.703398950131233in"}
+phrases](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image54.jpeg)
 
 ![Famous sayings and
-phrases](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image55.jpeg){width="6.170138888888889in"
-height="4.622916666666667in"}
+phrases](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image55.jpeg)
 
 ![Maya angelou, quotes, sayings, positive, great, quote, wise
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image56.jpeg){width="5.726388888888889in"
-height="3.8020833333333335in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image56.jpeg)
 
-![http://www.hdwallpapersimages.com/wp-content/uploads/2014/01/Walt-Disney-Dreams-Quotes-Images.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image57.jpeg){width="6.268055555555556in"
-height="4.699512248468942in"}
+![http://www.hdwallpapersimages.com/wp-content/uploads/2014/01/Walt-Disney-Dreams-Quotes-Images.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image57.jpeg)
 
 ![Always seek
-knowledge.](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image58.jpeg){width="4.170138888888889in"
-height="2.783333333333333in"}
+knowledge.](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image58.jpeg)
 
 ![positive quotes 13 Start your week off with positive quotes (17
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image59.jpeg){width="5.207638888888889in"
-height="6.971527777777778in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image59.jpeg)
 
 ![positive quotes 15 Start your week off with positive quotes (17
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image60.jpeg){width="5.207638888888889in"
-height="6.802083333333333in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image60.jpeg)
 
 ![positive quotes 12 Start your week off with positive quotes (17
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image61.jpeg){width="5.207638888888889in"
-height="7.207638888888889in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image61.jpeg)
 
 ![positive quotes 7 Start your week off with positive quotes (17
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image62.jpeg){width="5.207638888888889in"
-height="4.660416666666666in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image62.jpeg)
 
 ![positive quotes 8 Start your week off with positive quotes (17
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image63.jpeg){width="5.207638888888889in"
-height="6.868055555555555in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image63.jpeg)
 
 ![positive quotes 10 Start your week off with positive quotes (17
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image64.jpeg){width="5.207638888888889in"
-height="5.01875in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image64.jpeg)
 
 ![positive quotes 11 Start your week off with positive quotes (17
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image65.jpeg){width="5.207638888888889in"
-height="4.745138888888889in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image65.jpeg)
 
-![positive-quotes-14](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image66.jpeg){width="5.197916666666667in"
-height="7.48125in"}
+![positive-quotes-14](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image66.jpeg)
 
 ![positive quotes 16 Start your week off with positive quotes (17
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image67.jpeg){width="5.207638888888889in"
-height="5.207638888888889in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image67.jpeg)
 
 ![positive quotes 1 Start your week off with positive quotes (18
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image68.jpeg){width="5.207638888888889in"
-height="7.811111111111111in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image68.jpeg)
 
 ![positive quotes 4 Start your week off with positive quotes (18
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image69.jpeg){width="5.207638888888889in"
-height="4.820833333333334in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image69.jpeg)
 
 ![positive quotes 6 Start your week off with positive quotes (18
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image70.jpeg){width="5.207638888888889in"
-height="7.5in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image70.jpeg)
 
 ![positive quotes 7 Start your week off with positive quotes (18
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image71.jpeg){width="5.207638888888889in"
-height="6.839583333333334in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image71.jpeg)
 
 ![positive quotes 8 Start your week off with positive quotes (18
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image72.jpeg){width="5.207638888888889in"
-height="6.877083333333333in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image72.jpeg)
 
 ![positive quotes 10 Start your week off with positive quotes (18
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image73.jpeg){width="5.207638888888889in"
-height="5.141666666666667in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image73.jpeg)
 
 ![positive quotes 13 Start your week off with positive quotes (18
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image74.jpeg){width="5.207638888888889in"
-height="7.377083333333333in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image74.jpeg)
 
 ![positive quotes 14 Start your week off with positive quotes (18
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image75.jpeg){width="5.207638888888889in"
-height="7.811111111111111in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image75.jpeg)
 
 ![positive quotes 15 Start your week off with positive quotes (18
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image76.jpeg){width="5.197916666666667in"
-height="5.197916666666667in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image76.jpeg)
 
 ![positive quotes 16 Start your week off with positive quotes (18
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image77.jpeg){width="5.207638888888889in"
-height="5.763888888888889in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image77.jpeg)
 
 ![positive quotes 17 Start your week off with positive quotes (18
-photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image78.jpeg){width="5.207638888888889in"
-height="5.226388888888889in"}
+photos)](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image78.jpeg)
 
-![http://2.bp.blogspot.com/-f8Qd_C9Ujg8/UqIl3YtGwwI/AAAAAAAAB2Y/G4oCkZooY3E/s1600/tumblr_m55yxymTsz1rw6j6yo1_500.png](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image79.png){width="5.207638888888889in"
-height="5.4430555555555555in"}
+![http://2.bp.blogspot.com/-f8Qd_C9Ujg8/UqIl3YtGwwI/AAAAAAAAB2Y/G4oCkZooY3E/s1600/tumblr_m55yxymTsz1rw6j6yo1_500.png](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image79.png)
 
-![http://msl-cdn.radiantforestllc.netdna-cdn.com/wp-content/uploads/2013/12/mandela-fear-quote.png](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image80.png){width="6.268055555555556in"
-height="2.526656824146982in"}
+![http://msl-cdn.radiantforestllc.netdna-cdn.com/wp-content/uploads/2013/12/mandela-fear-quote.png](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image80.png)
 
-![http://inspiration.co.uk/wp-content/uploads/2013/12/Nelson-Mandela-Quote-02.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image81.jpeg){width="6.268055555555556in"
-height="3.13794728783902in"}
+![http://inspiration.co.uk/wp-content/uploads/2013/12/Nelson-Mandela-Quote-02.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image81.jpeg)
 
-![http://www.quotesworld.org/wp-content/uploads/2014/07/nelson-mandela-14.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image82.jpeg){width="6.268055555555556in"
-height="2.8818525809273843in"}
+![http://www.quotesworld.org/wp-content/uploads/2014/07/nelson-mandela-14.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image82.jpeg)
 
 ![Picture quote on
-Success](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image83.jpeg){width="4.197916666666667in"
-height="3.8965277777777776in"}
+Success](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image83.jpeg)
 
-![http://www.wordsonimages.com/pics/261189-o.png](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image84.png){width="4.197916666666667in"
-height="3.1131944444444444in"}
+![http://www.wordsonimages.com/pics/261189-o.png](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image84.png)
 
 ![Charlie chaplin, quotes, sayings, failure, courage, wise
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image85.jpeg){width="5.5in"
-height="4.122916666666667in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image85.jpeg)
 
 ![Sports, quotes, sayings, ernie banks, wisdom, great
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image86.jpeg){width="5.726388888888889in"
-height="5.216666666666667in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image86.jpeg)
 
 ![Best, quotes, wise, sayings, wear
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image87.jpeg){width="4.197916666666667in"
-height="4.197916666666667in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image87.jpeg)
 
 ![Oprah winfrey, quotes, sayings, struggle, strength, wisdom, best
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image88.jpeg){width="4.170138888888889in"
-height="4.170138888888889in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image88.jpeg)
 
 ![Environmental quotes, wise, sayings, deep
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image89.jpeg){width="6.245138888888889in"
-height="3.122916666666667in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image89.jpeg)
 
 ![Winston churchill, quotes, sayings, attitude, wisdom
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image90.jpeg){width="5.207638888888889in"
-height="3.283333333333333in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image90.jpeg)
 
 ![Oliver wendell holmes, quotes, sayings, mind, ideas, size, wisdom
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image91.jpeg){width="5.726388888888889in"
-height="4.707638888888889in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image91.jpeg)
 
 ![Quotes on trust, wise, sayings, deep, wisdom
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image92.jpeg){width="5.170138888888889in"
-height="3.8680555555555554in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image92.jpeg)
 
 ![Eleanor roosevelt, quotes, sayings, understanding, wisdom, meaning
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image93.jpeg){width="4.736111111111111in"
-height="3.48125in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image93.jpeg)
 
 ![Mother teresa, quotes, sayings, lonely, feelings, wise
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image94.jpeg){width="5.329861111111111in"
-height="4.0in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image94.jpeg)
 
-![http://www.wordsonimages.com/pics/195255-o.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image95.jpeg){width="4.320833333333334in"
-height="4.292361111111111in"}
+![http://www.wordsonimages.com/pics/195255-o.jpg](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image95.jpeg)
 
 ![Albert einstein, quotes, sayings, creativity, wise, quote
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image96.jpeg){width="5.207638888888889in"
-height="7.4527777777777775in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image96.jpeg)
 
 ![Self confidence quotes, best, wise, sayings, most
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image97.jpeg){width="4.207638888888889in"
-height="4.207638888888889in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image97.jpeg)
 
 ![Italian quotes, best, wise, sayings, beauty
-](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image98.jpeg){width="6.245138888888889in"
-height="8.32986111111111in"}
+](assets/Quotes - Writer's Notebook 7 Quick Writes/media/media/image98.jpeg)
 

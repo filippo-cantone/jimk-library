@@ -11,14 +11,12 @@ strand: writing-voice
 > **(16)**
 >
 > ![Chicken
-> Little](assets/Writing - Voice 16/media/media/image1.png){width="5.0in"
-> height="3.236111111111111in"}
+> Little](assets/Writing - Voice 16/media/media/image1.png)
 >
 > **Voice & Personification 4**
 
 ![Chicken
-Little](assets/Writing - Voice 16/media/media/image1.png){width="2.75in"
-height="1.7798611111111111in"}
+Little](assets/Writing - Voice 16/media/media/image1.png)
 
 **Voice 16**
 
@@ -49,13 +47,11 @@ Chrysanthemum Kevin Henkes
 Atlantic Brian Karas
 
 ![The sky is falling, oh
-wait.](assets/Writing - Voice 16/media/media/image2.jpeg){width="3.0188024934383204in"
-height="2.9433956692913386in"}
+wait.](assets/Writing - Voice 16/media/media/image2.jpeg)
 
 **\**
 
-![http://3.bp.blogspot.com/-EnV3er9SyFY/URaWIG-\_6yI/AAAAAAAABYY/IYeqsdEQSKc/s400/Prairie+Chicken+Little.png](assets/Writing - Voice 16/media/media/image3.png){width="4.166666666666667in"
-height="3.3541666666666665in"}
+![http://3.bp.blogspot.com/-EnV3er9SyFY/URaWIG-\_6yI/AAAAAAAABYY/IYeqsdEQSKc/s400/Prairie+Chicken+Little.png](assets/Writing - Voice 16/media/media/image3.png)
 
 In the tradition of this age old tale, Prairie Chicken Little by Jackie
 Mims Hopkins chronicles the over-reaction of one prairie chicken who
@@ -201,11 +197,9 @@ So, Cowboy Stan cooked up a fine supper for those critters and that took
 care of Mary McBlicken's stomach stampede, lickety-splickety, yes
 indeed.
 
-![http://kidlitreviews.files.wordpress.com/2013/03/prairie1.jpg?w=504&h=208](assets/Writing - Voice 16/media/media/image4.jpeg){width="5.25in"
-height="2.1666666666666665in"}
+![http://kidlitreviews.files.wordpress.com/2013/03/prairie1.jpg?w=504&h=208](assets/Writing - Voice 16/media/media/image4.jpeg)
 
-![2620958](assets/Writing - Voice 16/media/media/image5.jpeg){width="3.311111111111111in"
-height="3.792361111111111in"}
+![2620958](assets/Writing - Voice 16/media/media/image5.jpeg)
 
 **Henny Penny Vivian French**
 
@@ -517,11 +511,9 @@ But Foxy-Woxy had made two bites at Cocky-Locky, and when the first snap
 missed, he called out to Chicken Little. So she turned tail and ran back
 home. She never told the big boss the sky was a-falling.
 
-![\[Illustration\]](assets/Writing - Voice 16/media/media/image6.jpeg){width="4.386805555555555in"
-height="4.886805555555555in"}
+![\[Illustration\]](assets/Writing - Voice 16/media/media/image6.jpeg)
 
-![\[Illustration\]](assets/Writing - Voice 16/media/media/image7.jpeg){width="4.552083333333333in"
-height="3.7708333333333335in"}
+![\[Illustration\]](assets/Writing - Voice 16/media/media/image7.jpeg)
 
 > Chicken Little was in the woods.
 >
@@ -531,8 +523,7 @@ height="3.7708333333333335in"}
 > \"The sky is falling. \
 > I will run.\"
 >
-> ![\[Illustration\]](assets/Writing - Voice 16/media/media/image8.jpeg){width="4.583333333333333in"
-> height="2.53125in"}
+> ![\[Illustration\]](assets/Writing - Voice 16/media/media/image8.jpeg)
 >
 > Chicken Little met Henny Penny.
 >
@@ -546,8 +537,7 @@ height="3.7708333333333335in"}
 >
 > \"We will run and tell the king.\"
 >
-> ![\[Illustration\]](assets/Writing - Voice 16/media/media/image9.jpeg){width="4.479166666666667in"
-> height="2.34375in"}
+> ![\[Illustration\]](assets/Writing - Voice 16/media/media/image9.jpeg)
 
 They met Turkey Lurkey.
 
@@ -564,8 +554,7 @@ tail.\"
 
 Turkey Lurkey said, \"We will run. We will run and tell the king.\"
 
-![\[Illustration\]](assets/Writing - Voice 16/media/media/image10.jpeg){width="4.53125in"
-height="1.9270833333333333in"}
+![\[Illustration\]](assets/Writing - Voice 16/media/media/image10.jpeg)
 
 They met Ducky Lucky.
 
@@ -586,8 +575,7 @@ tail.\"
 
 Ducky Lucky said, \"We will run. We will run and tell the king.\"
 
-![\[Illustration\]](assets/Writing - Voice 16/media/media/image11.jpeg){width="4.520833333333333in"
-height="2.4895833333333335in"}
+![\[Illustration\]](assets/Writing - Voice 16/media/media/image11.jpeg)
 
 They met Goosey Loosey.
 
@@ -612,8 +600,7 @@ tail.\"
 
 Goosey Loosey said, \"We will run, We will run and tell the king.\"
 
-![\[Illustration\]](assets/Writing - Voice 16/media/media/image12.jpeg){width="4.552083333333333in"
-height="3.2604166666666665in"}
+![\[Illustration\]](assets/Writing - Voice 16/media/media/image12.jpeg)
 
 They met Foxy Loxy.
 
@@ -640,8 +627,7 @@ Goosey Loosey said, \"The sky is falling, Foxy Loxy.\"
 \"I saw it with my eyes. I heard it with my ears. Some of it fell on my
 tail.\"
 
-![\[Illustration\]](assets/Writing - Voice 16/media/media/image13.jpeg){width="4.520833333333333in"
-height="3.0520833333333335in"}
+![\[Illustration\]](assets/Writing - Voice 16/media/media/image13.jpeg)
 
 > Foxy Loxy said, \
 > \"We will run. \
@@ -652,8 +638,7 @@ height="3.0520833333333335in"}
 >
 > But they did not come out again.
 
-![6592](assets/Writing - Voice 16/media/media/image14.jpeg){width="3.2604166666666665in"
-height="4.166666666666667in"}
+![6592](assets/Writing - Voice 16/media/media/image14.jpeg)
 
 **Where's the Big bad Wolf? Eileen Christelow**
 
@@ -681,8 +666,7 @@ Of course, I decided to turn that news item into a picture book! But as
 I wrote, I realised that the story of a trial is all talk and no action.
 Picture books need action! So, I found myself writing a mystery.
 
-![http://www.christelow.com/images/doggedly%20catches%20bbw.png](assets/Writing - Voice 16/media/media/image15.png){width="5.958333333333333in"
-height="5.489583333333333in"}
+![http://www.christelow.com/images/doggedly%20catches%20bbw.png](assets/Writing - Voice 16/media/media/image15.png)
 
 The Writing:         
 
@@ -697,8 +681,7 @@ black Calli ink. I photocopied the line onto Whatman 90 lb cold press
 watercolour paper. I painted the illustrations with Holbein acrylic
 gouache. 
 
-![http://www.christelow.com/images/bbw%20-p%208-9.jpg](assets/Writing - Voice 16/media/media/image16.jpeg){width="6.268055555555556in"
-height="4.017556867891513in"}
+![http://www.christelow.com/images/bbw%20-p%208-9.jpg](assets/Writing - Voice 16/media/media/image16.jpeg)
 
 Eileen Christelow, author and Illustrator of many popular picture books
 for children, was born in Washington DC. She grew up there and in
@@ -932,82 +915,57 @@ They're getting lots of advice from a horse who just moved to town.
 There is something mighty strange about that horse, but I just can't put
 my paw on what it is.
 
-![http://www.christelow.com/images/ec%20bio%20-1-u4036.png](assets/Writing - Voice 16/media/media/image17.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/ec%20bio%20-1-u4036.png](assets/Writing - Voice 16/media/media/image17.png)
 
-![http://www.christelow.com/images/auto%20bio%20frame%20-2-u4051.png](assets/Writing - Voice 16/media/media/image18.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/auto%20bio%20frame%20-2-u4051.png](assets/Writing - Voice 16/media/media/image18.png)
 
-![http://www.christelow.com/images/3%20ec%20bio-u4071.png](assets/Writing - Voice 16/media/media/image19.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/3%20ec%20bio-u4071.png](assets/Writing - Voice 16/media/media/image19.png)
 
-![http://www.christelow.com/images/4%20ec%20bio-u4086.png](assets/Writing - Voice 16/media/media/image20.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/4%20ec%20bio-u4086.png](assets/Writing - Voice 16/media/media/image20.png)
 
-![http://www.christelow.com/images/5%20ec%20bio-u4101.png](assets/Writing - Voice 16/media/media/image21.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/5%20ec%20bio-u4101.png](assets/Writing - Voice 16/media/media/image21.png)
 
-![http://www.christelow.com/images/6%20ec%20bio-u4116.png](assets/Writing - Voice 16/media/media/image22.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/6%20ec%20bio-u4116.png](assets/Writing - Voice 16/media/media/image22.png)
 
-![http://www.christelow.com/images/7%20ec%20bio-u4131.png](assets/Writing - Voice 16/media/media/image23.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/7%20ec%20bio-u4131.png](assets/Writing - Voice 16/media/media/image23.png)
 
-![http://www.christelow.com/images/8%20ec%20bio-u4146.png](assets/Writing - Voice 16/media/media/image24.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/8%20ec%20bio-u4146.png](assets/Writing - Voice 16/media/media/image24.png)
 
-![http://www.christelow.com/images/9%20ec%20bio-u4161.png](assets/Writing - Voice 16/media/media/image25.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/9%20ec%20bio-u4161.png](assets/Writing - Voice 16/media/media/image25.png)
 
-![http://www.christelow.com/images/10%20ec%20bio-u4181.png](assets/Writing - Voice 16/media/media/image26.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/10%20ec%20bio-u4181.png](assets/Writing - Voice 16/media/media/image26.png)
 
-![http://www.christelow.com/images/11%20ec%20bio-u4196.png](assets/Writing - Voice 16/media/media/image27.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/11%20ec%20bio-u4196.png](assets/Writing - Voice 16/media/media/image27.png)
 
-![http://www.christelow.com/images/12%20ec%20bio-u4211.png](assets/Writing - Voice 16/media/media/image28.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/12%20ec%20bio-u4211.png](assets/Writing - Voice 16/media/media/image28.png)
 
-![http://www.christelow.com/images/13%20ec%20bio-u4230.png](assets/Writing - Voice 16/media/media/image29.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/13%20ec%20bio-u4230.png](assets/Writing - Voice 16/media/media/image29.png)
 
-![http://www.christelow.com/images/13-b%20the%20library-u4334.png](assets/Writing - Voice 16/media/media/image30.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/13-b%20the%20library-u4334.png](assets/Writing - Voice 16/media/media/image30.png)
 
-![http://www.christelow.com/images/first%20chap%20bk%20-1-u4392.png](assets/Writing - Voice 16/media/media/image31.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/first%20chap%20bk%20-1-u4392.png](assets/Writing - Voice 16/media/media/image31.png)
 
-![http://www.christelow.com/images/first%20chap%20bk%20-2-u4412.png](assets/Writing - Voice 16/media/media/image32.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/first%20chap%20bk%20-2-u4412.png](assets/Writing - Voice 16/media/media/image32.png)
 
-![http://www.christelow.com/images/13-a%20ec%20bio-u4367.png](assets/Writing - Voice 16/media/media/image33.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/13-a%20ec%20bio-u4367.png](assets/Writing - Voice 16/media/media/image33.png)
 
-![http://www.christelow.com/images/14%20ec%20bio-u4244.png](assets/Writing - Voice 16/media/media/image34.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/14%20ec%20bio-u4244.png](assets/Writing - Voice 16/media/media/image34.png)
 
-![http://www.christelow.com/images/15%20ec%20bio-u4259.png](assets/Writing - Voice 16/media/media/image35.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/15%20ec%20bio-u4259.png](assets/Writing - Voice 16/media/media/image35.png)
 
-![http://www.christelow.com/images/16%20ec%20bio-u5241.png](assets/Writing - Voice 16/media/media/image36.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/16%20ec%20bio-u5241.png](assets/Writing - Voice 16/media/media/image36.png)
 
-![http://www.christelow.com/images/17%20ec%20bio-u5256.png](assets/Writing - Voice 16/media/media/image37.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/17%20ec%20bio-u5256.png](assets/Writing - Voice 16/media/media/image37.png)
 
-![http://www.christelow.com/images/18%20ec%20bio-u5315.png](assets/Writing - Voice 16/media/media/image38.png){width="6.268055555555556in"
-height="2.8945275590551183in"}
+![http://www.christelow.com/images/18%20ec%20bio-u5315.png](assets/Writing - Voice 16/media/media/image38.png)
 
-![http://www.christelow.com/images/emma%20complains-u3398.png](assets/Writing - Voice 16/media/media/image39.png){width="2.0729166666666665in"
-height="1.53125in"}
+![http://www.christelow.com/images/emma%20complains-u3398.png](assets/Writing - Voice 16/media/media/image39.png)
 
-![http://www.christelow.com/images/ltrs%20from%20cover.jpg](assets/Writing - Voice 16/media/media/image40.jpeg){width="2.5208333333333335in"
-height="3.3645833333333335in"}
+![http://www.christelow.com/images/ltrs%20from%20cover.jpg](assets/Writing - Voice 16/media/media/image40.jpeg)
 
 **Letters from a Desperate Dog Eileen Christelow**
 
-![http://www.christelow.com/images/emma%20reads%20paper.png](assets/Writing - Voice 16/media/media/image41.png){width="3.34375in"
-height="2.8541666666666665in"}
+![http://www.christelow.com/images/emma%20reads%20paper.png](assets/Writing - Voice 16/media/media/image41.png)
 
 **Facts about the Desperate Dog:**
 
@@ -1054,11 +1012,9 @@ important to have the surprises happen when the reader turns the page.
 
    The illustrations were done with pen and ink and watercolour.
 
-![http://www.christelow.com/images/ltrs%20desp%20dog-p4-5.jpg](assets/Writing - Voice 16/media/media/image42.jpeg){width="6.268055555555556in"
-height="4.1731397637795276in"}
+![http://www.christelow.com/images/ltrs%20desp%20dog-p4-5.jpg](assets/Writing - Voice 16/media/media/image42.jpeg)
 
-![http://www.christelow.com/images/desp%20d%20og%20writes%20again.jpg](assets/Writing - Voice 16/media/media/image43.jpeg){width="2.15625in"
-height="2.8229166666666665in"}
+![http://www.christelow.com/images/desp%20d%20og%20writes%20again.jpg](assets/Writing - Voice 16/media/media/image43.jpeg)
 
 **The Desperate Dog Writes Again Eileen Christelow**
 
@@ -1075,15 +1031,12 @@ of course! But this may be one problem that even *Dear Queenie* can\'t
 solve. Will Emma be able to regain her position as top dog of the
 household? Will her happy home ever be the same again?
 
-![http://www.christelow.com/images/smiling%20emma%20-3.png](assets/Writing - Voice 16/media/media/image44.png){width="2.4166666666666665in"
-height="2.7667847769028873in"}
+![http://www.christelow.com/images/smiling%20emma%20-3.png](assets/Writing - Voice 16/media/media/image44.png)
 
-![http://www.christelow.com/images/desp%20dog%2018-19.jpg](assets/Writing - Voice 16/media/media/image45.jpeg){width="6.268055555555556in"
-height="4.08713801399825in"}
+![http://www.christelow.com/images/desp%20dog%2018-19.jpg](assets/Writing - Voice 16/media/media/image45.jpeg)
 
 **Writing Letters From a Pet\'s Point of View**
-![http://www.christelow.com/images/smile%20em%20-2.png](assets/Writing - Voice 16/media/media/image46.png){width="1.78125in"
-height="2.0in"}
+![http://www.christelow.com/images/smile%20em%20-2.png](assets/Writing - Voice 16/media/media/image46.png)
 
 When I presented this book to a group of teachers in Kansas, one said,
 \"I know exactly what I\'m going to do with this book! A letter-writing
@@ -1119,8 +1072,7 @@ Then have them write Queenie\'s replies to those letters. 
 3\. Guess what! You\'ve been brainstorming stories.
 
 4\. Write the story!
-![http://www.christelow.com/images/i%20e-mail%20queenie.jpg](assets/Writing - Voice 16/media/media/image47.jpeg){width="2.6041666666666665in"
-height="2.15625in"}
+![http://www.christelow.com/images/i%20e-mail%20queenie.jpg](assets/Writing - Voice 16/media/media/image47.jpeg)
 
 **Writing with Pictures:**
 
@@ -1133,11 +1085,9 @@ are ROUGH DRAFTS\...or \'Sloppy Copies\'.
     Below is a storyboard for Letters From a Desperate Dog. It shows how
 I first imagined the scene where the dog, Emma, discovers a mouse.
 
-![http://www.christelow.com/images/desp%20dog%20storybd%20-1.jpg](assets/Writing - Voice 16/media/media/image48.jpeg){width="5.614583333333333in"
-height="4.395833333333333in"}
+![http://www.christelow.com/images/desp%20dog%20storybd%20-1.jpg](assets/Writing - Voice 16/media/media/image48.jpeg)
 
-![http://www.christelow.com/images/desp%20dog%20storyboard%20-2.jpg](assets/Writing - Voice 16/media/media/image49.jpeg){width="6.268055555555556in"
-height="4.1059405074365705in"}
+![http://www.christelow.com/images/desp%20dog%20storyboard%20-2.jpg](assets/Writing - Voice 16/media/media/image49.jpeg)
 
 ***Many, many sketches later:***
 
@@ -1149,17 +1099,13 @@ and the cat hear a mouse! What is going to happen next? With picture
 books the question is answered when you turn the page. Since this is  a
 website, you\'ll need to scroll down instead. But look at the book too!*
 
-![http://www.christelow.com/images/p13%20desp%20dog-1.jpg](assets/Writing - Voice 16/media/media/image50.jpeg){width="3.4166666666666665in"
-height="4.416666666666667in"}
+![http://www.christelow.com/images/p13%20desp%20dog-1.jpg](assets/Writing - Voice 16/media/media/image50.jpeg)
 
-![http://www.christelow.com/images/14-15%20ltrs%20fr%20desp%20dog.jpg](assets/Writing - Voice 16/media/media/image51.jpeg){width="6.268055555555556in"
-height="4.130562117235345in"}
+![http://www.christelow.com/images/14-15%20ltrs%20fr%20desp%20dog.jpg](assets/Writing - Voice 16/media/media/image51.jpeg)
 
-![http://www.christelow.com/images/16-17%20ltrs%20fr%20desp%20dog.jpg](assets/Writing - Voice 16/media/media/image52.jpeg){width="6.268055555555556in"
-height="4.0439063867016625in"}
+![http://www.christelow.com/images/16-17%20ltrs%20fr%20desp%20dog.jpg](assets/Writing - Voice 16/media/media/image52.jpeg)
 
-![http://www.christelow.com/images/pig%20escape%20cover.jpg](assets/Writing - Voice 16/media/media/image53.jpeg){width="2.7708333333333335in"
-height="2.375in"}
+![http://www.christelow.com/images/pig%20escape%20cover.jpg](assets/Writing - Voice 16/media/media/image53.jpeg)
 
 **The Great Pig Escape Eileen Christelow**
 
@@ -1228,15 +1174,12 @@ writing.
 
 That one little news item eventually led to TWO books!
 
-![http://www.christelow.com/images/pig%20escape-%20the%20pigs%20ge.png](assets/Writing - Voice 16/media/media/image54.png){width="6.268055555555556in"
-height="1.7840463692038495in"}
+![http://www.christelow.com/images/pig%20escape-%20the%20pigs%20ge.png](assets/Writing - Voice 16/media/media/image54.png)
 
-![http://www.christelow.com/images/hog%20wild%20day-key.png](assets/Writing - Voice 16/media/media/image55.png){width="3.65625in"
-height="3.6145833333333335in"}
+![http://www.christelow.com/images/hog%20wild%20day-key.png](assets/Writing - Voice 16/media/media/image55.png)
 
 The Story:
-![http://www.christelow.com/images/pigs%20in%20truck.png](assets/Writing - Voice 16/media/media/image56.png){width="4.166666666666667in"
-height="3.9166666666666665in"}
+![http://www.christelow.com/images/pigs%20in%20truck.png](assets/Writing - Voice 16/media/media/image56.png)
 
 Bert and Ethel grow the best vegetables around. But then, Bert decides
 they should raise a few pigs as well. \"Sounds like trouble to me,\"
@@ -1248,8 +1191,7 @@ loading the truck, to a big surprise at the market. What has happened to
 those pigs? Well, their secret is hilariously revealed when our hapless
 farmers receive a mysterious postcard from Florida!
 
-![http://www.christelow.com/images/pig%20escape-%2016-17.jpg](assets/Writing - Voice 16/media/media/image57.jpeg){width="6.268055555555556in"
-height="2.988974190726159in"}
+![http://www.christelow.com/images/pig%20escape-%2016-17.jpg](assets/Writing - Voice 16/media/media/image57.jpeg)
 
 **The Great Pig Escape Eileen Christelow**
 
@@ -1425,14 +1367,11 @@ beach.
 
 On the other side, it said,
 
-![http://www.christelow.com/images/postcard%20fr%20pigs-u6270.png](assets/Writing - Voice 16/media/media/image58.png){width="3.1041666666666665in"
-height="2.1875in"}
+![http://www.christelow.com/images/postcard%20fr%20pigs-u6270.png](assets/Writing - Voice 16/media/media/image58.png)
 
-![http://www.christelow.com/images/pig%20spot%20smile.png](assets/Writing - Voice 16/media/media/image59.png){width="4.114583333333333in"
-height="2.6041666666666665in"}
+![http://www.christelow.com/images/pig%20spot%20smile.png](assets/Writing - Voice 16/media/media/image59.png)
 
-![http://www.christelow.com/images/pig%20search%20cover.jpg](assets/Writing - Voice 16/media/media/image60.jpeg){width="2.78125in"
-height="2.3541666666666665in"}
+![http://www.christelow.com/images/pig%20search%20cover.jpg](assets/Writing - Voice 16/media/media/image60.jpeg)
 
 **The Great Pig Search Eileen Christelow**
 
@@ -1447,8 +1386,7 @@ the Sunshine State. Ethel wants to sit on the beach and dance under the
 stars, but Bert has something else in mind. He\'s determined to find his
 postcard-writing runaway pigs and bring them home!
 
-![http://www.christelow.com/images/postcard%20fr%20pigs-u6270.png](assets/Writing - Voice 16/media/media/image58.png){width="3.1041666666666665in"
-height="2.1875in"}
+![http://www.christelow.com/images/postcard%20fr%20pigs-u6270.png](assets/Writing - Voice 16/media/media/image58.png)
 
    Are there pigs hiding under those beach umbrellas, or rocking and
 rolling to the tunes of the *Squealers*? Read the book and discover for
@@ -1456,121 +1394,84 @@ yourself just who is hamming it up under the stars.
 
 *(And take a close look at the picture below!)*
 
-![http://www.christelow.com/images/pig%20search%2014-15.jpg](assets/Writing - Voice 16/media/media/image61.jpeg){width="6.268055555555556in"
-height="2.8841819772528434in"}
+![http://www.christelow.com/images/pig%20search%2014-15.jpg](assets/Writing - Voice 16/media/media/image61.jpeg)
 
-![http://www.christelow.com/images/pig%20spot%20strip.png](assets/Writing - Voice 16/media/media/image62.png){width="6.268055555555556in"
-height="1.8041830708661417in"}
+![http://www.christelow.com/images/pig%20spot%20strip.png](assets/Writing - Voice 16/media/media/image62.png)
 
-![http://www.christelow.com/images/pig%20spot%20-2.png](assets/Writing - Voice 16/media/media/image63.png){width="3.5625in"
-height="2.6041666666666665in"}
+![http://www.christelow.com/images/pig%20spot%20-2.png](assets/Writing - Voice 16/media/media/image63.png)
 
-![http://www.christelow.com/images/pig%20spot%20-3.png](assets/Writing - Voice 16/media/media/image64.png){width="3.5625in"
-height="2.6041666666666665in"}
+![http://www.christelow.com/images/pig%20spot%20-3.png](assets/Writing - Voice 16/media/media/image64.png)
 
-![http://www.christelow.com/images/2nd%20story%20-1-u4529.png](assets/Writing - Voice 16/media/media/image65.png){width="6.268055555555556in"
-height="3.0241207349081365in"}
+![http://www.christelow.com/images/2nd%20story%20-1-u4529.png](assets/Writing - Voice 16/media/media/image65.png)
 
-![http://www.christelow.com/images/2nd%20story%20-2-u4544.png](assets/Writing - Voice 16/media/media/image66.png){width="6.268055555555556in"
-height="3.0241207349081365in"}
+![http://www.christelow.com/images/2nd%20story%20-2-u4544.png](assets/Writing - Voice 16/media/media/image66.png)
 
-![http://www.christelow.com/images/2nd%20story%20-3-u4558.png](assets/Writing - Voice 16/media/media/image67.png){width="6.268055555555556in"
-height="3.0241207349081365in"}
+![http://www.christelow.com/images/2nd%20story%20-3-u4558.png](assets/Writing - Voice 16/media/media/image67.png)
 
-![http://www.christelow.com/images/2nd%20story%20-4-u4573.png](assets/Writing - Voice 16/media/media/image68.png){width="6.268055555555556in"
-height="3.0241207349081365in"}
+![http://www.christelow.com/images/2nd%20story%20-4-u4573.png](assets/Writing - Voice 16/media/media/image68.png)
 
-![http://www.christelow.com/images/2nd%20story%20-5-u4588.png](assets/Writing - Voice 16/media/media/image69.png){width="6.268055555555556in"
-height="3.0241207349081365in"}
+![http://www.christelow.com/images/2nd%20story%20-5-u4588.png](assets/Writing - Voice 16/media/media/image69.png)
 
-![http://www.christelow.com/images/2nd%20story%20-6-u4603.png](assets/Writing - Voice 16/media/media/image70.png){width="6.268055555555556in"
-height="3.0241207349081365in"}
+![http://www.christelow.com/images/2nd%20story%20-6-u4603.png](assets/Writing - Voice 16/media/media/image70.png)
 
-![http://www.christelow.com/images/2nd%20story%20-7-u4618.png](assets/Writing - Voice 16/media/media/image71.png){width="6.268055555555556in"
-height="3.0241207349081365in"}
+![http://www.christelow.com/images/2nd%20story%20-7-u4618.png](assets/Writing - Voice 16/media/media/image71.png)
 
-![http://www.christelow.com/images/2nd%20story%20-8-u4633.png](assets/Writing - Voice 16/media/media/image72.png){width="6.268055555555556in"
-height="3.0241207349081365in"}
+![http://www.christelow.com/images/2nd%20story%20-8-u4633.png](assets/Writing - Voice 16/media/media/image72.png)
 
-![http://www.christelow.com/images/2nd%20story%20-9-u4687.png](assets/Writing - Voice 16/media/media/image73.png){width="6.268055555555556in"
-height="3.0241207349081365in"}
+![http://www.christelow.com/images/2nd%20story%20-9-u4687.png](assets/Writing - Voice 16/media/media/image73.png)
 
-![http://www.christelow.com/images/2nd%20story%20-10-u4702.png](assets/Writing - Voice 16/media/media/image74.png){width="6.268055555555556in"
-height="3.0241207349081365in"}
+![http://www.christelow.com/images/2nd%20story%20-10-u4702.png](assets/Writing - Voice 16/media/media/image74.png)
 
-![http://www.christelow.com/images/2nd%20story%20-11%20-new-u4716.png](assets/Writing - Voice 16/media/media/image75.png){width="6.268055555555556in"
-height="3.0241207349081365in"}
+![http://www.christelow.com/images/2nd%20story%20-11%20-new-u4716.png](assets/Writing - Voice 16/media/media/image75.png)
 
-![http://www.christelow.com/images/2nd%20story%20-12-new-u8088.png](assets/Writing - Voice 16/media/media/image76.png){width="6.268055555555556in"
-height="3.0241207349081365in"}
+![http://www.christelow.com/images/2nd%20story%20-12-new-u8088.png](assets/Writing - Voice 16/media/media/image76.png)
 
-![http://www.christelow.com/images/2nd%20story%20-13-u8109.png](assets/Writing - Voice 16/media/media/image77.png){width="6.268055555555556in"
-height="3.0241207349081365in"}
+![http://www.christelow.com/images/2nd%20story%20-13-u8109.png](assets/Writing - Voice 16/media/media/image77.png)
 
-![http://www.christelow.com/images/2nd%20story%20-14%20new-u8124.png](assets/Writing - Voice 16/media/media/image78.png){width="6.268055555555556in"
-height="3.0241207349081365in"}
+![http://www.christelow.com/images/2nd%20story%20-14%20new-u8124.png](assets/Writing - Voice 16/media/media/image78.png)
 
-![http://www.christelow.com/images/emma%20goes%20to%20interview-u3851.png](assets/Writing - Voice 16/media/media/image79.png){width="4.552083333333333in"
-height="3.1666666666666665in"}
+![http://www.christelow.com/images/emma%20goes%20to%20interview-u3851.png](assets/Writing - Voice 16/media/media/image79.png)
 
 ![All About
-Emma!](assets/Writing - Voice 16/media/media/image80.png){width="2.9791666666666665in"
-height="0.4375in"}
+Emma!](assets/Writing - Voice 16/media/media/image80.png)
 
 *Emma is our canine housemate, my website advisor and interviewer,
 subject of the Desperate Dog books\...and my muse! This is her TRUE
 story.*
 
-![http://www.christelow.com/images/1%20emma-s%20story-u4866.png](assets/Writing - Voice 16/media/media/image81.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/1%20emma-s%20story-u4866.png](assets/Writing - Voice 16/media/media/image81.png)
 
-![http://www.christelow.com/images/2%20emma-s%20story-u4887.png](assets/Writing - Voice 16/media/media/image82.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/2%20emma-s%20story-u4887.png](assets/Writing - Voice 16/media/media/image82.png)
 
-![http://www.christelow.com/images/3%20emma-s%20story-u4902.png](assets/Writing - Voice 16/media/media/image83.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/3%20emma-s%20story-u4902.png](assets/Writing - Voice 16/media/media/image83.png)
 
-![http://www.christelow.com/images/4%20emma-s%20story-u4922.png](assets/Writing - Voice 16/media/media/image84.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/4%20emma-s%20story-u4922.png](assets/Writing - Voice 16/media/media/image84.png)
 
-![http://www.christelow.com/images/5emma-s%20story-u4937.png](assets/Writing - Voice 16/media/media/image85.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/5emma-s%20story-u4937.png](assets/Writing - Voice 16/media/media/image85.png)
 
-![http://www.christelow.com/images/6%20emmma-s%20story-u4952.png](assets/Writing - Voice 16/media/media/image86.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/6%20emmma-s%20story-u4952.png](assets/Writing - Voice 16/media/media/image86.png)
 
-![http://www.christelow.com/images/7%20emma-s%20story-u4967.png](assets/Writing - Voice 16/media/media/image87.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/7%20emma-s%20story-u4967.png](assets/Writing - Voice 16/media/media/image87.png)
 
-![http://www.christelow.com/images/8%20emma-s%20story-u4982.png](assets/Writing - Voice 16/media/media/image88.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/8%20emma-s%20story-u4982.png](assets/Writing - Voice 16/media/media/image88.png)
 
-![http://www.christelow.com/images/9%20emma-s%20story-u4997.png](assets/Writing - Voice 16/media/media/image89.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/9%20emma-s%20story-u4997.png](assets/Writing - Voice 16/media/media/image89.png)
 
-![http://www.christelow.com/images/10%20emma-s%20story-u5012.png](assets/Writing - Voice 16/media/media/image90.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/10%20emma-s%20story-u5012.png](assets/Writing - Voice 16/media/media/image90.png)
 
-![http://www.christelow.com/images/11%20emma-s%20story-u5027.png](assets/Writing - Voice 16/media/media/image91.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/11%20emma-s%20story-u5027.png](assets/Writing - Voice 16/media/media/image91.png)
 
-![http://www.christelow.com/images/12%20emma-s%20story-u5042.png](assets/Writing - Voice 16/media/media/image92.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/12%20emma-s%20story-u5042.png](assets/Writing - Voice 16/media/media/image92.png)
 
-![http://www.christelow.com/images/13%20emma-s%20story-u5057.png](assets/Writing - Voice 16/media/media/image93.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/13%20emma-s%20story-u5057.png](assets/Writing - Voice 16/media/media/image93.png)
 
-![http://www.christelow.com/images/14%20emma-s%20story-u5072.png](assets/Writing - Voice 16/media/media/image94.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/14%20emma-s%20story-u5072.png](assets/Writing - Voice 16/media/media/image94.png)
 
-![http://www.christelow.com/images/15-16%20emma-s%20story-u5087.png](assets/Writing - Voice 16/media/media/image95.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/15-16%20emma-s%20story-u5087.png](assets/Writing - Voice 16/media/media/image95.png)
 
-![http://www.christelow.com/images/17%20emma-s%20story-u5102.png](assets/Writing - Voice 16/media/media/image96.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/17%20emma-s%20story-u5102.png](assets/Writing - Voice 16/media/media/image96.png)
 
-![http://www.christelow.com/images/18%20emma-s%20story-u8142.png](assets/Writing - Voice 16/media/media/image97.png){width="6.268055555555556in"
-height="2.7956758530183725in"}
+![http://www.christelow.com/images/18%20emma-s%20story-u8142.png](assets/Writing - Voice 16/media/media/image97.png)
 
 **Eileen Christelow**
 
@@ -1589,8 +1490,7 @@ our website interviewer and the inspiration for the Desperate Dog books.
 
 Her daughter is grown and lives in Chicago.
 
-![http://www.christelow.com/images/-47%20eileen%20w%20parents%20-2-u5607.png](assets/Writing - Voice 16/media/media/image98.png){width="2.9895833333333335in"
-height="3.8125in"}Me with my parents, before my brother was born. My dad
+![http://www.christelow.com/images/-47%20eileen%20w%20parents%20-2-u5607.png](assets/Writing - Voice 16/media/media/image98.png)Me with my parents, before my brother was born. My dad
 was from England, my mum was from Vermont.
 
 Books were a part of life in my family. My parents read bedtime stories
@@ -1607,23 +1507,19 @@ fines when they were overdue. Much of my early childhood was spent
 slouched in an armchair or up in a tree house with my nose in a book . .
 . A good early education for a writer!
 
-![http://www.christelow.com/images/picture%20books-u5509.png](assets/Writing - Voice 16/media/media/image99.png){width="4.875in"
-height="2.6770833333333335in"}
+![http://www.christelow.com/images/picture%20books-u5509.png](assets/Writing - Voice 16/media/media/image99.png)
 
 I still have some of my favourite childhood books.
 
-![http://www.christelow.com/images/chapter%20bks-u5503.png](assets/Writing - Voice 16/media/media/image100.png){width="3.5729166666666665in"
-height="2.4583333333333335in"}
+![http://www.christelow.com/images/chapter%20bks-u5503.png](assets/Writing - Voice 16/media/media/image100.png)
 
-![http://www.christelow.com/images/eileen%20w%20allan%20backyard-u5601.png](assets/Writing - Voice 16/media/media/image101.png){width="3.21875in"
-height="4.260416666666667in"} Cooling off in the backyard with my
+![http://www.christelow.com/images/eileen%20w%20allan%20backyard-u5601.png](assets/Writing - Voice 16/media/media/image101.png) Cooling off in the backyard with my
 brother---Washington DC. We lived there until I was ten.
 
 With cousins and babysitter at our grandparents\' farm in Vermont. We
 went there for a week or two every summer.
 
-![http://www.christelow.com/images/e%20w%20cousins%20back%20of%20pickup.png](assets/Writing - Voice 16/media/media/image102.png){width="6.260416666666667in"
-height="3.4895833333333335in"}
+![http://www.christelow.com/images/e%20w%20cousins%20back%20of%20pickup.png](assets/Writing - Voice 16/media/media/image102.png)
 
 I discovered WRITING thanks to two dynamic English teachers: one in the
 eighth grade, another in high school. I planned to major in English at
@@ -1639,8 +1535,7 @@ demonstrations---life in the sixties!
 
 And, I met and married my husband, Ahren.
 
-![http://www.christelow.com/images/photo%20collage%20-2-u5575.png](assets/Writing - Voice 16/media/media/image103.png){width="6.268055555555556in"
-height="3.374382108486439in"}
+![http://www.christelow.com/images/photo%20collage%20-2-u5575.png](assets/Writing - Voice 16/media/media/image103.png)
 
 In the early seventies, we spent an eventful year in England. Ahren
 apprenticed to potter, Michael Cardew, and our daughter, Heather was
@@ -1649,12 +1544,10 @@ born.
 A year later, we were living in Berkeley, California. Ahren started
 Colusa Pottery while I freelanced as a graphic designer/photographer.
 
-![http://www.christelow.com/images/heather%20-2-u5616.png](assets/Writing - Voice 16/media/media/image104.png){width="2.5in"
-height="3.1875in"}Daughter Heather
+![http://www.christelow.com/images/heather%20-2-u5616.png](assets/Writing - Voice 16/media/media/image104.png)Daughter Heather
 
 Learning to make pots with Dad
-![http://www.christelow.com/images/h%20-%20a%20potting-u5622.png](assets/Writing - Voice 16/media/media/image105.png){width="2.6041666666666665in"
-height="3.3020833333333335in"}
+![http://www.christelow.com/images/h%20-%20a%20potting-u5622.png](assets/Writing - Voice 16/media/media/image105.png)
 
 Heather and I went to the library once or twice a week and borrowed
 piles of books to read at bedtime, nap time, and times in between. I was
@@ -1669,8 +1562,7 @@ Unfortunately, no one wanted to publish my alphabet book!
 
 They all said, \"Write a story. Come back and see us\...\"
 
-![http://www.christelow.com/images/mice%20alphabet-u5636.png](assets/Writing - Voice 16/media/media/image106.png){width="3.0625in"
-height="3.5208333333333335in"}
+![http://www.christelow.com/images/mice%20alphabet-u5636.png](assets/Writing - Voice 16/media/media/image106.png)
 
 Five or six years and many story attempts later, I had completed two
 illustrated dummies. I went back to New York and sold them both. I had
@@ -1678,19 +1570,16 @@ finally learned to tell a story with pictures!
 
 And we also moved to Vermont--- an eventful year!
 
-![http://www.christelow.com/images/h%20-%20red%20stripes.jpg](assets/Writing - Voice 16/media/media/image107.jpeg){width="2.6041666666666665in"
-height="3.2916666666666665in"} First book.
+![http://www.christelow.com/images/h%20-%20red%20stripes.jpg](assets/Writing - Voice 16/media/media/image107.jpeg) First book.
 
-![http://www.christelow.com/images/author%20photo%20-3.jpg](assets/Writing - Voice 16/media/media/image108.jpeg){width="3.7708333333333335in"
-height="2.8229166666666665in"} Me
+![http://www.christelow.com/images/author%20photo%20-3.jpg](assets/Writing - Voice 16/media/media/image108.jpeg) Me
 
 Many years and books later, we\'re still in Vermont. I\'m on top of
 Ascutney Mountain which looks out over my grandparent\'s old farm. My
 cousins and I still come up here and remember those years when we were
 kids.
 
-![http://www.christelow.com/images/author%20vis%20intro%20pic.png](assets/Writing - Voice 16/media/media/image109.png){width="6.268055555555556in"
-height="3.8070800524934385in"}
+![http://www.christelow.com/images/author%20vis%20intro%20pic.png](assets/Writing - Voice 16/media/media/image109.png)
 
 **What DO authors and illustrators do?**
 
@@ -1699,8 +1588,7 @@ these ideas were developed by several teachers and librarians for the
 Vermont Red Clover Award program, Vermont\'s Children\'s Choice Picture
 Book Award.*
 
-![http://www.christelow.com/images/authors%20-1.jpg](assets/Writing - Voice 16/media/media/image110.jpeg){width="6.268055555555556in"
-height="1.871061898512686in"}
+![http://www.christelow.com/images/authors%20-1.jpg](assets/Writing - Voice 16/media/media/image110.jpeg)
 
 **Study the work of a favourite author:**
 
@@ -1734,11 +1622,9 @@ sad? How are they different? How are they the same?
 If your students have read What Do Authors Do? and What Do Illustrators
 Do?, they will have the tools for discussing these questions.
 
-![http://www.christelow.com/images/author%20-1%20-2.jpg](assets/Writing - Voice 16/media/media/image111.jpeg){width="6.268055555555556in"
-height="2.121496062992126in"}
+![http://www.christelow.com/images/author%20-1%20-2.jpg](assets/Writing - Voice 16/media/media/image111.jpeg)
 
-![http://www.christelow.com/images/illustrator%20desk.jpg](assets/Writing - Voice 16/media/media/image112.jpeg){width="5.739583333333333in"
-height="4.135416666666667in"}
+![http://www.christelow.com/images/illustrator%20desk.jpg](assets/Writing - Voice 16/media/media/image112.jpeg)
 
 **Study the work of a favourite Illustrator:**
 
@@ -1784,14 +1670,11 @@ colours?
 ---Find an energetic, fast moving story. What colours does the
 illustrator use? Are the illustrations energetic and active?
 
-![http://www.christelow.com/images/ilus%20discuss-1-u2147.png](assets/Writing - Voice 16/media/media/image113.png){width="4.5625in"
-height="2.375in"}
+![http://www.christelow.com/images/ilus%20discuss-1-u2147.png](assets/Writing - Voice 16/media/media/image113.png)
 
-![http://www.christelow.com/images/ilus%20discuss-2-u2153.png](assets/Writing - Voice 16/media/media/image114.png){width="4.239583333333333in"
-height="2.375in"}
+![http://www.christelow.com/images/ilus%20discuss-2-u2153.png](assets/Writing - Voice 16/media/media/image114.png)
 
-![http://www.christelow.com/images/designer-u2138.png](assets/Writing - Voice 16/media/media/image115.png){width="6.229166666666667in"
-height="2.4479166666666665in"}
+![http://www.christelow.com/images/designer-u2138.png](assets/Writing - Voice 16/media/media/image115.png)
 
 **How is a Book Designed?**
 
@@ -1815,11 +1698,9 @@ they are that colour? Do they pick up or complement another colour in
 the book? If the end papers are illustrated, do they hint at what might
 happen in the book?
 
-![http://www.christelow.com/images/kids-strip-u1654.png](assets/Writing - Voice 16/media/media/image116.png){width="6.268055555555556in"
-height="2.7130391513560803in"}
+![http://www.christelow.com/images/kids-strip-u1654.png](assets/Writing - Voice 16/media/media/image116.png)
 
-![http://www.christelow.com/images/eileen-christelow-drawing-animation.gif](assets/Writing - Voice 16/media/media/image117.gif){width="5.770833333333333in"
-height="3.529407261592301in"}
+![http://www.christelow.com/images/eileen-christelow-drawing-animation.gif](assets/Writing - Voice 16/media/media/image117.gif)
 
 **Same story---different author and illustrator:**
 
@@ -1833,14 +1714,11 @@ Read all of the versions and discuss the similarities and differences in
 both the text and illustrations, using some of the questions listed
 above.
 
-![http://www.christelow.com/images/illus%20idea-1.jpg](assets/Writing - Voice 16/media/media/image118.jpeg){width="5.635416666666667in"
-height="3.4067760279965005in"}
+![http://www.christelow.com/images/illus%20idea-1.jpg](assets/Writing - Voice 16/media/media/image118.jpeg)
 
-![http://www.christelow.com/images/author%20signs.jpg](assets/Writing - Voice 16/media/media/image119.jpeg){width="4.166666666666667in"
-height="3.0in"}
+![http://www.christelow.com/images/author%20signs.jpg](assets/Writing - Voice 16/media/media/image119.jpeg)
 
-![1717784](assets/Writing - Voice 16/media/media/image120.jpeg){width="2.6721970691163603in"
-height="3.2604166666666665in"}
+![1717784](assets/Writing - Voice 16/media/media/image120.jpeg)
 
 When is a rat not a rat? When Cinderella\'s fairy godmother turns him
 into a coachman - well, more of a coachboy. And what does the coachboy
@@ -1856,8 +1734,7 @@ her wit and animated artwork to give us a hilarious new take on an old
 tale in this story of an ordinary rat caught in extraordinary
 circumstances. 
 
-![http://3.bp.blogspot.com/-UGvheAHflbE/TaZJ8PJjysI/AAAAAAAADoQ/IDapbYAw5c4/s400/cinderella%2527s+rat.jpg](assets/Writing - Voice 16/media/media/image121.jpeg){width="2.055546806649169in"
-height="3.3020833333333335in"}
+![http://3.bp.blogspot.com/-UGvheAHflbE/TaZJ8PJjysI/AAAAAAAADoQ/IDapbYAw5c4/s400/cinderella%2527s+rat.jpg](assets/Writing - Voice 16/media/media/image121.jpeg)
 
 **Cinderella's Rat Susan Meddaugh**
 
@@ -1988,8 +1865,7 @@ scarce.
 
 Life is full of surprises, so you may as well get used to it.
 
-![Picture](assets/Writing - Voice 16/media/media/image122.jpeg){width="1.4375in"
-height="1.7708333333333333in"}
+![Picture](assets/Writing - Voice 16/media/media/image122.jpeg)
 
 Have you ever been so excited about something that you just have to
 share it with everyone as fast as you can? That is how Lily feels. She
@@ -2196,8 +2072,7 @@ That is, when she didn't want to be a dancer, or a surgeon or an
 ambulance driver or a diva or a pilot or a hairdresser or a scuba diver
 ...
 
-![Picture](assets/Writing - Voice 16/media/media/image123.jpeg){width="1.5416666666666667in"
-height="1.8958333333333333in"}
+![Picture](assets/Writing - Voice 16/media/media/image123.jpeg)
 
 Chrysanthemum is a name of a beautiful flower. It is also the name of a
 cute little mouse. Chrysanthemum loved her name. She loved the way it
@@ -2213,8 +2088,7 @@ teased about it at school. The expressive pictures and the cruel
 behaviour of the kids at school make this story one to read to your
 students when teaching them to identify authentic voice in a text.
 
-![http://ecx.images-amazon.com/images/I/51WHV8YFFYL.jpg](assets/Writing - Voice 16/media/media/image124.jpeg){width="4.947916666666667in"
-height="3.28125in"}
+![http://ecx.images-amazon.com/images/I/51WHV8YFFYL.jpg](assets/Writing - Voice 16/media/media/image124.jpeg)
 
 **Chrysanthemum**
 
@@ -2430,8 +2304,7 @@ of the Flowers.
 Eventually, Mrs Twinkle gave birth to a healthy baby girl. And, of
 course, she named her Chrysanthemum.
 
-![atlantic-by-g-brian-karas](assets/Writing - Voice 16/media/media/image125.jpeg){width="2.3125in"
-height="2.40625in"}
+![atlantic-by-g-brian-karas](assets/Writing - Voice 16/media/media/image125.jpeg)
 
 **Atlantic Brian Karas**
 
@@ -2752,8 +2625,7 @@ between Americas to the East of the Pacific Ocean basin and the Asian
 and Australian continents to the West as you can see on the map of the
 Pacific Ocean below:
 
-![Map/Still](assets/Writing - Voice 16/media/media/image126.png){width="4.802083333333333in"
-height="4.34375in"}
+![Map/Still](assets/Writing - Voice 16/media/media/image126.png)
 
 **Name**: What does pacific mean? Pacific means \"peaceful\", coming
 from the Latin \"pace\" for peace and the Pacific Ocean got its name
@@ -2779,8 +2651,7 @@ was formed by the collision of two tectonic plates.
 Why is it called Challenger Deep? Because it was researched by the HMS
 Challenger in 1875.
 
-![Pacific-Ocean-Map](assets/Writing - Voice 16/media/media/image127.png){width="5.5in"
-height="3.9583333333333335in"}
+![Pacific-Ocean-Map](assets/Writing - Voice 16/media/media/image127.png)
 
 **Volcanoes**: What is the ring of fire? Most of the volcanoes (actually
 75%) on earth are located in the Pacific Ocean basin, the volcanoes

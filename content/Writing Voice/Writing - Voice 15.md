@@ -10,13 +10,11 @@ strand: writing-voice
 >
 > **(15)**
 
-![http://rebeccahowden.com.au/wp-content/uploads/2012/06/woman-writing-thinking-fireworks211.png](assets/Writing - Voice 15/media/media/image1.png){width="5.916666666666667in"
-height="4.822916666666667in"}
+![http://rebeccahowden.com.au/wp-content/uploads/2012/06/woman-writing-thinking-fireworks211.png](assets/Writing - Voice 15/media/media/image1.png)
 
 Secondary
 
-![http://rebeccahowden.com.au/wp-content/uploads/2012/06/woman-writing-thinking-fireworks211.png](assets/Writing - Voice 15/media/media/image1.png){width="2.6452482502187227in"
-height="2.15625in"}
+![http://rebeccahowden.com.au/wp-content/uploads/2012/06/woman-writing-thinking-fireworks211.png](assets/Writing - Voice 15/media/media/image1.png)
 
 **Voice 15**
 
@@ -40,8 +38,7 @@ Rose Blanche Ian McEwan
 
 The Harmonica Tony Johnston
 
-![tumblr_mq1sehuw0T1rzgk7ao1_400](assets/Writing - Voice 15/media/media/image2.jpeg){width="3.856492782152231in"
-height="3.8854166666666665in"}
+![tumblr_mq1sehuw0T1rzgk7ao1_400](assets/Writing - Voice 15/media/media/image2.jpeg)
 
 **VOICE**
 
@@ -117,8 +114,7 @@ Look at:
 
 • personality: What do you show about yourself?
 
-![35305](assets/Writing - Voice 15/media/media/image3.jpeg){width="3.2604166666666665in"
-height="4.166666666666667in"}
+![35305](assets/Writing - Voice 15/media/media/image3.jpeg)
 
 Once upon a time in a place far away, lived a man named Gary Larson who
 used to draw cartoons. It was a cartoon that appeared for many years in
@@ -174,8 +170,7 @@ Question is, will you?
 **An Ecocentric Tale**
 
 ![Larson Worm
-superheroes](assets/Writing - Voice 15/media/media/image4.jpeg){width="4.135416666666667in"
-height="5.208333333333333in"}
+superheroes](assets/Writing - Voice 15/media/media/image4.jpeg)
 
 *Dirt* represents a rather subversive take on modern sanitised fairy
 tales from the beginning. The title itself foreshadows a shift in
@@ -205,8 +200,7 @@ hair that was on Junior's plate. It is indeed a happy ending -- just not
 for Harriet.
 
 ![Larson Worm story Dead
-Harriet](assets/Writing - Voice 15/media/media/image5.jpeg){width="5.208333333333333in"
-height="3.5729166666666665in"}
+Harriet](assets/Writing - Voice 15/media/media/image5.jpeg)
 
 ## **Truly Understanding Nature**
 
@@ -256,8 +250,7 @@ fire in forest ecosystems has only been realised in recent decades, so
 I'll cut her some slack.)
 
 ![Larson Worm story Forest
-Fire](assets/Writing - Voice 15/media/media/image6.jpeg){width="5.208333333333333in"
-height="3.3541666666666665in"}
+Fire](assets/Writing - Voice 15/media/media/image6.jpeg)
 
 In the conclusion of the fable, Harriet acts unwisely out of her
 misguided perception of what is good and what is bad, killing a snake
@@ -303,8 +296,7 @@ Side* comics taped to office doors, work cubicles, and used at the
 beginning of presentations and conferences.
 
 ![Larson Far Side Dinosaur
-Extinct](assets/Writing - Voice 15/media/media/image7.jpeg){width="3.2916666666666665in"
-height="4.166666666666667in"}
+Extinct](assets/Writing - Voice 15/media/media/image7.jpeg)
 
 What I find most fascinating in Larson's work is that he draws
 inspiration from both culture and nature, delighting in placing animals
@@ -334,8 +326,7 @@ why I think There's a Hair in my Dirt! is a great Ekostory.
 
 **BOOK REVIEW**
 
-![https://youngadultmaterials265.files.wordpress.com/2012/07/theres-a-hair-in-my-dirt.jpg?w=161&h=210](assets/Writing - Voice 15/media/media/image8.jpeg){width="1.6770833333333333in"
-height="2.1875in"}
+![https://youngadultmaterials265.files.wordpress.com/2012/07/theres-a-hair-in-my-dirt.jpg?w=161&h=210](assets/Writing - Voice 15/media/media/image8.jpeg)
 
 Genre/Subject: Humour/Science
 
@@ -392,66 +383,50 @@ view of an earthworm, who tells a funny story. Older teens can learn
 about science without feeling like they are being lectured. This is a
 funny way to learn facts about biology.
 
-![http://1.bp.blogspot.com/\_bIf8RBajZnE/TOA9YCL6_FI/AAAAAAAAAp0/zsctA-8n7cY/s1600/squirrells.jpg](assets/Writing - Voice 15/media/media/image9.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://1.bp.blogspot.com/\_bIf8RBajZnE/TOA9YCL6_FI/AAAAAAAAAp0/zsctA-8n7cY/s1600/squirrells.jpg](assets/Writing - Voice 15/media/media/image9.jpeg)
 
-![http://farm3.staticflickr.com/2195/1778395476_acd796cd42.jpg](assets/Writing - Voice 15/media/media/image10.jpeg){width="4.15625in"
-height="5.208333333333333in"}
+![http://farm3.staticflickr.com/2195/1778395476_acd796cd42.jpg](assets/Writing - Voice 15/media/media/image10.jpeg)
 
-![http://farm3.staticflickr.com/2025/1778396218_3bcdf1457c.jpg](assets/Writing - Voice 15/media/media/image11.jpeg){width="5.208333333333333in"
-height="3.3125in"}
+![http://farm3.staticflickr.com/2025/1778396218_3bcdf1457c.jpg](assets/Writing - Voice 15/media/media/image11.jpeg)
 
-![http://farm3.staticflickr.com/2396/1777545397_08beac018f.jpg](assets/Writing - Voice 15/media/media/image12.jpeg){width="3.7604166666666665in"
-height="5.208333333333333in"}
+![http://farm3.staticflickr.com/2396/1777545397_08beac018f.jpg](assets/Writing - Voice 15/media/media/image12.jpeg)
 
-![http://farm3.staticflickr.com/2059/1778395856_76dcb27171.jpg](assets/Writing - Voice 15/media/media/image13.jpeg){width="3.8958333333333335in"
-height="5.208333333333333in"}
+![http://farm3.staticflickr.com/2059/1778395856_76dcb27171.jpg](assets/Writing - Voice 15/media/media/image13.jpeg)
 
-![http://farm3.staticflickr.com/2271/1778396016_f7924b9f6c.jpg](assets/Writing - Voice 15/media/media/image14.jpeg){width="5.208333333333333in"
-height="3.3541666666666665in"}
+![http://farm3.staticflickr.com/2271/1778396016_f7924b9f6c.jpg](assets/Writing - Voice 15/media/media/image14.jpeg)
 
 ![Gary
-Larson](assets/Writing - Voice 15/media/media/image15.jpeg){width="6.268055555555556in"
-height="8.465281058617673in"}
+Larson](assets/Writing - Voice 15/media/media/image15.jpeg)
 
-![http://4.bp.blogspot.com/-6rsPJbBnWUI/TyIIFH-U9KI/AAAAAAAAB3o/gBHssV9Sfmc/s1600/the-far-side.jpeg](assets/Writing - Voice 15/media/media/image16.jpeg){width="3.125in"
-height="4.333333333333333in"}
+![http://4.bp.blogspot.com/-6rsPJbBnWUI/TyIIFH-U9KI/AAAAAAAAB3o/gBHssV9Sfmc/s1600/the-far-side.jpeg](assets/Writing - Voice 15/media/media/image16.jpeg)
 
-![http://4.bp.blogspot.com/\_9y56Zf8igSQ/SxZfUFdPBiI/AAAAAAAACf4/Cs6x42Ukkvg/s1600/gary_larson_cows.jpg](assets/Writing - Voice 15/media/media/image17.jpeg){width="2.75in"
-height="3.3333333333333335in"}
+![http://4.bp.blogspot.com/\_9y56Zf8igSQ/SxZfUFdPBiI/AAAAAAAACf4/Cs6x42Ukkvg/s1600/gary_larson_cows.jpg](assets/Writing - Voice 15/media/media/image17.jpeg)
 
-![http://1.bp.blogspot.com/-OIdyMAitXbE/TlhMtHPYM8I/AAAAAAAAA5Q/l6lWLO2Gotw/s1600/polar+bears+lr.jpg](assets/Writing - Voice 15/media/media/image18.jpeg){width="6.268055555555556in"
-height="4.8561778215223095in"}
+![http://1.bp.blogspot.com/-OIdyMAitXbE/TlhMtHPYM8I/AAAAAAAAA5Q/l6lWLO2Gotw/s1600/polar+bears+lr.jpg](assets/Writing - Voice 15/media/media/image18.jpeg)
 
 **\"Oh, hey! I love these things!\....Crunchy on the outside and chewy
 centre!\"**
 
-![http://4.bp.blogspot.com/\_9y56Zf8igSQ/SxZg5PR\_-PI/AAAAAAAACgg/Cfz9sbEamio/s1600/larson_what_dogs_hear.jpg](assets/Writing - Voice 15/media/media/image19.jpeg){width="4.166666666666667in"
-height="5.125in"}
+![http://4.bp.blogspot.com/\_9y56Zf8igSQ/SxZg5PR\_-PI/AAAAAAAACgg/Cfz9sbEamio/s1600/larson_what_dogs_hear.jpg](assets/Writing - Voice 15/media/media/image19.jpeg)
 
 ![My favorite Far Side cartoon (Gary Larson). The first time I saw this,
 I actually laughed so hard I
-cried. ](assets/Writing - Voice 15/media/media/image20.jpeg){width="6.268055555555556in"
-height="8.229011373578302in"}
+cried. ](assets/Writing - Voice 15/media/media/image20.jpeg)
 
-![http://2.bp.blogspot.com/-2YA7Q9h13ZE/TlhK82ahBmI/AAAAAAAAA44/br_ERUA-Mnk/s640/Far+Side+1.jpg](assets/Writing - Voice 15/media/media/image21.jpeg){width="5.8125in"
-height="6.666666666666667in"}
+![http://2.bp.blogspot.com/-2YA7Q9h13ZE/TlhK82ahBmI/AAAAAAAAA44/br_ERUA-Mnk/s640/Far+Side+1.jpg](assets/Writing - Voice 15/media/media/image21.jpeg)
 
 \"Well, of *course* I did it in cold blood,\
 you idiot! \... I\'m a reptile!\"
 
-![http://3.bp.blogspot.com/-Lnf5pKnda-0/TlhMrTV33tI/AAAAAAAAA5I/AVM8BXA2AJo/s1600/Einstein+lr.jpg](assets/Writing - Voice 15/media/media/image22.jpeg){width="6.268055555555556in"
-height="4.881468722659667in"}
+![http://3.bp.blogspot.com/-Lnf5pKnda-0/TlhMrTV33tI/AAAAAAAAA5I/AVM8BXA2AJo/s1600/Einstein+lr.jpg](assets/Writing - Voice 15/media/media/image22.jpeg)
 
 Einstein discovers that time is actually money.
 
-![http://4.bp.blogspot.com/-QonSkz9-pYI/TlhMsJOaKsI/AAAAAAAAA5M/qNk4UQWfKlY/s1600/hand+lr.jpg](assets/Writing - Voice 15/media/media/image23.jpeg){width="6.268055555555556in"
-height="4.86878280839895in"}
+![http://4.bp.blogspot.com/-QonSkz9-pYI/TlhMsJOaKsI/AAAAAAAAA5M/qNk4UQWfKlY/s1600/hand+lr.jpg](assets/Writing - Voice 15/media/media/image23.jpeg)
 
 **\"And that\'s the hand that fed me.\"**
 
-![http://3.bp.blogspot.com/\_dJpVkp9C29w/SnnQUWYGGsI/AAAAAAAAAJk/MaHMooPnF5A/s400/Cow+Philosophy1+-+Gary+Larson.jpg](assets/Writing - Voice 15/media/media/image24.jpeg){width="3.25in"
-height="4.166666666666667in"}
+![http://3.bp.blogspot.com/\_dJpVkp9C29w/SnnQUWYGGsI/AAAAAAAAAJk/MaHMooPnF5A/s400/Cow+Philosophy1+-+Gary+Larson.jpg](assets/Writing - Voice 15/media/media/image24.jpeg)
 
 **There's a Hair in My Dirt Gary Larson**
 
@@ -870,8 +845,7 @@ Author's Note: Well, truthfully, earthworms don't really sit around
 dinner tables complaining, telling stories, laughing, and so on. On the
 other hand, they do have a message for all of us \...
 
-![348542](assets/Writing - Voice 15/media/media/image25.jpeg){width="2.0625in"
-height="3.125in"}
+![348542](assets/Writing - Voice 15/media/media/image25.jpeg)
 
 **Forest Sonya Hartnett**
 
@@ -881,8 +855,7 @@ Kian, wilderness is not home. \'Sonya Hartnett has the eye of an artist
 and an ear for the rhythm of language.\'
 
 ![Sonya
-Hartnett](assets/Writing - Voice 15/media/media/image26.png){width="2.2916666666666665in"
-height="1.5208333333333333in"}
+Hartnett](assets/Writing - Voice 15/media/media/image26.png)
 
 Sonya Hartnett\'s work has won numerous Australian and international
 literary prizes and has been published around the world. Uniquely, she
@@ -1204,8 +1177,7 @@ show you how.\'
 
 .
 
-![http://www.sonyahartnett.com.au/ui/images/sonya-home.png](assets/Writing - Voice 15/media/media/image27.png){width="3.9479166666666665in"
-height="2.5625in"}
+![http://www.sonyahartnett.com.au/ui/images/sonya-home.png](assets/Writing - Voice 15/media/media/image27.png)
 
 **Q & A with Sonya Hartnett**
 
@@ -1587,8 +1559,7 @@ Who is the most kingly, then?
 
 That would be telling.
 
-![579976](assets/Writing - Voice 15/media/media/image28.jpeg){width="2.8541666666666665in"
-height="4.6875in"}
+![579976](assets/Writing - Voice 15/media/media/image28.jpeg)
 
 A salty, wrenchingly honest collection of stories set on one block of
 145th Street. We get to know the oldest resident; the cop on the beat;
@@ -2012,15 +1983,12 @@ but now, in my mind and in my heart, he has grown. Yeah, Monkeyman.
 
 **To This Day Shane Koyczan**
 
-![http://covers4.booksamillion.com/covers/bam/1/55/451/639/1554516390.jpg](assets/Writing - Voice 15/media/media/image29.jpeg){width="2.78125in"
-height="4.166666666666667in"}
+![http://covers4.booksamillion.com/covers/bam/1/55/451/639/1554516390.jpg](assets/Writing - Voice 15/media/media/image29.jpeg)
 
-![http://www.bloodyloud.com/wp-content/uploads/2013/02/Screen-shot-2013-02-21-at-4.41.40-PM-560x285.png](assets/Writing - Voice 15/media/media/image30.png){width="5.833333333333333in"
-height="2.96875in"}
+![http://www.bloodyloud.com/wp-content/uploads/2013/02/Screen-shot-2013-02-21-at-4.41.40-PM-560x285.png](assets/Writing - Voice 15/media/media/image30.png)
 
 ![ESL English Listening - Advanced ESL English
-Listening](assets/Writing - Voice 15/media/media/image31.jpeg){width="6.268055555555556in"
-height="3.369080271216098in"}
+Listening](assets/Writing - Voice 15/media/media/image31.jpeg)
 
 **\**
 
@@ -2411,14 +2379,11 @@ that has less to do with pain
 
 and more to do with beauty.
 
-![https://s-media-cache-ak0.pinimg.com/736x/d3/66/9d/d3669dcd9afb6f423102046ef38e7fb6.jpg](assets/Writing - Voice 15/media/media/image32.jpeg){width="6.25in"
-height="8.333333333333334in"}
+![https://s-media-cache-ak0.pinimg.com/736x/d3/66/9d/d3669dcd9afb6f423102046ef38e7fb6.jpg](assets/Writing - Voice 15/media/media/image32.jpeg)
 
-![https://s-media-cache-ak0.pinimg.com/originals/55/38/d7/5538d7b92030495d4891219de4e3c64c.jpg](assets/Writing - Voice 15/media/media/image33.jpeg){width="5.208333333333333in"
-height="4.916666666666667in"}
+![https://s-media-cache-ak0.pinimg.com/originals/55/38/d7/5538d7b92030495d4891219de4e3c64c.jpg](assets/Writing - Voice 15/media/media/image33.jpeg)
 
-![http://redefineschool.files.wordpress.com/2013/02/to-this-day-project-quote.png?w=472&h=186](assets/Writing - Voice 15/media/media/image34.png){width="4.916666666666667in"
-height="1.9479166666666667in"}
+![http://redefineschool.files.wordpress.com/2013/02/to-this-day-project-quote.png?w=472&h=186](assets/Writing - Voice 15/media/media/image34.png)
 
 **To This Day by Shane Koyczan •**
 
@@ -2662,8 +2627,7 @@ community achieve that individuals cannot?
 
 21\. Create an anti-bullying campaign.
 
-![http://3.bp.blogspot.com/-Pq22JvdXdEU/TtBuOr6-ujI/AAAAAAAABAU/zQp5vk8Fqgk/s1600/Let%2Bthe%2BCelebrations%2BBegin.jpg](assets/Writing - Voice 15/media/media/image35.jpeg){width="2.701314523184602in"
-height="3.7291666666666665in"}
+![http://3.bp.blogspot.com/-Pq22JvdXdEU/TtBuOr6-ujI/AAAAAAAABAU/zQp5vk8Fqgk/s1600/Let%2Bthe%2BCelebrations%2BBegin.jpg](assets/Writing - Voice 15/media/media/image35.jpeg)
 
 **Let the Celebrations BEGIN!**
 
@@ -2752,8 +2716,7 @@ Retell the story from the perspective of old Jacoba.
 
 Compare this book to *Rose Blanche*.
 
-![http://tabletmag.com/wp-content/files_mf/celebrations62012.png](assets/Writing - Voice 15/media/media/image36.png){width="6.268055555555556in"
-height="4.205662729658792in"}
+![http://tabletmag.com/wp-content/files_mf/celebrations62012.png](assets/Writing - Voice 15/media/media/image36.png)
 
 **Let the Celebrations BEGIN! Margaret Wild**
 
@@ -2859,8 +2822,7 @@ us.***
 
 ***Recollection of Dr Hadassah Rosensaft***
 
-![830051](assets/Writing - Voice 15/media/media/image37.jpeg){width="3.1041666666666665in"
-height="4.166666666666667in"}
+![830051](assets/Writing - Voice 15/media/media/image37.jpeg)
 
 Text: Ian McEwan Illustrations: Roberto Innocenti
 
@@ -2890,11 +2852,9 @@ even with her mother. Until the tide of the war turns and soldiers in
 different uniforms stream in from the East, and Rose and the imprisoned
 children disappear\...
 
-![http://2.bp.blogspot.com/-Xzpr6cQ18n4/UKpUIsC4KXI/AAAAAAAAAgM/8CmbQoTGYCQ/s1600/Scan+80.jpeg](assets/Writing - Voice 15/media/media/image38.jpeg){width="6.268055555555556in"
-height="7.301438101487314in"}
+![http://2.bp.blogspot.com/-Xzpr6cQ18n4/UKpUIsC4KXI/AAAAAAAAAgM/8CmbQoTGYCQ/s1600/Scan+80.jpeg](assets/Writing - Voice 15/media/media/image38.jpeg)
 
-![http://4.bp.blogspot.com/-xI_6WYRxZWI/UKpT5-HJZ4I/AAAAAAAAAgE/rh3kad_P7x0/s1600/lapointe6.jpg](assets/Writing - Voice 15/media/media/image39.jpeg){width="3.6458333333333335in"
-height="4.34375in"}
+![http://4.bp.blogspot.com/-xI_6WYRxZWI/UKpT5-HJZ4I/AAAAAAAAAgE/rh3kad_P7x0/s1600/lapointe6.jpg](assets/Writing - Voice 15/media/media/image39.jpeg)
 
 Inferring:
 
@@ -2902,11 +2862,9 @@ What do you think happened to Rose Blanche?
 
 Could you do what Rose Blanche did?
 
-![http://1.bp.blogspot.com/-BAGvj1vH2Ic/TkeY1uEpQlI/AAAAAAAAB0I/7PdoGAqxcn4/s320/RosaBlanca1_thumb2.jpg](assets/Writing - Voice 15/media/media/image40.jpeg){width="3.09375in"
-height="3.3333333333333335in"}
+![http://1.bp.blogspot.com/-BAGvj1vH2Ic/TkeY1uEpQlI/AAAAAAAAB0I/7PdoGAqxcn4/s320/RosaBlanca1_thumb2.jpg](assets/Writing - Voice 15/media/media/image40.jpeg)
 
-![http://www.thecreativecompany.us/books/li_roseblanche_e.jpg](assets/Writing - Voice 15/media/media/image41.jpeg){width="6.268055555555556in"
-height="4.17870406824147in"}
+![http://www.thecreativecompany.us/books/li_roseblanche_e.jpg](assets/Writing - Voice 15/media/media/image41.jpeg)
 
 Oddly, Roberto Innocenti, the illustrator\'s name is written before the
 much famous Ian McEwan (at least for the English audience). It goes to
@@ -3307,11 +3265,9 @@ White Rose movement was smuggled out of Germany and handed to the
 advancing Allies. They printed millions of copies of it and dropped them
 all over the country.  
 
-![http://www.holocaustresearchproject.org/revolt/images/wr%20monument.jpg](assets/Writing - Voice 15/media/media/image42.jpeg){width="5.239583333333333in"
-height="5.0in"}
+![http://www.holocaustresearchproject.org/revolt/images/wr%20monument.jpg](assets/Writing - Voice 15/media/media/image42.jpeg)
 
-![553924](assets/Writing - Voice 15/media/media/image43.jpeg){width="2.5625in"
-height="3.3229166666666665in"}
+![553924](assets/Writing - Voice 15/media/media/image43.jpeg)
 
 When the Nazis invade Poland, a family is split apart. A harmonica keeps
 a boy\'s hope alive. The story is inspired by the life of a Holocaust
@@ -3614,11 +3570,9 @@ flights of birds. I played for them -- with all my heart.
 | **Spelling:**        |                                             |
 +----------------------+---------------------------------------------+
 
-![The-Harmonica-by-Tony-Johnston](assets/Writing - Voice 15/media/media/image44.jpeg){width="2.6041666666666665in"
-height="3.375in"}
+![The-Harmonica-by-Tony-Johnston](assets/Writing - Voice 15/media/media/image44.jpeg)
 
-![harmonica](assets/Writing - Voice 15/media/media/image45.jpeg){width="4.916666666666667in"
-height="3.3020833333333335in"}
+![harmonica](assets/Writing - Voice 15/media/media/image45.jpeg)
 
 Author\'s Note:
 

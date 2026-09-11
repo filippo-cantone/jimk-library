@@ -13,14 +13,12 @@ strand: writers-notebook
 **Quick-Writes**
 
 ![Connecting K-2 Set
-1](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image1.jpeg){width="3.125in"
-height="4.166666666666667in"}
+1](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image1.jpeg)
 
 **Children's Literature Prompts**
 
 ![Connecting K-2 Set
-1](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image1.jpeg){width="1.5208333333333333in"
-height="2.0277777777777777in"}
+1](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image1.jpeg)
 
 **Writer's Notebook 17**
 
@@ -36,8 +34,7 @@ I\'ve never done anything for you.\'
 \'You have been my friend,\' replied Charlotte. \'That in itself is a
 tremendous thing.\'\"
 
-![http://graphics8.nytimes.com/images/2012/04/22/books/review/22sims/22sims-popup.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image2.jpeg){width="4.53125in"
-height="5.208333333333333in"}**\**
+![http://graphics8.nytimes.com/images/2012/04/22/books/review/22sims/22sims-popup.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image2.jpeg)**\**
 
 **OLIVIA**
 
@@ -46,100 +43,70 @@ says, \'You know, you really wear me out. But I love you anyway.\'
 
 And Olivia gives her a kiss back and says, \'I love you anyway too.\'\"
 
-![http://rbk.h-cdn.co/assets/cm/14/50/480x638/5489edbb9a470\_-\_rbk-olivia-s2.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image3.jpeg){width="5.0in"
-height="6.645833333333333in"}
+![http://rbk.h-cdn.co/assets/cm/14/50/480x638/5489edbb9a470\_-\_rbk-olivia-s2.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image3.jpeg)
 
-![121](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image4.png){width="6.268055555555556in"
-height="4.699503499562555in"}
+![121](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image4.png)
 
-![138](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image5.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+![138](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image5.png)
 
-![134](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image6.png){width="6.268055555555556in"
-height="4.6933530183727035in"}
+![134](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image6.png)
 
-![129](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image7.png){width="6.268055555555556in"
-height="4.699503499562555in"}
+![129](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image7.png)
 
-![153](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image8.png){width="6.268055555555556in"
-height="4.68409230096238in"}
+![153](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image8.png)
 
-![149](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image9.png){width="6.268055555555556in"
-height="4.690298556430446in"}
+![149](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image9.png)
 
-![144](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image10.png){width="6.268055555555556in"
-height="4.694896106736658in"}
+![144](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image10.png)
 
-![http://40.media.tumblr.com/tumblr_lgz70tQznx1qee12to1_r1_1280.png](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image11.png){width="6.268055555555556in"
-height="4.707187226596675in"}
+![http://40.media.tumblr.com/tumblr_lgz70tQznx1qee12to1_r1_1280.png](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image11.png)
 
 ![writing prompt
-#179](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image12.png){width="6.268055555555556in"
-height="4.69367125984252in"}
+#179](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image12.png)
 
 ![writing prompt
-#213](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image13.png){width="6.268055555555556in"
-height="4.7395505249343834in"}
+#213](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image13.png)
 
-![53](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image14.png){width="6.268055555555556in"
-height="4.6872014435695535in"}
+![53](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image14.png)
 
-![331](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image15.png){width="6.268055555555556in"
-height="4.715797244094488in"}
+![331](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image15.png)
 
-![http://36.media.tumblr.com/tumblr_ly1vd6ECxe1qee12to1_r1_1280.png](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image16.png){width="6.268055555555556in"
-height="4.686286089238845in"}
+![http://36.media.tumblr.com/tumblr_ly1vd6ECxe1qee12to1_r1_1280.png](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image16.png)
 
-![295](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image17.png){width="6.268055555555556in"
-height="4.721699475065617in"}
+![295](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image17.png)
 
-![302](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image18.png){width="6.268055555555556in"
-height="4.726149387576553in"}
+![302](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image18.png)
 
-![http://40.media.tumblr.com/tumblr_luf943kj2s1qee12to1_1280.png](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image19.png){width="6.268055555555556in"
-height="4.712823709536308in"}
+![http://40.media.tumblr.com/tumblr_luf943kj2s1qee12to1_1280.png](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image19.png)
 
-![377](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image20.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+![377](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image20.png)
 
 ![writing prompt
-#393](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image21.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+#393](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image21.png)
 
-![421](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image22.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+![421](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image22.png)
 
-![443](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image23.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+![443](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image23.png)
 
-![492](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image24.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+![492](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image24.png)
 
-![http://media.tumblr.com/tumblr_m5emlfNdO81qz4e4a.png](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image25.png){width="5.208333333333333in"
-height="3.8958333333333335in"}
+![http://media.tumblr.com/tumblr_m5emlfNdO81qz4e4a.png](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image25.png)
 
-![525](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image26.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+![525](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image26.png)
 
-![548](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image27.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+![548](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image27.png)
 
 ![557 dark future fairy
-tales](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image28.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+tales](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image28.png)
 
 ![#803 \"I knew terrible
-things.\"](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image29.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+things.\"](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image29.png)
 
-![http://media.tumblr.com/45a26cf4d46ade4ea11ee650911c4762/tumblr_inline_mzdgfbcN9L1qz4e4a.png](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image30.png){width="5.208333333333333in"
-height="3.9375in"}
+![http://media.tumblr.com/45a26cf4d46ade4ea11ee650911c4762/tumblr_inline_mzdgfbcN9L1qz4e4a.png](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image30.png)
 
-![http://3.bp.blogspot.com/-FY4OXq_JC24/Tz_PzzY2YlI/AAAAAAAAARU/oisKGJ2Q2II/s1600/Slide6.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image31.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://3.bp.blogspot.com/-FY4OXq_JC24/Tz_PzzY2YlI/AAAAAAAAARU/oisKGJ2Q2II/s1600/Slide6.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image31.jpeg)
 
-![http://4.bp.blogspot.com/-yXBbEvE61NQ/UByRvUacqVI/AAAAAAAAA-0/f35TUX1w67M/s320/hey-little-ant.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image32.jpeg){width="3.3333333333333335in"
-height="2.6145833333333335in"}
+![http://4.bp.blogspot.com/-yXBbEvE61NQ/UByRvUacqVI/AAAAAAAAA-0/f35TUX1w67M/s320/hey-little-ant.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image32.jpeg)
 
 After reading [Hey, Little Ant]{.underline} students are paired as
 ants/anteaters and write persuasive dialogues where the ant is trying to
@@ -148,23 +115,20 @@ persuade the ant that he must!  After modelling these, students select
 another pair of animals (predator/prey) to create original persuasive
 dialogues to perform for the class.
 
-![http://www.teachingheart.net/truestorythreepig1.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image33.jpeg){width="2.5in"
-height="2.5in"}
+![http://www.teachingheart.net/truestorythreepig1.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image33.jpeg)
 
 Write from the perspective of the \"bad\" character from a fairytale
 having him/her convince readers that he/she was just misunderstood and
 is not a bad guy after all!
 
-![http://4.bp.blogspot.com/-2Vu7SuyyaBo/UByBHegSIkI/AAAAAAAAA70/7u3bTsSqdXw/s1600/stegasaurus.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image34.jpeg){width="2.1875in"
-height="2.84375in"}
+![http://4.bp.blogspot.com/-2Vu7SuyyaBo/UByBHegSIkI/AAAAAAAAA70/7u3bTsSqdXw/s1600/stegasaurus.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image34.jpeg)
 
 After reading this book, students think of an unusual animal that they
 would like to have as a pet. They brainstorm ways their animal could be
 useful/helpful and then write a persuasive letter to their parents to
 convince them to let them have the pet.
 
-![Knufflebunny1.JPG](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image35.jpeg){width="5.208333333333333in"
-height="3.9375in"}
+![Knufflebunny1.JPG](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image35.jpeg)
 
 Prompt Ideas
 
@@ -173,8 +137,7 @@ or object that is very important to them.
 
 Have you ever lost something very dear to you?
 
-![316569](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image36.jpeg){width="3.3125in"
-height="3.6770833333333335in"}
+![316569](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image36.jpeg)
 
 Prompt Ideas
 
@@ -186,8 +149,7 @@ Maybe they want to try their pen and imagination and write about what
 they think a pirate's life is all about.
 
 ![roller
-coaster](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image37.jpeg){width="3.3125in"
-height="3.4375in"}
+coaster](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image37.jpeg)
 
 Prompt Ideas
 
@@ -201,8 +163,7 @@ unafraid? Or does the thought of certain rides scare them to death?
 
 Tell about an amusement park that they design.
 
-![http://www.kevinhenkes.com/wp-content/uploads/2011/11/wemberly_worried.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image38.jpeg){width="3.0208333333333335in"
-height="3.78125in"}
+![http://www.kevinhenkes.com/wp-content/uploads/2011/11/wemberly_worried.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image38.jpeg)
 
 Prompt Ideas
 
@@ -210,8 +171,7 @@ Have worries ever kept you from doing something that you wanted to do?
 
 Tell about a time you were worried and what made you feel better?
 
-![http://4.bp.blogspot.com/\--mfC5oJz_w8/Tp3PACLBxZI/AAAAAAAAAFE/Zuw_JRqf13k/s320/importantbook_cover.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image39.jpeg){width="2.3333333333333335in"
-height="3.3333333333333335in"}
+![http://4.bp.blogspot.com/\--mfC5oJz_w8/Tp3PACLBxZI/AAAAAAAAAFE/Zuw_JRqf13k/s320/importantbook_cover.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image39.jpeg)
 
 Prompt Ideas
 
@@ -219,11 +179,9 @@ Have an assortment of objects available for your students to write
 about, or have them choose an object they see in the classroom, out the
 window, or can imagine.
 
-![http://farm2.staticflickr.com/1194/5164626398_9268e97bbb_z.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image40.jpeg){width="4.875in"
-height="6.666666666666667in"}
+![http://farm2.staticflickr.com/1194/5164626398_9268e97bbb_z.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image40.jpeg)
 
-![832171](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image41.jpeg){width="3.3125in"
-height="3.7395833333333335in"}
+![832171](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image41.jpeg)
 
 .Dr. Xargle's Book of Earthlets by Jeanne Willis
 
@@ -231,8 +189,7 @@ Writing prompt: Pick one ordinary thing or place and describe it from an
 alien's point of view. This is the first time this alien has been to
 earth and he/she is confused.
 
-![http://www.millvalleylibrary.net/blog/wp-content/uploads/2011/07/A-chair-for-my-mother.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image42.jpeg){width="4.947916666666667in"
-height="4.083333333333333in"}
+![http://www.millvalleylibrary.net/blog/wp-content/uploads/2011/07/A-chair-for-my-mother.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image42.jpeg)
 
 Prompt Ideas
 
@@ -251,8 +208,7 @@ Write a list of all the things that someone does for you? Create a thank
 you note with a note of thanks.
 
 ![Using Mentor Texts in
-Writing](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image43.jpeg){width="3.34162510936133in"
-height="3.5625in"}
+Writing](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image43.jpeg)
 
 Wilfrid Gordon McDonald Partridge by Mem Fox
 
@@ -260,8 +216,7 @@ Writing Prompt: Think of a memory that is important to you and write
 about what happened. What object would you choose to represent that
 memory, and why?
 
-![https://beachchairscientist.files.wordpress.com/2012/05/helloocean2.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image44.jpeg){width="3.125in"
-height="3.125in"}
+![https://beachchairscientist.files.wordpress.com/2012/05/helloocean2.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image44.jpeg)
 
 Prompt Ideas
 
@@ -274,8 +229,7 @@ Tell about a trip to the beach.
 Use your senses to tell about a trip to the mountains, skiing, fishing,
 cooking, etc.
 
-![68788](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image45.jpeg){width="3.3125in"
-height="4.145833333333333in"}
+![68788](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image45.jpeg)
 
 Prompt Ideas
 
@@ -288,8 +242,7 @@ Tell about a time that you played a trick on someone.
 
 Tell about a time someone played a trick on you.
 
-![1036678](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image46.jpeg){width="3.3125in"
-height="4.145833333333333in"}
+![1036678](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image46.jpeg)
 
 Prompt Ideas
 
@@ -303,8 +256,7 @@ how these literary techniques are used in this book.
 Have students try simple sentences using these techniques.
 
 ![Chrysanthemum by Kevin
-Henkes](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image47.jpeg){width="3.0208333333333335in"
-height="3.6875in"}
+Henkes](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image47.jpeg)
 
 Prompt Ideas
 
@@ -320,8 +272,7 @@ Have you ever been on the receiving end of someone's ridicule?
 Have you ever wanted to change your name? To what, and why?
 
 ![crayons
-quit](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image48.jpeg){width="3.3125in"
-height="3.3125in"}
+quit](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image48.jpeg)
 
 The Day the Crayons Quit by Drew Daywalt
 
@@ -332,8 +283,7 @@ What would it complain about? What would it appreciate? How does it feel
 about how you treat it?
 
 ![diary of a
-worm](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image49.jpeg){width="3.1458333333333335in"
-height="4.166666666666667in"}
+worm](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image49.jpeg)
 
 Diary of a Worm by Doreen Cronin
 
@@ -341,8 +291,7 @@ Writing Prompt: Choose an animal or an insect and write a diary for a
 week from that animal's viewpoint. Can be funny or informational.
 
 ![frog and
-toad](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image50.jpeg){width="2.6979166666666665in"
-height="4.166666666666667in"}
+toad](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image50.jpeg)
 
 Frog and Toad Are Friends by Arnold Lobel
 
@@ -352,8 +301,7 @@ movie, join a team, go swimming, form a band, whatever you like. In your
 story, show how Frog and Toad react differently to this situation.
 
 ![Tuck
-Everlasting](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image51.jpeg){width="2.2395833333333335in"
-height="3.3020833333333335in"}
+Everlasting](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image51.jpeg)
 
 If you had the choice, would you want to live forever? In Tuck
 Everlasting, perhaps Natalie Babbitt\'s most famous book, ten-year-old
@@ -363,8 +311,7 @@ If you were Natalie, would you drink from the magic water of immortality
 or refuse it?
 
 ![Phoebe\'s
-Revolt](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image52.jpeg){width="2.6041666666666665in"
-height="2.0833333333333335in"}
+Revolt](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image52.jpeg)
 
 What happens when you and your parents or friends don\'t agree about
 something --- do you throw a fit or try to compromise? When
@@ -375,8 +322,7 @@ but only after her Dad gets involved. Tell us about a time you had to
 make a compromise.
 
 ![Chris Van Allsburg,
-Jumanji](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image53.jpeg){width="6.268055555555556in"
-height="5.723007436570429in"}
+Jumanji](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image53.jpeg)
 
 Jumanji
 
@@ -384,19 +330,16 @@ Adventure will surely be different and, probably, more dangerous for
 Danny and Walter than it was for Peter and Judy. Brainstorm for plot and
 then write the sequel.
 
-![http://31.media.tumblr.com/4b821a60b1a8bfa1ebeb6ed74859a0e8/tumblr_mn4f83RaW71qza6muo1_1280.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image54.jpeg){width="6.268055555555556in"
-height="4.4806802274715665in"}
+![http://31.media.tumblr.com/4b821a60b1a8bfa1ebeb6ed74859a0e8/tumblr_mn4f83RaW71qza6muo1_1280.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image54.jpeg)
 
-![http://cf067b.medialib.glogster.com/media/6e/6e1f2a7da0be6f00a7b33476b40758a11d593db577be57768753569779a403b2/if-you-give-a-moose-a-muffin.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image55.jpeg){width="5.53125in"
-height="6.25in"}
+![http://cf067b.medialib.glogster.com/media/6e/6e1f2a7da0be6f00a7b33476b40758a11d593db577be57768753569779a403b2/if-you-give-a-moose-a-muffin.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image55.jpeg)
 
 What if the boy returns the favour and visits the moose\'s house? What
 would the house look like? What various accommodations would it have for
 his antlers and size? What could the boy ask the moose for?
 
 ![Dear Mr
-Henshaw](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image56.jpeg){width="2.0833333333333335in"
-height="3.125in"}
+Henshaw](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image56.jpeg)
 
 Have students answer Mr Henshaw\'s questions, only about themselves.
 I\'ve included the questions below, but direct your students to look in
@@ -418,21 +361,16 @@ Here are the questions:
 
   -----------------------------------------------------------
 
-![263](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image57.png){width="6.268055555555556in"
-height="4.717257217847769in"}
+![263](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image57.png)
 
 ![The Stranger - Chris Van
-Allsburg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image58.jpeg){width="6.268055555555556in"
-height="5.070786307961505in"}
+Allsburg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image58.jpeg)
 
-![https://lh4.googleusercontent.com/-fscaxYcdM6Q/T9843UdTkGI/AAAAAAAAE7s/GCMY8mFdPBw/w352-h577-no/Widows_Broom.gif](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image59.gif){width="3.6666666666666665in"
-height="6.010416666666667in"}
+![https://lh4.googleusercontent.com/-fscaxYcdM6Q/T9843UdTkGI/AAAAAAAAE7s/GCMY8mFdPBw/w352-h577-no/Widows_Broom.gif](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image59.gif)
 
-![http://rack.0.mshcdn.com/media/ZgkyMDEzLzA4LzI4Lzc2L3F1b3RlMTQuNDhmY2UuanBnCnAJdGh1bWIJODUweDg1MD4KZQlqcGc/29c45234/79b/quote-14.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image60.jpeg){width="6.268055555555556in"
-height="3.524860017497813in"}
+![http://rack.0.mshcdn.com/media/ZgkyMDEzLzA4LzI4Lzc2L3F1b3RlMTQuNDhmY2UuanBnCnAJdGh1bWIJODUweDg1MD4KZQlqcGc/29c45234/79b/quote-14.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image60.jpeg)
 
-![http://rbk.h-cdn.co/assets/cm/14/50/980x551/5489edc112d67\_-\_rbk-wild-things-are-s2.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image61.jpeg){width="6.268055555555556in"
-height="3.5241819772528435in"}
+![http://rbk.h-cdn.co/assets/cm/14/50/980x551/5489edc112d67\_-\_rbk-wild-things-are-s2.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image61.jpeg)
 
 WHERE THE WILD THINGS ARE
 
@@ -441,147 +379,113 @@ their supper. And Max the king of all wild things was lonely and wanted
 to be where someone loved him best of all.\"
 
 ![The magic of reading and
-books!](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image62.jpeg){width="6.268055555555556in"
-height="9.402083333333334in"}
+books!](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image62.jpeg)
 
 ![Keep looking up that\'s the secret of
-life](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image63.jpeg){width="6.268055555555556in"
-height="7.302588582677165in"}
+life](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image63.jpeg)
 
 ![Dr Seuss
-Quote](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image64.jpeg){width="5.9375in"
-height="9.177083333333334in"}
+Quote](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image64.jpeg)
 
 ![Lewis
-Carrol](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image65.jpeg){width="5.833333333333333in"
-height="4.729166666666667in"}
+Carrol](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image65.jpeg)
 
 ![Wonderful
-quote](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image66.jpeg){width="5.208333333333333in"
-height="6.5625in"}
+quote](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image66.jpeg)
 
 **THE SECRET GARDEN**
 
 \"Where you tend a rose, my lad, a thistle cannot grow.\"
 
-![http://rbk.h-cdn.co/assets/cm/14/50/480x480/5489edbe21cb0\_-\_rbk-secret-garden-s2.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image67.jpeg){width="5.0in"
-height="5.0in"}
+![http://rbk.h-cdn.co/assets/cm/14/50/480x480/5489edbe21cb0\_-\_rbk-secret-garden-s2.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image67.jpeg)
 
 ![Quote from Peter
-Pan](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image68.jpeg){width="6.268055555555556in"
-height="10.653991688538932in"}
+Pan](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image68.jpeg)
 
 ![Louisa May Alcott, Little
-Women](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image69.jpeg){width="5.0in"
-height="6.354166666666667in"}
+Women](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image69.jpeg)
 
 ![The Paradise bird and young fairy talk near by magic
-source.](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image70.jpeg){width="4.166666666666667in"
-height="4.802083333333333in"}
+source.](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image70.jpeg)
 
 ![Aesop
-quote](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image71.jpeg){width="5.833333333333333in"
-height="8.010416666666666in"}
+quote](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image71.jpeg)
 
 ![Harry Potter Albus Dumbledore
-Quote](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image72.jpeg){width="5.9375in"
-height="7.427083333333333in"}
+Quote](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image72.jpeg)
 
 ![young
-cat](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image73.jpeg){width="4.31292760279965in"
-height="4.197916666666667in"}
+cat](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image73.jpeg)
 
 ![Dr. Seuss, Oh, the Places You\'ll Go! \| 15 Wonderful Quotes About
 Life From Children\'s
-Books](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image74.jpeg){width="5.21875in"
-height="6.885416666666667in"}
+Books](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image74.jpeg)
 
 ![Kevin Henkes, Lily\'s Purple Plastic Purse \| 15 Wonderful Quotes
 About Life From Children\'s
-Books](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image75.jpeg){width="6.25in"
-height="7.291666666666667in"}
+Books](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image75.jpeg)
 
 ![Antoine de Saint Exup\&eacute;ry, The Little
-Prince](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image76.jpeg){width="6.268055555555556in"
-height="7.652041776027996in"}
+Prince](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image76.jpeg)
 
 The Little Prince
 
 ![Judith Viorst, Alexander and the Terrible, Horrible, No Good, Very Bad
-Day](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image77.jpeg){width="6.268055555555556in"
-height="9.407097550306212in"}
+Day](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image77.jpeg)
 
 ![Madeleine L\&rsquo;Engle, A Wrinkle in
-Time](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image78.jpeg){width="4.6875in"
-height="6.25in"}
+Time](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image78.jpeg)
 
 ![J. R. R. Tolkien, The
-Hobbit](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image79.jpeg){width="5.208333333333333in"
-height="4.166666666666667in"}
+Hobbit](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image79.jpeg)
 
 The Hobbit
 
 ![Louise Fitzhugh, Harriet the
-Spy](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image80.jpeg){width="4.6875in"
-height="4.6875in"}
+Spy](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image80.jpeg)
 
 ![A. A. Milne,
-Winnie-the-Pooh](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image81.jpeg){width="6.268055555555556in"
-height="4.00152668416448in"}
+Winnie-the-Pooh](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image81.jpeg)
 
 ![25 Best Quotes from Children\'s Books \| Disney
-Baby](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image82.jpeg){width="4.6875in"
-height="4.6875in"}
+Baby](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image82.jpeg)
 
 ![Alice in Wonderland Children\'s Book
-Quotes](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image83.jpeg){width="5.208333333333333in"
-height="3.6770833333333335in"}
+Quotes](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image83.jpeg)
 
 ![Children\'s Book Quotes to Inspire a Passion for Literacy
-](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image84.jpeg){width="5.208333333333333in"
-height="3.6770833333333335in"}
+](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image84.jpeg)
 
 ![snow white
-quote](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image85.jpeg){width="5.770833333333333in"
-height="3.8333333333333335in"}
+quote](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image85.jpeg)
 
 ![Weeds are flowers too, once you get to know
-them](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image86.jpeg){width="5.208333333333333in"
-height="7.072916666666667in"}
+them](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image86.jpeg)
 
 ![Dr.
-Suess](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image87.jpeg){width="5.208333333333333in"
-height="6.510416666666667in"}
+Suess](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image87.jpeg)
 
 ![The voice that speaks
-inside](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image88.jpeg){width="2.53125in"
-height="4.166666666666667in"}
+inside](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image88.jpeg)
 
-![funny-Dr-Seuss-quote-memory](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image89.jpeg){width="4.375in"
-height="6.510416666666667in"}
+![funny-Dr-Seuss-quote-memory](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image89.jpeg)
 
 ![Anne
-Frank](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image90.jpeg){width="6.25in"
-height="7.3125in"}
+Frank](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image90.jpeg)
 
 ![Winnie the
-Pooh](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image91.jpeg){width="5.208333333333333in"
-height="5.208333333333333in"}
+Pooh](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image91.jpeg)
 
 ![Lord of the Rings Quote from
-Gandalf](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image92.jpeg){width="5.9375in"
-height="4.6875in"}
+Gandalf](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image92.jpeg)
 
 ![winnie the
-pooh](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image93.jpeg){width="5.677083333333333in"
-height="8.895833333333334in"}
+pooh](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image93.jpeg)
 
-![love](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image94.jpeg){width="5.208333333333333in"
-height="6.770833333333333in"}
+![love](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image94.jpeg)
 
 ![Where the Wild Things
-Are](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image95.jpeg){width="6.268055555555556in"
-height="7.774466316710411in"}
+Are](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image95.jpeg)
 
 ***THE VELVETEEN RABBIT***
 
@@ -589,30 +493,25 @@ height="7.774466316710411in"}
 that happens to you. When a child loves you for a long, long time, not
 just to play with, but REALLY loves you, then you become Real.\'\"
 
-![http://rbk.h-cdn.co/assets/cm/14/50/480x725/5489edc067982\_-\_rbk-velveteen-rabbit-s2.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image96.jpeg){width="5.0in"
-height="7.552083333333333in"}
+![http://rbk.h-cdn.co/assets/cm/14/50/480x725/5489edc067982\_-\_rbk-velveteen-rabbit-s2.jpg](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image96.jpeg)
 
 ![A book quote from Dr Seuss which displays his candid sense of humour
 and beautifully simple attitude towards books and reading, reaching out
 to adults and children alike.
-#DrSeuss](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image97.jpeg){width="6.268055555555556in"
-height="7.8350699912510935in"}
+#DrSeuss](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image97.jpeg)
 
 ![Dr. Seuss quotes: Gotta love him! Laminate and post this at the first
 of the Dr. Seuss week. As the week progresses, when children note which
 book the quotes come from, they can write the book title next to the
 quote with dry erase
-pen.](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image98.jpeg){width="5.185450568678915in"
-height="10.052083333333334in"}
+pen.](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image98.jpeg)
 
 ![Children's Book Quotes #12 --
-Pinocchio](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image99.jpeg){width="1.5625in"
-height="6.25in"}
+Pinocchio](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image99.jpeg)
 
 ![One of my favorite children\'s book, that promotes a wonderful discuss
 about giving, love, and kindness. I thought this quote was perfect for
-you.](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image100.jpeg){width="5.208333333333333in"
-height="3.4375in"}
+you.](assets/Children's Literature Prompts - Writer's Notebook 17 Quick Writes/media/media/image100.jpeg)
 
 **The Giving Tree**
 

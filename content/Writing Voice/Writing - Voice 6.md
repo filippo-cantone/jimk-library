@@ -10,16 +10,13 @@ strand: writing-voice
 
 > **(6)**
 
-![http://diterlizzi.com/blog/wp-content/uploads/2008/05/kenny6.jpg](assets/Writing - Voice 6/media/media/image1.jpeg){width="4.6875in"
-height="3.5833333333333335in"}
+![http://diterlizzi.com/blog/wp-content/uploads/2008/05/kenny6.jpg](assets/Writing - Voice 6/media/media/image1.jpeg)
 
 > **Voice & Personification 2**
 >
-> ![http://3.bp.blogspot.com/-sISXj4qPHDY/UwE9d0aa7yI/AAAAAAAAACA/kP_rsZSPRYo/s1600/Personification.jpg](assets/Writing - Voice 6/media/media/image2.jpeg){width="4.21875in"
-> height="6.25in"}
+> ![http://3.bp.blogspot.com/-sISXj4qPHDY/UwE9d0aa7yI/AAAAAAAAACA/kP_rsZSPRYo/s1600/Personification.jpg](assets/Writing - Voice 6/media/media/image2.jpeg)
 
-![http://diterlizzi.com/blog/wp-content/uploads/2008/05/kenny6.jpg](assets/Writing - Voice 6/media/media/image1.jpeg){width="2.166606517935258in"
-height="1.65625in"}
+![http://diterlizzi.com/blog/wp-content/uploads/2008/05/kenny6.jpg](assets/Writing - Voice 6/media/media/image1.jpeg)
 
 **Voice 6**
 
@@ -53,11 +50,9 @@ Arnie the Doughnut Laurie Keller
 
 Stellaluna Janell Cannon
 
-![http://jimharrisillustrator.com/images/childrens%20books/books/the%20three%20little%20javelinas/sketch1.jpg](assets/Writing - Voice 6/media/media/image3.jpeg){width="2.5in"
-height="3.475in"}
+![http://jimharrisillustrator.com/images/childrens%20books/books/the%20three%20little%20javelinas/sketch1.jpg](assets/Writing - Voice 6/media/media/image3.jpeg)
 
-![349580](assets/Writing - Voice 6/media/media/image4.jpeg){width="3.3125in"
-height="3.1041666666666665in"}
+![349580](assets/Writing - Voice 6/media/media/image4.jpeg)
 
 **The Wolf\'s Story: What Really Happened to Little Red Riding Hood**
 
@@ -87,8 +82,7 @@ grain of salt - and a lot of giggling.
 
 Tell Red's tale from the mother's or the grandmother's point of view.
 
-![https://mrctda.files.wordpress.com/2012/05/wolf-3.png](assets/Writing - Voice 6/media/media/image5.png){width="6.21875in"
-height="6.145833333333333in"}
+![https://mrctda.files.wordpress.com/2012/05/wolf-3.png](assets/Writing - Voice 6/media/media/image5.png)
 
 **What Really Happened to Little Red Riding Hood**
 
@@ -214,16 +208,14 @@ neat worker, completely trustworthy, and I won't make a meal of it!
 
 *No, please.* Look at me. *Would I lie to you?*
 
-![7540259](assets/Writing - Voice 6/media/media/image6.jpeg){width="3.3125in"
-height="2.7083333333333335in"}
+![7540259](assets/Writing - Voice 6/media/media/image6.jpeg)
 
 With his bowl to himself, Goldfish loves his life\...until one day\...
 
 A personal account from a goldfish on life in his bowl as other
 intruders crowd him.
 
-![app_6365_2](assets/Writing - Voice 6/media/media/image7.jpeg){width="5.0in"
-height="3.65625in"}
+![app_6365_2](assets/Writing - Voice 6/media/media/image7.jpeg)
 
 **Discussion Questions:**
 
@@ -257,8 +249,7 @@ Spider are great examples). Students write memoirs from the point of
 view of their own pet. If they don't have a pet, have them choose an
 animal they know really well.
 
-![712452](assets/Writing - Voice 6/media/media/image8.jpeg){width="5.104166666666667in"
-height="2.6041666666666665in"}
+![712452](assets/Writing - Voice 6/media/media/image8.jpeg)
 
 **Memoirs of a Goldfish Devin Scillian**
 
@@ -488,8 +479,7 @@ occupation. Journalist, best-selling author, songwriter, musician \-\--
 they all fit.
 
 ![More on Photo
-Gallery](assets/Writing - Voice 6/media/media/image9.jpeg){width="4.583333333333333in"
-height="3.6979166666666665in"}
+Gallery](assets/Writing - Voice 6/media/media/image9.jpeg)
 
 As a journalist, Devin Scillian brings national and international
 reporting experience to his position as anchor of Detroit\'s top-rated
@@ -499,8 +489,7 @@ viewing for those in the know. And he\'s been honoured for his work both
 at home and abroad.
 
 ![More on Photo
-Gallery](assets/Writing - Voice 6/media/media/image10.jpeg){width="4.583333333333333in"
-height="3.6979166666666665in"}
+Gallery](assets/Writing - Voice 6/media/media/image10.jpeg)
 
 Outside of the newsroom, Devin\'s passions have taken him into other
 creative worlds. A popular author of children\'s books, he has inspired
@@ -509,8 +498,7 @@ Devin is also an accomplished country artist, with two albums and a
 Detroit Music Award under his belt.
 
 ![More on Photo
-Gallery](assets/Writing - Voice 6/media/media/image11.jpeg){width="4.3125in"
-height="3.4791666666666665in"}
+Gallery](assets/Writing - Voice 6/media/media/image11.jpeg)
 
 After graduating from the William Allen White School of Journalism at
 the University of Kansas in 1985, Devin began his career at WIBW-TV in
@@ -533,8 +521,7 @@ China Syndrome: Where Did All the Jobs Go?\" won an Edward R. Murrow
 Award, one of the highest honours in television news.
 
 ![More on Photo
-Gallery](assets/Writing - Voice 6/media/media/image12.jpeg){width="4.583333333333333in"
-height="3.6979166666666665in"}
+Gallery](assets/Writing - Voice 6/media/media/image12.jpeg)
 
 Devin gained wide recognition for his coverage of the 1995 bombing of
 the federal building in Oklahoma City. As anchor for KFOR-TV in Oklahoma
@@ -548,17 +535,13 @@ Devin, his wife Corey, and their four children make their home in Grosse
 Pointe, Michigan.
 
 ![More on Photo
-Gallery](assets/Writing - Voice 6/media/media/image11.jpeg){width="4.583333333333333in"
-height="3.6979166666666665in"}
+Gallery](assets/Writing - Voice 6/media/media/image11.jpeg)
 
-![365074-alt2hr](assets/Writing - Voice 6/media/media/image13.jpeg){width="6.25in"
-height="5.239583333333333in"}
+![365074-alt2hr](assets/Writing - Voice 6/media/media/image13.jpeg)
 
-![365074-alt1hr](assets/Writing - Voice 6/media/media/image14.jpeg){width="6.25in"
-height="5.229166666666667in"}
+![365074-alt1hr](assets/Writing - Voice 6/media/media/image14.jpeg)
 
-![15.jpg](assets/Writing - Voice 6/media/media/image15.jpeg){width="7.083333333333333in"
-height="9.916666666666666in"}\
+![15.jpg](assets/Writing - Voice 6/media/media/image15.jpeg)\
 **Tim Bowers**
 
 Tim Bowers was born in Troy, Ohio, where he began drawing at an early
@@ -600,11 +583,9 @@ hundreds of greeting cards.
 Tim Bowers and his wife live in central Ohio. They are the parents of
 four grown children and are proud grandparents.
 
-![bowers_timeline.jpg](assets/Writing - Voice 6/media/media/image16.jpeg){width="2.7916666666666665in"
-height="8.854166666666666in"}
+![bowers_timeline.jpg](assets/Writing - Voice 6/media/media/image16.jpeg)
 
-![2435377](assets/Writing - Voice 6/media/media/image17.jpeg){width="3.3125in"
-height="3.9895833333333335in"}
+![2435377](assets/Writing - Voice 6/media/media/image17.jpeg)
 
 **Help Me Mr. Mutt! Expert Answers for Dogs With People Problems**
 
@@ -626,8 +607,7 @@ despairing dogs everywhere.
 Study the voice of the various dogs that write Mr. Mutt. Think about
 using for Readers' Theatre, graphs, and letter writing.
 
-![http://www.teachingbooks.net/media/bookimages/internals/Help_Me_internal.gif](assets/Writing - Voice 6/media/media/image18.gif){width="3.125in"
-height="3.7916666666666665in"}
+![http://www.teachingbooks.net/media/bookimages/internals/Help_Me_internal.gif](assets/Writing - Voice 6/media/media/image18.gif)
 
 **Writing:**
 
@@ -1372,8 +1352,7 @@ while it's still on the dirty rotten cat!
 | **REWARD**                              |
 +=========================================+
 
-![197512](assets/Writing - Voice 6/media/media/image19.jpeg){width="3.3125in"
-height="3.6041666666666665in"}
+![197512](assets/Writing - Voice 6/media/media/image19.jpeg)
 
 **The Pigeon Finds a Hot Dog! Mo Willems**
 
@@ -1395,20 +1374,15 @@ The pigeon's crazy antics with the bird give great opportunities for
 teaching point of view and voice. Other books in this series such as
 Don't Let the Pigeon Drive the Bus! also work.
 
-![http://childrensbookalmanac.com/wp-content/uploads/pigeonint.jpg](assets/Writing - Voice 6/media/media/image20.jpeg){width="6.268055555555556in"
-height="6.3296926946631675in"}
+![http://childrensbookalmanac.com/wp-content/uploads/pigeonint.jpg](assets/Writing - Voice 6/media/media/image20.jpeg)
 
-![http://pigeonpresents.com/data/interiorspreadls/pigeon_hotdog_spread_lg.jpg](assets/Writing - Voice 6/media/media/image21.jpeg){width="6.268055555555556in"
-height="3.134027777777778in"}
+![http://pigeonpresents.com/data/interiorspreadls/pigeon_hotdog_spread_lg.jpg](assets/Writing - Voice 6/media/media/image21.jpeg)
 
-![http://media-cache-ak0.pinimg.com/736x/4d/f1/5f/4df15f97d8920fa752942145b9c53b0f.jpg](assets/Writing - Voice 6/media/media/image22.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://media-cache-ak0.pinimg.com/736x/4d/f1/5f/4df15f97d8920fa752942145b9c53b0f.jpg](assets/Writing - Voice 6/media/media/image22.jpeg)
 
-![http://1.bp.blogspot.com/\_-ZVZGHwn5FY/S-IvGhpey-I/AAAAAAAAAMY/WjDQMK3lLgY/s400/pig2.JPG](assets/Writing - Voice 6/media/media/image23.jpeg){width="4.145833333333333in"
-height="3.8541666666666665in"}
+![http://1.bp.blogspot.com/\_-ZVZGHwn5FY/S-IvGhpey-I/AAAAAAAAAMY/WjDQMK3lLgY/s400/pig2.JPG](assets/Writing - Voice 6/media/media/image23.jpeg)
 
-![http://content.internetvideoarchive.com/content/photos/7553/569079_005.jpg](assets/Writing - Voice 6/media/media/image24.jpeg){width="3.3333333333333335in"
-height="2.5in"}
+![http://content.internetvideoarchive.com/content/photos/7553/569079_005.jpg](assets/Writing - Voice 6/media/media/image24.jpeg)
 
 **The Pigeon Finds a Hot Dog! Mo Willems**
 
@@ -1467,11 +1441,9 @@ Yeah, RIGHT! I can't take it anymore! What am I supposed to do?"
 
 "Hmmm \... needs mustard."
 
-![http://www.everbooks.co.kr/item_big/AA000078414.jpg](assets/Writing - Voice 6/media/media/image25.jpeg){width="6.268055555555556in"
-height="6.436392169728784in"}
+![http://www.everbooks.co.kr/item_big/AA000078414.jpg](assets/Writing - Voice 6/media/media/image25.jpeg)
 
-![2599592](assets/Writing - Voice 6/media/media/image26.jpeg){width="3.3125in"
-height="4.322916666666667in"}
+![2599592](assets/Writing - Voice 6/media/media/image26.jpeg)
 
 Good Dog by Maya Gottfried is a dog lover's book. Sixteen poems
 characterise some of the world's most popular dogs people own as pets.
@@ -1538,14 +1510,11 @@ Review by Deri David
 
 **Writing:** Write a poem in the voice of a breed of dog.
 
-![http://media-cache-ak0.pinimg.com/736x/29/ae/b9/29aeb9a5db22ab7a0dab421c3fdeb414.jpg](assets/Writing - Voice 6/media/media/image27.jpeg){width="6.268055555555556in"
-height="4.149413823272091in"}
+![http://media-cache-ak0.pinimg.com/736x/29/ae/b9/29aeb9a5db22ab7a0dab421c3fdeb414.jpg](assets/Writing - Voice 6/media/media/image27.jpeg)
 
-![http://shelleysdavies.com/wp-content/uploads/2011/05/dogs..robert-rahway-zakanitch.gif](assets/Writing - Voice 6/media/media/image28.gif){width="5.302083333333333in"
-height="4.427083333333333in"}
+![http://shelleysdavies.com/wp-content/uploads/2011/05/dogs..robert-rahway-zakanitch.gif](assets/Writing - Voice 6/media/media/image28.gif)
 
-![http://shelleysdavies.com/wp-content/uploads/2011/05/dogs..robert-rahway-zakanitch-2.gif](assets/Writing - Voice 6/media/media/image29.gif){width="6.268055555555556in"
-height="4.036247812773404in"}
+![http://shelleysdavies.com/wp-content/uploads/2011/05/dogs..robert-rahway-zakanitch-2.gif](assets/Writing - Voice 6/media/media/image29.gif)
 
 **Westie**
 
@@ -1884,8 +1853,7 @@ Who's a good dog?
 
 Me.
 
-![http://i.ebayimg.com/00/s/NDA4WDUwMA==/z/-6wAAOSwnDxUjCk7/\$\_35.JPG](assets/Writing - Voice 6/media/media/image30.jpeg){width="3.125in"
-height="2.5520833333333335in"}
+![http://i.ebayimg.com/00/s/NDA4WDUwMA==/z/-6wAAOSwnDxUjCk7/\$\_35.JPG](assets/Writing - Voice 6/media/media/image30.jpeg)
 
 Little Wolf is tired of his mum\'s cooking! It\'s the same old thing
 night after night, Lamburgers and Sloppy Does. How he wishes his mother
@@ -1897,14 +1865,11 @@ hilarious twisted tale, Little Wolf learns the same timeless lesson that
 the boy who cried \"Wolf!\" did so many years ago.
 
 ![The Wolf Who Cried
-Boy](assets/Writing - Voice 6/media/media/image31.jpeg){width="3.9166666666666665in"
-height="1.5625in"}
+Boy](assets/Writing - Voice 6/media/media/image31.jpeg)
 
-![http://www.the-best-childrens-books.org/image-files/the-wolf-who-cried-boy-1.jpg](assets/Writing - Voice 6/media/media/image32.jpeg){width="6.041666666666667in"
-height="2.4791666666666665in"}
+![http://www.the-best-childrens-books.org/image-files/the-wolf-who-cried-boy-1.jpg](assets/Writing - Voice 6/media/media/image32.jpeg)
 
-![http://www.the-best-childrens-books.org/image-files/the-wolf-who-cried-boy.jpg](assets/Writing - Voice 6/media/media/image33.jpeg){width="4.166666666666667in"
-height="3.1875in"}
+![http://www.the-best-childrens-books.org/image-files/the-wolf-who-cried-boy.jpg](assets/Writing - Voice 6/media/media/image33.jpeg)
 
 **The Wolf Who Cried Boy**
 
@@ -2060,8 +2025,7 @@ grew fond of Granny Smith Pie. And he never, ever cried "Boy!" again!
 
 And that's why the boys, at least, lived happily ever after.
 
-![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-1.jpg](assets/Writing - Voice 6/media/media/image34.jpeg){width="4.166666666666667in"
-height="3.9375in"}
+![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-1.jpg](assets/Writing - Voice 6/media/media/image34.jpeg)
 
 There was a young boy who lived in a village. He wasn\'t very old, but
 he had an important job. He was a shepherd, and his job was to guard the
@@ -2102,8 +2066,7 @@ One day the shepherd tried to make things more exciting. He thought,
 \"Maybe I can play some games with the sheep.\" He planned his next day,
 and he smiled when he thought about the fun he would have.
 
-![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-2.jpg](assets/Writing - Voice 6/media/media/image35.jpeg){width="4.166666666666667in"
-height="3.59375in"}
+![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-2.jpg](assets/Writing - Voice 6/media/media/image35.jpeg)
 
 The boy woke up bright and early the next morning. He ate his breakfast
 very quickly and then packed his bag for the day. He kissed his parents
@@ -2140,11 +2103,9 @@ The villagers did not find a wolf. And where was the shepherd? They were
 worried about him. What if the wolf had stolen the boy? They frantically
 began to search high and low to find him.
 
-![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-4.jpg](assets/Writing - Voice 6/media/media/image36.jpeg){width="4.166666666666667in"
-height="3.7708333333333335in"}
+![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-4.jpg](assets/Writing - Voice 6/media/media/image36.jpeg)
 
-![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-5.jpg](assets/Writing - Voice 6/media/media/image37.jpeg){width="4.166666666666667in"
-height="4.052083333333333in"}
+![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-5.jpg](assets/Writing - Voice 6/media/media/image37.jpeg)
 
 A villager pointed to a tree and said, \"There he is over there. Is he
 okay?\" They saw he was not hurt. In fact, he was laughing!
@@ -2171,8 +2132,7 @@ time the village people were very upset. They told the boy, \"If you
 don\'t tell people the truth all the time, they will never know when to
 believe you.\"
 
-![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-6.jpg](assets/Writing - Voice 6/media/media/image38.jpeg){width="4.166666666666667in"
-height="3.78125in"}
+![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-6.jpg](assets/Writing - Voice 6/media/media/image38.jpeg)
 
 The boy was still laughing at his joke. After the villagers went back to
 their jobs, however, he started to think about what the people had said.
@@ -2187,22 +2147,19 @@ When the shepherd reached his post, the wolf began stealing the sheep.
 The shepherd couldn\'t believe his eyes. It was a real wolf! He cried
 out, \"Wolf! Wolf! A wolf is stealing the sheep! Come help me!\"
 
-![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-3.jpg](assets/Writing - Voice 6/media/media/image39.jpeg){width="4.166666666666667in"
-height="1.2291666666666667in"}
+![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-3.jpg](assets/Writing - Voice 6/media/media/image39.jpeg)
 
 He waited for the villagers to come running, but no one came. They
 weren\'t going to fall for that trick again! This time, though, it was
 no trick.
 
-![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-7.jpg](assets/Writing - Voice 6/media/media/image40.jpeg){width="4.166666666666667in"
-height="4.020833333333333in"}
+![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-7.jpg](assets/Writing - Voice 6/media/media/image40.jpeg)
 
 The boy tried yelling for help again, but no one came. He could only
 watch as the wolf ran off into the forest with all the sheep. This time
 the only one laughing was the wolf.
 
-![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-8.jpg](assets/Writing - Voice 6/media/media/image41.jpeg){width="4.166666666666667in"
-height="4.21875in"}
+![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-8.jpg](assets/Writing - Voice 6/media/media/image41.jpeg)
 
 The shepherd boy ran into the village. \"Wolf! Wolf!\" he cried. \"He\'s
 stealing our sheep!\" The boy kept running and calling for help, but no
@@ -2235,15 +2192,13 @@ The boy remembered what his parents and the villagers had told him. How
 he wished he had listened to what they said. He wished he had just
 always told the truth.
 
-![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-9.jpg](assets/Writing - Voice 6/media/media/image42.jpeg){width="4.166666666666667in"
-height="3.7291666666666665in"}
+![http://s.hswstatic.com/gif/the-boy-who-cried-wolf-story-9.jpg](assets/Writing - Voice 6/media/media/image42.jpeg)
 
 He didn\'t want any harm to come to the sheep! Because he didn\'t tell
 the truth, no one believed him when it really mattered. Now it was too
 late. The shepherd boy didn\'t think his joke was so funny anymore.
 
-![20663085](assets/Writing - Voice 6/media/media/image43.jpeg){width="3.3125in"
-height="4.041666666666667in"}
+![20663085](assets/Writing - Voice 6/media/media/image43.jpeg)
 
 Meet Bear. He\'s exhausted. All he wants is to go to sleep. Meet Duck,
 Bear\'s persistent next-door neighbour. All he wants is to hang out . .
@@ -2314,14 +2269,11 @@ middle of the night.
 at the window, about to disturb him with a slew of questions. Goodnight
 Already! is a picture book for children three to seven years old,
 written by Jory John and published by
-HarperCollins.](assets/Writing - Voice 6/media/media/image44.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+HarperCollins.](assets/Writing - Voice 6/media/media/image44.jpeg)
 
-![https://i.ytimg.com/vi/fCDnS3BtYKM/maxresdefault.jpg](assets/Writing - Voice 6/media/media/image45.jpeg){width="6.268055555555556in"
-height="3.5257808398950132in"}
+![https://i.ytimg.com/vi/fCDnS3BtYKM/maxresdefault.jpg](assets/Writing - Voice 6/media/media/image45.jpeg)
 
-![https://nationalpostcom.files.wordpress.com/2015/01/bear1.jpg?w=620](assets/Writing - Voice 6/media/media/image46.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![https://nationalpostcom.files.wordpress.com/2015/01/bear1.jpg?w=620](assets/Writing - Voice 6/media/media/image46.jpeg)
 
 **\**
 
@@ -2429,8 +2381,7 @@ there was a \..."
 
 "I've never been so awake."
 
-![0763655988](assets/Writing - Voice 6/media/media/image47.jpeg){width="1.7083333333333333in"
-height="2.375in"} Review
+![0763655988](assets/Writing - Voice 6/media/media/image47.jpeg) Review
 
 Understatement, simplicity, and subversion comprise a formula for
 success in Jon Klassen's debut picture book, I Want My Hat Back.
@@ -2469,20 +2420,16 @@ the story that isn't narrated or revealed directly through the text?
 (The Classroom Bookshelf)
 
 ![I Want My Hat
-Back](assets/Writing - Voice 6/media/media/image48.jpeg){width="3.2916666666666665in"
-height="3.8020833333333335in"}
+Back](assets/Writing - Voice 6/media/media/image48.jpeg)
 
 ![I Want My Hat
-Back](assets/Writing - Voice 6/media/media/image49.jpeg){width="4.145833333333333in"
-height="2.9375in"}
+Back](assets/Writing - Voice 6/media/media/image49.jpeg)
 
 ![I Want My Hat
-Back](assets/Writing - Voice 6/media/media/image50.jpeg){width="3.15625in"
-height="3.5208333333333335in"}
+Back](assets/Writing - Voice 6/media/media/image50.jpeg)
 
 ![I Want My Hat
-Back](assets/Writing - Voice 6/media/media/image51.jpeg){width="3.1145833333333335in"
-height="4.958333333333333in"}
+Back](assets/Writing - Voice 6/media/media/image51.jpeg)
 
 Lesson:
 
@@ -2573,8 +2520,7 @@ questions."
 
 "Okay. Thank you anyway."
 
-![ANd9GcRitCMCTazILhEO7CwoTXtCgecJLbcTy5500vyo2BklWQ4Dd3y7](assets/Writing - Voice 6/media/media/image52.jpeg){width="2.75in"
-height="1.9895833333333333in"}
+![ANd9GcRitCMCTazILhEO7CwoTXtCgecJLbcTy5500vyo2BklWQ4Dd3y7](assets/Writing - Voice 6/media/media/image52.jpeg)
 
 When a tiny fish shoots into view wearing a round blue topper (which
 happens to fit him perfectly), trouble could be following close behind.
@@ -2588,8 +2534,7 @@ illustrations to construct layers of meaning. Once again the eyes tell
 it all so that the dark resolution should be no surprise to attentive
 readers.
 
-![9780763655990-thisisnotmyhat20_zoom](assets/Writing - Voice 6/media/media/image53.jpeg){width="5.75in"
-height="4.145833333333333in"}
+![9780763655990-thisisnotmyhat20_zoom](assets/Writing - Voice 6/media/media/image53.jpeg)
 
 A little fish (the fellow you see on the cover) is narrating the story
 as he swims. "This hat is not mine," he admits. He stole it from a big
@@ -2672,8 +2617,7 @@ I knew I was going to make it.
 
 Nobody will ever find me.
 
-![11407965](assets/Writing - Voice 6/media/media/image54.jpeg){width="3.3125in"
-height="3.6354166666666665in"}
+![11407965](assets/Writing - Voice 6/media/media/image54.jpeg)
 
 **Good Little Wolf by Nadia Shireen**
 
@@ -2694,14 +2638,11 @@ after all?
 
 - Write a new ending for the story.
 
-![http://cdn.shopify.com/s/files/1/0260/5337/files/goodlittlewolf_medium.jpg?1919](assets/Writing - Voice 6/media/media/image55.jpeg){width="2.5in"
-height="1.40625in"}
+![http://cdn.shopify.com/s/files/1/0260/5337/files/goodlittlewolf_medium.jpg?1919](assets/Writing - Voice 6/media/media/image55.jpeg)
 
-![http://www.ebabee.co.uk/ebabeelikes/wp-content/uploads/2011/06/good_little_wolf.jpg](assets/Writing - Voice 6/media/media/image56.jpeg){width="5.958333333333333in"
-height="3.4166666666666665in"}
+![http://www.ebabee.co.uk/ebabeelikes/wp-content/uploads/2011/06/good_little_wolf.jpg](assets/Writing - Voice 6/media/media/image56.jpeg)
 
-![http://pic.eslite.com/Upload/Product/201303/m/634992044428288750.jpg](assets/Writing - Voice 6/media/media/image57.jpeg){width="6.25in"
-height="3.6145833333333335in"}
+![http://pic.eslite.com/Upload/Product/201303/m/634992044428288750.jpg](assets/Writing - Voice 6/media/media/image57.jpeg)
 
 **Good Little Wolf Nadia Shireen**
 
@@ -2773,8 +2714,7 @@ for some tea and cake.
 
 **\**
 
-![http://4.bp.blogspot.com/-8MYRejxcFQI/VG6vaovIhEI/AAAAAAAAAVs/szjJTS4gjxY/s1600/we%2Bare%2Bin%2Ba%2Bbook.jpg](assets/Writing - Voice 6/media/media/image58.jpeg){width="1.5104166666666667in"
-height="2.0833333333333335in"}
+![http://4.bp.blogspot.com/-8MYRejxcFQI/VG6vaovIhEI/AAAAAAAAAVs/szjJTS4gjxY/s1600/we%2Bare%2Bin%2Ba%2Bbook.jpg](assets/Writing - Voice 6/media/media/image58.jpeg)
 
 **[We Are In A
 Book!* *](http://www.amazon.com/We-Are-Book-Elephant-Piggie/dp/1423133080/ref=sr_1_1?s=books&ie=UTF8&qid=1416539633&sr=1-1&keywords=we+are+in+a+book)by
@@ -2804,20 +2744,16 @@ Students write their own comic. Brainstorm ways that authors show voice
 and then the students try to incorporate some aspects of voice into
 their own comic strips.
 
-![http://exampleschildrensbooks.files.wordpress.com/2011/12/we-are-in-a-book.jpg?w=165&h=270](assets/Writing - Voice 6/media/media/image59.jpeg){width="1.71875in"
-height="2.8125in"}
+![http://exampleschildrensbooks.files.wordpress.com/2011/12/we-are-in-a-book.jpg?w=165&h=270](assets/Writing - Voice 6/media/media/image59.jpeg)
 
-![http://3.bp.blogspot.com/\_tg5zZZnf6e4/TSsNVmgBaDI/AAAAAAAAFMY/JZnahAJIrtU/s1600/Eleph_Pig_we_are_in_a_book_spread_lg.jpg](assets/Writing - Voice 6/media/media/image60.jpeg){width="6.268055555555556in"
-height="4.3415102799650045in"}
+![http://3.bp.blogspot.com/\_tg5zZZnf6e4/TSsNVmgBaDI/AAAAAAAAFMY/JZnahAJIrtU/s1600/Eleph_Pig_we_are_in_a_book_spread_lg.jpg](assets/Writing - Voice 6/media/media/image60.jpeg)
 
-![http://tanyagrove.files.wordpress.com/2012/03/we-are-in-a-book.jpg](assets/Writing - Voice 6/media/media/image61.jpeg){width="5.916666666666667in"
-height="5.5625in"}
+![http://tanyagrove.files.wordpress.com/2012/03/we-are-in-a-book.jpg](assets/Writing - Voice 6/media/media/image61.jpeg)
 
 **\**
 
 ![Arnie, the
-Doughnut](assets/Writing - Voice 6/media/media/image62.jpeg){width="3.8441951006124233in"
-height="3.1458333333333335in"}
+Doughnut](assets/Writing - Voice 6/media/media/image62.jpeg)
 
 **Arnie the Doughnut Laurie Keller**
 
@@ -2830,23 +2766,17 @@ surprise when Mr. Bing tries to eat him! Pull up a napkin and find out
 if Arnie gets eaten in this kooky tale.
 
 ![Arnie, the
-Doughnut](assets/Writing - Voice 6/media/media/image63.jpeg){width="6.25in"
-height="2.5625in"}
+Doughnut](assets/Writing - Voice 6/media/media/image63.jpeg)
 
-![http://www.lauriekeller.com/books/images/arnie_02.jpg](assets/Writing - Voice 6/media/media/image64.jpeg){width="6.222916666666666in"
-height="3.275219816272966in"}
+![http://www.lauriekeller.com/books/images/arnie_02.jpg](assets/Writing - Voice 6/media/media/image64.jpeg)
 
-![http://www.lauriekeller.com/books/images/arnie_03.jpg](assets/Writing - Voice 6/media/media/image65.jpeg){width="5.9375in"
-height="3.125in"}
+![http://www.lauriekeller.com/books/images/arnie_03.jpg](assets/Writing - Voice 6/media/media/image65.jpeg)
 
-![http://www.lauriekeller.com/books/images/arnie_04.jpg](assets/Writing - Voice 6/media/media/image66.jpeg){width="5.9375in"
-height="3.125in"}
+![http://www.lauriekeller.com/books/images/arnie_04.jpg](assets/Writing - Voice 6/media/media/image66.jpeg)
 
-![http://www.lauriekeller.com/images/arnieSS_03.jpg](assets/Writing - Voice 6/media/media/image67.jpeg){width="3.09375in"
-height="1.8229166666666667in"}
+![http://www.lauriekeller.com/images/arnieSS_03.jpg](assets/Writing - Voice 6/media/media/image67.jpeg)
 
-![http://www.lauriekeller.com/images/arnieSS_04.jpg](assets/Writing - Voice 6/media/media/image68.jpeg){width="3.0729166666666665in"
-height="1.8229166666666667in"}
+![http://www.lauriekeller.com/images/arnieSS_04.jpg](assets/Writing - Voice 6/media/media/image68.jpeg)
 
 **Arnie the Doughnut Laurie Keller**
 
@@ -3143,8 +3073,7 @@ Bing could ever have hoped for -- and Mr Bing was Arnie's best friend.
 
 **Stellaluna Janell Cannon**
 
-![ANd9GcT3iKHT0EUxTpbP1b7HzzyPlLBSsCL2ViMBMblqcZ9mNmQlG_OieQ](assets/Writing - Voice 6/media/media/image69.jpeg){width="2.34375in"
-height="2.34375in"}
+![ANd9GcT3iKHT0EUxTpbP1b7HzzyPlLBSsCL2ViMBMblqcZ9mNmQlG_OieQ](assets/Writing - Voice 6/media/media/image69.jpeg)
 
 Stellaluna is a baby bat who is accidentally separated from her mother
 and ends up being raised by a mother bird, along with her three baby
@@ -3152,8 +3081,7 @@ birds. Although Stellaluna is a fruit bat, she tries to fit in with the
 customs of the birds by eating insects, sleeping at night, and she
 sleeps in their nest instead of hanging upside down by her feet.
 
-![ANd9GcSZJrdTHGhAMSjQCzz3bKadpJ9oQ5o7W5UckPBxyTKmi8cDzQ6R](assets/Writing - Voice 6/media/media/image70.jpeg){width="2.2291666666666665in"
-height="2.4479166666666665in"}
+![ANd9GcSZJrdTHGhAMSjQCzz3bKadpJ9oQ5o7W5UckPBxyTKmi8cDzQ6R](assets/Writing - Voice 6/media/media/image70.jpeg)
 
 Although Stellaluna is accepted by the birds, she somehow never feels at
 home or herself. When the baby birds learn to fly and land, poor
@@ -3172,8 +3100,7 @@ herself.
 The small pen and ink drawings at the top of the text pages tell the
 story of how Stellaluna\'s mother is alive and searching for her baby.
 
-![Stellaluna+6](assets/Writing - Voice 6/media/media/image71.jpeg){width="2.5520833333333335in"
-height="2.15625in"}
+![Stellaluna+6](assets/Writing - Voice 6/media/media/image71.jpeg)
 
 **Writing Ideas**
 
@@ -3192,8 +3119,7 @@ rat, mouse, spider, etc.). Next, have your students write a story about
 their animal that will help change people\'s feeling and perceptions
 about this animal.
 
-![sc003f5eed.jpg](assets/Writing - Voice 6/media/media/image72.jpeg){width="2.0833333333333335in"
-height="1.9270833333333333in"}
+![sc003f5eed.jpg](assets/Writing - Voice 6/media/media/image72.jpeg)
 
 **Compare/Contrast**
 
@@ -3562,15 +3488,11 @@ night-blooming trees and plants. Others eat whole fruits, seeds and all,
 and distribute the seeds over the forest floor in their droppings.
 Regeneration of tropical forests depends greatly on bats.
 
-![2849-2img1](assets/Writing - Voice 6/media/media/image73.jpeg){width="4.645833333333333in"
-height="4.6875in"}
+![2849-2img1](assets/Writing - Voice 6/media/media/image73.jpeg)
 
-![2849-2img2](assets/Writing - Voice 6/media/media/image74.jpeg){width="4.645833333333333in"
-height="4.677083333333333in"}
+![2849-2img2](assets/Writing - Voice 6/media/media/image74.jpeg)
 
-![2849-2img3](assets/Writing - Voice 6/media/media/image75.jpeg){width="4.645833333333333in"
-height="4.666666666666667in"}
+![2849-2img3](assets/Writing - Voice 6/media/media/image75.jpeg)
 
-![Stellaluna%2B7](assets/Writing - Voice 6/media/media/image76.jpeg){width="6.864583333333333in"
-height="7.416666666666667in"}
+![Stellaluna%2B7](assets/Writing - Voice 6/media/media/image76.jpeg)
 

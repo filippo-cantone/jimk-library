@@ -10,13 +10,11 @@ strand: writing-voice
 >
 > **(8)**
 >
-> ![http://www.jamessamy.com/wp-content/uploads/2010/11/inner-voice1.jpg](assets/Writing - Voice 8/media/media/image1.jpeg){width="4.6875in"
-> height="4.15625in"}
+> ![http://www.jamessamy.com/wp-content/uploads/2010/11/inner-voice1.jpg](assets/Writing - Voice 8/media/media/image1.jpeg)
 
 **Inner Voice**
 
-![http://www.jamessamy.com/wp-content/uploads/2010/11/inner-voice1.jpg](assets/Writing - Voice 8/media/media/image1.jpeg){width="2.408365048118985in"
-height="2.1354166666666665in"}
+![http://www.jamessamy.com/wp-content/uploads/2010/11/inner-voice1.jpg](assets/Writing - Voice 8/media/media/image1.jpeg)
 
 **Voice -- 8**
 
@@ -50,30 +48,24 @@ The Honest-to Goodness Truth Patricia McKissack
 
 Enemy Pie Derek Munson
 
-![http://www.iamthatgirl.com/attachments/pages/282/inner-voice.jpg](assets/Writing - Voice 8/media/media/image2.jpeg){width="2.3229166666666665in"
-height="2.1757458442694664in"}
+![http://www.iamthatgirl.com/attachments/pages/282/inner-voice.jpg](assets/Writing - Voice 8/media/media/image2.jpeg)
 
-![http://www.spectrumhealth.ie/wp-content/uploads/2012/09/Inner-Voices.jpg](assets/Writing - Voice 8/media/media/image3.jpeg){width="2.3671872265966756in"
-height="3.15625in"}
+![http://www.spectrumhealth.ie/wp-content/uploads/2012/09/Inner-Voices.jpg](assets/Writing - Voice 8/media/media/image3.jpeg)
 
-![http://staciapriscilla.com/wp-content/uploads/2014/03/2c182ee174f2c12cb1153c5f86182da8.jpg](assets/Writing - Voice 8/media/media/image4.jpeg){width="4.208333333333333in"
-height="4.510416666666667in"}
+![http://staciapriscilla.com/wp-content/uploads/2014/03/2c182ee174f2c12cb1153c5f86182da8.jpg](assets/Writing - Voice 8/media/media/image4.jpeg)
 
 **\**
 ![Inner
-voice\...](assets/Writing - Voice 8/media/media/image5.jpeg){width="2.573386920384952in"
-height="3.6770833333333335in"}
+voice\...](assets/Writing - Voice 8/media/media/image5.jpeg)
 
 ![I write only because there is a voice within me that will not be
 still. #inspiration #writer
-#author](assets/Writing - Voice 8/media/media/image6.jpeg){width="4.25in"
-height="2.975in"}
+#author](assets/Writing - Voice 8/media/media/image6.jpeg)
 
 **\**
 
 ![Abuela\'s
-Weave](assets/Writing - Voice 8/media/media/image7.jpeg){width="2.0729166666666665in"
-height="2.6145833333333335in"}
+Weave](assets/Writing - Voice 8/media/media/image7.jpeg)
 
 **Amelia's Road Linda Altman**
 
@@ -707,8 +699,7 @@ the country.
 
 I enjoy introducing this text to a class through Found Poetry.
 
-![night-in-the-country](assets/Writing - Voice 8/media/media/image8.jpeg){width="2.8020833333333335in"
-height="2.2291666666666665in"}
+![night-in-the-country](assets/Writing - Voice 8/media/media/image8.jpeg)
 
 +-----------------+----------------------------+----------------------+
 | Craft           | Example                    | Reason               |
@@ -799,8 +790,7 @@ Then they will spend a day in the country listening to you.
 
 **My Father's Hands by Joanne Ryder**
 
-![068809189X](assets/Writing - Voice 8/media/media/image9.jpeg){width="5.21875in"
-height="2.6666666666666665in"}
+![068809189X](assets/Writing - Voice 8/media/media/image9.jpeg)
 
 In the garden with her father, a young girl describes her father's
 hands:
@@ -882,7 +872,7 @@ father's hands.
 
 # 
 
-# ![gagahands2](assets/Writing - Voice 8/media/media/image10.jpeg){width="5.208333333333333in" height="3.46875in"}
+# ![gagahands2](assets/Writing - Voice 8/media/media/image10.jpeg)
 
 # 
 
@@ -927,8 +917,7 @@ I couldn't possibly love a person more.
 
 > **From Confessions of a Pioneer Woman**
 
-![thankyoumrfalker1-10dn03w-1](assets/Writing - Voice 8/media/media/image11.jpeg){width="2.46875in"
-height="3.0in"}
+![thankyoumrfalker1-10dn03w-1](assets/Writing - Voice 8/media/media/image11.jpeg)
 
 Following young Trisha as she navigates grade school while not being
 able to read is a heart-warming true story about author, Patricia
@@ -951,14 +940,11 @@ Patricia Polacco wrote this story in dedication and thanks to Mr. Falker
 for changing her life and giving her the ability to read, and eventually
 write amazing children's books.
 
-![ANd9GcQhxIUFHrASyxoiC329DUQKMPY7pzZCv2_pFUxx-L4Fvnj2ItWr](assets/Writing - Voice 8/media/media/image12.jpeg){width="2.0833333333333335in"
-height="2.4270833333333335in"}
+![ANd9GcQhxIUFHrASyxoiC329DUQKMPY7pzZCv2_pFUxx-L4Fvnj2ItWr](assets/Writing - Voice 8/media/media/image12.jpeg)
 
-![ANd9GcTn0paj8w5iDq5oURlCtH-xj7bJrksqEntZXw5LXL36pPpbXfREzw](assets/Writing - Voice 8/media/media/image13.jpeg){width="1.9791666666666667in"
-height="2.7604166666666665in"}
+![ANd9GcTn0paj8w5iDq5oURlCtH-xj7bJrksqEntZXw5LXL36pPpbXfREzw](assets/Writing - Voice 8/media/media/image13.jpeg)
 
-![ANd9GcSckrDa-gcn0rzRQUPjjMMedfQo_7W-rlCa35B08zfXVV77w3ILZg](assets/Writing - Voice 8/media/media/image14.jpeg){width="2.0in"
-height="2.7395833333333335in"}
+![ANd9GcSckrDa-gcn0rzRQUPjjMMedfQo_7W-rlCa35B08zfXVV77w3ILZg](assets/Writing - Voice 8/media/media/image14.jpeg)
 
 **Thank You, Mr Falker Patricia Polacco**
 
@@ -1262,20 +1248,15 @@ ago.*
 answered. "I make books for children ... Thank you, Mr Falker. Thank
 you."*
 
-![f1](assets/Writing - Voice 8/media/media/image15.jpeg){width="3.28125in"
-height="4.5in"}
+![f1](assets/Writing - Voice 8/media/media/image15.jpeg)
 
-![f2](assets/Writing - Voice 8/media/media/image16.jpeg){width="3.4895833333333335in"
-height="4.875in"}
+![f2](assets/Writing - Voice 8/media/media/image16.jpeg)
 
-![f3](assets/Writing - Voice 8/media/media/image17.jpeg){width="3.9583333333333335in"
-height="5.427083333333333in"}
+![f3](assets/Writing - Voice 8/media/media/image17.jpeg)
 
-![f4](assets/Writing - Voice 8/media/media/image18.jpeg){width="3.8541666666666665in"
-height="5.229166666666667in"}
+![f4](assets/Writing - Voice 8/media/media/image18.jpeg)
 
-![https://goodbooksforyoungminds.files.wordpress.com/2011/06/crow-call.jpg?w=470](assets/Writing - Voice 8/media/media/image19.jpeg){width="3.556385608048994in"
-height="3.6354166666666665in"}
+![https://goodbooksforyoungminds.files.wordpress.com/2011/06/crow-call.jpg?w=470](assets/Writing - Voice 8/media/media/image19.jpeg)
 
 **Summary**
 
@@ -1745,8 +1726,7 @@ hand.
 **Biography of Lois Lowry**
 
 ![Lois Lowry
-Headshot](assets/Writing - Voice 8/media/media/image20.jpeg){width="2.1666666666666665in"
-height="2.7708333333333335in"}
+Headshot](assets/Writing - Voice 8/media/media/image20.jpeg)
 
 Lois Lowry was born on March 20, 1937 in Honolulu, Hawaii, to Katharine,
 a teacher, and Robert Hammersberg, an army dentist stationed near Pearl
@@ -1808,20 +1788,15 @@ young adult novelists, Lois Lowry has engaged millions of readers with
 her careful and sensitive stories dealing with major issues like death,
 cancer, and the Holocaust. She remains an active writer.
 
-![http://farm3.staticflickr.com/2503/3964754690_4901780ca0_z.jpg](assets/Writing - Voice 8/media/media/image21.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://farm3.staticflickr.com/2503/3964754690_4901780ca0_z.jpg](assets/Writing - Voice 8/media/media/image21.jpeg)
 
-![http://4.bp.blogspot.com/-cMfzPLh7h04/UHH-dAuurYI/AAAAAAAACVY/3G-RGlnJ0fg/s320/crow+call+hands.jpg](assets/Writing - Voice 8/media/media/image22.jpeg){width="3.1666666666666665in"
-height="3.3333333333333335in"}
+![http://4.bp.blogspot.com/-cMfzPLh7h04/UHH-dAuurYI/AAAAAAAACVY/3G-RGlnJ0fg/s320/crow+call+hands.jpg](assets/Writing - Voice 8/media/media/image22.jpeg)
 
-![http://loislowry.typepad.com/.a/6a00d8341cd30253ef01157151221d970c-800wi](assets/Writing - Voice 8/media/media/image23.jpeg){width="6.268055555555556in"
-height="5.084959536307961in"}
+![http://loislowry.typepad.com/.a/6a00d8341cd30253ef01157151221d970c-800wi](assets/Writing - Voice 8/media/media/image23.jpeg)
 
-![http://2.bp.blogspot.com/-kCWKLyduXkE/UHH-RTg9QCI/AAAAAAAACVQ/MW4W1Udj364/s1600/crow+call+interior.jpg](assets/Writing - Voice 8/media/media/image24.jpeg){width="6.268055555555556in"
-height="3.3455741469816274in"}
+![http://2.bp.blogspot.com/-kCWKLyduXkE/UHH-RTg9QCI/AAAAAAAACVQ/MW4W1Udj364/s1600/crow+call+interior.jpg](assets/Writing - Voice 8/media/media/image24.jpeg)
 
-![129771](assets/Writing - Voice 8/media/media/image25.jpeg){width="3.3125in"
-height="2.875in"}
+![129771](assets/Writing - Voice 8/media/media/image25.jpeg)
 
 Clover\'s mum says it isn\'t safe to cross the fence that segregates
 their African-American side of town from the white side where Anna
@@ -2194,13 +2169,11 @@ they might not have noticed before, or if they
 
 changed their plan for a sketch during the process of sketching and why.
 
-![http://www.slj.com/wp-content/uploads/2013/08/slj1308w_LI_OtherSideGirls.jpg](assets/Writing - Voice 8/media/media/image26.jpeg){width="6.25in"
-height="5.229166666666667in"}
+![http://www.slj.com/wp-content/uploads/2013/08/slj1308w_LI_OtherSideGirls.jpg](assets/Writing - Voice 8/media/media/image26.jpeg)
 
 **Jacqueline Woodson**
 
-![http://www.libraryofcongress.gov/loc/lcib/0911/images/authors12.jpg](assets/Writing - Voice 8/media/media/image27.jpeg){width="1.5625in"
-height="1.5625in"}
+![http://www.libraryofcongress.gov/loc/lcib/0911/images/authors12.jpg](assets/Writing - Voice 8/media/media/image27.jpeg)
 
 I used to say I'd be a teacher or a lawyer or a hairdresser when I grew
 up but even as I said these things, I knew what made me happiest was
@@ -2242,14 +2215,11 @@ classroom who was always getting into trouble for talking or missed
 homework assignments --- sat up a little straighter, folded my hands on
 the desks, smiled and began to believe in me.
 
-![http://www.scholastic.com/teachers/sites/default/files/promo_images/contributor/woodson_jacqueline_p_lg_1.jpg](assets/Writing - Voice 8/media/media/image28.jpeg){width="2.8125in"
-height="1.9583333333333333in"}
+![http://www.scholastic.com/teachers/sites/default/files/promo_images/contributor/woodson_jacqueline_p_lg_1.jpg](assets/Writing - Voice 8/media/media/image28.jpeg)
 
-![http://www.jacquelinewoodson.com/graphics/JackieWoodson74703-7x5.jpg](assets/Writing - Voice 8/media/media/image29.jpeg){width="6.268055555555556in"
-height="4.477182852143482in"}
+![http://www.jacquelinewoodson.com/graphics/JackieWoodson74703-7x5.jpg](assets/Writing - Voice 8/media/media/image29.jpeg)
 
-![Picture](assets/Writing - Voice 8/media/media/image30.jpeg){width="1.3854166666666667in"
-height="1.7291666666666667in"} **Wemberly Worried Kevin Henkes**
+![Picture](assets/Writing - Voice 8/media/media/image30.jpeg) **Wemberly Worried Kevin Henkes**
 
 Wemberly is always worried. She is worried about the swings, her
 birthday party, and her favourite stuffed animal, Petal. Her parents and
@@ -2298,11 +2268,9 @@ worry.
 Make up a story about the second day of school. Tell what Wemberly and
 Jewel might do.
 
-![http://media.npr.org/books/summer/2007/pearl/wemberly1_400-a659422363c27529ca1e43d8c41cd2a7bfe730a6-s6-c30.jpg](assets/Writing - Voice 8/media/media/image31.jpeg){width="6.268055555555556in"
-height="7.0813156167979in"}
+![http://media.npr.org/books/summer/2007/pearl/wemberly1_400-a659422363c27529ca1e43d8c41cd2a7bfe730a6-s6-c30.jpg](assets/Writing - Voice 8/media/media/image31.jpeg)
 
-![http://childrensbookalmanac.com/wp-content/uploads/wemberlyworried.jpg](assets/Writing - Voice 8/media/media/image32.jpeg){width="6.268055555555556in"
-height="7.9790135608048995in"}
+![http://childrensbookalmanac.com/wp-content/uploads/wemberlyworried.jpg](assets/Writing - Voice 8/media/media/image32.jpeg)
 
 **Wemberly Worried Kevin Henkes**
 
@@ -2343,8 +2311,7 @@ But then Wemberly worried that there wouldn't be enough cake.
 On Halloween, Wemberly worried that there would be too many butterflies
 in the neighbourhood parade.
 
-![http://www.kevinhenkes.com/wp-content/uploads/2011/11/wemberly_mouse.jpg](assets/Writing - Voice 8/media/media/image33.jpeg){width="3.0208333333333335in"
-height="3.5208333333333335in"}
+![http://www.kevinhenkes.com/wp-content/uploads/2011/11/wemberly_mouse.jpg](assets/Writing - Voice 8/media/media/image33.jpeg)
 
 "See," said her father, "there was nothing to worry about."
 
@@ -2421,11 +2388,9 @@ Wemberly turned and smiled and waved.
 
 "I will,' she said. "Don't worry."
 
-![http://1.bp.blogspot.com/-9PUyDsDOh9Q/UB69XbALQ8I/AAAAAAAAFgI/f3oXUCpd60Y/s1600/Excerpt%2BWemberley%2BWorried%2Bby%2BHenkes%2B222.jpg](assets/Writing - Voice 8/media/media/image34.jpeg){width="6.25in"
-height="8.333333333333334in"}
+![http://1.bp.blogspot.com/-9PUyDsDOh9Q/UB69XbALQ8I/AAAAAAAAFgI/f3oXUCpd60Y/s1600/Excerpt%2BWemberley%2BWorried%2Bby%2BHenkes%2B222.jpg](assets/Writing - Voice 8/media/media/image34.jpeg)
 
-![8471012](assets/Writing - Voice 8/media/media/image35.jpeg){width="3.3125in"
-height="3.46875in"}
+![8471012](assets/Writing - Voice 8/media/media/image35.jpeg)
 
 Little White Rabbit wonders about everything. What would it be like to
 be green, like the grass? Or tall like the fir trees? But the one thing
@@ -2482,17 +2447,13 @@ each page). Have children share what they noticed with the whole group.
 What do the illustrations make them think about? How do the pictures
 make them feel?
 
-![henkes.jpg](assets/Writing - Voice 8/media/media/image36.jpeg){width="2.1041666666666665in"
-height="2.71875in"}
+![henkes.jpg](assets/Writing - Voice 8/media/media/image36.jpeg)
 
-![thMYYA37A5.jpg](assets/Writing - Voice 8/media/media/image37.jpeg){width="3.125in"
-height="0.9479166666666666in"}
+![thMYYA37A5.jpg](assets/Writing - Voice 8/media/media/image37.jpeg)
 
-![th.jpg](assets/Writing - Voice 8/media/media/image38.jpeg){width="1.3541666666666667in"
-height="1.7708333333333333in"}
+![th.jpg](assets/Writing - Voice 8/media/media/image38.jpeg)
 
-![th3BYEGNZT.jpg](assets/Writing - Voice 8/media/media/image39.jpeg){width="3.125in"
-height="2.34375in"}
+![th3BYEGNZT.jpg](assets/Writing - Voice 8/media/media/image39.jpeg)
 
 **Little White Rabbit Kevin Henkes**
 
@@ -2521,11 +2482,9 @@ He still wondered about many things,
 
 but he didn't wonder who loved him.
 
-![http://img.youtube.com/vi/\_orjSf7TTdU/0.jpg](assets/Writing - Voice 8/media/media/image40.jpeg){width="5.0in"
-height="3.75in"}
+![http://img.youtube.com/vi/\_orjSf7TTdU/0.jpg](assets/Writing - Voice 8/media/media/image40.jpeg)
 
-![http://4.bp.blogspot.com/-iXIuS62FkDk/Tm_pBOQqTtI/AAAAAAAAAKk/OWfs_9lZULs/s320/henry.jpg](assets/Writing - Voice 8/media/media/image41.jpeg){width="2.625in"
-height="3.3333333333333335in"}
+![http://4.bp.blogspot.com/-iXIuS62FkDk/Tm_pBOQqTtI/AAAAAAAAAKk/OWfs_9lZULs/s320/henry.jpg](assets/Writing - Voice 8/media/media/image41.jpeg)
 
 A stirring, dramatic story of a slave who mails himself to freedom by a
 Jane Addams Peace Award-winning author and a Coretta Scott King
@@ -2788,26 +2747,19 @@ At last Henry had a birthday -- March 30, 1849, his first day of
 freedom! And from that day on, he also had a middle name. Everyone
 called him Henry "BOX" Brown.
 
-![http://housedivided.dickinson.edu/ugrr/documents/Lesson_Plan_Miller_files/image007.jpg](assets/Writing - Voice 8/media/media/image42.jpeg){width="5.208333333333333in"
-height="3.6666666666666665in"}
+![http://housedivided.dickinson.edu/ugrr/documents/Lesson_Plan_Miller_files/image007.jpg](assets/Writing - Voice 8/media/media/image42.jpeg)
 
-![http://1.bp.blogspot.com/\_2gwYymi7jYY/SvzQ43-vb1I/AAAAAAAAAFI/t6XnyEFlRlQ/s320/henrywithfamily.jpg](assets/Writing - Voice 8/media/media/image43.jpeg){width="3.3333333333333335in"
-height="2.0416666666666665in"}
+![http://1.bp.blogspot.com/\_2gwYymi7jYY/SvzQ43-vb1I/AAAAAAAAAFI/t6XnyEFlRlQ/s320/henrywithfamily.jpg](assets/Writing - Voice 8/media/media/image43.jpeg)
 
-![http://www.the-best-childrens-books.org/images/Henrys-Freedom-Box-1.jpg](assets/Writing - Voice 8/media/media/image44.jpeg){width="6.197916666666667in"
-height="3.7916666666666665in"}
+![http://www.the-best-childrens-books.org/images/Henrys-Freedom-Box-1.jpg](assets/Writing - Voice 8/media/media/image44.jpeg)
 
-![http://2.bp.blogspot.com/\_2gwYymi7jYY/SvzRE3KQX2I/AAAAAAAAAFQ/HxiEty9MF0g/s400/henryandmom.jpg](assets/Writing - Voice 8/media/media/image45.jpeg){width="4.166666666666667in"
-height="2.5520833333333335in"}
+![http://2.bp.blogspot.com/\_2gwYymi7jYY/SvzRE3KQX2I/AAAAAAAAAFQ/HxiEty9MF0g/s400/henryandmom.jpg](assets/Writing - Voice 8/media/media/image45.jpeg)
 
-![http://1.bp.blogspot.com/\_2gwYymi7jYY/SvzNSCOCjAI/AAAAAAAAAFA/svoFTvxVQkk/s320/henryinbox.jpg](assets/Writing - Voice 8/media/media/image46.jpeg){width="3.3333333333333335in"
-height="2.0416666666666665in"}
+![http://1.bp.blogspot.com/\_2gwYymi7jYY/SvzNSCOCjAI/AAAAAAAAAFA/svoFTvxVQkk/s320/henryinbox.jpg](assets/Writing - Voice 8/media/media/image46.jpeg)
 
-![http://www.the-best-childrens-books.org/images/Henrys-Freedom-Box-inside.jpg](assets/Writing - Voice 8/media/media/image47.jpeg){width="6.041666666666667in"
-height="3.8333333333333335in"}
+![http://www.the-best-childrens-books.org/images/Henrys-Freedom-Box-inside.jpg](assets/Writing - Voice 8/media/media/image47.jpeg)
 
-![http://1.bp.blogspot.com/-Quoqik_tqnY/Tm_pW21WT1I/AAAAAAAAAKo/w8TqFCK499U/s320/516V4DZ9BRL\_\_SL500\_.jpg](assets/Writing - Voice 8/media/media/image48.jpeg){width="3.3333333333333335in"
-height="2.6041666666666665in"}
+![http://1.bp.blogspot.com/-Quoqik_tqnY/Tm_pW21WT1I/AAAAAAAAAKo/w8TqFCK499U/s320/516V4DZ9BRL\_\_SL500\_.jpg](assets/Writing - Voice 8/media/media/image48.jpeg)
 
 **Wilma Unlimited Kathleen Krull**
 
@@ -3076,8 +3028,7 @@ Olympics has inspired thousands of young athletes, especially women.
 
 Wilma Rudolph died in 1994.
 
-![http://1.bp.blogspot.com/-SRqlrCp-HoU/Tm_pXqHhmwI/AAAAAAAAAKs/cXb6aqesONY/s320/255968-L.jpg](assets/Writing - Voice 8/media/media/image49.jpeg){width="2.6458333333333335in"
-height="3.3333333333333335in"}
+![http://1.bp.blogspot.com/-SRqlrCp-HoU/Tm_pXqHhmwI/AAAAAAAAAKs/cXb6aqesONY/s320/255968-L.jpg](assets/Writing - Voice 8/media/media/image49.jpeg)
 
 **How Many Days to America? Eve Bunting**
 
@@ -3111,8 +3062,7 @@ countries of origin.
 
 .
 
-![back_cover](assets/Writing - Voice 8/media/media/image50.jpeg){width="3.6354166666666665in"
-height="4.28125in"}
+![back_cover](assets/Writing - Voice 8/media/media/image50.jpeg)
 
 **How Many Days to America? Eve Bunting**
 
@@ -3309,8 +3259,7 @@ were free, and safe and here.
 
 "Yes, small one," my father said. "We can stay."
 
-![http://3.bp.blogspot.com/-qu2gAUa9iQY/Tm_pX-2QOyI/AAAAAAAAAKw/W_fXto-Vp8Q/s320/train-to-somewhere%255B1%255D.jpg](assets/Writing - Voice 8/media/media/image51.jpeg){width="3.3333333333333335in"
-height="2.71875in"}
+![http://3.bp.blogspot.com/-qu2gAUa9iQY/Tm_pX-2QOyI/AAAAAAAAAKw/W_fXto-Vp8Q/s320/train-to-somewhere%255B1%255D.jpg](assets/Writing - Voice 8/media/media/image51.jpeg)
 
 Eve Bunting has always been an author who sheds light on emotional
 issues. Recently she has turned her writing talents to historical
@@ -3845,8 +3794,7 @@ Miss Randolph leans forward and kisses my cheek.
 "I'm ready."
 
 **\**
-![GetImage?file=Image_20120920052110953_25ce26fe-9bba-4008-9fd9-8a076400f89d](assets/Writing - Voice 8/media/media/image52.jpeg){width="5.5625in"
-height="4.698325678040245in"}
+![GetImage?file=Image_20120920052110953_25ce26fe-9bba-4008-9fd9-8a076400f89d](assets/Writing - Voice 8/media/media/image52.jpeg)
 
 **Questions:**
 
@@ -3871,8 +3819,7 @@ What do you think the feather symbolises?
 Why did she give it to the lady at the end of the book?
 
 ![The Honest-To-Goodness Truth\...library has it but can\'t find
-it](assets/Writing - Voice 8/media/media/image53.jpeg){width="3.4166666666666665in"
-height="4.166666666666667in"}
+it](assets/Writing - Voice 8/media/media/image53.jpeg)
 
 When her mother catches her in a lie, Libby is punished and vowed "From
 now on, only the truth." Libby begins to blatantly tell the truth about
@@ -3904,8 +3851,7 @@ only the truth."*
 
 4.  If there were no consequences, would lying be okay?
 
-![Truth5.jpg](assets/Writing - Voice 8/media/media/image54.jpeg){width="2.6041666666666665in"
-height="3.1666666666666665in"}
+![Truth5.jpg](assets/Writing - Voice 8/media/media/image54.jpeg)
 
 **Truth regarding Someone's Feelings**
 
@@ -3946,8 +3892,7 @@ hurtful. But the honest-to-goodness truth is never wrong."*
 4.  Do you think Libby really needed to experience a hurtful truth
     herself to finally understand why her friends were mad at her?
 
-![Truth3.jpg](assets/Writing - Voice 8/media/media/image55.jpeg){width="2.2916666666666665in"
-height="2.8541666666666665in"}
+![Truth3.jpg](assets/Writing - Voice 8/media/media/image55.jpeg)
 
 **Choosing between Truth & Fiction (Lie)**
 
@@ -3973,8 +3918,7 @@ height="2.8541666666666665in"}
 2.  Is there actually a time or a situation where deceit is not only
     allowed, but necessary?
 
-![http://www.teachingchildrenphilosophy.org/w/images/Truth4.jpg](assets/Writing - Voice 8/media/media/image56.jpeg){width="2.5in"
-height="3.4479166666666665in"}
+![http://www.teachingchildrenphilosophy.org/w/images/Truth4.jpg](assets/Writing - Voice 8/media/media/image56.jpeg)
 
 **Writing**
 
@@ -3992,11 +3936,9 @@ height="3.4479166666666665in"}
   present students with some \"boring sentences\" in need of \"dressing
   up\" with similes.
 
-> ![http://www.gisellepotter.com/images/\_books/libby-Honest.jpg](assets/Writing - Voice 8/media/media/image57.jpeg){width="3.09375in"
-> height="4.166666666666667in"}
+> ![http://www.gisellepotter.com/images/\_books/libby-Honest.jpg](assets/Writing - Voice 8/media/media/image57.jpeg)
 
-![Truth2.jpg](assets/Writing - Voice 8/media/media/image58.jpeg){width="2.34375in"
-height="2.25in"}
+![Truth2.jpg](assets/Writing - Voice 8/media/media/image58.jpeg)
 
 **The Honest-to Goodness Truth**
 
@@ -4216,8 +4158,7 @@ Libby really did understand. She picked up a hoe and began helping.
 "Things are really looking pretty good around here," she said. And that
 was the honest-to-goodness truth.
 
-![http://enemypie.com/blog1/wp-content/uploads/2011/05/enemy_jacketa1.jpg](assets/Writing - Voice 8/media/media/image59.jpeg){width="2.1041666666666665in"
-height="2.6979166666666665in"}
+![http://enemypie.com/blog1/wp-content/uploads/2011/05/enemy_jacketa1.jpg](assets/Writing - Voice 8/media/media/image59.jpeg)
 
 **Summary**\
 \
@@ -4268,11 +4209,9 @@ is pretty clear, and well delivered.
   that a character does not, it is called **dramatic irony**. Dramatic
   irony is a terrific way of building suspense in a story.
 
-![http://wrjih.files.wordpress.com/2006/10/emeny-pie-excerpt.jpg?w=300](assets/Writing - Voice 8/media/media/image60.jpeg){width="3.125in"
-height="2.9791666666666665in"}
+![http://wrjih.files.wordpress.com/2006/10/emeny-pie-excerpt.jpg?w=300](assets/Writing - Voice 8/media/media/image60.jpeg)
 
-![http://1.bp.blogspot.com/-SQcwn0wMgXw/T2K8oSQKiYI/AAAAAAAAG2w/4H-ecm_DepE/s320/Screen+shot+2012-03-15+at+8.53.43+PM.png](assets/Writing - Voice 8/media/media/image61.png){width="2.8854166666666665in"
-height="3.3333333333333335in"}
+![http://1.bp.blogspot.com/-SQcwn0wMgXw/T2K8oSQKiYI/AAAAAAAAG2w/4H-ecm_DepE/s320/Screen+shot+2012-03-15+at+8.53.43+PM.png](assets/Writing - Voice 8/media/media/image61.png)
 
 **Enemy Pie**
 

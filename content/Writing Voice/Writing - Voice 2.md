@@ -12,13 +12,11 @@ strand: writing-voice
 
 ![Anne Lamott on how we keep ourselves small by people-pleasing, Walt
 Whitman illustrated, the \"backfire effect\" of our opinions, and
-more](assets/Writing - Voice 2/media/media/image1.jpeg){width="3.6847222222222222in"
-height="3.6847222222222222in"}
+more](assets/Writing - Voice 2/media/media/image1.jpeg)
 
 ![Anne Lamott on how we keep ourselves small by people-pleasing, Walt
 Whitman illustrated, the \"backfire effect\" of our opinions, and
-more](assets/Writing - Voice 2/media/media/image2.jpeg){width="1.8854166666666667in"
-height="1.8854166666666667in"}
+more](assets/Writing - Voice 2/media/media/image2.jpeg)
 
 Voi**ce 2**
 
@@ -44,8 +42,7 @@ Mr George Baker Amy Hest
 
 A Symphony of Whales Steve Schuch
 
-![427693_480644771977924_797761254_n](assets/Writing - Voice 2/media/media/image3.jpeg){width="3.9479166666666665in"
-height="3.9479166666666665in"}
+![427693_480644771977924_797761254_n](assets/Writing - Voice 2/media/media/image3.jpeg)
 
 **VOICE**
 
@@ -189,8 +186,7 @@ a topic and mode and write a piece in an appropriate voice.
 
 **Tone and Mood**
 
-![http://s1.hubimg.com/u/5560462_f520.jpg](assets/Writing - Voice 2/media/media/image4.jpeg){width="5.416666666666667in"
-height="0.46875in"}
+![http://s1.hubimg.com/u/5560462_f520.jpg](assets/Writing - Voice 2/media/media/image4.jpeg)
 
 **How are TONE and MOOD different? **
 
@@ -243,17 +239,14 @@ into*
 Ralph Fletcher, Roots and Wings: Literature and Children's Writing
 (1993)
 
-![http://madwomanintheforest.com/wp-content/uploads/2013/09/e1117c9689138e6bf7cdece4662acfce.jpg](assets/Writing - Voice 2/media/media/image5.jpeg){width="4.177083333333333in"
-height="4.177083333333333in"}
+![http://madwomanintheforest.com/wp-content/uploads/2013/09/e1117c9689138e6bf7cdece4662acfce.jpg](assets/Writing - Voice 2/media/media/image5.jpeg)
 
 ![The one thing that you have that nobody else has is you. Your voice,
 your mind, your story, your vision. So write and draw and build and play
 and dance and live as only you can. -Neil
-Gaiman](assets/Writing - Voice 2/media/media/image6.jpeg){width="6.268055555555556in"
-height="8.35740704286964in"}
+Gaiman](assets/Writing - Voice 2/media/media/image6.jpeg)
 
-![the-relatives-came](assets/Writing - Voice 2/media/media/image7.jpeg){width="3.2291666666666665in"
-height="3.5520833333333335in"}
+![the-relatives-came](assets/Writing - Voice 2/media/media/image7.jpeg)
 
 In a rainbow-coloured station wagon that smelt like a real car, the
 relatives came. When they arrived, they hugged and hugged from the
@@ -272,27 +265,22 @@ old, unite in hugs and laughter.*
 Cynthia Rylant really describes the setting and takes the small moment
 of the relatives' arrival and really makes it come to life!
 
-![Picture1](assets/Writing - Voice 2/media/media/image8.png){width="5.135416666666667in"
-height="4.25in"}
+![Picture1](assets/Writing - Voice 2/media/media/image8.png)
 
 The way that Cynthia describes the setting provides the opportunity to
 discuss different ways to use your senses to build a picture in the
 reader\'s eye of the setting. It says, \"They had an old station wagon
 that smelt like a real car.\"
 
-![Picture2](assets/Writing - Voice 2/media/media/image9.png){width="5.135416666666667in"
-height="3.96875in"}
+![Picture2](assets/Writing - Voice 2/media/media/image9.png)
 
-![image?pagenumber=1&w=800](assets/Writing - Voice 2/media/media/image10.png){width="6.28125in"
-height="8.364583333333334in"}
+![image?pagenumber=1&w=800](assets/Writing - Voice 2/media/media/image10.png)
 
 ![art, illustration, // The Relatives Came: Cynthia Rylant, Stephen
-Gammell](assets/Writing - Voice 2/media/media/image11.jpeg){width="6.25in"
-height="7.125in"}
+Gammell](assets/Writing - Voice 2/media/media/image11.jpeg)
 
 ![The Relatives Came: Cynthia Rylant, Stephen
-Gammell](assets/Writing - Voice 2/media/media/image12.jpeg){width="6.25in"
-height="7.125in"}
+Gammell](assets/Writing - Voice 2/media/media/image12.jpeg)
 
 **The Relatives Came Cynthia Rylant**
 
@@ -354,11 +342,9 @@ missed us.
 And when they were finally home in Virginia, they crawled into their
 silent, soft beds and dreamt about the next summer.
 
-![5-18-The-Relatives-Came-image](assets/Writing - Voice 2/media/media/image13.jpeg){width="6.135416666666667in"
-height="6.895833333333333in"}
+![5-18-The-Relatives-Came-image](assets/Writing - Voice 2/media/media/image13.jpeg)
 
-![717383-alt2hr](assets/Writing - Voice 2/media/media/image14.jpeg){width="5.572916666666667in"
-height="6.25in"}
+![717383-alt2hr](assets/Writing - Voice 2/media/media/image14.jpeg)
 
 **Reading Strategies**
 
@@ -474,8 +460,7 @@ There are many reasons why a family might get together. What are some
 reasons families get together? (birthdays, holidays, reunions, etc).
 What do these events mean? Why are they important?
 
-![http://3.bp.blogspot.com/-Pq22JvdXdEU/TtBuOr6-ujI/AAAAAAAABAU/zQp5vk8Fqgk/s1600/Let%2Bthe%2BCelebrations%2BBegin.jpg](assets/Writing - Voice 2/media/media/image15.jpeg){width="2.701314523184602in"
-height="3.7291666666666665in"}
+![http://3.bp.blogspot.com/-Pq22JvdXdEU/TtBuOr6-ujI/AAAAAAAABAU/zQp5vk8Fqgk/s1600/Let%2Bthe%2BCelebrations%2BBegin.jpg](assets/Writing - Voice 2/media/media/image15.jpeg)
 
 **Let the Celebrations BEGIN!**
 
@@ -564,8 +549,7 @@ Retell the story from the perspective of old Jacoba.
 
 Compare this book to *Rose Blanche*.
 
-![http://tabletmag.com/wp-content/files_mf/celebrations62012.png](assets/Writing - Voice 2/media/media/image16.png){width="6.268055555555556in"
-height="4.205662729658792in"}
+![http://tabletmag.com/wp-content/files_mf/celebrations62012.png](assets/Writing - Voice 2/media/media/image16.png)
 
 **Let the Celebrations BEGIN! Margaret Wild**
 
@@ -671,8 +655,7 @@ us.***
 
 ***Recollection of Dr Hadassah Rosensaft***
 
-![830051](assets/Writing - Voice 2/media/media/image17.jpeg){width="3.1041666666666665in"
-height="4.166666666666667in"}
+![830051](assets/Writing - Voice 2/media/media/image17.jpeg)
 
 Text: Ian McEwan Illustrations: Roberto Innocenti
 
@@ -702,11 +685,9 @@ even with her mother. Until the tide of the war turns and soldiers in
 different uniforms stream in from the East, and Rose and the imprisoned
 children disappear\...
 
-![http://2.bp.blogspot.com/-Xzpr6cQ18n4/UKpUIsC4KXI/AAAAAAAAAgM/8CmbQoTGYCQ/s1600/Scan+80.jpeg](assets/Writing - Voice 2/media/media/image18.jpeg){width="6.268055555555556in"
-height="7.301438101487314in"}
+![http://2.bp.blogspot.com/-Xzpr6cQ18n4/UKpUIsC4KXI/AAAAAAAAAgM/8CmbQoTGYCQ/s1600/Scan+80.jpeg](assets/Writing - Voice 2/media/media/image18.jpeg)
 
-![http://4.bp.blogspot.com/-xI_6WYRxZWI/UKpT5-HJZ4I/AAAAAAAAAgE/rh3kad_P7x0/s1600/lapointe6.jpg](assets/Writing - Voice 2/media/media/image19.jpeg){width="3.6458333333333335in"
-height="4.34375in"}
+![http://4.bp.blogspot.com/-xI_6WYRxZWI/UKpT5-HJZ4I/AAAAAAAAAgE/rh3kad_P7x0/s1600/lapointe6.jpg](assets/Writing - Voice 2/media/media/image19.jpeg)
 
 Inferring:
 
@@ -714,11 +695,9 @@ What do you think happened to Rose Blanche?
 
 Could you do what Rose Blanche did?
 
-![http://1.bp.blogspot.com/-BAGvj1vH2Ic/TkeY1uEpQlI/AAAAAAAAB0I/7PdoGAqxcn4/s320/RosaBlanca1_thumb2.jpg](assets/Writing - Voice 2/media/media/image20.jpeg){width="3.09375in"
-height="3.3333333333333335in"}
+![http://1.bp.blogspot.com/-BAGvj1vH2Ic/TkeY1uEpQlI/AAAAAAAAB0I/7PdoGAqxcn4/s320/RosaBlanca1_thumb2.jpg](assets/Writing - Voice 2/media/media/image20.jpeg)
 
-![http://www.thecreativecompany.us/books/li_roseblanche_e.jpg](assets/Writing - Voice 2/media/media/image21.jpeg){width="6.268055555555556in"
-height="4.17870406824147in"}
+![http://www.thecreativecompany.us/books/li_roseblanche_e.jpg](assets/Writing - Voice 2/media/media/image21.jpeg)
 
 Oddly, Roberto Innocenti, the illustrator\'s name is written before the
 much famous Ian McEwan (at least for the English audience). It goes to
@@ -1119,11 +1098,9 @@ White Rose movement was smuggled out of Germany and handed to the
 advancing Allies. They printed millions of copies of it and dropped them
 all over the country.  
 
-![http://www.holocaustresearchproject.org/revolt/images/wr%20monument.jpg](assets/Writing - Voice 2/media/media/image22.jpeg){width="5.239583333333333in"
-height="5.0in"}
+![http://www.holocaustresearchproject.org/revolt/images/wr%20monument.jpg](assets/Writing - Voice 2/media/media/image22.jpeg)
 
-![http://4.bp.blogspot.com/\_-hGembbujfM/SeYdUbXWk_I/AAAAAAAAAnM/KQ0wmTB6XhU/s400/miss_rumphius.jpg](assets/Writing - Voice 2/media/media/image23.jpeg){width="4.166666666666667in"
-height="3.34375in"}
+![http://4.bp.blogspot.com/\_-hGembbujfM/SeYdUbXWk_I/AAAAAAAAAnM/KQ0wmTB6XhU/s400/miss_rumphius.jpg](assets/Writing - Voice 2/media/media/image23.jpeg)
 
 **Miss Rumphius Barbara Cooney**
 
@@ -1135,8 +1112,7 @@ gestures may have a bigger impact than you imagine. This book inspires
 the reader to think of small ways to do something for the common good.
 What will you do to make the world more beautiful?
 
-![http://jeanporter.cmswiki.wikispaces.net/file/view/miss_rumphius_6.jpg/316599084/miss_rumphius_6.jpg](assets/Writing - Voice 2/media/media/image24.jpeg){width="3.125in"
-height="2.2083333333333335in"}
+![http://jeanporter.cmswiki.wikispaces.net/file/view/miss_rumphius_6.jpg/316599084/miss_rumphius_6.jpg](assets/Writing - Voice 2/media/media/image24.jpeg)
 
 This is a story that tells about one person from when she is a child to
 a very old woman. There are three things she wants to do in her life.
@@ -1169,8 +1145,7 @@ communities? What different communities do you belong to? (A community
 is a group of people coming together for a common purpose or in a common
 place.)
 
-![http://4.bp.blogspot.com/\_tDpzEN5Y2F0/TA1JXBxUwOI/AAAAAAAAAZk/IAWYLnQOw7Y/s400/MissRumphius-village003.jpg](assets/Writing - Voice 2/media/media/image25.jpeg){width="4.166666666666667in"
-height="3.5729166666666665in"}
+![http://4.bp.blogspot.com/\_tDpzEN5Y2F0/TA1JXBxUwOI/AAAAAAAAAZk/IAWYLnQOw7Y/s400/MissRumphius-village003.jpg](assets/Writing - Voice 2/media/media/image25.jpeg)
 
 Making the World a More Beautiful Place
 
@@ -1195,8 +1170,7 @@ niece at the conclusion of the book.
 
 By Jenna Caputo
 
-![Caputo.missrumphius.image-3.jpg](assets/Writing - Voice 2/media/media/image26.jpeg){width="2.7083333333333335in"
-height="3.125in"}
+![Caputo.missrumphius.image-3.jpg](assets/Writing - Voice 2/media/media/image26.jpeg)
 
 Every person has values, whether they know specifically what they are,
 or whether they just live by them without realising it. Values in their
@@ -1241,8 +1215,7 @@ By Jenna Caputo
 
 **Topic: Making the World More Beautiful**
 
-![Caputo.missrumphius.image-4.jpg](assets/Writing - Voice 2/media/media/image27.jpeg){width="3.125in"
-height="2.6354166666666665in"}
+![Caputo.missrumphius.image-4.jpg](assets/Writing - Voice 2/media/media/image27.jpeg)
 
 *Miss Rumphius' grandfather tells her that she must make the world more
 beautiful*
@@ -1264,8 +1237,7 @@ beautiful*
 7.  Can you make a person more beautiful? Does that make a better
     person?
 
-![Caputo.missrumphius.image-1.jpg](assets/Writing - Voice 2/media/media/image28.jpeg){width="2.0833333333333335in"
-height="3.1041666666666665in"}
+![Caputo.missrumphius.image-1.jpg](assets/Writing - Voice 2/media/media/image28.jpeg)
 
 **Topic: Family Values**
 
@@ -1287,8 +1259,7 @@ her great niece*
     everything you can to make sure that the desires of your family
     members are fulfilled?
 
-![Caputo.missrumphius.image-2.jpg](assets/Writing - Voice 2/media/media/image29.jpeg){width="2.3958333333333335in"
-height="3.125in"}
+![Caputo.missrumphius.image-2.jpg](assets/Writing - Voice 2/media/media/image29.jpeg)
 
 **Topic: The Nature of Friendship**
 
@@ -1306,32 +1277,24 @@ become her friends*
 
 5.  What is it about a person that makes them your friend?
 
-![http://media-cache-ec0.pinimg.com/736x/69/75/44/69754400182b856e91e5d7e61f305ae2.jpg](assets/Writing - Voice 2/media/media/image30.jpeg){width="6.062498906386701in"
-height="4.546875546806649in"}
+![http://media-cache-ec0.pinimg.com/736x/69/75/44/69754400182b856e91e5d7e61f305ae2.jpg](assets/Writing - Voice 2/media/media/image30.jpeg)
 
-![https://lh4.googleusercontent.com/-d8qPwyJ8CNA/TXTuzvYpYVI/AAAAAAAAAj0/nlM5ZCn4wTg/s1600/Miss+Rumphius+Cottage.jpg](assets/Writing - Voice 2/media/media/image31.jpeg){width="6.0625in"
-height="4.757377515310586in"}
+![https://lh4.googleusercontent.com/-d8qPwyJ8CNA/TXTuzvYpYVI/AAAAAAAAAj0/nlM5ZCn4wTg/s1600/Miss+Rumphius+Cottage.jpg](assets/Writing - Voice 2/media/media/image31.jpeg)
 
-![http://1.bp.blogspot.com/-HJpx0twkUOI/UFsp16u5JGI/AAAAAAABPuI/sYRxyQbFwAo/s1600/Miss+Rumphius+helping+grandfather.jpg](assets/Writing - Voice 2/media/media/image32.jpeg){width="5.677083333333333in"
-height="4.546102362204724in"}
+![http://1.bp.blogspot.com/-HJpx0twkUOI/UFsp16u5JGI/AAAAAAABPuI/sYRxyQbFwAo/s1600/Miss+Rumphius+helping+grandfather.jpg](assets/Writing - Voice 2/media/media/image32.jpeg)
 
-![http://media-cache-ec0.pinimg.com/originals/4f/a9/cc/4fa9ccc39330511ca04b1b6e5711f363.jpg](assets/Writing - Voice 2/media/media/image33.jpeg){width="5.708333333333333in"
-height="4.563694225721785in"}
+![http://media-cache-ec0.pinimg.com/originals/4f/a9/cc/4fa9ccc39330511ca04b1b6e5711f363.jpg](assets/Writing - Voice 2/media/media/image33.jpeg)
 
-![https://lh3.googleusercontent.com/-GgZPLbfOR5s/TXTu_dWprJI/AAAAAAAAAj4/RMJQONxaJbQ/s1600/Miss+Rumphius+in+bed.jpg](assets/Writing - Voice 2/media/media/image34.jpeg){width="6.268055555555556in"
-height="4.967652012248469in"}
+![https://lh3.googleusercontent.com/-GgZPLbfOR5s/TXTu_dWprJI/AAAAAAAAAj4/RMJQONxaJbQ/s1600/Miss+Rumphius+in+bed.jpg](assets/Writing - Voice 2/media/media/image34.jpeg)
 
-![http://media-cache-ak0.pinimg.com/736x/58/6f/ef/586fef80a92a9ff2d0ad57ff338b1be5.jpg](assets/Writing - Voice 2/media/media/image35.jpeg){width="5.208333333333333in"
-height="3.90625in"}
+![http://media-cache-ak0.pinimg.com/736x/58/6f/ef/586fef80a92a9ff2d0ad57ff338b1be5.jpg](assets/Writing - Voice 2/media/media/image35.jpeg)
 
-![http://jeanporter.cmswiki.wikispaces.net/file/view/miss_rumphius\_\--\_barbara_cooney_1917-2000.jpg/316589362/miss_rumphius\_\--\_barbara_cooney_1917-2000.jpg](assets/Writing - Voice 2/media/media/image36.jpeg){width="3.5208333333333335in"
-height="3.9583333333333335in"}
+![http://jeanporter.cmswiki.wikispaces.net/file/view/miss_rumphius\_\--\_barbara_cooney_1917-2000.jpg/316589362/miss_rumphius\_\--\_barbara_cooney_1917-2000.jpg](assets/Writing - Voice 2/media/media/image36.jpeg)
 
 # Barbara Cooney\'s Obituary
 
 ![cover
-art](assets/Writing - Voice 2/media/media/image37.gif){width="1.84375in"
-height="1.4583333333333333in"}(March 13, 2000. New York, NY) Barbara
+art](assets/Writing - Voice 2/media/media/image37.gif)(March 13, 2000. New York, NY) Barbara
 Cooney, renowned children\'s book author and illustrator, died on
 Friday, March 10 after a lengthy illness at Maine Medical Center in
 Portland, Maine. Ms. Cooney was 83 years of age.
@@ -1385,8 +1348,7 @@ English, and Arabic \-- thereby teaching the children of the world the
 culture, history and society of her beloved New England.
 
 ![cover
-art](assets/Writing - Voice 2/media/media/image38.gif){width="1.875in"
-height="1.4583333333333333in"}Miss Cooney\'s range of expression in her
+art](assets/Writing - Voice 2/media/media/image38.gif)Miss Cooney\'s range of expression in her
 art ran the gamut from superb scratchboard technique (*Chanticleer and
 the Fox*) \-- a technique which is unforgiving of the most minor error
 \-- to a style often referred to as \"early American primitive\" in
@@ -1436,8 +1398,7 @@ declaring her a \"Living Treasure of the State of Maine\" and proclaimed
 state gave her enormous pleasure.
 
 ![cover
-art](assets/Writing - Voice 2/media/media/image39.gif){width="1.4583333333333333in"
-height="1.2291666666666667in"}Miss Cooney has been awarded four honorary
+art](assets/Writing - Voice 2/media/media/image39.gif)Miss Cooney has been awarded four honorary
 doctoral degrees \-- from Fitchburg State College in 1988; University of
 Maine at Machias, 1994; Westbrook College in Portland, Maine in 1995;
 and from Bowdoin College in 1996.
@@ -1461,17 +1422,13 @@ Shetu Nanday of West Bengal, India, Samuel Goldsmith of Los Angeles,
 California, and Elijah W. Porter of Damariscott, Maine, and one
 great-grandchild, Soraya Nanday or West Bengal, India.
 
-![http://www.thechildrensbookreview.com/wp-content/uploads/2014/02/Miss-Rumphius-Illusration.png](assets/Writing - Voice 2/media/media/image40.png){width="6.268055555555556in"
-height="5.144448818897637in"}
+![http://www.thechildrensbookreview.com/wp-content/uploads/2014/02/Miss-Rumphius-Illusration.png](assets/Writing - Voice 2/media/media/image40.png)
 
-![https://lh4.googleusercontent.com/-3rNURIcP7dA/TXTueSTanLI/AAAAAAAAAjs/D6xFQ8zA0Gw/s1600/Miss+Rumphius+working+in+library.jpg](assets/Writing - Voice 2/media/media/image41.jpeg){width="6.268055555555556in"
-height="5.032944006999125in"}
+![https://lh4.googleusercontent.com/-3rNURIcP7dA/TXTueSTanLI/AAAAAAAAAjs/D6xFQ8zA0Gw/s1600/Miss+Rumphius+working+in+library.jpg](assets/Writing - Voice 2/media/media/image41.jpeg)
 
-![http://tickledmomclarice.com/wp-content/uploads/2014/02/Miss-Rumphius-Travels1.jpg](assets/Writing - Voice 2/media/media/image42.jpeg){width="6.268055555555556in"
-height="5.147641076115486in"}
+![http://tickledmomclarice.com/wp-content/uploads/2014/02/Miss-Rumphius-Travels1.jpg](assets/Writing - Voice 2/media/media/image42.jpeg)
 
-![http://lupineladylife.files.wordpress.com/2013/01/miss-rumphius-grandfather.jpg](assets/Writing - Voice 2/media/media/image43.jpeg){width="6.268055555555556in"
-height="5.222073490813648in"}
+![http://lupineladylife.files.wordpress.com/2013/01/miss-rumphius-grandfather.jpg](assets/Writing - Voice 2/media/media/image43.jpeg)
 
 **Miss Rumphius Barbara Cooney**
 
@@ -1638,8 +1595,7 @@ But I do not know yet what that can be.
 
 **A Bad Case of Stripes David Shannon**
 
-![A-Bad-Case-of-Stipes](assets/Writing - Voice 2/media/media/image44.jpeg){width="2.2395833333333335in"
-height="2.875in"}
+![A-Bad-Case-of-Stipes](assets/Writing - Voice 2/media/media/image44.jpeg)
 
 After she refuses to eat her lima beans, Camilla finds herself covered
 with stripes. The stripes change into stars, polka dots, and other
@@ -1672,11 +1628,9 @@ herself.
 | Simile               | *just as plump and sweet as a strawberry.*  |
 +----------------------+---------------------------------------------+
 
-![ANd9GcSWfQZ02p58B4OmhsPfpmOXM4TFT96dSTnpmgw2_f2yxVQjNl-s](assets/Writing - Voice 2/media/media/image45.jpeg){width="2.0625in"
-height="2.6458333333333335in"}
+![ANd9GcSWfQZ02p58B4OmhsPfpmOXM4TFT96dSTnpmgw2_f2yxVQjNl-s](assets/Writing - Voice 2/media/media/image45.jpeg)
 
-![ANd9GcS-BRJfIRGOV1fLlkqdXiqB4M3Ki491QXdhcy8FYpaWdr93zKRH](assets/Writing - Voice 2/media/media/image46.jpeg){width="2.0520833333333335in"
-height="2.6666666666666665in"}
+![ANd9GcS-BRJfIRGOV1fLlkqdXiqB4M3Ki491QXdhcy8FYpaWdr93zKRH](assets/Writing - Voice 2/media/media/image46.jpeg)
 
 Using photographs with writing.
 
@@ -1888,8 +1842,7 @@ Afterward, Camilla wasn\'t quite the same. Some of the kids at school
 said she was weird, but she didn\'t care a bit. She ate all the lima
 beans she wanted, and she never had even a touch of stripes again.
 
-![http://texasbluebonnetaward2013.files.wordpress.com/2011/12/postcardsfromcamp.jpg?w=300&h=300](assets/Writing - Voice 2/media/media/image47.jpeg){width="3.125in"
-height="3.1354166666666665in"}
+![http://texasbluebonnetaward2013.files.wordpress.com/2011/12/postcardsfromcamp.jpg?w=300&h=300](assets/Writing - Voice 2/media/media/image47.jpeg)
 
 **Postcards From Camp Simms Taback**
 
@@ -1913,8 +1866,7 @@ is back with a vibrant and clever interactive picture book. With the
 exception of a brief prelude and epilogue, the entire story is told
 through postcards and letters, some of which can be removed from their
 envelopes and
-![http://simmstaback.com/Simms_Taback_Books\_-\_Postcards_From_Camp_files/Page-08-09-02-opt.jpg](assets/Writing - Voice 2/media/media/image48.jpeg){width="6.268055555555556in"
-height="3.134027777777778in"}Michael and Harry, with illustrations that
+![http://simmstaback.com/Simms_Taback_Books\_-\_Postcards_From_Camp_files/Page-08-09-02-opt.jpg](assets/Writing - Voice 2/media/media/image48.jpeg)Michael and Harry, with illustrations that
 layer more meaning and richness to the words that each writes. Perfect
 for teachers to read aloud at the beginning of the year and for students
 to reread and explore on their own, Postcards from Camp is a fantastic
@@ -1963,18 +1915,15 @@ by shifting points of view in his story? You might want to follow up
 this discussion by having students tell a story in alternating
 perspectives.
 
-![http://stevebrodner.com/wp-content/uploads/2011/06/Black-Frog-Lake-620x581.jpg](assets/Writing - Voice 2/media/media/image49.jpeg){width="4.53125in"
-height="4.246220472440945in"}
+![http://stevebrodner.com/wp-content/uploads/2011/06/Black-Frog-Lake-620x581.jpg](assets/Writing - Voice 2/media/media/image49.jpeg)
 
 **Postcards from Camp Simms Taback**
 
 On the first day Michael went to camp, he sent his father this card \...
 
-![http://stevebrodner.com/wp-content/uploads/2011/06/Aliens-620x438.jpg](assets/Writing - Voice 2/media/media/image50.jpeg){width="5.416666666666667in"
-height="3.826613079615048in"}
+![http://stevebrodner.com/wp-content/uploads/2011/06/Aliens-620x438.jpg](assets/Writing - Voice 2/media/media/image50.jpeg)
 
-![http://stevebrodner.com/wp-content/uploads/2011/06/I-HATE-CAMP-620x444.jpg](assets/Writing - Voice 2/media/media/image51.jpeg){width="5.510416666666667in"
-height="3.9461701662292215in"}
+![http://stevebrodner.com/wp-content/uploads/2011/06/I-HATE-CAMP-620x444.jpg](assets/Writing - Voice 2/media/media/image51.jpeg)
 
 7/5
 
@@ -2010,8 +1959,7 @@ Your loving son,
 
 Mike XXX
 
-![http://simmstaback.com/Simms_Taback_Books\_-\_Postcards_From_Camp_files/Page-10-11-02-opt.jpg](assets/Writing - Voice 2/media/media/image52.jpeg){width="6.268055555555556in"
-height="3.134027777777778in"}
+![http://simmstaback.com/Simms_Taback_Books\_-\_Postcards_From_Camp_files/Page-10-11-02-opt.jpg](assets/Writing - Voice 2/media/media/image52.jpeg)
 
 7/12
 
@@ -2136,8 +2084,7 @@ Love, Michael
 This is the kind of canoe we were in. We learnt to use a compass and
 orient with a map, too.
 
-![http://simmstaback.com/Simms_Taback_Books\_-\_Postcards_From_Camp_files/Ghost-Story-04-opt.jpg](assets/Writing - Voice 2/media/media/image53.jpeg){width="2.9895833333333335in"
-height="4.364583333333333in"}
+![http://simmstaback.com/Simms_Taback_Books\_-\_Postcards_From_Camp_files/Ghost-Story-04-opt.jpg](assets/Writing - Voice 2/media/media/image53.jpeg)
 
 Chapter 1.
 
@@ -2268,8 +2215,7 @@ P.S. My dad caught the smallest fish I ever saw on a hook.
 
 The next year, Michael went to camp for the whole summer.
 
-![723892](assets/Writing - Voice 2/media/media/image54.jpeg){width="1.9270833333333333in"
-height="2.5208333333333335in"}
+![723892](assets/Writing - Voice 2/media/media/image54.jpeg)
 
 **Edward and the Pirates David McPhail**
 
@@ -2386,11 +2332,9 @@ including "Henry Bear's Park" and "Pig Pig Grows Up". He has continued
 to write and illustrate and there are now well over 100 books with his
 name on them.
 
-![homepage2](assets/Writing - Voice 2/media/media/image55.jpeg){width="6.268055555555556in"
-height="4.323383639545057in"}
+![homepage2](assets/Writing - Voice 2/media/media/image55.jpeg)
 
-![homepage1](assets/Writing - Voice 2/media/media/image56.jpeg){width="6.268055555555556in"
-height="4.706303587051618in"}
+![homepage1](assets/Writing - Voice 2/media/media/image56.jpeg)
 
 **Edward and the Pirates David McPhail**
 
@@ -2534,8 +2478,7 @@ opened the book and began to read aloud:
 
 "Some pirate treasure has never been found \...."
 
-![305637](assets/Writing - Voice 2/media/media/image57.jpeg){width="2.2908136482939634in"
-height="2.9895833333333335in"}
+![305637](assets/Writing - Voice 2/media/media/image57.jpeg)
 
 **Mr George Baker Amy Hest**
 
@@ -2774,11 +2717,9 @@ his fingers fly across his knees. Like a big old drum.
 
 *Tappidy-boom-boom-tap.*
 
-![http://media-cache-ec0.pinimg.com/736x/ab/ae/e3/abaee3ecdebdef36b22eb022cf8ae22e.jpg](assets/Writing - Voice 2/media/media/image58.jpeg){width="3.4270833333333335in"
-height="2.5703116797900263in"}*\*
+![http://media-cache-ec0.pinimg.com/736x/ab/ae/e3/abaee3ecdebdef36b22eb022cf8ae22e.jpg](assets/Writing - Voice 2/media/media/image58.jpeg)*\*
 
-![163295](assets/Writing - Voice 2/media/media/image59.jpeg){width="3.3125in"
-height="2.4166666666666665in"}
+![163295](assets/Writing - Voice 2/media/media/image59.jpeg)
 
 **A Symphony of Whales Steve Schuch**
 
@@ -2808,15 +2749,12 @@ Steve Schuch also created a piece of music called "Whale Trilogy." This
 very original composition tells this same whale rescue story musically
 by melding violin and actual whale songs.
 
-![http://www.the-best-childrens-books.org/image-files/a-symphony-of-whales-2.jpg](assets/Writing - Voice 2/media/media/image60.jpeg){width="2.5416666666666665in"
-height="1.875in"}
+![http://www.the-best-childrens-books.org/image-files/a-symphony-of-whales-2.jpg](assets/Writing - Voice 2/media/media/image60.jpeg)
 
 ![A Symphony of
-Whales](assets/Writing - Voice 2/media/media/image61.jpeg){width="5.833333333333333in"
-height="4.614583333333333in"}
+Whales](assets/Writing - Voice 2/media/media/image61.jpeg)
 
-![http://www.nytimes.com/books/99/11/21/specials/112199best-illustrated.10.gif](assets/Writing - Voice 2/media/media/image62.gif){width="4.166666666666667in"
-height="2.2395833333333335in"}
+![http://www.nytimes.com/books/99/11/21/specials/112199best-illustrated.10.gif](assets/Writing - Voice 2/media/media/image62.gif)
 
 **Imagery -- Sensory words**
 
@@ -2953,8 +2891,7 @@ story publicised and the Chukchis's low-tech successful evacuation of
 3,000 beluga whales limited to a fictionalised story of a girl who had
 the ability to hear the sound of Narna?
 
-![http://nationalpostnews.files.wordpress.com/2013/02/beluga.jpg?w=620&h=395&h=395](assets/Writing - Voice 2/media/media/image63.jpeg){width="6.268055555555556in"
-height="4.003467847769029in"}
+![http://nationalpostnews.files.wordpress.com/2013/02/beluga.jpg?w=620&h=395&h=395](assets/Writing - Voice 2/media/media/image63.jpeg)
 
 # 
 
@@ -3198,8 +3135,7 @@ grandmother asked.
 bigger than that \... something like a whole symphony of whales!"
 
 ![adorable endangered
-species](assets/Writing - Voice 2/media/media/image64.jpeg){width="6.268055555555556in"
-height="4.17870406824147in"}
+species](assets/Writing - Voice 2/media/media/image64.jpeg)
 
 The U.S. government considers the Beluga, known by its distinctive head
 bulge and white colour, to be endangered in their Alaska habitat. There
@@ -3207,11 +3143,9 @@ are an estimated 100,000 of the animals left in the wild; because of
 their wide range of vocalizations, including clicks, chirps and
 whistles, the whales are sometimes known as 'Canaries of the Sea'.
 
-![https://c402277.ssl.cf1.rackcdn.com/photos/2984/images/story_full_width/GPN279152\_(c)\_naturepl.com_Sue_Flood_WWF_Canon.jpg?1354050718](assets/Writing - Voice 2/media/media/image65.jpeg){width="6.268055555555556in"
-height="3.7608333333333333in"}
+![https://c402277.ssl.cf1.rackcdn.com/photos/2984/images/story_full_width/GPN279152\_(c)\_naturepl.com_Sue_Flood_WWF_Canon.jpg?1354050718](assets/Writing - Voice 2/media/media/image65.jpeg)
 
-![http://2012expo.files.wordpress.com/2012/07/ebb2a8eba3a8eab080-5.jpg](assets/Writing - Voice 2/media/media/image66.jpeg){width="6.268055555555556in"
-height="4.177363298337708in"}
+![http://2012expo.files.wordpress.com/2012/07/ebb2a8eba3a8eab080-5.jpg](assets/Writing - Voice 2/media/media/image66.jpeg)
 
 # RUSSIANS TELL SAGA OF WHALES RESCUED BY AN ICEBREAKER
 
@@ -3321,8 +3255,7 @@ Finally, in late February, the ship led the belugas to the open sea.
 **An Author\'s Interview**\
 Steve Schuch talks about A Symphony of Whales, his music, and the
 importance of the Arts in the lives of children and adults \
-![steve](assets/Writing - Voice 2/media/media/image67.jpeg){width="1.5833333333333333in"
-height="2.25in"}**How did you first hear about the Chukchi whale rescue,
+![steve](assets/Writing - Voice 2/media/media/image67.jpeg)**How did you first hear about the Chukchi whale rescue,
 the event on which you based your new children\'s book, A Symphony of
 Whales?**\
 I first learned of the rescue one winter while on tour in Alaska. The
@@ -3348,8 +3281,7 @@ beach in the Bahamas, it would have been very different!
 
 **Why do you think the whales responded to classical music?\**
 ![whale
-symphony](assets/Writing - Voice 2/media/media/image68.jpeg){width="1.9270833333333333in"
-height="2.21875in"}One possibility is that music played from the
+symphony](assets/Writing - Voice 2/media/media/image68.jpeg)One possibility is that music played from the
 icebreaker simply calmed the whales enough so they weren't afraid of it.
 Or perhaps the whales really liked the music and wanted to hear more. I
 also wonder if just maybe the whales experienced their own "Mozart

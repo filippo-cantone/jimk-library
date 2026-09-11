@@ -10,15 +10,13 @@ strand: writing-voice
 
 > **(13)**
 >
-> ![http://worddreams.files.wordpress.com/2010/10/fingerprint_large.jpg](assets/Writing - Voice 13/media/media/image1.jpeg){width="3.3125in"
-> height="4.583333333333333in"}
+> ![http://worddreams.files.wordpress.com/2010/10/fingerprint_large.jpg](assets/Writing - Voice 13/media/media/image1.jpeg)
 
 **Narrative Voice**
 
 **Perspective 4**
 
-![http://worddreams.files.wordpress.com/2010/10/fingerprint_large.jpg](assets/Writing - Voice 13/media/media/image2.jpeg){width="1.3958333333333333in"
-height="1.9313418635170603in"}
+![http://worddreams.files.wordpress.com/2010/10/fingerprint_large.jpg](assets/Writing - Voice 13/media/media/image2.jpeg)
 
 **Voice 13**
 
@@ -60,11 +58,9 @@ Always wear Clean Underwear Marc Gellman
 
 Earthdance Joanne Ryder
 
-![http://fansofbeingamom.com/wp-content/uploads/2010/09/mousecookie.jpg](assets/Writing - Voice 13/media/media/image3.jpeg){width="1.5335651793525809in"
-height="2.2083333333333335in"}
+![http://fansofbeingamom.com/wp-content/uploads/2010/09/mousecookie.jpg](assets/Writing - Voice 13/media/media/image3.jpeg)
 
-![http://www.harpercollins.com/harperimages/isbn/large/7/9780688153397.jpg](assets/Writing - Voice 13/media/media/image4.jpeg){width="2.6818897637795276in"
-height="3.1770833333333335in"}
+![http://www.harpercollins.com/harperimages/isbn/large/7/9780688153397.jpg](assets/Writing - Voice 13/media/media/image4.jpeg)
 
 **The Secret Knowledge of Grown-Ups David Wisniewski**
 
@@ -79,11 +75,9 @@ secrets revealed in this book by Caldecott medallist David Wisniewski.
 But don′t let anyone catch you reading it-especially grown-ups. Who
 knows what could happen if they knew that you knew?
 
-![http://ecx.images-amazon.com/images/I/51ZWW5DHPVL.jpg](assets/Writing - Voice 13/media/media/image5.jpeg){width="4.947916666666667in"
-height="2.9479166666666665in"}
+![http://ecx.images-amazon.com/images/I/51ZWW5DHPVL.jpg](assets/Writing - Voice 13/media/media/image5.jpeg)
 
-![http://c3.q-assets.com/images/products/p/hp/hp-5453_3z.jpg](assets/Writing - Voice 13/media/media/image6.jpeg){width="6.268055555555556in"
-height="7.511557305336833in"}
+![http://c3.q-assets.com/images/products/p/hp/hp-5453_3z.jpg](assets/Writing - Voice 13/media/media/image6.jpeg)
 
 **Lesson:**
 
@@ -444,8 +438,7 @@ the habit, dispose of the scraps properly by sending them to an
 accordion factory. They use lone fingers to test accordions because most
 normal people don't want to listen to them.
 
-![http://birdandlittlebird.typepad.com/.a/6a00e550e99ce588340148c6ec8626970c-500wi](assets/Writing - Voice 13/media/media/image7.jpeg){width="2.953167104111986in"
-height="3.9166666666666665in"}
+![http://birdandlittlebird.typepad.com/.a/6a00e550e99ce588340148c6ec8626970c-500wi](assets/Writing - Voice 13/media/media/image7.jpeg)
 
 Overview
 
@@ -535,8 +528,7 @@ See, I told you I could read your mind. In fact, I'm so good, I bet if
 you go back to the start of the book, I could do it again.
 
 ![How to Lose All Your
-Friends](assets/Writing - Voice 13/media/media/image8.jpeg){width="3.1104647856517937in"
-height="3.34375in"}
+Friends](assets/Writing - Voice 13/media/media/image8.jpeg)
 
 **How to Lose All Your Friends Nancy Carlson**
 
@@ -597,8 +589,7 @@ you want.
 
 And you will have no friends to bother you.
 
-![http://jillsbooks.files.wordpress.com/2014/05/if-you-want-to-see-a-caribou-cover-image.jpg?w=500](assets/Writing - Voice 13/media/media/image9.jpeg){width="2.7083333333333335in"
-height="2.25in"}
+![http://jillsbooks.files.wordpress.com/2014/05/if-you-want-to-see-a-caribou-cover-image.jpg?w=500](assets/Writing - Voice 13/media/media/image9.jpeg)
 
 **If You Want to see a Caribou Phyllis Root**
 
@@ -665,8 +656,7 @@ Writing in 2^nd^ person.
 
 Free verse poetry
 
-![http://jillsbooks.files.wordpress.com/2014/05/if-you-want-to-see-a-caribou-illustration-jim-meyers.gif?w=394&h=275](assets/Writing - Voice 13/media/media/image10.gif){width="4.104166666666667in"
-height="2.8645833333333335in"}
+![http://jillsbooks.files.wordpress.com/2014/05/if-you-want-to-see-a-caribou-illustration-jim-meyers.gif?w=394&h=275](assets/Writing - Voice 13/media/media/image10.gif)
 
 **If You Want to See a Caribou Phyllis Root**
 
@@ -812,8 +802,7 @@ you have seen a caribou.
 
 And a caribou knows your name.
 
-![http://dressedtoat.files.wordpress.com/2011/03/if_you_give_a_mouse_cookie.jpg](assets/Writing - Voice 13/media/media/image11.jpeg){width="3.986111111111111in"
-height="4.5in"}
+![http://dressedtoat.files.wordpress.com/2011/03/if_you_give_a_mouse_cookie.jpg](assets/Writing - Voice 13/media/media/image11.jpeg)
 
 **If You Give a Mouse a Cookie Laura Numeroff**
 
@@ -888,15 +877,12 @@ And chances are if he asks for a glass of milk,
 he's going to want a cookie to go with it.
 
 ![File:If You Give a Mouse a Cookie (11), illustrated by Felicia
-Bond.JPG](assets/Writing - Voice 13/media/media/image12.jpeg){width="6.268055555555556in"
-height="4.935476815398075in"}
+Bond.JPG](assets/Writing - Voice 13/media/media/image12.jpeg)
 
-![http://www.the-best-childrens-books.org/image-files/if-you-give-a-mouse-a-cookie-4.jpg](assets/Writing - Voice 13/media/media/image13.jpeg){width="6.041666666666667in"
-height="3.375in"}
+![http://www.the-best-childrens-books.org/image-files/if-you-give-a-mouse-a-cookie-4.jpg](assets/Writing - Voice 13/media/media/image13.jpeg)
 
 ![If You Give a Mouse a
-Cookie](assets/Writing - Voice 13/media/media/image14.jpeg){width="6.041666666666667in"
-height="3.4375in"}
+Cookie](assets/Writing - Voice 13/media/media/image14.jpeg)
 
 **\**
 
@@ -942,8 +928,7 @@ five events and working back to the original prompt.
 
 **\**
 
-![http://ws-na.amazon-adsystem.com/widgets/q?\_encoding=UTF8&ASIN=0060244054&Format=\_SL250\_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=candiddi-20](assets/Writing - Voice 13/media/media/image15.jpeg){width="2.3229166666666665in"
-height="2.6041666666666665in"}
+![http://ws-na.amazon-adsystem.com/widgets/q?\_encoding=UTF8&ASIN=0060244054&Format=\_SL250\_&ID=AsinImage&MarketPlace=US&ServiceVersion=20070822&WS=1&tag=candiddi-20](assets/Writing - Voice 13/media/media/image15.jpeg)
 
 **If You Give a Moose a Muffin Laura Numeroff**
 
@@ -957,18 +942,14 @@ is again run ragged by a surprise guest. Young readers will delight in
 the comic complications that follow when a little boy entertains a
 gregarious moose**.**
 
-![http://realwomen1.files.wordpress.com/2013/04/moose-muffin.jpg](assets/Writing - Voice 13/media/media/image16.jpeg){width="4.166666666666667in"
-height="2.8125in"}
+![http://realwomen1.files.wordpress.com/2013/04/moose-muffin.jpg](assets/Writing - Voice 13/media/media/image16.jpeg)
 
-![http://www.ebeanstalk.com/images/products2-full/120-005.jpg](assets/Writing - Voice 13/media/media/image17.jpeg){width="6.268055555555556in"
-height="7.099739720034996in"}
+![http://www.ebeanstalk.com/images/products2-full/120-005.jpg](assets/Writing - Voice 13/media/media/image17.jpeg)
 
 ![If You Give A Moose A
-Muffin](assets/Writing - Voice 13/media/media/image18.jpeg){width="3.3333333333333335in"
-height="3.3333333333333335in"}
+Muffin](assets/Writing - Voice 13/media/media/image18.jpeg)
 
-![http://ecx.images-amazon.com/images/I/511DA021G2L.jpg](assets/Writing - Voice 13/media/media/image19.jpeg){width="4.947916666666667in"
-height="2.84375in"}
+![http://ecx.images-amazon.com/images/I/511DA021G2L.jpg](assets/Writing - Voice 13/media/media/image19.jpeg)
 
 **If You Give a Moose a Muffin Laura Numeroff**
 
@@ -1040,11 +1021,9 @@ And chances are \... if you give him the jam,
 
 He'll want a muffin to go with it.
 
-![http://1.bp.blogspot.com/-agSCqU5e32U/Tny8iItbHwI/AAAAAAAAACA/uK8zTDVBUmQ/s1600/mouse-cookie.jpg](assets/Writing - Voice 13/media/media/image20.jpeg){width="6.268055555555556in"
-height="4.705220909886264in"}**\**
+![http://1.bp.blogspot.com/-agSCqU5e32U/Tny8iItbHwI/AAAAAAAAACA/uK8zTDVBUmQ/s1600/mouse-cookie.jpg](assets/Writing - Voice 13/media/media/image20.jpeg)**\**
 
-![http://ecx.images-amazon.com/images/I/91-hL5mqlUL.jpg](assets/Writing - Voice 13/media/media/image21.jpeg){width="4.379629265091864in"
-height="4.927083333333333in"}
+![http://ecx.images-amazon.com/images/I/91-hL5mqlUL.jpg](assets/Writing - Voice 13/media/media/image21.jpeg)
 
 **If You Give a Cat a Cupcake Laura Numeroff**
 
@@ -1126,8 +1105,7 @@ he'll want a cupcake to go with them.
 
 **\**
 
-![http://childrensbooksguide.com/wp-content/uploads/2010/03/if-you-give-a-pig-a-pancake-image.jpg](assets/Writing - Voice 13/media/media/image22.jpeg){width="3.9021106736657916in"
-height="4.364583333333333in"}
+![http://childrensbooksguide.com/wp-content/uploads/2010/03/if-you-give-a-pig-a-pancake-image.jpg](assets/Writing - Voice 13/media/media/image22.jpeg)
 
 **If You Give a Pig a Pancake Laura Numeroff**
 
@@ -1163,24 +1141,19 @@ of the things that she makes you do while you're reading the story. For
 fun bedtime reading, or really for any time reading, Numeroff and Bond
 deliver.
 
-![http://burlingtonvt.citymomsblog.com/wp-content/uploads/sites/19/2014/07/pigpancake1.jpg](assets/Writing - Voice 13/media/media/image23.jpeg){width="2.6041666666666665in"
-height="4.635416666666667in"}
+![http://burlingtonvt.citymomsblog.com/wp-content/uploads/sites/19/2014/07/pigpancake1.jpg](assets/Writing - Voice 13/media/media/image23.jpeg)
 
 **\**
 
-![http://3.bp.blogspot.com/-kjHAsVcy3ug/Tny8m-bCIXI/AAAAAAAAACE/QYWk_BqQ4NY/s1600/pig-pancake.jpg](assets/Writing - Voice 13/media/media/image24.jpeg){width="6.268055555555556in"
-height="4.705220909886264in"}
+![http://3.bp.blogspot.com/-kjHAsVcy3ug/Tny8m-bCIXI/AAAAAAAAACE/QYWk_BqQ4NY/s1600/pig-pancake.jpg](assets/Writing - Voice 13/media/media/image24.jpeg)
 
-![http://upload.wikimedia.org/wikipedia/commons/7/7c/If_You_Give_a_Pig_a_Pancake\_(1)\_illustrated_by_Felicia_Bond_and_written_by_Laura_Numeroff.JPG](assets/Writing - Voice 13/media/media/image25.jpeg){width="6.268055555555556in"
-height="3.5423523622047246in"}
+![http://upload.wikimedia.org/wikipedia/commons/7/7c/If_You_Give_a_Pig_a_Pancake\_(1)\_illustrated_by_Felicia_Bond_and_written_by_Laura_Numeroff.JPG](assets/Writing - Voice 13/media/media/image25.jpeg)
 
 **\**
 
-![https://i.ytimg.com/vi/KAj5ZXrKYw4/maxresdefault.jpg](assets/Writing - Voice 13/media/media/image26.jpeg){width="6.268055555555556in"
-height="3.5257808398950132in"}
+![https://i.ytimg.com/vi/KAj5ZXrKYw4/maxresdefault.jpg](assets/Writing - Voice 13/media/media/image26.jpeg)
 
-![http://media-cache-ec0.pinimg.com/736x/58/30/57/583057381e689f14794c72e229cc06d2.jpg](assets/Writing - Voice 13/media/media/image27.jpeg){width="5.0in"
-height="3.75in"}
+![http://media-cache-ec0.pinimg.com/736x/58/30/57/583057381e689f14794c72e229cc06d2.jpg](assets/Writing - Voice 13/media/media/image27.jpeg)
 
 **\**
 
@@ -1245,8 +1218,7 @@ And chances are, if she asks you for some syrup,
 
 she'll want a pancake to go with it.
 
-![http://g-ecx.images-amazon.com/images/G/01/ciu/ea/aa/080f810ae7a06c82e84a1210.L.jpg](assets/Writing - Voice 13/media/media/image28.jpeg){width="4.697916666666667in"
-height="5.208333333333333in"}
+![http://g-ecx.images-amazon.com/images/G/01/ciu/ea/aa/080f810ae7a06c82e84a1210.L.jpg](assets/Writing - Voice 13/media/media/image28.jpeg)
 
 **If You Give a Pig a Party Laura Numeroff**
 
@@ -1260,12 +1232,10 @@ she wants to throw a great big party! Laura Numeroff and Felicia Bond
 have created another winning story for this beloved character in the
 tradition of the best-selling If You Give a Mouse a Cookie.
 
-![http://upload.wikimedia.org/wikipedia/commons/4/4f/If_You_Give_a_Pig_a_Party\_(3)\_illustrated_by_Felicia_Bond_and_written_by_Laura_Numeroff.JPG](assets/Writing - Voice 13/media/media/image29.jpeg){width="6.268055555555556in"
-height="7.179568022747157in"}
+![http://upload.wikimedia.org/wikipedia/commons/4/4f/If_You_Give_a_Pig_a_Party\_(3)\_illustrated_by_Felicia_Bond_and_written_by_Laura_Numeroff.JPG](assets/Writing - Voice 13/media/media/image29.jpeg)
 
 ![File:If you Give a Pig a Party (7) illustrated by Felicia
-Bond.JPG](assets/Writing - Voice 13/media/media/image30.jpeg){width="5.489583333333333in"
-height="6.25in"}
+Bond.JPG](assets/Writing - Voice 13/media/media/image30.jpeg)
 
 **If You Give a Pig a Party Laura Numeroff**
 
@@ -1316,8 +1286,7 @@ And chancves are, if you give her some balloons,
 
 she's going to ask you for a party.
 
-![http://2.bp.blogspot.com/-XJ60ZzcsgSo/T1u_ggVWtxI/AAAAAAAADeI/raJk7d6iupY/s400/dog%2Ba%2Bdonut.jpg](assets/Writing - Voice 13/media/media/image31.jpeg){width="3.125in"
-height="3.5833333333333335in"}
+![http://2.bp.blogspot.com/-XJ60ZzcsgSo/T1u_ggVWtxI/AAAAAAAADeI/raJk7d6iupY/s400/dog%2Ba%2Bdonut.jpg](assets/Writing - Voice 13/media/media/image31.jpeg)
 
 **If You Give a Dog a Donut Laura Numeroff**
 
@@ -1385,11 +1354,9 @@ And chances are, if he asks for some apple juice,
 
 he'll want a donut to go with it.
 
-![https://exampleschildrensbooks.files.wordpress.com/2012/03/dog-donut.jpg](assets/Writing - Voice 13/media/media/image32.jpeg){width="6.268055555555556in"
-height="7.124825021872266in"}
+![https://exampleschildrensbooks.files.wordpress.com/2012/03/dog-donut.jpg](assets/Writing - Voice 13/media/media/image32.jpeg)
 
-![http://2.bp.blogspot.com/-TYC26lFTOO4/Ts1bUAoJilI/AAAAAAAAAFk/\_mC08DYLJQs/s1600/if+you+take+a+mouse+to+school.jpg](assets/Writing - Voice 13/media/media/image33.jpeg){width="3.97672353455818in"
-height="4.458333333333333in"}
+![http://2.bp.blogspot.com/-TYC26lFTOO4/Ts1bUAoJilI/AAAAAAAAAFk/\_mC08DYLJQs/s1600/if+you+take+a+mouse+to+school.jpg](assets/Writing - Voice 13/media/media/image33.jpeg)
 
 **If You Take a Mouse to School Laura Numeroff**
 
@@ -1400,15 +1367,12 @@ long with it. There are a series of chain events that take place. If you
 take a mouse to school, he\'ll ask for your lunchbox. When you give him
 your lunchbox, he\'ll want a sandwich and so on.
 
-![http://3.bp.blogspot.com/-4R0CoCZlBAw/U-wwwcblm9I/AAAAAAAACXQ/M_g5adTsGps/s1600/lunch.jpg](assets/Writing - Voice 13/media/media/image34.jpeg){width="2.8884350393700786in"
-height="2.6875in"}**\**
-![http://ww4.hdnux.com/photos/10/31/25/2200911/5/628x471.jpg](assets/Writing - Voice 13/media/media/image35.jpeg){width="4.34375in"
-height="4.90625in"}
+![http://3.bp.blogspot.com/-4R0CoCZlBAw/U-wwwcblm9I/AAAAAAAACXQ/M_g5adTsGps/s1600/lunch.jpg](assets/Writing - Voice 13/media/media/image34.jpeg)**\**
+![http://ww4.hdnux.com/photos/10/31/25/2200911/5/628x471.jpg](assets/Writing - Voice 13/media/media/image35.jpeg)
 
 **\**
 
-![http://www.harpercollinschildrens.com/harperchildrensImages/Printable/p\_\_7541_mouseschool.jpg](assets/Writing - Voice 13/media/media/image36.jpeg){width="0.9583333333333334in"
-height="1.0416666666666667in"} **If You Take a Mouse to School**
+![http://www.harpercollinschildrens.com/harperchildrensImages/Printable/p\_\_7541_mouseschool.jpg](assets/Writing - Voice 13/media/media/image36.jpeg) **If You Take a Mouse to School**
 
 **Laura Numeroff**
 
@@ -1465,8 +1429,7 @@ lunchbox. And chances are, if he asks you for your lunchbox,
 
 you'll have to take him back to school.
 
-![http://childrensbooksguide.com/wp-content/uploads/2010/02/if-you-take-a-mouse-to-the-movies-image.jpg](assets/Writing - Voice 13/media/media/image37.jpeg){width="3.480816929133858in"
-height="3.90625in"}
+![http://childrensbooksguide.com/wp-content/uploads/2010/02/if-you-take-a-mouse-to-the-movies-image.jpg](assets/Writing - Voice 13/media/media/image37.jpeg)
 
 **If You Take a Mouse to the Movies Laura Numeroff**
 
@@ -1503,11 +1466,9 @@ If You Take a Mouse to the Movies is exactly what you'd expect from
 these two well-known authors -- fun, silly, and something that the whole
 family will enjoy.
 
-![http://c1.yoyo.com/images/products/p/hp/hp-109_4z.jpg](assets/Writing - Voice 13/media/media/image38.jpeg){width="6.09375in"
-height="7.041666666666667in"}
+![http://c1.yoyo.com/images/products/p/hp/hp-109_4z.jpg](assets/Writing - Voice 13/media/media/image38.jpeg)
 
-![http://c3.diapers.com/images/products/p/hp/hp-109_2z.jpg](assets/Writing - Voice 13/media/media/image39.jpeg){width="6.268055555555556in"
-height="7.150149825021872in"}
+![http://c3.diapers.com/images/products/p/hp/hp-109_2z.jpg](assets/Writing - Voice 13/media/media/image39.jpeg)
 
 **If You Take a Mouse to the Movies Laura Numeroff**
 
@@ -1565,8 +1526,7 @@ he'll want you to take him to the movies.
 Laura Numeroff
 
 ![Laura Joffe
-Numeroff](assets/Writing - Voice 13/media/media/image40.jpeg){width="2.6041666666666665in"
-height="3.90625in"}
+Numeroff](assets/Writing - Voice 13/media/media/image40.jpeg)
 
 CHILDHOOD
 
@@ -1649,16 +1609,14 @@ his wife, Jennifer. I have great memories of laughing with Alice and
 Emily, doing silly things, travelling with them and feeling so lucky to
 have two great sisters.
 
-![http://fansofbeingamom.com/wp-content/uploads/2010/09/mousecookie.jpg](assets/Writing - Voice 13/media/media/image3.jpeg){width="2.0833333333333335in"
-height="3.0in"}
+![http://fansofbeingamom.com/wp-content/uploads/2010/09/mousecookie.jpg](assets/Writing - Voice 13/media/media/image3.jpeg)
 
 # Meet the Illustrator
 
 ## Felicia Bond
 
 ![Portrait of Felicia
-Bond](assets/Writing - Voice 13/media/media/image41.jpeg){width="0.8333333333333334in"
-height="1.1458333333333333in"}
+Bond](assets/Writing - Voice 13/media/media/image41.jpeg)
 
 Felicia Bond grew up in New York and Texas. As a child, nearly every
 kind of children\'s book art was exciting to her, from the paintings in
@@ -1779,19 +1737,15 @@ score, or a dance.
 
 Felicia Bond currently lives in Santa Fe, New Mexico.
 
-![http://upload.wikimedia.org/wikipedia/commons/c/c7/If_You_Give_a_Mouse_a_Cookie\_(5)\_illustrated_by_Felicia_Bond_and_written_by_Laura_Numeroff.JPG](assets/Writing - Voice 13/media/media/image42.jpeg){width="6.268055555555556in"
-height="7.252606080489938in"}
+![http://upload.wikimedia.org/wikipedia/commons/c/c7/If_You_Give_a_Mouse_a_Cookie\_(5)\_illustrated_by_Felicia_Bond_and_written_by_Laura_Numeroff.JPG](assets/Writing - Voice 13/media/media/image42.jpeg)
 
-![http://1.bp.blogspot.com/-QDs1mdlmpSY/TdbfJhheeWI/AAAAAAAABGU/ltdzqZ8Dc04/s1600/img430.jpg](assets/Writing - Voice 13/media/media/image43.jpeg){width="6.268055555555556in"
-height="5.305111548556431in"}
+![http://1.bp.blogspot.com/-QDs1mdlmpSY/TdbfJhheeWI/AAAAAAAABGU/ltdzqZ8Dc04/s1600/img430.jpg](assets/Writing - Voice 13/media/media/image43.jpeg)
 
-![http://img2.imagesbn.com/p/9780399169267_p0_v1_s260x420.JPG](assets/Writing - Voice 13/media/media/image44.jpeg){width="2.7083333333333335in"
-height="3.0520833333333335in"}
+![http://img2.imagesbn.com/p/9780399169267_p0_v1_s260x420.JPG](assets/Writing - Voice 13/media/media/image44.jpeg)
 
 **If You Give a Mouse an iPhone Ann Droyd**
 
-![http://technabob.com/blog/wp-content/uploads/2014/10/iphone-mouse-2.jpg](assets/Writing - Voice 13/media/media/image45.jpeg){width="6.268055555555556in"
-height="3.5181988188976376in"}
+![http://technabob.com/blog/wp-content/uploads/2014/10/iphone-mouse-2.jpg](assets/Writing - Voice 13/media/media/image45.jpeg)
 
 If you give in to temptation and give a bored little mouse your iPhone,
 even for ten minutes, he's probably going to beam to some faraway place
@@ -1799,11 +1753,9 @@ beyond time, space, and the sound of your pleading voice. And if he's
 that far gone, he won't have any idea what's going on around him, and he
 might end up missing out on all the real fun.
 
-![http://i.ytimg.com/vi/KNmeTznAxH4/maxresdefault.jpg](assets/Writing - Voice 13/media/media/image46.jpeg){width="6.268055555555556in"
-height="3.5257808398950132in"}
+![http://i.ytimg.com/vi/KNmeTznAxH4/maxresdefault.jpg](assets/Writing - Voice 13/media/media/image46.jpeg)
 
-![http://www.slate.com/content/dam/slate/blogs/future_tense/2014/11/10/fred_armisen_narrates_an_animated_companion_to_if_you_give_a_mouse_an_iphone/iphone.jpg/\_jcr_content/renditions/cq5dam.web.1280.1280.jpeg](assets/Writing - Voice 13/media/media/image47.jpeg){width="6.145833333333333in"
-height="3.3854166666666665in"}
+![http://www.slate.com/content/dam/slate/blogs/future_tense/2014/11/10/fred_armisen_narrates_an_animated_companion_to_if_you_give_a_mouse_an_iphone/iphone.jpg/\_jcr_content/renditions/cq5dam.web.1280.1280.jpeg](assets/Writing - Voice 13/media/media/image47.jpeg)
 
 People check their phones all the time. They're addicted to Facebook,
 their email, you know the story. But (apparently) there's an even more
@@ -1830,8 +1782,7 @@ they\'r'e young. If You Give a Mouse an iPhone is more troubling than
 the beloved classic If You Give a Mouse a Cookie, but it's also driving
 at some deeper real talk. Go play outside, kids.
 
-![http://o.aolcdn.com/hss/storage/midas/a2d701095ee2858c89a4fd6a91cc891b/201083368/mouse-iphone-main_229x128.jpg](assets/Writing - Voice 13/media/media/image48.jpeg){width="6.268055555555556in"
-height="3.515987532808399in"}
+![http://o.aolcdn.com/hss/storage/midas/a2d701095ee2858c89a4fd6a91cc891b/201083368/mouse-iphone-main_229x128.jpg](assets/Writing - Voice 13/media/media/image48.jpeg)
 
 **If You Give a Mouse an iPhone Ann Droyd**
 
@@ -1941,8 +1892,7 @@ Then, about the time you run out of energy, the phone battery will too.
 
 And when the battery runs out, He'll totally freak.
 
-![http://laughingsquid.com/wp-content/uploads/2014/11/fred-armisen-narrates-ann-droyds.jpg](assets/Writing - Voice 13/media/media/image49.jpeg){width="6.268055555555556in"
-height="3.5257808398950132in"}
+![http://laughingsquid.com/wp-content/uploads/2014/11/fred-armisen-narrates-ann-droyds.jpg](assets/Writing - Voice 13/media/media/image49.jpeg)
 
 And when he totally freaks, he'll probably beg you for a charger.
 
@@ -1963,8 +1913,7 @@ And pretty soon he'll forget all about the charger.
 
 And the iPhone to go with it.
 
-![http://images.betterworldbooks.com/068/Imagine-a-Day-Thomson-Sarah-L-9780689852190.jpg](assets/Writing - Voice 13/media/media/image50.jpeg){width="4.114583333333333in"
-height="4.166666666666667in"}
+![http://images.betterworldbooks.com/068/Imagine-a-Day-Thomson-Sarah-L-9780689852190.jpg](assets/Writing - Voice 13/media/media/image50.jpeg)
 
 **Imagine a Day Sarah Thomson**
 
@@ -2102,11 +2051,9 @@ welcomes you home.
 
 Imagine \... today.**\**
 
-![http://4.bp.blogspot.com/\_Zte_Q37DngE/S-rinn6lyKI/AAAAAAAAD7k/G-vXOHvIu9k/s1600/Imagine+a+day+3.JPG](assets/Writing - Voice 13/media/media/image51.jpeg){width="4.71875in"
-height="6.229166666666667in"}
+![http://4.bp.blogspot.com/\_Zte_Q37DngE/S-rinn6lyKI/AAAAAAAAD7k/G-vXOHvIu9k/s1600/Imagine+a+day+3.JPG](assets/Writing - Voice 13/media/media/image51.jpeg)
 
-![http://2.bp.blogspot.com/\_Zte_Q37DngE/S-ripHl59XI/AAAAAAAAD7s/p3DbWX5L7jQ/s400/Imagine+a+day2.JPG](assets/Writing - Voice 13/media/media/image52.jpeg){width="3.53125in"
-height="4.166666666666667in"}
+![http://2.bp.blogspot.com/\_Zte_Q37DngE/S-ripHl59XI/AAAAAAAAD7s/p3DbWX5L7jQ/s400/Imagine+a+day2.JPG](assets/Writing - Voice 13/media/media/image52.jpeg)
 
 Imagine a day\....
 
@@ -2124,66 +2071,54 @@ In a world where children\'s imaginations are not used to their fullest
 extent, these books will help encourage the use of imagination!
 
 ![Imagine A
-Day](assets/Writing - Voice 13/media/media/image53.jpeg){width="5.0in"
-height="3.71875in"}
+Day](assets/Writing - Voice 13/media/media/image53.jpeg)
 
-![http://blog.creaders.net/ebola/upload_file/20080727072745.jpg](assets/Writing - Voice 13/media/media/image54.jpeg){width="4.09375in"
-height="5.208333333333333in"}
+![http://blog.creaders.net/ebola/upload_file/20080727072745.jpg](assets/Writing - Voice 13/media/media/image54.jpeg)
 
 imagine a day\... when you can dive down through branches or swim up to
 the sun.
 
-![http://blog.creaders.net/ebola/upload_file/20080727072914.jpg](assets/Writing - Voice 13/media/media/image55.jpeg){width="5.416666666666667in"
-height="6.3125in"}
+![http://blog.creaders.net/ebola/upload_file/20080727072914.jpg](assets/Writing - Voice 13/media/media/image55.jpeg)
 
 Imagine a day\... a book swings open on silent hinges, and a place
 you\'ve never seen before welcomes you home.
 
-![http://blog.creaders.net/ebola/upload_file/20080727073056.jpg](assets/Writing - Voice 13/media/media/image56.jpeg){width="5.416666666666667in"
-height="7.479166666666667in"}
+![http://blog.creaders.net/ebola/upload_file/20080727073056.jpg](assets/Writing - Voice 13/media/media/image56.jpeg)
 
 Imagine a day\... when you don\'t need wings to soar.
 
-![http://blog.creaders.net/ebola/upload_file/20080727073219.jpg](assets/Writing - Voice 13/media/media/image57.jpeg){width="3.7083333333333335in"
-height="5.208333333333333in"}
+![http://blog.creaders.net/ebola/upload_file/20080727073219.jpg](assets/Writing - Voice 13/media/media/image57.jpeg)
 
 Imagine a day\... when your house enfolds you like a nest, rocking
 gently in the autumn wind.
 
-![http://blog.creaders.net/ebola/upload_file/20080727073250.jpg](assets/Writing - Voice 13/media/media/image58.jpeg){width="5.208333333333333in"
-height="5.15625in"}
+![http://blog.creaders.net/ebola/upload_file/20080727073250.jpg](assets/Writing - Voice 13/media/media/image58.jpeg)
 
 imagine a day\... when the peace of a forest and the strength of a
 mountain become a cathedral for your heart.
 
 **See also IMAGINE A PLACE and IMAGINE A NIGHT**
 
-![http://d28hgpri8am2if.cloudfront.net/tagged_assets/graexc_19543630_9781416968023.in01.jpg](assets/Writing - Voice 13/media/media/image59.png){width="6.268055555555556in"
-height="3.134027777777778in"}
+![http://d28hgpri8am2if.cloudfront.net/tagged_assets/graexc_19543630_9781416968023.in01.jpg](assets/Writing - Voice 13/media/media/image59.png)
 
-![http://d28hgpri8am2if.cloudfront.net/tagged_assets/graexc_24757499_9781416968023.in04.jpg](assets/Writing - Voice 13/media/media/image60.png){width="6.268055555555556in"
-height="3.134027777777778in"}
+![http://d28hgpri8am2if.cloudfront.net/tagged_assets/graexc_24757499_9781416968023.in04.jpg](assets/Writing - Voice 13/media/media/image60.png)
 
-![http://blog.creaders.net/ebola/upload_file/20080727073430.jpg](assets/Writing - Voice 13/media/media/image61.jpeg){width="5.208333333333333in"
-height="3.5416666666666665in"}
+![http://blog.creaders.net/ebola/upload_file/20080727073430.jpg](assets/Writing - Voice 13/media/media/image61.jpeg)
 
 Imagine a night when you can ride your bike right up the stairs to your
 bed.
 
-![http://blog.creaders.net/ebola/upload_file/20080727073639.jpg](assets/Writing - Voice 13/media/media/image62.jpeg){width="5.208333333333333in"
-height="3.96875in"}
+![http://blog.creaders.net/ebola/upload_file/20080727073639.jpg](assets/Writing - Voice 13/media/media/image62.jpeg)
 
 Imagine a night\... when a farmer plays a lullaby on his fiddle, and his
 field of sunflowers begins to dip and sway to the rhythm.
 
-![http://blog.creaders.net/ebola/upload_file/20080727073726.jpg](assets/Writing - Voice 13/media/media/image63.jpeg){width="5.416666666666667in"
-height="4.302083333333333in"}
+![http://blog.creaders.net/ebola/upload_file/20080727073726.jpg](assets/Writing - Voice 13/media/media/image63.jpeg)
 
 imagine a night\... when you can\'t sleep, and so you jump high enough
 to soar over a quilt of fields and forests
 
-![http://blog.creaders.net/ebola/upload_file/20080727073845.jpg](assets/Writing - Voice 13/media/media/image64.jpeg){width="5.208333333333333in"
-height="3.7916666666666665in"}
+![http://blog.creaders.net/ebola/upload_file/20080727073845.jpg](assets/Writing - Voice 13/media/media/image64.jpeg)
 
  imagine a night\... when snow white sheets grow crisp and cold, and
 someone whispers, \"Follow me.\"
@@ -2191,8 +2126,7 @@ someone whispers, \"Follow me.\"
 **Sarah Thomson**
 
 ![Author Sarah L.
-Thomson](assets/Writing - Voice 13/media/media/image65.jpeg){width="1.5416666666666667in"
-height="1.9270833333333333in"}
+Thomson](assets/Writing - Voice 13/media/media/image65.jpeg)
 
 *"One does not write for children. One writes so that children can
 understand. Which means writing as clearly, vividly, and truthfully as
@@ -2222,8 +2156,7 @@ in are my own. This is my entirely unearned good fortune, and I only
 hope it will last the rest of my life.
 
 ![Author Sarah L. Thomson at the site of her novel
-MERCY](assets/Writing - Voice 13/media/media/image66.jpeg){width="5.510416666666667in"
-height="4.135416666666667in"}
+MERCY](assets/Writing - Voice 13/media/media/image66.jpeg)
 
 Author Sarah L. Thomson at the site of her novel MERCY
 
@@ -2258,12 +2191,10 @@ result, the term "Magical Realism" describes his work accurately. His
 work is an attempt to represent human beings' desire to believe in the
 impossible.
 
-![Rob_Gonsalves](assets/Writing - Voice 13/media/media/image67.jpeg){width="2.6041666666666665in"
-height="3.15625in"}
+![Rob_Gonsalves](assets/Writing - Voice 13/media/media/image67.jpeg)
 
 ![your moon my
-moon](assets/Writing - Voice 13/media/media/image68.jpeg){width="4.4375in"
-height="3.34375in"}
+moon](assets/Writing - Voice 13/media/media/image68.jpeg)
 
 **Your Moon, My Moon** by Patricia MacLachlan, illustrated by Brian
 Collier
@@ -2292,8 +2223,7 @@ Collier also uses lines to great effect, sometimes swirling and creating
 colour or intensity changes in the illustrations, otherwise showing
 currents, mountains or forest.
 
-![http://d28hgpri8am2if.cloudfront.net/book_images/onix/interior_spreads/9781416979500/your-moon-my-moon-9781416979500.in01.jpg](assets/Writing - Voice 13/media/media/image69.jpeg){width="6.268055555555556in"
-height="2.418425196850394in"}
+![http://d28hgpri8am2if.cloudfront.net/book_images/onix/interior_spreads/9781416979500/your-moon-my-moon-9781416979500.in01.jpg](assets/Writing - Voice 13/media/media/image69.jpeg)
 
 Another picture book that touches on the relationship between
 grandparents and grandchildren is *[Your Moon, My
@@ -2355,8 +2285,7 @@ be used as starting point for numerous discussions and activities.
 
 - illustrations and their effect on the text
 
-![http://d28hgpri8am2if.cloudfront.net/book_images/onix/interior_spreads/9781416979500/your-moon-my-moon-9781416979500.in02.jpg](assets/Writing - Voice 13/media/media/image70.jpeg){width="6.268055555555556in"
-height="2.418425196850394in"}
+![http://d28hgpri8am2if.cloudfront.net/book_images/onix/interior_spreads/9781416979500/your-moon-my-moon-9781416979500.in02.jpg](assets/Writing - Voice 13/media/media/image70.jpeg)
 
 **Your Moon, My Moon Patricia MacLachlan**
 
@@ -2565,8 +2494,7 @@ Every night I look for mine.
 
 Your moon is my moon too.
 
-![664610](assets/Writing - Voice 13/media/media/image71.jpeg){width="2.1770833333333335in"
-height="3.060239501312336in"}
+![664610](assets/Writing - Voice 13/media/media/image71.jpeg)
 
 **Always Wear Clean Underwear Marc Gellman**
 
@@ -2795,13 +2723,11 @@ bit better, and just a little bit less yellow, all because of you.
 *I couldn't help adding this cartoon -- Jim*
 
 ![Wonder Woman
-Topless](assets/Writing - Voice 13/media/media/image72.jpeg){width="6.268055555555556in"
-height="6.0522703412073495in"}
+Topless](assets/Writing - Voice 13/media/media/image72.jpeg)
 
 **Earthdance Joanne Ryder**
 
-![Earthdance](assets/Writing - Voice 13/media/media/image73.jpeg){width="2.1770833333333335in"
-height="2.3854166666666665in"}
+![Earthdance](assets/Writing - Voice 13/media/media/image73.jpeg)
 
 Earthdance is written entirely in metaphor.
 

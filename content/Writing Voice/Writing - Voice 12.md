@@ -10,8 +10,7 @@ strand: writing-voice
 
 > **(12)**
 >
-> ![http://talesfromtherearviewmirror.files.wordpress.com/2014/06/voice.jpg](assets/Writing - Voice 12/media/media/image1.jpeg){width="4.25in"
-> height="4.25in"}
+> ![http://talesfromtherearviewmirror.files.wordpress.com/2014/06/voice.jpg](assets/Writing - Voice 12/media/media/image1.jpeg)
 
 **Narrative Voice**
 
@@ -19,8 +18,7 @@ strand: writing-voice
 
 **\**
 
-![http://talesfromtherearviewmirror.files.wordpress.com/2014/06/voice.jpg](assets/Writing - Voice 12/media/media/image1.jpeg){width="2.3541666666666665in"
-height="2.3541666666666665in"}
+![http://talesfromtherearviewmirror.files.wordpress.com/2014/06/voice.jpg](assets/Writing - Voice 12/media/media/image1.jpeg)
 
 **Voice 12**
 
@@ -58,8 +56,7 @@ You're Finally Here Melanie Watt
 
 What to do if an Elephant Stands on Your Foot Michelle Robinson
 
-![http://cdn2-b.examiner.com/sites/default/files/styles/image_content_width/hash/a5/74/a57468e6d115de25b9de0b2892640bbc.jpg?itok=aQDVFK9y](assets/Writing - Voice 12/media/media/image2.jpeg){width="5.052083333333333in"
-height="3.6458333333333335in"}
+![http://cdn2-b.examiner.com/sites/default/files/styles/image_content_width/hash/a5/74/a57468e6d115de25b9de0b2892640bbc.jpg?itok=aQDVFK9y](assets/Writing - Voice 12/media/media/image2.jpeg)
 
 \"On whose authority does the story get told?\", is the question
 novelist Henry James recommended as a prerequisite in the writing and
@@ -87,8 +84,7 @@ outsider looking at the action. The narrator uses he, she, and they.
 
 - Examiner.com
 
-![http://covers4.booksamillion.com/covers/bam/0/37/583/610/0375836101_b.jpg](assets/Writing - Voice 12/media/media/image3.jpeg){width="2.6041666666666665in"
-height="3.71875in"}
+![http://covers4.booksamillion.com/covers/bam/0/37/583/610/0375836101_b.jpg](assets/Writing - Voice 12/media/media/image3.jpeg)
 
 Description
 
@@ -119,43 +115,32 @@ about the Story" provides additional details that avid readers will
 certainly want to know after reading this book.
 
 ![screenshot
-2](assets/Writing - Voice 12/media/media/image4.jpeg){width="5.0in"
-height="3.65625in"}
+2](assets/Writing - Voice 12/media/media/image4.jpeg)
 
 ![screenshot
-3](assets/Writing - Voice 12/media/media/image5.jpeg){width="5.0in"
-height="3.65625in"}
+3](assets/Writing - Voice 12/media/media/image5.jpeg)
 
 ![screenshot
-4](assets/Writing - Voice 12/media/media/image6.jpeg){width="5.0in"
-height="3.65625in"}
+4](assets/Writing - Voice 12/media/media/image6.jpeg)
 
 ![screenshot
-5](assets/Writing - Voice 12/media/media/image7.jpeg){width="5.0in"
-height="3.65625in"}
+5](assets/Writing - Voice 12/media/media/image7.jpeg)
 
-![http://my.fit.edu/\~rosiene/hine2.jpg](assets/Writing - Voice 12/media/media/image8.jpeg){width="6.268055555555556in"
-height="9.052923228346456in"}
+![http://my.fit.edu/\~rosiene/hine2.jpg](assets/Writing - Voice 12/media/media/image8.jpeg)
 
-![http://badattitudes.com/MT/rigger1.jpg](assets/Writing - Voice 12/media/media/image9.jpeg){width="2.8645833333333335in"
-height="4.010416666666667in"}
+![http://badattitudes.com/MT/rigger1.jpg](assets/Writing - Voice 12/media/media/image9.jpeg)
 
-![http://img.over-blog.com/500x400/4/04/90/23/sky1.png](assets/Writing - Voice 12/media/media/image10.png){width="5.197916666666667in"
-height="4.166666666666667in"}
+![http://img.over-blog.com/500x400/4/04/90/23/sky1.png](assets/Writing - Voice 12/media/media/image10.png)
 
-![http://img.over-blog.com/500x378/4/04/90/23/sky2.png](assets/Writing - Voice 12/media/media/image11.png){width="5.197916666666667in"
-height="3.9375in"}
+![http://img.over-blog.com/500x378/4/04/90/23/sky2.png](assets/Writing - Voice 12/media/media/image11.png)
 
-![http://static.businessinsider.com/image/505b32b569bedd860a000001/image.jpg](assets/Writing - Voice 12/media/media/image12.jpeg){width="6.268055555555556in"
-height="4.699379921259842in"}
+![http://static.businessinsider.com/image/505b32b569bedd860a000001/image.jpg](assets/Writing - Voice 12/media/media/image12.jpeg)
 
 ![ESB
-2](assets/Writing - Voice 12/media/media/image13.jpeg){width="3.6041666666666665in"
-height="5.197916666666667in"}
+2](assets/Writing - Voice 12/media/media/image13.jpeg)
 
 ![empire state
-building-83](assets/Writing - Voice 12/media/media/image14.jpeg){width="3.6145833333333335in"
-height="6.239583333333333in"}
+building-83](assets/Writing - Voice 12/media/media/image14.jpeg)
 
 **Sky Boys** **How They Built the Empire State Building**
 
@@ -629,14 +614,12 @@ That Wembley is a school that cares for us
 
 And that makes it a good place to be
 
-![http://www.wembleyps.vic.edu.au/uploaded_files/site_header/w1.png](assets/Writing - Voice 12/media/media/image15.png){width="1.0416666666666667in"
-height="1.2708333333333333in"}
+![http://www.wembleyps.vic.edu.au/uploaded_files/site_header/w1.png](assets/Writing - Voice 12/media/media/image15.png)
 
 **The Westgate Bridge**
 
 ![LOWER YARRA
-CROSSING](assets/Writing - Voice 12/media/media/image16.jpeg){width="3.8125in"
-height="4.947916666666667in"}
+CROSSING](assets/Writing - Voice 12/media/media/image16.jpeg)
 
 The construction of the West Gate Bridge on 12 November 1969, as seen
 from Douglas Parade and Hyde Street, Spotswood and looking towards Port
@@ -663,18 +646,14 @@ recreational reserve created during the bridge\'s construction. The
 bridge carries up to 200,000 vehicles per day. -- Wikipedia
 
 ![West Gate Bridge
-Melbourne.jpg](assets/Writing - Voice 12/media/media/image17.jpeg){width="5.208333333333333in"
-height="3.5in"}
+Melbourne.jpg](assets/Writing - Voice 12/media/media/image17.jpeg)
 
 ![West Gate Bridge GIF
-Aerial.gif](assets/Writing - Voice 12/media/media/image18.gif){width="5.208333333333333in"
-height="4.84375in"}
+Aerial.gif](assets/Writing - Voice 12/media/media/image18.gif)
 
-![http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/West-Gate-Bridge-Melbourne-2008.jpg/1024px-West-Gate-Bridge-Melbourne-2008.jpg](assets/Writing - Voice 12/media/media/image19.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/West-Gate-Bridge-Melbourne-2008.jpg/1024px-West-Gate-Bridge-Melbourne-2008.jpg](assets/Writing - Voice 12/media/media/image19.jpeg)
 
-![http://upload.wikimedia.org/wikipedia/commons/b/b2/West_Gate_Bridge_Melbourne_sunset.jpg](assets/Writing - Voice 12/media/media/image20.jpeg){width="6.268055555555556in"
-height="3.948140857392826in"}
+![http://upload.wikimedia.org/wikipedia/commons/b/b2/West_Gate_Bridge_Melbourne_sunset.jpg](assets/Writing - Voice 12/media/media/image20.jpeg)
 
 **Melbourne's West Gate Bridge collapse left scene of carnage and 35
 dead in 1970 horror**
@@ -689,8 +668,7 @@ dead in 1970 horror**
 
 ![A lucky worker who survived the West Gate Bridge collapse is carried
 clear of the
-disaste](assets/Writing - Voice 12/media/media/image21.jpeg){width="6.770833333333333in"
-height="3.8125in"}
+disaste](assets/Writing - Voice 12/media/media/image21.jpeg)
 
 A lucky worker who survived the West Gate Bridge collapse is carried
 clear of the disaster zone.
@@ -717,8 +695,7 @@ weighing in at 2000 tons, broke away and dropped 50 metres.
 
 ![An aerial view of span 10-11 of the West Gate Bridge that broke away
 and fell to the
-grou](assets/Writing - Voice 12/media/media/image22.jpeg){width="6.770833333333333in"
-height="10.416666666666666in"}
+grou](assets/Writing - Voice 12/media/media/image22.jpeg)
 
 An aerial view of span 10-11 of the West Gate Bridge that broke away and
 fell to the ground on October 15, 1970. 35 men died in the construction
@@ -745,16 +722,14 @@ It shook me out of my chair. I saw flames burst into the air."
 
 ![A diesel fire erupts atop the fallen span. Picture supplied: Coroners
 Court of
-Victoria](assets/Writing - Voice 12/media/media/image23.jpeg){width="6.770833333333333in"
-height="3.8125in"}
+Victoria](assets/Writing - Voice 12/media/media/image23.jpeg)
 
 A diesel fire erupts atop the fallen span. Picture supplied: Coroners
 Court of Victoria
 
 ![An aerial view of the fallen span, cracked down the middle. Picture:
 Photo library News
-C](assets/Writing - Voice 12/media/media/image24.jpeg){width="6.770833333333333in"
-height="3.8125in"}
+C](assets/Writing - Voice 12/media/media/image24.jpeg)
 
 An aerial view of the fallen span, cracked down the middle. Picture:
 Photo library News Corp Australia
@@ -783,16 +758,14 @@ peril of death or injury themselves."
 
 ![Rescuers clamber through the twisted debris in a desperate search for
 survivors. Picture
-](assets/Writing - Voice 12/media/media/image25.jpeg){width="6.770833333333333in"
-height="3.8125in"}
+](assets/Writing - Voice 12/media/media/image25.jpeg)
 
 Rescuers clamber through the twisted debris in a desperate search for
 survivors. Picture supplied: Coroner's Court of Victoria
 
 ![Other rescuers amid the desperate search not long after the collapse.
 Picture supplied:
-C](assets/Writing - Voice 12/media/media/image26.jpeg){width="6.770833333333333in"
-height="3.8125in"}
+C](assets/Writing - Voice 12/media/media/image26.jpeg)
 
 Other rescuers amid the desperate search not long after the collapse.
 Picture supplied: Coroners' Court of Victoria
@@ -824,14 +797,12 @@ theatre."
 Many ambulances were redirected to other hospitals.
 
 ![A surviving victim is stretchered to an
-ambulance.](assets/Writing - Voice 12/media/media/image21.jpeg){width="6.770833333333333in"
-height="3.8125in"}
+ambulance.](assets/Writing - Voice 12/media/media/image21.jpeg)
 
 A surviving victim is stretchered to an ambulance.
 
 ![An oil-covered survivor is carried clear of the
-carnage.](assets/Writing - Voice 12/media/media/image27.jpeg){width="6.770833333333333in"
-height="3.8125in"}
+carnage.](assets/Writing - Voice 12/media/media/image27.jpeg)
 
 An oil-covered survivor is carried clear of the carnage.
 
@@ -850,8 +821,7 @@ Many lucky workers who rode the span to the ground survived the impact:
 an impact heard and felt as far as 20km away.
 
 ![Priests and police mill around some of the dead and
-injured.](assets/Writing - Voice 12/media/media/image28.jpeg){width="6.770833333333333in"
-height="3.8125in"}
+injured.](assets/Writing - Voice 12/media/media/image28.jpeg)
 
 Priests and police mill around some of the dead and injured.
 
@@ -904,8 +874,7 @@ up and blew me 20 yards through the air.
 "This blew me clear and it saved my life."
 
 ![The fallen span sits atop workers' huts and partly submerged in the
-Yarra.](assets/Writing - Voice 12/media/media/image29.jpeg){width="6.770833333333333in"
-height="5.083333333333333in"}
+Yarra.](assets/Writing - Voice 12/media/media/image29.jpeg)
 
 The fallen span sits atop workers' huts and partly submerged in the
 Yarra.
@@ -954,8 +923,7 @@ It will be 44 years ago this year when the bridge collapsed.
 
 ![The fallen West Gate Bridge span hit the ground with such force it
 sprayed mud and
-debris](assets/Writing - Voice 12/media/media/image30.jpeg){width="6.770833333333333in"
-height="5.083333333333333in"}
+debris](assets/Writing - Voice 12/media/media/image30.jpeg)
 
 The fallen West Gate Bridge span hit the ground with such force it
 sprayed mud and debris, and shook the ground up to twenty kilometres
@@ -984,8 +952,7 @@ workers.
 
 ![Workers dig in for a rescue effort after the West Gate Bridge
 collapsed during
-constructi](assets/Writing - Voice 12/media/media/image31.jpeg){width="6.770833333333333in"
-height="5.083333333333333in"}
+constructi](assets/Writing - Voice 12/media/media/image31.jpeg)
 
 Workers dig in for a rescue effort after the West Gate Bridge collapsed
 during construction on October 15, 1970. Picture: Coroners Court of
@@ -1019,8 +986,7 @@ Then Premier, Sir Henry Bolte, announced a Royal Commission.
 
 ![Sir Henry Bolte was quick to set up a Royal Commission to determine
 the cause of the
-brid](assets/Writing - Voice 12/media/media/image32.jpeg){width="3.8125in"
-height="5.083333333333333in"}
+brid](assets/Writing - Voice 12/media/media/image32.jpeg)
 
 Sir Henry Bolte was quick to set up a Royal Commission to determine the
 cause of the bridge collapse.
@@ -1061,8 +1027,7 @@ Dr Oleg Kerensky --- arrived to survey the carnage.
 
 ![The fallen West Gate Bridge span sits partly submerged in the Yarra
 River after it broke
-](assets/Writing - Voice 12/media/media/image33.jpeg){width="6.770833333333333in"
-height="5.083333333333333in"}
+](assets/Writing - Voice 12/media/media/image33.jpeg)
 
 *The fallen West Gate Bridge span sits partly submerged in the Yarra
 River after it broke away and fell, killing 35 men, during construction
@@ -1123,8 +1088,7 @@ men must bear their share of responsibility for the tragedy that
 ensued."
 
 ![Workers' huts lie crushed and smashed in the aftermath of the
-collapse.](assets/Writing - Voice 12/media/media/image34.jpeg){width="6.770833333333333in"
-height="3.8125in"}
+collapse.](assets/Writing - Voice 12/media/media/image34.jpeg)
 
 Workers' huts lie crushed and smashed in the aftermath of the collapse.
 
@@ -1154,8 +1118,7 @@ decided.
 
 ![The last section of the rebuilt West Gate Bridge is slowly lifted into
 place in May
-1978,](assets/Writing - Voice 12/media/media/image35.jpeg){width="6.770833333333333in"
-height="5.083333333333333in"}
+1978,](assets/Writing - Voice 12/media/media/image35.jpeg)
 
 *The last section of the rebuilt West Gate Bridge is slowly lifted into
 place in May 1978, finally providing a fast road link between Melbourne
@@ -1167,16 +1130,13 @@ Despite the recent discovery of cracks in the road surface, it still
 stands strong as a gateway connecting our east and west.
 
 ![Westgate Bridge
-4](assets/Writing - Voice 12/media/media/image36.jpeg){width="6.268055555555556in"
-height="4.183927165354331in"}
+4](assets/Writing - Voice 12/media/media/image36.jpeg)
 
 ![Westgate Bridge
-1](assets/Writing - Voice 12/media/media/image37.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+1](assets/Writing - Voice 12/media/media/image37.jpeg)
 
 ![West Gate Bridge prior to the 2011
-upgrade](assets/Writing - Voice 12/media/media/image38.jpeg){width="6.268055555555556in"
-height="4.16522419072616in"}
+upgrade](assets/Writing - Voice 12/media/media/image38.jpeg)
 
 West Gate Bridge crosses the mouth of the Yarra River in Melbourne,
 Australia. Its 2.6km overall length comprises two concrete box girder
@@ -1184,17 +1144,13 @@ high level approach viaducts either side of an 850m long, 5-span cable
 stayed steel box girder bridge with a 336m main span. The bridge forms a
 vital link in Melbourne's main East -- West transport corridor.
 
-![http://www.westgatebridge.org/sites/default/files/imagecache/banner_rotator_img/home_01.jpg](assets/Writing - Voice 12/media/media/image39.png){width="6.268055555555556in"
-height="2.4799693788276467in"}
+![http://www.westgatebridge.org/sites/default/files/imagecache/banner_rotator_img/home_01.jpg](assets/Writing - Voice 12/media/media/image39.png)
 
-![http://www.westgatebridge.org/sites/default/files/imagecache/banner_rotator_img/home_02a.jpg](assets/Writing - Voice 12/media/media/image40.png){width="6.268055555555556in"
-height="2.4799693788276467in"}
+![http://www.westgatebridge.org/sites/default/files/imagecache/banner_rotator_img/home_02a.jpg](assets/Writing - Voice 12/media/media/image40.png)
 
-![http://www.westgatebridge.org/sites/default/files/imagecache/banner_rotator_img/home_05.jpg](assets/Writing - Voice 12/media/media/image41.png){width="6.268055555555556in"
-height="2.4799693788276467in"}
+![http://www.westgatebridge.org/sites/default/files/imagecache/banner_rotator_img/home_05.jpg](assets/Writing - Voice 12/media/media/image41.png)
 
-![http://www.westgatebridge.org/sites/default/files/imagecache/banner_rotator_img/home_04.jpg](assets/Writing - Voice 12/media/media/image42.png){width="6.268055555555556in"
-height="2.4799693788276467in"}
+![http://www.westgatebridge.org/sites/default/files/imagecache/banner_rotator_img/home_04.jpg](assets/Writing - Voice 12/media/media/image42.png)
 
 **The Westgate Bridge -** Text from the articles used.
 
@@ -1422,8 +1378,7 @@ came down a huge piece of steel landed right on top of him.
 
 It will be 44 years ago this year when the bridge collapsed.
 
-![http://i.walmartimages.com/i/p/97/80/80/27/20/9780802720924_500X500.jpg](assets/Writing - Voice 12/media/media/image43.jpeg){width="5.208333333333333in"
-height="5.208333333333333in"}
+![http://i.walmartimages.com/i/p/97/80/80/27/20/9780802720924_500X500.jpg](assets/Writing - Voice 12/media/media/image43.jpeg)
 
 Want to learn to play air guitar? Wear the coolest rock-star clothes?
 Sign your autograph for tons of fans? Then this is the book for you!
@@ -1559,8 +1514,7 @@ And then you'll be the
 
 (Until then, a fancy squiggle might be just the thing.)
 
-![http://www.audreyvernick.com/image/buffalo%20kindergarten.JPG](assets/Writing - Voice 12/media/media/image44.jpeg){width="1.9270833333333333in"
-height="2.4895833333333335in"}
+![http://www.audreyvernick.com/image/buffalo%20kindergarten.JPG](assets/Writing - Voice 12/media/media/image44.jpeg)
 
 \"Audrey Vernick\'s witty, conversational text reads like a pep talk as
 she transfers typical first-day anxieties from child to buffalo with
@@ -1710,8 +1664,7 @@ leave.
 
 Good luck with that.
 
-![http://www.thechildrensbookreview.com/wp-content/uploads/2012/02/Audreyvernickphoto.jpg](assets/Writing - Voice 12/media/media/image45.jpeg){width="6.268055555555556in"
-height="8.35740704286964in"}
+![http://www.thechildrensbookreview.com/wp-content/uploads/2012/02/Audreyvernickphoto.jpg](assets/Writing - Voice 12/media/media/image45.jpeg)
 
 **Audrey Vernick**
 
@@ -1822,8 +1775,7 @@ there will be one waiting to meet me. And I have so much to tell him!
 
 **An Interview with Illustrator Daniel Jennewein**
 
-![http://inkwellmanagement.com/images/authors/daniel_jennewein_pic.jpg](assets/Writing - Voice 12/media/media/image46.jpeg){width="1.8333333333333333in"
-height="2.1770833333333335in"}
+![http://inkwellmanagement.com/images/authors/daniel_jennewein_pic.jpg](assets/Writing - Voice 12/media/media/image46.jpeg)
 
 1.  When did you begin to think of yourself as an artist?
 
@@ -1908,11 +1860,9 @@ Kindergarten?
 
 Don't eat the glue.
 
-![https://literaryfriendships.files.wordpress.com/2011/06/buffalo_alien_friendship.jpg?w=300&h=234](assets/Writing - Voice 12/media/media/image47.jpeg){width="3.125in"
-height="2.4375in"}
+![https://literaryfriendships.files.wordpress.com/2011/06/buffalo_alien_friendship.jpg?w=300&h=234](assets/Writing - Voice 12/media/media/image47.jpeg)
 
-![http://www.audreyvernick.com/image/obj437geo294pg5p25.png](assets/Writing - Voice 12/media/media/image48.png){width="2.2291666666666665in"
-height="2.8958333333333335in"}
+![http://www.audreyvernick.com/image/obj437geo294pg5p25.png](assets/Writing - Voice 12/media/media/image48.png)
 
 **Teach Your Buffalo to Play the Drums Audrey Vernick**
 
@@ -2018,8 +1968,7 @@ Um.
 
 I think your buffalo's trying to tell you something.
 
-![http://michaelamuntean.com/images/eb93b6962665142e68cc85e129e2987f_n1kl.png](assets/Writing - Voice 12/media/media/image49.png){width="2.7083333333333335in"
-height="3.2916666666666665in"}
+![http://michaelamuntean.com/images/eb93b6962665142e68cc85e129e2987f_n1kl.png](assets/Writing - Voice 12/media/media/image49.png)
 
 How DO NOT OPEN THIS BOOK! came to be
 
@@ -2047,11 +1996,9 @@ all around you. Say yes to opportunities, to things you seemingly know
 nothing about. Take paths you never thought you'd travel. See where they
 lead you.
 
-![https://georgeshannon.files.wordpress.com/2011/01/picture-21.png](assets/Writing - Voice 12/media/media/image50.png){width="5.635416666666667in"
-height="4.572916666666667in"}
+![https://georgeshannon.files.wordpress.com/2011/01/picture-21.png](assets/Writing - Voice 12/media/media/image50.png)
 
-![http://mymamasgoodnight.files.wordpress.com/2011/02/do-not-open-this-book.jpg?w=247&h=300](assets/Writing - Voice 12/media/media/image51.jpeg){width="1.7708333333333333in"
-height="2.15080927384077in"}In
+![http://mymamasgoodnight.files.wordpress.com/2011/02/do-not-open-this-book.jpg?w=247&h=300](assets/Writing - Voice 12/media/media/image51.jpeg)In
 
 Michaela Muntean's hilarious book, *Do Not Open This Book,*gives kids
 free reign to disobey. A rather disgruntled pig is attempting to write a
@@ -2081,8 +2028,7 @@ the cover. Naturally, we open the book.  It's a book. Pages two and
 three depict the surprised expression of the character we saw on the
 cover. Then BOOM we enter the narrative hip-deep in tension.
 
-![https://georgeshannon.files.wordpress.com/2011/01/picture-21.png?w=150&h=121](assets/Writing - Voice 12/media/media/image52.png){width="1.5625in"
-height="1.2604166666666667in"}
+![https://georgeshannon.files.wordpress.com/2011/01/picture-21.png?w=150&h=121](assets/Writing - Voice 12/media/media/image52.png)
 
 ***Excuse me**, but who do you think you are, opening this book when the
 cover clearly says **DO NOT OPEN THIS BOOK!?** If a sign on a door
@@ -2145,8 +2091,7 @@ take a bite of the roaring wind.
 
 Remember, do not turn the page.
 
-![http://blaine.org/jules/dangerouswords.jpg](assets/Writing - Voice 12/media/media/image53.jpeg){width="5.208333333333333in"
-height="3.1666666666666665in"}
+![http://blaine.org/jules/dangerouswords.jpg](assets/Writing - Voice 12/media/media/image53.jpeg)
 
 "Oof!"
 
@@ -2237,14 +2182,11 @@ without you.
 
 Good night!"
 
-![http://www.czekaj.com/cats/catsonly.gif](assets/Writing - Voice 12/media/media/image54.gif){width="6.0in"
-height="3.75in"}
+![http://www.czekaj.com/cats/catsonly.gif](assets/Writing - Voice 12/media/media/image54.gif)
 
-![http://100scopenotes.com/files/2011/03/Cat-Secrets-Inside.jpg](assets/Writing - Voice 12/media/media/image55.jpeg){width="5.208333333333333in"
-height="3.8020833333333335in"}
+![http://100scopenotes.com/files/2011/03/Cat-Secrets-Inside.jpg](assets/Writing - Voice 12/media/media/image55.jpeg)
 
-![http://www.czekaj.com/books/cats/catsecrets-cover.jpg](assets/Writing - Voice 12/media/media/image56.jpeg){width="3.6770833333333335in"
-height="2.6812062554680667in"}
+![http://www.czekaj.com/books/cats/catsecrets-cover.jpg](assets/Writing - Voice 12/media/media/image56.jpeg)
 
 \"Czekaj's cartoons done in a palette of primary colours and with
 expressive use of speech bubbles and eyebrows make this a comedic gem.
@@ -2252,8 +2194,7 @@ The book has obvious appeal as a read-aloud, with its instructions and
 large-format cartoons, but it has the intimacy of a story to be read
 independently.\" -School Library Journal
 
-![http://www.czekaj.com/images/jefwboombox-sm.jpg](assets/Writing - Voice 12/media/media/image57.jpeg){width="3.75in"
-height="4.041666666666667in"}
+![http://www.czekaj.com/images/jefwboombox-sm.jpg](assets/Writing - Voice 12/media/media/image57.jpeg)
 
 JEF DRAWS PICTURES AND WRITES STORIES.
 
@@ -2278,8 +2219,7 @@ Jef lives and works in Somerville, MA.
 
 BTW, Czekaj is pronounced \"check-eye\"!
 
-![13337050](assets/Writing - Voice 12/media/media/image58.jpeg){width="3.125in"
-height="3.125in"}
+![13337050](assets/Writing - Voice 12/media/media/image58.jpeg)
 
 Dragons love tacos. They love chicken tacos, beef tacos, great big
 tacos, and teeny tiny tacos. So if you want to lure a bunch of dragons
@@ -2389,35 +2329,25 @@ Maybe they're just in it for the taco breaks.
 
 After all, dragons love tacos.
 
-![http://media.virbcdn.com/cdn_images/resize_500x500/fd/PageImage-524788-5042569-DragonsLoveTacos1.jpg](assets/Writing - Voice 12/media/media/image59.jpeg){width="5.208333333333333in"
-height="2.6041666666666665in"}
+![http://media.virbcdn.com/cdn_images/resize_500x500/fd/PageImage-524788-5042569-DragonsLoveTacos1.jpg](assets/Writing - Voice 12/media/media/image59.jpeg)
 
-![http://2.bp.blogspot.com/-ngvQIgdV9sU/T_Whb_SbldI/AAAAAAAAATI/qGcjwa5QjQA/s1600/Dragons+Love+Tacos_Spread+5large.JPG](assets/Writing - Voice 12/media/media/image60.jpeg){width="6.268055555555556in"
-height="3.134027777777778in"}
+![http://2.bp.blogspot.com/-ngvQIgdV9sU/T_Whb_SbldI/AAAAAAAAATI/qGcjwa5QjQA/s1600/Dragons+Love+Tacos_Spread+5large.JPG](assets/Writing - Voice 12/media/media/image60.jpeg)
 
-![http://www.childrensbooksguide.com/wp-content/uploads/2013/01/dragons-love-tacos-illustrations.jpg](assets/Writing - Voice 12/media/media/image61.jpeg){width="5.625in"
-height="7.291666666666667in"}
+![http://www.childrensbooksguide.com/wp-content/uploads/2013/01/dragons-love-tacos-illustrations.jpg](assets/Writing - Voice 12/media/media/image61.jpeg)
 
-![http://www.foodiggity.com/wp-content/uploads/2012/06/dragons-love-tacos-01.jpeg](assets/Writing - Voice 12/media/media/image62.jpeg){width="6.145833333333333in"
-height="3.0729166666666665in"}
+![http://www.foodiggity.com/wp-content/uploads/2012/06/dragons-love-tacos-01.jpeg](assets/Writing - Voice 12/media/media/image62.jpeg)
 
-![http://www.foodiggity.com/wp-content/uploads/2012/06/dragons-love-tacos-03.jpeg](assets/Writing - Voice 12/media/media/image63.jpeg){width="6.145833333333333in"
-height="3.0729166666666665in"}
+![http://www.foodiggity.com/wp-content/uploads/2012/06/dragons-love-tacos-03.jpeg](assets/Writing - Voice 12/media/media/image63.jpeg)
 
-![http://1.bp.blogspot.com/-EY7tk6d5D1E/T_WhWMGxLCI/AAAAAAAAAS8/j2uRn4KDoMQ/s1600/Dragons+Love+Tacos_Spread+4-large.JPG](assets/Writing - Voice 12/media/media/image64.jpeg){width="6.268055555555556in"
-height="3.134027777777778in"}
+![http://1.bp.blogspot.com/-EY7tk6d5D1E/T_WhWMGxLCI/AAAAAAAAAS8/j2uRn4KDoMQ/s1600/Dragons+Love+Tacos_Spread+4-large.JPG](assets/Writing - Voice 12/media/media/image64.jpeg)
 
-![http://media.virbcdn.com/cdn_images/resize_500x500/fd/PageImage-524788-5042569-DragonsLoveTacos1.jpg](assets/Writing - Voice 12/media/media/image59.jpeg){width="5.208333333333333in"
-height="2.6041666666666665in"}
+![http://media.virbcdn.com/cdn_images/resize_500x500/fd/PageImage-524788-5042569-DragonsLoveTacos1.jpg](assets/Writing - Voice 12/media/media/image59.jpeg)
 
-![http://www.storytimewow.com/wp-content/uploads/2013/06/curious_avatar.jpg](assets/Writing - Voice 12/media/media/image65.jpeg){width="2.6041666666666665in"
-height="2.6041666666666665in"}
+![http://www.storytimewow.com/wp-content/uploads/2013/06/curious_avatar.jpg](assets/Writing - Voice 12/media/media/image65.jpeg)
 
-![http://2.bp.blogspot.com/-9veOjHUmFw8/ULQaX6LQRkI/AAAAAAAAiLQ/fS834VsG1mw/s1600/dragonstacos.jpg](assets/Writing - Voice 12/media/media/image66.jpeg){width="6.268055555555556in"
-height="6.528305993000875in"}
+![http://2.bp.blogspot.com/-9veOjHUmFw8/ULQaX6LQRkI/AAAAAAAAiLQ/fS834VsG1mw/s1600/dragonstacos.jpg](assets/Writing - Voice 12/media/media/image66.jpeg)
 
-![https://twowritingteachers.files.wordpress.com/2012/04/no-bears.gif?w=620](assets/Writing - Voice 12/media/media/image67.gif){width="2.3645833333333335in"
-height="2.6041666666666665in"}
+![https://twowritingteachers.files.wordpress.com/2012/04/no-bears.gif?w=620](assets/Writing - Voice 12/media/media/image67.gif)
 
 **No Bears Meg McKinlay**
 
@@ -2532,11 +2462,9 @@ book:
 
 \- The Gingerbread Man
 
-![http://3.bp.blogspot.com/-08u574CVy0w/T6F5kFEBwWI/AAAAAAAAGUo/PQ12hxLO5FU/s1600/interior+for+No+Bears.jpg](assets/Writing - Voice 12/media/media/image68.jpeg){width="6.268055555555556in"
-height="3.2358836395450568in"}
+![http://3.bp.blogspot.com/-08u574CVy0w/T6F5kFEBwWI/AAAAAAAAGUo/PQ12hxLO5FU/s1600/interior+for+No+Bears.jpg](assets/Writing - Voice 12/media/media/image68.jpeg)
 
-![http://1.bp.blogspot.com/-xnaeVDseV4k/T_i4OaQOq8I/AAAAAAAAC2c/aNU2j3_oaH0/s1600/IMG_0222.JPG](assets/Writing - Voice 12/media/media/image69.jpeg){width="4.822916666666667in"
-height="3.2708333333333335in"}
+![http://1.bp.blogspot.com/-xnaeVDseV4k/T_i4OaQOq8I/AAAAAAAAC2c/aNU2j3_oaH0/s1600/IMG_0222.JPG](assets/Writing - Voice 12/media/media/image69.jpeg)
 
 **No Bears Meg McKinlay**
 
@@ -2610,8 +2538,7 @@ is. It's to say that everyone lived happily ever after.
 
 The END
 
-![http://upload.wikimedia.org/wikipedia/en/thumb/7/7a/CM_time_of_wonder.jpg/200px-CM_time_of_wonder.jpg](assets/Writing - Voice 12/media/media/image70.jpeg){width="2.0833333333333335in"
-height="2.7395833333333335in"}
+![http://upload.wikimedia.org/wikipedia/en/thumb/7/7a/CM_time_of_wonder.jpg/200px-CM_time_of_wonder.jpg](assets/Writing - Voice 12/media/media/image70.jpeg)
 
 **Time of Wonder Robert McCloskey**
 
@@ -2899,8 +2826,7 @@ salty sea. A little bit sad about the place you are leaving, a little
 bit glad about the place you are going. It is a time of quiet wonder --
 for wondering, for instance: Where do hummingbirds go in a hurricane?
 
-![http://ecx.images-amazon.com/images/I/51nAiNoU9OL.\_SL500_SX258_BO1,204,203,200\_.jpg](assets/Writing - Voice 12/media/media/image71.jpeg){width="2.7083333333333335in"
-height="3.2916666666666665in"}
+![http://ecx.images-amazon.com/images/I/51nAiNoU9OL.\_SL500_SX258_BO1,204,203,200\_.jpg](assets/Writing - Voice 12/media/media/image71.jpeg)
 
 A sensitive, nature-loving girl bids an end-of-summer farewell to all of
 the special places that she would visit, observing once again the hill
@@ -3243,8 +3169,7 @@ forever
 
 and ever.
 
-![8492649](assets/Writing - Voice 12/media/media/image72.jpeg){width="3.3125in"
-height="3.3333333333333335in"}
+![8492649](assets/Writing - Voice 12/media/media/image72.jpeg)
 
 Hooray! You\'re finally here! But where were you? A bunny bounces
 through a range of emotions in this funny picture book about how
@@ -3256,48 +3181,36 @@ hold on\--he has to take a phone call. Wait! Come back !Where are you
 going? Underneath this book\'s silly, in-your-face humour are feelings
 true to every child who has had to wait for someone\'s attention.
 
-![http://graphics8.nytimes.com/images/2011/03/16/books/review/16-childrens-review-2/16-childrens-review-2-articleInline.jpg](assets/Writing - Voice 12/media/media/image73.jpeg){width="1.9791666666666667in"
-height="1.9895833333333333in"}
+![http://graphics8.nytimes.com/images/2011/03/16/books/review/16-childrens-review-2/16-childrens-review-2-articleInline.jpg](assets/Writing - Voice 12/media/media/image73.jpeg)
 
 The changes in font size, use of speech bubbles, and double page
 spreads, in which rabbit explains how keeping him waiting has made him
 feel, are all worthwhile.
 
-![http://threadbarebeauty.files.wordpress.com/2012/09/yourefinallyhere_2126_spr3.jpeg](assets/Writing - Voice 12/media/media/image74.jpeg){width="6.25in"
-height="4.166666666666667in"}
+![http://threadbarebeauty.files.wordpress.com/2012/09/yourefinallyhere_2126_spr3.jpeg](assets/Writing - Voice 12/media/media/image74.jpeg)
 
-![http://www.buildingalibrary.com/wp-content/uploads/2011/12/yourfinallyhere4.jpg](assets/Writing - Voice 12/media/media/image75.jpeg){width="3.125in"
-height="3.1145833333333335in"}
+![http://www.buildingalibrary.com/wp-content/uploads/2011/12/yourfinallyhere4.jpg](assets/Writing - Voice 12/media/media/image75.jpeg)
 
-![http://www.buildingalibrary.com/wp-content/uploads/2011/12/YoureFinallyHere1.jpg](assets/Writing - Voice 12/media/media/image76.jpeg){width="3.0625in"
-height="3.0in"}
+![http://www.buildingalibrary.com/wp-content/uploads/2011/12/YoureFinallyHere1.jpg](assets/Writing - Voice 12/media/media/image76.jpeg)
 
-![http://www.kidscanpress.com/Assets/Books/w_YoureFinallyHere_2126/Spreads/YoureFinallyHere_2126_spr2.jpg](assets/Writing - Voice 12/media/media/image77.jpeg){width="6.25in"
-height="4.166666666666667in"}
+![http://www.kidscanpress.com/Assets/Books/w_YoureFinallyHere_2126/Spreads/YoureFinallyHere_2126_spr2.jpg](assets/Writing - Voice 12/media/media/image77.jpeg)
 
-![http://www.wordofmousebooks.com/wp-content/uploads/2011/04/YoureFinallyHere_2126_spr1.jpg](assets/Writing - Voice 12/media/media/image78.jpeg){width="6.25in"
-height="4.166666666666667in"}
-![http://graphics8.nytimes.com/images/2011/03/16/books/review/16-childrens-review-span/16-childrens-review-span-articleLarge.jpg](assets/Writing - Voice 12/media/media/image79.jpeg){width="6.25in"
-height="3.125in"}
+![http://www.wordofmousebooks.com/wp-content/uploads/2011/04/YoureFinallyHere_2126_spr1.jpg](assets/Writing - Voice 12/media/media/image78.jpeg)
+![http://graphics8.nytimes.com/images/2011/03/16/books/review/16-childrens-review-span/16-childrens-review-span-articleLarge.jpg](assets/Writing - Voice 12/media/media/image79.jpeg)
 
-![http://cdn2-b.examiner.com/sites/default/files/styles/image_content_width/hash/b0/06/b0064585084668a61130d9d1b078a9c7.jpeg?itok=yCiOYnhR](assets/Writing - Voice 12/media/media/image80.jpeg){width="3.8541666666666665in"
-height="3.125in"}
+![http://cdn2-b.examiner.com/sites/default/files/styles/image_content_width/hash/b0/06/b0064585084668a61130d9d1b078a9c7.jpeg?itok=yCiOYnhR](assets/Writing - Voice 12/media/media/image80.jpeg)
 
 **What to do if an Elephant Stands on Your Foot**
 
 **Michelle Robinson**
 
-![http://graphics8.nytimes.com/images/2012/08/01/books/01childrens-img/01childrens-img-articleLarge.jpg](assets/Writing - Voice 12/media/media/image81.jpeg){width="6.25in"
-height="3.4895833333333335in"}
+![http://graphics8.nytimes.com/images/2012/08/01/books/01childrens-img/01childrens-img-articleLarge.jpg](assets/Writing - Voice 12/media/media/image81.jpeg)
 
-![http://static01.nyt.com/images/2012/08/01/books/01childrens-img2/01childrens-img2-popup.jpg](assets/Writing - Voice 12/media/media/image82.jpeg){width="6.268055555555556in"
-height="3.317247375328084in"}
+![http://static01.nyt.com/images/2012/08/01/books/01childrens-img2/01childrens-img2-popup.jpg](assets/Writing - Voice 12/media/media/image82.jpeg)
 
-![http://www.juniorlibraryguild.com/images/9780803733985/InteriorArt/9780803733985-whatelephant89_zoom.jpg](assets/Writing - Voice 12/media/media/image83.jpeg){width="6.25in"
-height="3.3333333333333335in"}
+![http://www.juniorlibraryguild.com/images/9780803733985/InteriorArt/9780803733985-whatelephant89_zoom.jpg](assets/Writing - Voice 12/media/media/image83.jpeg)
 
-![http://michellerobinson.co.uk/wp-content/uploads/2012/04/Elephant_interior-dragged.jpg](assets/Writing - Voice 12/media/media/image84.jpeg){width="6.268055555555556in"
-height="3.4117891513560803in"}
+![http://michellerobinson.co.uk/wp-content/uploads/2012/04/Elephant_interior-dragged.jpg](assets/Writing - Voice 12/media/media/image84.jpeg)
 
 Safari etiquette can be tricky. Fortunately, our trusty narrator can
 help. Sort of. From what to do if an elephant stands on your foot
@@ -3402,8 +3315,7 @@ Just be careful not to \...
 
 \... startle it.
 
-![http://d202m5krfqbpi5.cloudfront.net/authors/1333052055p5/4953661.jpg](assets/Writing - Voice 12/media/media/image85.jpeg){width="1.875in"
-height="2.40625in"}
+![http://d202m5krfqbpi5.cloudfront.net/authors/1333052055p5/4953661.jpg](assets/Writing - Voice 12/media/media/image85.jpeg)
 
 About this author
 
@@ -3417,6 +3329,5 @@ I hope you like my books enough to read them umpteen times.
 
 Thank you - Michelle.
 
-![http://www.penguin.com/static/images/yr/pdf/Elephant_ActivitySheet.JPG](assets/Writing - Voice 12/media/media/image86.jpeg){width="6.268055555555556in"
-height="4.815470253718285in"}
+![http://www.penguin.com/static/images/yr/pdf/Elephant_ActivitySheet.JPG](assets/Writing - Voice 12/media/media/image86.jpeg)
 

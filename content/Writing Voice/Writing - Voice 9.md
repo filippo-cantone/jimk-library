@@ -10,15 +10,13 @@ strand: writing-voice
 >
 > **(9)**
 >
-> ![http://www.myanxiouschild.com/assets/media/images/home/slide_4.png](assets/Writing - Voice 9/media/media/image1.png){width="5.114583333333333in"
-> height="5.0in"}
+> ![http://www.myanxiouschild.com/assets/media/images/home/slide_4.png](assets/Writing - Voice 9/media/media/image1.png)
 
 **Narrative Voice**
 
 **Novels\**
 
-![http://www.myanxiouschild.com/assets/media/images/home/slide_4.png](assets/Writing - Voice 9/media/media/image1.png){width="2.2604166666666665in"
-height="2.209775809273841in"}
+![http://www.myanxiouschild.com/assets/media/images/home/slide_4.png](assets/Writing - Voice 9/media/media/image1.png)
 
 **Voice 9**
 
@@ -36,11 +34,9 @@ Because of Winn-Dixie Kate DiCamillo
 
 Charlotte's Web E.B.White
 
-![https://theliteraryheart.files.wordpress.com/2012/05/dontkillwilbur.jpg](assets/Writing - Voice 9/media/media/image2.jpeg){width="3.09375in"
-height="3.979099956255468in"}
+![https://theliteraryheart.files.wordpress.com/2012/05/dontkillwilbur.jpg](assets/Writing - Voice 9/media/media/image2.jpeg)
 
-![11594337](assets/Writing - Voice 9/media/media/image3.jpeg){width="2.2083333333333335in"
-height="3.125in"}
+![11594337](assets/Writing - Voice 9/media/media/image3.jpeg)
 
 **The One and Only Ivan Katherine Applegate**
 
@@ -50,8 +46,7 @@ captured, named Ivan, and caged in the U.S. and there he remained for
 three decades. That true story is the inspiration for "The One and Only
 Ivan" by Katherine Applegate.
 
-![gorilla_ivan_ZA_8186](assets/Writing - Voice 9/media/media/image4.jpeg){width="3.125in"
-height="2.34375in"}
+![gorilla_ivan_ZA_8186](assets/Writing - Voice 9/media/media/image4.jpeg)
 
 In Applegate's story, Ivan lives at the tacky Big Top Mall and Video
 Arcade, along with Stella the elephant, parrots, monkeys and other
@@ -401,8 +396,7 @@ can get used to almost anything.
 author of The Buffalo Storm, Home of the Brave and The One and Only
 Ivan. Along with her husband, she co-wrote the young adult series
 Animorphs.
-](assets/Writing - Voice 9/media/media/image5.jpeg){width="4.166666666666667in"
-height="3.4583333333333335in"}
+](assets/Writing - Voice 9/media/media/image5.jpeg)
 
 **Katherine Applegate**
 
@@ -459,8 +453,7 @@ the elephant in Ivan says, \'You know humans surprise you sometimes,\'
 and I hope that the next generation can surprise us all.\"
 
 ![Gorilla on a
-chair](assets/Writing - Voice 9/media/media/image6.png){width="2.15625in"
-height="3.4479166666666665in"}**\**
+chair](assets/Writing - Voice 9/media/media/image6.png)**\**
 
 A Gorilla Sulks in a Mall as His Future Is Debated
 
@@ -556,8 +549,7 @@ AUGUST 23, 201212:48 PM ET
 BArbara king
 
 ![Ivan chews on his finger at Zoo Atlanta in
-1996.](assets/Writing - Voice 9/media/media/image7.jpeg){width="7.083333333333333in"
-height="5.3125in"}
+1996.](assets/Writing - Voice 9/media/media/image7.jpeg)
 
 [Ivan chews on his finger at Zoo Atlanta in
 1996.](http://www.npr.org/people/336055111/barbara-j-king)
@@ -676,28 +668,23 @@ community can inspire. His story now teaches kids in our community that
 they truly can make a difference in the lives of others.
 
 ![Ivan the
-Gorilla](assets/Writing - Voice 9/media/media/image8.jpeg){width="3.125in"
-height="2.1770833333333335in"}\
+Gorilla](assets/Writing - Voice 9/media/media/image8.jpeg)\
 *PAWS members at one of many protests to free Ivan.*
 
 ![Ivan the Gorilla campaign
-poster](assets/Writing - Voice 9/media/media/image9.jpeg){width="2.2395833333333335in"
-height="2.90625in"}\
+poster](assets/Writing - Voice 9/media/media/image9.jpeg)\
 *Poster for Ivan rally.*
 
 ![Ivan the Gorilla outdoors at Zoo
-Atlanta](assets/Writing - Voice 9/media/media/image10.jpeg){width="2.5208333333333335in"
-height="2.0208333333333335in"}\
+Atlanta](assets/Writing - Voice 9/media/media/image10.jpeg)\
 *Ivan in Atlanta- content, confident and healthy.*
 
 ![Zoo Atlanta Home
-Page](assets/Writing - Voice 9/media/media/image11.png){width="1.3125in"
-height="1.0833333333333333in"}
+Page](assets/Writing - Voice 9/media/media/image11.png)
 
 Celebrating Ivan
 
-![gorilla_ivan_ZA_8198](assets/Writing - Voice 9/media/media/image12.jpeg){width="2.625in"
-height="1.75in"}The Zoo Atlanta family is saddened by the passing of
+![gorilla_ivan_ZA_8198](assets/Writing - Voice 9/media/media/image12.jpeg)The Zoo Atlanta family is saddened by the passing of
 Ivan the western lowland gorilla, 50 years old and a cherished member of
 our collection since 1994.
 
@@ -769,8 +756,7 @@ Ivan: An Amazing Journey 
   Woodland Park Zoo sends Ivan to Atlanta on permanent loan in October
   1994.
 
-![ivan_slide_early90s](assets/Writing - Voice 9/media/media/image13.jpeg){width="2.625in"
-height="2.15625in"}**1995-2011: Sun, space and ladies**
+![ivan_slide_early90s](assets/Writing - Voice 9/media/media/image13.jpeg)**1995-2011: Sun, space and ladies**
 
 - **1995**: Ivan explores The Ford African Rain Forest at Zoo Atlanta in
   spring 1995 -- the first time he has been outdoors in more than 27
@@ -807,11 +793,9 @@ height="2.15625in"}**1995-2011: Sun, space and ladies**
   than 1,500 residents, Ivan is the most asked-about animal on the Zoo's
   Facebook profile.
 
-![1007775-\_1-27tpvrj-223x300](assets/Writing - Voice 9/media/media/image14.jpeg){width="2.3229166666666665in"
-height="3.125in"}
+![1007775-\_1-27tpvrj-223x300](assets/Writing - Voice 9/media/media/image14.jpeg)
 
-![3635597_orig](assets/Writing - Voice 9/media/media/image15.jpeg){width="4.0625in"
-height="3.4791666666666665in"}
+![3635597_orig](assets/Writing - Voice 9/media/media/image15.jpeg)
 
 **Q & A with Katherine Applegate**
 
@@ -933,11 +917,9 @@ Web *and anything by Jean Craighead George. I loved any book that had to
 do with animals. As a writer, maybe I've finally found the place I'm
 happiest. It only took me 20 years. Maybe I'm a slow learner?
 
-![7186-2](assets/Writing - Voice 9/media/media/image16.jpeg){width="2.0833333333333335in"
-height="2.4479166666666665in"}
+![7186-2](assets/Writing - Voice 9/media/media/image16.jpeg)
 
-![7187-1](assets/Writing - Voice 9/media/media/image17.jpeg){width="2.0833333333333335in"
-height="2.9270833333333335in"}
+![7187-1](assets/Writing - Voice 9/media/media/image17.jpeg)
 
 **Teaching Ideas and Invitations**
 
@@ -1027,21 +1009,17 @@ with animals?
 
 Ref: The Classroom Bookshelf
 
-![Picture](assets/Writing - Voice 9/media/media/image18.jpeg){width="1.5625in"
-height="0.90625in"}
+![Picture](assets/Writing - Voice 9/media/media/image18.jpeg)
 
 **Discussion/Persuasive Writing**
 
 "Animals should not be kept in cages."
 
-![ivan-interior-copy](assets/Writing - Voice 9/media/media/image19.jpeg){width="2.1666666666666665in"
-height="3.125in"}
+![ivan-interior-copy](assets/Writing - Voice 9/media/media/image19.jpeg)
 
-![Picture](assets/Writing - Voice 9/media/media/image20.jpeg){width="3.09375in"
-height="3.4270833333333335in"}
+![Picture](assets/Writing - Voice 9/media/media/image20.jpeg)
 
-![2370318_orig](assets/Writing - Voice 9/media/media/image21.jpeg){width="5.458333333333333in"
-height="4.541666666666667in"}
+![2370318_orig](assets/Writing - Voice 9/media/media/image21.jpeg)
 
 **Discussion questions:**
 
@@ -1065,8 +1043,7 @@ knows he is locked in a cage?
 What do you think of Mack and George? How are they alike? How are they
 different?
 
-![1007775](assets/Writing - Voice 9/media/media/image22.jpeg){width="4.40625in"
-height="3.3229166666666665in"}
+![1007775](assets/Writing - Voice 9/media/media/image22.jpeg)
 
 **Reading Response Journal**
 
@@ -1129,8 +1106,7 @@ Persuasive Writing
 
 Six Word Stories
 
-![tea-cup-with-books-article-image](assets/Writing - Voice 9/media/media/image23.jpeg){width="2.65625in"
-height="2.65625in"}
+![tea-cup-with-books-article-image](assets/Writing - Voice 9/media/media/image23.jpeg)
 
 "Writing in Six Words is a simple, creative way to get to the essence of
 anything \-- from the breaking news of the day to your own life and the
@@ -1256,22 +1232,17 @@ I see two trunks entwined. I hear Stella whispering.
 "Poor kid," says Bob. "Welcome to the Exit 8 Big Top Mall and Video
 Arcade, Home of the One and Only Ivan."
 
-![slideshow_1002382669_082012_gorilla_BH206](assets/Writing - Voice 9/media/media/image24.jpeg){width="5.197916666666667in"
-height="4.6875in"}
+![slideshow_1002382669_082012_gorilla_BH206](assets/Writing - Voice 9/media/media/image24.jpeg)
 
-![Ivan-first-day-out-at-ZA-1995](assets/Writing - Voice 9/media/media/image25.jpeg){width="3.7291666666666665in"
-height="3.75in"}
+![Ivan-first-day-out-at-ZA-1995](assets/Writing - Voice 9/media/media/image25.jpeg)
 
-![gorilla_ivan_ZA_4048](assets/Writing - Voice 9/media/media/image26.jpeg){width="5.0in"
-height="3.75in"}
+![gorilla_ivan_ZA_4048](assets/Writing - Voice 9/media/media/image26.jpeg)
 
 ![Ivan the gorilla - The book The One and Only Ivan is based on this
-gorilla.](assets/Writing - Voice 9/media/media/image27.jpeg){width="5.135416666666667in"
-height="4.21875in"}
+gorilla.](assets/Writing - Voice 9/media/media/image27.jpeg)
 
 ![the One and Only Ivan by Katherine
-Applegate](assets/Writing - Voice 9/media/media/image28.jpeg){width="6.385416666666667in"
-height="7.947916666666667in"}
+Applegate](assets/Writing - Voice 9/media/media/image28.jpeg)
 
 **Discussion Questions from the Publisher's Study Guide**
 
@@ -1359,8 +1330,7 @@ with other children you don't know?
 view of each of the characters. What is the meaning of belonging for
 each of them? What does the idea of belonging mean to you?
 
-![9780544252301_03894-300x263](assets/Writing - Voice 9/media/media/image29.jpeg){width="3.125in"
-height="2.7395833333333335in"}
+![9780544252301_03894-300x263](assets/Writing - Voice 9/media/media/image29.jpeg)
 
 Like the novel before it, Ivan is a masterpiece of efficient beauty.
 
@@ -1407,8 +1377,7 @@ on the last page to great success. It's a perfect way to draw things to
 a close, reminding readers that what they read was a true story and
 giving them a glimpse of what Ivan really looked like.
 
-![ivanspread1](assets/Writing - Voice 9/media/media/image30.jpeg){width="7.03125in"
-height="3.0833333333333335in"}
+![ivanspread1](assets/Writing - Voice 9/media/media/image30.jpeg)
 
 **Ivan the remarkable True Story of the Shopping Mall Gorilla**
 
@@ -1487,11 +1456,9 @@ gorillas at last.
 
 In leafy calm, in gentle arms, a gorilla's life began again.
 
-![9780544252301_il_1](assets/Writing - Voice 9/media/media/image31.png){width="6.90625in"
-height="3.0208333333333335in"}
+![9780544252301_il_1](assets/Writing - Voice 9/media/media/image31.png)
 
-![9780544252301_il_2](assets/Writing - Voice 9/media/media/image32.png){width="6.90625in"
-height="3.0208333333333335in"}
+![9780544252301_il_2](assets/Writing - Voice 9/media/media/image32.png)
 
 **Fiction/Non-Fiction**
 
@@ -1640,11 +1607,9 @@ A. Again, answers will vary.
 
 Guide create by Joan Kindig, Professor, James Madison University
 
-![IMG_2472](assets/Writing - Voice 9/media/media/image33.jpeg){width="4.875in"
-height="3.65625in"}
+![IMG_2472](assets/Writing - Voice 9/media/media/image33.jpeg)
 
-![IMG_2473](assets/Writing - Voice 9/media/media/image34.jpeg){width="4.875in"
-height="3.5729166666666665in"}
+![IMG_2473](assets/Writing - Voice 9/media/media/image34.jpeg)
 
 **Word Choice**
 
@@ -1713,8 +1678,7 @@ height="3.5729166666666665in"}
 > *"All things are so very uncertain, and that's exactly what makes me
 > feel reassured."*
 
-[![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter.jpg](assets/Writing - Voice 9/media/media/image35.jpeg){width="2.0833333333333335in"
-height="3.21875in"}](http://www.amazon.com/exec/obidos/ASIN/0312625413/braipick-20)**Tove
+[![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter.jpg](assets/Writing - Voice 9/media/media/image35.jpeg)](http://www.amazon.com/exec/obidos/ASIN/0312625413/braipick-20)**Tove
 Jansson** (1914--2001) is among the most imaginative, important, and
 influential children's book creators of all time, an artist and writer
 of unparalleled creative vision and great sensitivity to life's
@@ -1732,8 +1696,7 @@ and the enchanting symbolism of Carroll's Wonderland. Philip Pullman has
 aptly called her "a genius of a very subtle kind" and Neil Gaiman
 considers her work "a surrealist masterpiece."
 
-![http://www.brainpickings.org/wp-content/uploads/2014/09/tovejansson1967.jpg](assets/Writing - Voice 9/media/media/image36.jpeg){width="6.268055555555556in"
-height="6.268055555555556in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/09/tovejansson1967.jpg](assets/Writing - Voice 9/media/media/image36.jpeg)
 
 Jansson's singular sensibility springs from her own unusual life. Born
 to an artistic and rather eccentric family from Finland's
@@ -1749,8 +1712,7 @@ relatives there, Jansson would regularly sneak into the kitchen for
 treats; her uncle would tease her that a "Moomintroll" lived in the
 kitchen pantry, ready to breathe cold air down stealthy snackers' necks.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/09/tovejansson_selfportrait.jpg](assets/Writing - Voice 9/media/media/image37.jpeg){width="6.25in"
-height="7.875in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/09/tovejansson_selfportrait.jpg](assets/Writing - Voice 9/media/media/image37.jpeg)
 
 Moominvalley's main protagonist, Moomintroll, is thus a self-portrait of
 sorts, but perhaps Jansson's most interesting character is also the one
@@ -1773,8 +1735,7 @@ restores order in the valley." More than mere common sense, however,
 Too-ticky's laconic sagacity and aphoristic reflections are full of
 invaluable wisdom on life.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter6.jpg](assets/Writing - Voice 9/media/media/image38.jpeg){width="5.208333333333333in"
-height="6.635416666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter6.jpg](assets/Writing - Voice 9/media/media/image38.jpeg)
 
 The book tells the story of Moomintroll who, unlike his family that
 hibernated from November to April every year, wakes up early and decides
@@ -1785,8 +1746,7 @@ tale of learning to live with the vital discomfort of uncertainty, to
 get lost in order to find oneself, to surrender to the rhythms of life
 rather than agonising in resistance.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter1.jpg](assets/Writing - Voice 9/media/media/image39.jpeg){width="5.4375in"
-height="2.7291666666666665in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter1.jpg](assets/Writing - Voice 9/media/media/image39.jpeg)
 
 Lost in the forest, Moomintroll comes upon a warm light emanating from a
 cozy hole someone had dug for shelter --- "someone who lay looking up at
@@ -1811,8 +1771,7 @@ snowhouse it's warm. You think it's white, but at times it looks pink,
 and another time it's blue. It can be softer than anything, and then
 again harder than stone. Nothing is certain.*
 
-![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter3.jpg](assets/Writing - Voice 9/media/media/image40.jpeg){width="5.4375in"
-height="4.677083333333333in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter3.jpg](assets/Writing - Voice 9/media/media/image40.jpeg)
 
 In many ways, Too-ticky's wisdom seems almost Zen Buddhist in nature. In
 addition to championing the ability to be at peace with uncertainty, she
@@ -1836,8 +1795,7 @@ resist the present:
 
 *Don't be in such a hurry... Soon now. Sit down and wait.*
 
-![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter12.jpg](assets/Writing - Voice 9/media/media/image41.jpeg){width="5.208333333333333in"
-height="3.5208333333333335in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter12.jpg](assets/Writing - Voice 9/media/media/image41.jpeg)
 
 When the sun does appear, it flits across the horizon for a fleeting
 moment, only to set back down. Moomintroll is even more frustrated, but
@@ -1847,8 +1805,7 @@ success, follows an incremental rise to brilliance:
 *He'll return tomorrow... And then he'll be a tiny bit bigger, about
 like a piece of cheese rind. Take it easy*.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter11.jpg](assets/Writing - Voice 9/media/media/image42.jpeg){width="5.65625in"
-height="2.5520833333333335in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter11.jpg](assets/Writing - Voice 9/media/media/image42.jpeg)
 
 The story is also a gentle primer on evolution. When Moomintroll,
 against Too-ticky's instruction, opens her secret cabinet and finds a
@@ -1859,8 +1816,7 @@ rat*," but she corrects him:
 before you became a Moomin. That was how you looked a thousand years
 ago.*
 
-![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter4.jpg](assets/Writing - Voice 9/media/media/image43.jpeg){width="5.354166666666667in"
-height="5.208333333333333in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter4.jpg](assets/Writing - Voice 9/media/media/image43.jpeg)
 
 Moomintroll is so unsettled by the notion that he is related to a mere
 rat --- an elegant allegory for why some people are drawn to such
@@ -1872,8 +1828,7 @@ front of porcelain stoves, or on fret-worked verandahs. Not a single one
 of them resembled the cupboard troll. "Must be a mistake," Moomintroll
 thought. "He can't be any relation of mine."*
 
-![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter5.jpg](assets/Writing - Voice 9/media/media/image44.jpeg){width="5.510416666666667in"
-height="3.5833333333333335in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter5.jpg](assets/Writing - Voice 9/media/media/image44.jpeg)
 
 Slowly, Moomintroll makes peace with Too-ticky's knowledge:
 
@@ -1908,8 +1863,7 @@ Too-ticky responds:
 in his time. And later on still there'll grow trees from him, with new
 squirrels skipping about in them. Do you think that's so very sad?*
 
-![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter7.jpg](assets/Writing - Voice 9/media/media/image45.jpeg){width="5.552083333333333in"
-height="3.3125in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter7.jpg](assets/Writing - Voice 9/media/media/image45.jpeg)
 
 Too-ticky's greatest gift, it appears, is a certain quality of presence
 --- the kind she cultivated in "her own private winter world that had
@@ -1924,8 +1878,7 @@ uncomfortable, poignancy:
 
 *One has to discover everything for oneself. And get over it all alone.*
 
-![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter10.jpg](assets/Writing - Voice 9/media/media/image46.jpeg){width="5.447916666666667in"
-height="4.135416666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter10.jpg](assets/Writing - Voice 9/media/media/image46.jpeg)
 
 Moomintroll imbibes Too-ticky's existential lesson. Soon, when his
 friend the Snork Maiden comes across "the first brave nose-tip of a
@@ -1935,8 +1888,7 @@ over it to protect it from the frost at night. But Moomintroll objects:
 *No, don't do that. Let it fight it out. I believe it's going to do
 still better if things aren't so easy.*
 
-![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter13.jpg](assets/Writing - Voice 9/media/media/image47.jpeg){width="5.25in"
-height="3.3229166666666665in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/09/moominlandmidwinter13.jpg](assets/Writing - Voice 9/media/media/image47.jpeg)
 
 Decades before the groundbreaking research on why cultivating grit is
 the greatest key to success, Jansson made the same point with great
@@ -1945,8 +1897,7 @@ subtlety and wisdom.
 **Because of Winn-Dixie Kate DiCamillo**
 
 ![Because of
-Winn-Dixie](assets/Writing - Voice 9/media/media/image48.jpeg){width="2.7083333333333335in"
-height="3.9166666666666665in"}
+Winn-Dixie](assets/Writing - Voice 9/media/media/image48.jpeg)
 
 The summer Opal and her father, the preacher, move to Naomi, Florida,
 Opal goes into the Winn-Dixie supermarket and comes out with a dog. A
@@ -2666,8 +2617,7 @@ bless you, baby.\"
 
 And I feel that I have been blessed. Over and over again.
 
-![katedicamillo](assets/Writing - Voice 9/media/media/image49.jpeg){width="1.5833333333333333in"
-height="2.28125in"}
+![katedicamillo](assets/Writing - Voice 9/media/media/image49.jpeg)
 
 I was born in Philadelphia, Pennsylvania, raised in Clermont, Florida,
 and currently live in Minneapolis, Minnesota. I write for both children
@@ -2813,8 +2763,7 @@ beside the white
 
 chickens
 
-![http://3.bp.blogspot.com/-9931B47_7K8/UChSqKkQtRI/AAAAAAAAB3w/mfqP6XG9jDc/s1600/charlottes-web-cover.gif](assets/Writing - Voice 9/media/media/image50.gif){width="2.0191327646544184in"
-height="3.0416666666666665in"}
+![http://3.bp.blogspot.com/-9931B47_7K8/UChSqKkQtRI/AAAAAAAAB3w/mfqP6XG9jDc/s1600/charlottes-web-cover.gif](assets/Writing - Voice 9/media/media/image50.gif)
 
 In his classic and beloved novel, E. B. White tells the memorable story
 of Wilbur, a little pig who becomes famous with the help of his clever
@@ -2898,11 +2847,9 @@ Yours sincerely,
 
 E. B. White
 
-![http://www.thehistoryblog.com/wp-content/uploads/2010/10/Charlottes-Web-Terrific-Garth-Williams.jpg](assets/Writing - Voice 9/media/media/image51.jpeg){width="6.268055555555556in"
-height="7.949944225721785in"}
+![http://www.thehistoryblog.com/wp-content/uploads/2010/10/Charlottes-Web-Terrific-Garth-Williams.jpg](assets/Writing - Voice 9/media/media/image51.jpeg)
 
-![http://www.thehistoryblog.com/wp-content/uploads/2010/10/Charlottes-Web-Fern-feeding-Wilbur-Garth-Williams.jpg](assets/Writing - Voice 9/media/media/image52.jpeg){width="6.268055555555556in"
-height="8.424266185476815in"}
+![http://www.thehistoryblog.com/wp-content/uploads/2010/10/Charlottes-Web-Fern-feeding-Wilbur-Garth-Williams.jpg](assets/Writing - Voice 9/media/media/image52.jpeg)
 
 **Charlotte's Web E.B.White**
 
@@ -2922,8 +2869,7 @@ Avery
 
 Teacher (one line)
 
-![http://natedsanders.com/ItemImages/000013/34053_lg.jpeg](assets/Writing - Voice 9/media/media/image53.jpeg){width="6.268055555555556in"
-height="10.587931977252843in"}\
+![http://natedsanders.com/ItemImages/000013/34053_lg.jpeg](assets/Writing - Voice 9/media/media/image53.jpeg)\
 **Before Breakfast**
 
 \"Where\'s Papa going with that axe?\" said Fern to her mother as they
@@ -3279,41 +3225,29 @@ infield was littered with bottles and trash. Nobody, of the hundreds of
 people what had visited the Fair, knew that a grey spider had played the
 most important part of all. No one was with her when she died.
 
-![http://media-cache-ak0.pinimg.com/originals/e1/fa/c8/e1fac87126bd69adc7f3a4dd00c48d4b.jpg](assets/Writing - Voice 9/media/media/image54.jpeg){width="6.268055555555556in"
-height="4.76959864391951in"}
+![http://media-cache-ak0.pinimg.com/originals/e1/fa/c8/e1fac87126bd69adc7f3a4dd00c48d4b.jpg](assets/Writing - Voice 9/media/media/image54.jpeg)
 
-![https://spaceintext.files.wordpress.com/2010/12/a-directors-meeting-charlottes-web-page-88-illustration-1952-gm-williams1.jpg](assets/Writing - Voice 9/media/media/image55.jpeg){width="6.268055555555556in"
-height="7.702679352580927in"}
+![https://spaceintext.files.wordpress.com/2010/12/a-directors-meeting-charlottes-web-page-88-illustration-1952-gm-williams1.jpg](assets/Writing - Voice 9/media/media/image55.jpeg)
 
-![https://spaceintext.files.wordpress.com/2010/12/wilburs-new-friends-charlottes-web-page-181-illustration-1952-gm-williams1.jpg](assets/Writing - Voice 9/media/media/image56.jpeg){width="6.268055555555556in"
-height="4.845990813648294in"}
+![https://spaceintext.files.wordpress.com/2010/12/wilburs-new-friends-charlottes-web-page-181-illustration-1952-gm-williams1.jpg](assets/Writing - Voice 9/media/media/image56.jpeg)
 
-![http://media-cache-ec0.pinimg.com/736x/4c/03/b3/4c03b3f69494e790ef878599bb43fdbf.jpg](assets/Writing - Voice 9/media/media/image57.jpeg){width="5.416666666666667in"
-height="7.729166666666667in"}
+![http://media-cache-ec0.pinimg.com/736x/4c/03/b3/4c03b3f69494e790ef878599bb43fdbf.jpg](assets/Writing - Voice 9/media/media/image57.jpeg)
 
-![http://media-cache-ak0.pinimg.com/736x/b4/9d/87/b49d87798b693f63bce803a552f30636.jpg](assets/Writing - Voice 9/media/media/image58.jpeg){width="6.268055555555556in"
-height="4.155993000874891in"}
+![http://media-cache-ak0.pinimg.com/736x/b4/9d/87/b49d87798b693f63bce803a552f30636.jpg](assets/Writing - Voice 9/media/media/image58.jpeg)
 
-![http://static01.nyt.com/images/2012/04/22/books/review/22sims/22sims-popup.jpg](assets/Writing - Voice 9/media/media/image59.jpeg){width="4.53125in"
-height="5.208333333333333in"}
+![http://static01.nyt.com/images/2012/04/22/books/review/22sims/22sims-popup.jpg](assets/Writing - Voice 9/media/media/image59.jpeg)
 
-![http://media-cache-ec0.pinimg.com/736x/32/ca/ac/32caac18aa52d8d4e32ddeb43971aee8.jpg](assets/Writing - Voice 9/media/media/image60.jpeg){width="6.268055555555556in"
-height="7.707323928258968in"}
+![http://media-cache-ec0.pinimg.com/736x/32/ca/ac/32caac18aa52d8d4e32ddeb43971aee8.jpg](assets/Writing - Voice 9/media/media/image60.jpeg)
 
-![http://spaceintext.files.wordpress.com/2010/12/templetons-egg-charlottes-web-page-46-illustration-1952-gm-williams.jpg?w=380&h=485](assets/Writing - Voice 9/media/media/image61.jpeg){width="3.9583333333333335in"
-height="5.0625in"}
+![http://spaceintext.files.wordpress.com/2010/12/templetons-egg-charlottes-web-page-46-illustration-1952-gm-williams.jpg?w=380&h=485](assets/Writing - Voice 9/media/media/image61.jpeg)
 
-![http://3.bp.blogspot.com/\_OxcFQJfLSbo/TTZQE3iTAlI/AAAAAAAAIHs/7onRHKhgK8k/s1600/Garth24-10456.25.jpg](assets/Writing - Voice 9/media/media/image62.jpeg){width="6.268055555555556in"
-height="5.390528215223097in"}
+![http://3.bp.blogspot.com/\_OxcFQJfLSbo/TTZQE3iTAlI/AAAAAAAAIHs/7onRHKhgK8k/s1600/Garth24-10456.25.jpg](assets/Writing - Voice 9/media/media/image62.jpeg)
 
-![http://media-cache-ec0.pinimg.com/originals/a8/f6/f0/a8f6f0113ed5e228d89d41c11ca6923b.jpg](assets/Writing - Voice 9/media/media/image63.jpeg){width="6.268055555555556in"
-height="7.339643482064742in"}
+![http://media-cache-ec0.pinimg.com/originals/a8/f6/f0/a8f6f0113ed5e228d89d41c11ca6923b.jpg](assets/Writing - Voice 9/media/media/image63.jpeg)
 
-![http://media-cache-ec0.pinimg.com/736x/5a/18/a2/5a18a2e158e3f02fa8c1c1221b13250b.jpg](assets/Writing - Voice 9/media/media/image64.jpeg){width="6.268055555555556in"
-height="6.597952755905512in"}
+![http://media-cache-ec0.pinimg.com/736x/5a/18/a2/5a18a2e158e3f02fa8c1c1221b13250b.jpg](assets/Writing - Voice 9/media/media/image64.jpeg)
 
-![https://spaceintext.files.wordpress.com/2010/12/loneliness-charlottes-web-page-29-illustration-1952-gm-williams.jpg](assets/Writing - Voice 9/media/media/image65.jpeg){width="6.268055555555556in"
-height="5.13588801399825in"}
+![https://spaceintext.files.wordpress.com/2010/12/loneliness-charlottes-web-page-29-illustration-1952-gm-williams.jpg](assets/Writing - Voice 9/media/media/image65.jpeg)
 
 **CHARLOTTE'S WEB: A Story about Friendship**
 

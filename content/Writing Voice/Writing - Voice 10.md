@@ -11,16 +11,14 @@ strand: writing-voice
 > **(10)**
 
 ![\[optional image
-description\]](assets/Writing - Voice 10/media/media/image1.jpeg){width="6.268055555555556in"
-height="2.9149004811898513in"}
+description\]](assets/Writing - Voice 10/media/media/image1.jpeg)
 
 **Narrative Voice**
 
 **Perspective**
 
 ![\[optional image
-description\]](assets/Writing - Voice 10/media/media/image1.jpeg){width="2.930533683289589in"
-height="1.3628171478565179in"}
+description\]](assets/Writing - Voice 10/media/media/image1.jpeg)
 
 **Voice 10**
 
@@ -70,8 +68,7 @@ The Frog Principal Stephanie Calmenson
 
 The Duck and the Darklings Glenda Millard
 
-![http://1.bp.blogspot.com/-esaH8emYLaY/UWBKobHOSxI/AAAAAAAAAsE/MnHGeYyuxGY/s1600/POV.jpg](assets/Writing - Voice 10/media/media/image2.jpeg){width="5.208333333333333in"
-height="3.71875in"}**\**
+![http://1.bp.blogspot.com/-esaH8emYLaY/UWBKobHOSxI/AAAAAAAAAsE/MnHGeYyuxGY/s1600/POV.jpg](assets/Writing - Voice 10/media/media/image2.jpeg)**\**
 
 **Voice**
 
@@ -219,18 +216,15 @@ is the perspective used to relate the events of the story.
   perspective, then shift to another character's perspective while still
   remaining in first person.
 
-![http://effectoraffect.files.wordpress.com/2013/06/first-person.jpg](assets/Writing - Voice 10/media/media/image3.jpeg){width="5.513888888888889in"
-height="4.135416666666667in"}**\**
+![http://effectoraffect.files.wordpress.com/2013/06/first-person.jpg](assets/Writing - Voice 10/media/media/image3.jpeg)**\**
 
 **First Person**
 
-![http://authorlaurielarsen.com/wp-content/uploads/2012/10/Writing-Clip-Art.gif#writer%20700x699](assets/Writing - Voice 10/media/media/image4.gif){width="6.370138888888889in"
-height="6.361038932633421in"}
+![http://authorlaurielarsen.com/wp-content/uploads/2012/10/Writing-Clip-Art.gif#writer%20700x699](assets/Writing - Voice 10/media/media/image4.gif)
 
 **I Me We\**
 
-![Summer_Father_Was_Ten](assets/Writing - Voice 10/media/media/image5.jpeg){width="1.5625in"
-height="2.2395833333333335in"}
+![Summer_Father_Was_Ten](assets/Writing - Voice 10/media/media/image5.jpeg)
 
 **The Summer My Father Was Ten Pat Brisson**
 
@@ -516,8 +510,7 @@ story ...
 
 **\**
 
-![1039943](assets/Writing - Voice 10/media/media/image6.jpeg){width="3.3125in"
-height="3.9583333333333335in"}
+![1039943](assets/Writing - Voice 10/media/media/image6.jpeg)
 
 *Up north at the cabin,*
 
@@ -681,8 +674,7 @@ again I am up north at the cabin.
 
 **\**
 
-![http://i43.tower.com/images/mm100118902/shortcut-donald-crews-hardcover-cover-art.jpg](assets/Writing - Voice 10/media/media/image7.jpeg){width="2.0833333333333335in"
-height="1.7708333333333333in"}
+![http://i43.tower.com/images/mm100118902/shortcut-donald-crews-hardcover-cover-art.jpg](assets/Writing - Voice 10/media/media/image7.jpeg)
 
 The train tracks ran right by Bigmama\'s house in Cottondale, and the
 children were warned to stay off the tracks. But one night they were
@@ -725,8 +717,7 @@ though, because whatever the kids did then isn't important to the story.
 Whatever they might have been doing---visiting friends, picking
 berries---it wouldn't help us understand his message. (C.Anderson)
 
-![http://1.bp.blogspot.com/-RknoWMpHtDM/U6Arm9YQBMI/AAAAAAAAASs/OLWYp8DFou8/s1600/Screen+Shot+2014-06-16+at+6.01.02+PM.png](assets/Writing - Voice 10/media/media/image8.png){width="6.208333333333333in"
-height="5.260416666666667in"}
+![http://1.bp.blogspot.com/-RknoWMpHtDM/U6Arm9YQBMI/AAAAAAAAASs/OLWYp8DFou8/s1600/Screen+Shot+2014-06-16+at+6.01.02+PM.png](assets/Writing - Voice 10/media/media/image8.png)
 
 Writing: Personal narrative
 
@@ -738,8 +729,7 @@ details, sound effects, and suspense into his writing.
 Discuss the differences between writing about big ideas (the whole
 summer) and small moments.
 
-![http://3.bp.blogspot.com/-HHZGvE0tj2w/U6ArsK-bQxI/AAAAAAAAAS0/UdWOfE4E8us/s1600/Screen+Shot+2014-06-16+at+6.01.15+PM.png](assets/Writing - Voice 10/media/media/image9.png){width="6.1875in"
-height="5.291666666666667in"}
+![http://3.bp.blogspot.com/-HHZGvE0tj2w/U6ArsK-bQxI/AAAAAAAAAS0/UdWOfE4E8us/s1600/Screen+Shot+2014-06-16+at+6.01.15+PM.png](assets/Writing - Voice 10/media/media/image9.png)
 
 **Shortcut Donald Crews**
 
@@ -806,8 +796,7 @@ didn't take the shortcut again.
 
 **Painting the Wind Patricia MacLachlan**
 
-![http://ecx.images-amazon.com/images/I/51S37D6SGKL.jpg](assets/Writing - Voice 10/media/media/image10.jpeg){width="5.208333333333333in"
-height="4.28125in"}
+![http://ecx.images-amazon.com/images/I/51S37D6SGKL.jpg](assets/Writing - Voice 10/media/media/image10.jpeg)
 
 A moving and beautifully illustrated book about summer on one special
 island.
@@ -1010,8 +999,7 @@ have done what I could not do before.
 
 I have painted the wind.
 
-![1006197](assets/Writing - Voice 10/media/media/image11.jpeg){width="2.686979440069991in"
-height="3.4895833333333335in"}
+![1006197](assets/Writing - Voice 10/media/media/image11.jpeg)
 
 **I Am an Artist Pat Collins**
 
@@ -1088,8 +1076,7 @@ And whenever *you* listen and search and see, you are an artist too.
 
 **\**
 
-![866551](assets/Writing - Voice 10/media/media/image12.jpeg){width="2.438203193350831in"
-height="3.15625in"}
+![866551](assets/Writing - Voice 10/media/media/image12.jpeg)
 
 **Night Tree Eve Bunting**
 
@@ -1348,8 +1335,7 @@ gave us a lot of love.
 
 **\**
 
-![948638](assets/Writing - Voice 10/media/media/image13.jpeg){width="3.3125in"
-height="3.28125in"}
+![948638](assets/Writing - Voice 10/media/media/image13.jpeg)
 
 On the first day of school, a boy falls asleep and dreams that he is
 assigned to Mrs. Green\'s class. In his nightmare, Mrs. Green is a
@@ -1357,8 +1343,7 @@ monster with a tail and smoke coming out of her nostrils. He is so happy
 when he awakes to see the real Mrs. Green that he gives her a hug.
 
 ![Go to Biography
-page](assets/Writing - Voice 10/media/media/image14.png){width="1.96875in"
-height="0.96875in"}
+page](assets/Writing - Voice 10/media/media/image14.png)
 
 Review the story by asking children to recall what they thought were the
 funniest moments. Have them identify the clues that show the monster
@@ -1375,14 +1360,12 @@ Write your own version or sequel about The Teacher from the Black
 Lagoon.
 
 ![Go to Author Visits
-page](assets/Writing - Voice 10/media/media/image15.png){width="1.9375in"
-height="1.09375in"}
+page](assets/Writing - Voice 10/media/media/image15.png)
 
 **Questions & Answers**
 
 ![Mike with Large
-Pencil](assets/Writing - Voice 10/media/media/image16.jpeg){width="1.84375in"
-height="2.0833333333333335in"}
+Pencil](assets/Writing - Voice 10/media/media/image16.jpeg)
 
 What were like as a kid?
 
@@ -1499,15 +1482,12 @@ What do you do when you are not writing?
 Sleep - Eat - Pray - Read - Travel - Enjoy family and friends - Visit
 museums - Collect Japanese art - Visit schools - Watch football - Swim.
 
-![Bookplate](assets/Writing - Voice 10/media/media/image17.jpeg){width="3.6458333333333335in"
-height="3.0416666666666665in"}
+![Bookplate](assets/Writing - Voice 10/media/media/image17.jpeg)
 
 ![Mike
-Thaler](assets/Writing - Voice 10/media/media/image18.jpeg){width="3.125in"
-height="3.375in"}
+Thaler](assets/Writing - Voice 10/media/media/image18.jpeg)
 
-![http://www.blacklagoonmaul.com/graphics/mrsgreen.gif](assets/Writing - Voice 10/media/media/image19.gif){width="5.208333333333333in"
-height="5.260416666666667in"}
+![http://www.blacklagoonmaul.com/graphics/mrsgreen.gif](assets/Writing - Voice 10/media/media/image19.gif)
 
 **The Teacher from the Black Lagoon Mike Thaler**
 
@@ -1607,8 +1587,7 @@ Not as glad as I am!
 **\**
 
 ![Not
-Norman](assets/Writing - Voice 10/media/media/image20.jpeg){width="3.120820209973753in"
-height="3.5416666666666665in"}
+Norman](assets/Writing - Voice 10/media/media/image20.jpeg)
 
 **Not Norman Kelly Bennett**
 
@@ -1629,8 +1608,7 @@ pitfalls of making snap judgments about pets \-- or people.\"
 
 > \-- SCHOOL LIBRARY JOURNAL
 
-![http://www.nbp.org/nbp/images/book_photos/BC1208_NORMAN.jpg](assets/Writing - Voice 10/media/media/image21.jpeg){width="2.5820034995625547in"
-height="2.4270833333333335in"}
+![http://www.nbp.org/nbp/images/book_photos/BC1208_NORMAN.jpg](assets/Writing - Voice 10/media/media/image21.jpeg)
 
 Before Reading:
 
@@ -1774,8 +1752,7 @@ I could pick any pet in the whole world, I wouldn't trade him.
 
 **\**
 
-![http://media-cache-ak0.pinimg.com/736x/f6/77/69/f67769506794031f2b316c0c9582daa0.jpg](assets/Writing - Voice 10/media/media/image22.jpeg){width="3.3125in"
-height="4.260416666666667in"}
+![http://media-cache-ak0.pinimg.com/736x/f6/77/69/f67769506794031f2b316c0c9582daa0.jpg](assets/Writing - Voice 10/media/media/image22.jpeg)
 
 **Yesterday I had the Blues Jeron Frame**
 
@@ -1802,8 +1779,7 @@ on the bed, she gets the reds---\"Look out!\"). It\'s clear that in this
 family, even when moods are mercurial, love endures---and that, says the
 boy, makes life \"all golden.\"
 
-![http://image.pbs.org/poster_images/assets/wgbh/btl10/btl10_vid_yesterdayblues/btl10_vid_yesterdayblues_l.jpg.resize.710x399.jpg](assets/Writing - Voice 10/media/media/image23.jpeg){width="6.268055555555556in"
-height="3.513642825896763in"}
+![http://image.pbs.org/poster_images/assets/wgbh/btl10/btl10_vid_yesterdayblues/btl10_vid_yesterdayblues_l.jpg.resize.710x399.jpg](assets/Writing - Voice 10/media/media/image23.jpeg)
 
 **Lesson:**
 
@@ -2014,8 +1990,7 @@ all
 **\**
 
 ![THE DAY I LOST MY SUPERPOWERS by Michaël
-Escoffier](assets/Writing - Voice 10/media/media/image24.jpeg){width="1.875in"
-height="2.6770833333333335in"}
+Escoffier](assets/Writing - Voice 10/media/media/image24.jpeg)
 
 **The Day I Lost My Superpowers Michael Escoffier**
 
@@ -2044,8 +2019,7 @@ ebullient child engaged in all sorts of delicious mayhem.
 The narrator's buoyancy and quick recovery save this from turning into a
 dreary life lesson.
 
-![http://static01.nyt.com/images/2014/04/24/books/24childrens/24childrens-master675.jpg](assets/Writing - Voice 10/media/media/image25.jpeg){width="6.268055555555556in"
-height="4.280849737532808in"}
+![http://static01.nyt.com/images/2014/04/24/books/24childrens/24childrens-master675.jpg](assets/Writing - Voice 10/media/media/image25.jpeg)
 
 **The Day I Lost my Superpowers Michael Escoffier**
 
@@ -2147,8 +2121,7 @@ I think my mum has superpowers too.
 
 **\**
 
-![2007768](assets/Writing - Voice 10/media/media/image26.jpeg){width="2.9270833333333335in"
-height="3.4885673665791774in"}
+![2007768](assets/Writing - Voice 10/media/media/image26.jpeg)
 
 **Tough Cookie David Wisniewski**
 
@@ -2348,8 +2321,7 @@ about Tough Cookie.
 9\. Do you agree or disagree that Tough Cookie is a munchable mystery?
 
 ![New York
-Times](assets/Writing - Voice 10/media/media/image27.gif){width="1.5833333333333333in"
-height="0.23958333333333334in"}
+Times](assets/Writing - Voice 10/media/media/image27.gif)
 
 September 21, 2002
 
@@ -2414,8 +2386,7 @@ that drew on clowning and puppetry.
 Two of his books are to be published this fall: \'\'Halloweenies\'\'
 (HarperCollins), and \'\'Sumo Mouse\'\' (Chronicle).
 
-![http://ecx.images-amazon.com/images/I/518MR096RFL.jpg](assets/Writing - Voice 10/media/media/image28.jpeg){width="4.947916666666667in"
-height="2.9375in"}
+![http://ecx.images-amazon.com/images/I/518MR096RFL.jpg](assets/Writing - Voice 10/media/media/image28.jpeg)
 
 **Tough Cookie David Wisniewski**
 
@@ -2536,13 +2507,11 @@ She kisses me. "You don't learn quick," she says, "but you learn."
 
 **Third Person**
 
-![http://www.really-learn-english.com/image-files/first-person.png](assets/Writing - Voice 10/media/media/image29.png){width="3.4272451881014874in"
-height="2.6458333333333335in"}
+![http://www.really-learn-english.com/image-files/first-person.png](assets/Writing - Voice 10/media/media/image29.png)
 
 **They She He**
 
-![http://reviews-of-childrens-literature.pbworks.com/f/david.jpg](assets/Writing - Voice 10/media/media/image30.jpeg){width="3.0520833333333335in"
-height="3.9903160542432197in"}
+![http://reviews-of-childrens-literature.pbworks.com/f/david.jpg](assets/Writing - Voice 10/media/media/image30.jpeg)
 
 Plot Summary
 
@@ -2648,8 +2617,7 @@ to the issue it deals with about creating excuses to stay out of
 trouble. The hidden message is that it is better to admit to one's
 mistakes than come up with excuses.
 
-![http://reviews-of-childrens-literature.pbworks.com/f/1292084922/david2.gif](assets/Writing - Voice 10/media/media/image31.gif){width="5.208333333333333in"
-height="3.5416666666666665in"}
+![http://reviews-of-childrens-literature.pbworks.com/f/1292084922/david2.gif](assets/Writing - Voice 10/media/media/image31.gif)
 
 Also used for inferring -from Inferring course:
 
@@ -2687,8 +2655,7 @@ relevant to your students. E.g.
 | *I love you!*  | David smiling.  |                | behaviour.     |
 +----------------+-----------------+----------------+----------------+
 
-![http://upload.wikimedia.org/wikipedia/commons/5/53/GmimmTheFrogPrince.gif](assets/Writing - Voice 10/media/media/image32.gif){width="2.2708333333333335in"
-height="3.3645833333333335in"}
+![http://upload.wikimedia.org/wikipedia/commons/5/53/GmimmTheFrogPrince.gif](assets/Writing - Voice 10/media/media/image32.gif)
 
 The Frog Prince by Paul Friedrich Meyerheim (1889)
 
@@ -2704,12 +2671,10 @@ when the princess threw it against a wall in disgust.
 In other early versions it was sufficient for the frog to spend the
 night on the princess\'s pillow.
 
-![http://4.bp.blogspot.com/-xUriIOVKhHg/Trrw649IspI/AAAAAAAAAU4/RuHu22oW\_\_s/s1600/frog_king_pop.jpg](assets/Writing - Voice 10/media/media/image33.jpeg){width="1.905158573928259in"
-height="2.71875in"}
+![http://4.bp.blogspot.com/-xUriIOVKhHg/Trrw649IspI/AAAAAAAAAU4/RuHu22oW\_\_s/s1600/frog_king_pop.jpg](assets/Writing - Voice 10/media/media/image33.jpeg)
 
 ![Grimm
-brothers](assets/Writing - Voice 10/media/media/image34.jpeg){width="4.416666666666667in"
-height="5.208333333333333in"}
+brothers](assets/Writing - Voice 10/media/media/image34.jpeg)
 
 The frog asks to enter the castle
 
@@ -2875,8 +2840,7 @@ The prince smiled shyly. \"Who can tell?\"
 
 **The Frog Who Would Be King Kate Walker**
 
-![http://www.spearfish.k12.sd.us/\~tseyer/Images/Clipart/Book%20Covers/The%20Frog%20Who%20Would%20Be%20King.jpg](assets/Writing - Voice 10/media/media/image35.jpeg){width="2.875in"
-height="2.875in"}
+![http://www.spearfish.k12.sd.us/\~tseyer/Images/Clipart/Book%20Covers/The%20Frog%20Who%20Would%20Be%20King.jpg](assets/Writing - Voice 10/media/media/image35.jpeg)
 
 6 Readers
 
@@ -3050,8 +3014,7 @@ So Reginald married his princess, and in time became king, while all the
 other frogs still sat on their lily pads catching tasteless flies and
 not daring to dream of all the greater things they could be.
 
-![820075](assets/Writing - Voice 10/media/media/image36.jpeg){width="3.0208333333333335in"
-height="3.7807917760279963in"}
+![820075](assets/Writing - Voice 10/media/media/image36.jpeg)
 
 After the Princess kissed the frog, he turned into a handsome prince and
 they lived happily ever after\... or did they? The Princess can\'t stand
@@ -3061,8 +3024,7 @@ that it would be best if he were changed back to a frog. But finding a
 witch who will do the job is harder than he expects. They all seem to
 have other spells in mind\...
 
-![http://2.bp.blogspot.com/\_w5bcu08vtJY/TPe2Dutm9NI/AAAAAAAAAnQ/GGOEdlFGMtQ/s1600/Frog_Prince_9.jpg](assets/Writing - Voice 10/media/media/image37.jpeg){width="2.7291666666666665in"
-height="2.4023731408573927in"}
+![http://2.bp.blogspot.com/\_w5bcu08vtJY/TPe2Dutm9NI/AAAAAAAAAnQ/GGOEdlFGMtQ/s1600/Frog_Prince_9.jpg](assets/Writing - Voice 10/media/media/image37.jpeg)
 
 This is the story of what happened after \"They lived happily ever
 after.\" What happens is: a witch, a spell, a poison apple, another
@@ -3070,20 +3032,15 @@ witch, a gingerbread house with an extra large oven, dragonfly
 wallpaper, a Fairy Godmother, a pumpkin, a carriage, another spell, a
 clock striking midnight, a kiss, frogs, and true love.
 
-![http://literacylessonsforall.wikispaces.com/file/view/Frog_Prince_6.jpg/251645060/800x803/Frog_Prince_6.jpg](assets/Writing - Voice 10/media/media/image38.jpeg){width="6.268055555555556in"
-height="6.291560586176728in"}
+![http://literacylessonsforall.wikispaces.com/file/view/Frog_Prince_6.jpg/251645060/800x803/Frog_Prince_6.jpg](assets/Writing - Voice 10/media/media/image38.jpeg)
 
-![http://4.bp.blogspot.com/\_w5bcu08vtJY/TPFhW0jdcCI/AAAAAAAAAmI/uIjz-K5JBzo/s1600/Frog_Prince_5.jpg](assets/Writing - Voice 10/media/media/image39.jpeg){width="6.268055555555556in"
-height="6.216593394575678in"}
+![http://4.bp.blogspot.com/\_w5bcu08vtJY/TPFhW0jdcCI/AAAAAAAAAmI/uIjz-K5JBzo/s1600/Frog_Prince_5.jpg](assets/Writing - Voice 10/media/media/image39.jpeg)
 
-![http://jeanporter.cmswiki.wikispaces.net/file/view/frog_prince_continued.jpg/244620517/353x533/frog_prince_continued.jpg](assets/Writing - Voice 10/media/media/image40.jpeg){width="3.6770833333333335in"
-height="5.552083333333333in"}
+![http://jeanporter.cmswiki.wikispaces.net/file/view/frog_prince_continued.jpg/244620517/353x533/frog_prince_continued.jpg](assets/Writing - Voice 10/media/media/image40.jpeg)
 
-![http://3.bp.blogspot.com/\_w5bcu08vtJY/TPe3JbGwYcI/AAAAAAAAAng/Pi3uFD9J_s4/s1600/Frog_Prince_11.jpg](assets/Writing - Voice 10/media/media/image41.jpeg){width="6.268055555555556in"
-height="8.315827865266842in"}
+![http://3.bp.blogspot.com/\_w5bcu08vtJY/TPe3JbGwYcI/AAAAAAAAAng/Pi3uFD9J_s4/s1600/Frog_Prince_11.jpg](assets/Writing - Voice 10/media/media/image41.jpeg)
 
-![http://2.bp.blogspot.com/\_w5bcu08vtJY/TPFfK4hvbwI/AAAAAAAAAlw/wAuL8CS8kJ0/s1600/Frog_Prince_2.jpg](assets/Writing - Voice 10/media/media/image42.jpeg){width="6.268055555555556in"
-height="5.956045494313211in"}
+![http://2.bp.blogspot.com/\_w5bcu08vtJY/TPFfK4hvbwI/AAAAAAAAAlw/wAuL8CS8kJ0/s1600/Frog_Prince_2.jpg](assets/Writing - Voice 10/media/media/image42.jpeg)
 
 **The Frog Prince Continued Jon Scieszka**
 
@@ -3240,8 +3197,7 @@ lips. The Princess who loved him.
 *The Prince kissed the princess. They both turned into frogs. And they
 hopped off happily ever after.*
 
-![1857146](assets/Writing - Voice 10/media/media/image43.jpeg){width="2.6218482064741906in"
-height="3.25in"}
+![1857146](assets/Writing - Voice 10/media/media/image43.jpeg)
 
 Mr. Bundy is the principal of PS 88. He\'s popular and trendy, and the
 kids think he\'s the best principal in town. But when Marty Q. Marvel,
@@ -3574,8 +3530,7 @@ when \...
 
 Mr Bundy swallowed a fly.
 
-![http://readingtime.com.au/wp-content/uploads/2014/10/duck-and-darklings.jpg](assets/Writing - Voice 10/media/media/image44.jpeg){width="2.8631627296587925in"
-height="3.7708333333333335in"}
+![http://readingtime.com.au/wp-content/uploads/2014/10/duck-and-darklings.jpg](assets/Writing - Voice 10/media/media/image44.jpeg)
 
 **The Duck and the Darklings Glenda Millard**
 
@@ -3601,17 +3556,13 @@ that Idaduck brings, and again when Grandpapa begins to remember.
 Colourful memories are framed like windows on the past. The new dawn
 brings blocks of bright colour that shine like stained glass. **.**
 
-![darknessillustration3](assets/Writing - Voice 10/media/media/image45.jpeg){width="6.268055555555556in"
-height="4.431515748031496in"}
+![darknessillustration3](assets/Writing - Voice 10/media/media/image45.jpeg)
 
-![http://www.playingbythebook.net/wp-content/uploads/darknessillustration1.jpg](assets/Writing - Voice 10/media/media/image46.jpeg){width="6.268055555555556in"
-height="5.05205271216098in"}
+![http://www.playingbythebook.net/wp-content/uploads/darknessillustration1.jpg](assets/Writing - Voice 10/media/media/image46.jpeg)
 
-![darknessillustration2](assets/Writing - Voice 10/media/media/image47.jpeg){width="6.268055555555556in"
-height="8.750205599300088in"}
+![darknessillustration2](assets/Writing - Voice 10/media/media/image47.jpeg)
 
-![http://4.bp.blogspot.com/-0z3Iis4rs2c/VQa57J4LXaI/AAAAAAAArus/OfXy0oC82sw/s1600/Y3160010.JPG](assets/Writing - Voice 10/media/media/image48.jpeg){width="6.268055555555556in"
-height="3.5257808398950132in"}
+![http://4.bp.blogspot.com/-0z3Iis4rs2c/VQa57J4LXaI/AAAAAAAArus/OfXy0oC82sw/s1600/Y3160010.JPG](assets/Writing - Voice 10/media/media/image48.jpeg)
 
 This book can be used on many levels, depending on the age of the
 students.
@@ -3823,6 +3774,5 @@ soothed earth's hurts. She was dressed anew in flowers and forests.
 The velvet wind whispered, Idaduck spread her wings and the Darklings
 watched with hope in their hearts as she flew out of sight.
 
-![http://mandyevebarnett.files.wordpress.com/2013/12/bob.jpg](assets/Writing - Voice 10/media/media/image49.jpeg){width="6.25in"
-height="4.0in"}
+![http://mandyevebarnett.files.wordpress.com/2013/12/bob.jpg](assets/Writing - Voice 10/media/media/image49.jpeg)
 

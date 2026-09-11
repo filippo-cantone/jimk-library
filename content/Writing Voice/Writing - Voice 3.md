@@ -11,8 +11,7 @@ strand: writing-voice
 > **(3)**
 
 ![\...er yeah, I guess in the sense that one writes what one
-knows](assets/Writing - Voice 3/media/media/image1.jpeg){width="2.5625in"
-height="3.6458333333333335in"}
+knows](assets/Writing - Voice 3/media/media/image1.jpeg)
 
 This is written with authentic voice.
 
@@ -21,8 +20,7 @@ reader feels more in touch with the writer's emotions, opinions, and
 personality.**
 
 ![\...er yeah, I guess in the sense that one writes what one
-knows](assets/Writing - Voice 3/media/media/image1.jpeg){width="1.5104166666666667in"
-height="2.148966535433071in"}
+knows](assets/Writing - Voice 3/media/media/image1.jpeg)
 
 **Voice 3**
 
@@ -58,11 +56,9 @@ Amazing Grace Mary Hoffman
 
 ![\"Fill your paper with the breathing of your heart.\" - William
 Wordsworth #quotes #writing
-\*](assets/Writing - Voice 3/media/media/image2.jpeg){width="6.0in"
-height="3.88125in"}
+\*](assets/Writing - Voice 3/media/media/image2.jpeg)
 
-![ANd9GcTZNL1dRpGHHfBTw2-TuGlT2uTsGdibpAo2KmQDDrVMO8UVT6fW](assets/Writing - Voice 3/media/media/image3.jpeg){width="2.0208333333333335in"
-height="2.7083333333333335in"}
+![ANd9GcTZNL1dRpGHHfBTw2-TuGlT2uTsGdibpAo2KmQDDrVMO8UVT6fW](assets/Writing - Voice 3/media/media/image3.jpeg)
 
 A little girl and her older brother lived on a small Michigan farm with
 their Grandmother. Everything was wonderful in the little girl's life,
@@ -94,11 +90,9 @@ to the sibling rivalry presented in the book. Hopefully they would be
 able to recognise that siblings may get on your nerves sometimes but in
 the end, they will be there for you.
 
-![rotten](assets/Writing - Voice 3/media/media/image4.jpeg){width="2.9895833333333335in"
-height="4.125in"}
+![rotten](assets/Writing - Voice 3/media/media/image4.jpeg)
 
-![Rotten](assets/Writing - Voice 3/media/media/image5.jpeg){width="3.0104166666666665in"
-height="4.0in"}
+![Rotten](assets/Writing - Voice 3/media/media/image5.jpeg)
 
 **My Rotten Redheaded Older Brother Patricia Polacco**
 
@@ -526,8 +520,7 @@ done for them?
 7\. What are some of the things you love about your sibling/friend? How
 is that person important in your life?
 
-![http://2.bp.blogspot.com/-rbiva0jntFI/TyjDFSViw_I/AAAAAAAAAWw/fkGoknHFlM8/s1600/34472859_rrh2.jpg](assets/Writing - Voice 3/media/media/image6.jpeg){width="2.0729166666666665in"
-height="2.71875in"}
+![http://2.bp.blogspot.com/-rbiva0jntFI/TyjDFSViw_I/AAAAAAAAAWw/fkGoknHFlM8/s1600/34472859_rrh2.jpg](assets/Writing - Voice 3/media/media/image6.jpeg)
 
 **Touch the Sky Ann Malaspina**
 
@@ -771,8 +764,7 @@ son, Richmond Davis, helped with information and support.
 
 Ann's website: [www.annmalaspina.com](http://www.annmalaspina.com).
 
-![http://4.bp.blogspot.com/-fkQz-\_lLrmE/TyjDAK3KV-I/AAAAAAAAAWo/EnHKuBZvgx0/s320/ann_malaspina_photo_7ee2.jpg](assets/Writing - Voice 3/media/media/image7.jpeg){width="3.3333333333333335in"
-height="2.5in"}
+![http://4.bp.blogspot.com/-fkQz-\_lLrmE/TyjDAK3KV-I/AAAAAAAAAWo/EnHKuBZvgx0/s320/ann_malaspina_photo_7ee2.jpg](assets/Writing - Voice 3/media/media/image7.jpeg)
 
 **ILLUSTRATOR** Eric Velasquez, the son of Afro-Puerto Rican parents,
 was born in Spanish Harlem and grew up in Harlem in New York City. As a
@@ -790,14 +782,11 @@ Eric's website: [www.ericvelasquez.com](http://www.ericvelasquez.com)
 
 Ref: Teacher's Guide for Touch the Sky
 
-![http://media-cache-ec0.pinimg.com/736x/5f/d5/85/5fd585d785462c3f109513359e41c13b.jpg](assets/Writing - Voice 3/media/media/image8.jpeg){width="6.268055555555556in"
-height="6.063662510936133in"}
+![http://media-cache-ec0.pinimg.com/736x/5f/d5/85/5fd585d785462c3f109513359e41c13b.jpg](assets/Writing - Voice 3/media/media/image8.jpeg)
 
-![http://4.bp.blogspot.com/-HXq7mq1JQH4/T16chI0lbNI/AAAAAAAABLM/Aasf8I5waZI/s1600/coachman_alice.jpg](assets/Writing - Voice 3/media/media/image9.jpeg){width="4.177083333333333in"
-height="3.125in"}
+![http://4.bp.blogspot.com/-HXq7mq1JQH4/T16chI0lbNI/AAAAAAAABLM/Aasf8I5waZI/s1600/coachman_alice.jpg](assets/Writing - Voice 3/media/media/image9.jpeg)
 
-![http://scni.media.clients.ellingtoncms.com/img/photos/2012/01/29/alice-with-medal-crop_t300.jpg?8aff03de2423e912a2467e97388a07f5331c05b6](assets/Writing - Voice 3/media/media/image10.jpeg){width="3.125in"
-height="2.65625in"}
+![http://scni.media.clients.ellingtoncms.com/img/photos/2012/01/29/alice-with-medal-crop_t300.jpg?8aff03de2423e912a2467e97388a07f5331c05b6](assets/Writing - Voice 3/media/media/image10.jpeg)
 
 **Touch the Sky**
 
@@ -1340,8 +1329,7 @@ moon jumper from Georgia.
 
 Alice had finally touched the sky.
 
-![https://wonderinthewoods.files.wordpress.com/2010/03/5b_8.jpg](assets/Writing - Voice 3/media/media/image11.jpeg){width="2.65625in"
-height="2.6458333333333335in"}
+![https://wonderinthewoods.files.wordpress.com/2010/03/5b_8.jpg](assets/Writing - Voice 3/media/media/image11.jpeg)
 
 **Dear Tooth Fairy Pamela Duncan Edwards**
 
@@ -1629,8 +1617,7 @@ Claire
 
 **Testing Miss Malarkey Judy Finchler**
 
-![1076373](assets/Writing - Voice 3/media/media/image12.jpeg){width="3.3125in"
-height="4.3125in"}
+![1076373](assets/Writing - Voice 3/media/media/image12.jpeg)
 
 The new school year brings standardised testing to every school and Miss
 Malarkey\'s is no exception. Teachers, students, and even parents are
@@ -1764,14 +1751,11 @@ butter and jelly sandwiches. And Miss Malarkey is letting her
 fingernails grow real long. I guess THE TEST really wasn't that
 important after all.
 
-![http://media-cache-ec0.pinimg.com/736x/ab/1f/c4/ab1fc443bc621b07055ed002ab049cc1.jpg](assets/Writing - Voice 3/media/media/image13.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://media-cache-ec0.pinimg.com/736x/ab/1f/c4/ab1fc443bc621b07055ed002ab049cc1.jpg](assets/Writing - Voice 3/media/media/image13.jpeg)
 
-![http://media-cache-ak0.pinimg.com/736x/01/2c/46/012c46fc7e543c9758c5a300f2c60b8c.jpg](assets/Writing - Voice 3/media/media/image14.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://media-cache-ak0.pinimg.com/736x/01/2c/46/012c46fc7e543c9758c5a300f2c60b8c.jpg](assets/Writing - Voice 3/media/media/image14.jpeg)
 
-![240130](assets/Writing - Voice 3/media/media/image15.jpeg){width="3.3125in"
-height="3.3229166666666665in"}
+![240130](assets/Writing - Voice 3/media/media/image15.jpeg)
 
 The Princess Elizabeth is slated to marry Prince Ronald when a dragon
 attacks the castle and kidnaps Ronald. In resourceful and humorous
@@ -1798,8 +1782,7 @@ back when she looked like a proper princess. Elizabeth realized her
 unappreciative prince was not the one for her and she didn\'t marry him
 after all.
 
-![https://ia601000.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/ThePaperbagPrincess1DadReadingToMegan/Paperbag%20Princess,%20The_jp2.zip&file=Paperbag%20Princess,%20The_jp2/Paperbag%20Princess,%20The_0000.jp2&scale=4&rotate=0](assets/Writing - Voice 3/media/media/image16.jpeg){width="6.268055555555556in"
-height="8.862082239720035in"}
+![https://ia601000.us.archive.org/BookReader/BookReaderImages.php?zip=/16/items/ThePaperbagPrincess1DadReadingToMegan/Paperbag%20Princess,%20The_jp2.zip&file=Paperbag%20Princess,%20The_jp2/Paperbag%20Princess,%20The_0000.jp2&scale=4&rotate=0](assets/Writing - Voice 3/media/media/image16.jpeg)
 
 **Writing**
 
@@ -1827,19 +1810,15 @@ Pretend you are a news reporter reporting on this event. Write an
 
 article about the events of this day. Be sure to include all the facts.
 
-![http://www.bookspring.org/wp-content/uploads/2014/08/paperbagpriness-286x300.jpg](assets/Writing - Voice 3/media/media/image17.jpeg){width="2.9791666666666665in"
-height="3.125in"}
+![http://www.bookspring.org/wp-content/uploads/2014/08/paperbagpriness-286x300.jpg](assets/Writing - Voice 3/media/media/image17.jpeg)
 
-![http://eflclassroom.com/store/wp-content/uploads/edd/2013/06/paperbag2.png](assets/Writing - Voice 3/media/media/image18.png){width="6.268055555555556in"
-height="6.2968963254593175in"}
+![http://eflclassroom.com/store/wp-content/uploads/edd/2013/06/paperbag2.png](assets/Writing - Voice 3/media/media/image18.png)
 
-![http://investmeinmymotley.files.wordpress.com/2012/06/paperbag_princess.jpg](assets/Writing - Voice 3/media/media/image19.jpeg){width="4.270833333333333in"
-height="4.166666666666667in"}
+![http://investmeinmymotley.files.wordpress.com/2012/06/paperbag_princess.jpg](assets/Writing - Voice 3/media/media/image19.jpeg)
 
 ![BUFFALO MUSIC can be used as a writing mentor text for onomatopoeia,
 sensory words, specificity, vivid verbs, voice, word
-choice](assets/Writing - Voice 3/media/media/image20.jpeg){width="2.3958333333333335in"
-height="2.1770833333333335in"}
+choice](assets/Writing - Voice 3/media/media/image20.jpeg)
 
 Summary:
 
@@ -1881,11 +1860,9 @@ Mentor Text Writing Skills:
 
 \* Word Choice
 
-![http://www.juniorlibraryguild.com/images/9780618723416/InteriorArt/9780618723416-BuffaloMusic1_zoom.jpg](assets/Writing - Voice 3/media/media/image21.jpeg){width="6.25in"
-height="5.125in"}
+![http://www.juniorlibraryguild.com/images/9780618723416/InteriorArt/9780618723416-BuffaloMusic1_zoom.jpg](assets/Writing - Voice 3/media/media/image21.jpeg)
 
-![http://www.juniorlibraryguild.com/images/9780618723416/InteriorArt/9780618723416-BuffaloMusic3_zoom.jpg](assets/Writing - Voice 3/media/media/image22.jpeg){width="6.25in"
-height="5.510416666666667in"}
+![http://www.juniorlibraryguild.com/images/9780618723416/InteriorArt/9780618723416-BuffaloMusic3_zoom.jpg](assets/Writing - Voice 3/media/media/image22.jpeg)
 
 **Buffalo Music Tracey Fern**
 
@@ -2072,8 +2049,7 @@ muffled thud of hooves as they hurl up dust. And I live on the keen edge
 of hope that one day the strains of that sweet, wild music will reach
 far beyond these canyon walls.
 
-![http://3.bp.blogspot.com/-QmUmMxyPYTU/UigmilcYJkI/AAAAAAAA3TY/B7gfvWhRcmk/s1600/bugs+in+my+hair.jpg](assets/Writing - Voice 3/media/media/image23.jpeg){width="2.9575in"
-height="3.7916666666666665in"}
+![http://3.bp.blogspot.com/-QmUmMxyPYTU/UigmilcYJkI/AAAAAAAA3TY/B7gfvWhRcmk/s1600/bugs+in+my+hair.jpg](assets/Writing - Voice 3/media/media/image23.jpeg)
 
 **Bugs in My Hair David Shannon**
 
@@ -2102,8 +2078,7 @@ read again and again.
 
 - Goodreads
 
-![http://www.amomstake.com/wp-content/uploads/2013/09/lice-Medium.jpg](assets/Writing - Voice 3/media/media/image24.jpeg){width="6.268055555555556in"
-height="7.6289490376202975in"}
+![http://www.amomstake.com/wp-content/uploads/2013/09/lice-Medium.jpg](assets/Writing - Voice 3/media/media/image24.jpeg)
 
 **LICE**
 
@@ -2129,8 +2104,7 @@ skin is a perfect place for them to live. Lice eat tiny amounts of blood
 sticky little feet to hold on to hair. Gross!
 
 ![louse and nit
-illustration](assets/Writing - Voice 3/media/media/image25.png){width="4.322916666666667in"
-height="2.4270833333333335in"}
+illustration](assets/Writing - Voice 3/media/media/image25.png)
 
 When lice start living in hair, they also start to lay eggs, or nits.
 Lice can survive up to 30 days on a person\'s head and can lay eight
@@ -2146,8 +2120,7 @@ infections.
 
 - KidsHealth
 
-![http://3.bp.blogspot.com/-Kc-86pZ_AcE/UisAdVWl5XI/AAAAAAAALb8/qugEQZE0Axo/s400/lice2.png](assets/Writing - Voice 3/media/media/image26.png){width="2.6979166666666665in"
-height="4.166666666666667in"}
+![http://3.bp.blogspot.com/-Kc-86pZ_AcE/UisAdVWl5XI/AAAAAAAALb8/qugEQZE0Axo/s400/lice2.png](assets/Writing - Voice 3/media/media/image26.png)
 
 **Freddy Flea**
 
@@ -2185,8 +2158,7 @@ My head really itched!
 
 What the heck were they doing up there?
 
-![http://2.bp.blogspot.com/-MDXMPibzbT0/UisAY5PJbmI/AAAAAAAALb0/cLj7gQ2qFbM/s400/dance.png](assets/Writing - Voice 3/media/media/image27.png){width="4.166666666666667in"
-height="2.6979166666666665in"}
+![http://2.bp.blogspot.com/-MDXMPibzbT0/UisAY5PJbmI/AAAAAAAALb0/cLj7gQ2qFbM/s400/dance.png](assets/Writing - Voice 3/media/media/image27.png)
 
 Actually, they were feasting on my BLOOD.\*
 
@@ -2200,8 +2172,7 @@ I won't have any friends.
 
 > HOW IT FELT
 
-![http://3.bp.blogspot.com/-Kc-86pZ_AcE/UisAdVWl5XI/AAAAAAAALb8/qugEQZE0Axo/s400/lice2.png](assets/Writing - Voice 3/media/media/image26.png){width="1.4270833333333333in"
-height="2.203989501312336in"}
+![http://3.bp.blogspot.com/-Kc-86pZ_AcE/UisAdVWl5XI/AAAAAAAALb8/qugEQZE0Axo/s400/lice2.png](assets/Writing - Voice 3/media/media/image26.png)
 
 . Actual size of a louse\*
 
@@ -2293,8 +2264,7 @@ And this time ...
 
 I'm not taking any chances!
 
-![someday](assets/Writing - Voice 3/media/media/image28.jpeg){width="1.6979166666666667in"
-height="2.0520833333333335in"}
+![someday](assets/Writing - Voice 3/media/media/image28.jpeg)
 
 It's hard to be content with the present moment when you are little. The
 future has infinitely more possibilities!
@@ -2654,8 +2624,7 @@ I smile.
 
 **Right now.**
 
-![http://www.nicholasbasbanes.com/essays/children/graphics/hattie_bad.jpg](assets/Writing - Voice 3/media/media/image29.jpeg){width="3.5290201224846895in"
-height="4.229166666666667in"}
+![http://www.nicholasbasbanes.com/essays/children/graphics/hattie_bad.jpg](assets/Writing - Voice 3/media/media/image29.jpeg)
 
 **Hattie the Bad Jane Devlin**
 
@@ -2674,23 +2643,17 @@ illustrations of Joe Berger that really carry the day.
 
 Review -- N.Basbanes
 
-![http://www.cilingue.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/h/a/hattie_the_bad_inside3.jpg](assets/Writing - Voice 3/media/media/image30.jpeg){width="6.268055555555556in"
-height="8.23494094488189in"}
+![http://www.cilingue.com/media/catalog/product/cache/1/image/5e06319eda06f020e43594a9c230972d/h/a/hattie_the_bad_inside3.jpg](assets/Writing - Voice 3/media/media/image30.jpeg)
 
-![http://static1.squarespace.com/static/532c25aee4b0acb3f8f2d026/533a846fe4b0061876d9a825/533a90bce4b03e36b12049c5/1396347071150/hattie.jpg?format=1500w](assets/Writing - Voice 3/media/media/image31.jpeg){width="6.268055555555556in"
-height="5.897195975503062in"}
+![http://static1.squarespace.com/static/532c25aee4b0acb3f8f2d026/533a846fe4b0061876d9a825/533a90bce4b03e36b12049c5/1396347071150/hattie.jpg?format=1500w](assets/Writing - Voice 3/media/media/image31.jpeg)
 
-![http://static1.squarespace.com/static/532c25aee4b0acb3f8f2d026/533a846fe4b0061876d9a825/533a84a3e4b0753aa3c9859c/1396343972981/htb008.png?format=1500w](assets/Writing - Voice 3/media/media/image32.png){width="6.268055555555556in"
-height="7.529501312335958in"}
+![http://static1.squarespace.com/static/532c25aee4b0acb3f8f2d026/533a846fe4b0061876d9a825/533a84a3e4b0753aa3c9859c/1396343972981/htb008.png?format=1500w](assets/Writing - Voice 3/media/media/image32.png)
 
-![http://static1.squarespace.com/static/532c25aee4b0acb3f8f2d026/533a846fe4b0061876d9a825/533a84a4e4b00bb34469d1ec/1396343972902/htb007.png?format=1500w](assets/Writing - Voice 3/media/media/image33.png){width="6.268055555555556in"
-height="3.7921741032370955in"}
+![http://static1.squarespace.com/static/532c25aee4b0acb3f8f2d026/533a846fe4b0061876d9a825/533a84a4e4b00bb34469d1ec/1396343972902/htb007.png?format=1500w](assets/Writing - Voice 3/media/media/image33.png)
 
-![http://static1.squarespace.com/static/532c25aee4b0acb3f8f2d026/533a846fe4b0061876d9a825/533a849de4b00bb34469d1e0/1396343967418/htb004.png?format=1500w](assets/Writing - Voice 3/media/media/image34.png){width="6.268055555555556in"
-height="3.7921741032370955in"}
+![http://static1.squarespace.com/static/532c25aee4b0acb3f8f2d026/533a846fe4b0061876d9a825/533a849de4b00bb34469d1e0/1396343967418/htb004.png?format=1500w](assets/Writing - Voice 3/media/media/image34.png)
 
-![http://static1.squarespace.com/static/532c25aee4b0acb3f8f2d026/533a846fe4b0061876d9a825/533a8658e4b06b9abafbd6fc/1396344410006/hattiev3b.jpg?format=1500w](assets/Writing - Voice 3/media/media/image35.jpeg){width="6.268055555555556in"
-height="6.7256233595800525in"}
+![http://static1.squarespace.com/static/532c25aee4b0acb3f8f2d026/533a846fe4b0061876d9a825/533a8658e4b06b9abafbd6fc/1396344410006/hattiev3b.jpg?format=1500w](assets/Writing - Voice 3/media/media/image35.jpeg)
 
 **Hattie the Bad Jane Devlin**
 
@@ -2794,8 +2757,7 @@ And NO ONE refused to play with her ...
 
 ever again.
 
-![539056](assets/Writing - Voice 3/media/media/image36.jpeg){width="3.3125in"
-height="2.5in"}
+![539056](assets/Writing - Voice 3/media/media/image36.jpeg)
 
 **Gila Monsters meet You at the Airport Marjorie Sharmat**
 
@@ -2817,8 +2779,7 @@ own fears about new experiences.
 
 Goodreads
 
-![https://georgeshannon.files.wordpress.com/2011/01/picture-29.png](assets/Writing - Voice 3/media/media/image37.png){width="6.268055555555556in"
-height="5.2624332895888015in"}
+![https://georgeshannon.files.wordpress.com/2011/01/picture-29.png](assets/Writing - Voice 3/media/media/image37.png)
 
 **Gila Monsters Meet you at the Airport Marjorie Sharmat**
 
@@ -2928,8 +2889,7 @@ Tomorrow I'm writing a long letter to Seymour. I'll tell him I'm sending
 it by pony express. Seymour will believe me. Back east they don't know
 much about us Westerners.
 
-![http://justanapprentice.files.wordpress.com/2008/11/therecessqueen2.gif](assets/Writing - Voice 3/media/media/image38.gif){width="2.8513790463692037in"
-height="3.5520833333333335in"}
+![http://justanapprentice.files.wordpress.com/2008/11/therecessqueen2.gif](assets/Writing - Voice 3/media/media/image38.gif)
 
 **The Recess Queen Alexis O'Neill**
 
@@ -2983,8 +2943,7 @@ power of cheerful assertion gives us hope --- and lots of laughs.
 
 -- Just One More Book
 
-![http://2.bp.blogspot.com/\_V1UHV7aF8oY/SlEtq5oHPcI/AAAAAAAAAe0/ltUGX2JGvck/s400/hopscotch.jpg](assets/Writing - Voice 3/media/media/image39.jpeg){width="2.7916666666666665in"
-height="3.125in"}
+![http://2.bp.blogspot.com/\_V1UHV7aF8oY/SlEtq5oHPcI/AAAAAAAAAe0/ltUGX2JGvck/s400/hopscotch.jpg](assets/Writing - Voice 3/media/media/image39.jpeg)
 
 **The Recess Queen Alexis O'Neill**
 
@@ -3075,8 +3034,7 @@ Ringity, zingity,
 
 YESSSSSS!
 
-![http://i1.ytimg.com/vi/V_kj5ZLrIJw/hqdefault.jpg](assets/Writing - Voice 3/media/media/image40.jpeg){width="5.0in"
-height="3.75in"}
+![http://i1.ytimg.com/vi/V_kj5ZLrIJw/hqdefault.jpg](assets/Writing - Voice 3/media/media/image40.jpeg)
 
 **Word Splash**
 
@@ -3129,16 +3087,13 @@ red-faced enemy said
 
 meany growled
 
-![http://mshahnsreadinglist.files.wordpress.com/2012/11/11-07-recess.jpeg](assets/Writing - Voice 3/media/media/image41.jpeg){width="6.1875in"
-height="5.645833333333333in"}
+![http://mshahnsreadinglist.files.wordpress.com/2012/11/11-07-recess.jpeg](assets/Writing - Voice 3/media/media/image41.jpeg)
 
-![http://3.bp.blogspot.com/-TcHqUUMh9vk/VC14SPhqrtI/AAAAAAAAFqk/WS0c0iEsVBs/s1600/BK%2BRecess%2BQueen.jpg](assets/Writing - Voice 3/media/media/image42.jpeg){width="6.268055555555556in"
-height="8.22040026246719in"}
+![http://3.bp.blogspot.com/-TcHqUUMh9vk/VC14SPhqrtI/AAAAAAAAFqk/WS0c0iEsVBs/s1600/BK%2BRecess%2BQueen.jpg](assets/Writing - Voice 3/media/media/image42.jpeg)
 
 **When I Was Little Jamie Lee Curtis**
 
-![ANd9GcToBRgpXr2w00oVPuf3AmwgZ15WWPwKpbv-f3glNhIYV684OOWftRm4dRCN](assets/Writing - Voice 3/media/media/image43.jpeg){width="2.5416666666666665in"
-height="2.1458333333333335in"}
+![ANd9GcToBRgpXr2w00oVPuf3AmwgZ15WWPwKpbv-f3glNhIYV684OOWftRm4dRCN](assets/Writing - Voice 3/media/media/image43.jpeg)
 
 Jamie Lee Curtis and Laura Cornell perfectly capture a little girl\'s
 simple, childlike celebration of herself, as she looks back on her
@@ -3146,8 +3101,7 @@ childhood from the lofty height of four and a half years.
 
 **When I Was Five Arthur Howard**
 
-![when-i-was-five](assets/Writing - Voice 3/media/media/image44.jpeg){width="2.9270833333333335in"
-height="2.21875in"}
+![when-i-was-five](assets/Writing - Voice 3/media/media/image44.jpeg)
 
 Jeremy tells what his life was like when he was five. Back then, he
 wanted to be an astronaut or a cowboy or both. He liked pterodactyls and
@@ -3280,8 +3234,7 @@ Some things never change.
 
 **Fireflies Julie Brinckloe**
 
-![http://t1.gstatic.com/images?q=tbn:ANd9GcTCexikJCCLox4gGfKff7j7hk4q04tVwvBdKW6Bb2fkPzh1NqzL](assets/Writing - Voice 3/media/media/image45.jpeg){width="2.0416666666666665in"
-height="2.6770833333333335in"}
+![http://t1.gstatic.com/images?q=tbn:ANd9GcTCexikJCCLox4gGfKff7j7hk4q04tVwvBdKW6Bb2fkPzh1NqzL](assets/Writing - Voice 3/media/media/image45.jpeg)
 
 A young boy is proud of having caught a jar full of fireflies, which
 seems to him like owning a piece of moonlight, but as the light begins
@@ -3603,8 +3556,7 @@ fireflies swam in my tears, but I could feel myself smiling.
 |                      | narration, dialogue and monologue.          |
 +----------------------+---------------------------------------------+
 
-![765193](assets/Writing - Voice 3/media/media/image46.jpeg){width="3.3020833333333335in"
-height="4.166666666666667in"}
+![765193](assets/Writing - Voice 3/media/media/image46.jpeg)
 
 **Amazing Grace Mary Hoffman**
 
@@ -3643,8 +3595,7 @@ been different if Grace\'s family had not encouraged her? Has your
 family ever given you courage to do something? How has your family
 helped you?
 
-![http://otherstuffexists.files.wordpress.com/2014/03/amazinggrace-joined.jpg](assets/Writing - Voice 3/media/media/image47.jpeg){width="6.268055555555556in"
-height="4.06640091863517in"}
+![http://otherstuffexists.files.wordpress.com/2014/03/amazinggrace-joined.jpg](assets/Writing - Voice 3/media/media/image47.jpeg)
 
 **Amazing Grace Mary Hoffman**
 
@@ -3755,9 +3706,7 @@ home!"
 "Yes," said Nana. "If Grace put her mind to it -- she can do anything
 she wants."
 
-![http://2.bp.blogspot.com/-LiaLcxFiw4o/T6wZ7pnwTeI/AAAAAAAACqI/ODYqqmPn8fI/s400/AmazingGrace2.jpg](assets/Writing - Voice 3/media/media/image48.jpeg){width="4.166666666666667in"
-height="3.6979166666666665in"}
+![http://2.bp.blogspot.com/-LiaLcxFiw4o/T6wZ7pnwTeI/AAAAAAAACqI/ODYqqmPn8fI/s400/AmazingGrace2.jpg](assets/Writing - Voice 3/media/media/image48.jpeg)
 
-![http://bp1.blogger.com/\_-5oAyjIPwHQ/RiAnd60IWgI/AAAAAAAAA1E/rabwY-gOkCc/s320/Grace.jpg](assets/Writing - Voice 3/media/media/image49.jpeg){width="2.5729166666666665in"
-height="3.3333333333333335in"}
+![http://bp1.blogger.com/\_-5oAyjIPwHQ/RiAnd60IWgI/AAAAAAAAA1E/rabwY-gOkCc/s320/Grace.jpg](assets/Writing - Voice 3/media/media/image49.jpeg)
 

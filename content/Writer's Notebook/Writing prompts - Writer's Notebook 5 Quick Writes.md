@@ -13,14 +13,12 @@ strand: writers-notebook
 **Quick-Writes**
 
 ![
-](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image1.jpeg){width="3.563073053368329in"
-height="6.34375in"}
+](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image1.jpeg)
 
 **Writing Prompts**
 
 ![
-](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image1.jpeg){width="1.913176946631671in"
-height="3.40625in"}
+](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image1.jpeg)
 
 **Writer's Notebook 5**
 
@@ -958,28 +956,22 @@ ultimately foil his plans?
 
 10\. Suppose no one ever told the emperor about his lack of clothing...
 
-![http://1.bp.blogspot.com/-IIO3qWnXP98/UqBDpFUB9BI/AAAAAAAAA4M/j2H6APhAmj4/s1600/Prompt+50.png](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image2.png){width="6.268055555555556in"
-height="4.721699475065617in"}
+![http://1.bp.blogspot.com/-IIO3qWnXP98/UqBDpFUB9BI/AAAAAAAAA4M/j2H6APhAmj4/s1600/Prompt+50.png](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image2.png)
 
-![fairy-tale-castle-slippers](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image3.jpeg){width="4.895833333333333in"
-height="3.1875in"}
+![fairy-tale-castle-slippers](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image3.jpeg)
 
 ![saw a
-princess](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image4.jpeg){width="4.166666666666667in"
-height="3.125in"}
+princess](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image4.jpeg)
 
-![http://www.clipartbest.com/cliparts/LcK/AnK/LcKAnKMca.jpeg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image5.jpeg){width="2.1770833333333335in"
-height="2.5104166666666665in"}
+![http://www.clipartbest.com/cliparts/LcK/AnK/LcKAnKMca.jpeg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image5.jpeg)
 
 If I climbed a beanstalk
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 ![interesting writing
-prompt](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image6.jpeg){width="2.5625in"
-height="3.3333333333333335in"}
+prompt](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image6.jpeg)
 
-![https://writingcompanion.files.wordpress.com/2008/08/red-riding-hood.gif](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image7.gif){width="3.59375in"
-height="4.59375in"}
+![https://writingcompanion.files.wordpress.com/2008/08/red-riding-hood.gif](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image7.gif)
 
 Choose a fairy tale you like and rewrite it by changing one important
 element.
@@ -1019,100 +1011,71 @@ E.g.Little Red Riding Hood.
     At a skate park? In a coffee shop? How does this change the
     ingredients?
 
-![http://magicinthebackyard.files.wordpress.com/2012/06/prompt9.png?w=717&h=538](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image8.png){width="6.268055555555556in"
-height="4.703227252843394in"}
+![http://magicinthebackyard.files.wordpress.com/2012/06/prompt9.png?w=717&h=538](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image8.png)
 
-![http://36.media.tumblr.com/c44f98ab1a3dd2cb63c7b8ca757b2ca2/tumblr_niei541KCv1qff4nbo1_500.png](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image9.png){width="5.208333333333333in"
-height="3.90625in"}
+![http://36.media.tumblr.com/c44f98ab1a3dd2cb63c7b8ca757b2ca2/tumblr_niei541KCv1qff4nbo1_500.png](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image9.png)
 
-![http://upload.wikimedia.org/wikipedia/commons/6/6a/Goldilocks_and_the_3_bears.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image10.jpeg){width="3.7395833333333335in"
-height="4.114583333333333in"}
+![http://upload.wikimedia.org/wikipedia/commons/6/6a/Goldilocks_and_the_3_bears.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image10.jpeg)
 
 ![Illustration by
-A.H.Watson](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image11.jpeg){width="3.4895833333333335in"
-height="5.208333333333333in"}
+A.H.Watson](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image11.jpeg)
 
-![http://www.scbwi.org/wp-content/uploads/2014/06/Baba-Yaga-screen-original.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image12.jpeg){width="4.583333333333333in"
-height="6.25in"}
+![http://www.scbwi.org/wp-content/uploads/2014/06/Baba-Yaga-screen-original.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image12.jpeg)
 
-![http://fc07.deviantart.net/fs70/i/2013/352/e/c/dragon_hunt_by_chevsy-d6ye1dw.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image13.jpeg){width="6.268055555555556in"
-height="5.320882545931759in"}
+![http://fc07.deviantart.net/fs70/i/2013/352/e/c/dragon_hunt_by_chevsy-d6ye1dw.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image13.jpeg)
 
-![https://eng1131fairytales.files.wordpress.com/2013/12/shrek.png](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image14.png){width="6.268055555555556in"
-height="3.96501968503937in"}
+![https://eng1131fairytales.files.wordpress.com/2013/12/shrek.png](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image14.png)
 
-![http://i.kinja-img.com/gawker-media/image/upload/s\--18t73sIy\--/c_fit,fl_progressive,q_80,w_636/19f6bsahebfwdjpg.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image15.jpeg){width="6.268055555555556in"
-height="3.2621489501312335in"}
+![http://i.kinja-img.com/gawker-media/image/upload/s\--18t73sIy\--/c_fit,fl_progressive,q_80,w_636/19f6bsahebfwdjpg.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image15.jpeg)
 
-![http://writeononline.com/wp-content/uploads/RevisionFairyHeadshot.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image16.jpeg){width="4.166666666666667in"
-height="4.166666666666667in"}
+![http://writeononline.com/wp-content/uploads/RevisionFairyHeadshot.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image16.jpeg)
 
-![http://i.kinja-img.com/gawker-media/image/upload/s\--pFj0S6D5\--/zjauv8yzphajhkeotbap.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image17.jpeg){width="6.268055555555556in"
-height="4.146384514435695in"}
+![http://i.kinja-img.com/gawker-media/image/upload/s\--pFj0S6D5\--/zjauv8yzphajhkeotbap.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image17.jpeg)
 
 ![Canopy Village by
-Scorpion451](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image18.png){width="6.268055555555556in"
-height="5.348568460192476in"}
+Scorpion451](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image18.png)
 
-![http://www.otakutale.com/wp-content/uploads/2014/03/Fairy-Tail-Anime-Returning-April-5th-Image.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image19.jpeg){width="6.268055555555556in"
-height="8.828246937882765in"}
+![http://www.otakutale.com/wp-content/uploads/2014/03/Fairy-Tail-Anime-Returning-April-5th-Image.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image19.jpeg)
 
-![http://cdn1.sciencefiction.com/wp-content/uploads/2014/06/Frozen.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image20.jpeg){width="5.635416666666667in"
-height="5.635416666666667in"}
+![http://cdn1.sciencefiction.com/wp-content/uploads/2014/06/Frozen.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image20.jpeg)
 
-![https://p.gr-assets.com/540x540/fit/hostedimages/1385664778/7198024.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image21.jpeg){width="4.239583333333333in"
-height="5.625in"}
+![https://p.gr-assets.com/540x540/fit/hostedimages/1385664778/7198024.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image21.jpeg)
 
-![http://cdn2-b.examiner.com/sites/default/files/styles/image_content_width/hash/27/6f/276f1140a7e8a005a3b7e33c15c29a05.jpg?itok=YSzhbvXP](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image22.jpeg){width="6.25in"
-height="3.5208333333333335in"}
+![http://cdn2-b.examiner.com/sites/default/files/styles/image_content_width/hash/27/6f/276f1140a7e8a005a3b7e33c15c29a05.jpg?itok=YSzhbvXP](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image22.jpeg)
 
-![https://summerstommy.files.wordpress.com/2015/01/little-red-riding-hood-harper-collins-2011-2.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image23.jpeg){width="6.25in"
-height="4.322916666666667in"}
+![https://summerstommy.files.wordpress.com/2015/01/little-red-riding-hood-harper-collins-2011-2.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image23.jpeg)
 
-![http://1.bp.blogspot.com/-Cuu0QDUeh8o/Up71RYWbKpI/AAAAAAAAp28/cBgcr4Zybec/s400/RAPUNZEL+%25281%2529.png](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image24.png){width="4.931694006999125in"
-height="3.7604166666666665in"}
+![http://1.bp.blogspot.com/-Cuu0QDUeh8o/Up71RYWbKpI/AAAAAAAAp28/cBgcr4Zybec/s400/RAPUNZEL+%25281%2529.png](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image24.png)
 
-![http://www.sitcomsonline.com/photopost/data/2542/standing_on_couch.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image25.jpeg){width="6.268055555555556in"
-height="4.17870406824147in"}
+![http://www.sitcomsonline.com/photopost/data/2542/standing_on_couch.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image25.jpeg)
 
 ![bluepueblo: Mystical, The Enchanted Wood photo via
-jrachelle](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image26.jpeg){width="5.208333333333333in"
-height="7.8125in"}
+jrachelle](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image26.jpeg)
 
-![http://submag.co.uk/wp-content/uploads/2012/11/Dark-Fairy-Tale.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image27.jpeg){width="6.268055555555556in"
-height="4.701042213473316in"}
+![http://submag.co.uk/wp-content/uploads/2012/11/Dark-Fairy-Tale.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image27.jpeg)
 
-![http://fc08.deviantart.net/fs71/i/2011/165/0/1/fairytale_illustration_by_dvythmsky-d3iw1fr.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image28.jpeg){width="6.268055555555556in"
-height="4.833367235345582in"}
+![http://fc08.deviantart.net/fs71/i/2011/165/0/1/fairytale_illustration_by_dvythmsky-d3iw1fr.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image28.jpeg)
 
-![http://digital-art-gallery.com/oid/43/600x614_8604_Illustration_for_the_fairy_tale_2d_illustration_russian_fair_tale_picture_image_digital_art.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image29.jpeg){width="6.25in"
-height="6.395833333333333in"}
+![http://digital-art-gallery.com/oid/43/600x614_8604_Illustration_for_the_fairy_tale_2d_illustration_russian_fair_tale_picture_image_digital_art.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image29.jpeg)
 
-![http://www.cynical-c.com/archives2/bloggraphics/tengrim01.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image30.jpeg){width="3.65625in"
-height="4.947916666666667in"}
+![http://www.cynical-c.com/archives2/bloggraphics/tengrim01.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image30.jpeg)
 
-![http://www.pigtailsinpaint.com/wp-content/uploads/2012/12/John-Bauer-Bella-1.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image31.jpeg){width="6.268055555555556in"
-height="8.518301618547682in"}
+![http://www.pigtailsinpaint.com/wp-content/uploads/2012/12/John-Bauer-Bella-1.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image31.jpeg)
 
-![http://fc06.deviantart.net/fs70/i/2012/015/b/b/fairytale_forest_by_jugger_nugget-d4mfucn.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image32.jpeg){width="6.268055555555556in"
-height="5.000515091863517in"}
+![http://fc06.deviantart.net/fs70/i/2012/015/b/b/fairytale_forest_by_jugger_nugget-d4mfucn.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image32.jpeg)
 
-![https://someonetoday.files.wordpress.com/2012/11/postman2bin2boz.jpg?w=877&h=504](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image33.jpeg){width="6.268055555555556in"
-height="3.602166447944007in"}
+![https://someonetoday.files.wordpress.com/2012/11/postman2bin2boz.jpg?w=877&h=504](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image33.jpeg)
 
-![http://www.jimharrisillustrator.com/images/childrens%20books/books/Three%20Cajun%20Pigs/img038.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image34.jpeg){width="5.208333333333333in"
-height="4.427083333333333in"}
+![http://www.jimharrisillustrator.com/images/childrens%20books/books/Three%20Cajun%20Pigs/img038.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image34.jpeg)
 
-![http://www.lamag.com/wp-content/uploads/sites/9/2009/08/behindthecurtain_p.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image35.jpeg){width="3.125in"
-height="4.03125in"}
+![http://www.lamag.com/wp-content/uploads/sites/9/2009/08/behindthecurtain_p.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image35.jpeg)
 
 ![The path of dragons is a treacherous one. To ride a dragon you must be
 fully in tune with your inner dragon as well as your own physical shape.
 When the dragon chooses you are worthy, you will be granted the pleasure
 of riding on seas of air on one of the most majestic creatures we have
 ever known.
--Zwaluws-](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image36.jpeg){width="6.268055555555556in"
-height="9.333952318460193in"}
+-Zwaluws-](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image36.jpeg)
 
 **Descriptive Writing Prompts**
 
@@ -1302,102 +1265,77 @@ have a smell? Now, describe your spider and its web so vividly that your
 reader can see it as if it were right in front of him or her.
 
 ![Narrative Spark: \'The field of
-wishes.\'](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image37.jpeg){width="6.268055555555556in"
-height="8.295955818022748in"}
+wishes.\'](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image37.jpeg)
 
 ![treehugger52: au-dela-du---noir: Early evening walk in the
 old... by Spyros
-Papaspyropoulos](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image38.jpeg){width="4.15625in"
-height="6.25in"}
+Papaspyropoulos](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image38.jpeg)
 
 ![mstrkrftz: The Dark Stronghold by Kilian Schönberger
-](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image39.jpeg){width="5.208333333333333in"
-height="7.8125in"}
+](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image39.jpeg)
 
 ![Write about a time when what you felt on the inside was different than
 what was showing on the
-outside.](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image40.jpeg){width="5.208333333333333in"
-height="3.7291666666666665in"}
+outside.](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image40.jpeg)
 
 ![Stairway to
-Heaven](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image41.jpeg){width="4.166666666666667in"
-height="5.135416666666667in"}
+Heaven](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image41.jpeg)
 
 ![a slightly updated version of #281, how to survive a boring
-class](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image42.png){width="6.268055555555556in"
-height="4.701042213473316in"}
+class](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image42.png)
 
-![.](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image43.jpeg){width="6.268055555555556in"
-height="8.940015310586176in"}
+![.](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image43.jpeg)
 
-![http://40.media.tumblr.com/0b7b40d8e3d2a7dcd42f3830c6fcc36f/tumblr_nbpr9ewBss1sqixvoo1_500.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image44.jpeg){width="5.208333333333333in"
-height="3.90625in"}
+![http://40.media.tumblr.com/0b7b40d8e3d2a7dcd42f3830c6fcc36f/tumblr_nbpr9ewBss1sqixvoo1_500.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image44.jpeg)
 
-![/](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image45.jpeg){width="5.208333333333333in"
-height="7.8125in"}
+![/](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image45.jpeg)
 
-![.](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image46.jpeg){width="4.0625in"
-height="5.604166666666667in"}
+![.](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image46.jpeg)
 
 ![Cheetah and
-cub](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image47.jpeg){width="5.208333333333333in"
-height="7.8125in"}
+cub](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image47.jpeg)
 
 ![by Christian
-Vieler](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image48.jpeg){width="6.268055555555556in"
-height="4.1730260279965in"}
+Vieler](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image48.jpeg)
 
 ![thewoodslove: via
-Pintrest](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image49.jpeg){width="6.268055555555556in"
-height="5.014444444444444in"}
+Pintrest](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image49.jpeg)
 
 ![Ethos
-Theatre](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image50.jpeg){width="5.145833333333333in"
-height="7.8125in"}
+Theatre](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image50.jpeg)
 
 ![
-](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image51.jpeg){width="2.9791666666666665in"
-height="4.177083333333333in"}
+](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image51.jpeg)
 
 ![People of the Omo Valley,
-Ethiopia](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image52.jpeg){width="6.268055555555556in"
-height="9.92655293088364in"}
+Ethiopia](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image52.jpeg)
 
 ![
-](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image53.jpeg){width="6.268055555555556in"
-height="8.35740704286964in"}
+](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image53.jpeg)
 
 ![
-](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image54.jpeg){width="5.0in"
-height="7.5in"}
+](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image54.jpeg)
 
 ![Out the Front
-Window](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image55.jpeg){width="6.268055555555556in"
-height="9.393567366579177in"}
+Window](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image55.jpeg)
 
 ![dreammeup: Michal Chelbin
-](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image56.jpeg){width="5.208333333333333in"
-height="5.208333333333333in"}
+](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image56.jpeg)
 
 ![Tom Arndt\'s Black And White Photographs Of "Home" \| PDN Photo of
 \... potd.pdnonline.com Out the bus window, Hennepin Avenue,
 Minneapolis,
-1974](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image57.jpeg){width="6.268055555555556in"
-height="8.955615704286965in"}
+1974](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image57.jpeg)
 
 ![Nina Leen
-1945](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image58.jpeg){width="6.268055555555556in"
-height="7.996881014873141in"}
+1945](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image58.jpeg)
 
 ![magical-meow: Ziggy
-by Jimmyjames4](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image59.jpeg){width="5.208333333333333in"
-height="6.947916666666667in"}
+by Jimmyjames4](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image59.jpeg)
 
-![.](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image60.jpeg){width="5.208333333333333in"
-height="7.8125in"}
+![.](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image60.jpeg)
 
-![http://blog.writeathome.com/wp-content/uploads/2012/06/alien_spaceship-e1341005301307.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image61.jpeg){width="3.7777777777777777in"
-height="2.8333333333333335in"}
+![http://blog.writeathome.com/wp-content/uploads/2012/06/alien_spaceship-e1341005301307.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image61.jpeg)
 
 ALIEN DESCRIPTION
 
@@ -1438,52 +1376,39 @@ Be sure to describe not only what you see but also what you hear. If
 you'd like, you can include tastes, smells and textures too.
 
 ![So
-beautiful!](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image62.jpeg){width="5.729166666666667in"
-height="9.239583333333334in"}
+beautiful!](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image62.jpeg)
 
-![http://40.media.tumblr.com/tumblr_lxl0bdcrBj1qitsj5o1_500.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image63.jpeg){width="4.6875in"
-height="7.03125in"}
+![http://40.media.tumblr.com/tumblr_lxl0bdcrBj1qitsj5o1_500.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image63.jpeg)
 
 ![swansong-willows: (via Pin by Elizabeth on Creamy White Autumn \|
-Pinterest)](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image64.jpeg){width="5.197916666666667in"
-height="7.8125in"}
+Pinterest)](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image64.jpeg)
 
 ![Brooklyn Bridge (for
-Ethan)](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image65.jpeg){width="6.1875in"
-height="9.375in"}
+Ethan)](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image65.jpeg)
 
 ![\"Rusty RV\" From a salvage yard just south of Belton, Texas by Evan
 Gearing (Evan\'s
-Expo)](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image66.jpeg){width="4.416666666666667in"
-height="6.666666666666667in"}
+Expo)](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image66.jpeg)
 
-![http://56cclassroomblog.files.wordpress.com/2013/08/100wc-giant-footprint.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image67.jpeg){width="4.104166666666667in"
-height="4.479166666666667in"}
+![http://56cclassroomblog.files.wordpress.com/2013/08/100wc-giant-footprint.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image67.jpeg)
 
-![http://thefabweb.com/wp-content/uploads/2012/07/KittiwutChuamrassamee06.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image68.jpeg){width="6.268055555555556in"
-height="4.175631014873141in"}
+![http://thefabweb.com/wp-content/uploads/2012/07/KittiwutChuamrassamee06.jpg](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image68.jpeg)
 
 ![It seemed like any other ordinary day until I looked out the window
 and
-saw\...](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image69.jpeg){width="6.041666666666667in"
-height="6.041666666666667in"}
+saw\...](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image69.jpeg)
 
 ![Laurent Chehere Flying Houses
-Caravane.](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image70.jpeg){width="6.268055555555556in"
-height="6.268055555555556in"}
+Caravane.](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image70.jpeg)
 
 ![Describe this image. Writing
-Prompt](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image71.jpeg){width="6.268055555555556in"
-height="6.268055555555556in"}
+Prompt](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image71.jpeg)
 
 ![Describe what happens when this twister touches
-down.](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image72.jpeg){width="4.895833333333333in"
-height="7.375in"}
+down.](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image72.jpeg)
 
 ![Describe this
-picture](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image73.jpeg){width="4.854166666666667in"
-height="7.291666666666667in"}
+picture](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image73.jpeg)
 
-![https://writersmanifest.files.wordpress.com/2012/03/this-one1.png](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image74.png){width="4.96875in"
-height="3.2708333333333335in"}
+![https://writersmanifest.files.wordpress.com/2012/03/this-one1.png](assets/Writing prompts - Writer's Notebook 5 Quick Writes/media/media/image74.png)
 

@@ -8,8 +8,7 @@ strand: writing-voice
 
 > **Voice**
 >
-> ![http://willonasloan.files.wordpress.com/2013/05/unleash_your_writing_creativity.jpg](assets/Writing -Voice  Contents/media/media/image1.jpeg){width="5.510416666666667in"
-> height="4.28125in"}
+> ![http://willonasloan.files.wordpress.com/2013/05/unleash_your_writing_creativity.jpg](assets/Writing -Voice  Contents/media/media/image1.jpeg)
 >
 > **Contents**
 
@@ -216,8 +215,7 @@ Writing with Voice
 Mentor Texts
 
 ![credit: marriage minded
-mentor](assets/Writing -Voice  Contents/media/media/image2.jpeg){width="3.40625in"
-height="1.5104166666666667in"}
+mentor](assets/Writing -Voice  Contents/media/media/image2.jpeg)
 
 **Voice**
 
@@ -256,13 +254,11 @@ The Bird House Cynthia Rylant
 ![A new submission to our forthcoming all-illustrated Six-Word Memoir
 book by students across the world from Liz P., in high school in Union,
 Missouri. Share yours her or email us \&#8212; more details
-at: http://bit.ly/sixwithted](assets/Writing -Voice  Contents/media/media/image3.jpeg){width="2.3958333333333335in"
-height="3.296666666666667in"}
+at: http://bit.ly/sixwithted](assets/Writing -Voice  Contents/media/media/image3.jpeg)
 
 ![Anne Lamott on how we keep ourselves small by people-pleasing, Walt
 Whitman illustrated, the \"backfire effect\" of our opinions, and
-more](assets/Writing -Voice  Contents/media/media/image4.jpeg){width="1.8854166666666667in"
-height="1.8854166666666667in"}
+more](assets/Writing -Voice  Contents/media/media/image4.jpeg)
 
 Voi**ce 2**
 
@@ -288,16 +284,14 @@ Mr George Baker Amy Hest
 
 A Symphony of Whales Steve Schuch
 
-![427693_480644771977924_797761254_n](assets/Writing -Voice  Contents/media/media/image5.jpeg){width="3.9479166666666665in"
-height="3.9479166666666665in"}
+![427693_480644771977924_797761254_n](assets/Writing -Voice  Contents/media/media/image5.jpeg)
 
 **Voice is the author's fingerprint on the page.  By using voice the
 reader feels more in touch with the writer's emotions, opinions, and
 personality.**
 
 ![\...er yeah, I guess in the sense that one writes what one
-knows](assets/Writing -Voice  Contents/media/media/image6.jpeg){width="1.5104166666666667in"
-height="2.148966535433071in"}
+knows](assets/Writing -Voice  Contents/media/media/image6.jpeg)
 
 **Voice 3**
 
@@ -332,8 +326,7 @@ Fireflies Julie Brinckloe
 Amazing Grace Mary Hoffman
 
 ![Hunting for Local Treasures: Kids Writing
-Camp](assets/Writing -Voice  Contents/media/media/image7.jpeg){width="3.1521741032370953in"
-height="0.90625in"}
+Camp](assets/Writing -Voice  Contents/media/media/image7.jpeg)
 
 **Voice 4 -- Voice & Emotion**
 
@@ -375,8 +368,7 @@ Crab Moon Ruth Horowitz
 
 Knots on a Counting Rope Bill Martin Jr. and John Archambault
 
-![http://media-cache-ak0.pinimg.com/736x/e1/fa/c8/e1fac87126bd69adc7f3a4dd00c48d4b.jpg](assets/Writing -Voice  Contents/media/media/image8.jpeg){width="2.0208333333333335in"
-height="1.53125in"}
+![http://media-cache-ak0.pinimg.com/736x/e1/fa/c8/e1fac87126bd69adc7f3a4dd00c48d4b.jpg](assets/Writing -Voice  Contents/media/media/image8.jpeg)
 
 **Voice 5**
 
@@ -408,8 +400,7 @@ Scarecrow Cynthia Rylant
 
 The Black Rabbit Philippa Leathers
 
-![http://diterlizzi.com/blog/wp-content/uploads/2008/05/kenny6.jpg](assets/Writing -Voice  Contents/media/media/image9.jpeg){width="2.166606517935258in"
-height="1.65625in"}
+![http://diterlizzi.com/blog/wp-content/uploads/2008/05/kenny6.jpg](assets/Writing -Voice  Contents/media/media/image9.jpeg)
 
 **Voice 6**
 
@@ -445,11 +436,9 @@ Psssst! It\'s Me\... the Bogeyman Barbara Park
 
 Stellaluna Janell Cannon
 
-![http://jimharrisillustrator.com/images/childrens%20books/books/the%20three%20little%20javelinas/sketch1.jpg](assets/Writing -Voice  Contents/media/media/image10.jpeg){width="2.1770833333333335in"
-height="3.026146106736658in"}
+![http://jimharrisillustrator.com/images/childrens%20books/books/the%20three%20little%20javelinas/sketch1.jpg](assets/Writing -Voice  Contents/media/media/image10.jpeg)
 
-> ![http://www.booksfromfinland.fi/wordpress/wp-content/uploads/2010/10/Page0001-e1287665798348-590x328.jpg](assets/Writing -Voice  Contents/media/media/image11.jpeg){width="3.653771872265967in"
-> height="2.03125in"}
+> ![http://www.booksfromfinland.fi/wordpress/wp-content/uploads/2010/10/Page0001-e1287665798348-590x328.jpg](assets/Writing -Voice  Contents/media/media/image11.jpeg)
 
 **Voice 7 -- Voice & Personification 3**
 
@@ -475,8 +464,7 @@ Squirmin' Herman
 
 Stranger in the Woods Carl R.Sams 11 & Jean Stoick
 
-![http://www.jamessamy.com/wp-content/uploads/2010/11/inner-voice1.jpg](assets/Writing -Voice  Contents/media/media/image12.jpeg){width="2.408365048118985in"
-height="2.1354166666666665in"}
+![http://www.jamessamy.com/wp-content/uploads/2010/11/inner-voice1.jpg](assets/Writing -Voice  Contents/media/media/image12.jpeg)
 
 **Voice -- 8**
 
@@ -508,11 +496,9 @@ The Honest-to Goodness Truth Patricia McKissack
 
 Enemy Pie Derek Munson
 
-![http://www.iamthatgirl.com/attachments/pages/282/inner-voice.jpg](assets/Writing -Voice  Contents/media/media/image13.jpeg){width="2.3229166666666665in"
-height="2.1757458442694664in"}
+![http://www.iamthatgirl.com/attachments/pages/282/inner-voice.jpg](assets/Writing -Voice  Contents/media/media/image13.jpeg)
 
-![http://www.myanxiouschild.com/assets/media/images/home/slide_4.png](assets/Writing -Voice  Contents/media/media/image14.png){width="2.2604166666666665in"
-height="2.209775809273841in"}
+![http://www.myanxiouschild.com/assets/media/images/home/slide_4.png](assets/Writing -Voice  Contents/media/media/image14.png)
 
 **Voice 9**
 
@@ -529,8 +515,7 @@ Moominland Midwinter Tove Jansson
 Because of Winn-Dixie Kate DiCamillo
 
 ![\[optional image
-description\]](assets/Writing -Voice  Contents/media/media/image15.jpeg){width="2.930533683289589in"
-height="1.3628171478565179in"}
+description\]](assets/Writing -Voice  Contents/media/media/image15.jpeg)
 
 **Voice 10**
 
@@ -581,8 +566,7 @@ The Frog Principal Stephanie Calmenson
 The Duck and the Darklings Glenda Millard
 
 ![POV
-](assets/Writing -Voice  Contents/media/media/image16.jpeg){width="2.53125in"
-height="2.025in"}
+](assets/Writing -Voice  Contents/media/media/image16.jpeg)
 
 **Voice 11**
 
@@ -608,8 +592,7 @@ Stars Beneath Your Bed April Sayre
 
 The Book That Eats People John Perry
 
-![http://talesfromtherearviewmirror.files.wordpress.com/2014/06/voice.jpg](assets/Writing -Voice  Contents/media/media/image17.jpeg){width="2.3541666666666665in"
-height="2.3541666666666665in"}
+![http://talesfromtherearviewmirror.files.wordpress.com/2014/06/voice.jpg](assets/Writing -Voice  Contents/media/media/image17.jpeg)
 
 **Voice 12**
 
@@ -647,8 +630,7 @@ You're Finally Here Melanie Watt
 
 What to do if an Elephant Stands on Your Foot Michelle Robinson
 
-![http://worddreams.files.wordpress.com/2010/10/fingerprint_large.jpg](assets/Writing -Voice  Contents/media/media/image18.jpeg){width="1.65625in"
-height="2.2916666666666665in"}
+![http://worddreams.files.wordpress.com/2010/10/fingerprint_large.jpg](assets/Writing -Voice  Contents/media/media/image18.jpeg)
 
 **Voice 13 Narrative Voice**
 
@@ -686,11 +668,9 @@ Your Moon, My Moon Patricia MacLachlan
 
 Always wear Clean Underwear Marc Gellman
 
-![http://fansofbeingamom.com/wp-content/uploads/2010/09/mousecookie.jpg](assets/Writing -Voice  Contents/media/media/image19.jpeg){width="1.5625in"
-height="2.25in"}
+![http://fansofbeingamom.com/wp-content/uploads/2010/09/mousecookie.jpg](assets/Writing -Voice  Contents/media/media/image19.jpeg)
 
-![http://farm4.staticflickr.com/3587/3351697595_10a00ca3cd_b.jpg](assets/Writing -Voice  Contents/media/media/image20.jpeg){width="1.894582239720035in"
-height="2.0104166666666665in"}
+![http://farm4.staticflickr.com/3587/3351697595_10a00ca3cd_b.jpg](assets/Writing -Voice  Contents/media/media/image20.jpeg)
 
 **Voice 14**
 
@@ -742,8 +722,7 @@ Gentle Giant Octopus Karen Wallace
 
 Ape Steve Jenkins
 
-![http://rebeccahowden.com.au/wp-content/uploads/2012/06/woman-writing-thinking-fireworks211.png](assets/Writing -Voice  Contents/media/media/image21.png){width="2.6452482502187227in"
-height="2.15625in"}
+![http://rebeccahowden.com.au/wp-content/uploads/2012/06/woman-writing-thinking-fireworks211.png](assets/Writing -Voice  Contents/media/media/image21.png)
 
 **Voice 15**
 
@@ -767,12 +746,10 @@ Rose Blanche Ian McEwan
 
 The Harmonica Tony Johnston
 
-![tumblr_mq1sehuw0T1rzgk7ao1_400](assets/Writing -Voice  Contents/media/media/image22.jpeg){width="3.856492782152231in"
-height="3.8854166666666665in"}
+![tumblr_mq1sehuw0T1rzgk7ao1_400](assets/Writing -Voice  Contents/media/media/image22.jpeg)
 
 ![Chicken
-Little](assets/Writing -Voice  Contents/media/media/image23.png){width="2.75in"
-height="1.7798611111111111in"}
+Little](assets/Writing -Voice  Contents/media/media/image23.png)
 
 **Voice 16**
 
@@ -802,8 +779,7 @@ Chrysanthemum Kevin Henkes
 
 Atlantic Brian Karas
 
-![http://nonfictiontextresources.wikispaces.com/space/showlogo/1300128134/logo.jpg](assets/Writing -Voice  Contents/media/media/image24.jpeg){width="2.3020833333333335in"
-height="2.3641152668416447in"}
+![http://nonfictiontextresources.wikispaces.com/space/showlogo/1300128134/logo.jpg](assets/Writing -Voice  Contents/media/media/image24.jpeg)
 
 **Voice 17**
 
@@ -851,8 +827,7 @@ I WANNA IGUANA Karen Orloff
 
 I WANNA NEW ROOM Karen Orloff
 
-![http://4.bp.blogspot.com/-tkYkkhP9fms/T1EhRg7BeaI/AAAAAAAAA8A/Ibwm1kEsf7A/s1600/Dr+Seuss+logo.jpg](assets/Writing -Voice  Contents/media/media/image25.jpeg){width="2.1770833333333335in"
-height="1.6328127734033246in"}
+![http://4.bp.blogspot.com/-tkYkkhP9fms/T1EhRg7BeaI/AAAAAAAAA8A/Ibwm1kEsf7A/s1600/Dr+Seuss+logo.jpg](assets/Writing -Voice  Contents/media/media/image25.jpeg)
 
 **Voice 18 Dr Seuss**
 
@@ -866,11 +841,9 @@ The Butter Battle Book
 
 The Lorax
 
-![snootySneetch](assets/Writing -Voice  Contents/media/media/image26.jpeg){width="1.28125in"
-height="2.7083333333333335in"}
+![snootySneetch](assets/Writing -Voice  Contents/media/media/image26.jpeg)
 
-![http://multiracialfamilyblog.files.wordpress.com/2010/06/blackbunny.jpeg](assets/Writing -Voice  Contents/media/media/image27.jpeg){width="1.875in"
-height="2.3023042432195977in"}
+![http://multiracialfamilyblog.files.wordpress.com/2010/06/blackbunny.jpeg](assets/Writing -Voice  Contents/media/media/image27.jpeg)
 
 **Voice 19**
 

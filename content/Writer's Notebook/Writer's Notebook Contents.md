@@ -9,13 +9,11 @@ strand: writers-notebook
 **Writer's Notebook**
 
 ![Cartoon: writer (medium) by Ramses tagged
-writer](assets/Writer's Notebook Contents/media/media/image1.jpeg){width="5.208333333333333in"
-height="3.8333333333333335in"}
+writer](assets/Writer's Notebook Contents/media/media/image1.jpeg)
 
 **Contents**
 
-![ANd9GcST8dIoIHS5wo2Vw7uKnxfrBbs9tQig7JUiA-0QDlirQD36XLKw](assets/Writer's Notebook Contents/media/media/image2.jpeg){width="2.3229166666666665in"
-height="1.5729166666666667in"}
+![ANd9GcST8dIoIHS5wo2Vw7uKnxfrBbs9tQig7JUiA-0QDlirQD36XLKw](assets/Writer's Notebook Contents/media/media/image2.jpeg)
 
 **Writer's Notebook**
 
@@ -101,8 +99,7 @@ Make Art Like You're Working Carol Mittal
 
 **Writer's Notebook 2**
 
-![Teaching](assets/Writer's Notebook Contents/media/media/image3.jpeg){width="1.8333333333333333in"
-height="1.8333333333333333in"}
+![Teaching](assets/Writer's Notebook Contents/media/media/image3.jpeg)
 
 **QUICK WRITES**
 
@@ -134,8 +131,7 @@ Assume the identity of a character
 
 Literature Extracts
 
-![http://qph.is.quoracdn.net/main-qimg-bd5648bd994aa3a30b8a2f3aa297fae6?convert_to_webp=true](assets/Writer's Notebook Contents/media/media/image4.jpeg){width="0.96875in"
-height="1.5208333333333333in"}
+![http://qph.is.quoracdn.net/main-qimg-bd5648bd994aa3a30b8a2f3aa297fae6?convert_to_webp=true](assets/Writer's Notebook Contents/media/media/image4.jpeg)
 
 **Writer's Notebook 3 Photographs - varied**
 
@@ -692,8 +688,7 @@ happening.**
 **What does this make me want to say?**
 
 ![Файл:Look Like a Model at School (Middle Schoolers) Step
-9.jpg](assets/Writer's Notebook Contents/media/media/image5.jpeg){width="2.248967629046369in"
-height="1.6875in"}
+9.jpg](assets/Writer's Notebook Contents/media/media/image5.jpeg)
 
 **Writer's Notebook 4**
 
@@ -705,8 +700,7 @@ Images from around the internet and a few lines to get students thinking
 creatively.
 
 ![
-](assets/Writer's Notebook Contents/media/media/image6.jpeg){width="1.913176946631671in"
-height="3.40625in"}
+](assets/Writer's Notebook Contents/media/media/image6.jpeg)
 
 **Writer's Notebook 5**
 
@@ -720,8 +714,7 @@ Fairy Tale prompts
 
 Descriptive Writing from Photographs
 
-![http://4.bp.blogspot.com/-bjak_P15M_M/Uw1O0wX7XbI/AAAAAAAAChM/9KYUMpQZwaM/s1600/write+2.png](assets/Writer's Notebook Contents/media/media/image7.png){width="2.53125in"
-height="1.3060170603674541in"}
+![http://4.bp.blogspot.com/-bjak_P15M_M/Uw1O0wX7XbI/AAAAAAAAChM/9KYUMpQZwaM/s1600/write+2.png](assets/Writer's Notebook Contents/media/media/image7.png)
 
 **Writer's Notebook 6**
 
@@ -734,8 +727,7 @@ creatively.
 
 **Suggest a tag and write.**
 
-![http://shechive.files.wordpress.com/2013/02/coupla-quotes-2.jpg](assets/Writer's Notebook Contents/media/media/image8.jpeg){width="2.699472878390201in"
-height="1.867924321959755in"}
+![http://shechive.files.wordpress.com/2013/02/coupla-quotes-2.jpg](assets/Writer's Notebook Contents/media/media/image8.jpeg)
 
 **Writer's Notebook 7**
 
@@ -743,8 +735,7 @@ height="1.867924321959755in"}
 
 Quotes
 
-![http://portal.svu.edu.eg/English/MediaCenter/News/PublishingImages/news-button.jpg](assets/Writer's Notebook Contents/media/media/image9.jpeg){width="2.15625in"
-height="1.6166010498687664in"}
+![http://portal.svu.edu.eg/English/MediaCenter/News/PublishingImages/news-button.jpg](assets/Writer's Notebook Contents/media/media/image9.jpeg)
 
 **Writer's Notebook 8**
 
@@ -752,8 +743,7 @@ height="1.6166010498687664in"}
 
 **From the News**
 
-![http://www.ps19.us/images/newsboy.jpg](assets/Writer's Notebook Contents/media/media/image10.jpeg){width="1.773611111111111in"
-height="1.48125in"}
+![http://www.ps19.us/images/newsboy.jpg](assets/Writer's Notebook Contents/media/media/image10.jpeg)
 
 **Response:** Students write 2 or more responses that show a good
 understanding of the topic and deeper thinking.
@@ -770,8 +760,7 @@ and how.
 
 **The Best Person in the World**
 
-![http://windling.typepad.com/.a/6a00e54fcf7385883401bb078c5720970d-800wi](assets/Writer's Notebook Contents/media/media/image11.jpeg){width="3.5116458880139985in"
-height="2.0104166666666665in"}
+![http://windling.typepad.com/.a/6a00e54fcf7385883401bb078c5720970d-800wi](assets/Writer's Notebook Contents/media/media/image11.jpeg)
 
 **Writer's Notebook 9 Fantasy**
 
@@ -832,16 +821,14 @@ Skellig
 A Wizard of Earthsea
 
 ![G:\\photos\\Lemur
-(1).jpg](assets/Writer's Notebook Contents/media/media/image12.jpeg){width="1.6961482939632546in"
-height="2.299699256342957in"}
+(1).jpg](assets/Writer's Notebook Contents/media/media/image12.jpeg)
 
 **Writer's Notebook 10 Quick Writes**
 
 **Photographs - Animals**
 
 ![Learn to Read Emotions by Watching Micro Facial
-Expressions](assets/Writer's Notebook Contents/media/media/image13.jpeg){width="3.6085892388451444in"
-height="2.03125in"}
+Expressions](assets/Writer's Notebook Contents/media/media/image13.jpeg)
 
 **Writer's Notebook 11 Quick Writes**
 
@@ -850,8 +837,7 @@ height="2.03125in"}
 **Emotions**
 
 ![Rockwell Kent - Voyaging
-1924](assets/Writer's Notebook Contents/media/media/image14.jpeg){width="2.1458333333333335in"
-height="2.1354166666666665in"}
+1924](assets/Writer's Notebook Contents/media/media/image14.jpeg)
 
 **Writer's Notebook 12 Quick Writes**
 
@@ -864,8 +850,7 @@ Paintings
 Art in Children's Literature
 
 ![Photo: Portrait of a
-man](assets/Writer's Notebook Contents/media/media/image15.jpeg){width="2.2767804024496936in"
-height="1.7075470253718286in"}
+man](assets/Writer's Notebook Contents/media/media/image15.jpeg)
 
 **Writer's Notebook 13**
 
@@ -891,8 +876,7 @@ Make: 3-5 Observations
 
 Write
 
-![http://ecx.images-amazon.com/images/I/51-aD5FjnlL.jpg](assets/Writer's Notebook Contents/media/media/image16.jpeg){width="1.5169028871391077in"
-height="2.3627766841644795in"}
+![http://ecx.images-amazon.com/images/I/51-aD5FjnlL.jpg](assets/Writer's Notebook Contents/media/media/image16.jpeg)
 
 **Writer's Notebook 14**
 
@@ -904,8 +888,7 @@ Banksy
 
 Swoon
 
-![87](assets/Writer's Notebook Contents/media/media/image17.png){width="2.3333333333333335in"
-height="1.7471380139982502in"}
+![87](assets/Writer's Notebook Contents/media/media/image17.png)
 
 **Writer's Notebook 15**
 
@@ -913,8 +896,7 @@ height="1.7471380139982502in"}
 
 Visual + Text Prompt
 
-![486](assets/Writer's Notebook Contents/media/media/image18.png){width="2.9620056867891513in"
-height="2.2291666666666665in"}
+![486](assets/Writer's Notebook Contents/media/media/image18.png)
 
 **Writer's Notebook 16**
 
@@ -923,8 +905,7 @@ height="2.2291666666666665in"}
 Visual + Text Prompt
 
 ![Connecting K-2 Set
-1](assets/Writer's Notebook Contents/media/media/image19.jpeg){width="1.5208333333333333in"
-height="2.0277777777777777in"}
+1](assets/Writer's Notebook Contents/media/media/image19.jpeg)
 
 **Writer's Notebook 17**
 
@@ -932,8 +913,7 @@ height="2.0277777777777777in"}
 
 **Children's Literature Prompts**
 
-![null](assets/Writer's Notebook Contents/media/media/image20.jpeg){width="3.1483792650918634in"
-height="2.1145833333333335in"}
+![null](assets/Writer's Notebook Contents/media/media/image20.jpeg)
 
 **Writer's Notebook 18**
 
@@ -966,8 +946,7 @@ Whose perspective are you going to write from?
 
 Will I write from the perspective of the \... or the \... **?**
 
-![optical-illusion-art-work-painting-illustration-drawing-rob-gonsalves-creative-best-beautiful](assets/Writer's Notebook Contents/media/media/image21.jpeg){width="3.0380949256342955in"
-height="2.4166666666666665in"}
+![optical-illusion-art-work-painting-illustration-drawing-rob-gonsalves-creative-best-beautiful](assets/Writer's Notebook Contents/media/media/image21.jpeg)
 
 **Writer's Notebook 19**
 
@@ -979,8 +958,7 @@ The Art of Rob Gonsalves
 
 ![beautiful face beautiful hands - www.pinterest.com/wholoves/Beautiful
 faces - #beautiful
-#faces](assets/Writer's Notebook Contents/media/media/image22.jpeg){width="2.0625in"
-height="3.1884055118110237in"}
+#faces](assets/Writer's Notebook Contents/media/media/image22.jpeg)
 
 **Writer's Notebook 20**
 
@@ -1021,8 +999,7 @@ Switch genres while writing. E.g. every 3-4 minutes.
 Examples from South Australian government.
 
 ![This is so true.
-](assets/Writer's Notebook Contents/media/media/image23.jpeg){width="1.7916666666666667in"
-height="1.7916666666666667in"}
+](assets/Writer's Notebook Contents/media/media/image23.jpeg)
 
 **Writer's Notebook 21**
 
@@ -1032,8 +1009,7 @@ height="1.7916666666666667in"}
 
 ![Week in Wildlife: Juvenile Gentoo penguin demands food, Antarctic
 Peninsula -
-2011](assets/Writer's Notebook Contents/media/media/image24.jpeg){width="1.9305555555555556in"
-height="2.8958333333333335in"}
+2011](assets/Writer's Notebook Contents/media/media/image24.jpeg)
 
 **Writer's Notebook 22**
 
@@ -1042,8 +1018,7 @@ height="2.8958333333333335in"}
 **BBC Animal Photos**
 
 ![F:\\kids at
-play\\nina88.jpg](assets/Writer's Notebook Contents/media/media/image25.jpeg){width="2.4375in"
-height="2.4375in"}
+play\\nina88.jpg](assets/Writer's Notebook Contents/media/media/image25.jpeg)
 
 **Writer's Notebook 23**
 
@@ -1516,8 +1491,7 @@ Finally, the bread is sent to a supermarket where it is bought. At
 
 small bakeries the bread is sold straight from the baker's shop.
 
-![http://www.clipartbest.com/cliparts/jTx/EK9/jTxEK9a8c.jpeg](assets/Writer's Notebook Contents/media/media/image26.jpeg){width="3.7083333333333335in"
-height="2.570773184601925in"}
+![http://www.clipartbest.com/cliparts/jTx/EK9/jTxEK9a8c.jpeg](assets/Writer's Notebook Contents/media/media/image26.jpeg)
 
 **Procedure**
 
@@ -1555,8 +1529,7 @@ for example, tea strainers, biscuit cutters or a vegetable strainer.
 Dip the bubble-wand in the mixture, then wave it through the air and
 watch the bubbles float and blow away in the wind.
 
-![http://www.hightoweradvisors.com/who-we-are/hightower-advisors/las-vegas/blog/wp-content/uploads/2013/06/Bubble1.png](assets/Writer's Notebook Contents/media/media/image27.png){width="3.3854166666666665in"
-height="3.3854166666666665in"}
+![http://www.hightoweradvisors.com/who-we-are/hightower-advisors/las-vegas/blog/wp-content/uploads/2013/06/Bubble1.png](assets/Writer's Notebook Contents/media/media/image27.png)
 
 **Recount**
 
@@ -1631,8 +1604,7 @@ attacked will lie on
 its back and fight with its claws. 
 
 ![Aardvark
-gray](assets/Writer's Notebook Contents/media/media/image28.png){width="4.833333333333333in"
-height="3.3333333333333335in"}
+gray](assets/Writer's Notebook Contents/media/media/image28.png)
 
 **Pet dogs −**
 

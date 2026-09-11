@@ -10,13 +10,11 @@ strand: writing-voice
 
 > **(7)**
 >
-> ![http://www.booksfromfinland.fi/wordpress/wp-content/uploads/2010/10/Page0001-e1287665798348-590x328.jpg](assets/Writing - Voice 7/media/media/image1.jpeg){width="6.145833333333333in"
-> height="3.4166666666666665in"}
+> ![http://www.booksfromfinland.fi/wordpress/wp-content/uploads/2010/10/Page0001-e1287665798348-590x328.jpg](assets/Writing - Voice 7/media/media/image1.jpeg)
 >
 > **Voice & Personification 3**
 >
-> ![http://www.booksfromfinland.fi/wordpress/wp-content/uploads/2010/10/Page0001-e1287665798348-590x328.jpg](assets/Writing - Voice 7/media/media/image1.jpeg){width="3.653771872265967in"
-> height="2.03125in"}
+> ![http://www.booksfromfinland.fi/wordpress/wp-content/uploads/2010/10/Page0001-e1287665798348-590x328.jpg](assets/Writing - Voice 7/media/media/image1.jpeg)
 
 **Voice 7 -- Voice & Personification 3**
 
@@ -42,11 +40,9 @@ Squirmin' Herman
 
 Stranger in the Woods Carl R.Sams 11 & Jean Stoick
 
-> ![http://i219.photobucket.com/albums/cc253/tvhtoo/Moomintroll.jpg](assets/Writing - Voice 7/media/media/image2.jpeg){width="3.0625in"
-> height="3.00125in"}
+> ![http://i219.photobucket.com/albums/cc253/tvhtoo/Moomintroll.jpg](assets/Writing - Voice 7/media/media/image2.jpeg)
 
-![877915](assets/Writing - Voice 7/media/media/image3.jpeg){width="3.3125in"
-height="4.125in"}
+![877915](assets/Writing - Voice 7/media/media/image3.jpeg)
 
 **Dumpy La Rue Elizabeth Winthrop**
 
@@ -102,8 +98,7 @@ Story of the Naadam*, set in Mongolia, *Balarama; A Royal Elephant*, set
 in India, and the soon to come *Puffling Patro*l, about the puffins of
 Iceland.
 
-![http://www.betsylewin.com/media/spreads/lambs.jpg](assets/Writing - Voice 7/media/media/image4.jpeg){width="4.166666666666667in"
-height="2.59375in"}
+![http://www.betsylewin.com/media/spreads/lambs.jpg](assets/Writing - Voice 7/media/media/image4.jpeg)
 
 **Reading**
 
@@ -343,8 +338,7 @@ Dumpy La Rue. Reflect on what you've learnt from that experience.
 
 - Voice unit by R.Culham
 
-![http://images.macmillan.com/folio-assets/interiors-images/9780805075359.IN01.jpg](assets/Writing - Voice 7/media/media/image5.jpeg){width="6.268055555555556in"
-height="8.083739063867016in"}
+![http://images.macmillan.com/folio-assets/interiors-images/9780805075359.IN01.jpg](assets/Writing - Voice 7/media/media/image5.jpeg)
 
 **Dumpy La Rue Elizabeth Winthrop**
 
@@ -594,14 +588,11 @@ The pig who knew
 
 what he wanted to do.
 
-![http://images.macmillan.com/folio-assets/interiors-images/9780805075359.IN02.jpg](assets/Writing - Voice 7/media/media/image6.jpeg){width="6.268055555555556in"
-height="8.073570647419073in"}
+![http://images.macmillan.com/folio-assets/interiors-images/9780805075359.IN02.jpg](assets/Writing - Voice 7/media/media/image6.jpeg)
 
-![http://images.macmillan.com/folio-assets/interiors-images/9780805075359.IN03.jpg](assets/Writing - Voice 7/media/media/image7.jpeg){width="6.268055555555556in"
-height="8.053311461067366in"}
+![http://images.macmillan.com/folio-assets/interiors-images/9780805075359.IN03.jpg](assets/Writing - Voice 7/media/media/image7.jpeg)
 
-![898980](assets/Writing - Voice 7/media/media/image8.jpeg){width="3.311111111111111in"
-height="3.745138888888889in"}
+![898980](assets/Writing - Voice 7/media/media/image8.jpeg)
 
 **Yours Truly, Goldilocks Alma Flor Ada**
 
@@ -1055,8 +1046,7 @@ place to meet, we will let you know.**
 
 **\**
 
-![877779](assets/Writing - Voice 7/media/media/image9.jpeg){width="3.3125in"
-height="3.3020833333333335in"}
+![877779](assets/Writing - Voice 7/media/media/image9.jpeg)
 
 **Little Red Hen (Makes a Pizza) Philemon Sturgess**
 
@@ -1127,11 +1117,9 @@ Descriptive writing shares the following characteristics:
 
 - Reading Rockets
 
-![http://4.bp.blogspot.com/-BrR_TZ5cmSE/Uhyl64jHkRI/AAAAAAAAHWo/o-XuGHbxDVM/s320/RedHenPizza.jpg](assets/Writing - Voice 7/media/media/image10.jpeg){width="3.9331014873140857in"
-height="3.5520833333333335in"}
+![http://4.bp.blogspot.com/-BrR_TZ5cmSE/Uhyl64jHkRI/AAAAAAAAHWo/o-XuGHbxDVM/s320/RedHenPizza.jpg](assets/Writing - Voice 7/media/media/image10.jpeg)
 
-![http://2.bp.blogspot.com/-IuLtlAxoXxo/U6EphBeV3lI/AAAAAAAAMLY/nfEtUAouKTs/s1600/Little+Red+Hen+back+from+shopping.png](assets/Writing - Voice 7/media/media/image11.png){width="4.875in"
-height="4.84375in"}
+![http://2.bp.blogspot.com/-IuLtlAxoXxo/U6EphBeV3lI/AAAAAAAAMLY/nfEtUAouKTs/s1600/Little+Red+Hen+back+from+shopping.png](assets/Writing - Voice 7/media/media/image11.png)
 
 **The Little Red Hen (Makes a Pizza) Philemon Sturgess**
 
@@ -1370,8 +1358,7 @@ And she did!
 > *The gloriously illustrated story of an errand turned adventure turned
 > existential parable.*
 
-[![http://www.brainpickings.org/wp-content/uploads/2014/03/moominmymblelittlemy.jpg](assets/Writing - Voice 7/media/media/image12.jpeg){width="1.9791666666666667in"
-height="2.7395833333333335in"}](http://www.amazon.com/exec/obidos/ASIN/1897299958/braipick-20)The *Moomin* series
+[![http://www.brainpickings.org/wp-content/uploads/2014/03/moominmymblelittlemy.jpg](assets/Writing - Voice 7/media/media/image12.jpeg)](http://www.amazon.com/exec/obidos/ASIN/1897299958/braipick-20)The *Moomin* series
 by Swedish-Finn artist, writer, comic strip creator, and children's book
 author [Tove
 Jansson](http://www.brainpickings.org/index.php/tag/tove-jansson/) (1914--2001),
@@ -1396,8 +1383,7 @@ vintage treasure one of the greatest children's books of all time, so
 unlike anything else that ever existed before or since that it inhabits
 a wholly different yet timelessly welcoming universe.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/03/moominmymblelittlemy1_1.jpg](assets/Writing - Voice 7/media/media/image13.jpeg){width="5.208333333333333in"
-height="5.208333333333333in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/03/moominmymblelittlemy1_1.jpg](assets/Writing - Voice 7/media/media/image13.jpeg)
 
 The story is driven by a clever what-comes-next guessing game as we
 follow little Moomintroll on an errand that turns into an adventure that
@@ -1412,14 +1398,11 @@ keeps life in balance --- is one of the story's powerful underlying
 themes, and yet it only amplifies rather than detracting from the joyful
 hopefulness of the overall message.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/03/moominmymblelittlemy4.jpg](assets/Writing - Voice 7/media/media/image14.jpeg){width="4.8125in"
-height="6.631625109361329in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/03/moominmymblelittlemy4.jpg](assets/Writing - Voice 7/media/media/image14.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/03/moominmymblelittlemy51.jpg](assets/Writing - Voice 7/media/media/image15.jpeg){width="5.208333333333333in"
-height="3.125in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/03/moominmymblelittlemy51.jpg](assets/Writing - Voice 7/media/media/image15.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/03/moominmymblelittlemy21.jpg](assets/Writing - Voice 7/media/media/image16.jpeg){width="5.208333333333333in"
-height="7.270833333333333in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/03/moominmymblelittlemy21.jpg](assets/Writing - Voice 7/media/media/image16.jpeg)
 
 Beautifully illustrated and hand-lettered in rhythmic verse, the book
 features gorgeous and brilliantly placed die-cut holes, reminiscent
@@ -1429,27 +1412,21 @@ which lend the story an enchanting quality that plays into our human
 restlessness for knowing what's around the corner, cleverly reminding us
 that what we think we see is often a distortion of what actually is.
 
-![http://www.brainpickings.org/wp-content/uploads/2014/03/moominmymblelittlemy81.jpg](assets/Writing - Voice 7/media/media/image17.jpeg){width="5.208333333333333in"
-height="7.135416666666667in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/03/moominmymblelittlemy81.jpg](assets/Writing - Voice 7/media/media/image17.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/03/moominmymblelittlemy3.jpg](assets/Writing - Voice 7/media/media/image18.jpeg){width="5.208333333333333in"
-height="7.364583333333333in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/03/moominmymblelittlemy3.jpg](assets/Writing - Voice 7/media/media/image18.jpeg)
 
-![http://www.brainpickings.org/wp-content/uploads/2014/03/moomin2.jpg](assets/Writing - Voice 7/media/media/image19.jpeg){width="5.208333333333333in"
-height="3.6354166666666665in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/03/moomin2.jpg](assets/Writing - Voice 7/media/media/image19.jpeg)
 
 And while the book was Jansson's first to be [adapted for
 iPad](https://itunes.apple.com/us/app/moomin-mymble-and-little-my/id531261142?mt=8),
 what screen could possibly replace the immeasurable tactile magic of
 this beautifully, thoughtfully designed paper masterpiece?
 
-![http://4.bp.blogspot.com/\_0tA5dmNlUGY/S73vm3pJwuI/AAAAAAAAGpo/I1obCIkoTZE/s600/moomin3.jpg](assets/Writing - Voice 7/media/media/image20.jpeg){width="4.447916666666667in"
-height="6.25in"}\
-![http://1.bp.blogspot.com/\_0tA5dmNlUGY/S73vnqQfykI/AAAAAAAAGpw/U2hBOMR6NKI/s600/moomin4.jpg](assets/Writing - Voice 7/media/media/image21.jpeg){width="4.614583333333333in"
-height="6.25in"}
+![http://4.bp.blogspot.com/\_0tA5dmNlUGY/S73vm3pJwuI/AAAAAAAAGpo/I1obCIkoTZE/s600/moomin3.jpg](assets/Writing - Voice 7/media/media/image20.jpeg)\
+![http://1.bp.blogspot.com/\_0tA5dmNlUGY/S73vnqQfykI/AAAAAAAAGpw/U2hBOMR6NKI/s600/moomin4.jpg](assets/Writing - Voice 7/media/media/image21.jpeg)
 
-![http://2.bp.blogspot.com/\_0tA5dmNlUGY/S73vmfD5hII/AAAAAAAAGpg/sHHZtWY5RUQ/s600/moomin2.jpg](assets/Writing - Voice 7/media/media/image22.jpeg){width="5.583333333333333in"
-height="6.25in"}
+![http://2.bp.blogspot.com/\_0tA5dmNlUGY/S73vmfD5hII/AAAAAAAAGpg/sHHZtWY5RUQ/s600/moomin2.jpg](assets/Writing - Voice 7/media/media/image22.jpeg)
 
 **The Book about Moomin, Mymble and Little My**
 
@@ -1753,13 +1730,11 @@ They can't get through -- it's much too wee.
 
 'Cause we're too big!!! said little My.**\**
 
-![http://www.brainpickings.org/wp-content/uploads/2014/03/tovejansson.jpg](assets/Writing - Voice 7/media/media/image23.jpeg){width="6.239583333333333in"
-height="7.614583333333333in"}
+![http://www.brainpickings.org/wp-content/uploads/2014/03/tovejansson.jpg](assets/Writing - Voice 7/media/media/image23.jpeg)
 
 **Psssst! It\'s Me\... the Bogeyman Barbara Park**
 
-![284091](assets/Writing - Voice 7/media/media/image24.jpeg){width="2.09375in"
-height="2.75in"}
+![284091](assets/Writing - Voice 7/media/media/image24.jpeg)
 
 'The Bogeyman goes on an extended rap-rant to set a few things straight
 regarding his personality and modus operandi.' He explains to the little
@@ -1782,8 +1757,7 @@ Writing: Narrative -- The Bogeyman (or other fictional scary character).
 
 Poetry -- The Bogeyman
 
-![3414458228](assets/Writing - Voice 7/media/media/image25.jpeg){width="3.5520833333333335in"
-height="3.3020833333333335in"}
+![3414458228](assets/Writing - Voice 7/media/media/image25.jpeg)
 
 Sketchbook "cut-out" of Frankenstein monster.
 
@@ -1817,16 +1791,13 @@ Sketchbook "cut-out" of Frankenstein monster.
 | Sentence beginnings  | Use of And and But.                                                         |
 +----------------------+-----------------------------------------------------------------------------+
 
-![bogey4](assets/Writing - Voice 7/media/media/image26.jpeg){width="5.729166666666667in"
-height="7.885416666666667in"}
+![bogey4](assets/Writing - Voice 7/media/media/image26.jpeg)
 
 Preliminary sketch by the artist, Stephen Kroninger.
 
-![8113616672](assets/Writing - Voice 7/media/media/image27.jpeg){width="5.729166666666667in"
-height="3.78125in"}
+![8113616672](assets/Writing - Voice 7/media/media/image27.jpeg)
 
-![0601376127](assets/Writing - Voice 7/media/media/image28.jpeg){width="5.729166666666667in"
-height="3.7604166666666665in"}
+![0601376127](assets/Writing - Voice 7/media/media/image28.jpeg)
 
 **Psssst! It's Me ... the Bogeyman Barbara Park**
 
@@ -1978,8 +1949,7 @@ the Bogeyman.
 
 **Diary of a Worm Doreen Cronin**
 
-![99296](assets/Writing - Voice 7/media/media/image29.jpeg){width="2.3357808398950133in"
-height="3.09375in"}
+![99296](assets/Writing - Voice 7/media/media/image29.jpeg)
 
 This is the diary . . . of a worm. Surprisingly, a worm not that
 different from you or me: He lives with his parents, plays with his
@@ -2365,8 +2335,7 @@ Side.
 ###### It's a dirty job but someone has to do it - S.K.Worm, the official annelid, or worm, of the U.S. Department of Agriculture\'s Natural Resources Conservation Service answers students' questions about soil. Even their teachers can't wiggle their way out of this one! Slither your way through these soiled questions.
 
 ![S.K. Worm answers questions about
-Soil](assets/Writing - Voice 7/media/media/image30.jpeg){width="3.9583333333333335in"
-height="3.0625in"}
+Soil](assets/Writing - Voice 7/media/media/image30.jpeg)
 
 #### Hello, worm lovers and soil supporters!
 
@@ -2375,8 +2344,7 @@ you can call me *Skworm*, as in squirm around and wiggle all over the
 place.
 
 ![Soil Facts for Kids: Where Does Soil Come
-From](assets/Writing - Voice 7/media/media/image31.jpeg){width="2.78125in"
-height="3.125in"}
+From](assets/Writing - Voice 7/media/media/image31.jpeg)
 
 **Soil doesn\'t just appear out of nowhere.** A magician doesn\'t wave a
 magic wand and\...poof!\... soil shows up. And it\'s not made in a soil
@@ -2384,8 +2352,7 @@ factory. Soil comes from broken up pieces of rock and dead leaves, tree
 limbs, and dead bugs-those kinds of things.
 
 ![soil - parent
-material](assets/Writing - Voice 7/media/media/image32.jpeg){width="4.270833333333333in"
-height="1.9479166666666667in"}
+material](assets/Writing - Voice 7/media/media/image32.jpeg)
 
 #### Soil doesn\'t have a mum and dad.
 
@@ -2394,8 +2361,7 @@ stuff needed to make soil
 
 # What does the weather do to soil?
 
-![http://www.childrenoftheearth.org/soil-facts-for-kids/images/soil-3-what-does-weather-do-to-soil.jpg](assets/Writing - Voice 7/media/media/image33.jpeg){width="4.260416666666667in"
-height="3.0in"}
+![http://www.childrenoftheearth.org/soil-facts-for-kids/images/soil-3-what-does-weather-do-to-soil.jpg](assets/Writing - Voice 7/media/media/image33.jpeg)
 
 **Whether you believe it or not,** weather helps make soil. When the
 weather gets hot, rocks can get bigger. When the weather turns cold,
@@ -2408,8 +2374,7 @@ make soil. And that\'s no snow job.
 # What\'s on, and in, the horizon?
 
 ![Soil
-Layers](assets/Writing - Voice 7/media/media/image34.jpeg){width="1.84375in"
-height="3.28125in"}Did you know that there are horizons in the soil?
+Layers](assets/Writing - Voice 7/media/media/image34.jpeg)Did you know that there are horizons in the soil?
 They\'re named **O, A, B,** and **C.** O is the top horizon. It\'s about
 two and a half centimetres thick made up of dead material that breaks
 down and keeps the soil \"O\"- so healthy. The A horizon is topsoil
@@ -2423,7 +2388,7 @@ it.
 
 # How does soil help me keep my cool?
 
-#### ![Soil Temperature](assets/Writing - Voice 7/media/media/image35.jpeg){width="1.3333333333333333in" height="3.75in"}When the soil is cool,
+#### ![Soil Temperature](assets/Writing - Voice 7/media/media/image35.jpeg)When the soil is cool,
 
 I\'m cool. If the temperature gets too cool, I can dig deeper to find a
 warm place to slither and snooze. But when the temperature is too hot, I
@@ -2441,7 +2406,7 @@ soil and coil myself up to keep cool and stay moist.
 
 # Do soils come in different colours?
 
-# ![Soil Colors](assets/Writing - Voice 7/media/media/image36.jpeg){width="4.229166666666667in" height="2.90625in"}
+# ![Soil Colors](assets/Writing - Voice 7/media/media/image36.jpeg)
 
 #### They sure do!
 
@@ -2460,7 +2425,7 @@ exactly a rainbow of colours, but they look good to me!
 
 # How does water stay in the soil?
 
-#### ![Water in Soil](assets/Writing - Voice 7/media/media/image37.jpeg){width="2.6666666666666665in" height="2.96875in"} When water gets into the soil, it pours into pores. Pores are spaces in the soil that come in different sizes. The bigger the pore, the more water it holds.
+#### ![Water in Soil](assets/Writing - Voice 7/media/media/image37.jpeg) When water gets into the soil, it pours into pores. Pores are spaces in the soil that come in different sizes. The bigger the pore, the more water it holds.
 
  
 
@@ -2468,8 +2433,7 @@ exactly a rainbow of colours, but they look good to me!
 | **How does air get into the soil?**                                                                                        |
 +---------------------------------------------------------------------------------------+------------------------------------+
 | ![How Does Air Get into the                                                           | #### The pores strike again!       |
-| Soil](assets/Writing - Voice 7/media/media/image38.jpeg){width="3.5729166666666665in" |                                    |
-| height="2.96875in"}\                                                                  | Air gets down into the soil        |
+| Soil](assets/Writing - Voice 7/media/media/image38.jpeg)\                                                                  | Air gets down into the soil        |
 | \                                                                                     | through the same pores that let in |
 | \                                                                                     | and hold water. The burrows that I |
 | \                                                                                     | and my pals dig let in air, too.   |
@@ -2491,8 +2455,7 @@ exactly a rainbow of colours, but they look good to me!
 # Why do plants like soil?
 
 ![Plants Get Nutrients From
-Soil](assets/Writing - Voice 7/media/media/image39.jpeg){width="4.260416666666667in"
-height="2.7916666666666665in"}
+Soil](assets/Writing - Voice 7/media/media/image39.jpeg)
 
 #### Because they like to eat and drink.
 
@@ -2504,8 +2467,7 @@ strange names that you\'ll learn in secondary school.
 # Do roots just help plants?
 
 ![Roots Do Many
-Things](assets/Writing - Voice 7/media/media/image40.jpeg){width="3.3645833333333335in"
-height="3.125in"}
+Things](assets/Writing - Voice 7/media/media/image40.jpeg)
 
 **No way!\
 \**
@@ -2518,7 +2480,7 @@ into pieces that later become soil.
 +-------------------------------------------------------------------------------------------------------------------------------------------+
 | # Does soil care about time?                                                                                                              |
 |                                                                                                                                           |
-| #### ![How Long Does it Take To Form Soil](assets/Writing - Voice 7/media/media/image41.jpeg){width="4.260416666666667in" height="3.0in"} |
+| #### ![How Long Does it Take To Form Soil](assets/Writing - Voice 7/media/media/image41.jpeg) |
 |                                                                                                                                           |
 | #### Soil is never in a hurry.                                                                                                            |
 |                                                                                                                                           |
@@ -2535,8 +2497,7 @@ into pieces that later become soil.
 # Can we keep the soil from washing and blowing away?
 
 ![Windbreaks Help Keep Soil From Washing
-Away](assets/Writing - Voice 7/media/media/image42.jpeg){width="4.260416666666667in"
-height="3.03125in"}
+Away](assets/Writing - Voice 7/media/media/image42.jpeg)
 
 #### Yep is right.
 
@@ -2555,8 +2516,7 @@ soil at home.
 # What is soil conservation?
 
 ![Soil
-Conservation](assets/Writing - Voice 7/media/media/image43.jpeg){width="3.5416666666666665in"
-height="3.0in"}
+Conservation](assets/Writing - Voice 7/media/media/image43.jpeg)
 
 #### It\'s smart.
 
@@ -2611,8 +2571,7 @@ It takes a long time to make soil.
 **Squirmin' Herman**
 
 ![Worms help water flow through the
-soil.](assets/Writing - Voice 7/media/media/image44.png){width="3.125in"
-height="3.125in"}
+soil.](assets/Writing - Voice 7/media/media/image44.png)
 
 I\'ll bet you think that the earthworm is only good for fishbait. Well,
 think again. The earthworm is one of nature\'s top \"soil scientists.\"
@@ -2638,8 +2597,7 @@ Having worms around in your garden is a real good sign that you have a
 healthy soil.
 
 ![Did you know all this about
-worms?](assets/Writing - Voice 7/media/media/image45.png){width="1.59375in"
-height="3.6041666666666665in"}
+worms?](assets/Writing - Voice 7/media/media/image45.png)
 
 A worm has no arms, legs or eyes.
 
@@ -2678,11 +2636,9 @@ hold clusters of soil particles together in formations called
 aggregates.
 
 ![Mmm..Mmm..Meal
-time](assets/Writing - Voice 7/media/media/image46.png){width="1.6145833333333333in"
-height="3.6145833333333335in"}
+time](assets/Writing - Voice 7/media/media/image46.png)
 
-![](assets/Writing - Voice 7/media/media/image47.png){width="1.5625in"
-height="3.6458333333333335in"}**.**
+![](assets/Writing - Voice 7/media/media/image47.png)**.**
 
  
 
@@ -2698,8 +2654,7 @@ and tea bags**.**
 
 +:-----------------------------------------------------------------------------------:+
 | ![I have a beginning and end just like                                              |
-| you!](assets/Writing - Voice 7/media/media/image48.png){width="4.979166666666667in" |
-| height="2.4895833333333335in"}                                                      |
+| you!](assets/Writing - Voice 7/media/media/image48.png)                                                      |
 +-------------------------------------------------------------------------------------+
 |                                                                                     |
 |                                                                                     |
@@ -2714,8 +2669,7 @@ and tea bags**.**
 
 +:----------------------------------------------------------------------------------------:+
 | ![I\'m soft and squishy and a little                                                     |
-| slimy\...](assets/Writing - Voice 7/media/media/image49.gif){width="4.979166666666667in" |
-| height="2.4895833333333335in"}                                                           |
+| slimy\...](assets/Writing - Voice 7/media/media/image49.gif)                                                           |
 +------------------------------------------------------------------------------------------+
 |                                                                                          |
 |                                                                                          |
@@ -2731,8 +2685,7 @@ and tea bags**.**
 
 +:----------------------------------------------------------------------------------------:+
 | ![I\'m soft and squishy and a little                                                     |
-| slimy\...](assets/Writing - Voice 7/media/media/image50.png){width="4.979166666666667in" |
-| height="2.4895833333333335in"}                                                           |
+| slimy\...](assets/Writing - Voice 7/media/media/image50.png)                                                           |
 +------------------------------------------------------------------------------------------+
 | If you look at my body under a magnifying glass, you will see a lot of little rings      |
 | across my entire body . . . looks kind of like corduroy or a lot of rings connected      |
@@ -2749,8 +2702,7 @@ and tea bags**.**
 +------------------------------------------------------------------------------------------+
 
 ![Look closely and you\'ll see that I have a
-mouth](assets/Writing - Voice 7/media/media/image51.png){width="6.25in"
-height="2.4895833333333335in"}
+mouth](assets/Writing - Voice 7/media/media/image51.png)
 
 At the very tip of my head (that\'s the anterior, remember), you will
 see a flap of skin that hangs over my mouth. It is called the
@@ -2762,16 +2714,14 @@ It\'s big enough to grab a leaf and drag it around.
 
 **My Five Hearts**
 
-![http://urbanext.illinois.edu/worms/images/anatomy/heart.gif](assets/Writing - Voice 7/media/media/image52.gif){width="6.239583333333333in"
-height="2.4895833333333335in"}
+![http://urbanext.illinois.edu/worms/images/anatomy/heart.gif](assets/Writing - Voice 7/media/media/image52.gif)
 
 Guess what? I have five hearts! All of these hearts pump blood through
 my blood vessels just like your one heart.
 
 **How I Move**
 
-![http://urbanext.illinois.edu/worms/images/anatomy/movement.gif](assets/Writing - Voice 7/media/media/image53.gif){width="6.239583333333333in"
-height="1.5625in"}
+![http://urbanext.illinois.edu/worms/images/anatomy/movement.gif](assets/Writing - Voice 7/media/media/image53.gif)
 
 It takes a lot of work to get where I want to go. I don\'t move very
 quickly, but think about how fast you would go if you had to slide
@@ -2806,8 +2756,7 @@ Sometimes the bits of food are too big for my mouth, so I moisten them
 to make them soft and suck them right into my mouth. (Don\'t try this at
 home, human parents tend not to like this.)
 
-![http://urbanext.illinois.edu/worms/images/anatomy/gizzard.gif](assets/Writing - Voice 7/media/media/image54.gif){width="6.25in"
-height="2.4895833333333335in"}
+![http://urbanext.illinois.edu/worms/images/anatomy/gizzard.gif](assets/Writing - Voice 7/media/media/image54.gif)
 
 Since I have no teeth, I cannot really chew my food like you do. I do
 have something inside of me close to my mouth called a gizzard. You
@@ -2827,8 +2776,7 @@ Have you ever wondered how I breathe without a nose or lungs? You
 breathe through your lungs. Your lungs take in oxygen and give off
 carbon dioxide.
 
-![http://urbanext.illinois.edu/worms/images/anatomy/breathing.gif](assets/Writing - Voice 7/media/media/image55.gif){width="4.979166666666667in"
-height="2.4895833333333335in"}
+![http://urbanext.illinois.edu/worms/images/anatomy/breathing.gif](assets/Writing - Voice 7/media/media/image55.gif)
 
 Worms do not have lungs but I breathe through my skin. I take in oxygen
 through my skin and it goes right into my bloodstream. My skin must stay
@@ -2838,15 +2786,13 @@ water has lots of air in it, I can stay under for a long time.
 
 **Light Sensitivity**
 
-![http://urbanext.illinois.edu/worms/images/anatomy/light.gif](assets/Writing - Voice 7/media/media/image56.gif){width="4.135416666666667in"
-height="2.0729166666666665in"}
+![http://urbanext.illinois.edu/worms/images/anatomy/light.gif](assets/Writing - Voice 7/media/media/image56.gif)
 
 I can tell the difference between light and dark . . . pretty good for
 someone who does not have eyes. I have cells in the front part of my
 body that are sensitive to light. This is called light sensitivity.
 
-![14335](assets/Writing - Voice 7/media/media/image57.jpeg){width="3.3125in"
-height="3.1145833333333335in"}
+![14335](assets/Writing - Voice 7/media/media/image57.jpeg)
 
 Summary: Animals in the woods sense that a stranger has arrived. They
 cautiously discover a snowman that has been built by children overnight.
@@ -2860,8 +2806,7 @@ the eyes of the woodland animals.\
 \
 Literary Devices: personification (animals are speaking)
 
-![stranger-2.jpg](assets/Writing - Voice 7/media/media/image58.jpeg){width="3.1145833333333335in"
-height="2.8854166666666665in"}
+![stranger-2.jpg](assets/Writing - Voice 7/media/media/image58.jpeg)
 
 **\
 Stranger in the Woods Carl R.Sams 11 & Jean Stoick**
