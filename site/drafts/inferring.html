@@ -1,0 +1,199 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Inferring — Guided Strategy Page (DRAFT)</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; -webkit-font-smoothing: antialiased; color: #1f2937; background: #f6f4ef; line-height: 1.55; }
+  .wrap { display: flex; max-width: 1080px; margin: 0 auto; gap: 24px; padding: 20px 16px 60px; align-items: flex-start; }
+  main { flex: 1; min-width: 0; }
+  .draftbar { background: #451a03; color: #fed7aa; font-size: 13px; font-weight: 600; text-align: center; padding: 8px 12px; }
+  .crumbs { font-size: 13px; color: #6b7280; margin-bottom: 6px; }
+  .crumbs b { color: #374151; }
+  h1 { font-size: 30px; line-height: 1.2; margin-bottom: 8px; }
+  .badges { display: flex; gap: 8px; flex-wrap: wrap; margin: 10px 0 16px; }
+  .badge { font-size: 12px; font-weight: 600; padding: 3px 10px; border-radius: 999px; background: #e0e7ff; color: #3730a3; }
+  .badge.type { background: #d1fae5; color: #065f46; }
+  .badge.pages { background: #f3f4f6; color: #4b5563; }
+  .lede { font-size: 17px; background: #fff; border-left: 4px solid #4f46e5; border-radius: 0 10px 10px 0; padding: 14px 16px; margin-bottom: 18px; box-shadow: 0 1px 2px rgba(0,0,0,.06); }
+  .formula { display: inline-block; background: #eef2ff; border-radius: 6px; padding: 1px 8px; font-weight: 700; color: #3730a3; white-space: nowrap; }
+  .card { background: #fff; border-radius: 12px; padding: 18px 20px; margin-bottom: 14px; box-shadow: 0 1px 3px rgba(0,0,0,.07); }
+  .card h2 { font-size: 19px; margin-bottom: 8px; }
+  .card h2 .step { display: inline-block; background: #4f46e5; color: #fff; font-size: 13px; width: 24px; height: 24px; line-height: 24px; text-align: center; border-radius: 50%; margin-right: 8px; vertical-align: 1px; }
+  .card p, .card li { font-size: 15px; }
+  .card ul, .card ol { padding-left: 20px; }
+  .card li { margin-bottom: 4px; }
+  .keyq { background: #eef2ff; border-radius: 8px; padding: 10px 14px; margin: 10px 0; font-size: 15px; }
+  .keyq b { color: #3730a3; }
+  .tabs { display: flex; gap: 6px; flex-wrap: wrap; margin-bottom: 12px; }
+  .tab { border: 1px solid #d1d5db; background: #f9fafb; border-radius: 8px; padding: 7px 12px; font-size: 14px; font-weight: 600; cursor: pointer; color: #374151; }
+  .tab:hover { border-color: #4f46e5; color: #4f46e5; }
+  .tab.active { background: #4f46e5; border-color: #4f46e5; color: #fff; }
+  .tabpanel { display: none; }
+  .tabpanel.active { display: block; }
+  .example { background: #fffbeb; border: 1px solid #fde68a; border-radius: 8px; padding: 10px 14px; font-size: 14.5px; margin-top: 8px; }
+  .example .src { display: block; margin-top: 6px; font-size: 12.5px; color: #92400e; }
+  .src { display: block; margin-top: 8px; font-size: 12.5px; color: #6b7280; }
+  .src a { color: #4f46e5; }
+  table.mini { border-collapse: collapse; width: 100%; margin: 10px 0; font-size: 14px; }
+  table.mini th, table.mini td { border: 1px solid #e5e7eb; padding: 6px 9px; text-align: left; vertical-align: top; }
+  table.mini th { background: #eef2ff; }
+  .paths { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 8px; }
+  .path { border: 1px solid #e5e7eb; border-radius: 8px; padding: 10px 12px; font-size: 14px; }
+  .path h3 { font-size: 15px; margin-bottom: 4px; }
+  .path.early h3 { color: #065f46; }
+  .path.upper h3 { color: #3730a3; }
+  aside.toc { flex: 0 0 220px; position: sticky; top: 16px; background: #fff; border-radius: 12px; padding: 14px 16px; box-shadow: 0 1px 3px rgba(0,0,0,.07); font-size: 14px; }
+  aside.toc h3 { font-size: 12px; text-transform: uppercase; letter-spacing: .06em; color: #6b7280; margin-bottom: 8px; }
+  aside.toc a { display: block; color: #374151; text-decoration: none; padding: 4px 0; }
+  aside.toc a:hover { color: #4f46e5; }
+  .toolbar { display: flex; gap: 8px; margin-top: 14px; flex-wrap: wrap; }
+  .btn { border: none; border-radius: 8px; padding: 9px 16px; font-size: 14px; font-weight: 600; cursor: pointer; text-decoration: none; display: inline-block; }
+  .btn.print { background: #4f46e5; color: #fff; }
+  .btn.print:hover { background: #4338ca; }
+  .btn.src { background: #e5e7eb; color: #374151; }
+  @media (max-width: 800px) { aside.toc { display: none; } .paths { grid-template-columns: 1fr; } }
+  @media print { .draftbar, aside.toc, .toolbar, .tabs { display: none; } .tabpanel { display: block; } body { background: #fff; } .card { box-shadow: none; border: 1px solid #ddd; } }
+</style>
+</head>
+<body>
+<div class="draftbar">DRAFT for Phill's review — content from the 10 Inferring Course packs + strategy guide. Links go live when integrated into the site build.</div>
+<div class="wrap">
+  <main>
+    <div class="crumbs">Jim K Library / <b>Reading</b> / Inferring</div>
+    <h1>Inferring</h1>
+    <div class="badges">
+      <span class="badge type">Strategy guide</span>
+      <span class="badge">Reading · Comprehension</span>
+      <span class="badge">Early years + Upper paths</span>
+      <span class="badge pages">10 packs · 73 mentor texts · 8 min read</span>
+    </div>
+    <div class="lede">Inferring is “filling in, in your head, what is not written on the page.” Readers combine <span class="formula">Text Clues + Background Knowledge = Inference</span> — and there can be more than one correct answer, as long as students can support it from the text.</div>
+
+    <div class="card" id="s-why">
+      <h2><span class="step">1</span>Why teach it?</h2>
+      <ul>
+        <li>It is the foundation under every other reading strategy — predicting, questioning and summarising all depend on it.</li>
+        <li>It moves readers past literal recall into meaning: feelings, motives, themes, word meanings.</li>
+        <li>It transfers to writing: students who infer well leave better clues in their own stories.</li>
+      </ul>
+      <div class="keyq"><b>Key question for students:</b> “What do you know that the author didn't actually say — and what makes you think so?”</div>
+      <span class="src">From INFERRING 1 (definitions: Keene, Gear) and INFERRING 8.</span>
+    </div>
+
+    <div class="card" id="s-how">
+      <h2><span class="step">2</span>How to teach it</h2>
+      <ol>
+        <li><b>Model it aloud</b> — think aloud through a short text, charting clues and inferences where students can see.</li>
+        <li><b>Practise it guided</b> — sticky notes, two-column charts, partner talk; students show the clue behind every inference.</li>
+        <li><b>Release it</b> — students infer in their own books, then defend inferences in conferences and share time.</li>
+      </ol>
+      <div class="keyq"><b>Four portable routines</b> (use with any book): <b>It Says – I Say – And So</b> (4 steps, blank table included) · <b>Observe – Wonder – Infer</b> (photos first, then texts) · <b>Picture Book Inferences</b> (7-step chart routine) · <b>Pairs Read: Read to Analyse</b> (reader, responder, coach).</div>
+      <span class="src">Release model: <a href="../dist/notes/Inferring%20Course%20JIM/INFERRING3%20Jim.html">INFERRING 3</a>. Routines: <a href="../dist/notes/Inferring%20Course%20JIM/INFERRING2%20Jim.html">INFERRING 2</a> and <a href="../dist/notes/Inferring%20Course%20JIM/INFERRING7%20Jim.html">INFERRING 7</a>.</span>
+    </div>
+
+    <div class="card" id="s-types">
+      <h2><span class="step">3</span>Five kinds of inferring to teach</h2>
+      <div class="tabs" role="tablist">
+        <button class="tab active" data-t="t1">Character</button>
+        <button class="tab" data-t="t2">Theme</button>
+        <button class="tab" data-t="t3">Word meanings</button>
+        <button class="tab" data-t="t4">Pictures &amp; wordless</button>
+        <button class="tab" data-t="t5">Questions that lead there</button>
+      </div>
+      <div class="tabpanel active" id="t1">
+        <p>What a character feels, wants and is like — from what they say, do, and how they change. Start with feelings (role play, charades), then traits with evidence, then change across the book.</p>
+        <div class="example">“Natasha is <b>selfish</b>” — proved from what she does with the doll.<span class="src">— Babushka's Doll (INFERRING 1). Try next: <a href="../dist/notes/Mentor%20Texts/Willy%20the%20Wimp%20%E2%80%94%20Anthony%20Browne.html">Willy the Wimp</a>, <a href="../dist/notes/Mentor%20Texts/Owl%20Moon%20%E2%80%94%20Jane%20Yolen.html">Owl Moon</a></span></div>
+      </div>
+      <div class="tabpanel" id="t2">
+        <p>The central message must be inferred — it is never stated. Fables first (short, one clear lesson), then folktales, then novels. Themes must be inferred; the theme is the message, not the subject.</p>
+        <div class="example">Lobel's fables → theme anchor chart (anger, self-control…), then <i>Seven Blind Mice</i>: “wisdom comes from seeing the whole.”<span class="src">— INFERRING 2 (fables) and INFERRING 3 (theme statements)</span></div>
+      </div>
+      <div class="tabpanel" id="t3">
+        <p>Hold the question in your head and read on. Reread for clues, check the sentence before and after, look for the root word, connect text-to-text.</p>
+        <div class="example">“What are <b>tight times</b>?” — inferred from the cover boy, his plate of beans, and the dog episode.<span class="src">— <a href="../dist/notes/Mentor%20Texts/Tight%20Times%20%E2%80%94%20Barbara%20Shook%20Hazen.html">Tight Times</a> (INFERRING 2). Chart: Word / What we infer / What helped us (INFERRING 3)</span></div>
+      </div>
+      <div class="tabpanel" id="t4">
+        <p>Many inferences come from illustrations. Wordless books force the skill: predict from the cover, track pictorial evidence, retell, rename the book.</p>
+        <div class="example">Flotsam unit: predict “flotsam” from the first pages → prove the title from layered-photo evidence → vote a better title.<span class="src">— INFERRING 2 and INFERRING 4 (Fox, wordless graphic novels)</span></div>
+      </div>
+      <div class="tabpanel" id="t5">
+        <p>Questions that go beyond the literal are a direct pathway to inferring. Three tools: <b>QAR</b> (Right There / Think and Search / Author and You / On Your Own), <b>Question the Author</b> (queries at stopping points), <b>O.W.I.</b> (Observe, Wonder, Infer).</p>
+        <div class="example">Tuesday (Wiesner): Right There — the setting. Artist and You — the frog's feelings. On My Own — the falling lily pads.<span class="src">— INFERRING 1 (P-QAR) and INFERRING 7 (QtA with I'm in Charge of Celebrations)</span></div>
+      </div>
+    </div>
+
+    <div class="card" id="s-worked">
+      <h2><span class="step">4</span>Worked example: Owl Moon</h2>
+      <p>“As quiet as a dream” — what does it mean to go owling? Clues plus knowledge, combined in the open:</p>
+      <table class="mini">
+        <tr><th>Text clues</th><th>Background knowledge</th><th>Inference</th></tr>
+        <tr><td>Night, snow, father and child whispering; “as quiet as a dream”</td><td>Dreams are silent; owls hunt by night; you must be still to see wildlife</td><td>Owling means moving through the night woods in near-silence, hoping — not certain — an owl will answer</td></tr>
+      </table>
+      <div class="keyq"><b>Try this:</b> cover the ending, collect “I infer ___ because ___” on sticky notes, then read on to confirm or revise.</div>
+      <span class="src">— <a href="../dist/notes/Mentor%20Texts/Owl%20Moon%20%E2%80%94%20Jane%20Yolen.html">Owl Moon</a> unit (INFERRING 1). 70+ more demonstration books carry the inferring tag — filter Mentor Texts by trait.</span>
+    </div>
+
+    <div class="card" id="s-years">
+      <h2><span class="step">5</span>Two paths: early years vs upper</h2>
+      <div class="paths">
+        <div class="path early">
+          <h3>Early (P–2)</h3>
+          <p>Picture books, wordless books, oral and modelled work. Feelings first, then character and setting. Minimal writing — sticky notes, talk, drawing.</p>
+        </div>
+        <div class="path upper">
+          <h3>Upper (3–6)</h3>
+          <p>Graphic novels (gutter inference), the <i>Chasing Vermeer</i> novel study (clues, codes, 24 chapters of prompts), written response journals, theme work.</p>
+        </div>
+      </div>
+      <span class="src">Upper anchor: <a href="../dist/notes/Inferring%20Course%20JIM/Inferring%20novel%20Chasing%20Vermeer.html">Chasing Vermeer study</a>. Year split to be confirmed by Phill — the archive rarely states year levels.</span>
+    </div>
+
+    <div class="card" id="s-attach">
+      <h2><span class="step">6</span>Printables and charts</h2>
+      <ul>
+        <li>It Says – I Say – And So table (worked + blank) — INFERRING 2</li>
+        <li>Inference / Evidence chart, Inference Web, Facts-from-the-Text chart — INFERRING 1</li>
+        <li>Observe – Wonder – Infer chart (photo to text) — INFERRING 2/7</li>
+        <li>Character web, double-entry journal, character-change organiser — INFERRING 7</li>
+        <li>Full organiser bank + bibliography — <a href="../dist/notes/Inferring%20Course%20JIM/INFERRING8%20Jim.html">INFERRING 8</a></li>
+      </ul>
+    </div>
+
+    <div class="toolbar">
+      <button class="btn print" onclick="window.print()">Print this strategy</button>
+      <a class="btn src" href="../dist/shelves/reading.html">All Reading notes</a>
+    </div>
+  </main>
+  <aside class="toc">
+    <h3>On this page</h3>
+    <a href="#s-why">1 · Why teach it?</a>
+    <a href="#s-how">2 · How to teach it</a>
+    <a href="#s-types">3 · Five kinds</a>
+    <a href="#s-worked">4 · Worked example</a>
+    <a href="#s-years">5 · Year paths</a>
+    <a href="#s-attach">6 · Printables</a>
+    <h3 style="margin-top:12px">Full packs</h3>
+    <a href="../dist/notes/Inferring%20Course%20JIM/INFERRING%201%20Jim.html">INF 1 Foundations</a>
+    <a href="../dist/notes/Inferring%20Course%20JIM/INFERRING2%20Jim.html">INF 2 Toolkit</a>
+    <a href="../dist/notes/Inferring%20Course%20JIM/INFERRING3%20Jim.html">INF 3 Pathways</a>
+    <a href="../dist/notes/Inferring%20Course%20JIM/INFERRING4%20Jim.html">INF 4 Visual</a>
+    <a href="../dist/notes/Inferring%20Course%20JIM/INFERRING5%20Jim.html">INF 5 Graphic novels</a>
+    <a href="../dist/notes/Inferring%20Course%20JIM/INFERRING7%20Jim.html">INF 7 Lessons</a>
+    <a href="../dist/notes/Inferring%20Course%20JIM/INFERRING8%20Jim.html">INF 8 Bank</a>
+  </aside>
+</div>
+<script>
+  document.querySelectorAll('.tab').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      document.querySelectorAll('.tab').forEach(function (b) { b.classList.remove('active'); });
+      document.querySelectorAll('.tabpanel').forEach(function (p) { p.classList.remove('active'); });
+      btn.classList.add('active');
+      document.getElementById(btn.dataset.t).classList.add('active');
+    });
+  });
+</script>
+</body>
+</html>
