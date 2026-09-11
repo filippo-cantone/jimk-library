@@ -81,7 +81,7 @@ text / template / list). Merge duplicated subtrees, don't publish twice.
 
 - [x] 1. Leftover Phase 1 sample — mechanical pass verified by Phill, all good.
 - [x] 2. Reader's Theatre dedupe — top-level source folder confirmed redundant, repo keeps Reading copy (decided 2026-09-11).
-- [ ] 3. Strand-tag audit — reconcile frontmatter against the 8-strand tree.
+- [ ] 3. Strand-tag audit — inventory + sampling complete and verified (504 notes); proposal with Phill, awaiting mapping decisions.
 - [ ] 4. Resource-type tagging proposal — definitions + coverage estimate.
 - [ ] 5. Draft one-page IA map — the approval gate before restructuring.
 - [ ] 6. Apply the restructure — only after the IA map is approved, folder by
