@@ -6,9 +6,9 @@
 > questions and Phill's recorded answers. Nothing else in the repo gives
 > instructions — if another doc starts doing so, merge it here or delete it.
 
-**Status (2026-09-11): Phase 2 COMPLETE — all 6 tasks done. Shelves work from
-labels (no file moves, agreed by Phill). Open next: genre/year/trait tagging
-pass (approved, unscheduled), then Phase 3 site build (not started).**
+**Status (2026-09-12): Phase 2 COMPLETE — all 6 tasks done. Shelves work from
+labels (no file moves, agreed by Phill). Tagging pass done (genre 323 /
+traits 309 / year 19, verified). Open next: Phase 3 site build (not started).**
 
 ## Why (the goal)
 
@@ -102,6 +102,9 @@ via convert → review → publish.
 
 Three new frontmatter fields — `genre:` (what kind of text), `year:` (only
 where Jim states it), `traits:` (list of writing-craft elements and reading
-strategies the book serves). Guides take genre from their folder path
-mechanically; books get agent judgment grounded in Jim's own lists (Mentor
-Lists 2012, Craft Mentor List, strategy guides' named mentor texts).
+strategies the book serves). DONE 2026-09-12: 323 carry genre (308 of 310
+books + 15 genre guides; 2 books body-less, honestly skipped), 309 carry
+traits (158 from Jim's own lists, 152 agent-judged grounded in notes/packs;
+1 book Jim names no use for, left blank), 19 carry year (explicit statements
+only, verified against false positives; incl. Grade 3 poetry anthology the
+first sweep missed). Guides take genre from folder path; no traits on guides.
