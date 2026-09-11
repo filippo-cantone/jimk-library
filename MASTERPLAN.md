@@ -6,10 +6,9 @@
 > questions and Phill's recorded answers. Nothing else in the repo gives
 > instructions — if another doc starts doing so, merge it here or delete it.
 
-**Status (2026-09-12): Phase 3 BUILT, awaiting Phill visual review. 504 notes →
-513 pages via site/build.py (preview: site/dist/, gitignored). Verified:
-14,026 internal links zero broken, all 7,153 image refs resolve, search
-index 504 entries. Open next: Phill reviews preview → Phase 4 deploy.**
+**Status (2026-09-12): Phase 2.5 IN PROGRESS (INF 2 pilot). Site build paused:
+restructured guides will BE the site content (raw packs stay repo-only).
+Phase 3 preview exists; guided inferring draft exists (site/drafts/).**
 
 ## Why (the goal)
 
@@ -86,7 +85,19 @@ text / template / list). Merge duplicated subtrees, don't publish twice.
 - [x] 5. One-page IA map — APPROVED 2026-09-11 (all 3 questions yes: 8 shelves; genre + year as later tagging pass; trait/strategy tags join that pass). Saved as `IA-MAP.md`.
 - [x] 6. Restructure — DONE 2026-09-11 as no-move (agreed by Phill): shelves work from `strand` labels (verified complete across all 504); the site will build shelf views from tags. No files moved — moving would break relative image links for zero teacher-visible gain.
 
-## Phase 3 — Build the site (BUILT 2026-09-12, awaiting Phill visual review)
+## Phase 2.5 — Restructure guides for teachers (APPROVED 2026-09-12, in progress)
+
+Teachers must never face raw packs. The 160 guides get rebuilt to the
+Easy-Read standard: contents-dump becomes navigation (one section per unit:
+Why → steps → worked example); book applications link out to standalone
+mentor texts instead of inline walls. Jim's wording kept; order and hierarchy
+rebuilt; Phill approves per folder. Demonstration texts (310) stay as-is;
+lists/prompt-sets/templates get light structuring after guides. Restructured
+guides ARE the site content (raw packs remain repo-only source). Pilot:
+INFERRING2 Jim.md (parent: guided inferring page in site/drafts/). Site build
+paused until the pilot formula is approved.
+
+## Phase 3 — Build the site (BUILT 2026-09-12, preview exists; paused for 2.5)
 
 Static generator + client-side full-text search from this repo. Must: render
 tables/callouts, printable pages, lazy-loaded images. Preview link for

@@ -11,6 +11,35 @@ resource_type: guide
 
 <img src="assets/INFERRING2 Jim/media/image1.jpeg" />
 
+<!-- editor: Phase 2.5 restructure; hierarchy rebuilt, wording untouched -->
+
+This pack teaches inferring through portable routines, theme work,
+illustration, wordless books and minimum-text books. Start with the routines;
+use the book units in any order.
+
+## Contents
+
+- [Teaching inferring: the model](#u-model)
+- [It Says – I Say – And So](#u-itsays)
+- [DLTA and Granddaddy's Gift](#u-dlta)
+- [Reciprocal Teaching routines](#u-reciprocal)
+- [Inferring about theme](#u-theme)
+- [The Stranger](#u-stranger)
+- [Using illustrations and TC+BK=I](#u-illustrations)
+- [Tight Times](#u-tight)
+- [Yo! Yes! and Create a Dialogue](#u-yo)
+- [I Want My Hat Back / This Is Not My Hat](#u-klassen)
+- [Wordless picture books](#u-wordless)
+- [The Sweetest Fig](#u-fig)
+- [Bootsie Barker Bites](#u-bootsie)
+- [O.W.I.: Observe, Wonder, Infer](#u-owi)
+- [Books with minimum text](#u-mintext)
+- [Knuffle Bunny](#u-knuffle)
+- [A Splendid Friend, Indeed](#u-splendid)
+- [Top Cat](#u-topcat)
+
+### At a glance (Jim's contents)
+
 **INFERRING**
 
 **PART 2**
@@ -19,72 +48,73 @@ resource_type: guide
 
 Teaching inferring
 
-It Says – I Say – And So
+- It Says – I Say – And So
 
-DLTA Directed Listening Thinking Activity
+- DLTA Directed Listening Thinking Activity
 
-Granddaddy’s Gift by Margaree Mitchell
+- Granddaddy’s Gift by Margaree Mitchell
 
-DRTA Directed Reading Thinking Activity
+- DRTA Directed Reading Thinking Activity
 
-Reciprocal Teaching
+- Reciprocal Teaching
 
-Inferring about Theme
+- Inferring about Theme
 
-Fables by Arnold Lobel
+- Fables by Arnold Lobel
 
-The Hippopotamus at Dinner
+- The Hippopotamus at Dinner
 
-Inferring with Folktales
+- Inferring with Folktales
 
-Teammates by Peter Golenbock
+- Teammates by Peter Golenbock
 
-The Stranger by Chris Van Allsburg
+- The Stranger by Chris Van Allsburg
 
-Using Illustrations
+- Using Illustrations
 
-Tight Times by Barbara Shook Hazen
+- Tight Times by Barbara Shook Hazen
 
-Yo! Yes! by Chris Raschka
+- Yo! Yes! by Chris Raschka
 
-Ring! Yo? by Chris Raschka
+- Ring! Yo? by Chris Raschka
 
-Create a Dialogue
+- Create a Dialogue
 
-I Want My Hat Back by Jon Klassen
+- I Want My Hat Back by Jon Klassen
 
-This is Not My Hat by Jon Klassen
+- This is Not My Hat by Jon Klassen
 
-Wordless Picture Books
+- Wordless Picture Books
 
-Flotsam by David Wiesner
+- Flotsam by David Wiesner
 
-Book List
+- Book List
 
-O.W.I Observe, Wonder, Infer Connecting Inferring to Questioning
+- O.W.I Observe, Wonder, Infer Connecting Inferring to Questioning
 
-The Sweetest Fig by Chris Van Allsburg
+- The Sweetest Fig by Chris Van Allsburg
 
-Bootsie Barker Bites by Barbara Bottner
+- Bootsie Barker Bites by Barbara Bottner
 
-Inferring from Books with Minimum Text
+- Inferring from Books with Minimum Text
 
-Hug by Jez Alborough
+- Hug by Jez Alborough
 
-Mama by Jeanette Winter
+- Mama by Jeanette Winter
 
-Text-to-Text A Mama for Owen by Marion Bauer
+- Text-to-Text A Mama for Owen by Marion Bauer
 
-Owen & Mzee by Craig Hatkoff
+- Owen & Mzee by Craig Hatkoff
 
-No David! by David Shannon
+- No David! by David Shannon
 
-Knuffle Bunny by Mo Willems
+- Knuffle Bunny by Mo Willems
 
-A Splendid Friend, Indeed by Suzanne Bloom
+- A Splendid Friend, Indeed by Suzanne Bloom
 
-Shortcut by David Macaulay
+- Shortcut by David Macaulay
 
+<a id="u-model"></a>
 ## Teaching Inferring
 
 One simplified model for teaching inference includes the following
@@ -135,6 +165,7 @@ inferences from the written text.
 It also provides an opportunity to synthesise the information with their
 prior knowledge.
 
+<a id="u-itsays"></a>
 ## It Says – I Say – And So …
 
 **Reading Strategies:** Making Inferences, Making Connections,
@@ -176,10 +207,7 @@ bigger, so she weighs more</em></td>
 </tbody>
 </table>
 
-## It Says – I Say – And So …
-
-**Reading Strategies:** Making Inferences, Making Connections,
-Synthesising
+### Blank table (copy for students)
 
 <table>
 <colgroup>
@@ -228,6 +256,7 @@ answer.</p></td>
 </tbody>
 </table>
 
+<a id="u-dlta"></a>
 ## Directed Listening Thinking Activity DLTA
 
 Whole class
@@ -643,6 +672,7 @@ becomes a group member, monitoring use of strategies.
 Short factual articles, relevant to current learning topics are
 particularly appropriate.
 
+<a id="u-reciprocal"></a>
 ## Predicting
 
 Sets up purpose for the reading.
@@ -746,6 +776,7 @@ the group lesson, students discuss the text only in small chunks. When
 the session is over, it is advantageous for the students to read the
 whole text to themselves.
 
+<a id="u-theme"></a>
 ## Inferring about THEME
 
 MentorText: Fables by Arnold Lobel “The Hippopotamus at Dinner”
@@ -1016,6 +1047,7 @@ Book:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 
 <img src="assets/INFERRING2 Jim/media/image10.jpeg" />
 
+<a id="u-stranger"></a>
 ## The Stranger Chris Van Allsburg
 
 **It was the time of year Farmer Bailey liked best, when summer turned
@@ -1113,6 +1145,7 @@ trees to the north have turned. Then overnight they change their color
 to the brightest of any tree around. And etched in frost on the
 farmhouse windows are words that say simply, “See you next fall.”**
 
+<a id="u-illustrations"></a>
 ## Using illustrations
 
 Illustrations help students to infer and therefore enhance meaning.
@@ -1183,6 +1216,7 @@ Add to anchor chart as the reading proceeds.
 | **Text Clues** | **Background Knowledge** | **Inference** |
 |                |                          |               |
 
+<a id="u-tight"></a>
 ## Tight Times Barbara Shook Hazen
 
 This morning I asked Mum, Why can’t I have a dog?
@@ -1339,6 +1373,7 @@ watching her TV show.</p>
 | **Quote or Picture** | **Inference** |
 |                      |               |
 
+<a id="u-yo"></a>
 ## Yo! Yes! Chris Raschka
 
 We used Yo! Yes! By Chris Raschka in a punctuation study.
@@ -1493,6 +1528,7 @@ Discussion: *Did you like the way the story ended? Why? Why not?*
 
 Follow up: Readers’ Theatre.
 
+<a id="u-klassen"></a>
 ## I Want My Hat Back Jon Klassen
 
 “My hat is gone. I want it back.”
@@ -1656,6 +1692,7 @@ I knew I was going to make it.
 
 Nobody will ever find me.
 
+<a id="u-wordless"></a>
 ## Wordless Picture Books
 
 Students can develop story lines orally and in writing.
@@ -1845,7 +1882,7 @@ Use a magnifying glass to get a closer look.
 
  
 
-## Wordless Picture Books
+### Wordless book list
 
 Andreasen, Dan Treasure Bath
 
@@ -2218,6 +2255,7 @@ can you make about the figs?”
 exactly what happened, what do you think happened and what is your
 evidence? Use the OWI page to show your thinking.”
 
+<a id="u-fig"></a>
 ## The Sweetest Fig Chris Van Allsburg
 
 Monsieur Bibot, the dentist, was a very fussy man. He kept his small
@@ -2411,6 +2449,7 @@ share their opinions on
 
 how the writer dealt with Bootsie’s bullying.
 
+<a id="u-bootsie"></a>
 ## Bootsie Barker Bites Barbara Bottner
 
 My mother and Bootsie Barker’s mother are best friends.
@@ -2509,9 +2548,12 @@ Which means I don’t have to wish Bootsie takes a rocket to outer space.
 
 Although if she does, it’s fine with me.
 
+<a id="u-owi"></a>
 ## O.W.I
 
-Book: Owen & Mzee Author: Isabella Hatkoff
+Observe, Wonder, Infer — one chart per book.
+
+### Owen & Mzee — Isabella Hatkoff
 
 <img src="assets/INFERRING2 Jim/media/image32.jpeg" />
 
@@ -2520,7 +2562,7 @@ Book: Owen & Mzee Author: Isabella Hatkoff
 | **What I Observe** | **What I Wonder** | **What I Infer** |
 |                    |                   |                  |
 
-## O.W.I
+### The Mysteries of Harris Burdick — Chris Van Allsburg
 
 Book: The Mysteries of Harris Burdick Author: Chris Van
 Allsburg
@@ -2532,7 +2574,7 @@ Allsburg
 | **What I Observe** | **What I Wonder** | **What I Infer** |
 |                    |                   |                  |
 
-## O.W.I
+### Bootsie Barker Bites — Barbara Bottner
 
 Book: Bootsie Barker Bites Author: Barbara Bottner
 
@@ -2543,7 +2585,7 @@ Book: Bootsie Barker Bites Author: Barbara Bottner
 | **What I Observe** | **What I Wonder** | **What I Infer** |
 |                    |                   |                  |
 
-## O.W.I
+### Tough Boris — Mem Fox
 
 Book: Tough Boris Author: Mem Fox
 
@@ -2554,6 +2596,7 @@ Book: Tough Boris Author: Mem Fox
 | **What I Observe** | **What I Wonder** | **What I Infer** |
 |                    |                   |                  |
 
+<a id="u-mintext"></a>
 ## Inferring from Books with MINIMUM TEXT
 
 Some authors write books with very little words. The illustrations help
@@ -2637,7 +2680,7 @@ and celebrated illustrator John Butler depict this heartwarming true
 tale of healing, adoption, and rebirth - with splendid illustrations and
 oodles of love.
 
-## A Mama for Owen Marion Dane Bauer
+### Text: A Mama for Owen
 
 Owen was a very young hippo. He lived with his mother, his father, his
 aunts, and his cousins in the Sabuki River in Africa.
@@ -2790,6 +2833,7 @@ relevant to your students. E.g.
 </tbody>
 </table>
 
+<a id="u-knuffle"></a>
 ## Knuffle Bunny Mo Willems
 
 <img src="assets/INFERRING2 Jim/media/image45.jpeg" />
@@ -2859,9 +2903,9 @@ Inference: What will happen next?
 
 Read to: *Trixie turned to her daddy and said, “Aggle flaggle klabble!*
 
-What would Trixie say if she could talk?
+What would Trixie say if she could talk?uld Trixie say if she could talk?
 
-## Knuffle Bunny Mo Willems
+### Text: Knuffle Bunny
 
 Not very long ago, before she could even speak words, Trixie went on an
 errand with her daddy …
@@ -2931,6 +2975,7 @@ challenging the students to try to guess what the Bear might do next.
 
 Character Traits: Patience Friendship
 
+<a id="u-splendid"></a>
 ## A Splendid Friend, Indeed Suzanne Bloom
 
 What are you doing?
@@ -3028,6 +3073,7 @@ bare, company, decide.
 
 Retelling.
 
+<a id="u-topcat"></a>
 ## Top Cat Lois Ehlert
 
 *Scritch scratch.*
