@@ -6,10 +6,9 @@
 > questions and Phill's recorded answers. Nothing else in the repo gives
 > instructions — if another doc starts doing so, merge it here or delete it.
 
-**Status (2026-09-11): Phase 2 IA map APPROVED — Tasks 1–5 done. Task 6
-(restructure) is unlocked but Hermes recommends the no-move option (shelves
-as tag-built views; see open question with Phill) — no file moves until Phill
-decides.**
+**Status (2026-09-11): Phase 2 COMPLETE — all 6 tasks done. Shelves work from
+labels (no file moves, agreed by Phill). Open next: genre/year/trait tagging
+pass (approved, unscheduled), then Phase 3 site build (not started).**
 
 ## Why (the goal)
 
@@ -84,10 +83,7 @@ text / template / list). Merge duplicated subtrees, don't publish twice.
 - [x] 3. Strand-tag audit — DONE 2026-09-11. 121 notes retagged and verified (504 total, zero missing): Genres 41→genres; Author Studies 49→new author-studies tag; Text Structures 5→reading; Literacy 1-15→first-20-days; Teacher Planning→writing; Symbolism→reading; Bunny Cakes + Coyote/Goat→mentor-texts; 12 missing strands filled; 10 Mentor lists/supplements→mentor-texts.
 - [x] 4. Resource-type tagging — DONE 2026-09-11. All 504 tagged and verified: demonstration-text 310, guide 160 (incl. 13 RT packs per ruling; Voice/strategy/vocab packs ruled guides on size — multi-thousand-line packs, not single sittings; 3 unclear author-study files slotted as teacher background reading), mini-lesson 4, prompt-set 24, list 5, template 1.
 - [x] 5. One-page IA map — APPROVED 2026-09-11 (all 3 questions yes: 8 shelves; genre + year as later tagging pass; trait/strategy tags join that pass). Saved as `IA-MAP.md`.
-- [ ] 6. Apply the restructure — only after the IA map is approved, folder by
-  folder, one commit each.
-
-Content restructuring happens in Task 6, not before.
+- [x] 6. Restructure — DONE 2026-09-11 as no-move (agreed by Phill): shelves work from `strand` labels (verified complete across all 504); the site will build shelf views from tags. No files moved — moving would break relative image links for zero teacher-visible gain.
 
 ## Phase 3 — Build the site (NOT STARTED)
 

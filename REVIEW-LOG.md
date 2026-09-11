@@ -21,6 +21,7 @@ Commits are per-folder so anything can be reverted or redone piecemeal.
 - [x] 2026-09-11 mechanical pass (49 Author Studies strand + image-attr strip, 8 supplement/index/nursery/craft tags, 3 photo-library noise strips) — verified by Phill, all good.
 - [x] Phase 2 resource-type kinds approved (2026-09-11): 6 kinds (guide, mini-lesson, demonstration-text, prompt-set, template, list); RT packs ruled guides. Follow-up idea from Phill: trait/strategy tags on book notes (books-by-craft lists exist in Mentor Lists 2012) — scoped as a later pass, not a 7th kind.
 - [x] Phase 2 IA map approved in full (2026-09-11): 8 shelves as in IA-MAP.md; genre + year-level filters as a later tagging pass; trait/strategy tags join that pass.
+- [x] Task 6 resolved as no-move (2026-09-11, agreed by Phill): shelves work from `strand` labels; no files moved (would break relative image links for no teacher-visible gain).
 
 ## Folder progress (updated 2026-09-11)
 
