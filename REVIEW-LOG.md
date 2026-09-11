@@ -17,6 +17,7 @@ Commits are per-folder so anything can be reverted or redone piecemeal.
 - [x] The Boy Who Loved Words / Bigmama's standalones accepted.
 - [x] Time Somebody Told Me — Quantedius Hall standalone accepted.
 - [x] Author Study – Patricia Polacco reviewed status accepted.
+- [x] Phase 2 strand mapping approved in full (2026-09-11): Genres 41→genres; Author Studies 49→new `author-studies` tag; Text Structures 5→reading; Literacy 1-15→first-20-days; Teacher Planning→writing; Symbolism (`critical-literacy`)→reading; Bunny Cakes + Coyote and the Goat→`mentor-texts`; 12 missing strands filled (Reading 5→reading, Writing 6→writing, RLW 2 Supplement→mentor-texts); 10 Mentor Texts lists/supplements/indexes→`mentor-texts`. Convention ratified: `mentor-texts` = lift verified against published book (`completeness: "confirmed"`), `reading` = complete in-pack text (`completeness: full`).
 - [x] 2026-09-11 mechanical pass (49 Author Studies strand + image-attr strip, 8 supplement/index/nursery/craft tags, 3 photo-library noise strips) — verified by Phill, all good.
 
 ## Folder progress (updated 2026-09-11)
