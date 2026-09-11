@@ -4,7 +4,7 @@ source_file: "Literacy Overview Jim/Literacy     1-15.pdf"
 pages: 15
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
-strand: literacy-overview
+strand: first-20-days
 ---
 
 # Literacy Overview

@@ -6,7 +6,7 @@ conversion: "Easy-read pass (full reorganisation) over OCR baseline — tables r
 converted: "2026-09-09"
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
-strand: text-structures
+strand: reading
 ---
 
 # Text Structures

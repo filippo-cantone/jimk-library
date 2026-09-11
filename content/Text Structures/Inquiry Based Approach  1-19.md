@@ -4,7 +4,7 @@ source_file: "Text Structures/Inquiry Based Approach  1-19.pdf"
 pages: 19
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
-strand: text-structures
+strand: reading
 ---
 
 # Inquiry Based Approach

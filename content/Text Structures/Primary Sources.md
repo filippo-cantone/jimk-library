@@ -4,7 +4,7 @@ source_file: "Text Structures/Primary Sources.pdf"
 pages: 21
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
-strand: text-structures
+strand: reading
 ---
 
 # Primary Sources

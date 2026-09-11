@@ -5,7 +5,7 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
-strand: reading
+strand: author-studies
 ---
 
 <img src="assets/EZRA JACK KEATS/media/image1.jpeg" />

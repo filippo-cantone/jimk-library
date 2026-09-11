@@ -6,7 +6,7 @@ conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
 
 tags: [jim-k, reviewed]
-strand: reading
+strand: genres
 reviewed: "2026-09-10"
 ---
 

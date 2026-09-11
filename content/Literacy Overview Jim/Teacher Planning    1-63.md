@@ -4,7 +4,7 @@ source_file: "Literacy Overview Jim/Teacher Planning    1-63.pdf"
 pages: 63
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
-strand: literacy-overview
+strand: writing
 ---
 
 # Teacher Planning

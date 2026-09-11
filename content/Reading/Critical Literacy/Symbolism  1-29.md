@@ -4,7 +4,7 @@ source_file: "Reading/Critical Literacy/Symbolism  1-29.pdf"
 pages: 29
 reviewed: "2026-09-10"
 tags: [jim-k, reviewed]
-strand: critical-literacy
+strand: reading
 competency: critical-literacy
 completeness: full
 ---

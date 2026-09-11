@@ -4,7 +4,7 @@ source_file: "Text Structures/Using Non-fiction Texts    1-38.pdf"
 pages: 38
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
-strand: text-structures
+strand: reading
 ---
 
 # Using Non-fiction Texts
