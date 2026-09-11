@@ -6,6 +6,7 @@ converted: "2026-09-07"
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
 strand: inferring
+resource_type: list
 ---
 
 <img src="assets/INFERRING6b/media/image1.jpeg" />

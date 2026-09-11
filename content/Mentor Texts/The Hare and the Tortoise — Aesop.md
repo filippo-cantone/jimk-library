@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 note: "Retold; scan OCR has minor character noise"
+resource_type: demonstration-text
 ---
 
 # The Hare and the Tortoise

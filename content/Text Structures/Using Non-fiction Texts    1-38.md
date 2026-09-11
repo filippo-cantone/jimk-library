@@ -5,6 +5,7 @@ pages: 38
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
 strand: reading
+resource_type: guide
 ---
 
 # Using Non-fiction Texts

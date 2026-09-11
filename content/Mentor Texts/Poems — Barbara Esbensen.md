@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 note: "Set: My Cat, Pencils, Lullaby for a Rainy Night, Friends and others as printed"
+resource_type: demonstration-text
 ---
 
 # Poems

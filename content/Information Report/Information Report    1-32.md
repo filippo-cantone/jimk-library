@@ -5,6 +5,7 @@ pages: 32
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
 strand: genres
+resource_type: guide
 ---
 
 # Information Report

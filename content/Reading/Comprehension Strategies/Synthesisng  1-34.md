@@ -7,6 +7,7 @@ tags: [jim-k, reviewed]
 strand: reading
 competency: comprehension-strategy
 completeness: full
+resource_type: guide
 ---
 
 # Synthesisng

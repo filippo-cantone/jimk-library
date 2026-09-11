@@ -4,6 +4,7 @@ source_file: "Writer's Notebook/Writer's Notebook Contents.md"
 tags: [jim-k]
 reviewed: "2026-09-10"
 strand: writers-notebook
+resource_type: guide
 ---
 
 **Writer's Notebook**

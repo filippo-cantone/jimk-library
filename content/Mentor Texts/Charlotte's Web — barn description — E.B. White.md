@@ -6,6 +6,7 @@ completeness: "confirmed"
 reviewed: "2026-09-10"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
+resource_type: demonstration-text
 ---
 
 # Charlotte's Web — barn description — E.B. White

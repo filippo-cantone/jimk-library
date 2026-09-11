@@ -4,6 +4,7 @@ source_file: "Writer's Notebook/Kids at play - Writer's Notebook 23 Quick Writes
 tags: [jim-k]
 reviewed: "2026-09-10"
 strand: writers-notebook
+resource_type: prompt-set
 ---
 
 **Writer's Notebook**

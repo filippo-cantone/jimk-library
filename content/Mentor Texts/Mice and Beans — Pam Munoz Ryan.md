@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 note: "Story text; Spanish glossary stays in pack"
+resource_type: demonstration-text
 ---
 
 # Mice and Beans

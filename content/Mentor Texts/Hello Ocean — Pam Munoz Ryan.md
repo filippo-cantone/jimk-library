@@ -6,6 +6,7 @@ completeness: "confirmed"
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
+resource_type: demonstration-text
 ---
 
 # Hello Ocean — Pam Munoz Ryan

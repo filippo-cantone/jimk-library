@@ -5,6 +5,7 @@ pages: 15
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
 strand: first-20-days
+resource_type: guide
 ---
 
 # Literacy Overview

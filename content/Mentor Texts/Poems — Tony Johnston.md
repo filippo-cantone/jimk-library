@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 note: "Set: My Overalls, Broom, White Cat Winter, The First Dog, The Barn Owls"
+resource_type: demonstration-text
 ---
 
 # Poems

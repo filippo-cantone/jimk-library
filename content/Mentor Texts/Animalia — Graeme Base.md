@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 note: "A-Z alliteration pages"
+resource_type: demonstration-text
 ---
 
 # Animalia

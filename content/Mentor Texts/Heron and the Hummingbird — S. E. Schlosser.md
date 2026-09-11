@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 note: "Hitchiti Tribe tale retold"
+resource_type: demonstration-text
 ---
 
 # Heron and the Hummingbird

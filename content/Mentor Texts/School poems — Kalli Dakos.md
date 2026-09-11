@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 note: "Set: The School Bell, Gym, Monkey Bars"
+resource_type: demonstration-text
 ---
 
 # School poems

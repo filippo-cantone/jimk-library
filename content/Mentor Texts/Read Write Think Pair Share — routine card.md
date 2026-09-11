@@ -5,6 +5,7 @@ completeness: "confirmed"
 reviewed: "2026-09-10"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
+resource_type: mini-lesson
 ---
 
 # Read Write Think Pair Share

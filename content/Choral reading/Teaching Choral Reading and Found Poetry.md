@@ -4,6 +4,7 @@ source: "Method sections lifted from CHORAL READING TEXTS 1 (Jim K archive); wor
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed, teaching-guide]
 strand: reading
+resource_type: guide
 ---
 
 # Teaching Choral Reading and Found Poetry

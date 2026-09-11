@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 note: "Reconstructed clean; pack interleaves variant notes from A Ballad of Remembrance"
+resource_type: demonstration-text
 ---
 
 # Those Winter Sundays

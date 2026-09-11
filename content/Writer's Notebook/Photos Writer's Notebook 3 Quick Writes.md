@@ -4,6 +4,7 @@ source_file: "Writer's Notebook/Photos Writer's Notebook 3 Quick Writes.md"
 tags: [jim-k]
 reviewed: "2026-09-10"
 strand: writers-notebook
+resource_type: prompt-set
 ---
 
 **Writer's Notebook**

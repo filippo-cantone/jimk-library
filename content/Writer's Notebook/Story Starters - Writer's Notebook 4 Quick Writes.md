@@ -4,6 +4,7 @@ source_file: "Writer's Notebook/Story Starters - Writer's Notebook 4 Quick Write
 tags: [jim-k]
 reviewed: "2026-09-10"
 strand: writers-notebook
+resource_type: prompt-set
 ---
 
 **Writer's Notebook**

@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 note: "Kate and Emily story"
+resource_type: demonstration-text
 ---
 
 # Maybe a Fight

@@ -4,6 +4,7 @@ source_file: "Writer's Notebook/Animal Photographs - Writer's Notebook 10 Quick 
 tags: [jim-k]
 reviewed: "2026-09-10"
 strand: writers-notebook
+resource_type: prompt-set
 ---
 
 **Writer's Notebook**

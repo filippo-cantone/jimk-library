@@ -4,6 +4,7 @@ source_file: "Writer's Notebook/Writing Prompts - Writer's Notebook 15 Quick Wri
 tags: [jim-k]
 reviewed: "2026-09-10"
 strand: writers-notebook
+resource_type: prompt-set
 ---
 
 **Writer's Notebook**

@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: mentor-texts
 reviewed: "2026-09-10"
 completeness-note: "likely full; ends with MILK-list resolution"
+resource_type: demonstration-text
 ---
 
 # Bunny Cakes

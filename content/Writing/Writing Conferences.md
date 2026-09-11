@@ -9,6 +9,7 @@ converted: "2026-09-07"
 tags: [jim-k, reviewed]
 strand: writing
 reviewed: "2026-09-10"
+resource_type: guide
 ---
 
 

@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 note: "First book in the series"
+resource_type: demonstration-text
 ---
 
 # Amelia Bedelia

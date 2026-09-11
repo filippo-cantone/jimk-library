@@ -8,6 +8,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
 strand: mentor-texts
+resource_type: guide
 ---
 
 # Reading Like Writers  Supplement

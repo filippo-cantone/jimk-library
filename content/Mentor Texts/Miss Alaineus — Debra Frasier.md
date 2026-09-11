@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 note: "Book summary plus Sage's full A-Z sentences sequence"
+resource_type: demonstration-text
 ---
 
 # Miss Alaineus

@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 note: "Set of acrostic poems: Dawn, Sun, Shadow, Hills, Trees, Leaf, Bee, Butterfly, Hummingbird, Clouds, Fog, Rain, Moon, Stars, Night"
+resource_type: demonstration-text
 ---
 
 # Silver Seeds (nature acrostics)

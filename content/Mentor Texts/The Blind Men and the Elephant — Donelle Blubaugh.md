@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 note: "Retelling from India"
+resource_type: demonstration-text
 ---
 
 # The Blind Men and the Elephant

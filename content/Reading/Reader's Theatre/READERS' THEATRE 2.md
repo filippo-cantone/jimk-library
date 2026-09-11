@@ -6,6 +6,7 @@ converted: "2026-09-07"
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
 strand: reading
+resource_type: guide
 ---
 
 ## READERS’ THEATRE 2

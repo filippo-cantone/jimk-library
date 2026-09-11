@@ -6,6 +6,7 @@ converted: "2026-09-07"
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
 strand: vocabulary
+resource_type: guide
 ---
 
 <img src="assets/VOCABULARY 7/media/image1.jpeg" />

@@ -4,6 +4,7 @@ source_file: "Writer's Notebook/Banksy Street art - Writer's Notebook 14 Quick W
 tags: [jim-k]
 reviewed: "2026-09-10"
 strand: writers-notebook
+resource_type: prompt-set
 ---
 
 **Writer's Notebook**

@@ -7,6 +7,7 @@ tags: [jim-k, reviewed]
 strand: reading
 competency: critical-literacy
 completeness: full
+resource_type: guide
 ---
 
 # Symbolism

@@ -6,6 +6,7 @@ converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
 strand: author-studies
+resource_type: guide
 ---
 
 <img src="assets/Margie Palatini (2)/media/image1.jpeg" />

@@ -5,6 +5,7 @@ pages: 63
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
 strand: writing
+resource_type: guide
 ---
 
 # Teacher Planning

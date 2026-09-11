@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: mentor-texts
 reviewed: "2026-09-10"
 completeness-note: "likely full; scan OCR has character noise throughout"
+resource_type: demonstration-text
 ---
 
 # The Coyote and the Goat

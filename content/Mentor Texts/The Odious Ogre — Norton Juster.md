@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 note: "As told in The Phantom Tollbooth"
+resource_type: demonstration-text
 ---
 
 # The Odious Ogre

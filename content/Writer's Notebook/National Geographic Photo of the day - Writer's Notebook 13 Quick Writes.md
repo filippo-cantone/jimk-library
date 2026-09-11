@@ -4,6 +4,7 @@ source_file: "Writer's Notebook/National Geographic Photo of the day - Writer's 
 tags: [jim-k]
 reviewed: "2026-09-10"
 strand: writers-notebook
+resource_type: prompt-set
 ---
 
 **Writer's Notebook**

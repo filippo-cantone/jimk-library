@@ -7,6 +7,7 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 note: "Set: What in the World, banana verse, Good Morning; from The Bug in Teacher’s Coffee and Other School Poems"
+resource_type: demonstration-text
 ---
 
 # School poems
