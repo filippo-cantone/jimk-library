@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 collection: "The Company of Crows"
 resource_type: demonstration-text
+traits: [inferring]
+genre: poetry
 ---
 
 # The Poet

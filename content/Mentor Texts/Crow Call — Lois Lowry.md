@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+genre: memoir
+traits: [inferring, organisation-sensory-details]
 ---
 
 # Crow Call

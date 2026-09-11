@@ -7,6 +7,8 @@ reviewed: "2026-09-10"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [organisation-leads, organisation-sequence, style-fluency, questioning, summarising, synthesising]
+genre: picture-book
 ---
 
 # The Very Hungry Caterpillar — Eric Carle

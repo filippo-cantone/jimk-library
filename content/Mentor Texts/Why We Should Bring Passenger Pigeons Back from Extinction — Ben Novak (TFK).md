@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "TIME for Kids article"
 resource_type: demonstration-text
+traits: [inferring]
+genre: persuasive
 ---
 
 # Why We Should Bring Passenger Pigeons Back from Extinction

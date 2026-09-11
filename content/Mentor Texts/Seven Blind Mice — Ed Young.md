@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [focus-idea-development, organisation-show-not-tell, inferring]
+genre: fable
 ---
 
 # Seven Blind Mice

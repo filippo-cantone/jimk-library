@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [organisation-tension-conflict, style-alliteration, style-onomatopoeia, style-voice, questioning]
+genre: picture-book
 ---
 
 # We’re Going on a Bear Hunt

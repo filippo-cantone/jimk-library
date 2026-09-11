@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "As told in The Phantom Tollbooth"
 resource_type: demonstration-text
+genre: fantasy
+traits: [style-word-choice, organisation-character]
 ---
 
 # The Odious Ogre

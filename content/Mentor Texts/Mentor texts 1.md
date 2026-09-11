@@ -8,6 +8,7 @@ tags: [jim-k]
 reviewed: "2026-09-10"
 strand: mentor-texts
 resource_type: guide
+year: ["P", "1", "2"]
 ---
 
 

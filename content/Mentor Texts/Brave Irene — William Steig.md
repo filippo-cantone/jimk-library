@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [organisation-character-development, organisation-character-traits, organisation-tension-conflict, style-voice, style-word-choice, inferring, questioning]
+genre: realistic-fiction
 ---
 
 # Brave Irene

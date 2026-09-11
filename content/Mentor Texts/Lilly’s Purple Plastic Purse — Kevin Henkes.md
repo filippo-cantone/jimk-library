@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [focus-idea-development, organisation-character-development, organisation-compare-contrast-same-author, organisation-dialogue, organisation-objects, style-alliteration, style-onomatopoeia, style-repetition, style-voice]
+genre: realistic-fiction
 ---
 
 # Lilly’s Purple Plastic Purse

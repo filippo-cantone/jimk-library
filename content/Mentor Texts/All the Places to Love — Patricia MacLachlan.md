@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+genre: memoir
+traits: [focus-idea-development, organisation-leads, organisation-setting, style-fluency, style-hyperbole, style-simile-metaphor, style-word-choice]
 ---
 
 # All the Places to Love — Patricia MacLachlan

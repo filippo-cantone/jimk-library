@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [conventions-ellipses, style-fluency, style-onomatopoeia, style-personification]
+genre: realistic-fiction
 ---
 
 # Night Noises — Mem Fox

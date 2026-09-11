@@ -9,6 +9,8 @@ tags: [jim-k, reviewed]
 strand: genres
 reviewed: "2026-09-10"
 resource_type: guide
+genre: procedural
+year: ["P", "1", "2"]
 ---
 
 # Procedural Texts - Early Years

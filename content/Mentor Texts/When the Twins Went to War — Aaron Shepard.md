@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "A fable of Far East Russia"
 resource_type: demonstration-text
+genre: fable
+traits: [focus-idea-development, organisation-character]
 ---
 
 # When the Twins Went to War

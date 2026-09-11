@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "TIME article on ivory"
 resource_type: demonstration-text
+genre: journalistic
+traits: [inferring, determining-important-ideas]
 ---
 
 # The Trouble with Tusks

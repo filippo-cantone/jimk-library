@@ -7,6 +7,8 @@ reviewed: "2026-09-10"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [conventions-ellipses, conventions-italics, organisation-leads, organisation-sensory-details, organisation-setting, organisation-time, style-close-echo, style-items-in-a-series, style-repetition, style-word-choice, visualising]
+genre: picture-book
 ---
 
 # Night in the Country — Cynthia Rylant

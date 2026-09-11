@@ -7,6 +7,7 @@ tags: [jim-k]
 reviewed: "2026-09-10"
 strand: author-studies
 resource_type: guide
+year: ["P", "1", "2"]
 ---
 
 <img src="assets/Rosemary Wells/media/image1.jpeg" />

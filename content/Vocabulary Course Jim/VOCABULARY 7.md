@@ -7,6 +7,7 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
 strand: vocabulary
 resource_type: guide
+year: ["P", "1", "2", "3", "4", "5", "6"]
 ---
 
 <img src="assets/VOCABULARY 7/media/image1.jpeg" />

@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "Book summary plus Sage's full A-Z sentences sequence"
 resource_type: demonstration-text
+traits: [organisation-leads, style-alliteration, style-word-choice]
+genre: realistic-fiction
 ---
 
 # Miss Alaineus

@@ -7,6 +7,7 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
 strand: reading
 resource_type: guide
+year: ["P"]
 ---
 
 > <img src="assets/INQUIRY BASED APPROACH/media/image1.jpeg"

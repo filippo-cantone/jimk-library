@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "Author heading as printed in pack"
 resource_type: demonstration-text
+traits: [inferring]
+genre: poetry
 ---
 
 # This Place

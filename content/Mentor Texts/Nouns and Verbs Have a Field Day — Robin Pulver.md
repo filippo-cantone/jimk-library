@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+genre: picture-book
+traits: [conventions-grammar, style-word-choice]
 ---
 
 # Nouns and Verbs Have a Field Day

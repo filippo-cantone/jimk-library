@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+genre: information-report
+traits: [organisation-setting, determining-important-ideas]
 ---
 
 # The Gift of the Tree — Alvin Tresselt

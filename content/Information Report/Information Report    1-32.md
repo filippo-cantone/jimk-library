@@ -6,6 +6,7 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
 strand: genres
 resource_type: guide
+genre: information-report
 ---
 
 # Information Report

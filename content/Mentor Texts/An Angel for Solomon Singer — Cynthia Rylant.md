@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [conventions-parentheses, focus-idea-development, focus-using-details, organisation-anecdotes, organisation-character-development, organisation-exploding-a-moment, organisation-leads, style-simile-metaphor, style-voice, style-word-choice, inferring, questioning, synthesising]
+genre: picture-book
 ---
 
 # An Angel for Solomon Singer — Cynthia Rylant

@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [conventions-colons, conventions-ellipses, conventions-general, style-items-in-a-series, style-repetition, style-simile-metaphor, style-word-choice]
+genre: picture-book
 ---
 
 # Scarecrow — Cynthia Rylant

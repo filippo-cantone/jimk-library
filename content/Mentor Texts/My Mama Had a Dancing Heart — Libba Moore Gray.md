@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [organisation-anecdotes, organisation-character-relationships, organisation-endings, organisation-exploding-a-moment, organisation-leads, style-fluency, style-striking-adjectives, style-voice, style-word-choice]
+genre: memoir
 ---
 
 # My Mama Had a Dancing Heart — Libba Moore Gray

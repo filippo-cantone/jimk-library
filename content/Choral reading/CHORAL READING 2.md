@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
 strand: reading
 resource_type: demonstration-text
+genre: poetry
+traits: [style-voice, style-fluency]
 ---
 
 **CHORAL READING**

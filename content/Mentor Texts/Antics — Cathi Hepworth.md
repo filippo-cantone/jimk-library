@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "A-Z ant alphabet"
 resource_type: demonstration-text
+genre: poetry
+traits: [style-word-choice, style-fluency]
 ---
 
 # Antics

@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [focus-idea-development, organisation-exploding-a-moment, organisation-show-not-tell, style-simile-metaphor, style-word-choice]
+genre: realistic-fiction
 ---
 
 # Crab Moon — Ruth Horowitz

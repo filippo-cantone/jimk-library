@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [style-hyperbole, style-simile-metaphor, style-word-choice]
+genre: poetry
 ---
 
 # Under the Quilt of Night

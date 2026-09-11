@@ -9,6 +9,8 @@ tags: [jim-k, reviewed]
 strand: genres
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+genre: poetry
+traits: [questioning, style-word-choice, style-simile-metaphor]
 ---
 
 # Poetry - Part 4  (2 of 3)

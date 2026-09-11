@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+genre: poetry
+traits: [organisation-sensory-details, style-onomatopoeia]
 ---
 
 # Storm on the Desert — Carolyn Lesser

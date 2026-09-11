@@ -7,6 +7,8 @@ reviewed: "2026-09-10"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+genre: persuasive
+traits: [organisation-character-development, organisation-leads, organisation-setting, style-voice, visualising]
 ---
 
 # Charlotte's Web — barn description — E.B. White

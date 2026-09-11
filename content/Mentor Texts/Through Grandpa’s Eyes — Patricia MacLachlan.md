@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [organisation-character-development, organisation-character-relationships, organisation-character-traits, organisation-show-not-tell]
+genre: realistic-fiction
 ---
 
 # Through Grandpa’s Eyes

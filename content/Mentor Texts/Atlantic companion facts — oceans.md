@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "Nonfiction companion pages from Atlantic"
 resource_type: demonstration-text
+genre: information-report
+traits: [determining-important-ideas, style-word-choice]
 ---
 
 # Atlantic — companion ocean facts

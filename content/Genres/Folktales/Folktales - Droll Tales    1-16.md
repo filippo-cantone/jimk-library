@@ -9,6 +9,8 @@ tags: [jim-k, reviewed]
 strand: genres
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+genre: folktale
+traits: [organisation-dialogue, organisation-character, style-voice]
 ---
 
 # Folktales - Droll Tales

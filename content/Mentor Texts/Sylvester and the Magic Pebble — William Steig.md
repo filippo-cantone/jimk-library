@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [organisation-anecdotes, organisation-cause-effect, organisation-problem-solution, style-personification, questioning]
+genre: fantasy
 ---
 
 # Sylvester and the Magic Pebble — William Steig

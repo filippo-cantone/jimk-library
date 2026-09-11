@@ -7,6 +7,8 @@ reviewed: "2026-09-10"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [focus-idea-development, organisation-leads, organisation-organising-techniques, organisation-sensory-details, organisation-structure, style-word-choice, inferring, prior-knowledge, visualising]
+genre: memoir
 ---
 
 # Fireflies — Julie Brinckloe

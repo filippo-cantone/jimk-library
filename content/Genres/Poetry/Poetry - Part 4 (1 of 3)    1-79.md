@@ -9,6 +9,9 @@ tags: [jim-k, reviewed]
 strand: genres
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+genre: poetry
+traits: [focus-idea-development, organisation-sensory-details, style-word-choice, style-alliteration]
+year: ["3"]
 ---
 
 # Poetry - Part 4 (1 of 3)

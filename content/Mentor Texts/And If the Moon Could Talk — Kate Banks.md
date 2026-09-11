@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+genre: picture-book
+traits: [style-fluency, organisation-sensory-details, style-repetition]
 ---
 
 # And If the Moon Could Talk — Kate Banks

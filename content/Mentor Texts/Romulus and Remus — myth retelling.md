@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "Traditional myth retold in pack; no author credited"
 resource_type: demonstration-text
+genre: traditional-literature
+traits: [organisation-setting, organisation-character]
 ---
 
 # Romulus and Remus

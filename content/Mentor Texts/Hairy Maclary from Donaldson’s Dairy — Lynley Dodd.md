@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+genre: picture-book
+traits: [style-fluency, style-repetition, style-word-choice]
 ---
 
 # Hairy Maclary from Donaldson’s Dairy

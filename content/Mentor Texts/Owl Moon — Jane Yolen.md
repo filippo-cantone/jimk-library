@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+genre: memoir
+traits: [focus-idea-development, organisation-anecdotes, organisation-character-development, organisation-exploding-a-moment, organisation-leads, organisation-sensory-details, organisation-setting, organisation-show-not-tell, style-fluency, style-personification, style-simile-metaphor, style-voice, style-well-built-sentences, style-word-choice, inferring, visualising]
 ---
 
 # Owl Moon — Jane Yolen

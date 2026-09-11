@@ -7,6 +7,8 @@ reviewed: "2026-09-10"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+genre: biography
+traits: [organisation-character-development, organisation-character-traits, organisation-organising-techniques, organisation-structure, style-word-choice, synthesising]
 ---
 
 # My Great-Aunt Arizona — Gloria Houston

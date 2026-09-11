@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "Hitchiti Tribe tale retold"
 resource_type: demonstration-text
+genre: fable
+traits: [focus-idea-development, organisation-dialogue]
 ---
 
 # Heron and the Hummingbird

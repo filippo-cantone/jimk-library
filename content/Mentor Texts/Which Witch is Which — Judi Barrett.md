@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "Rhyming quiz text"
 resource_type: demonstration-text
+genre: poetry
+traits: [style-word-choice, style-fluency]
 ---
 
 # Which Witch is Which?

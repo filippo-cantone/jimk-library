@@ -7,6 +7,8 @@ tags: [jim-k]
 reviewed: "2026-09-10"
 strand: author-studies
 resource_type: demonstration-text
+genre: picture-book
+traits: [organisation-setting, organisation-character, style-voice]
 ---
 
 **Eve Bunting**

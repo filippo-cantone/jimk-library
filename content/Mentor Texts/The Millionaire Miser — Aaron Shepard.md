@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "A Buddhist fable (Jataka)"
 resource_type: demonstration-text
+genre: fable
+traits: [focus-idea-development, organisation-character]
 ---
 
 # The Millionaire Miser

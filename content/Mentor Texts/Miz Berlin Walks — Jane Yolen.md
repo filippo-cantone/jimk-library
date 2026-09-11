@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [conventions-colons, conventions-ellipses, conventions-general, organisation-endings, style-close-echo, style-repetition, style-striking-adjectives, style-striking-adverbs, style-word-choice]
+genre: memoir
 ---
 
 # Miz Berlin Walks — Jane Yolen

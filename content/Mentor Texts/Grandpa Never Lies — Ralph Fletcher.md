@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [organisation-character-development, organisation-endings, organisation-leads, organisation-organising-techniques, organisation-structure, style-fluency, style-voice]
+genre: realistic-fiction
 ---
 
 # Grandpa Never Lies

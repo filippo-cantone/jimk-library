@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 subtitle: "An Adventure in Comparing"
 resource_type: demonstration-text
+genre: picture-book
+traits: [conventions-grammar, style-word-choice]
 ---
 
 # Pig, Pigger, Piggest

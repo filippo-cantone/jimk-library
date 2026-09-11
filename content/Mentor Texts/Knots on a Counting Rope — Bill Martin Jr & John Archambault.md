@@ -7,6 +7,8 @@ reviewed: "2026-09-10"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+genre: memoir
+traits: [organisation-see-saw-pattern, organisation-sensory-details, style-voice, style-word-choice, questioning]
 ---
 
 # Knots on a Counting Rope — Bill Martin Jr and John Archambault

@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "Full verse play text, including cast list, prelude, acts and scenes"
 resource_type: demonstration-text
+genre: poetry
+traits: [style-word-choice, visualising]
 ---
 
 # The Sign of the Seahorse

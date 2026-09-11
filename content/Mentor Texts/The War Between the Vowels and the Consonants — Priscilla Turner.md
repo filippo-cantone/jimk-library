@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [organisation-problem-solution, organisation-setting, organisation-show-not-tell]
+genre: fantasy
 ---
 
 # The War Between the Vowels and the Consonants

@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+genre: autobiography
+traits: [focus-idea-development, organisation-anecdotes, organisation-endings, organisation-leads, organisation-show-not-tell, style-items-in-a-series, style-repetition, style-striking-adjectives, style-three-part-rhythm, style-voice, style-word-choice, inferring, prior-knowledge]
 ---
 
 # The Relatives Came — Cynthia Rylant

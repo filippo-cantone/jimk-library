@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [focus-idea-development, organisation-leads, organisation-organising-techniques, organisation-problem-solution, organisation-structure, prior-knowledge, visualising]
+genre: realistic-fiction
 ---
 
 # The Tenth Good Thing About Barney — Judith Viorst

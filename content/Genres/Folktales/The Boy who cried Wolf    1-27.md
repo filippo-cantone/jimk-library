@@ -9,6 +9,8 @@ tags: [jim-k, reviewed]
 strand: genres
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+genre: fable
+traits: [organisation-character, focus-idea-development, style-voice]
 ---
 
 # The Boy who cried Wolf

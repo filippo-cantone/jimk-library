@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "From You Hear Me?, ed. Betsy Franco"
 resource_type: demonstration-text
+genre: poetry
+traits: [style-voice, style-repetition]
 ---
 
 # Time Somebody Told Me

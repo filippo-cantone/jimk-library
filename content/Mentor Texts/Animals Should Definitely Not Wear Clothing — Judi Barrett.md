@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+genre: persuasive
+traits: [focus-idea-development, style-word-choice]
 ---
 
 # Animals Should Definitely Not Wear Clothing

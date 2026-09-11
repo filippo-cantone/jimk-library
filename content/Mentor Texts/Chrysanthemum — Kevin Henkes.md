@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [focus-idea-development, organisation-character-traits, organisation-compare-contrast-same-author, organisation-leads, style-voice, style-word-choice, inferring, prior-knowledge]
+genre: realistic-fiction
 ---
 
 # Chrysanthemum

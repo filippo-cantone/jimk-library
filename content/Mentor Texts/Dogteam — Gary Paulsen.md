@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [conventions-ellipses, conventions-general, organisation-leads, style-fluency, style-items-in-a-series, style-runaway-sentences]
+genre: poetry
 ---
 
 # Dogteam — Gary Paulsen

@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [conventions-ellipses, style-close-echo, style-fluency, style-word-choice, summarising]
+genre: information-report
 ---
 
 # The Whales — Cynthia Rylant

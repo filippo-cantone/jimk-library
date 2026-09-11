@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [organisation-cause-effect, style-onomatopoeia, inferring, questioning]
+genre: folktale
 ---
 
 # Why Mosquitoes Buzz in People’s Ears

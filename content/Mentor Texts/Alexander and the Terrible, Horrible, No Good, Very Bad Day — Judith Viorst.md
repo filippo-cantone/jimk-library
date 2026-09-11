@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [organisation-cause-effect, organisation-leads, style-fluency, style-voice, style-word-choice]
+genre: realistic-fiction
 ---
 
 # Alexander and the Terrible, Horrible, No Good, Very Bad Day — Judith Viorst

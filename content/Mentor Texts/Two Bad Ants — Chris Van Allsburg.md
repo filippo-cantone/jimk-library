@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [organisation-endings, organisation-leads, organisation-sensory-details, style-simile-metaphor, style-voice, inferring, questioning]
+genre: picture-book
 ---
 
 # Two Bad Ants

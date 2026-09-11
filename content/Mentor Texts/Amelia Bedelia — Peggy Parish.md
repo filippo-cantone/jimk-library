@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "First book in the series"
 resource_type: demonstration-text
+traits: [style-hyperbole]
+genre: picture-book
 ---
 
 # Amelia Bedelia

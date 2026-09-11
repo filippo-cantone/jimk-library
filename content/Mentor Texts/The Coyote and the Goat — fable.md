@@ -8,6 +8,8 @@ strand: mentor-texts
 reviewed: "2026-09-10"
 completeness-note: "likely full; scan OCR has character noise throughout"
 resource_type: demonstration-text
+genre: fable
+traits: [focus-idea-development, organisation-dialogue]
 ---
 
 # The Coyote and the Goat

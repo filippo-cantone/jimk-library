@@ -7,6 +7,8 @@ reviewed: "2026-09-10"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [organisation-leads, organisation-show-not-tell, style-voice, summarising]
+genre: picture-book
 ---
 
 # Stellaluna — Janell Cannon

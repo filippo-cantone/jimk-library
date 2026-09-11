@@ -7,6 +7,7 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed]
 strand: first-20-days
 resource_type: guide
+year: ["P", "1", "2", "3", "5", "6"]
 ---
 
 **The First**

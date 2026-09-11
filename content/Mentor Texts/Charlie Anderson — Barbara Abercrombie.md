@@ -7,6 +7,8 @@ reviewed: "2026-09-10"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [organisation-endings, organisation-leads, inferring, questioning, synthesising]
+genre: realistic-fiction
 ---
 
 # Charlie Anderson — Barbara Abercrombie

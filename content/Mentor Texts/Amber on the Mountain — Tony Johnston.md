@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [organisation-anecdotes, organisation-exploding-a-moment, organisation-leads, organisation-setting, style-fluency, style-hyperbole, style-simile-metaphor, style-voice, style-word-choice]
+genre: realistic-fiction
 ---
 
 # Amber on the Mountain

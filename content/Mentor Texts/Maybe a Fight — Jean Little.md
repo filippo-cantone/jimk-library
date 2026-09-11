@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "Kate and Emily story"
 resource_type: demonstration-text
+traits: [inferring]
+genre: realistic-fiction
 ---
 
 # Maybe a Fight

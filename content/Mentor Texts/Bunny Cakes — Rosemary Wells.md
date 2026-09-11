@@ -8,6 +8,8 @@ strand: mentor-texts
 reviewed: "2026-09-10"
 completeness-note: "likely full; ends with MILK-list resolution"
 resource_type: demonstration-text
+traits: [organisation-organising-techniques, organisation-structure, style-word-choice]
+genre: picture-book
 ---
 
 # Bunny Cakes

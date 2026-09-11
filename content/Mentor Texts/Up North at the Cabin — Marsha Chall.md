@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [focus-idea-development, organisation-sensory-details, organisation-setting, organisation-structure, style-simile-metaphor]
+genre: memoir
 ---
 
 # Up North at the Cabin — Marsha Chall

@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+genre: memoir
+traits: [focus-idea-development, organisation-endings, organisation-leads, organisation-organising-techniques, organisation-sequence, organisation-show-not-tell, organisation-structure, prior-knowledge]
 ---
 
 # Wilfred Gordon McDonald Partridge — Mem Fox

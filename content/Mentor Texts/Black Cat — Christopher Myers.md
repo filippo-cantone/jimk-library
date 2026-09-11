@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "Pack prints the poem twice: clean copy, then worksheet version with fill-in blanks; both kept"
 resource_type: demonstration-text
+traits: [questioning]
+genre: poetry
 ---
 
 # Black Cat

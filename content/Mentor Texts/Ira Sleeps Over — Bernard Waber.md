@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [focus-idea-development, organisation-cause-effect, organisation-character-development, organisation-tension-conflict, prior-knowledge]
+genre: realistic-fiction
 ---
 
 # Ira Sleeps Over — Bernard Waber

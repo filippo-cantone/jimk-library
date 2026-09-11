@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+genre: picture-book
+traits: [style-fluency, style-repetition, organisation-dialogue]
 ---
 
 # Mr McGee and the Perfect Nest

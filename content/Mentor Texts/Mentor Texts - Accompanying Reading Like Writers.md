@@ -9,6 +9,8 @@ tags: [jim-k]
 reviewed: "2026-09-10"
 strand: mentor-texts
 resource_type: demonstration-text
+genre: explanation
+traits: [think-aloud, note-making]
 ---
 
 # Mentor Texts  -  Accompanying Reading Like Writers (2) -

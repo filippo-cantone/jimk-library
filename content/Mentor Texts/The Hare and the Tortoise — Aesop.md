@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "Retold; scan OCR has minor character noise"
 resource_type: demonstration-text
+genre: fable
+traits: [focus-idea-development, style-repetition]
 ---
 
 # The Hare and the Tortoise

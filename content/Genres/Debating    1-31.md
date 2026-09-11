@@ -9,6 +9,8 @@ tags: [jim-k, reviewed]
 strand: genres
 reviewed: "2026-09-10"
 resource_type: guide
+genre: debating
+year: ["P", "1", "2", "3", "4", "5", "6"]
 ---
 
 # Debating

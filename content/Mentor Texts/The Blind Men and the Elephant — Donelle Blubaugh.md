@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "Retelling from India"
 resource_type: demonstration-text
+traits: [inferring]
+genre: folktale
 ---
 
 # The Blind Men and the Elephant

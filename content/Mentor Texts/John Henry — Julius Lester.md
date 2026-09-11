@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [organisation-anecdotes, organisation-endings, organisation-exploding-a-moment, style-fluency, style-hyperbole, style-onomatopoeia, style-personification, style-word-choice]
+genre: folktale
 ---
 
 # John Henry — Julius Lester

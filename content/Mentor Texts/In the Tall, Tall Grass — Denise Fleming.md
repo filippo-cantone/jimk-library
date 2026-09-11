@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [style-alliteration, inferring]
+genre: poetry
 ---
 
 # In the Tall, Tall Grass

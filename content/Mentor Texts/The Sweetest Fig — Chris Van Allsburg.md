@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [organisation-character-development, organisation-endings, organisation-organising-techniques, organisation-structure, inferring, questioning]
+genre: fantasy
 ---
 
 # The Sweetest Fig

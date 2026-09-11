@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [organisation-anecdotes, organisation-exploding-a-moment, organisation-setting, style-voice, determining-important-ideas-themes, inferring]
+genre: historical-fiction
 ---
 
 # Encounter — Jane Yolen

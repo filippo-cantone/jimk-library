@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [conventions-ellipses, organisation-sensory-details, style-fluency, visualising]
+genre: poetry
 ---
 
 # Dream Weaver

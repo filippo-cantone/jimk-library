@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "Vignette from The House on Mango Street"
 resource_type: demonstration-text
+traits: [inferring, questioning]
+genre: memoir
 ---
 
 # My Name

@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [organisation-character-development, organisation-leads, style-word-choice]
+genre: poetry
 ---
 
 # The Remarkable Farkle McBride

@@ -8,6 +8,8 @@ strand: reading
 reviewed: "2026-09-10"
 note: "Story text; Spanish glossary stays in pack"
 resource_type: demonstration-text
+genre: realistic-fiction
+traits: [organisation-character, style-word-choice]
 ---
 
 # Mice and Beans

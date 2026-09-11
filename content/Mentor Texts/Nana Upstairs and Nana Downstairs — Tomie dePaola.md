@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+genre: memoir
+traits: [organisation-character, organisation-endings]
 ---
 
 # Nana Upstairs and Nana Downstairs — Tomie dePaola

@@ -7,6 +7,7 @@ reviewed: "2026-09-10"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [organisation-anecdotes, inferring, questioning]
 ---
 
 # The Old Woman Who Named Things — Cynthia Rylant

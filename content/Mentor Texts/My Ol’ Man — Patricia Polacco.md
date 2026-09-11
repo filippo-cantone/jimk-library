@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [organisation-anecdotes, organisation-exploding-a-moment, organisation-leads, style-hyperbole, style-personification, style-word-choice]
+genre: memoir
 ---
 
 # My Ol’ Man

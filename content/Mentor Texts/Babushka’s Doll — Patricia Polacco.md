@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [focus-idea-development, organisation-compare-contrast-same-author, organisation-leads, inferring]
+genre: fantasy
 ---
 
 # Babushka’s Doll

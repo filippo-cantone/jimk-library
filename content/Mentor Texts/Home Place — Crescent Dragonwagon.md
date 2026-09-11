@@ -7,6 +7,8 @@ reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+genre: memoir
+traits: [organisation-anecdotes, organisation-exploding-a-moment, organisation-setting, organisation-time, style-word-choice, determining-important-ideas-themes]
 ---
 
 # Home Place — Crescent Dragonwagon

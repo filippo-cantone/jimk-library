@@ -9,6 +9,8 @@ tags: [jim-k]
 reviewed: "2026-09-10"
 strand: mentor-texts
 resource_type: demonstration-text
+genre: biography
+traits: [organisation-character, inferring]
 ---
 
 # Author Study - Patricia Polacco

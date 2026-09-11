@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+genre: realistic-fiction
+traits: [organisation-dialogue, style-word-choice, style-alliteration]
 ---
 
 # Detective Web (Cock-a-doodle-doo)

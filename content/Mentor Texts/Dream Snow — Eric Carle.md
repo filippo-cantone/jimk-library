@@ -7,6 +7,8 @@ reviewed: "2026-09-10"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts
 resource_type: demonstration-text
+traits: [summarising, synthesising]
+genre: picture-book
 ---
 
 # Dream Snow — Eric Carle

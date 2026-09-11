@@ -7,6 +7,8 @@ tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
 resource_type: demonstration-text
+traits: [conventions-ellipses, organisation-character-traits, style-alliteration, style-onomatopoeia, style-voice, style-word-choice, inferring, questioning]
+genre: fantasy
 ---
 
 # Piggie Pie!
