@@ -2,7 +2,7 @@
 title: "Barefoot — Pamela Duncan Edwards"
 author: "Pamela Duncan Edwards"
 source: "Lifted from the Choral Reading pack (Jim K archive); text as found there"
-completeness: "likely"
+completeness: "confirmed"
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts

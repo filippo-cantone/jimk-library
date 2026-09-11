@@ -2,7 +2,7 @@
 title: "The Coyote and the Goat"
 author: "Unknown"
 source: "Genres/Folktales/Folktales - Fables 1-23 (Jim K pack)"
-completeness: likely
+completeness: confirmed
 tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"

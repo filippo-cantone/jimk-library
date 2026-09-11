@@ -2,7 +2,7 @@
 title: "Zipping, Zapping, Zooming Bats — Ann Earle"
 author: "Ann Earle"
 source: "Lifted from Determining Importance pack (Jim K archive); text as found there"
-completeness: "likely"
+completeness: "confirmed"
 reviewed: "2026-09-09"
 tags: [jim-k, reviewed, mentor-text]
 strand: mentor-texts

@@ -2,7 +2,7 @@
 title: "Bunny Cakes"
 author: "Rosemary Wells"
 source: "Vocabulary Course Jim/VOCABULARY 4 (Jim K pack)"
-completeness: likely
+completeness: confirmed
 tags: [jim-k, mentor-text, reviewed]
 strand: reading
 reviewed: "2026-09-10"
