@@ -5,12 +5,12 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 **Author Studies**
 
-<img src="assets/Author Studies/media/image1.jpeg"
-style="width:4.08681in;height:4.09236in" />
+<img src="assets/Author Studies/media/image1.jpeg" />
 
 **Author Studies**
 

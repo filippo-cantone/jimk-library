@@ -6,7 +6,8 @@ conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
 
 tags: [jim-k]
-review_status: "flagged pages manually reviewed and corrected"
+reviewed: "2026-09-10"
+strand: reading
 ---
 
 # Nursery Rhymes
@@ -208,9 +209,9 @@ sheep?
 He's under the haystack fast asleep.
 Will you wake him? No, not I!
 For if I do, he'll be sure to cry.
-
+ 
 ---
-
+ 
 <!-- page 16 -->
 
 The Child and the Star

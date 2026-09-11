@@ -1777,6 +1777,7 @@ three.
 Moral: Let sleeping princesses lie or lying princesses sleep,
 whichever seems wisest.
 
+strand: reading
 ---
 
 <!-- page 41 -->

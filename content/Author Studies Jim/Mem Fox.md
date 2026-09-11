@@ -5,6 +5,7 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 **Mem Fox**
@@ -438,8 +439,7 @@ You might show them this cluster, discussing how Mem Fox's book is
 mostly inspired by these six adjectives; discuss how she chose (word
 choice!) six interesting adjectives that all mean different things.
 
-<img src="assets/Mem Fox/media/image1.jpeg"
-style="width:4.68889in;height:2.90694in" />
+<img src="assets/Mem Fox/media/image1.jpeg" />
 
 Make three columns on your whiteboard or chalkboard or on chart paper,
 labelling them *adjective*, *character*, and *phrase*. Write four or
@@ -471,8 +471,7 @@ example, *an angry pirate scratching his head* is an acceptable choice
 of a unique character because different rows are represented in the
 choice.
 
-<img src="assets/Mem Fox/media/image2.jpeg"
-style="width:2.93681in;height:1.9375in" />
+<img src="assets/Mem Fox/media/image2.jpeg" />
 
 Have students create a page in their notebooks or journals for this
 lesson.

@@ -5,10 +5,10 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
-<img src="assets/EZRA JACK KEATS/media/image1.jpeg"
-style="width:2.92361in;height:2.92361in" />
+<img src="assets/EZRA JACK KEATS/media/image1.jpeg" />
 
 Ezra Jack Keats
 
@@ -72,8 +72,7 @@ Chronological List of books Published
 
 EZRA JACK KEATS
 
-<img src="assets/EZRA JACK KEATS/media/image2.jpeg"
-style="width:3.425in;height:3.3625in" />
+<img src="assets/EZRA JACK KEATS/media/image2.jpeg" />
 
 Ezra Jack Keats was born in 1916 to impoverished Polish immigrants
 
@@ -160,60 +159,43 @@ illustrated The Giant Turnip, a beloved folktale. Although Keats never
 married or had a family of his own, he loved children, and he was loved
 by them in return.
 
-<img src="assets/EZRA JACK KEATS/media/image3.jpeg"
-style="width:4.05069in;height:2.73889in" />
+<img src="assets/EZRA JACK KEATS/media/image3.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image4.jpeg"
-style="width:1.77083in;height:2.40625in" />
+<img src="assets/EZRA JACK KEATS/media/image4.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image5.jpeg"
-style="width:1.78194in;height:2.60347in" />
+<img src="assets/EZRA JACK KEATS/media/image5.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image6.jpeg"
-style="width:2.39653in;height:2.27986in" />
+<img src="assets/EZRA JACK KEATS/media/image6.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image7.jpeg"
-style="width:2.425in;height:2.425in" />
+<img src="assets/EZRA JACK KEATS/media/image7.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image8.jpeg"
-style="width:2.88542in;height:3.35347in" />
+<img src="assets/EZRA JACK KEATS/media/image8.jpeg" />
 
 **Character Study PETER**
 
-<img src="assets/EZRA JACK KEATS/media/image9.jpeg"
-style="width:2.40833in;height:3.29097in" />
+<img src="assets/EZRA JACK KEATS/media/image9.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image10.jpeg"
-style="width:3.24236in;height:3.375in" />
+<img src="assets/EZRA JACK KEATS/media/image10.jpeg" />
 
 **Chronological order of books about Peter**
 
-<img src="assets/EZRA JACK KEATS/media/image11.jpeg"
-style="width:1.74861in;height:1.56597in" />
+<img src="assets/EZRA JACK KEATS/media/image11.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image12.jpeg"
-style="width:1.75in;height:1.43333in" />
+<img src="assets/EZRA JACK KEATS/media/image12.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image13.jpeg"
-style="width:1.75in;height:1.65486in" />
+<img src="assets/EZRA JACK KEATS/media/image13.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image14.jpeg"
-style="width:1.75in;height:1.61875in" />
+<img src="assets/EZRA JACK KEATS/media/image14.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image15.jpeg"
-style="width:1.875in;height:1.71667in" />
+<img src="assets/EZRA JACK KEATS/media/image15.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image16.jpeg"
-style="width:1.87569in;height:1.67778in" />
+<img src="assets/EZRA JACK KEATS/media/image16.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image17.jpeg"
-style="width:1.875in;height:1.67361in" />
+<img src="assets/EZRA JACK KEATS/media/image17.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image18.jpeg"
-style="width:2.75069in;height:2.61875in" />
+<img src="assets/EZRA JACK KEATS/media/image18.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image19.jpeg"
-style="width:4.875in;height:3.65694in" />
+<img src="assets/EZRA JACK KEATS/media/image19.jpeg" />
 
 **Peter and Willie** Prospect Park, Brooklyn, New York
 
@@ -228,13 +210,11 @@ capital project that affords children an interactive spot to read books
 and to hear or act out stories. The sculpture was unveiled at the
 playground’s grand opening in June 1997.
 
-<img src="assets/EZRA JACK KEATS/media/image20.jpeg"
-style="width:2.69792in;height:2.02083in" />
+<img src="assets/EZRA JACK KEATS/media/image20.jpeg" />
 
 **The Snowy Day**
 
-<img src="assets/EZRA JACK KEATS/media/image11.jpeg"
-style="width:2.46875in;height:2.20764in" />
+<img src="assets/EZRA JACK KEATS/media/image11.jpeg" />
 
 Peter enjoys exploring his snow-covered neighbourhood in this classic
 Caldecott Medal–winning book. No book has captured the magic and sense
@@ -242,11 +222,9 @@ of possibility of the first snowfall better than The Snowy Day. This
 story reveals a child’s wonder at a new world, and the hope of capturing
 and keeping that wonder forever.
 
-<img src="assets/EZRA JACK KEATS/media/image21.jpeg"
-style="width:2.16597in;height:2.49861in" />
+<img src="assets/EZRA JACK KEATS/media/image21.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image22.jpeg"
-style="width:5.42639in;height:2.50069in" />
+<img src="assets/EZRA JACK KEATS/media/image22.jpeg" />
 
 Notice the use of mixed media and collage, specifically the unexpected
 patterns and use of blocks of colour together. I read once where Keats
@@ -274,8 +252,7 @@ piled up very high along the street to make a path for walking. Crunch,
 crunch, crunch, his feet sank into the snow. He walked with his toes
 pointing out, like this: He walked with his toes pointing in, like that:
 
-<img src="assets/EZRA JACK KEATS/media/image23.jpeg"
-style="width:3.6875in;height:1.47917in" />
+<img src="assets/EZRA JACK KEATS/media/image23.jpeg" />
 
 Then he dragged his feet s-l-o-w-l-y to make tracks.
 
@@ -386,8 +363,7 @@ would*
 
 *be the hero of my book."*
 
-<img src="assets/EZRA JACK KEATS/media/image24.jpeg"
-style="width:2.15694in;height:4.91667in" />
+<img src="assets/EZRA JACK KEATS/media/image24.jpeg" />
 
 In 1940, Life magazine published a short photo essay focused on a little
 boy in Liberty County, Ga., who was about to undergo a blood test. Keats
@@ -396,61 +372,44 @@ photographs out of the magazine. That little boy was the inspiration for
 Keats' character Peter, the African-American protagonist of The Snowy
 Day and six books that followed.
 
-<img src="assets/EZRA JACK KEATS/media/image25.jpeg"
-style="width:6.5in;height:2.05208in" />
+<img src="assets/EZRA JACK KEATS/media/image25.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image26.jpeg"
-style="width:4.02153in;height:5.20972in" />
+<img src="assets/EZRA JACK KEATS/media/image26.jpeg" />
 
 The typescript is the text of the story which may be revised many times
 by the author and editor.
 
 **Poetry … from My Window**
 
-<img src="assets/EZRA JACK KEATS/media/image27.jpeg"
-style="width:5.20833in;height:4.52083in" />
+<img src="assets/EZRA JACK KEATS/media/image27.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image27.jpeg"
-style="width:3in;height:2.60347in" />
+<img src="assets/EZRA JACK KEATS/media/image27.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image28.jpeg"
-style="width:3in;height:2.85in" />
+<img src="assets/EZRA JACK KEATS/media/image28.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image29.jpeg"
-style="width:3in;height:2.73889in" />
+<img src="assets/EZRA JACK KEATS/media/image29.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image30.jpeg"
-style="width:3.25in;height:3.05903in" />
+<img src="assets/EZRA JACK KEATS/media/image30.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image31.jpeg"
-style="width:3.3in;height:3.375in" />
+<img src="assets/EZRA JACK KEATS/media/image31.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image32.jpeg"
-style="width:3.24861in;height:3.05694in" />
+<img src="assets/EZRA JACK KEATS/media/image32.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image33.jpeg"
-style="width:3.25in;height:3.25in" />
+<img src="assets/EZRA JACK KEATS/media/image33.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image34.jpeg"
-style="width:6.25in;height:3.16667in" />
+<img src="assets/EZRA JACK KEATS/media/image34.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image35.jpeg"
-style="width:6.14583in;height:3.04167in" />
+<img src="assets/EZRA JACK KEATS/media/image35.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image36.jpeg"
-style="width:4.00069in;height:2.54653in" />
+<img src="assets/EZRA JACK KEATS/media/image36.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image37.jpeg"
-style="width:3.44514in;height:3.62569in" />
+<img src="assets/EZRA JACK KEATS/media/image37.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image38.jpeg"
-style="width:2.73542in;height:3in" />
+<img src="assets/EZRA JACK KEATS/media/image38.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image39.jpeg"
-style="width:4.37361in;height:2.15694in" />
+<img src="assets/EZRA JACK KEATS/media/image39.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image40.jpeg"
-style="width:4.125in;height:2.95486in" />
+<img src="assets/EZRA JACK KEATS/media/image40.jpeg" />
 
 **Whistle for Willie**
 
@@ -458,8 +417,7 @@ Peter yearns to be able to whistle so that he can summon his dog,
 Willie, when they play together outside. He practises and practises
 until he can whistle for real.
 
-<img src="assets/EZRA JACK KEATS/media/image12.jpeg"
-style="width:2.925in;height:2.39236in" />
+<img src="assets/EZRA JACK KEATS/media/image12.jpeg" />
 
 This is the first appearance of Willie, Peter's dachshund. Keats felt
 that the choice of a dachshund was a fortunate one, because years later
@@ -470,11 +428,9 @@ This ALA Notable Children's Book was created using Keats' familiar cut
 paper collage. The resulting cheerful illustrations are full of
 excitement and movement.
 
-<img src="assets/EZRA JACK KEATS/media/image41.png"
-style="width:3.24792in;height:2.73403in" />
+<img src="assets/EZRA JACK KEATS/media/image41.png" />
 
-<img src="assets/EZRA JACK KEATS/media/image42.jpeg"
-style="width:5.20764in;height:4.34375in" />
+<img src="assets/EZRA JACK KEATS/media/image42.jpeg" />
 
 **Prediction**
 
@@ -592,14 +548,11 @@ faster.</em></p>
 
 **Transcript - Version 3**
 
-<img src="assets/EZRA JACK KEATS/media/image43.png"
-style="width:4.95417in;height:6.40694in" />
+<img src="assets/EZRA JACK KEATS/media/image43.png" />
 
-<img src="assets/EZRA JACK KEATS/media/image44.png"
-style="width:4.87153in;height:6.3in" />
+<img src="assets/EZRA JACK KEATS/media/image44.png" />
 
-<img src="assets/EZRA JACK KEATS/media/image45.png"
-style="width:4.87153in;height:6.3in" />
+<img src="assets/EZRA JACK KEATS/media/image45.png" />
 
 Writing:
 
@@ -611,14 +564,11 @@ How much practice did it take?
 
 Who taught you?
 
-<img src="assets/EZRA JACK KEATS/media/image46.jpeg"
-style="width:4.54167in;height:2.05764in" />
+<img src="assets/EZRA JACK KEATS/media/image46.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image47.jpeg"
-style="width:2.52083in;height:2.69792in" />
+<img src="assets/EZRA JACK KEATS/media/image47.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image48.jpeg"
-style="width:2.14444in;height:2.86458in" />
+<img src="assets/EZRA JACK KEATS/media/image48.jpeg" />
 
 **Peter’s Chair**
 
@@ -632,11 +582,9 @@ Susie.
 Students share some of their own stories about their siblings and
 adjusting to the arrival of a new baby.
 
-<img src="assets/EZRA JACK KEATS/media/image13.jpeg"
-style="width:2.55208in;height:2.42083in" />
+<img src="assets/EZRA JACK KEATS/media/image13.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image49.jpeg"
-style="width:2.41667in;height:2.26042in" />
+<img src="assets/EZRA JACK KEATS/media/image49.jpeg" />
 
 **Peter’s Chair Ezra Jack Keats**
 
@@ -750,16 +698,13 @@ building was finished.</em></p>
 
 **Dummy**
 
-<img src="assets/EZRA JACK KEATS/media/image50.png"
-style="width:4.5in;height:4.06458in" />
+<img src="assets/EZRA JACK KEATS/media/image50.png" />
 
 **Original illustration**
 
-<img src="assets/EZRA JACK KEATS/media/image51.jpeg"
-style="width:3.31458in;height:3.49861in" />
+<img src="assets/EZRA JACK KEATS/media/image51.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image52.jpeg"
-style="width:3.75in;height:4.41667in" />
+<img src="assets/EZRA JACK KEATS/media/image52.jpeg" />
 
 **Text-to-Text Connection**
 
@@ -791,16 +736,13 @@ plans into a tailspin. Will Amy get the letter in time? This story’s
 themes of communication and friendship are sure to resonate with boys
 and girls alike.
 
-<img src="assets/EZRA JACK KEATS/media/image14.jpeg"
-style="width:2.08333in;height:1.92708in" />
+<img src="assets/EZRA JACK KEATS/media/image14.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image53.jpeg"
-style="width:3.26042in;height:1.36458in" />
+<img src="assets/EZRA JACK KEATS/media/image53.jpeg" />
 
 Early sketch to finished page, from A Letter to Amy
 
-<img src="assets/EZRA JACK KEATS/media/image54.jpeg"
-style="width:2.76042in;height:3.125in" />
+<img src="assets/EZRA JACK KEATS/media/image54.jpeg" />
 
 **Inferences**
 
@@ -810,8 +752,7 @@ style="width:2.76042in;height:3.125in" />
   and contrast the different solutions that the students give to the
   solution that Ezra selected.
 
-<img src="assets/EZRA JACK KEATS/media/image55.jpeg"
-style="width:2.87083in;height:2.65625in" />
+<img src="assets/EZRA JACK KEATS/media/image55.jpeg" />
 
 **A Letter to Amy Ezra Jack Keats**
 
@@ -914,11 +855,9 @@ shouted</em></p>
 </tbody>
 </table>
 
-<img src="assets/EZRA JACK KEATS/media/image56.jpeg"
-style="width:3.01111in;height:2.43819in" />
+<img src="assets/EZRA JACK KEATS/media/image56.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image57.jpeg"
-style="width:2.38542in;height:3.07361in" />
+<img src="assets/EZRA JACK KEATS/media/image57.jpeg" />
 
 These photographs were taken by Ezra Jack Keats and used as models for
 his art in the book. Find the art in the book.
@@ -929,61 +868,45 @@ colours, simple shapes, and varied textures in his illustrations. He
 often combined patterned papers and cloths with paints to make striking
 illustrations.
 
-<img src="assets/EZRA JACK KEATS/media/image58.jpeg"
-style="width:4.03194in;height:3.92778in" />
+<img src="assets/EZRA JACK KEATS/media/image58.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image59.jpeg"
-style="width:4.45764in;height:3.57847in" />
+<img src="assets/EZRA JACK KEATS/media/image59.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image60.jpeg"
-style="width:4.30278in;height:3.92778in" />
+<img src="assets/EZRA JACK KEATS/media/image60.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image61.jpeg"
-style="width:4.37431in;height:3.78889in" />
+<img src="assets/EZRA JACK KEATS/media/image61.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image62.jpeg"
-style="width:4.37569in;height:3.92778in" />
+<img src="assets/EZRA JACK KEATS/media/image62.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image63.jpeg"
-style="width:5.57361in;height:4.71944in" />
+<img src="assets/EZRA JACK KEATS/media/image63.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image64.jpeg"
-style="width:4.99931in;height:4.60278in" />
+<img src="assets/EZRA JACK KEATS/media/image64.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image65.jpeg"
-style="width:5.00208in;height:4.14375in" />
+<img src="assets/EZRA JACK KEATS/media/image65.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image66.jpeg"
-style="width:4.50139in;height:4.03333in" />
+<img src="assets/EZRA JACK KEATS/media/image66.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image67.jpeg"
-style="width:4.49653in;height:3.81944in" />
+<img src="assets/EZRA JACK KEATS/media/image67.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image68.jpeg"
-style="width:4.62569in;height:4.29236in" />
+<img src="assets/EZRA JACK KEATS/media/image68.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image69.jpeg"
-style="width:4.62222in;height:3.85625in" />
+<img src="assets/EZRA JACK KEATS/media/image69.jpeg" />
 
 **Dummy** A dummy is a three-dimensional model of the book with the same
 number of pages as the printed book. (Crayon)
 
-<img src="assets/EZRA JACK KEATS/media/image70.jpeg"
-style="width:4.27153in;height:3.87569in" />
+<img src="assets/EZRA JACK KEATS/media/image70.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image71.jpeg"
-style="width:4.26111in;height:3.90625in" />
+<img src="assets/EZRA JACK KEATS/media/image71.jpeg" />
 
 **Typescript** The typescript is the text of the story which may be
 revised many times by the author and editor.
 
-<img src="assets/EZRA JACK KEATS/media/image72.png"
-style="width:4.71875in;height:5.70833in" />
+<img src="assets/EZRA JACK KEATS/media/image72.png" />
 
 **Goggles Ezra Jack Keats**
 
-<img src="assets/EZRA JACK KEATS/media/image73.jpeg"
-style="width:2.33333in;height:2.34375in" />
+<img src="assets/EZRA JACK KEATS/media/image73.jpeg" />
 
 Peter has found a rare treasure, a pair of beat-up motorcycle goggles.
 Who could have guessed that the neighbourhood gang of bullies would want
@@ -1124,29 +1047,24 @@ picture of your favourite place at home. Write about your picture.
 **Storyboard -** A storyboard shows all the pages of a book, greatly
 reduced on one sheet of paper**.**
 
-<img src="assets/EZRA JACK KEATS/media/image74.jpeg"
-style="width:3.12569in;height:3.18889in" />
+<img src="assets/EZRA JACK KEATS/media/image74.jpeg" />
 
 **Sketch**
 
-<img src="assets/EZRA JACK KEATS/media/image75.jpeg"
-style="width:5.20972in;height:3.08403in" />
+<img src="assets/EZRA JACK KEATS/media/image75.jpeg" />
 
 **Dummy -** A dummy is a three-dimensional model of the book with the
 same number of pages as the printed book**.**
 
-<img src="assets/EZRA JACK KEATS/media/image76.jpeg"
-style="width:4.68889in;height:3.93889in" />
+<img src="assets/EZRA JACK KEATS/media/image76.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image77.jpeg"
-style="width:4.16736in;height:3.80278in" />
+<img src="assets/EZRA JACK KEATS/media/image77.jpeg" />
 
 **Manuscript** The author writes a manuscript of the story, which is
 revised many times until it becomes a typescript**.** Pencil (3 pp.) 3
 pages of tracing paper with text written in pencil.
 
-<img src="assets/EZRA JACK KEATS/media/image78.jpeg"
-style="width:4.16667in;height:5.72986in" />
+<img src="assets/EZRA JACK KEATS/media/image78.jpeg" />
 
 **The typescript** is the text of the story which may be revised many
 times by the author and editor.
@@ -1154,13 +1072,11 @@ times by the author and editor.
 Typescript, (4 pp.) - early version of typescript with corrections in
 pencil and ink.
 
-<img src="assets/EZRA JACK KEATS/media/image79.jpeg"
-style="width:6.25139in;height:7.43958in" />
+<img src="assets/EZRA JACK KEATS/media/image79.jpeg" />
 
 **Typescript, (4 pp.) copy-edited**
 
-<img src="assets/EZRA JACK KEATS/media/image80.jpeg"
-style="width:6.25139in;height:8.42986in" />
+<img src="assets/EZRA JACK KEATS/media/image80.jpeg" />
 
 **The original illustrations** are finished works of art, ready to be
 reproduced into the printed book. Ezra Jack Keats liked to use bold
@@ -1168,24 +1084,20 @@ colours, simple shapes, and varied textures in his illustrations. He
 often combined patterned papers and cloths with paints to make striking
 illustrations.
 
-<img src="assets/EZRA JACK KEATS/media/image81.jpeg"
-style="width:5.86458in;height:4.68889in" />
+<img src="assets/EZRA JACK KEATS/media/image81.jpeg" />
 
 **Galley** When the text and images are one, the book is typed into
 galley proofs and printed on long narrow sheets before being cut into
 pages. The author and editor continue to make changes to the galleys as
 evidenced by various versions.
 
-<img src="assets/EZRA JACK KEATS/media/image82.jpeg"
-style="width:5.20972in;height:6.45in" />
+<img src="assets/EZRA JACK KEATS/media/image82.jpeg" />
 
 **Book**
 
-<img src="assets/EZRA JACK KEATS/media/image83.jpeg"
-style="width:4.07361in;height:3.75069in" />
+<img src="assets/EZRA JACK KEATS/media/image83.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image84.jpeg"
-style="width:4.16736in;height:3.81319in" />
+<img src="assets/EZRA JACK KEATS/media/image84.jpeg" />
 
 **Hi, CAT!**
 
@@ -1196,11 +1108,9 @@ to put on for the neighbourhood kids.
 Prediction: Infer what will happen to the little cat after it follows
 Archie home again. Will he adopt it?
 
-<img src="assets/EZRA JACK KEATS/media/image16.jpeg"
-style="width:2.29097in;height:2.05in" />
+<img src="assets/EZRA JACK KEATS/media/image16.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image85.jpeg"
-style="width:6.14653in;height:3.07153in" />
+<img src="assets/EZRA JACK KEATS/media/image85.jpeg" />
 
 **Hi Cat! Ezra Jack Keats**
 
@@ -1315,46 +1225,33 @@ me!”</em></p>
 
 **Storyboard**
 
-<img src="assets/EZRA JACK KEATS/media/image86.jpeg"
-style="width:3.74097in;height:6.04167in" />
+<img src="assets/EZRA JACK KEATS/media/image86.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image87.jpeg"
-style="width:3.54028in;height:6.01875in" />
+<img src="assets/EZRA JACK KEATS/media/image87.jpeg" />
 
 **Sketches and Original Illustrations**
 
-<img src="assets/EZRA JACK KEATS/media/image88.jpeg"
-style="width:4.5in;height:2.86458in" />
+<img src="assets/EZRA JACK KEATS/media/image88.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image89.jpeg"
-style="width:3.75in;height:4.5in" />
+<img src="assets/EZRA JACK KEATS/media/image89.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image90.jpeg"
-style="width:3.75in;height:4.28056in" />
+<img src="assets/EZRA JACK KEATS/media/image90.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image91.jpeg"
-style="width:3.90625in;height:3.95903in" />
+<img src="assets/EZRA JACK KEATS/media/image91.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image92.jpeg"
-style="width:3.75in;height:3.28125in" />
+<img src="assets/EZRA JACK KEATS/media/image92.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image93.jpeg"
-style="width:3.90625in;height:4.04236in" />
+<img src="assets/EZRA JACK KEATS/media/image93.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image94.jpeg"
-style="width:3.75in;height:3.95833in" />
+<img src="assets/EZRA JACK KEATS/media/image94.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image95.jpeg"
-style="width:3.90625in;height:4.26111in" />
+<img src="assets/EZRA JACK KEATS/media/image95.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image96.jpeg"
-style="width:3.75in;height:3.95833in" />
+<img src="assets/EZRA JACK KEATS/media/image96.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image97.jpeg"
-style="width:3.90486in;height:3.47778in" />
+<img src="assets/EZRA JACK KEATS/media/image97.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image98.jpeg"
-style="width:3.83472in;height:4.57431in" />
+<img src="assets/EZRA JACK KEATS/media/image98.jpeg" />
 
 **Pet Show**
 
@@ -1369,14 +1266,11 @@ What do you think of Archie’s entry?
 What would you have submitted as your pet if you had been in Archie’s
 shoes?
 
-<img src="assets/EZRA JACK KEATS/media/image17.jpeg"
-style="width:2.47778in;height:2.20764in" />
+<img src="assets/EZRA JACK KEATS/media/image17.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image99.jpeg"
-style="width:5.00069in;height:2.59444in" />
+<img src="assets/EZRA JACK KEATS/media/image99.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image100.jpeg"
-style="width:3.42569in;height:3.11389in" />
+<img src="assets/EZRA JACK KEATS/media/image100.jpeg" />
 
 **Questioning:**
 
@@ -1559,44 +1453,33 @@ you’re</em></p>
 
 **Storyboard**
 
-<img src="assets/EZRA JACK KEATS/media/image101.jpeg"
-style="width:3.08681in;height:4.15278in" />
+<img src="assets/EZRA JACK KEATS/media/image101.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image102.jpeg"
-style="width:3.10972in;height:3.86528in" />
+<img src="assets/EZRA JACK KEATS/media/image102.jpeg" />
 
 **Sketches**
 
-<img src="assets/EZRA JACK KEATS/media/image103.jpeg"
-style="width:5.62569in;height:3.92778in" />
+<img src="assets/EZRA JACK KEATS/media/image103.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image104.jpeg"
-style="width:5.69931in;height:3.40972in" />
+<img src="assets/EZRA JACK KEATS/media/image104.jpeg" />
 
 **Dummy**
 
-<img src="assets/EZRA JACK KEATS/media/image105.jpeg"
-style="width:3.87778in;height:3.27917in" />
+<img src="assets/EZRA JACK KEATS/media/image105.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image106.jpeg"
-style="width:4.43819in;height:3.87569in" />
+<img src="assets/EZRA JACK KEATS/media/image106.jpeg" />
 
 **Original illustrations**
 
-<img src="assets/EZRA JACK KEATS/media/image107.jpeg"
-style="width:5.00972in;height:3.92639in" />
+<img src="assets/EZRA JACK KEATS/media/image107.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image108.jpeg"
-style="width:6.45972in;height:3.92778in" />
+<img src="assets/EZRA JACK KEATS/media/image108.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image109.jpeg"
-style="width:4.34375in;height:3.92639in" />
+<img src="assets/EZRA JACK KEATS/media/image109.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image110.jpeg"
-style="width:4.43681in;height:3.92639in" />
+<img src="assets/EZRA JACK KEATS/media/image110.jpeg" />
 
-<img src="assets/EZRA JACK KEATS/media/image111.jpeg"
-style="width:6.45833in;height:3.92639in" />
+<img src="assets/EZRA JACK KEATS/media/image111.jpeg" />
 
 **Inferring I Wonder about Feelings**
 
@@ -1706,35 +1589,28 @@ ribbon?</p></td>
 
 **WRITER’S NOTEBOOK**
 
-<img src="assets/EZRA JACK KEATS/media/image11.jpeg"
-style="width:1.5in;height:1.3375in" /> Living in the snow My Snowman
+<img src="assets/EZRA JACK KEATS/media/image11.jpeg" /> Living in the snow My Snowman
 
 Footprints and angels Winter play
 
 The Sounds of Snow Snow Adventures
 
-<img src="assets/EZRA JACK KEATS/media/image12.jpeg"
-style="width:1.5in;height:1.23681in" /> Learning something new Learning
+<img src="assets/EZRA JACK KEATS/media/image12.jpeg" /> Learning something new Learning
 to Whistle
 
-<img src="assets/EZRA JACK KEATS/media/image13.jpeg"
-style="width:1.50208in;height:1.42431in" /> My baby sister/brother
+<img src="assets/EZRA JACK KEATS/media/image13.jpeg" /> My baby sister/brother
 Growing up
 
 Giving away favourite things Playing quietly
 
-<img src="assets/EZRA JACK KEATS/media/image14.jpeg"
-style="width:1.5in;height:1.3875in" /> Letter to a Friend My Birthday
+<img src="assets/EZRA JACK KEATS/media/image14.jpeg" /> Letter to a Friend My Birthday
 
-<img src="assets/EZRA JACK KEATS/media/image15.jpeg"
-style="width:1.49861in;height:1.37292in" /> Finding something exciting
+<img src="assets/EZRA JACK KEATS/media/image15.jpeg" /> Finding something exciting
 Bullies
 
 Pets to the rescue
 
-<img src="assets/EZRA JACK KEATS/media/image16.jpeg"
-style="width:1.50139in;height:1.34306in" /> A stray cat Make believe
+<img src="assets/EZRA JACK KEATS/media/image16.jpeg" /> A stray cat Make believe
 games
 
-<img src="assets/EZRA JACK KEATS/media/image17.jpeg"
-style="width:1.5in;height:1.34097in" /> A Pet Show My Pet
+<img src="assets/EZRA JACK KEATS/media/image17.jpeg" /> A Pet Show My Pet

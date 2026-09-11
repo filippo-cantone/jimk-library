@@ -5,12 +5,12 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 **Leo Lionni**
 
-<img src="assets/Leo Lionni/media/image1.jpeg"
-style="width:4.47917in;height:2.92708in" />
+<img src="assets/Leo Lionni/media/image1.jpeg" />
 
 **Leo Lionni Author Study**
 
@@ -34,11 +34,7 @@ writing craft each book provides as a mentor text.
 
 |                    |                                                       |                                                        |                                                        |                                                       |
 |--------------------|-------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------|
-|                    | <img src="assets/Leo Lionni/media/image2.png" 
-                      style="width:1.22292in;height:1.27083in" />            | <img src="assets/Leo Lionni/media/image3.jpeg" 
-                                                                              style="width:1.25347in;height:1.21944in" />             | <img src="assets/Leo Lionni/media/image4.jpeg" 
-                                                                                                                                       style="width:1.19444in;height:1.36944in" />             | <img src="assets/Leo Lionni/media/image5.png" 
-                                                                                                                                                                                                style="width:1.18056in;height:1.39097in" />            |
+|                    | <img src="assets/Leo Lionni/media/image2.png" />            | <img src="assets/Leo Lionni/media/image3.jpeg" />             | <img src="assets/Leo Lionni/media/image4.jpeg" />             | <img src="assets/Leo Lionni/media/image5.png" />            |
 | Characters         |                                                       |                                                        |                                                        |                                                       |
 | Setting            |                                                       |                                                        |                                                        |                                                       |
 | Problem            |                                                       |                                                        |                                                        |                                                       |
@@ -55,19 +51,14 @@ of collage.
 
 |                    |                                                       |                                                        |                                                        |                                                       |
 |--------------------|-------------------------------------------------------|--------------------------------------------------------|--------------------------------------------------------|-------------------------------------------------------|
-|                    | <img src="assets/Leo Lionni/media/image2.png" 
-                      style="width:1.22292in;height:1.27083in" />            | <img src="assets/Leo Lionni/media/image3.jpeg" 
-                                                                              style="width:1.25347in;height:1.21944in" />             | <img src="assets/Leo Lionni/media/image4.jpeg" 
-                                                                                                                                       style="width:1.19444in;height:1.36944in" />             | <img src="assets/Leo Lionni/media/image5.png" 
-                                                                                                                                                                                                style="width:1.18056in;height:1.39097in" />            |
+|                    | <img src="assets/Leo Lionni/media/image2.png" />            | <img src="assets/Leo Lionni/media/image3.jpeg" />             | <img src="assets/Leo Lionni/media/image4.jpeg" />             | <img src="assets/Leo Lionni/media/image5.png" />            |
 | Characters         |                                                       |                                                        |                                                        |                                                       |
 | Setting            |                                                       |                                                        |                                                        |                                                       |
 | Problem            |                                                       |                                                        |                                                        |                                                       |
 | Sequence of Events |                                                       |                                                        |                                                        |                                                       |
 | Resolution         |                                                       |                                                        |                                                        |                                                       |
 
-<img src="assets/Leo Lionni/media/image6.jpeg"
-style="width:1.71875in;height:1.83264in" />
+<img src="assets/Leo Lionni/media/image6.jpeg" />
 
 “From time to time, from the endless flow of our mental imagery, there
 emerges unexpectedly something that, vague though it may be, seems to
@@ -111,8 +102,7 @@ near-slumber by the words the mouse that didn’t exist. I am sure that,
 temporarily tucked away in my memory, they will eventually become the
 title of a story for which as yet I have no idea.
 
-<img src="assets/Leo Lionni/media/image7.jpeg"
-style="width:2.60347in;height:2.53194in" />
+<img src="assets/Leo Lionni/media/image7.jpeg" />
 
 “To shape and sharpen the logic of a story, to tighten the flow of
 events, ultimately to define the idea in its totality, is much like a
@@ -168,87 +158,62 @@ numerous children’s books and win four Caldecott Honour Awards.
 
 **Books** in alphabetical order
 
-<img src="assets/Leo Lionni/media/image8.jpeg"
-style="width:1.04097in;height:1.14583in" /> Alexander and the Wind-Up
+<img src="assets/Leo Lionni/media/image8.jpeg" /> Alexander and the Wind-Up
 Mouse
 
-<img src="assets/Leo Lionni/media/image9.jpeg"
-style="width:0.92292in;height:1.1625in" /> The Alphabet Tree
+<img src="assets/Leo Lionni/media/image9.jpeg" /> The Alphabet Tree
 
-<img src="assets/Leo Lionni/media/image10.jpeg"
-style="width:0.91458in;height:1.17292in" /> The Biggest House in the
+<img src="assets/Leo Lionni/media/image10.jpeg" /> The Biggest House in the
 World
 
-<img src="assets/Leo Lionni/media/image11.jpeg"
-style="width:1.04167in;height:1.14583in" /> A Busy Year
+<img src="assets/Leo Lionni/media/image11.jpeg" /> A Busy Year
 
-<img src="assets/Leo Lionni/media/image12.jpeg"
-style="width:1.04097in;height:1.14583in" /> A Colour of His Own
+<img src="assets/Leo Lionni/media/image12.jpeg" /> A Colour of His Own
 
-<img src="assets/Leo Lionni/media/image13.jpeg"
-style="width:1.04097in;height:1.14583in" /> Cornelius
+<img src="assets/Leo Lionni/media/image13.jpeg" /> Cornelius
 
-<img src="assets/Leo Lionni/media/image14.jpeg"
-style="width:1.04097in;height:1.14514in" /> An Extraordinary Egg
+<img src="assets/Leo Lionni/media/image14.jpeg" /> An Extraordinary Egg
 
-<img src="assets/Leo Lionni/media/image15.jpeg"
-style="width:1.04167in;height:1.14583in" /> Fish is Fish
+<img src="assets/Leo Lionni/media/image15.jpeg" /> Fish is Fish
 
-<img src="assets/Leo Lionni/media/image16.jpeg"
-style="width:1.02847in;height:1.26736in" /> A Flea Story
+<img src="assets/Leo Lionni/media/image16.jpeg" /> A Flea Story
 
-<img src="assets/Leo Lionni/media/image17.jpeg"
-style="width:1.04167in;height:1.14583in" /> Frederick
+<img src="assets/Leo Lionni/media/image17.jpeg" /> Frederick
 
 Frederick’s Fables
 
-<img src="assets/Leo Lionni/media/image18.jpeg"
-style="width:0.88194in;height:1.0375in" /> The Greentail Mouse
+<img src="assets/Leo Lionni/media/image18.jpeg" /> The Greentail Mouse
 
-<img src="assets/Leo Lionni/media/image19.jpeg"
-style="width:1.04167in;height:1.14583in" /> Inch by Inch
+<img src="assets/Leo Lionni/media/image19.jpeg" /> Inch by Inch
 
-<img src="assets/Leo Lionni/media/image20.jpeg"
-style="width:1.04097in;height:1.14583in" /> It’s Mine
+<img src="assets/Leo Lionni/media/image20.jpeg" /> It’s Mine
 
-<img src="assets/Leo Lionni/media/image21.jpeg"
-style="width:1.05417in;height:1.30833in" /> Let’s Make Rabbits
+<img src="assets/Leo Lionni/media/image21.jpeg" /> Let’s Make Rabbits
 
-<img src="assets/Leo Lionni/media/image22.jpeg"
-style="width:1.04167in;height:1.14583in" /> Little Blue and Little
+<img src="assets/Leo Lionni/media/image22.jpeg" /> Little Blue and Little
 Yellow
 
-<img src="assets/Leo Lionni/media/image23.jpeg"
-style="width:1.04097in;height:1.14583in" /> Matthew’s Dream
+<img src="assets/Leo Lionni/media/image23.jpeg" /> Matthew’s Dream
 
-<img src="assets/Leo Lionni/media/image24.png"
-style="width:1.02222in;height:1.26597in" /> Mr McMouse
+<img src="assets/Leo Lionni/media/image24.png" /> Mr McMouse
 
-<img src="assets/Leo Lionni/media/image25.jpeg"
-style="width:1.04167in;height:1.14583in" /> On My Beach there are many
+<img src="assets/Leo Lionni/media/image25.jpeg" /> On My Beach there are many
 Pebbles
 
-<img src="assets/Leo Lionni/media/image26.jpeg"
-style="width:1.04167in;height:1.14583in" /> Pezzettino
+<img src="assets/Leo Lionni/media/image26.jpeg" /> Pezzettino
 
-<img src="assets/Leo Lionni/media/image27.jpeg"
-style="width:1.01042in;height:1.24444in" /> Six Crows
+<img src="assets/Leo Lionni/media/image27.jpeg" /> Six Crows
 
-<img src="assets/Leo Lionni/media/image28.jpeg"
-style="width:1.04167in;height:1.14583in" /> Skinny-Bones
+<img src="assets/Leo Lionni/media/image28.jpeg" /> Skinny-Bones
 
-<img src="assets/Leo Lionni/media/image29.jpeg"
-style="width:1.04167in;height:1.14583in" /> Swimmy
+<img src="assets/Leo Lionni/media/image29.jpeg" /> Swimmy
 
-<img src="assets/Leo Lionni/media/image30.jpeg"
-style="width:1.01806in;height:1.23403in" /> Theodore and the Talking
+<img src="assets/Leo Lionni/media/image30.jpeg" /> Theodore and the Talking
 Mushroom
 
-<img src="assets/Leo Lionni/media/image31.jpeg"
-style="width:1.05069in;height:1.35903in" /> Tico and the Golden Wings
+<img src="assets/Leo Lionni/media/image31.jpeg" /> Tico and the Golden Wings
 
-<img src="assets/Leo Lionni/media/image32.jpeg"
-style="width:1.04097in;height:1.12153in" /> Tillie and the Wall
+<img src="assets/Leo Lionni/media/image32.jpeg" /> Tillie and the Wall
 
 **Leo Lionni Books - Chronological order:**
 
@@ -331,14 +296,10 @@ through the books.
 <tbody>
 <tr class="odd">
 <td></td>
-<td><img src="assets/Leo Lionni/media/image33.jpeg"
-style="width:1.10417in;height:0.89028in" /></td>
-<td><img src="assets/Leo Lionni/media/image34.jpeg"
-style="width:1.08333in;height:1.04861in" /></td>
-<td><img src="assets/Leo Lionni/media/image35.jpeg"
-style="width:1.00694in;height:1.29792in" /></td>
-<td><img src="assets/Leo Lionni/media/image21.jpeg"
-style="width:1.1125in;height:1.37083in" /></td>
+<td><img src="assets/Leo Lionni/media/image33.jpeg" /></td>
+<td><img src="assets/Leo Lionni/media/image34.jpeg" /></td>
+<td><img src="assets/Leo Lionni/media/image35.jpeg" /></td>
+<td><img src="assets/Leo Lionni/media/image21.jpeg" /></td>
 </tr>
 <tr class="even">
 <td><strong>Themes</strong></td>
@@ -363,8 +324,7 @@ style="width:1.1125in;height:1.37083in" /></td>
 Devise ‘philosophical’ questions for other Leo Lionni books not covered
 in this site. E.g.
 
-<img src="assets/Leo Lionni/media/image20.jpeg"
-style="width:1.08542in;height:1.19375in" />
+<img src="assets/Leo Lionni/media/image20.jpeg" />
 
 Themes:
 
@@ -394,14 +354,10 @@ Course.*
 <tbody>
 <tr class="odd">
 <td></td>
-<td><img src="assets/Leo Lionni/media/image36.jpeg"
-style="width:1.09931in;height:1.41389in" /></td>
-<td><img src="assets/Leo Lionni/media/image27.jpeg"
-style="width:1.04097in;height:1.28681in" /></td>
-<td><img src="assets/Leo Lionni/media/image10.jpeg"
-style="width:1.09931in;height:1.41389in" /></td>
-<td><img src="assets/Leo Lionni/media/image21.jpeg"
-style="width:1.1125in;height:1.37083in" /></td>
+<td><img src="assets/Leo Lionni/media/image36.jpeg" /></td>
+<td><img src="assets/Leo Lionni/media/image27.jpeg" /></td>
+<td><img src="assets/Leo Lionni/media/image10.jpeg" /></td>
+<td><img src="assets/Leo Lionni/media/image21.jpeg" /></td>
 </tr>
 <tr class="even">
 <td><p><strong>Moral/</strong></p>
@@ -427,14 +383,10 @@ with others to make the world a better and more diverse place.</td>
 <tbody>
 <tr class="odd">
 <td></td>
-<td><img src="assets/Leo Lionni/media/image37.jpeg"
-style="width:1.03681in;height:1.36042in" /></td>
-<td><img src="assets/Leo Lionni/media/image29.jpeg"
-style="width:1.12292in;height:1.23472in" /></td>
-<td><img src="assets/Leo Lionni/media/image15.jpeg"
-style="width:1.04167in;height:1.14583in" /></td>
-<td><img src="assets/Leo Lionni/media/image35.jpeg"
-style="width:1.00694in;height:1.29792in" /></td>
+<td><img src="assets/Leo Lionni/media/image37.jpeg" /></td>
+<td><img src="assets/Leo Lionni/media/image29.jpeg" /></td>
+<td><img src="assets/Leo Lionni/media/image15.jpeg" /></td>
+<td><img src="assets/Leo Lionni/media/image35.jpeg" /></td>
 </tr>
 <tr class="even">
 <td><p><strong>Moral/</strong></p>
@@ -460,14 +412,10 @@ style="width:1.00694in;height:1.29792in" /></td>
 <tbody>
 <tr class="odd">
 <td></td>
-<td><img src="assets/Leo Lionni/media/image8.jpeg"
-style="width:1.0375in;height:1.14236in" /></td>
-<td><img src="assets/Leo Lionni/media/image34.jpeg"
-style="width:1.08333in;height:1.04861in" /></td>
-<td><img src="assets/Leo Lionni/media/image12.jpeg"
-style="width:1.04097in;height:1.14583in" /></td>
-<td><img src="assets/Leo Lionni/media/image32.jpeg"
-style="width:1.04097in;height:1.12153in" /></td>
+<td><img src="assets/Leo Lionni/media/image8.jpeg" /></td>
+<td><img src="assets/Leo Lionni/media/image34.jpeg" /></td>
+<td><img src="assets/Leo Lionni/media/image12.jpeg" /></td>
+<td><img src="assets/Leo Lionni/media/image32.jpeg" /></td>
 </tr>
 <tr class="even">
 <td><p><strong>Moral/</strong></p>
@@ -509,8 +457,7 @@ place to sit during the thunderstorm.
 **Solution:** This is how the story is wrapped up. Use the ending to
 help you infer the moral to the story.
 
-<img src="assets/Leo Lionni/media/image38.jpeg" /><img src="assets/Leo Lionni/media/image20.jpeg"
-style="width:1.08542in;height:1.19375in" />
+<img src="assets/Leo Lionni/media/image38.jpeg" /><img src="assets/Leo Lionni/media/image20.jpeg" />
 
 **Independent Writing:**
 
@@ -533,11 +480,7 @@ Lionni.
 
 |                |                                                         |                                                         |                                                         |                                                         |
 |----------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
-| **Book**       | <img src="assets/Leo Lionni/media/image29.jpeg" 
-                  style="width:1.04167in;height:1.14583in" />              | <img src="assets/Leo Lionni/media/image15.jpeg" 
-                                                                            style="width:1.04167in;height:1.14583in" />              | <img src="assets/Leo Lionni/media/image35.jpeg" 
-                                                                                                                                      style="width:1.00694in;height:1.29792in" />              | <img src="assets/Leo Lionni/media/image32.jpeg" 
-                                                                                                                                                                                                style="width:1.07986in;height:1.16389in" />              |
+| **Book**       | <img src="assets/Leo Lionni/media/image29.jpeg" />              | <img src="assets/Leo Lionni/media/image15.jpeg" />              | <img src="assets/Leo Lionni/media/image35.jpeg" />              | <img src="assets/Leo Lionni/media/image32.jpeg" />              |
 | **Characters** |                                                         |                                                         |                                                         |                                                         |
 | **Plot**       |                                                         |                                                         |                                                         |                                                         |
 | **Setting**    |                                                         |                                                         |                                                         |                                                         |
@@ -566,14 +509,10 @@ illustrations.
 <tbody>
 <tr class="odd">
 <td><strong>Book</strong></td>
-<td><img src="assets/Leo Lionni/media/image29.jpeg"
-style="width:1.04167in;height:1.14583in" /></td>
-<td><img src="assets/Leo Lionni/media/image15.jpeg"
-style="width:1.04167in;height:1.14583in" /></td>
-<td><img src="assets/Leo Lionni/media/image35.jpeg"
-style="width:1.00694in;height:1.29792in" /></td>
-<td><img src="assets/Leo Lionni/media/image32.jpeg"
-style="width:1.07986in;height:1.16389in" /></td>
+<td><img src="assets/Leo Lionni/media/image29.jpeg" /></td>
+<td><img src="assets/Leo Lionni/media/image15.jpeg" /></td>
+<td><img src="assets/Leo Lionni/media/image35.jpeg" /></td>
+<td><img src="assets/Leo Lionni/media/image32.jpeg" /></td>
 </tr>
 <tr class="even">
 <td><strong>Characters</strong></td>
@@ -620,11 +559,7 @@ fish away.</td>
 
 |                |                                                         |                                                         |                                                         |                                                         |
 |----------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|---------------------------------------------------------|
-| **Book**       | <img src="assets/Leo Lionni/media/image29.jpeg" 
-                  style="width:1.04167in;height:1.14583in" />              | <img src="assets/Leo Lionni/media/image15.jpeg" 
-                                                                            style="width:1.04167in;height:1.14583in" />              | <img src="assets/Leo Lionni/media/image35.jpeg" 
-                                                                                                                                      style="width:1.00694in;height:1.29792in" />              | <img src="assets/Leo Lionni/media/image32.jpeg" 
-                                                                                                                                                                                                style="width:1.07986in;height:1.16389in" />              |
+| **Book**       | <img src="assets/Leo Lionni/media/image29.jpeg" />              | <img src="assets/Leo Lionni/media/image15.jpeg" />              | <img src="assets/Leo Lionni/media/image35.jpeg" />              | <img src="assets/Leo Lionni/media/image32.jpeg" />              |
 | **Characters** |                                                         |                                                         |                                                         |                                                         |
 | **Plot**       |                                                         |                                                         |                                                         |                                                         |
 | **Setting**    |                                                         |                                                         |                                                         |                                                         |
@@ -632,8 +567,7 @@ fish away.</td>
 
 **Alexander and the Wind-Up Mouse** (1969)
 
-<img src="assets/Leo Lionni/media/image39.jpeg"
-style="width:2.39583in;height:3.125in" />
+<img src="assets/Leo Lionni/media/image39.jpeg" />
 
 A real mouse envies a mechanical mouse but soon realises that he is
 
@@ -751,8 +685,7 @@ was a mouse inside. “Who are you?” said Alexander, a little frightened.
 Willy and then they ran to the garden path. And there they danced until
 dawn.
 
-<img src="assets/Leo Lionni/media/image40.jpeg"
-style="width:6.91458in;height:4.18542in" />
+<img src="assets/Leo Lionni/media/image40.jpeg" />
 
 **READING STRATEGIES Alexander and the Wind-up Mouse**
 
@@ -849,13 +782,11 @@ baseboard</em></p></td>
 </tbody>
 </table>
 
-<img src="assets/Leo Lionni/media/image41.jpeg"
-style="width:6.10764in;height:8.48333in" />
+<img src="assets/Leo Lionni/media/image41.jpeg" />
 
 **The Alphabet Tree Leo Lionni**
 
-<img src="assets/Leo Lionni/media/image9.jpeg"
-style="width:2.08333in;height:2.625in" />
+<img src="assets/Leo Lionni/media/image9.jpeg" />
 
 When a fierce wind threatens to blow all the little letters out of the
 alphabet tree, those that remain hide among the branches. A bug and a
@@ -1032,8 +963,7 @@ appeared</em></p>
 
 **The Biggest House in the World Leo Lionni**
 
-<img src="assets/Leo Lionni/media/image10.jpeg"
-style="width:1.48819in;height:1.91389in" />
+<img src="assets/Leo Lionni/media/image10.jpeg" />
 
 A young snail dreams of having the biggest house—or shell—in the world.
 Then one day, his wise father tells him the story of another snail with
@@ -1116,11 +1046,9 @@ small house?” he would tell the story of
 
 *the biggest house in the world.*
 
-<img src="assets/Leo Lionni/media/image42.jpeg"
-style="width:5.20764in;height:7.22986in" />
+<img src="assets/Leo Lionni/media/image42.jpeg" />
 
-<img src="assets/Leo Lionni/media/image43.jpeg"
-style="width:3.64444in;height:3.48889in" />
+<img src="assets/Leo Lionni/media/image43.jpeg" />
 
 **READING STRATEGIES The Biggest House in the World**
 
@@ -1225,8 +1153,7 @@ pushing</em></p>
 </tbody>
 </table>
 
-<img src="assets/Leo Lionni/media/image44.jpeg"
-style="width:1.66667in;height:3.63542in" />
+<img src="assets/Leo Lionni/media/image44.jpeg" />
 
 Leo Lionni tells a genial tale of mouse twins who befriend a talking
 tree. One winter, the two mice, Willie and Winnie, come upon a snow
@@ -1402,8 +1329,7 @@ turn</em></p>
 
 **A Colour of His Own**
 
-<img src="assets/Leo Lionni/media/image33.jpeg"
-style="width:3.12569in;height:2.51944in" />
+<img src="assets/Leo Lionni/media/image33.jpeg" />
 
 This is the story of a chameleon who realises that unlike other animals
 and plants, he does not have defining colour. He tries to find his
@@ -1411,11 +1337,9 @@ colour by blending in with other things but finds this doesn’t work.
 Eventually he finds another chameleon and together they live happily
 despite not having a single identifying colour.
 
-<img src="assets/Leo Lionni/media/image45.jpeg"
-style="width:2.22917in;height:3.125in" />
+<img src="assets/Leo Lionni/media/image45.jpeg" />
 
-<img src="assets/Leo Lionni/media/image46.jpeg"
-style="width:3.125in;height:2.21875in" />
+<img src="assets/Leo Lionni/media/image46.jpeg" />
 
 **Questions for Philosophical Discussion** by Jenna Lenz
 
@@ -1487,8 +1411,7 @@ How are you and your friends alike? How are you different?
 Is it hard to be friends with someone very different from you? Why or
 why not?
 
-<img src="assets/Leo Lionni/media/image47.jpeg"
-style="width:2.88542in;height:3.12569in" />
+<img src="assets/Leo Lionni/media/image47.jpeg" />
 
 **A Colour of His own Leo Lionni**
 
@@ -1550,11 +1473,9 @@ and yellow
 
 and red with white polka dots. And they lived happily ever after.
 
-<img src="assets/Leo Lionni/media/image48.jpeg"
-style="width:4.89583in;height:3.44792in" />
+<img src="assets/Leo Lionni/media/image48.jpeg" />
 
-<img src="assets/Leo Lionni/media/image49.jpeg"
-style="width:3.85417in;height:4.16667in" />
+<img src="assets/Leo Lionni/media/image49.jpeg" />
 
 **READING STRATEGIES A Colour of His Own**
 
@@ -1642,8 +1563,7 @@ style="width:3.85417in;height:4.16667in" />
 
 **Cornelius**
 
-<img src="assets/Leo Lionni/media/image36.jpeg"
-style="width:2.46389in;height:3.175in" />
+<img src="assets/Leo Lionni/media/image36.jpeg" />
 
 Unlike other crocodiles, Cornelius walks upright, sees things, and does
 tricks no other crocodile can. His friends aren't impressed. "So what?"
@@ -1653,8 +1573,7 @@ they seem, and life on the riverbeach is about to undergo some big
 changes. Children will draw inspiration from this tale of a crocodile
 who marches to his own drummer.
 
-<img src="assets/Leo Lionni/media/image50.jpeg"
-style="width:2.4375in;height:3.30208in" />
+<img src="assets/Leo Lionni/media/image50.jpeg" />
 
 **Cornelius Leo Lionni**
 
@@ -1761,8 +1680,7 @@ riverbeach would never be the same again.
 
 **An Extraordinary Egg** (1994)
 
-<img src="assets/Leo Lionni/media/image51.jpeg"
-style="width:2.29375in;height:3.05833in" />
+<img src="assets/Leo Lionni/media/image51.jpeg" />
 
 A frog and her friends are certain that an egg they found belongs to a
 chicken. When the egg hatches they are in for a big surprise.
@@ -1919,8 +1837,7 @@ And the three frogs couldn’t stop laughing.
 
 **Fish is Fish** (1970)
 
-<img src="assets/Leo Lionni/media/image52.jpeg"
-style="width:1.92569in;height:2.47778in" />
+<img src="assets/Leo Lionni/media/image52.jpeg" />
 
 A fish dreams of life outside of the pond. He soon finds out that the
 pond is
@@ -1930,8 +1847,7 @@ the best place for a fish, thanks to his friend the frog.
 Compare/Contrast: On a Venn diagram each student lists the
 similarities/differences of frogs and fish.
 
-<img src="assets/Leo Lionni/media/image53.jpeg"
-style="width:5.20833in;height:3.23958in" />
+<img src="assets/Leo Lionni/media/image53.jpeg" />
 
 **Visualising: Can you see it?**
 
@@ -2069,8 +1985,7 @@ learn from this?
 
 Was the frog a good friend to the fish? Why do you think that?
 
-<img src="assets/Leo Lionni/media/image54.jpeg"
-style="width:3.33333in;height:3.21875in" />
+<img src="assets/Leo Lionni/media/image54.jpeg" />
 
 **Fish is Fish Leo Lionni**
 
@@ -2146,16 +2061,13 @@ luminous colour. This world was surely the most beautiful of all weeds.
 He smiled at his friend the frog, who sat watching him from a lily leaf.
 “You were right,” he said. “Fish is fish.”
 
-<img src="assets/Leo Lionni/media/image55.jpeg"
-style="width:3.92639in;height:5.20764in" />
+<img src="assets/Leo Lionni/media/image55.jpeg" />
 
-<img src="assets/Leo Lionni/media/image56.jpeg"
-style="width:5.05139in;height:2.94861in" />
+<img src="assets/Leo Lionni/media/image56.jpeg" />
 
 **A Flea Story**
 
-<img src="assets/Leo Lionni/media/image16.jpeg"
-style="width:1.66042in;height:2.03611in" />
+<img src="assets/Leo Lionni/media/image16.jpeg" />
 
 This read aloud picture book, told entirely through speech balloons, is
 a clever fable about two fleas who embark on a journey to see what life
@@ -2216,26 +2128,19 @@ sees fit.
 </tbody>
 </table>
 
-<img src="assets/Leo Lionni/media/image57.jpeg"
-style="width:5.25in;height:6.66597in" />
+<img src="assets/Leo Lionni/media/image57.jpeg" />
 
-<img src="assets/Leo Lionni/media/image58.jpeg"
-style="width:4.87431in;height:6.66667in" />
+<img src="assets/Leo Lionni/media/image58.jpeg" />
 
-<img src="assets/Leo Lionni/media/image59.jpeg"
-style="width:5.79167in;height:6.66736in" />
+<img src="assets/Leo Lionni/media/image59.jpeg" />
 
-<img src="assets/Leo Lionni/media/image60.jpeg"
-style="width:4.98958in;height:6.66528in" />
+<img src="assets/Leo Lionni/media/image60.jpeg" />
 
-<img src="assets/Leo Lionni/media/image61.jpeg"
-style="width:6.66597in;height:6.46736in" />
+<img src="assets/Leo Lionni/media/image61.jpeg" />
 
-<img src="assets/Leo Lionni/media/image62.jpeg"
-style="width:6.54306in;height:6.66736in" />
+<img src="assets/Leo Lionni/media/image62.jpeg" />
 
-<img src="assets/Leo Lionni/media/image63.jpeg"
-style="width:5.07292in;height:6.66597in" />
+<img src="assets/Leo Lionni/media/image63.jpeg" />
 
 **A Flea Story Leo Lionni**
 
@@ -2314,8 +2219,7 @@ knows, now and then I may want to travel a bit.”
 
 **Frederick** (1967)
 
-<img src="assets/Leo Lionni/media/image35.jpeg"
-style="width:2.60347in;height:3.35347in" />
+<img src="assets/Leo Lionni/media/image35.jpeg" />
 
 Frederick is a creative story that inspires readers to use their
 imagination. It uses beautiful illustrations and the power of language
@@ -2353,8 +2257,7 @@ Talk about the things the mice found.
 Brainstorm for things the students would see, hear, smell, taste, and
 feel if they were mice hibernating.
 
-<img src="assets/Leo Lionni/media/image64.jpeg"
-style="width:2.60417in;height:2.21806in" />
+<img src="assets/Leo Lionni/media/image64.jpeg" />
 
 **Questions for Philosophical Discussion** by Nicole Giambalvo
 
@@ -2400,8 +2303,7 @@ Lesson: **Work**
 *“I do work,” said Frederick. “I gather sun rays for the cold dark
 winter days.”*
 
-<img src="assets/Leo Lionni/media/image65.jpeg"
-style="width:2.60417in;height:2.60417in" />
+<img src="assets/Leo Lionni/media/image65.jpeg" />
 
 Do you think Frederick is working?
 
@@ -2431,8 +2333,7 @@ Is thinking work?
 
 Lesson: **The Value of Work**
 
-<img src="assets/Leo Lionni/media/image66.jpeg"
-style="width:2.60347in;height:2.64583in" />
+<img src="assets/Leo Lionni/media/image66.jpeg" />
 
 *"What about your supplies, Frederick?"*
 
@@ -2451,8 +2352,7 @@ What would have happened to the mice if Frederick hadn’t written poetry?
 
 Lesson: **The Nature of Poetry.**
 
-<img src="assets/Leo Lionni/media/image67.jpeg"
-style="width:2.60347in;height:2.49861in" />
+<img src="assets/Leo Lionni/media/image67.jpeg" />
 
 *"But Frederick," they said, "you are a poet!"*
 
@@ -2484,8 +2384,7 @@ Reference for:
 
 Questions for Philosophical Discussion by Nicole Giambalvo
 
-<img src="assets/Leo Lionni/media/image68.jpeg"
-style="width:6.29097in;height:3.87292in" />
+<img src="assets/Leo Lionni/media/image68.jpeg" />
 
 **Frederick Leo Lionni**
 
@@ -2669,8 +2568,7 @@ seasons</em></p>
 </tbody>
 </table>
 
-<img src="assets/Leo Lionni/media/image69.jpeg"
-style="width:2.60417in;height:3.34375in" />
+<img src="assets/Leo Lionni/media/image69.jpeg" />
 
 While nibbling at a huge hunk of parmesan cheese, Geraldine uncovers a
 cheese statue of a mouse playing what seems to be a flute but on closer
@@ -2843,8 +2741,7 @@ whistled the gayest of tunes, they ate cheese to their tummies’ content.
 
 **The Greentail Mouse**
 
-<img src="assets/Leo Lionni/media/image18.jpeg"
-style="width:1.62569in;height:1.91389in" />
+<img src="assets/Leo Lionni/media/image18.jpeg" />
 
 Originally published in 1973, this is the offbeat fable of a city mouse
 who visits his peaceful country cousins and tells them about Mardi Gras
@@ -3006,8 +2903,7 @@ almost forgotten, like a bad dream.
 
 **Inch by Inch** (1960)
 
-<img src="assets/Leo Lionni/media/image70.jpeg"
-style="width:1.79167in;height:2.19792in" />
+<img src="assets/Leo Lionni/media/image70.jpeg" />
 
 This creative book is about a fast thinking inchworm that uses his size
 and
@@ -3018,8 +2914,7 @@ Then one day a nightingale threatens to eat him if he cannot measure his
 song. Children will enjoy the clever inchworm’s solution and delight in
 finding the tiny hero on every page.
 
-<img src="assets/Leo Lionni/media/image71.jpeg"
-style="width:6.45833in;height:2.60347in" />
+<img src="assets/Leo Lionni/media/image71.jpeg" />
 
 **Inch by Inch Leo Lionni**
 
@@ -3176,8 +3071,7 @@ as,
 
 working together.
 
-<img src="assets/Leo Lionni/media/image72.jpeg"
-style="width:5.20833in;height:3.42708in" />
+<img src="assets/Leo Lionni/media/image72.jpeg" />
 
 **READING STRATEGIES It’s Mine.**
 
@@ -3283,19 +3177,15 @@ in the weeds, they felt happy in a way they had never been before.
 
 “It’s ours!” she said.
 
-<img src="assets/Leo Lionni/media/image73.jpeg"
-style="width:6.40625in;height:4.16667in" />
+<img src="assets/Leo Lionni/media/image73.jpeg" />
 
-<img src="assets/Leo Lionni/media/image74.jpeg"
-style="width:6.42014in;height:4.22431in" />
+<img src="assets/Leo Lionni/media/image74.jpeg" />
 
-<img src="assets/Leo Lionni/media/image75.jpeg"
-style="width:4.16667in;height:5.34375in" />
+<img src="assets/Leo Lionni/media/image75.jpeg" />
 
 **Let’s Make Rabbits** (1982)
 
-<img src="assets/Leo Lionni/media/image21.jpeg"
-style="width:2.60347in;height:3.20694in" />
+<img src="assets/Leo Lionni/media/image21.jpeg" />
 
 This fable shares the moral; everybody is different and that makes each
 person special.
@@ -3308,8 +3198,7 @@ Read Aloud: Questioning – differences in the two bunnies.
 Discuss the moral: being different makes you special and you can still
 be friends.
 
-<img src="assets/Leo Lionni/media/image76.jpeg"
-style="width:3.125in;height:3.38542in" />
+<img src="assets/Leo Lionni/media/image76.jpeg" />
 
 **Let’s make Rabbits Leo Lionni**
 
@@ -3354,8 +3243,7 @@ disappeared, greens and all.
 
 And happily they hopped away.
 
-<img src="assets/Leo Lionni/media/image77.jpeg"
-style="width:3.12569in;height:2.42639in" />
+<img src="assets/Leo Lionni/media/image77.jpeg" />
 
 Guidelines for Philosophical Discussion
 
@@ -3390,8 +3278,7 @@ great book for children of all ages to enjoy, and opens up the
 opportunity for anyone to initiate and engage in philosophical
 discussions about some.
 
-<img src="assets/Leo Lionni/media/image78.jpeg"
-style="width:3.125in;height:2.71875in" />
+<img src="assets/Leo Lionni/media/image78.jpeg" />
 
 **Questions for Philosophical Discussion**
 
@@ -3422,8 +3309,7 @@ eat the real carrot?
 
 How can they be hungry?
 
-<img src="assets/Leo Lionni/media/image79.jpeg"
-style="width:3.125in;height:2.1875in" />
+<img src="assets/Leo Lionni/media/image79.jpeg" />
 
 *Show a real carrot, on a piece of white paper, beside the illustration
 of the "real" carrot.*
@@ -3584,8 +3470,7 @@ water running in a sink
 
 **Little Blue and Little Yellow**
 
-<img src="assets/Leo Lionni/media/image3.jpeg"
-style="width:1.84514in;height:1.79514in" />
+<img src="assets/Leo Lionni/media/image3.jpeg" />
 
 Two round blobs of color share friendship and frolic in their
 neighborhood. Named for their hue, Little Blue and Little Yellow embrace
@@ -3837,11 +3722,9 @@ They all hugged each other with joy
 
 and the children played until suppertime.
 
-<img src="assets/Leo Lionni/media/image80.jpeg"
-style="width:2.61875in;height:3.74653in" />
+<img src="assets/Leo Lionni/media/image80.jpeg" />
 
-<img src="assets/Leo Lionni/media/image81.jpeg"
-style="width:3.28125in;height:3.33333in" />
+<img src="assets/Leo Lionni/media/image81.jpeg" />
 
 **Questions for Philosophical Discussion**
 
@@ -3939,11 +3822,9 @@ Do they become something new when they change?
 
 Now that ‘little blue’ had become green is ‘little blue’ different?
 
-<img src="assets/Leo Lionni/media/image82.jpeg"
-style="width:1.86597in;height:2.21944in" />
+<img src="assets/Leo Lionni/media/image82.jpeg" />
 
-<img src="assets/Leo Lionni/media/image83.jpeg"
-style="width:4.79167in;height:4.75in" />
+<img src="assets/Leo Lionni/media/image83.jpeg" />
 
 **READING STRATEGIES Little Blue and Little Yellow**
 
@@ -4031,8 +3912,7 @@ style="width:4.79167in;height:4.75in" />
 
 **Matthew’s Dream** (1991)
 
-<img src="assets/Leo Lionni/media/image84.jpeg"
-style="width:2.60347in;height:3.36597in" />
+<img src="assets/Leo Lionni/media/image84.jpeg" />
 
 Matthew dreams of becoming a painter. He lives in a dusty attic with his
 
@@ -4067,8 +3947,7 @@ in it?
 *Matthew goes to the museum and is inspired to become an artist after
 looking at all of the art work there.*
 
-<img src="assets/Leo Lionni/media/image85.jpeg"
-style="width:2.60347in;height:2.22847in" />
+<img src="assets/Leo Lionni/media/image85.jpeg" />
 
 What does it mean to be inspired?
 
@@ -4109,8 +3988,7 @@ all have to see the same thing in it?
 
 Can you think of any other types of art other than paintings?
 
-<img src="assets/Leo Lionni/media/image86.jpeg"
-style="width:2.60347in;height:3.22778in" />
+<img src="assets/Leo Lionni/media/image86.jpeg" />
 
 *After visiting the museum Matthew is able to see his dark, dreary
 corner in the attic in a new way.*
@@ -4183,8 +4061,7 @@ His largest painting now hangs in the museum. When asked about the
 title, Matthew smiles. “The title?” he says as if he had never thought
 about it before. “My dream.”
 
-<img src="assets/Leo Lionni/media/image87.jpeg"
-style="width:3.41667in;height:4.16667in" />
+<img src="assets/Leo Lionni/media/image87.jpeg" />
 
 **READING STRATEGIES Matthew’s Dream**
 
@@ -4242,8 +4119,7 @@ style="width:3.41667in;height:4.16667in" />
 
 **Mr McMouse**
 
-<img src="assets/Leo Lionni/media/image24.png"
-style="width:1.57292in;height:1.94792in" />
+<img src="assets/Leo Lionni/media/image24.png" />
 
 Life as a happy handsome city mouse ends abruptly for Timothy when he
 looks into the mirror one morning and sees \`\`a strange creature
@@ -4437,8 +4313,7 @@ never been seen.
 </tbody>
 </table>
 
-<img src="assets/Leo Lionni/media/image88.jpeg"
-style="width:1.96181in;height:2.41181in" />
+<img src="assets/Leo Lionni/media/image88.jpeg" />
 
 Nicolas, Where Have You Been? finds the mice indignant at the birds, who
 seem to have found the best berries - and eaten them, "Down with the
@@ -4447,8 +4322,7 @@ through the air and into a nest where he is cared for, fed lots of sweet
 berries, by the mother bird and her fledglings and returns home to set
 the mice to rights and stop a war.
 
-<img src="assets/Leo Lionni/media/image89.jpeg"
-style="width:4.89722in;height:3.69861in" />
+<img src="assets/Leo Lionni/media/image89.jpeg" />
 
 **Nicholas, Where have You Been? Leo Lionni**
 
@@ -4606,16 +4480,13 @@ berries were the most delicious they had ever tasted.
 
 **Nicholas where have you been?**
 
-<img src="assets/Leo Lionni/media/image90.jpeg"
-style="width:5.20833in;height:3.34375in" />
+<img src="assets/Leo Lionni/media/image90.jpeg" />
 
-<img src="assets/Leo Lionni/media/image91.jpeg"
-style="width:5.20833in;height:3.34375in" />
+<img src="assets/Leo Lionni/media/image91.jpeg" />
 
 **On My Beach there are Many Pebbles**
 
-<img src="assets/Leo Lionni/media/image92.jpeg"
-style="width:3.31181in;height:2.47778in" />
+<img src="assets/Leo Lionni/media/image92.jpeg" />
 
 **On My Beach there are many Pebbles Leo Lionni**
 
@@ -4643,17 +4514,13 @@ and a clock.
 
 Why don’t you go out on my beach and look for other pebbles?
 
-<img src="assets/Leo Lionni/media/image93.jpeg"
-style="width:4.16667in;height:2.76042in" />
+<img src="assets/Leo Lionni/media/image93.jpeg" />
 
-<img src="assets/Leo Lionni/media/image94.jpeg"
-style="width:4.16667in;height:3.29097in" />
+<img src="assets/Leo Lionni/media/image94.jpeg" />
 
-<img src="assets/Leo Lionni/media/image95.jpeg"
-style="width:4.16667in;height:2.22917in" />
+<img src="assets/Leo Lionni/media/image95.jpeg" />
 
-<img src="assets/Leo Lionni/media/image96.jpeg"
-style="width:4.16667in;height:3.47917in" />
+<img src="assets/Leo Lionni/media/image96.jpeg" />
 
 **READING STRATEGIES On My Beach there are Many Pebbles**
 
@@ -4715,11 +4582,9 @@ Little Pezzettino is so small that he is convinced he must be a part of
 
 somebody else until a wise man helps him find the truth.
 
-<img src="assets/Leo Lionni/media/image97.jpeg"
-style="width:3.41667in;height:3.41667in" />
+<img src="assets/Leo Lionni/media/image97.jpeg" />
 
-<img src="assets/Leo Lionni/media/image98.jpeg"
-style="width:2.72917in;height:3.33333in" />
+<img src="assets/Leo Lionni/media/image98.jpeg" />
 
 **Pezzettino Leo Lionni**
 
@@ -4851,8 +4716,7 @@ happy, and so they were happy too.
 
 **Six Crows** (1988)
 
-<img src="assets/Leo Lionni/media/image27.jpeg"
-style="width:2.12639in;height:2.62153in" />
+<img src="assets/Leo Lionni/media/image27.jpeg" />
 
 Six noisy crows are busy trying to peck away at a farmer's wheat crop.
 In
@@ -4997,8 +4861,7 @@ had turned into a happy smile. The owl was perched on the giant’s arm.
 
 “Magic,” she said.
 
-<img src="assets/Leo Lionni/media/image99.jpeg"
-style="width:2.30625in;height:2.99444in" />
+<img src="assets/Leo Lionni/media/image99.jpeg" />
 
 Summary:
 
@@ -5017,11 +4880,9 @@ Possible lessons:
 
 Shared Writing
 
-<img src="assets/Leo Lionni/media/image100.jpeg"
-style="width:6.75833in;height:4.10069in" />
+<img src="assets/Leo Lionni/media/image100.jpeg" />
 
-<img src="assets/Leo Lionni/media/image101.jpeg"
-style="width:6.41458in;height:4.26319in" />
+<img src="assets/Leo Lionni/media/image101.jpeg" />
 
 **Swimmy Leo Lionni**
 
@@ -5065,11 +4926,9 @@ they learnt to swim like one giant fish, he said, “I’ll be the eye.”
 And so they swam in the cool morning water and in the midday sun and
 chased the big fish away.
 
-<img src="assets/Leo Lionni/media/image102.jpeg"
-style="width:6.42708in;height:8.61667in" />
+<img src="assets/Leo Lionni/media/image102.jpeg" />
 
-<img src="assets/Leo Lionni/media/image103.jpeg"
-style="width:2.60417in;height:3.33333in" />
+<img src="assets/Leo Lionni/media/image103.jpeg" />
 
 **READING STRATEGIES Swimmy**
 
@@ -5125,8 +4984,7 @@ style="width:2.60417in;height:3.33333in" />
 </tbody>
 </table>
 
-<img src="assets/Leo Lionni/media/image30.jpeg"
-style="width:2.55139in;height:3.11944in" />
+<img src="assets/Leo Lionni/media/image30.jpeg" />
 
 **Theodore and the Talking Mushroom Leo Lionni**
 
@@ -5259,11 +5117,9 @@ never saw him again.
 </tbody>
 </table>
 
-<img src="assets/Leo Lionni/media/image104.jpeg"
-style="width:6.74653in;height:6.99375in" />
+<img src="assets/Leo Lionni/media/image104.jpeg" />
 
-<img src="assets/Leo Lionni/media/image31.jpeg"
-style="width:2.21806in;height:2.86875in" />
+<img src="assets/Leo Lionni/media/image31.jpeg" />
 
 All Tico the wingless bird wants is a pair of golden wings to carry him
 up over the mountaintops. But when Tico's wish is granted, none of his
@@ -5277,8 +5133,7 @@ Tico returns to his friends, they are all relieved to see him. "Now you
 are just like us," they say. But Tico knows there is more to him than
 the colour of his wings.
 
-<img src="assets/Leo Lionni/media/image105.jpeg"
-style="width:3.1875in;height:4.16667in" />
+<img src="assets/Leo Lionni/media/image105.jpeg" />
 
 **READING STRATEGIES Why? To gain meaning from our reading.**
 
@@ -5334,11 +5189,9 @@ style="width:3.1875in;height:4.16667in" />
 </tbody>
 </table>
 
-<img src="assets/Leo Lionni/media/image106.jpeg"
-style="width:6.24861in;height:8.13542in" />
+<img src="assets/Leo Lionni/media/image106.jpeg" />
 
-<img src="assets/Leo Lionni/media/image107.jpeg"
-style="width:5.83194in;height:9.77986in" />
+<img src="assets/Leo Lionni/media/image107.jpeg" />
 
 **Tico and the Golden Wings Leo Lionni**
 
@@ -5420,8 +5273,7 @@ golden dreams.”
 
 **Tillie and the Wall** (1989)
 
-<img src="assets/Leo Lionni/media/image32.jpeg"
-style="width:2.08194in;height:2.24097in" />
+<img src="assets/Leo Lionni/media/image32.jpeg" />
 
 Come dream with Tillie, the mouse as she tries to imagine what may be on
 the other side of the wall.
@@ -5488,11 +5340,9 @@ Since that day the mice go freely from side of the wall to the other,
 and they always remember that it was Tillie who first showed them the
 way.
 
-<img src="assets/Leo Lionni/media/image108.jpeg"
-style="width:6.58333in;height:4.15069in" />
+<img src="assets/Leo Lionni/media/image108.jpeg" />
 
-<img src="assets/Leo Lionni/media/image109.jpeg"
-style="width:4.95833in;height:3.11458in" />
+<img src="assets/Leo Lionni/media/image109.jpeg" />
 
 **READING STRATEGIES Why? To gain meaning from our reading.**
 
@@ -5556,23 +5406,17 @@ is still a child."*
 
 Leo Lionni
 
-<img src="assets/Leo Lionni/media/image110.jpeg"
-style="width:2.59375in;height:3.33333in" /> Painter
+<img src="assets/Leo Lionni/media/image110.jpeg" /> Painter
 
-<img src="assets/Leo Lionni/media/image111.jpeg"
-style="width:2.72917in;height:3.33333in" /> Sculptor
+<img src="assets/Leo Lionni/media/image111.jpeg" /> Sculptor
 
-<img src="assets/Leo Lionni/media/image112.jpeg"
-style="width:1.82292in;height:3.33333in" /> Photographer
+<img src="assets/Leo Lionni/media/image112.jpeg" /> Photographer
 
-<img src="assets/Leo Lionni/media/image113.jpeg"
-style="width:2.4375in;height:3.33333in" /> Accordion Player
+<img src="assets/Leo Lionni/media/image113.jpeg" /> Accordion Player
 
-<img src="assets/Leo Lionni/media/image114.jpeg"
-style="width:5.03125in;height:7.42708in" />
+<img src="assets/Leo Lionni/media/image114.jpeg" />
 
-<img src="assets/Leo Lionni/media/image115.png"
-style="width:1.58333in;height:0.23958in" />
+<img src="assets/Leo Lionni/media/image115.png" />
 
 [Obituaries](http://www.nytimes.com/pages/obituaries/index.html)
 

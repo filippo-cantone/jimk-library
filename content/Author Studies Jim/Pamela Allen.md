@@ -5,17 +5,16 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 **Pamela Allen**
 
-<img src="assets/Pamela Allen/media/image1.jpeg"
-style="width:3.69306in;height:5.2125in" />
+<img src="assets/Pamela Allen/media/image1.jpeg" />
 
 **Pamela Allen**
 
-<img src="assets/Pamela Allen/media/image2.png"
-style="width:1.45833in;height:1.875in" />
+<img src="assets/Pamela Allen/media/image2.png" />
 
 Pamela Allen is a phenomenon in the world of children's literature. For
 almost thirty years her picture books have enchanted generations of
@@ -144,8 +143,7 @@ books that are nominated and win prestigious awards throughout the
 world. There is no sign that she plans to slow down so children will
 enjoy new works from her for years to come.
 
-<img src="assets/Pamela Allen/media/image3.jpeg"
-style="width:3.38333in;height:3.32361in" />
+<img src="assets/Pamela Allen/media/image3.jpeg" />
 
 Shhh! little mouse. Who is that sleeping? Will the little grey mouse
 find something to eat, or will he wake the sleeping cat?
@@ -214,8 +212,7 @@ He got to the hole just in time.
 
 Lucky mouse!
 
-<img src="assets/Pamela Allen/media/image4.jpeg"
-style="width:2.29167in;height:2.29167in" />
+<img src="assets/Pamela Allen/media/image4.jpeg" />
 
 Ferdie is a gruesome, fat, green monster who loves to eat meaty
 creatures but is so greedy he runs out of creatures to eat, so he sets
@@ -227,14 +224,11 @@ after Ferdie shakes every pear off the tree trying to get at them. So
 Ferdie tries a pear and decides that pears are so yummy, he'll only eat
 pears from now on.
 
-<img src="assets/Pamela Allen/media/image5.png"
-style="width:7.29236in;height:3.59375in" />
+<img src="assets/Pamela Allen/media/image5.png" />
 
-<img src="assets/Pamela Allen/media/image6.png"
-style="width:7.29236in;height:3.60486in" />
+<img src="assets/Pamela Allen/media/image6.png" />
 
-<img src="assets/Pamela Allen/media/image7.png"
-style="width:7.29236in;height:3.60278in" />
+<img src="assets/Pamela Allen/media/image7.png" />
 
 **Fat Ferdie Pamela Allen**
 
@@ -332,8 +326,7 @@ Now, what does Fat Ferdie like to eat?
 
 Only pears, NEVER meat!
 
-<img src="assets/Pamela Allen/media/image8.jpeg"
-style="width:3.38542in;height:2.75in" />
+<img src="assets/Pamela Allen/media/image8.jpeg" />
 
 Everyone can relate to Daisy, the rather ordinary dog who is the main
 character in Allen’s book Daisy All-Sorts. Daisy lives with her master
@@ -378,32 +371,23 @@ By writing a story of their own about someone wanting something very
 badly. What were they willing to do to get it? How did having it change
 them?
 
-<img src="assets/Pamela Allen/media/image9.jpeg"
-style="width:2.55278in;height:2.14444in" />
+<img src="assets/Pamela Allen/media/image9.jpeg" />
 
-<img src="assets/Pamela Allen/media/image10.jpeg"
-style="width:2.29167in;height:2.29167in" />
+<img src="assets/Pamela Allen/media/image10.jpeg" />
 
-<img src="assets/Pamela Allen/media/image11.jpeg"
-style="width:2.29167in;height:2.25in" />
+<img src="assets/Pamela Allen/media/image11.jpeg" />
 
-<img src="assets/Pamela Allen/media/image12.jpeg"
-style="width:2.29167in;height:2.30208in" />
+<img src="assets/Pamela Allen/media/image12.jpeg" />
 
-<img src="assets/Pamela Allen/media/image13.jpeg"
-style="width:2.29167in;height:2.27986in" />
+<img src="assets/Pamela Allen/media/image13.jpeg" />
 
-<img src="assets/Pamela Allen/media/image14.jpeg"
-style="width:2.45694in;height:2.21944in" />
+<img src="assets/Pamela Allen/media/image14.jpeg" />
 
-<img src="assets/Pamela Allen/media/image15.jpeg"
-style="width:3in;height:2.83472in" />
+<img src="assets/Pamela Allen/media/image15.jpeg" />
 
-<img src="assets/Pamela Allen/media/image16.jpeg"
-style="width:2.94792in;height:2.975in" />
+<img src="assets/Pamela Allen/media/image16.jpeg" />
 
-<img src="assets/Pamela Allen/media/image17.jpeg"
-style="width:2.73403in;height:2.87083in" />
+<img src="assets/Pamela Allen/media/image17.jpeg" />
 
 **Mr McGee and the Big Bag of Bread Pamela Allen**
 
@@ -933,26 +917,19 @@ OWWWWWWWWWWWWWWWWWW
 
 EEEEEEEEEEEEEEEEEE.”
 
-<img src="assets/Pamela Allen/media/image18.jpeg"
-style="width:2.25833in;height:3.12569in" />
+<img src="assets/Pamela Allen/media/image18.jpeg" />
 
-<img src="assets/Pamela Allen/media/image19.jpeg"
-style="width:2.29167in;height:2.33333in" />
+<img src="assets/Pamela Allen/media/image19.jpeg" />
 
-<img src="assets/Pamela Allen/media/image20.jpeg"
-style="width:2.29167in;height:2.13542in" />
+<img src="assets/Pamela Allen/media/image20.jpeg" />
 
-<img src="assets/Pamela Allen/media/image21.jpeg"
-style="width:3.16667in;height:2.70694in" />
+<img src="assets/Pamela Allen/media/image21.jpeg" />
 
-<img src="assets/Pamela Allen/media/image22.jpeg"
-style="width:2.47917in;height:2.11458in" />
+<img src="assets/Pamela Allen/media/image22.jpeg" />
 
-<img src="assets/Pamela Allen/media/image23.jpeg"
-style="width:3.125in;height:2.67708in" />
+<img src="assets/Pamela Allen/media/image23.jpeg" />
 
-<img src="assets/Pamela Allen/media/image24.jpeg"
-style="width:2.33333in;height:2.34375in" />
+<img src="assets/Pamela Allen/media/image24.jpeg" />
 
 When John and Jane went out walking, they were busy talk, talk, talking.
 'Look,' said John. 'Look up there. I can see a juicy pear.'
@@ -1073,8 +1050,7 @@ They ate it up, down to the core.
 
 “That’s all,” said Jane. “There is no more.”
 
-<img src="assets/Pamela Allen/media/image25.jpeg"
-style="width:3.5in;height:3.07083in" />
+<img src="assets/Pamela Allen/media/image25.jpeg" />
 
 A cautionary tale about two men, Bill and Ben, who just don't seem to be
 able to share, despite the constant advice from a wise rooster and hen.
@@ -1085,8 +1061,7 @@ boat. In each story we see that neither of them gets the benefit of what
 they're fighting over until we are left to imagine the men's fate when
 they cut a boat in half rather than share it.
 
-<img src="assets/Pamela Allen/media/image26.jpeg"
-style="width:4.25139in;height:3.6875in" />
+<img src="assets/Pamela Allen/media/image26.jpeg" />
 
 **Share said the Rooster Pamela Allen**
 
@@ -1186,8 +1161,6 @@ of these two little men.
 
 Good-bye Billy. Good-bye Ben.
 
-<img src="assets/Pamela Allen/media/image27.jpeg"
-style="width:2.57361in;height:4.16667in" />
+<img src="assets/Pamela Allen/media/image27.jpeg" />
 
-<img src="assets/Pamela Allen/media/image28.jpeg"
-style="width:4.16667in;height:4.16667in" />
+<img src="assets/Pamela Allen/media/image28.jpeg" />

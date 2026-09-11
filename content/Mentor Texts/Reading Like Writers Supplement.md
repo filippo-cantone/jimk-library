@@ -6,7 +6,8 @@ conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
 
 tags: [jim-k]
-review_status: "flagged pages manually reviewed and corrected"
+reviewed: "2026-09-10"
+strand: reading
 ---
 
 # Reading Like Writers  Supplement
@@ -1286,9 +1287,9 @@ grapes and peaches when we came to Virginia.”
 <!-- page 35 -->
 
 *[blank page]*
-
+ 
 ---
-
+ 
 <!-- page 36 -->
 
 *[blank page]*

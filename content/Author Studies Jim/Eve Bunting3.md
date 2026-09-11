@@ -5,14 +5,14 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 **Eve Bunting**
 
 **(3)**
 
-<img src="assets/Eve Bunting3/media/image1.jpeg"
-style="width:1.875in;height:2.59375in" />
+<img src="assets/Eve Bunting3/media/image1.jpeg" />
 
 **Whales Passing**
 
@@ -84,8 +84,7 @@ They’re gone. My dad and I will come again and see the whales. For now
 I’ll hold this shell I found close to my ear and hear the sea. And I’ll
 remember whales passing.
 
-<img src="assets/Eve Bunting3/media/image2.jpeg"
-style="width:3.25in;height:3.20625in" />
+<img src="assets/Eve Bunting3/media/image2.jpeg" />
 
 This book, the Caldecott Award winner for the year's finest
 illustrations, is a story of tolerance placed in the violent setting of
@@ -106,8 +105,7 @@ talk about the violence that surrounds today's children. Diaz helps to
 convey the strong message by placing dramatic insets in his powerful
 collages.
 
-<img src="assets/Eve Bunting3/media/image3.jpeg"
-style="width:2.70833in;height:3.375in" />
+<img src="assets/Eve Bunting3/media/image3.jpeg" />
 
 My Red Balloon by Eve Bunting - The boy has been waiting for this day
 for many months. It's the day his daddy comes home from overseas. He
@@ -116,25 +114,20 @@ downstairs for breakfast, he takes along something very important: his
 red balloon. There will be many families and loved ones at the pier. The
 red balloon will help his father find him among the crowd.
 
-<img src="assets/Eve Bunting3/media/image4.jpeg"
-style="width:3.66597in;height:3.51875in" />
+<img src="assets/Eve Bunting3/media/image4.jpeg" />
 
-<img src="assets/Eve Bunting3/media/image5.jpeg"
-style="width:4.03194in;height:3.33264in" />
+<img src="assets/Eve Bunting3/media/image5.jpeg" />
 
-<img src="assets/Eve Bunting3/media/image6.jpeg"
-style="width:2.22292in;height:2.85in" />
+<img src="assets/Eve Bunting3/media/image6.jpeg" />
 
 Alice is dismayed when one day the leaves on the old oak tree start to
 fall. Although she can't save the tree, Alice remembers something that
 gives her hope: the acorns she collected when the tree was still
 healthy.
 
-<img src="assets/Eve Bunting3/media/image7.jpeg"
-style="width:3.16806in;height:2.57847in" />
+<img src="assets/Eve Bunting3/media/image7.jpeg" />
 
-<img src="assets/Eve Bunting3/media/image8.jpeg"
-style="width:2.33889in;height:2.88264in" />
+<img src="assets/Eve Bunting3/media/image8.jpeg" />
 
 It is a sad and frightening day when the Taking Man insists that
 ten-year-old Young Bull must leave his home and family on the Cheyenne
@@ -148,17 +141,13 @@ background information on this part of American history. The realistic,
 watercolour illustrations by a Navajo artist, who had a similar school
 experience, complement the text well.
 
-<img src="assets/Eve Bunting3/media/image9.jpeg"
-style="width:2.64653in;height:3.06597in" />
+<img src="assets/Eve Bunting3/media/image9.jpeg" />
 
-<img src="assets/Eve Bunting3/media/image10.jpeg"
-style="width:3.12569in;height:3.12569in" />
+<img src="assets/Eve Bunting3/media/image10.jpeg" />
 
-<img src="assets/Eve Bunting3/media/image11.jpeg"
-style="width:1.875in;height:2.4375in" />
+<img src="assets/Eve Bunting3/media/image11.jpeg" />
 
-<img src="assets/Eve Bunting3/media/image12.jpeg"
-style="width:2.32292in;height:2.35417in" />
+<img src="assets/Eve Bunting3/media/image12.jpeg" />
 
 In the story Jin Woo, the turning point for Davey is the letter he gets
 from his new brother — with the help of Mum. Often the written word
@@ -195,8 +184,7 @@ others desiring insight into the world of adoption.
 Then write a follow-up letter in the present time reflecting on what
 they wrote as infants and how they feel now.
 
-<img src="assets/Eve Bunting3/media/image13.jpeg"
-style="width:3.74722in;height:3.19931in" />
+<img src="assets/Eve Bunting3/media/image13.jpeg" />
 
 Sophia is disappointed on her seventh birthday when she doesn't get the
 skateboard she had wanted, but instead is given an olive tree by her
@@ -215,8 +203,7 @@ has created a wonderful story about family heritage. The illustrations
 are bold and colourful and well represent the extraordinary Greek
 culture.
 
-<img src="assets/Eve Bunting3/media/image14.jpeg"
-style="width:3.76042in;height:4.8125in" />
+<img src="assets/Eve Bunting3/media/image14.jpeg" />
 
 Whether students' families came to Australia ten days ago, ten months
 ago, ten years ago, or much longer than that, they, like most
@@ -248,11 +235,9 @@ countries of origin.
 
 .
 
-<img src="assets/Eve Bunting3/media/image15.jpeg"
-style="width:3.63542in;height:4.28125in" />
+<img src="assets/Eve Bunting3/media/image15.jpeg" />
 
-<img src="assets/Eve Bunting3/media/image16.jpeg"
-style="width:3.125in;height:2.61458in" />
+<img src="assets/Eve Bunting3/media/image16.jpeg" />
 
 The story is all too familiar, unless you haven't been reading the
 papers or watching television news. A family hastens to escape their
@@ -272,11 +257,9 @@ colors to reflect the bleakness of war and then brighten as the people
 return home. This is a picture book that will also appeal to older
 readers.
 
-<img src="assets/Eve Bunting3/media/image17.jpeg"
-style="width:3.3125in;height:4.25972in" />
+<img src="assets/Eve Bunting3/media/image17.jpeg" />
 
-<img src="assets/Eve Bunting3/media/image18.jpeg"
-style="width:2.48958in;height:2.32292in" />
+<img src="assets/Eve Bunting3/media/image18.jpeg" />
 
 Working with buddies in Prep or Grade 1.
 
@@ -310,8 +293,7 @@ How does she know which bus to get on?
 
 What kind of job could she have?
 
-<img src="assets/Eve Bunting3/media/image19.jpeg"
-style="width:1.91667in;height:2.09375in" />
+<img src="assets/Eve Bunting3/media/image19.jpeg" />
 
 Eve Bunting and Ronald Himler continue their collaboration on picture
 storybooks which deal with deep human emotional experiences, in this

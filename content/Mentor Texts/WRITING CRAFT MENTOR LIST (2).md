@@ -5,6 +5,7 @@ source_file: "Mentor Texts/WRITING CRAFT MENTOR LIST (2).doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed)"
 converted: "2026-09-07"
 tags: [jim-k]
+strand: reading
 reviewed: "2026-09-10"
 ---
 

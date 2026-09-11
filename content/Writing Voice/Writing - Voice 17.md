@@ -10,13 +10,11 @@ strand: writing-voice
 
 > **(17)**
 
-![http://nonfictiontextresources.wikispaces.com/space/showlogo/1300128134/logo.jpg](assets/Writing - Voice 17/media/media/image1.jpeg){width="3.4791666666666665in"
-height="3.5729166666666665in"}
+![http://nonfictiontextresources.wikispaces.com/space/showlogo/1300128134/logo.jpg](assets/Writing - Voice 17/media/media/image1.jpeg)
 
 **Voice in Persuasive Texts\**
 
-![http://nonfictiontextresources.wikispaces.com/space/showlogo/1300128134/logo.jpg](assets/Writing - Voice 17/media/media/image1.jpeg){width="2.3020833333333335in"
-height="2.3641152668416447in"}
+![http://nonfictiontextresources.wikispaces.com/space/showlogo/1300128134/logo.jpg](assets/Writing - Voice 17/media/media/image1.jpeg)
 
 **Voice 17**
 
@@ -167,8 +165,7 @@ I WANNA NEW ROOM Karen Orloff
 >
 > Moving
 
-![not_going_to_move](assets/Writing - Voice 17/media/media/image2.jpeg){width="2.6041666666666665in"
-height="1.9791666666666667in"}
+![not_going_to_move](assets/Writing - Voice 17/media/media/image2.jpeg)
 
 Blurb: Alexander is *not* going to leave his best friend Paul. Or
 Rachel, the best babysitter in the world. Or the Baldwins, who have a
@@ -184,8 +181,7 @@ Do you think they should move? Why or why not?
 
 Give reasons for your thinking.
 
-> ![9781442463189_Screenshot_1](assets/Writing - Voice 17/media/media/image3.jpeg){width="5.0in"
-> height="3.65625in"}
+> ![9781442463189_Screenshot_1](assets/Writing - Voice 17/media/media/image3.jpeg)
 
 **Alexander, Who's Not (Do you hear me? I mean it!) Going to Move.**
 
@@ -347,8 +343,7 @@ Give reasons for your thinking.
 
 **Persuasive Letter Writing**
 
-![http://1.bp.blogspot.com/\_Jah4tQ1FiUg/TD6jcOj4ScI/AAAAAAAAAEA/i6hQVSsZtIc/s1600/Dear+Mr+Blueberry.jpg](assets/Writing - Voice 17/media/media/image4.jpeg){width="3.3333333333333335in"
-height="3.3333333333333335in"}
+![http://1.bp.blogspot.com/\_Jah4tQ1FiUg/TD6jcOj4ScI/AAAAAAAAAEA/i6hQVSsZtIc/s1600/Dear+Mr+Blueberry.jpg](assets/Writing - Voice 17/media/media/image4.jpeg)
 
 Mentor text: Dear Mr Blueberry by Simon James. This book has also been
 published with the title Dear Greenpeace.
@@ -544,8 +539,7 @@ Love
 
 Emily (and Arthur)
 
-![http://media-cache-ak0.pinimg.com/736x/8c/07/51/8c07519ecf45f180b73bf976a93fd7d2.jpg](assets/Writing - Voice 17/media/media/image5.jpeg){width="2.2435695538057745in"
-height="2.9791666666666665in"}
+![http://media-cache-ak0.pinimg.com/736x/8c/07/51/8c07519ecf45f180b73bf976a93fd7d2.jpg](assets/Writing - Voice 17/media/media/image5.jpeg)
 
 This is a great book to teach about using your own voice in letter
 writing.  After reading the book, discuss ways in which we could tell
@@ -556,11 +550,9 @@ Write a letter to Santa convincing him why they would be the best elf
 for the job! They have to create an elf character, with a name and a
 personality and convey all of this in a convincing letter to Santa.
 
-![http://www.the-best-childrens-books.org/image-files/dear-mrs-larue-inside.jpg](assets/Writing - Voice 17/media/media/image6.jpeg){width="6.041666666666667in"
-height="3.9583333333333335in"}
+![http://www.the-best-childrens-books.org/image-files/dear-mrs-larue-inside.jpg](assets/Writing - Voice 17/media/media/image6.jpeg)
 
-![http://c3.diapers.com/images/products/p/hp/hp-1470_4z.jpg](assets/Writing - Voice 17/media/media/image7.jpeg){width="6.268055555555556in"
-height="8.290008748906386in"}
+![http://c3.diapers.com/images/products/p/hp/hp-1470_4z.jpg](assets/Writing - Voice 17/media/media/image7.jpeg)
 
 Detective LaRue: Letters from Obedience School.
 
@@ -614,12 +606,10 @@ Edit for conventions.
 Publish.
 
 ![Dear Mrs
-LaRue](assets/Writing - Voice 17/media/media/image8.jpeg){width="6.041666666666667in"
-height="4.0in"}
+LaRue](assets/Writing - Voice 17/media/media/image8.jpeg)
 
 ![Literacy Spark: Mentor Texts for Persuasive
-Writing](assets/Writing - Voice 17/media/media/image9.jpeg){width="3.09576990376203in"
-height="2.4270833333333335in"}
+Writing](assets/Writing - Voice 17/media/media/image9.jpeg)
 
 **Hey, Little Ant** **Phillip and Hannah Hoose\**
 
@@ -850,8 +840,7 @@ What would **you** want **me** to do?
 
 **What do you think that kid should do?**
 
-> ![http://www.thagomizer.net/wp-content/uploads/2012/02/pigeon1.jpg](assets/Writing - Voice 17/media/media/image10.jpeg){width="2.9166666666666665in"
-> height="2.9166666666666665in"}
+> ![http://www.thagomizer.net/wp-content/uploads/2012/02/pigeon1.jpg](assets/Writing - Voice 17/media/media/image10.jpeg)
 >
 > ***Don't Let the Pigeon Stay Up Late!* By Mo Willems**
 >
@@ -925,8 +914,7 @@ What would **you** want **me** to do?
 >
 > Good night.
 
-![http://www.openlettersmonthly.com/stevereads/wp-content/uploads/2011/01/dont-let-the-pigeon-drive-the-bus.jpg](assets/Writing - Voice 17/media/media/image11.jpeg){width="2.4895833333333335in"
-height="2.5116152668416447in"}
+![http://www.openlettersmonthly.com/stevereads/wp-content/uploads/2011/01/dont-let-the-pigeon-drive-the-bus.jpg](assets/Writing - Voice 17/media/media/image11.jpeg)
 
 When a bus driver takes a break from his route, a very unlikely
 volunteer springs up to take his place-a pigeon! But you\'ve never met
@@ -934,14 +922,11 @@ one like this before. As he pleads, wheedles, and begs his way through
 the book, children will love being able to answer back and decide his
 fate.
 
-![http://www.the-best-childrens-books.org/image-files/dont-let-the-pigeon-drive-the-bus-2.jpg](assets/Writing - Voice 17/media/media/image12.jpeg){width="2.90625in"
-height="1.7916666666666667in"}
+![http://www.the-best-childrens-books.org/image-files/dont-let-the-pigeon-drive-the-bus-2.jpg](assets/Writing - Voice 17/media/media/image12.jpeg)
 
-![http://www.millvalleylibrary.net/blog/wp-content/uploads/2011/07/Pigeon2.gif](assets/Writing - Voice 17/media/media/image13.gif){width="3.125in"
-height="3.1041666666666665in"}
+![http://www.millvalleylibrary.net/blog/wp-content/uploads/2011/07/Pigeon2.gif](assets/Writing - Voice 17/media/media/image13.gif)
 
-![http://i.ytimg.com/vi/V10jhsNIMI8/hqdefault.jpg](assets/Writing - Voice 17/media/media/image14.jpeg){width="5.0in"
-height="3.75in"}
+![http://i.ytimg.com/vi/V10jhsNIMI8/hqdefault.jpg](assets/Writing - Voice 17/media/media/image14.jpeg)
 
 **Don't let the Pigeon Drive the Bus! Mo Willems**
 
@@ -983,8 +968,7 @@ Great! Thanks a lot."
 
 "Hey ..."
 
-![http://www.mumsintheknow.co.uk/andover/wp-content/uploads/2013/09/Pigeon-can-I-drive.jpg](assets/Writing - Voice 17/media/media/image15.jpeg){width="3.2291666666666665in"
-height="3.5208333333333335in"}
+![http://www.mumsintheknow.co.uk/andover/wp-content/uploads/2013/09/Pigeon-can-I-drive.jpg](assets/Writing - Voice 17/media/media/image15.jpeg)
 
 CALDECOTT HONOUR:
 
@@ -1078,8 +1062,7 @@ Writing:
 
 "If the pigeon drove the bus, he \_\_\_."
 
-![1551701](assets/Writing - Voice 17/media/media/image16.jpeg){width="1.5in"
-height="1.9479166666666667in"}
+![1551701](assets/Writing - Voice 17/media/media/image16.jpeg)
 
 **Earrings by Judith Viorst**
 
@@ -1319,8 +1302,7 @@ Give reasons for your thinking.
 >
 > Pierced ears.
 >
-> ![125507](assets/Writing - Voice 17/media/media/image17.jpeg){width="3.3125in"
-> height="3.5625in"}
+> ![125507](assets/Writing - Voice 17/media/media/image17.jpeg)
 >
 > **The True Story of the 3 Little Pigs Jon Scieszka**
 >
@@ -1331,8 +1313,7 @@ Give reasons for your thinking.
 > twists point of view and perspective, young readers will finally hear
 > the other side of the story of "The Three Little Pigs."
 >
-> ![http://www.ricks-bricks.com/images/awolf.gif](assets/Writing - Voice 17/media/media/image18.gif){width="2.5in"
-> height="2.721353893263342in"}
+> ![http://www.ricks-bricks.com/images/awolf.gif](assets/Writing - Voice 17/media/media/image18.gif)
 
 **The True Story of the 3 Little Pigs Jon Scieszka**
 
@@ -1506,8 +1487,7 @@ Summarising using Who? What? Why?
 Independent Writing: Persuasive essay 'The Perfect Pet.'
 
 ![The Perfect
-Pet](assets/Writing - Voice 17/media/media/image19.jpeg){width="2.3854166666666665in"
-height="2.0416666666666665in"}
+Pet](assets/Writing - Voice 17/media/media/image19.jpeg)
 
 Bird?
 
@@ -1727,8 +1707,7 @@ all.
 >
 > Elizabeth smiled and tossed Doug a piece of popcorn.
 >
-> ![q?\_encoding=UTF8&Format=\_SL160\_&ASIN=1589800710&MarketPlace=US&ID=AsinImage&WS=1&tag=picthiteawitp-20&ServiceVersion=20070822](assets/Writing - Voice 17/media/media/image20.jpeg){width="1.2708333333333333in"
-> height="1.6666666666666667in"}
+> ![q?\_encoding=UTF8&Format=\_SL160\_&ASIN=1589800710&MarketPlace=US&ID=AsinImage&WS=1&tag=picthiteawitp-20&ServiceVersion=20070822](assets/Writing - Voice 17/media/media/image20.jpeg)
 >
 > Steven L. Layne's main character in [My Brother Dan\'s
 > Delicious]{.underline}\--Joseph Demorett II\--relies on an emotional
@@ -1887,8 +1866,7 @@ get him into position, I'' yell really loud, "*My brother Dan's ...*
 
 MY HERO!"
 
-![the-wretched-stone](assets/Writing - Voice 17/media/media/image21.jpeg){width="2.1770833333333335in"
-height="2.90625in"}
+![the-wretched-stone](assets/Writing - Voice 17/media/media/image21.jpeg)
 
 The Wretched Stone begins with a notice reading: "Excerpts from the log
 of the Rita Ann. Randall Ethan Hope, Captain. "We read, then, the
@@ -2229,15 +2207,12 @@ recovered completely, though some show an unnatural appetite for the
 fruit that is available here.
 
 ![The Wretched
-Stone](assets/Writing - Voice 17/media/media/image22.jpeg){width="7.583333333333333in"
-height="5.6875in"}
+Stone](assets/Writing - Voice 17/media/media/image22.jpeg)
 
 ![The Wretched
-Stone](assets/Writing - Voice 17/media/media/image23.jpeg){width="7.583333333333333in"
-height="5.6875in"}
+Stone](assets/Writing - Voice 17/media/media/image23.jpeg)
 
-![myluckyday](assets/Writing - Voice 17/media/media/image24.jpeg){width="2.125in"
-height="2.6666666666666665in"}
+![myluckyday](assets/Writing - Voice 17/media/media/image24.jpeg)
 
 A hungry fox can\'t believe his luck when a pig actually shows up on his
 doorstep. \"Oh no!\" screams the piglet, who\'s mistaken the fox\'s
@@ -2426,8 +2401,7 @@ to describe the fox and pig. Talk about what makes a character a
 "trickster" and discuss other tricksters the children may have
 encountered in other books.
 
-![My-lucky-day](assets/Writing - Voice 17/media/media/image25.png){width="3.34375in"
-height="2.0416666666666665in"}
+![My-lucky-day](assets/Writing - Voice 17/media/media/image25.png)
 
 Discussion: Discuss the "big bad" characters in various folktales and
 stories. Why do you think the author chose to use a fox character
@@ -2437,8 +2411,7 @@ Students write or tell about a time when they had a "lucky day"
 
 Use the final page of the book to write a sequel to the story.
 
-![ANd9GcRtsMVflWaLozQfQYZvWd9SlPzaReT9OCIX0rCWmE0PhnyabqUr](assets/Writing - Voice 17/media/media/image26.jpeg){width="2.3541666666666665in"
-height="2.3229166666666665in"}
+![ANd9GcRtsMVflWaLozQfQYZvWd9SlPzaReT9OCIX0rCWmE0PhnyabqUr](assets/Writing - Voice 17/media/media/image26.jpeg)
 
 **My Lucky Day**
 
@@ -2549,8 +2522,7 @@ tallest pine the hanging
 
 tree. rock.
 
-![dog-who-cried-wolf-keiko-kasza-hardcover-cover-art](assets/Writing - Voice 17/media/media/image27.jpeg){width="2.0833333333333335in"
-height="2.6145833333333335in"}
+![dog-who-cried-wolf-keiko-kasza-hardcover-cover-art](assets/Writing - Voice 17/media/media/image27.jpeg)
 
 Moka the dog is happy to spend time with his owner, Michelle, until the
 day she reads him a book about wolves. She tells him that he is kind of
@@ -2967,8 +2939,7 @@ substitute for the action word jump might be leap, spring,
   pets of wild animals? Can people really provide an appropriate
   environment for wild animals?
 
-![http://3.bp.blogspot.com/-8QG9vUyaN6s/T5EzfJ1383I/AAAAAAAAEgc/T1yC6iwNGLc/s400/51WWtHnXoAL\_\_SL500_AA300\_.jpg](assets/Writing - Voice 17/media/media/image28.jpeg){width="3.125in"
-height="3.125in"}
+![http://3.bp.blogspot.com/-8QG9vUyaN6s/T5EzfJ1383I/AAAAAAAAEgc/T1yC6iwNGLc/s400/51WWtHnXoAL\_\_SL500_AA300\_.jpg](assets/Writing - Voice 17/media/media/image28.jpeg)
 
 When Brian finds a salamander in the woods, he takes it home to live
 with him. By addressing his new pet\'s needs, Brian gradually creates a
@@ -3001,19 +2972,15 @@ that serve to unify the pictures.
   pets of wild animals? Can people really provide an appropriate
   environment for wild animals?
 
-![http://www.randomhouse.com/kids/interiors/images/0-679-86187-4.jpg](assets/Writing - Voice 17/media/media/image29.jpeg){width="6.268055555555556in"
-height="3.0064391951006124in"}
+![http://www.randomhouse.com/kids/interiors/images/0-679-86187-4.jpg](assets/Writing - Voice 17/media/media/image29.jpeg)
 
-![http://c4.q-assets.com/images/products/p/hp/hp-3852_3z.jpg](assets/Writing - Voice 17/media/media/image30.jpeg){width="5.708333333333333in"
-height="5.875in"}
+![http://c4.q-assets.com/images/products/p/hp/hp-3852_3z.jpg](assets/Writing - Voice 17/media/media/image30.jpeg)
 
-![http://media-cache-ak0.pinimg.com/736x/eb/74/ff/eb74ff555c698a8d97e35a0de89de567.jpg](assets/Writing - Voice 17/media/media/image31.jpeg){width="4.6875in"
-height="4.114583333333333in"}
+![http://media-cache-ak0.pinimg.com/736x/eb/74/ff/eb74ff555c698a8d97e35a0de89de567.jpg](assets/Writing - Voice 17/media/media/image31.jpeg)
 
 Extension:
 
-![http://3.bp.blogspot.com/-5rPwj9lYlDQ/T5K95kNF5EI/AAAAAAAAEik/2aJ8-54e3Ho/s400/029%2520Life%2520cycle%2520of%2520a%2520frog.jpg](assets/Writing - Voice 17/media/media/image32.jpeg){width="4.166666666666667in"
-height="3.6666666666666665in"}
+![http://3.bp.blogspot.com/-5rPwj9lYlDQ/T5K95kNF5EI/AAAAAAAAEik/2aJ8-54e3Ho/s400/029%2520Life%2520cycle%2520of%2520a%2520frog.jpg](assets/Writing - Voice 17/media/media/image32.jpeg)
 
 **The Salamander Room Anne Mazer**
 
@@ -3066,8 +3033,7 @@ the green leaves of the trees; owls will hoot and crickets will sing;
 and next to me, on the boulder with its head resting on soft moss, the
 salamander will sleep."
 
-![http://41.media.tumblr.com/47ca08391b12541e3b4acbb2e5262024/tumblr_mllqmjIzGh1s23mkvo1_540.jpg](assets/Writing - Voice 17/media/media/image33.jpeg){width="2.6875in"
-height="3.5833333333333335in"}
+![http://41.media.tumblr.com/47ca08391b12541e3b4acbb2e5262024/tumblr_mllqmjIzGh1s23mkvo1_540.jpg](assets/Writing - Voice 17/media/media/image33.jpeg)
 
 A fox has been circling the McCutchin place and their hens won't lay
 eggs, so sassy Flossie Finley is dispatched to deliver a basketful to
@@ -3288,11 +3254,9 @@ the day, because like I told you, I am a fox!"
 "I know," said Flossie. "I know." And she turned toward Miz Viola's with
 the basket of eggs safely tucked under her arm.
 
-![http://40.media.tumblr.com/eabec8aad7c48d33d3479a9da00780fb/tumblr_mllqmjIzGh1s23mkvo3_500.jpg](assets/Writing - Voice 17/media/media/image34.jpeg){width="4.552083333333333in"
-height="5.021975065616798in"}
+![http://40.media.tumblr.com/eabec8aad7c48d33d3479a9da00780fb/tumblr_mllqmjIzGh1s23mkvo3_500.jpg](assets/Writing - Voice 17/media/media/image34.jpeg)
 
-![https://s3.amazonaws.com/ArchiveImages/SLJ/2009/20091201/slj091201_FO_Flossie_c.jpg](assets/Writing - Voice 17/media/media/image35.jpeg){width="6.25in"
-height="7.489583333333333in"}
+![https://s3.amazonaws.com/ArchiveImages/SLJ/2009/20091201/slj091201_FO_Flossie_c.jpg](assets/Writing - Voice 17/media/media/image35.jpeg)
 
 **Cloudy with a Chance of Meatballs Judi Barrett**
 
@@ -3316,8 +3280,7 @@ granddaughter, in first-person narration, describes the scent of mashed
 potatoes detected while romping with her brother, implying that the
 grandfather\'s story might not be purely fictitious.
 
-![ANd9GcSBJr6Ev97Ed2JMKPLxquKbxjBSeiESIn60qVhlDBQy2mGbDhQx](assets/Writing - Voice 17/media/media/image36.jpeg){width="2.8020833333333335in"
-height="2.46875in"}
+![ANd9GcSBJr6Ev97Ed2JMKPLxquKbxjBSeiESIn60qVhlDBQy2mGbDhQx](assets/Writing - Voice 17/media/media/image36.jpeg)
 
 THINK ABOUT IT
 
@@ -3370,29 +3333,22 @@ tale?
 - Make a list of similarities and differences between the book and the
   film*.*
 
-![http://bp0.blogger.com/\_5rl27tg1Cv8/SIrH7JNsobI/AAAAAAAAB4g/-y4PzEwniHk/s320/20080725-cloudy-meatballs-movie.jpg](assets/Writing - Voice 17/media/media/image37.jpeg){width="2.6041666666666665in"
-height="2.2916666666666665in"}
+![http://bp0.blogger.com/\_5rl27tg1Cv8/SIrH7JNsobI/AAAAAAAAB4g/-y4PzEwniHk/s320/20080725-cloudy-meatballs-movie.jpg](assets/Writing - Voice 17/media/media/image37.jpeg)
 
 ![Picture of Cloudy With a Chance of
-Meatballs](assets/Writing - Voice 17/media/media/image38.jpeg){width="5.625in"
-height="4.916666666666667in"}
+Meatballs](assets/Writing - Voice 17/media/media/image38.jpeg)
 
-![http://a5.mzstatic.com/us/r30/Publication2/v4/ab/3e/d6/ab3ed692-c5f4-b970-7e38-75936d5ac9a6/9781442443044_Screenshot_5.480x480-75.jpg](assets/Writing - Voice 17/media/media/image39.jpeg){width="5.0in"
-height="3.65625in"}
+![http://a5.mzstatic.com/us/r30/Publication2/v4/ab/3e/d6/ab3ed692-c5f4-b970-7e38-75936d5ac9a6/9781442443044_Screenshot_5.480x480-75.jpg](assets/Writing - Voice 17/media/media/image39.jpeg)
 
 ![Cloudy With a Chance of Meatballs - THE
-MOVIE!!!](assets/Writing - Voice 17/media/media/image40.jpeg){width="6.268055555555556in"
-height="4.176274059492563in"}
+MOVIE!!!](assets/Writing - Voice 17/media/media/image40.jpeg)
 
 ![Of climate change and giant pancakes \| Tutus And Tiny
-Hats](assets/Writing - Voice 17/media/media/image41.jpeg){width="6.268055555555556in"
-height="5.349882983377078in"} ![Of climate change and giant pancakes \|
+Hats](assets/Writing - Voice 17/media/media/image41.jpeg) ![Of climate change and giant pancakes \|
 Tutus And Tiny
-Hats](assets/Writing - Voice 17/media/media/image41.jpeg){width="6.268055555555556in"
-height="5.349882983377078in"}
+Hats](assets/Writing - Voice 17/media/media/image41.jpeg)
 
-![http://www.comicbookbrain.com/\_imagery/\_2009_10_28/cloudy-with-a-chance-of-meatballs-artwork.jpg](assets/Writing - Voice 17/media/media/image42.jpeg){width="6.268055555555556in"
-height="5.646473097112861in"}
+![http://www.comicbookbrain.com/\_imagery/\_2009_10_28/cloudy-with-a-chance-of-meatballs-artwork.jpg](assets/Writing - Voice 17/media/media/image42.jpeg)
 
 **Cloudy With a Chance of Meatballs**
 
@@ -3570,8 +3526,7 @@ It's funny, but even as we were sliding down the hill we thought we saw
 a giant pat of butter at the top, and we could almost smell mashed
 potatoes.
 
-![http://www.bookempire.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/9/7/9780399237171.jpg](assets/Writing - Voice 17/media/media/image43.jpeg){width="3.1666666666666665in"
-height="2.562684820647419in"}
+![http://www.bookempire.com.au/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/9/7/9780399237171.jpg](assets/Writing - Voice 17/media/media/image43.jpeg)
 
 When Alex's neighbour Mikey moves away, he offers to give Alex his baby
 iguana. Alex wants the new pet badly. His mother isn't as enthusiastic.
@@ -3888,8 +3843,7 @@ Thank you!
 
 **See also:**
 
-![https://twowritingteachers.files.wordpress.com/2010/12/iwannanewroom.jpg?w=300&h=244](assets/Writing - Voice 17/media/media/image44.jpeg){width="3.125in"
-height="2.5416666666666665in"}
+![https://twowritingteachers.files.wordpress.com/2010/12/iwannanewroom.jpg?w=300&h=244](assets/Writing - Voice 17/media/media/image44.jpeg)
 
 If you're familiar with I Wanna Iguana, then you'll be excited to see
 Alex is back and asking for something else. In this book he wants to get
@@ -3901,14 +3855,11 @@ series of letters written back and forth between Alex and his father
 missives with her son.), Alex details specific reasons why he needs a
 space of his own.
 
-![https://twowritingteachers.files.wordpress.com/2010/12/iwannanewroom4.jpg?w=620](assets/Writing - Voice 17/media/media/image45.jpeg){width="6.268055555555556in"
-height="2.537551399825022in"}
+![https://twowritingteachers.files.wordpress.com/2010/12/iwannanewroom4.jpg?w=620](assets/Writing - Voice 17/media/media/image45.jpeg)
 
-![https://twowritingteachers.files.wordpress.com/2010/12/iwannanewroom5.jpg?w=620](assets/Writing - Voice 17/media/media/image46.jpeg){width="6.268055555555556in"
-height="2.537551399825022in"}
+![https://twowritingteachers.files.wordpress.com/2010/12/iwannanewroom5.jpg?w=620](assets/Writing - Voice 17/media/media/image46.jpeg)
 
-![https://twowritingteachers.files.wordpress.com/2010/12/iwannanewroom6.jpg?w=620](assets/Writing - Voice 17/media/media/image47.jpeg){width="6.268055555555556in"
-height="2.537551399825022in"}
+![https://twowritingteachers.files.wordpress.com/2010/12/iwannanewroom6.jpg?w=620](assets/Writing - Voice 17/media/media/image47.jpeg)
 
 **I WANNA NEW ROOM**
 

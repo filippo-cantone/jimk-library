@@ -5,10 +5,10 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
-<img src="assets/William Steig/media/image1.jpeg"
-style="width:5.97917in;height:5.0625in" />
+<img src="assets/William Steig/media/image1.jpeg" />
 
 **William Steig**
 
@@ -58,8 +58,7 @@ Abel’s Island
 
 The Real Thief
 
-<img src="assets/William Steig/media/image2.jpeg"
-style="width:1.9375in;height:2.91667in" />
+<img src="assets/William Steig/media/image2.jpeg" />
 
 William Steig was born in Brooklyn on November 14, 1907. His father was
 an Austrian immigrant house painter, who had a love for the fine arts,
@@ -90,8 +89,7 @@ actress.
 
 Steig died in 2003 at the age of 95.
 
-<img src="assets/William Steig/media/image3.jpeg"
-style="width:2.27639in;height:2.69653in" />
+<img src="assets/William Steig/media/image3.jpeg" />
 
 An American cartoonist, William Steig brought Shrek to life with words
 and imagery. His picture book, Shrek!, was written in 1990 and featured
@@ -137,8 +135,7 @@ Independent work: Highlight new/vivid words.
 
 Students to create a Book Wall.
 
-<img src="assets/William Steig/media/image4.jpeg"
-style="width:2.04722in;height:2.56389in" />
+<img src="assets/William Steig/media/image4.jpeg" />
 
 > cowed
 
@@ -398,20 +395,15 @@ together.
 So they got hitched as soon as possible. And they lived horribly ever
 after, scaring the socks off all who fell afoul of them.
 
-<img src="assets/William Steig/media/image5.jpeg"
-style="width:6.56597in;height:3.49375in" />
+<img src="assets/William Steig/media/image5.jpeg" />
 
-<img src="assets/William Steig/media/image6.jpeg"
-style="width:4.68889in;height:3.33264in" />
+<img src="assets/William Steig/media/image6.jpeg" />
 
-<img src="assets/William Steig/media/image7.jpeg"
-style="width:6.21806in;height:8.05in" />
+<img src="assets/William Steig/media/image7.jpeg" />
 
-<img src="assets/William Steig/media/image8.jpeg"
-style="width:3.79167in;height:4.19861in" />
+<img src="assets/William Steig/media/image8.jpeg" />
 
-<img src="assets/William Steig/media/image9.jpeg"
-style="width:3.83194in;height:4.37639in" />
+<img src="assets/William Steig/media/image9.jpeg" />
 
 **Sylvester and the Magic Pebble William Steig**
 
@@ -501,17 +493,13 @@ overcome these obstacles?
 What characteristics or qualities did they need in order to succeed? How
 do you think this compares to real life?
 
-<img src="assets/William Steig/media/image10.jpeg"
-style="width:2.04236in;height:2.08194in" />
+<img src="assets/William Steig/media/image10.jpeg" />
 
-<img src="assets/William Steig/media/image11.jpeg"
-style="width:2.34236in;height:2.33333in" />
+<img src="assets/William Steig/media/image11.jpeg" />
 
-<img src="assets/William Steig/media/image12.jpeg"
-style="width:1.9375in;height:2.125in" />
+<img src="assets/William Steig/media/image12.jpeg" />
 
-<img src="assets/William Steig/media/image13.jpeg"
-style="width:5.40625in;height:6.08333in" />
+<img src="assets/William Steig/media/image13.jpeg" />
 
 **Sylvester and the Magic Pebble**
 
@@ -679,14 +667,11 @@ put the magic pebble in an iron safe. Some day they might want to use
 it, but really, for now, what more could they wish for? They had all
 that they wanted.
 
-<img src="assets/William Steig/media/image14.jpeg"
-style="width:7.36667in;height:9.37778in" />
+<img src="assets/William Steig/media/image14.jpeg" />
 
-<img src="assets/William Steig/media/image15.jpeg"
-style="width:3.125in;height:2.71875in" />
+<img src="assets/William Steig/media/image15.jpeg" />
 
-<img src="assets/William Steig/media/image16.jpeg"
-style="width:4.16667in;height:3.34375in" />
+<img src="assets/William Steig/media/image16.jpeg" />
 
 **Amos & Boris William Steig**
 
@@ -889,8 +874,7 @@ the great whale’s cheeks. The tiny mouse had tears in his eyes too.
 They knew they might never meet again. They knew they would never forget
 each other.
 
-<img src="assets/William Steig/media/image17.jpeg"
-style="width:2.11458in;height:2.58333in" />
+<img src="assets/William Steig/media/image17.jpeg" />
 
 Brave Irene is Irene Bobbin, the dressmaker's daughter. Her mother, Mrs.
 Bobbin, isn't feeling so well and can't possibly deliver the beautiful

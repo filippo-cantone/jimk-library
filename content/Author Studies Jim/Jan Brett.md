@@ -5,6 +5,7 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 |     |
@@ -71,8 +72,6 @@ books."</p>
 </tbody>
 </table>
 
-<img src="assets/Jan Brett/media/image1.jpeg"
-style="width:2.08333in;height:3.03125in" />
+<img src="assets/Jan Brett/media/image1.jpeg" />
 
-<img src="assets/Jan Brett/media/image2.jpeg"
-style="width:4.16667in;height:2.78125in" />
+<img src="assets/Jan Brett/media/image2.jpeg" />

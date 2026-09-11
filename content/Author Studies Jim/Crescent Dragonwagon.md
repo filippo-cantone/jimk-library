@@ -5,6 +5,7 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 **Crescent Dragonwagon**
@@ -347,8 +348,7 @@ illustrations go all the way to the edge of the paper, but when the text
 is about the family from long ago, the illustrations are set in frames
 as if we are looking through a window into the past.
 
-<img src="assets/Crescent Dragonwagon/media/image1.jpeg"
-style="width:3.33333in;height:2.53125in" />
+<img src="assets/Crescent Dragonwagon/media/image1.jpeg" />
 
 In imagining the people who lived in this house long ago, the girl sees
 the mother and father watching a rainstorm in the middle of the night.

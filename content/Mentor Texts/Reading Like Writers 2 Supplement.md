@@ -934,6 +934,7 @@ edged wanted prayed marked
 helped waved smiled yelled
 rushed placed
 
+strand: reading
 ---
 
 <!-- page 22 -->

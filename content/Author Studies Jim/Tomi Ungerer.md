@@ -5,12 +5,12 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 **Q & A with Tomi Ungerer**
 
-<img src="assets/Tomi Ungerer/media/image1.jpeg"
-style="width:1.5625in;height:2.4375in" />
+<img src="assets/Tomi Ungerer/media/image1.jpeg" />
 
 *Tomi Ungerer’s name is instantly recognisable to those who grew up
 reading his books in the 1960s and ’70s: The Three Robbers, Crictor the
@@ -61,8 +61,7 @@ out of print. In fact, it had gotten to the point where my Korean
 publisher was talking about publishing me in English. That would have
 been an interesting experience!
 
-<img src="assets/Tomi Ungerer/media/image2.jpeg"
-style="width:1.5625in;height:2.1875in" />
+<img src="assets/Tomi Ungerer/media/image2.jpeg" />
 
 *Diogenes agreed to Phaidon’s proposal, and then you had to look again
 at all of your artwork.*
@@ -93,8 +92,7 @@ Anyway, so a children’s book is always 32 pages, and I always have my
 little \[storyboard\] squares. I always say that my story is a salami
 and I just have to find out where to slice it to put in the pictures.
 
-<img src="assets/Tomi Ungerer/media/image3.jpeg"
-style="width:1.56181in;height:2.13542in" />
+<img src="assets/Tomi Ungerer/media/image3.jpeg" />
 
 *You've embraced new media—you have a Twitter feed, and a Facebook page.
 Have you experimented with graphic tablets and Photoshop and all the
@@ -130,8 +128,7 @@ children’s book artists should think more about reality, and about how
 to make children conscious that there are bad things in the world and
 that we have to fight against them.
 
-<img src="assets/Tomi Ungerer/media/image4.jpeg"
-style="width:2.08333in;height:3.125in" />
+<img src="assets/Tomi Ungerer/media/image4.jpeg" />
 
 I’ve worked to convince the Germans to teach French as a foreign
 language in their schools. I had convinced the French education minister

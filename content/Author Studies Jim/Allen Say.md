@@ -5,12 +5,12 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 **Allen Say**
 
-<img src="assets/Allen Say/media/image1.jpeg"
-style="width:3.56389in;height:4.68889in" />
+<img src="assets/Allen Say/media/image1.jpeg" />
 
 *“A good story should alter you in some way; it should change your
 thinking, your feeling, your psyche, or the way you look at things. A
@@ -19,8 +19,7 @@ maze. When you come out of it, you should feel slightly changed.”*
 
 *–Allen Say*
 
-<img src="assets/Allen Say/media/image2.jpeg"
-style="width:2.08333in;height:2.72917in" />
+<img src="assets/Allen Say/media/image2.jpeg" />
 
 Allen Say was born in Yokohama, Japan, in 1937. His father, a Korean
 orphan raised by a British family in Shanghai, and his mother, a
@@ -99,88 +98,65 @@ adopted child's questions about belonging (Allison). Tree of Cranes,
 Grandfather's Journey (winner of the 1994 Caldecott Medal), Tea with
 Milk, and The Sign Painter are the most autobiographical of his works.
 
-<img src="assets/Allen Say/media/image3.jpeg"
-style="width:4.27153in;height:5.83472in" />
+<img src="assets/Allen Say/media/image3.jpeg" />
 
 In 2000, the Japanese American National Museum in Los Angeles held the
 first retrospective of Say's work in children's literature. Fifty-five
 of his original drawings and paintings were featured along with original
 sketchbooks and autobiographical artifacts.
 
-<img src="assets/Allen Say/media/image4.jpeg"
-style="width:3.5625in;height:4.73958in" />
+<img src="assets/Allen Say/media/image4.jpeg" />
 
 “Most people seem to be interested in turning their dreams into reality.
 Then there are those who turn reality into dreams. I belong to the
 latter group.” ~ Allen Say
 
-<img src="assets/Allen Say/media/image5.jpeg"
-style="width:1.125in;height:1.45833in" /> Under the Cherry Blossom Tree
+<img src="assets/Allen Say/media/image5.jpeg" /> Under the Cherry Blossom Tree
 (1974)
 
-<img src="assets/Allen Say/media/image6.jpeg"
-style="width:1.07292in;height:1.125in" /> The Bicycle Man (1982)
+<img src="assets/Allen Say/media/image6.jpeg" /> The Bicycle Man (1982)
 
-<img src="assets/Allen Say/media/image7.jpeg"
-style="width:1.29167in;height:1.125in" /> A River Dream (1988)
+<img src="assets/Allen Say/media/image7.jpeg" /> A River Dream (1988)
 
-<img src="assets/Allen Say/media/image8.jpeg"
-style="width:1.35417in;height:1.125in" /> The Boy of the Three-Year Nap
+<img src="assets/Allen Say/media/image8.jpeg" /> The Boy of the Three-Year Nap
 (1988)
 
 written by Dianne Snyder
 
-<img src="assets/Allen Say/media/image9.jpeg"
-style="width:1.25in;height:1.125in" /> The Lost Lake (1989)
+<img src="assets/Allen Say/media/image9.jpeg" /> The Lost Lake (1989)
 
-<img src="assets/Allen Say/media/image10.jpeg"
-style="width:1.125in;height:1.35417in" /> El Chino (1990)
+<img src="assets/Allen Say/media/image10.jpeg" /> El Chino (1990)
 
-<img src="assets/Allen Say/media/image11.jpeg"
-style="width:1.125in;height:1.48958in" /> Tree of Cranes (1991)
+<img src="assets/Allen Say/media/image11.jpeg" /> Tree of Cranes (1991)
 
-<img src="assets/Allen Say/media/image12.jpeg"
-style="width:1.125in;height:1.57153in" /> Grandfather's Journey (1993)
+<img src="assets/Allen Say/media/image12.jpeg" /> Grandfather's Journey (1993)
 
-<img src="assets/Allen Say/media/image13.jpeg"
-style="width:1.01042in;height:1.5in" /> The Ink-Keeper's Apprentice
+<img src="assets/Allen Say/media/image13.jpeg" /> The Ink-Keeper's Apprentice
 (1994)
 
-<img src="assets/Allen Say/media/image14.jpeg"
-style="width:1.125in;height:1.32292in" /> Stranger in the Mirror (1995)
+<img src="assets/Allen Say/media/image14.jpeg" /> Stranger in the Mirror (1995)
 
-<img src="assets/Allen Say/media/image15.jpeg"
-style="width:1.125in;height:1.34375in" /> Emma's Rug (1996)
+<img src="assets/Allen Say/media/image15.jpeg" /> Emma's Rug (1996)
 
-<img src="assets/Allen Say/media/image16.jpeg"
-style="width:1.11597in;height:1.29236in" /> Allison (1997)
+<img src="assets/Allen Say/media/image16.jpeg" /> Allison (1997)
 
-<img src="assets/Allen Say/media/image17.jpeg"
-style="width:1.125in;height:1.22986in" /> Tea with Milk (1999)
+<img src="assets/Allen Say/media/image17.jpeg" /> Tea with Milk (1999)
 
-<img src="assets/Allen Say/media/image18.png"
-style="width:1.44861in;height:1.125in" /> The Sign Painter (2000)
+<img src="assets/Allen Say/media/image18.png" /> The Sign Painter (2000)
 
-<img src="assets/Allen Say/media/image19.jpeg"
-style="width:1.36458in;height:1.57292in" /> Home of the Brave (2002)
+<img src="assets/Allen Say/media/image19.jpeg" /> Home of the Brave (2002)
 
-<img src="assets/Allen Say/media/image20.jpeg"
-style="width:1.39583in;height:1.125in" /> Music for Alice (2004)
+<img src="assets/Allen Say/media/image20.jpeg" /> Music for Alice (2004)
 
-<img src="assets/Allen Say/media/image21.jpeg"
-style="width:1.24653in;height:1.38056in" /> Kamishibai Man (2005)
+<img src="assets/Allen Say/media/image21.jpeg" /> Kamishibai Man (2005)
 
-<img src="assets/Allen Say/media/image22.jpeg"
-style="width:1.66528in;height:1.66528in" /> The Boy in the Garden (2010)
+<img src="assets/Allen Say/media/image22.jpeg" /> The Boy in the Garden (2010)
 
-<img src="assets/Allen Say/media/image23.jpeg"
-style="width:1.45833in;height:1.91667in" /> Drawing from Memory (2011)
+<img src="assets/Allen Say/media/image23.jpeg" /> Drawing from Memory (2011)
 
-<img src="assets/Allen Say/media/image24.jpeg"
-style="width:1.61389in;height:1.70347in" /> The Favorite Daughter (2013)
+<img src="assets/Allen Say/media/image24.jpeg" /> The Favorite Daughter (2013)
 
-<img src="assets/Allen Say/media/image25.png"
-style="width:2.96944in;height:0.42569in" />
+<img src="assets/Allen Say/media/image25.png" />
 
 **RIF:** How many of your books are autobiographical?
 
@@ -271,15 +247,13 @@ artists?
 
 **AS:** Keep your eyes and ears wide open!
 
-<img src="assets/Allen Say/media/image26.jpeg"
-style="width:3.95833in;height:2.63542in" />
+<img src="assets/Allen Say/media/image26.jpeg" />
 
 Allen Say at work in his Northeast Portland home. The children's book
 author and illustrator sometimes doesn't leave his house for days when
 he's working on a project.
 
-<img src="assets/Allen Say/media/image27.jpeg"
-style="width:2.45069in;height:3.24583in" />
+<img src="assets/Allen Say/media/image27.jpeg" />
 
 There were eggs in every bird’s nest, the air buzzed with honeybees, and
 cherry trees blossomed all at once. The poor villagers forgot their
@@ -293,8 +267,7 @@ cherry tree and to the wicked landlord is a favourite joke in Japan.
 Allen Say tells the story with wit and vitality, and his beautiful
 drawings complement this classic Japanese tale.
 
-<img src="assets/Allen Say/media/image28.jpeg"
-style="width:2.04236in;height:2.67569in" />
+<img src="assets/Allen Say/media/image28.jpeg" />
 
 **Writing:** Read and Retell
 
@@ -515,8 +488,7 @@ there’ll let’s what’s</em></p></td>
 </tbody>
 </table>
 
-<img src="assets/Allen Say/media/image29.jpeg"
-style="width:3.13194in;height:2.99306in" />
+<img src="assets/Allen Say/media/image29.jpeg" />
 
 A story of cross-cultural friendship in the shadow of war, The Bicycle
 Man begins with an athletic competition at a school on the south island
@@ -553,11 +525,9 @@ is eclipsed by the sheer joy everyone present has taken not just in
 athletic prowess, but in a friendly interlude between people determined
 not to be enemies, even in occupied Japan.
 
-<img src="assets/Allen Say/media/image30.png"
-style="width:3.125in;height:2.96875in" />
+<img src="assets/Allen Say/media/image30.png" />
 
-<img src="assets/Allen Say/media/image31.jpeg"
-style="width:5in;height:4.75in" />
+<img src="assets/Allen Say/media/image31.jpeg" />
 
 **The Bicycle Man Allen Say**
 
@@ -887,8 +857,7 @@ Getting to know someone helps in understanding them.
 
 **WRITING –** See Writing Craft frame.
 
-<img src="assets/Allen Say/media/image32.jpeg"
-style="width:5.33333in;height:3in" />
+<img src="assets/Allen Say/media/image32.jpeg" />
 
 **WRITING CRAFT**
 
@@ -952,8 +921,7 @@ sportsday piggyback</em></p></td>
 </tbody>
 </table>
 
-<img src="assets/Allen Say/media/image33.jpeg"
-style="width:3.52153in;height:3.20694in" />
+<img src="assets/Allen Say/media/image33.jpeg" />
 
 A River Dream begins and ends with a boy named Mark sick in bed with a
 fever, though his temperature is easing toward normal when we take our
@@ -1325,8 +1293,7 @@ what’s</em></p></td>
 </tbody>
 </table>
 
-<img src="assets/Allen Say/media/image34.jpeg"
-style="width:3.46736in;height:2.98472in" />
+<img src="assets/Allen Say/media/image34.jpeg" />
 
 Summer vacation at Dad’s may start out boring, but it doesn’t end up
 that way. After a month working at the drawing board in his home office,
@@ -1707,8 +1674,7 @@ freeze-dried</em></p></td>
 </tbody>
 </table>
 
-<img src="assets/Allen Say/media/image35.jpeg"
-style="width:2.6125in;height:2.92361in" />
+<img src="assets/Allen Say/media/image35.jpeg" />
 
 Allen Say's true story of the first Chinese bullfighter. The son of
 Chinese immigrants, Billy Wong grew up in Arizona. His father is a
@@ -1795,8 +1761,7 @@ going to Spain to become a bullfighter. His mother wrote monthly pleas
 for him to come home, while the rest of his siblings helped fund his
 wild, unlikely dream.
 
-<img src="assets/Allen Say/media/image36.jpeg"
-style="width:5.83472in;height:2.50069in" />
+<img src="assets/Allen Say/media/image36.jpeg" />
 
 In Spain, Bill encountered prejudice of another sort. Spaniards have a
 long, storied tradition of bullfighting and for an outsider to become a
@@ -2109,11 +2074,9 @@ I’m wouldn’t weren’t don’t that’s</em></p>
 A young boy in Japan celebrates his first Christmas. Two cultures
 combine as his mother shares a glimpse of her American childhood.
 
-<img src="assets/Allen Say/media/image37.jpeg"
-style="width:1.79306in;height:2.31944in" />
+<img src="assets/Allen Say/media/image37.jpeg" />
 
-<img src="assets/Allen Say/media/image38.jpeg"
-style="width:1.91319in;height:2.21806in" />
+<img src="assets/Allen Say/media/image38.jpeg" />
 
 Plot Summary
 
@@ -2426,69 +2389,56 @@ Cranes.
 
 **Paper Crane**
 
-<img src="assets/Allen Say/media/image39.png"
-style="width:2.19792in;height:1.67708in" /> Start with a square piece of
+<img src="assets/Allen Say/media/image39.png" /> Start with a square piece of
 paper, coloured side up.
 
 Fold the top corner of the paper down to the bottom corner.  Crease and
 open again. Then fold the paper in half sideways.
 
-<img src="assets/Allen Say/media/image40.png"
-style="width:1.19792in;height:1.36458in" /> Turn the paper over to the
+<img src="assets/Allen Say/media/image40.png" /> Turn the paper over to the
 white side.
 
 Fold the paper in half, crease well and open, and then fold again in the
 other direction.
 
-<img src="assets/Allen Say/media/image41.png"
-style="width:4.20833in;height:1.72778in" />
+<img src="assets/Allen Say/media/image41.png" />
 
 Using  the creases you have made, Bring the top 3 corners of the model
 down to the bottom corner. Flatten model.
 
-<img src="assets/Allen Say/media/image42.png"
-style="width:1.21875in;height:1.27083in" /> Fold top triangular flaps
+<img src="assets/Allen Say/media/image42.png" /> Fold top triangular flaps
 into the centre and unfold.
 
-<img src="assets/Allen Say/media/image43.png"
-style="width:1.21875in;height:1.27083in" /> Fold top of model downwards,
+<img src="assets/Allen Say/media/image43.png" /> Fold top of model downwards,
 crease well and unfold.
 
-<img src="assets/Allen Say/media/image44.png"
-style="width:4.08333in;height:1.69792in" />
+<img src="assets/Allen Say/media/image44.png" />
 
 Open the uppermost flap of the model, bringing it upwards and pressing
 the sides of the model inwards at the same time.
 
 Flatten down, creasing well.
 
-<img src="assets/Allen Say/media/image45.png"
-style="width:2.38472in;height:1.74861in" /> Turn model over and repeat
+<img src="assets/Allen Say/media/image45.png" /> Turn model over and repeat
 Steps 4-6 on the other side.
 
-<img src="assets/Allen Say/media/image46.png"
-style="width:1.70833in;height:1.77083in" /> Fold top flaps into the
+<img src="assets/Allen Say/media/image46.png" /> Fold top flaps into the
 centre.
 
-<img src="assets/Allen Say/media/image47.png"
-style="width:0.54167in;height:1.80208in" /> Repeat on other side, so
+<img src="assets/Allen Say/media/image47.png" /> Repeat on other side, so
 your model looks like this.
 
-<img src="assets/Allen Say/media/image48.png"
-style="width:1.53125in;height:1.80208in" /> Fold both 'legs' of model
+<img src="assets/Allen Say/media/image48.png" /> Fold both 'legs' of model
 up, crease very well, then unfold.
 
-<img src="assets/Allen Say/media/image49.png"
-style="width:1.01042in;height:1.82292in" />Inside Reverse Fold the
+<img src="assets/Allen Say/media/image49.png" />Inside Reverse Fold the
 "legs" along the creases you just made.
 
-<img src="assets/Allen Say/media/image50.png"
-style="width:3.23958in;height:1.17708in" />
+<img src="assets/Allen Say/media/image50.png" />
 
 Inside Reverse Fold one side to make a head, then fold down the wings.
 
-<img src="assets/Allen Say/media/image51.png"
-style="width:1.43681in;height:1.58333in" /> Finished Crane!
+<img src="assets/Allen Say/media/image51.png" /> Finished Crane!
 
 **READING STRATEGIES Tree of Cranes**
 
@@ -2536,8 +2486,7 @@ contrast.</td>
 
 **Grandfather’s Journey Allen Say**
 
-<img src="assets/Allen Say/media/image52.jpeg"
-style="width:2.42292in;height:2.9in" />
+<img src="assets/Allen Say/media/image52.jpeg" />
 
 A Japanese American man recounts his grandfather’s journey to America
 and the feelings of loving two different countries.
@@ -2545,8 +2494,7 @@ and the feelings of loving two different countries.
 Some students would have experienced this. Others could interview
 parents, grandparents for source material.
 
-<img src="assets/Allen Say/media/image53.jpeg"
-style="width:5.19792in;height:3.05208in" />
+<img src="assets/Allen Say/media/image53.jpeg" />
 
 **Grandfather’s Journey Reading Strategies**
 
@@ -2668,8 +2616,7 @@ Students think more about Grandfather's Journey after the Read Aloud.
 Each student writes an answer to the "after-reading" question they asked
 with their partner in the Guided Practice activity**.**
 
-<img src="assets/Allen Say/media/image54.jpeg"
-style="width:3.73958in;height:4.16667in" />
+<img src="assets/Allen Say/media/image54.jpeg" />
 
 |                           |             |
 |---------------------------|-------------|
@@ -2745,28 +2692,21 @@ heart.
 The funny thing is, the moment I am in one country, I am homesick for
 the other.
 
-<img src="assets/Allen Say/media/image55.jpeg"
-style="width:4.42778in;height:5.00069in" />
+<img src="assets/Allen Say/media/image55.jpeg" />
 
-<img src="assets/Allen Say/media/image56.jpeg"
-style="width:3.375in;height:3.72917in" />
+<img src="assets/Allen Say/media/image56.jpeg" />
 
-<img src="assets/Allen Say/media/image57.jpeg"
-style="width:3.68681in;height:4.16667in" />
+<img src="assets/Allen Say/media/image57.jpeg" />
 
-<img src="assets/Allen Say/media/image58.jpeg"
-style="width:5in;height:5.5625in" />
+<img src="assets/Allen Say/media/image58.jpeg" />
 
-<img src="assets/Allen Say/media/image59.png"
-style="width:5.00069in;height:5.58403in" />
+<img src="assets/Allen Say/media/image59.png" />
 
-<img src="assets/Allen Say/media/image60.jpeg"
-style="width:4.15486in;height:4.66736in" />
+<img src="assets/Allen Say/media/image60.jpeg" />
 
 **Stranger in the Mirror Allen Say**
 
-<img src="assets/Allen Say/media/image61.png"
-style="width:1.6875in;height:1.94792in" />
+<img src="assets/Allen Say/media/image61.png" />
 
 A child's unrest over the departure of his grandfather begins with Sam
 gripped by the thought of \`\`how small Grandpa had looked waving
@@ -3133,8 +3073,7 @@ backpack tiptoed</em></p></td>
 
 **Emma’s Rug Allen Say**
 
-<img src="assets/Allen Say/media/image62.png"
-style="width:1.66667in;height:1.94792in" />
+<img src="assets/Allen Say/media/image62.png" />
 
 As a small child, Emma has two noteworthy practices: she stares for long
 periods at the fuzzy white rug she has had since birth, and she spends
@@ -3316,14 +3255,12 @@ knew them from before. She had thought she would never see again. “I can
 see you!” Emma cried with joy. The trees rustled, as if laughing. And
 then it was quiet.
 
-<img src="assets/Allen Say/media/image63.jpeg"
-style="width:4.08333in;height:4.73958in" />
+<img src="assets/Allen Say/media/image63.jpeg" />
 
 **Allison Allen Say**
 
 <img src="assets/Allen Say/media/image64.jpeg" />
-<img src="assets/Allen Say/media/image65.jpeg"
-style="width:1.95764in;height:2.64583in" />
+<img src="assets/Allen Say/media/image65.jpeg" />
 
 Allison is the heart-rending beautiful story of a little girl’s own
 sudden awareness of her adopted status and its consequences.
@@ -3345,11 +3282,9 @@ doesn’t gloss over how hard it can be for parents to respond rationally
 either, and this adds to the story’s emotional depth. This is indeed a
 powerful and poignant book!
 
-<img src="assets/Allen Say/media/image66.jpeg"
-style="width:3.68681in;height:4.16667in" />
+<img src="assets/Allen Say/media/image66.jpeg" />
 
-<img src="assets/Allen Say/media/image67.jpeg"
-style="width:4.28472in;height:4.975in" />
+<img src="assets/Allen Say/media/image67.jpeg" />
 
 **Allison Allen Say**
 
@@ -3531,8 +3466,7 @@ The stray cat wasn’t a stray anymore.
 
 **Tea with Milk Allen Say**
 
-<img src="assets/Allen Say/media/image68.jpeg"
-style="width:2.625in;height:2.9125in" />
+<img src="assets/Allen Say/media/image68.jpeg" />
 
 Tea with Milk is a beautifully illustrated picture book that tells the
 fictionalised account of Allen Say’s mother’s journey from her home in
@@ -3845,14 +3779,11 @@ very long.
 All this happened a long time ago, but even today I always drink my tea
 with milk and sugar.
 
-<img src="assets/Allen Say/media/image69.jpeg"
-style="width:4.26042in;height:5in" />
+<img src="assets/Allen Say/media/image69.jpeg" />
 
-<img src="assets/Allen Say/media/image70.jpeg"
-style="width:4.31389in;height:4.71875in" />
+<img src="assets/Allen Say/media/image70.jpeg" />
 
-<img src="assets/Allen Say/media/image71.jpeg"
-style="width:3.33264in;height:2.57361in" />
+<img src="assets/Allen Say/media/image71.jpeg" />
 
 Like a 1930s cinematographer, Say (Grandfather's Journey), in perhaps
 his best work to date, pays tribute to a bygone era with a brief
@@ -4083,8 +4014,7 @@ It was late when the boy said good-bye to the sign painter. And as the
 last bus cme around the corner he said softly to the empty street, “Just
 passing by …”
 
-<img src="assets/Allen Say/media/image72.png"
-style="width:2.52083in;height:3.53125in" />
+<img src="assets/Allen Say/media/image72.png" />
 
 **Home of the Brave**
 
@@ -4117,8 +4047,7 @@ poignant interpretation of what children, whatever their culture, must
 feel when so tiny and scared and far from where they long to be." — Los
 Angeles Times Book Review.
 
-<img src="assets/Allen Say/media/image73.jpeg"
-style="width:3.56389in;height:4.125in" />
+<img src="assets/Allen Say/media/image73.jpeg" />
 
 **Home of the Brave Allen Say**
 
@@ -4235,8 +4164,7 @@ the mountains.
 
 And the children nodded.
 
-<img src="assets/Allen Say/media/image74.jpeg"
-style="width:3.38333in;height:2.53194in" />
+<img src="assets/Allen Say/media/image74.jpeg" />
 
 It has been a long time coming, but Allen Say, the respected children's
 book author and artist, has finally tackled the central event that
@@ -4365,8 +4293,7 @@ about, but with a mix of emotions.
 "It's a difficult subject for me to talk about," he said. "I haven't
 really sorted it all out yet, and I don't know if I will."
 
-<img src="assets/Allen Say/media/image75.jpeg"
-style="width:5.58472in;height:4.26319in" />
+<img src="assets/Allen Say/media/image75.jpeg" />
 
 **Allen Say – Music for Alice**
 
@@ -4457,8 +4384,7 @@ can be quite entertaining for the young—and young at heart.
 
 # Alice Sumida
 
-<img src="assets/Allen Say/media/image76.jpeg"
-style="width:1.45833in;height:1.45833in" />
+<img src="assets/Allen Say/media/image76.jpeg" />
 
 Alice Sumida (b.1914) Alice’s parents immigrated to California from
 Kumamoto, Japan, and were farming in the Central Coast area when she was
@@ -4482,8 +4408,7 @@ largest gladiola bulb farm. Following Mark’s passing in 1981, Alice
 revived her earlier love of dance, and, now in her 90s, she continues to
 compete in ballroom dance events around the world. *(December 26, 2005)*
 
-<img src="assets/Allen Say/media/image77.jpeg"
-style="width:4.6875in;height:3.53056in" />
+<img src="assets/Allen Say/media/image77.jpeg" />
 
 **Music for Alice Allen Say**
 
@@ -4642,8 +4567,7 @@ feeling came over me.
 
 And dance I do – all that I can.
 
-<img src="assets/Allen Say/media/image21.jpeg"
-style="width:2.59167in;height:2.87083in" />
+<img src="assets/Allen Say/media/image21.jpeg" />
 
 In the afterword to this heart-warming story, we learn that kamishibai,
 a travelling 'paper theatre', was a well-loved form of entertainment for
@@ -4688,8 +4612,7 @@ special children's books, which can be read again and again, and that
 adults will never tire of reading as a bedtime story. The only problem
 will be looking for a 'real' kamishibai man.
 
-<img src="assets/Allen Say/media/image78.jpeg"
-style="width:3.86458in;height:4.125in" />
+<img src="assets/Allen Say/media/image78.jpeg" />
 
 **Kamishibai Man Allen Say**
 
@@ -4929,20 +4852,15 @@ Tara McGowan
 
 Japanese folklore scholar
 
-<img src="assets/Allen Say/media/image79.jpeg"
-style="width:4.41597in;height:3.31181in" />
+<img src="assets/Allen Say/media/image79.jpeg" />
 
-<img src="assets/Allen Say/media/image80.png"
-style="width:4.04167in;height:4.45833in" />
+<img src="assets/Allen Say/media/image80.png" />
 
-<img src="assets/Allen Say/media/image81.jpeg"
-style="width:4.3125in;height:4.72917in" />
+<img src="assets/Allen Say/media/image81.jpeg" />
 
-<img src="assets/Allen Say/media/image82.jpeg"
-style="width:4.78125in;height:3.79167in" />
+<img src="assets/Allen Say/media/image82.jpeg" />
 
-<img src="assets/Allen Say/media/image83.jpeg"
-style="width:3in;height:2.59375in" />
+<img src="assets/Allen Say/media/image83.jpeg" />
 
 Erika-San, once again has a cross-cultural theme. A young American girl
 sees a print of a small Japanese cottage with lighted windows hanging in
@@ -4957,24 +4875,19 @@ and meets another teacher, Aki, whom she eventually marries. The final
 spread of the book shows a small farmhouse, “nested in the green
 hillsides of old Japan. And there Erika-san stayed, home at last.”
 
-<img src="assets/Allen Say/media/image84.jpeg"
-style="width:5.27986in;height:4.15486in" />
+<img src="assets/Allen Say/media/image84.jpeg" />
 
-<img src="assets/Allen Say/media/image85.jpeg"
-style="width:5.27083in;height:4.07361in" />
+<img src="assets/Allen Say/media/image85.jpeg" />
 
 Erika meets Aki.
 
-<img src="assets/Allen Say/media/image86.jpeg"
-style="width:5.27083in;height:4.125in" />
+<img src="assets/Allen Say/media/image86.jpeg" />
 
 Erika learns the art of tea ceremony to impress Aki.
 
-<img src="assets/Allen Say/media/image87.jpeg"
-style="width:4.71875in;height:3.65625in" />
+<img src="assets/Allen Say/media/image87.jpeg" />
 
-<img src="assets/Allen Say/media/image88.jpeg"
-style="width:4.69792in;height:3.65625in" />
+<img src="assets/Allen Say/media/image88.jpeg" />
 
 **Erika-San Allen Say**
 
@@ -5206,8 +5119,7 @@ outskirts of town, nested in the green hillsides of old Japan.
 
 And there Erika-san stayed, home at last.
 
-<img src="assets/Allen Say/media/image89.jpeg"
-style="width:3.33333in;height:2.95833in" />
+<img src="assets/Allen Say/media/image89.jpeg" />
 
 In “The Boy in the Garden,” young Jiro has joined his father on a New
 Year’s visit to the home of Mr. Ozu. While the two men talk, the little
@@ -5259,42 +5171,34 @@ Roger Sutton
 
 New York Times
 
-<img src="assets/Allen Say/media/image90.jpeg"
-style="width:6.25in;height:3.28125in" />
+<img src="assets/Allen Say/media/image90.jpeg" />
 
-<img src="assets/Allen Say/media/image91.jpeg"
-style="width:4.16667in;height:3.42569in" />
+<img src="assets/Allen Say/media/image91.jpeg" />
 
 Jiro peeping out at the crane in the distance.
 
-<img src="assets/Allen Say/media/image92.jpeg"
-style="width:4.16667in;height:2.1875in" />
+<img src="assets/Allen Say/media/image92.jpeg" />
 
 Jiro about to touch the crane, with his father and Mr. Ozu laughing in
 the distance.
 
-<img src="assets/Allen Say/media/image93.jpeg"
-style="width:4.16667in;height:3.4375in" />
+<img src="assets/Allen Say/media/image93.jpeg" />
 
 Jiro embarrassed.
 
-<img src="assets/Allen Say/media/image94.jpeg"
-style="width:4.16667in;height:3.34375in" />
+<img src="assets/Allen Say/media/image94.jpeg" />
 
 Jiro finds the woodcutter's cottage
 
-<img src="assets/Allen Say/media/image95.jpeg"
-style="width:4.16667in;height:3.77986in" />
+<img src="assets/Allen Say/media/image95.jpeg" />
 
 Aren't you supposed to be lost in the snowstorm?
 
-<img src="assets/Allen Say/media/image96.jpeg"
-style="width:4.16667in;height:3.63542in" />
+<img src="assets/Allen Say/media/image96.jpeg" />
 
 No, I'll never peek. Never!
 
-<img src="assets/Allen Say/media/image97.jpeg"
-style="width:4.16667in;height:3.4375in" />
+<img src="assets/Allen Say/media/image97.jpeg" />
 
 By the time the moon rose above the garden of Mr. Ozu,
 
@@ -5504,8 +5408,7 @@ Jiro only smiled.
 They were home by supper, and by the time the moon rose above the garden
 of Mr Ozu, Jiro was fast asleep in his own bed.
 
-<img src="assets/Allen Say/media/image24.jpeg"
-style="width:3.31181in;height:3.50069in" />
+<img src="assets/Allen Say/media/image24.jpeg" />
 
 A father helps his daughter find pride and inspiration in this masterful
 picture book.
@@ -5853,8 +5756,7 @@ someday?”
 Some years later, they did go to Japan, and they had the most wonderful
 time together.
 
-<img src="assets/Allen Say/media/image98.jpeg"
-style="width:6in;height:6.27986in" />
+<img src="assets/Allen Say/media/image98.jpeg" />
 
 ALLEN SAY is an award-winning children’s book illustrator and author. He
 has received many awards including the 1993 Caldecott Medal Award for
@@ -5960,8 +5862,7 @@ way he knows how to deal with anybody.
 
 He is my favourite father**.**
 
-<img src="assets/Allen Say/media/image99.jpeg"
-style="width:2.39583in;height:3.125in" />
+<img src="assets/Allen Say/media/image99.jpeg" />
 
 **Summary**:
 
@@ -6024,8 +5925,7 @@ or graphic novel format.
 
 Review by ELIZABETH BIRD, 2011
 
-<img src="assets/Allen Say/media/image100.jpeg"
-style="width:3.125in;height:1.95833in" />
+<img src="assets/Allen Say/media/image100.jpeg" />
 
 Imagine that you are twelve, you have your own apartment (which your
 parents pay for), and you get to study comics with a master sensei.
@@ -6048,8 +5948,7 @@ today, as well as photographs, comic panels, sketches, and more. An
 Author’s Note in the back explains what happened to his old sensei years
 and years later.
 
-<img src="assets/Allen Say/media/image101.jpeg"
-style="width:3.125in;height:2.09375in" />
+<img src="assets/Allen Say/media/image101.jpeg" />
 
 The name of this book is Drawing from Memory and periodically throughout
 the text you’ll see Allen mention a teacher or a moment and then say
@@ -6077,8 +5976,7 @@ down at young Allen’s forays with his crayons on the wall. You never see
 his face. His mother’s yes. His grandmother’s, oh yes. But not Father.
 Telling
 
-<img src="assets/Allen Say/media/image102.jpeg"
-style="width:2.70833in;height:3.125in" />
+<img src="assets/Allen Say/media/image102.jpeg" />
 
 Praise to the writing, by the way. It’s all well and good to create an
 illustrated narrative like the one we’ve found here but another thing
@@ -6113,26 +6011,19 @@ can affect their entire life. A memoir as well as a tribute to an old
 friend, Say’s book fulfills its purpose so well that one can’t help but
 hope for a sequel someday. This is nonfiction for kids at its best.
 
-<img src="assets/Allen Say/media/image103.png"
-style="width:4.875in;height:2.64583in" />
+<img src="assets/Allen Say/media/image103.png" />
 
-<img src="assets/Allen Say/media/image104.jpeg"
-style="width:6.25in;height:4.10417in" />
+<img src="assets/Allen Say/media/image104.jpeg" />
 
-<img src="assets/Allen Say/media/image105.jpeg"
-style="width:7.70556in;height:5.08889in" />
+<img src="assets/Allen Say/media/image105.jpeg" />
 
-<img src="assets/Allen Say/media/image106.jpeg"
-style="width:6.24861in;height:8.22847in" />
+<img src="assets/Allen Say/media/image106.jpeg" />
 
-<img src="assets/Allen Say/media/image107.jpeg"
-style="width:7.50069in;height:4.94514in" />
+<img src="assets/Allen Say/media/image107.jpeg" />
 
-<img src="assets/Allen Say/media/image108.jpeg"
-style="width:7.5in;height:4.95556in" />
+<img src="assets/Allen Say/media/image108.jpeg" />
 
-<img src="assets/Allen Say/media/image109.png"
-style="width:1.62569in;height:0.28194in" />
+<img src="assets/Allen Say/media/image109.png" />
 
 # Portland author and artist Allen Say's books for children unfold in luminous dreams
 
@@ -6325,8 +6216,7 @@ what Shinpei told him early in "The Ink-Keeper's Apprentice": 
 most important asset to an artist. What we call imagination is
 rearrangement of memory. You cannot imagine without memory."
 
-<img src="assets/Allen Say/media/image110.jpeg"
-style="width:3.95833in;height:2.63542in" />
+<img src="assets/Allen Say/media/image110.jpeg" />
 
 Allen Say at his drawing table. "When a picture tells a story you don't
 have to write it. This came to me as a great revelation."
@@ -6366,8 +6256,7 @@ have to write it. This came to me as a great revelation."
 > grade schools, and I was just the worst student. But those four years
 > of living on my own were the happiest years of my life."
 
-<img src="assets/Allen Say/media/image111.png"
-style="width:4.61458in;height:3.41667in" />
+<img src="assets/Allen Say/media/image111.png" />
 
 Allen Say with his paintings from The Sign Painter (2000, top left), El
 Chino (1990, top right), Tree of Cranes (1991, bottom left), and Home of
@@ -6457,11 +6346,9 @@ the Brave (2002, bottom right**)**
 > – a purpose that was not found easily, but that now brings him great
 > pleasure and fulfillment. The rest is sheer torture.
 >
-> <img src="assets/Allen Say/media/image112.jpeg"
-> style="width:6.54167in;height:4.25in" />
+> <img src="assets/Allen Say/media/image112.jpeg" /> style="width:6.54167in;height:4.25in" />
 
-<img src="assets/Allen Say/media/image12.jpeg"
-style="width:1.125in;height:1.57153in" />
+<img src="assets/Allen Say/media/image12.jpeg" />
 
 **Caldecott Medal Acceptance Speech**  
 by **Allen Say**

@@ -5,51 +5,40 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 **Libba Moore Gray**
 
-<img src="assets/Libba Moore Gray/media/image1.jpeg"
-style="width:1.87986in;height:2.37222in" />
+<img src="assets/Libba Moore Gray/media/image1.jpeg" />
 
-<img src="assets/Libba Moore Gray/media/image2.jpeg"
-style="width:1.95764in;height:2.43542in" />
+<img src="assets/Libba Moore Gray/media/image2.jpeg" />
 
-<img src="assets/Libba Moore Gray/media/image3.png"
-style="width:1.95556in;height:2.55694in" />
+<img src="assets/Libba Moore Gray/media/image3.png" />
 
 **Libba Moore Gray - books**
 
-<img src="assets/Libba Moore Gray/media/image4.jpeg"
-style="width:1.13889in;height:1.42431in" /> **My Mama had a Dancing
+<img src="assets/Libba Moore Gray/media/image4.jpeg" /> **My Mama had a Dancing
 Heart**
 
-<img src="assets/Libba Moore Gray/media/image5.jpeg"
-style="width:1.15486in;height:1.45417in" /> **Miss Tizzy**
+<img src="assets/Libba Moore Gray/media/image5.jpeg" /> **Miss Tizzy**
 
-<img src="assets/Libba Moore Gray/media/image6.jpeg"
-style="width:1.04167in;height:0.83333in" /> **Is There Room on the
+<img src="assets/Libba Moore Gray/media/image6.jpeg" /> **Is There Room on the
 Feather Bed?**
 
-<img src="assets/Libba Moore Gray/media/image7.jpeg"
-style="width:1.05556in;height:1.29861in" /> **Small Green Snake**
+<img src="assets/Libba Moore Gray/media/image7.jpeg" /> **Small Green Snake**
 
-<img src="assets/Libba Moore Gray/media/image8.jpeg"
-style="width:1.18889in;height:1.49583in" /> **Dear Willie Rudd**
+<img src="assets/Libba Moore Gray/media/image8.jpeg" /> **Dear Willie Rudd**
 
-<img src="assets/Libba Moore Gray/media/image9.jpeg"
-style="width:1.60486in;height:1.61944in" /> **The Little Black Truck**
+<img src="assets/Libba Moore Gray/media/image9.jpeg" /> **The Little Black Truck**
 
-<img src="assets/Libba Moore Gray/media/image10.jpeg"
-style="width:1.50556in;height:1.97431in" /> **When Uncle Took the
+<img src="assets/Libba Moore Gray/media/image10.jpeg" /> **When Uncle Took the
 Fiddle**
 
-<img src="assets/Libba Moore Gray/media/image11.jpeg"
-style="width:1.41042in;height:1.84028in" /> **Little Lil and the Swing
+<img src="assets/Libba Moore Gray/media/image11.jpeg" /> **Little Lil and the Swing
 Singing Sax**
 
-<img src="assets/Libba Moore Gray/media/image12.jpeg"
-style="width:1.47569in;height:1.85069in" /> **Fenton’s Leap**
+<img src="assets/Libba Moore Gray/media/image12.jpeg" /> **Fenton’s Leap**
 
 **Libba Moore Gray** (1937-1995)
 
@@ -62,8 +51,7 @@ plans, especially My Mama Had a Dancing Heart and Miss Tizzy. Gray
 succumbed to breast cancer on June 3, 1995. Her daughter, Amy Moore
 Morton, has since set three of Gray's books as ballets.
 
-<img src="assets/Libba Moore Gray/media/image2.jpeg"
-style="width:5.72917in;height:7.12778in" />
+<img src="assets/Libba Moore Gray/media/image2.jpeg" />
 
 Libba Moore Gray's narrator shares a melodic remembrance of her mother,
 who welcomed each season with boundless enthusiasm-and bade her daughter
@@ -233,8 +221,7 @@ me.</em></td>
 </tbody>
 </table>
 
-<img src="assets/Libba Moore Gray/media/image5.jpeg"
-style="width:3.30139in;height:4.16667in" />
+<img src="assets/Libba Moore Gray/media/image5.jpeg" />
 
 The neighbours may think Miss Tizzy quite peculiar, but the children
 love her. They love her colourful house and her colourful clothes, but
@@ -427,8 +414,7 @@ Tizzy’s window. They sang all the moon songs she had taught them.
 Miss Tizzy’s hat glowed in the moonlight. She was having a peaceful
 dream. She heard the children singing, and she loved it.
 
-<img src="assets/Libba Moore Gray/media/image7.jpeg"
-style="width:3.3125in;height:4.07292in" />
+<img src="assets/Libba Moore Gray/media/image7.jpeg" />
 
 While his sisters and brother are quick to heed their mama's advice and
 stay close to home, Small Green Snake's curiosity gets the best of him,
@@ -618,8 +604,7 @@ hiss a hiss.*a*
 
 *Hissssssssss … “*
 
-<img src="assets/Libba Moore Gray/media/image8.jpeg"
-style="width:3.31181in;height:4.16667in" />
+<img src="assets/Libba Moore Gray/media/image8.jpeg" />
 
 Fifty years have passed since Miss Elizabeth was a girl, but she still
 remembers Willie Rudd, the black housekeeper who helped raise her. She
@@ -749,8 +734,7 @@ other in the backyard.
 
 And Miss Elizabeth rocked and rocked and rocked.
 
-<img src="assets/Libba Moore Gray/media/image9.jpeg"
-style="width:3.3125in;height:3.34375in" />
+<img src="assets/Libba Moore Gray/media/image9.jpeg" />
 
 A charming tale depicted in luminous pastels recounts the history of a
 trusty pickup truck left out in the woods after it gets too old to work
@@ -945,8 +929,7 @@ flap, flap, flapping like blue flags in the wind.
 
 went the little black truck all the way home.
 
-<img src="assets/Libba Moore Gray/media/image10.jpeg"
-style="width:2.28333in;height:2.99375in" />
+<img src="assets/Libba Moore Gray/media/image10.jpeg" />
 
 Uncle's inspired playing of the fiddle causes sleepy family members to
 pick up other instruments and join him, while the neighbours come to
@@ -1117,8 +1100,7 @@ Then Uncle and his fiddle played – one last silver sound.
 
 *Shu.*
 
-<img src="assets/Libba Moore Gray/media/image11.jpeg"
-style="width:2.19861in;height:2.87083in" />
+<img src="assets/Libba Moore Gray/media/image11.jpeg" />
 
 Little Lil's "fat-cheeked, curly-haired, horn-blowing" Uncle Sudi Man
 could make his saxophone ring. But when Lil's mother took sick and there
@@ -1318,8 +1300,7 @@ Pawn Shop</em></p>
 </tbody>
 </table>
 
-<img src="assets/Libba Moore Gray/media/image12.jpeg"
-style="width:1.92569in;height:2.41736in" />
+<img src="assets/Libba Moore Gray/media/image12.jpeg" />
 
 Life for a very near-sighted little frog named Fenton is very
 frustrating, until Katy Catfish brings him a gift from the slimy swamp
@@ -1330,8 +1311,7 @@ Fenton and his friends appealingly to life.
 Nearsighted Fenton the frog plops around the local pond, barely escaping
 the claws and jaws of hungry owls and sinister alligators.
 
-<img src="assets/Libba Moore Gray/media/image13.jpeg"
-style="width:3.66667in;height:2.85972in" />
+<img src="assets/Libba Moore Gray/media/image13.jpeg" />
 
 Bad weather makes for strange-and funny-bedfellows in this charming
 cumulative fable of friendship. During a torrential rainfall, a ""wee

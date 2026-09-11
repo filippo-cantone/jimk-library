@@ -1697,6 +1697,7 @@ family and friends.
 b. Congratulate yourself on a
 job well done!
 
+strand: writing
 ---
 
 <!-- page 53 -->

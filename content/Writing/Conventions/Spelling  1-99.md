@@ -3435,6 +3435,7 @@ with ea, such as: bead, bread, dead, instead, great, read, treat, break, ocean.
 group them according to their pronunciation, such as:
 bead, read, treat
 
+strand: writing
 ---
 
 <!-- page 99 -->

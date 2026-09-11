@@ -6,7 +6,8 @@ conversion: "OCR (tesseract, local)"
 converted: "2026-09-07"
 
 tags: [jim-k]
-review_status: "flagged pages manually reviewed and corrected"
+reviewed: "2026-09-10"
+strand: reading
 ---
 
 # Mentor Texts  -  Accompanying Reading Like Writers (2) -
@@ -2047,9 +2048,9 @@ melted to liquid in the summer warmth
 and smelt of flowers.
 I was so beautiful.
 But these things pass.
-
+ 
 ---
-
+ 
 <!-- page 46 -->
 
 Trose above myself and watched

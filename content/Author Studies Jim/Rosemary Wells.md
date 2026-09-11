@@ -5,10 +5,10 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
-<img src="assets/Rosemary Wells/media/image1.jpeg"
-style="width:2.30069in;height:2.37569in" />
+<img src="assets/Rosemary Wells/media/image1.jpeg" />
 
 **McDuff**
 
@@ -28,26 +28,19 @@ style="width:2.30069in;height:2.37569in" />
 
 **McDuff's Wild Romp**
 
-<img src="assets/Rosemary Wells/media/image2.png"
-style="width:1.04167in;height:1.19792in" />
+<img src="assets/Rosemary Wells/media/image2.png" />
 
-<img src="assets/Rosemary Wells/media/image3.png"
-style="width:1.04167in;height:1.1875in" />
+<img src="assets/Rosemary Wells/media/image3.png" />
 
-<img src="assets/Rosemary Wells/media/image4.png"
-style="width:1.04167in;height:1.19792in" />
+<img src="assets/Rosemary Wells/media/image4.png" />
 
-<img src="assets/Rosemary Wells/media/image5.jpeg"
-style="width:1.09792in;height:1.28681in" />
+<img src="assets/Rosemary Wells/media/image5.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image6.jpeg"
-style="width:1.05in;height:1.16389in" />
+<img src="assets/Rosemary Wells/media/image6.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image7.png"
-style="width:1.04167in;height:1.17708in" />
+<img src="assets/Rosemary Wells/media/image7.png" />
 
-<img src="assets/Rosemary Wells/media/image8.jpeg"
-style="width:1.0375in;height:1.14236in" />
+<img src="assets/Rosemary Wells/media/image8.jpeg" />
 
 **READING STRATEGIES McDuff**
 
@@ -96,8 +89,7 @@ next.</td>
 </tbody>
 </table>
 
-<img src="assets/Rosemary Wells/media/image9.jpeg"
-style="width:2.70833in;height:2.97847in" />
+<img src="assets/Rosemary Wells/media/image9.jpeg" />
 
 McDuff is a scrappy terrier who is lucky enough to escape from the
 dogcatcher and find a home with Fred and Lucy at number seven Elm Road.
@@ -301,14 +293,11 @@ times or somewhere in the past or future, and then make them give
 examples as to why they know this to be true. This critical analysis of
 the illustrations will also help tune-in readers before you get started.
 
-<img src="assets/Rosemary Wells/media/image10.jpeg"
-style="width:2.22917in;height:2.45833in" />
+<img src="assets/Rosemary Wells/media/image10.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image11.jpeg"
-style="width:3.68681in;height:4.16667in" />
+<img src="assets/Rosemary Wells/media/image11.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image12.jpeg"
-style="width:2.39653in;height:2.625in" />
+<img src="assets/Rosemary Wells/media/image12.jpeg" />
 
 Mc Duff is at it again, and in "His" garden is an intruder ... a rabbit!
 He chases it, who then leads him all over hill and dale, losing his
@@ -417,29 +406,21 @@ Everyone was hungry. Lucy made some apple pie and sandwiches. Fred gave
 McDuff his favourite treat, a small dish of vanilla rice pudding with a
 sausage sliced on top.
 
-<img src="assets/Rosemary Wells/media/image13.jpeg"
-style="width:3.33264in;height:3.00833in" />
+<img src="assets/Rosemary Wells/media/image13.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image14.jpeg"
-style="width:3.30278in;height:3.33264in" />
+<img src="assets/Rosemary Wells/media/image14.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image15.jpeg"
-style="width:4.16667in;height:3.79167in" />
+<img src="assets/Rosemary Wells/media/image15.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image16.jpeg"
-style="width:4.16667in;height:1.73958in" />
+<img src="assets/Rosemary Wells/media/image16.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image17.jpeg"
-style="width:3.04167in;height:3.33264in" />
+<img src="assets/Rosemary Wells/media/image17.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image18.jpeg"
-style="width:4.16667in;height:1.78194in" />
+<img src="assets/Rosemary Wells/media/image18.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image19.jpeg"
-style="width:3.8in;height:3.70486in" />
+<img src="assets/Rosemary Wells/media/image19.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image20.jpeg"
-style="width:3.33333in;height:2.60417in" />
+<img src="assets/Rosemary Wells/media/image20.jpeg" />
 
 **WRITING CRAFT McDuff Comes Home**
 
@@ -494,15 +475,13 @@ understand</em></p>
 </tbody>
 </table>
 
-<img src="assets/Rosemary Wells/media/image21.jpeg"
-style="width:2.20833in;height:2.47917in" />
+<img src="assets/Rosemary Wells/media/image21.jpeg" />
 
 When Fred and Lucy bring home a new baby, McDuff is worried! It's been
 just the three of them ever since McDuff moved in! Is there really room
 for one more in their family?
 
-<img src="assets/Rosemary Wells/media/image22.jpeg"
-style="width:3.91667in;height:4.16667in" />
+<img src="assets/Rosemary Wells/media/image22.jpeg" />
 
 **McDuff and the Baby**
 
@@ -550,8 +529,7 @@ McDuff.
 Create a comic about McDuff and the Baby. This will highlight the
 important events.
 
-<img src="assets/Rosemary Wells/media/image23.jpeg"
-style="width:2.04236in;height:2.37153in" />
+<img src="assets/Rosemary Wells/media/image23.jpeg" />
 
 **Book
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_**
@@ -608,35 +586,25 @@ to the “Music from the Stars.”
 
 *“Woof,”* said the baby.
 
-<img src="assets/Rosemary Wells/media/image24.jpeg"
-style="width:3.41667in;height:3.75in" />
+<img src="assets/Rosemary Wells/media/image24.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image25.jpeg"
-style="width:3.19792in;height:3.75in" />
+<img src="assets/Rosemary Wells/media/image25.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image26.jpeg"
-style="width:4.16667in;height:3.66667in" />
+<img src="assets/Rosemary Wells/media/image26.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image27.jpeg"
-style="width:3.71875in;height:3.75in" />
+<img src="assets/Rosemary Wells/media/image27.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image28.jpeg"
-style="width:3.44653in;height:3.75in" />
+<img src="assets/Rosemary Wells/media/image28.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image29.jpeg"
-style="width:3.25in;height:3.75in" />
+<img src="assets/Rosemary Wells/media/image29.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image30.jpeg"
-style="width:3.83333in;height:4.16667in" />
+<img src="assets/Rosemary Wells/media/image30.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image31.jpeg"
-style="width:3.4375in;height:3.75in" />
+<img src="assets/Rosemary Wells/media/image31.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image32.jpeg"
-style="width:3.3125in;height:3.75in" />
+<img src="assets/Rosemary Wells/media/image32.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image33.jpeg"
-style="width:3.5625in;height:4.16667in" />
+<img src="assets/Rosemary Wells/media/image33.jpeg" />
 
 **WRITING CRAFT**
 
@@ -696,11 +664,9 @@ neighbours beard footprints cereal newspaper supper garden</em></p>
 </tbody>
 </table>
 
-<img src="assets/Rosemary Wells/media/image5.jpeg"
-style="width:2.20764in;height:2.56736in" />
+<img src="assets/Rosemary Wells/media/image5.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image34.jpeg"
-style="width:2.27014in;height:2.61042in" />
+<img src="assets/Rosemary Wells/media/image34.jpeg" />
 
 On a snowy Christmas Eve, Fred, Lucy, McDuff, and the baby are nestled
 safely at home. Hopeful that Santa will make it through the blizzard,
@@ -721,8 +687,7 @@ What will happen with McDuff and his new friend.
 
 Write the further adventures of the two friends.
 
-<img src="assets/Rosemary Wells/media/image35.png"
-style="width:3.82153in;height:4.16667in" />
+<img src="assets/Rosemary Wells/media/image35.png" />
 
 **McDuff’s New Friend Rosemary Wells**
 
@@ -851,8 +816,7 @@ sleigh</em></p>
 </tbody>
 </table>
 
-<img src="assets/Rosemary Wells/media/image6.jpeg" /><img src="assets/Rosemary Wells/media/image6.jpeg"
-style="width:2.68472in;height:2.94236in" />
+<img src="assets/Rosemary Wells/media/image6.jpeg" /><img src="assets/Rosemary Wells/media/image6.jpeg" />
 
 It's off to dog-training class for everyone's favourite Westie in McDuff
 Goes to School by Rosemary Wells, illus. by Susan Jeffers. McDuff hits
@@ -1057,8 +1021,7 @@ followed</em></p>
 </tbody>
 </table>
 
-<img src="assets/Rosemary Wells/media/image36.jpeg"
-style="width:2.5in;height:2.73958in" />
+<img src="assets/Rosemary Wells/media/image36.jpeg" />
 
 Fred, Lucy, the baby, and McDuff go to the lake for a Fourth of July
 picnic, but when ants consume all of their food it's up to McDuff to
@@ -1202,8 +1165,7 @@ got into the driver’s seat, and McDuff came in the front seat.
 
 “Yes,” said Lucy, “but after all, he saved the day!”
 
-<img src="assets/Rosemary Wells/media/image37.png"
-style="width:3.65625in;height:4.04167in" />
+<img src="assets/Rosemary Wells/media/image37.png" />
 
 **WRITING CRAFT McDuff Saves the Day**
 
@@ -1261,8 +1223,7 @@ soundproof</em></p></td>
 </tbody>
 </table>
 
-<img src="assets/Rosemary Wells/media/image8.jpeg"
-style="width:2.44722in;height:2.675in" />
+<img src="assets/Rosemary Wells/media/image8.jpeg" />
 
 In the car, McDuff knew immediately they were not heading for Lake
 Ocarina, or the Take-Out Steak-Out, or Dog Training School. He knew they
@@ -1354,11 +1315,9 @@ on the floor.
 
 “Again!” said the baby.
 
-<img src="assets/Rosemary Wells/media/image38.jpeg"
-style="width:3.28125in;height:3.33333in" />
+<img src="assets/Rosemary Wells/media/image38.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image39.jpeg"
-style="width:3.33333in;height:3.21875in" />
+<img src="assets/Rosemary Wells/media/image39.jpeg" />
 
 **WRITING CRAFT McDuff’s Wild Romp**
 
@@ -1416,8 +1375,7 @@ tiptoed jumped chased plugged served</em></p>
 </tbody>
 </table>
 
-<img src="assets/Rosemary Wells/media/image40.jpeg"
-style="width:2.22917in;height:2.60417in" />
+<img src="assets/Rosemary Wells/media/image40.jpeg" />
 
 As far back as I can remember, I did nothing but draw. I discovered very
 early that making a picture of anything meant people saying, “Look at
@@ -1456,11 +1414,9 @@ I have been writing and illustrating for almost 30 years. It has been a
 pure delight. There are hard parts, but no bad or boring parts — that is
 more than can be said for any other line of work that I know.
 
-<img src="assets/Rosemary Wells/media/image41.jpeg"
-style="width:7.27917in;height:10.17639in" />
+<img src="assets/Rosemary Wells/media/image41.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image42.jpeg"
-style="width:6.16667in;height:3.41667in" />
+<img src="assets/Rosemary Wells/media/image42.jpeg" />
 
 A book can take anywhere from two months to ten months to complete. I
 start by writing out a layout of the story very roughly—beginning,
@@ -1485,8 +1441,7 @@ have a line image in blue. The colour goes on. I use a lot of
 watercolour. I also use other media—gouache, pastel, ink, and coloured
 pencils.
 
-<img src="assets/Rosemary Wells/media/image43.jpeg"
-style="width:6.16667in;height:2.875in" />
+<img src="assets/Rosemary Wells/media/image43.jpeg" />
 
 She usually answers, “it’s a writer’s job to have ideas.” Sometimes an
 idea comes from something she reads or hears about, as in the case of
@@ -1494,8 +1449,7 @@ her recent book, *Lincoln and His Sons*, a story about President Lincoln
 as a loving father.
 
 In her picture books, Rosemary takes
-a <img src="assets/Rosemary Wells/media/image44.jpeg"
-style="width:3.64444in;height:1.06181in" />lighthearted but heartfelt
+a <img src="assets/Rosemary Wells/media/image44.jpeg" />lighthearted but heartfelt
 approach to universal childhood experiences. Many of her books feature
 engaging animal characters. She believes, “authors are accomplished
 eavesdroppers, and have wonderful selective memory.”
@@ -1518,8 +1472,7 @@ to do. They had both been in the theater and understood the arts from
 the inside. We had a houseful of wonderful books. Reading stories aloud
 was as much a part of my childhood as the air I breathed.”
 
-<img src="assets/Rosemary Wells/media/image45.jpeg"
-style="width:1.90625in;height:2.875in" />
+<img src="assets/Rosemary Wells/media/image45.jpeg" />
 
 About Susan Jeffers
 
@@ -1545,8 +1498,7 @@ The first part of my work is to find a story that inspires pictures in
 me. It is like being a dancer and having to wait for the music to move
 your feet. Everything comes from this.
 
-<img src="assets/Rosemary Wells/media/image46.jpeg"
-style="width:3.32361in;height:2.39653in" />
+<img src="assets/Rosemary Wells/media/image46.jpeg" />
 
 Picture of my sister Judy and me. I am the one on the right.
 
@@ -1567,13 +1519,10 @@ My favourite things to do these days are riding and studying dressage
 with a beautiful horse named Hans, (Hans is much the better student) and
 painting landscapes and portraits. Happily this is a lot like my work.
 
-<img src="assets/Rosemary Wells/media/image47.jpeg"
-style="width:2.71875in;height:2.3125in" />
+<img src="assets/Rosemary Wells/media/image47.jpeg" />
 
 Picture of me and Hans 17h Swedish Warmblood.
 
-<img src="assets/Rosemary Wells/media/image48.jpeg"
-style="width:6.84375in;height:4.375in" />
+<img src="assets/Rosemary Wells/media/image48.jpeg" />
 
-<img src="assets/Rosemary Wells/media/image49.jpeg"
-style="width:2.61458in;height:2.08333in" />
+<img src="assets/Rosemary Wells/media/image49.jpeg" />

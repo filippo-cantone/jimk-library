@@ -5,6 +5,7 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 “I am attracted to the idea of seeding the imagination by leaving a
@@ -15,8 +16,7 @@ Developmental Studies Centre**
 
 *.*
 
-<img src="assets/Chris Van Allsburg2/media/image1.jpeg"
-style="width:2.08333in;height:3.125in" />
+<img src="assets/Chris Van Allsburg2/media/image1.jpeg" />
 
 ***DSC:*** *You’ve said the kind of story a writer ends up telling is a
 result of the kind of person that the writer is, and you also caution
@@ -46,8 +46,7 @@ uploaded through their eyeballs. This is what initially passes for
 self-expression: the emulation of something that they’ve already been
 exposed to.
 
-<img src="assets/Chris Van Allsburg2/media/image2.jpeg"
-style="width:2.08333in;height:2.5in" />
+<img src="assets/Chris Van Allsburg2/media/image2.jpeg" />
 
 How do you deal with it? I agree that adolescents that anticipate
 sharing what they’ve written might be, while they’re writing, concerned
@@ -183,8 +182,7 @@ identity as just a victim of your culture.
 experiences, but I do wonder how difficult it might be for you to keep
 this massive audience at bay when you’re working?*
 
-<img src="assets/Chris Van Allsburg2/media/image3.jpeg"
-style="width:2.08333in;height:1.68681in" />
+<img src="assets/Chris Van Allsburg2/media/image3.jpeg" />
 
 **Chris Van Allsburg: **The first book that I wrote I wrote with an
 absolute sense of isolation and a conviction that the thing that I was
@@ -290,8 +288,7 @@ done so far.” It is important for an artist to feel that way.
 
 ***DSC:*** *Do you feel that you’ve progressed with every book?*
 
-<img src="assets/Chris Van Allsburg2/media/image4.jpeg"
-style="width:2.08333in;height:3.02083in" />
+<img src="assets/Chris Van Allsburg2/media/image4.jpeg" />
 
 **Chris Van Allsburg:** Nope. Some books I think I’ve gotten a little
 bit closer, and perhaps you’d think it will be a natural forward
@@ -433,8 +430,7 @@ times when the dog’s just sniffed for a little too long and I can
 imagine the impatience that can induce someone to, whether the dog wants
 to walk or not, just keep dragging it.
 
-<img src="assets/Chris Van Allsburg2/media/image5.jpeg"
-style="width:2.08333in;height:2.64583in" />
+<img src="assets/Chris Van Allsburg2/media/image5.jpeg" />
 
 So a small part of it can be autobiographical. Actually, with respect
 to [*The Sweetest
@@ -472,8 +468,7 @@ the upper hand to the older child who always has an advantage because of
 size and strength, because they’re a little older, and know a little bit
 more.
 
-<img src="assets/Chris Van Allsburg2/media/image6.jpeg"
-style="width:2.08333in;height:2.74931in" />
+<img src="assets/Chris Van Allsburg2/media/image6.jpeg" />
 
 I love the old folk tales where cleverness triumphs over strength, so I
 had this idea of a sibling rivalry or conflict that fell into that genre
@@ -521,8 +516,7 @@ touched on that with Bibot—that you then mull over at night. When a
 story begins to take shape, do you have a message in mind? Or does it
 declare itself as you visualize the illustrations and begin to write?*
 
-<img src="assets/Chris Van Allsburg2/media/image7.jpeg"
-style="width:2.08333in;height:2.69792in" />
+<img src="assets/Chris Van Allsburg2/media/image7.jpeg" />
 
 **Chris Van Allsburg:** Twice I’ve set out to tell a story that embodies
 a set of values and had a message that I had conceived of before I sat
@@ -560,8 +554,7 @@ it might feel a little polemical as well. When I get mail from younger
 kids, they’re still guessing about it, but they’ve often got a pretty
 good idea.
 
-<img src="assets/Chris Van Allsburg2/media/image8.jpeg"
-style="width:2.08194in;height:2.58264in" />
+<img src="assets/Chris Van Allsburg2/media/image8.jpeg" />
 
 ***DSC:*** *I saw some of those letters: Is it a TV? I think it’s a TV!*
 
@@ -728,8 +721,7 @@ possible to literally go for days and days without metaphorically
 looking in the mirror because they have constant stimulation. It
 imperils their maturation.
 
-<img src="assets/Chris Van Allsburg2/media/image9.jpeg"
-style="width:2.08333in;height:1.63472in" />
+<img src="assets/Chris Van Allsburg2/media/image9.jpeg" />
 
 ***DSC:*** *In* [Just a
 Dream](http://www.houghtonmifflinbooks.com/catalog/titledetail.cfm?titleNumber=597434) *and* [The
@@ -792,8 +784,7 @@ was about to happen again, but because of what we learned about the next
 set of players, we could imagine that the game would have a different
 outcome.
 
-<img src="assets/Chris Van Allsburg2/media/image10.jpeg"
-style="width:2.08333in;height:1.85347in" />
+<img src="assets/Chris Van Allsburg2/media/image10.jpeg" />
 
 For years and years, everyone said, “That last page—there’s a sequel. No
 one would write that page without the intention of doing a sequel.” I
@@ -834,8 +825,7 @@ accomplished writers. This book is being published in the fall
 what some experienced storytellers have done with the pictures, titles,
 and captions left behind by Burdick.
 
-<img src="assets/Chris Van Allsburg2/media/image11.jpeg"
-style="width:2.08333in;height:2.60417in" />
+<img src="assets/Chris Van Allsburg2/media/image11.jpeg" />
 
 ***DSC:*** *It’s a fabulous concept—it’s very evocative and I can
 imagine kids sitting up at night thinking about some of those pictures.
@@ -894,8 +884,7 @@ past that point, a story that is somewhat melancholy. It’s not a tale of
 a sympathetic underdog triumphing against all odds and finding the
 rewards she deserves. It didn’t fit that description.
 
-<img src="assets/Chris Van Allsburg2/media/image4.jpeg"
-style="width:0.66667in;height:0.96667in" />
+<img src="assets/Chris Van Allsburg2/media/image4.jpeg" />
 
 In some ways maybe it’s good that it didn’t because if that was the
 outcome, it would have been a more conventional story than I am
@@ -1081,8 +1070,7 @@ visual artist, you’re bound to expose yourself through your art. But I
 found even in a group of visual artists that language left them feeling
 more exposed and vulnerable than the pictures they made.
 
-<img src="assets/Chris Van Allsburg2/media/image12.jpeg"
-style="width:2.08333in;height:1.64583in" />
+<img src="assets/Chris Van Allsburg2/media/image12.jpeg" />
 
 ***DSC:*** *In one of your [Caldecott
 medal](http://www.ala.org/ala/mgrps/divs/alsc/awardsgrants/bookmedia/caldecottmedal/caldecottmedal.cfm) speeches,
@@ -1244,8 +1232,7 @@ did learn from other teachers and I was supported and encouraged by
 them, but it was this class, “Light and Motion,” that awakened something
 in me, and it made me sense the magic that is an important part of art.
 
-<img src="assets/Chris Van Allsburg2/media/image13.jpeg"
-style="width:2.29167in;height:3.33264in" />
+<img src="assets/Chris Van Allsburg2/media/image13.jpeg" />
 
 <table>
 <colgroup>
@@ -1253,12 +1240,10 @@ style="width:2.29167in;height:3.33264in" />
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><img src="assets/Chris Van Allsburg2/media/image14.jpeg"
-style="width:3.60278in;height:0.47986in" /></td>
+<td><img src="assets/Chris Van Allsburg2/media/image14.jpeg" /></td>
 </tr>
 <tr class="even">
-<td><img src="assets/Chris Van Allsburg2/media/image15.png"
-style="width:3.60278in" /></td>
+<td><img src="assets/Chris Van Allsburg2/media/image15.png" /></td>
 </tr>
 <tr class="odd">
 <td><table>
@@ -1986,10 +1971,8 @@ And then the light went out.
 <tbody>
 <tr class="odd">
 <td><img src="assets/Chris Van Allsburg2/media/image16.png" /></td>
-<td><img src="assets/Chris Van Allsburg2/media/image17.png"
-style="width:1.66667in;height:1.47917in" /><br />
-<img src="assets/Chris Van Allsburg2/media/image18.png"
-style="width:1.5625in;height:2.27083in" /></td>
+<td><img src="assets/Chris Van Allsburg2/media/image17.png" /><br />
+<img src="assets/Chris Van Allsburg2/media/image18.png" /></td>
 <td><img src="assets/Chris Van Allsburg2/media/image16.png" /></td>
 <td><p>I prepared for this speech by reading speeches of other Caldecott
 medallists. It seems there are certain traditions, such as describing

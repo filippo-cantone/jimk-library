@@ -5,15 +5,14 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 **Nina Laden**
 
-<img src="assets/Nina Laden/media/image1.png"
-style="width:2.8125in;height:3.80208in" />
+<img src="assets/Nina Laden/media/image1.png" />
 
-<img src="assets/Nina Laden/media/image2.jpeg"
-style="width:4.16667in;height:5.03125in" />
+<img src="assets/Nina Laden/media/image2.jpeg" />
 
 Nina Laden was born in New York City on January 12, 1962, the daughter
 of two artists. (Her name is pronounced "Nee-na Lay-den." The Laden name
@@ -34,8 +33,7 @@ wrote and illustrated "The Unbearable Bird," she decided that she wanted
 to be a children's book author and illustrator when she grew up. (and at
 age 11, she made a stop-action animated short film, too!)
 
-<img src="assets/Nina Laden/media/image3.jpeg"
-style="width:2.48958in;height:3.4375in" />
+<img src="assets/Nina Laden/media/image3.jpeg" />
 
 The book I made when I was 9.
 
@@ -55,8 +53,7 @@ though Nina majored in art, she kept writing. She has kept journals for
 decades. She has over 2200 pages at this point! She was also encouraged
 to keep writing by her SU English Lit professor, Tobias Wolff.
 
-<img src="assets/Nina Laden/media/image4.jpeg"
-style="width:2.28125in;height:3.4375in" />
+<img src="assets/Nina Laden/media/image4.jpeg" />
 
 A sketch I did of Tobias Wolff, Syracuse University 1982.
 
@@ -70,8 +67,7 @@ worked as a graphic designer for the John Harland Check Printing
 Company. That lasted eight months. Then she started working as a
 freelance illustrator and designer.
 
-<img src="assets/Nina Laden/media/image5.jpeg"
-style="width:4.34375in;height:3.4375in" />
+<img src="assets/Nina Laden/media/image5.jpeg" />
 
 After many years as a successful illustrator, and the sad loss of her
 Mom to cancer, Nina decided to pursue her first love, children's books.
@@ -84,8 +80,7 @@ in a drawer for four years. Finally, in 1993, she got up the courage to
 submit the book to publishers. By then, she had also started working in
 pastels. (Chalk pastel, not oil pastel.)
 
-<img src="assets/Nina Laden/media/image6.jpeg"
-style="width:2.5625in;height:3.4375in" />
+<img src="assets/Nina Laden/media/image6.jpeg" />
 
 Original dog study in pastel.
 
@@ -107,8 +102,7 @@ illustration at the Atlanta College of Art when she lived there. She
 occasionally teaches writing and illustrating workshops and courses at
 various locations.
 
-<img src="assets/Nina Laden/media/image7.jpeg"
-style="width:3.53125in;height:3.4375in" />
+<img src="assets/Nina Laden/media/image7.jpeg" />
 
 The future hopefully holds the promise of many more books. (and toys and
 games, perhaps?) But being creative and loving what you do is the most
@@ -116,8 +110,7 @@ important thing of all.
 
 Thank you for your love of books... And thanks for visiting.
 
-<img src="assets/Nina Laden/media/image8.png"
-style="width:2.96944in;height:0.42569in" />
+<img src="assets/Nina Laden/media/image8.png" />
 
 **RIF:** Most of your books have animals as the main characters. Why do
 you use animals instead of humans?
@@ -190,8 +183,7 @@ your imagination.
 
 **Nina Laden - some of her books**
 
-<img src="assets/Nina Laden/media/image9.jpeg"
-style="width:1.2875in;height:1.50625in" /> "I have a dog. Nothing exotic
+<img src="assets/Nina Laden/media/image9.jpeg" /> "I have a dog. Nothing exotic
 or special, just an ordinary dog. In fact, I always thought he was a
 boring dog. What I mean is, he can fetch, roll over, and shake hands,
 but mostly he sleeps and eats."
@@ -207,8 +199,7 @@ what they do while their masters are fast asleep. A terrific read aloud,
 Nina Laden's story will have everyone captivated by the coolest dog
 around.
 
-<img src="assets/Nina Laden/media/image10.jpeg"
-style="width:1.46667in;height:1.37083in" /> When Pigasso met Mootisse,
+<img src="assets/Nina Laden/media/image10.jpeg" /> When Pigasso met Mootisse,
 what begins as a neighbourly overture escalates into a mess. Before you
 can say paint-by-numbers, the two artists become fierce rivals, calling
 each other names and ultimately building a fence between them. But when
@@ -221,8 +212,7 @@ only introduces children to two of the world's most extraordinary modern
 artists, but teaches a very important lesson; how to creatively resolve
 a conflict in a most unusual way.
 
-<img src="assets/Nina Laden/media/image11.jpeg"
-style="width:1.63264in;height:1.57639in" /> Ever since he was a wee mite
+<img src="assets/Nina Laden/media/image11.jpeg" /> Ever since he was a wee mite
 (a termite, that is), Roberto has wanted to be an architect. Discouraged
 by his wood-eating family and friends, he decides to follow his dream to
 the big, bug city. There he meets a slew of not-so-creepy, crawly
@@ -234,8 +224,7 @@ bestselling The Night I Followed the Dog, Private I. Guana, and When
 Pigasso Met Mootisse brings to life a funny and inspirational story that
 will encourage readers of any age to build their dreams.
 
-<img src="assets/Nina Laden/media/image12.jpeg"
-style="width:1.29583in;height:1.68333in" /> *Does a feather remember it
+<img src="assets/Nina Laden/media/image12.jpeg" /> *Does a feather remember it
 once was a bird?*  
   
 *Does a book remember it once was a word?*
@@ -253,8 +242,7 @@ bestselling artist Renata Liwska's captivating illustrations. Together
 they create a story that will keep readers enchanted long after the
 journey has ended.
 
-<img src="assets/Nina Laden/media/image13.jpeg"
-style="width:1.71806in;height:1.70139in" /> Author-artist Nina Laden has
+<img src="assets/Nina Laden/media/image13.jpeg" /> Author-artist Nina Laden has
 taken her trademark wit and applied it to one of Shakespeare's
 best-loved plays. Adults familiar with the classic love story will
 delight in the many references to the original play, all of which make
@@ -268,12 +256,10 @@ research behind this homage to true love won and lost and in the case of
 this book won again proving once and for all that dogs and cats can be
 friends.
 
-<img src="assets/Nina Laden/media/image14.jpeg"
-style="width:1.71667in;height:1.64097in" /> Leon the chameleon is
+<img src="assets/Nina Laden/media/image14.jpeg" /> Leon the chameleon is
 missing! But ace detective Private I. Guana is on the case.
 
-<img src="assets/Nina Laden/media/image15.jpeg"
-style="width:1.71667in;height:1.3875in" />
+<img src="assets/Nina Laden/media/image15.jpeg" />
 
 So they say I'm a bad dog. Running on empty.  
 Empty water dish, Empty food bowl.  
@@ -289,8 +275,7 @@ hungry for chicken,
 The chickens were free.  
 What a great world.
 
-<img src="assets/Nina Laden/media/image16.jpeg"
-style="width:1.96528in;height:1.89722in" /> When clowns go on vacation,
+<img src="assets/Nina Laden/media/image16.jpeg" /> When clowns go on vacation,
 the whole world is a circus.
 
 When the circus is over,
@@ -314,8 +299,7 @@ visual humour that will delight audiences of all ages.
 
 **Roberto the Insect Architect Nina Laden**
 
-<img src="assets/Nina Laden/media/image17.jpeg"
-style="width:3.04792in;height:2.94861in" />
+<img src="assets/Nina Laden/media/image17.jpeg" />
 
 Roberto has dreamt of being and architect since he was a young termite.
 He played incessantly with his “food,” using it to design castles and
@@ -330,8 +314,7 @@ Problem/Solution:
 Roberto wants to be an architect. This seems to be an impossible dream
 for a termite, but Roberto is determined to reach his goal.
 
-<img src="assets/Nina Laden/media/image18.jpeg"
-style="width:2.03681in;height:2.625in" />
+<img src="assets/Nina Laden/media/image18.jpeg" />
 
 <table>
 <colgroup>
@@ -416,8 +399,7 @@ crafts in which he was skilled: ceramics, stained glass, wrought
 ironwork forging and carpentry. He introduced new techniques in the
 treatment of materials, such as trencadís, made of waste ceramic pieces.
 
-<img src="assets/Nina Laden/media/image19.jpeg"
-style="width:4.29861in;height:3.73958in" />
+<img src="assets/Nina Laden/media/image19.jpeg" />
 
 **Ideas from Nina Laden:**
 
@@ -600,8 +582,7 @@ little termites play with their food, now their parents say:
 
 **The Night I Followed the Dog Nina Laden**
 
-<img src="assets/Nina Laden/media/image20.jpeg"
-style="width:2.08333in;height:2.03125in" />
+<img src="assets/Nina Laden/media/image20.jpeg" />
 
 I have a dog. Nothing exotic or special, just an ordinary dog. In fact,
 I always thought he was a boring dog. What I mean is, he can fetch, roll
@@ -616,8 +597,7 @@ they do while their masters are fast asleep. A terrific read aloud, Nina
 Laden's story will have everyone captivated by the coolest dog
 around**.**
 
-<img src="assets/Nina Laden/media/image21.png"
-style="width:3.5in;height:2.65625in" />**  
+<img src="assets/Nina Laden/media/image21.png" />**  
 **
 
 <table>
@@ -782,8 +762,7 @@ It was way past my bedtime. As I pedalled home into the cool night, I
 thought to myself, “Now I’m really going to be in the doghouse.” But
 then again, that might not be so bad.
 
-<img src="assets/Nina Laden/media/image22.png"
-style="width:1.71875in;height:1.73958in" />
+<img src="assets/Nina Laden/media/image22.png" />
 
 When Private I. Guana takes "the case of the missing chameleon," the fun
 begins! Chameleons are hard to find - they keep changing colours. So
@@ -795,8 +774,7 @@ mystery.
 Filled with humourous wordplay and visual puns, this engaging adventure
 was inspired by the detective films of the 1940s.
 
-<img src="assets/Nina Laden/media/image1.png"
-style="width:2.81389in;height:3.80069in" />
+<img src="assets/Nina Laden/media/image1.png" />
 
 **Private I. Guana**
 
@@ -925,8 +903,7 @@ reptiles. Chameleons intrigued me because they could blend in with their
 surroundings. If a chameleon were missing, it would be hard to find.
 That was my story. Private I. Guana: The Case of the Missing Chameleon."
 
-<img src="assets/Nina Laden/media/image23.png"
-style="width:2.47917in;height:4.17708in" />
+<img src="assets/Nina Laden/media/image23.png" />
 
 **A NOTE FROM NINA LADEN ON ILLUSTRATING THIS BOOK**
 
@@ -1015,8 +992,7 @@ learn about their anatomy, where they live, what they eat. Find
 different reptiles and amphibians in my illustrations, what are they?
 (eg: There is a basilisk and a Texas horned lizard on one page.)
 
-<img src="assets/Nina Laden/media/image24.jpeg"
-style="width:2.51042in;height:2.41667in" />
+<img src="assets/Nina Laden/media/image24.jpeg" />
 
 A delightful parody of modern artists, a porky Pigasso and a bullish
 Mootisse start out as neighbours but end up feuding when they start
@@ -1192,17 +1168,13 @@ Mootisse called his side: “When Mootisse Met Pigasso.”
 
 The critics called it “Incredible.”
 
-<img src="assets/Nina Laden/media/image25.jpeg"
-style="width:4.3in;height:3.225in" />
+<img src="assets/Nina Laden/media/image25.jpeg" />
 
-<img src="assets/Nina Laden/media/image26.jpeg"
-style="width:3.21597in;height:2.51597in" />
+<img src="assets/Nina Laden/media/image26.jpeg" />
 
-<img src="assets/Nina Laden/media/image27.jpeg"
-style="width:3.3in;height:2.83125in" />
+<img src="assets/Nina Laden/media/image27.jpeg" />
 
-<img src="assets/Nina Laden/media/image28.jpeg"
-style="width:3.15625in;height:3.125in" />
+<img src="assets/Nina Laden/media/image28.jpeg" />
 
 Adults familiar with the classic love story will delight in the many
 
@@ -1218,17 +1190,13 @@ details throughout the book belie the careful research behind this
 homage to true love won and lost- and in the case of this book won
 again- proving once and for all that dogs and cats can be friends.
 
-<img src="assets/Nina Laden/media/image29.png"
-style="width:2.55in;height:2.51111in" />
+<img src="assets/Nina Laden/media/image29.png" />
 
-<img src="assets/Nina Laden/media/image30.png"
-style="width:2.96667in;height:2.90486in" />
+<img src="assets/Nina Laden/media/image30.png" />
 
-<img src="assets/Nina Laden/media/image31.jpeg"
-style="width:2.88264in;height:1.62083in" />
+<img src="assets/Nina Laden/media/image31.jpeg" />
 
-<img src="assets/Nina Laden/media/image32.jpeg"
-style="width:2.63333in;height:2.63333in" />
+<img src="assets/Nina Laden/media/image32.jpeg" />
 
 **Romeow & Drooliet**
 
@@ -1496,8 +1464,7 @@ Some live in your heart. So don’t you forget
 
 The tale of Romeow and Drooliet.
 
-<img src="assets/Nina Laden/media/image33.jpeg"
-style="width:3.79167in;height:3.125in" />
+<img src="assets/Nina Laden/media/image33.jpeg" />
 
 *So they say I'm a bad dog.*
 
@@ -2000,8 +1967,7 @@ And it was
 
 finger-licking good.
 
-<img src="assets/Nina Laden/media/image34.jpeg"
-style="width:3.125in;height:4.0625in" />
+<img src="assets/Nina Laden/media/image34.jpeg" />
 
 *This book started from a poem that I wrote during the worst time in my
 life, a few years back. It started on a beach walk when I found an eagle
@@ -2014,8 +1980,7 @@ book that I have not illustrated. The incredible Renata Liwska, who
 illustrated "The Quiet Book," has created incredible illustrations for
 it.*
 
-<img src="assets/Nina Laden/media/image35.jpeg"
-style="width:5.52917in;height:3.38333in" />
+<img src="assets/Nina Laden/media/image35.jpeg" />
 
 In *Once Upon a Memory*, a young child, first seen having a tea party
 with some static plush animals and his pet dog, watches a feather fly
@@ -2076,8 +2041,7 @@ on crackers.
 
 Kirkus Review
 
-<img src="assets/Nina Laden/media/image36.jpeg"
-style="width:3.11458in;height:4.16667in" />
+<img src="assets/Nina Laden/media/image36.jpeg" />
 
 **Once Upon a Memory Nina Laden**
 
@@ -2201,8 +2165,7 @@ Searching for chocolates or candies
 
 What are some of *your* favourite things to remember?
 
-<img src="assets/Nina Laden/media/image16.jpeg"
-style="width:2.55in;height:2.4625in" />
+<img src="assets/Nina Laden/media/image16.jpeg" />
 
 When clowns go on vacation, the whole world is a circus.
 
@@ -2400,8 +2363,7 @@ When they’re not on vacation!
 
 **By Peggy Sturdivant**
 
-<img src="assets/Nina Laden/media/image37.jpeg"
-style="width:3.12569in;height:3.0625in" />
+<img src="assets/Nina Laden/media/image37.jpeg" />
 
 Nina Laden admits, “Ever since I was born I’ve been trying to do the
 whole package.” Although referring to writing and illustrating books the
@@ -2499,8 +2461,7 @@ or without illustrations.
 
 **Author Interview with Nina Laden**
 
-<img src="assets/Nina Laden/media/image38.jpeg"
-style="width:2.47917in;height:2.19792in" />
+<img src="assets/Nina Laden/media/image38.jpeg" />
 
 **What was your favourite childhood book memory?**
 
@@ -2593,8 +2554,7 @@ didn’t mind that I illustrated everything I turned in. I also loved my
 very lucky to have Tobias Wolff as my English Literature professor. He
 had just started at Syracuse University back then.
 
-<img src="assets/Nina Laden/media/image39.jpeg"
-style="width:2.81389in;height:2.11458in" />
+<img src="assets/Nina Laden/media/image39.jpeg" />
 
 **Sentences to finish if you don’t mind:**
 
@@ -2635,5 +2595,4 @@ advanced copy of the book- the actual book- in the mail and I know that
 all that work has somehow created a little magic- and there it is, in my
 hands. I made that!
 
-<img src="assets/Nina Laden/media/image40.png"
-style="width:1.51042in;height:3.46875in" />
+<img src="assets/Nina Laden/media/image40.png" />

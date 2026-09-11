@@ -5,14 +5,14 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 **AUTHOR STUDY**
 
 **PATRICIA POLACCO – 3**
 
-<img src="assets/Patricia Polacco 3/media/image1.jpeg"
-style="width:2.34375in;height:2.34375in" />
+<img src="assets/Patricia Polacco 3/media/image1.jpeg" />
 
 **EVERYDAY HEROES**
 
@@ -52,8 +52,7 @@ How can you help your classroom to be the best community it can be?
 Write a letter to your hero sharing your feelings and thanks with him or
 her.
 
-<img src="assets/Patricia Polacco 3/media/image2.jpeg"
-style="width:1.80556in;height:2.32153in" />
+<img src="assets/Patricia Polacco 3/media/image2.jpeg" />
 
 No matter what you need, that general store is sure to have it. It's
 
@@ -349,8 +348,7 @@ about Hensley’s, and Old John, too. they also know: “There isn’t
 anything that you can’t find at hensley’s, and whatever that may be, it
 will always be the very thing.”
 
-<img src="assets/Patricia Polacco 3/media/image3.jpeg"
-style="width:1.67083in;height:2.07292in" />
+<img src="assets/Patricia Polacco 3/media/image3.jpeg" />
 
 Patricia is thrilled when her father decides that she's finally old
 enough
@@ -389,8 +387,7 @@ love and the wonder of being young.*
 
 **Mrs Mack Patricia Polacco**
 
-<img src="assets/Patricia Polacco 3/media/image4.jpeg"
-style="width:1.58472in;height:2.07361in" />
+<img src="assets/Patricia Polacco 3/media/image4.jpeg" />
 
 Our Ol' Man was a travelling salesman. A flimflam man, a dream saver,
 
@@ -703,8 +700,7 @@ back Gramma, the parrots, the cruising machine, and, most especially, my
 ol’ man. A memory that will last as long as children tell others about
 fathers they love.
 
-<img src="assets/Patricia Polacco 3/media/image5.jpeg"
-style="width:3.37639in;height:2.84583in" />
+<img src="assets/Patricia Polacco 3/media/image5.jpeg" />
 
 The Art of Miss Chew is an homage to an art teacher who helped Polacco
 through a tough time and helped her become an artist.
@@ -760,8 +756,7 @@ artist, so I couldn’t wait to take Art at school next fall when I got
 home to California. I only had one problem left –tests. I just couldn’t
 seem to pass them.*
 
-<img src="assets/Patricia Polacco 3/media/image6.jpeg"
-style="width:2.54722in;height:2.56458in" />
+<img src="assets/Patricia Polacco 3/media/image6.jpeg" />
 
 **The Art of Miss Chew Patricia Polacco**
 
@@ -1025,17 +1020,13 @@ present. It turned out to be the defining moment in my young life. I was
 set on a course to be an artist – it could be no other way. Thanks to
 the art of the amazing Miss Chew.
 
-<img src="assets/Patricia Polacco 3/media/image7.jpeg"
-style="width:4.84375in;height:3.125in" />
+<img src="assets/Patricia Polacco 3/media/image7.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image8.jpeg"
-style="width:4.84375in;height:3.125in" />
+<img src="assets/Patricia Polacco 3/media/image8.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image9.jpeg"
-style="width:4.84375in;height:3.125in" />
+<img src="assets/Patricia Polacco 3/media/image9.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image10.jpeg"
-style="width:4.84375in;height:3.125in" />
+<img src="assets/Patricia Polacco 3/media/image10.jpeg" />
 
 **CLASSROOM CELEBRATIONS**
 
@@ -1066,16 +1057,14 @@ the time to learn about the different ways and different types of
 
 holidays can be celebrated.
 
-<img src="assets/Patricia Polacco 3/media/image11.jpeg"
-style="width:2.07292in;height:2.63542in" />
+<img src="assets/Patricia Polacco 3/media/image11.jpeg" />
 
 It's the annual Halloween picnic and the whole town turns out - even the
 local ghost. The frenzied festivities are remarkably captured in
 watercolours and portray a party that can really be enjoyed anytime of
 the year.
 
-<img src="assets/Patricia Polacco 3/media/image12.png"
-style="width:4.5in;height:2.79167in" />
+<img src="assets/Patricia Polacco 3/media/image12.png" />
 
 **Picnic at Mudsock Meadow Patricia Polacco**
 
@@ -1217,20 +1206,15 @@ And Hester? Well, she finally changed her tune.
 
 “My hero,” she cooed. And she and William shared a plate-o’-cream.
 
-<img src="assets/Patricia Polacco 3/media/image13.png"
-style="width:4.5in;height:2.90625in" />
+<img src="assets/Patricia Polacco 3/media/image13.png" />
 
-<img src="assets/Patricia Polacco 3/media/image14.png"
-style="width:4.5in;height:2.875in" />
+<img src="assets/Patricia Polacco 3/media/image14.png" />
 
-<img src="assets/Patricia Polacco 3/media/image15.png"
-style="width:4.5in;height:2.86458in" />
+<img src="assets/Patricia Polacco 3/media/image15.png" />
 
-<img src="assets/Patricia Polacco 3/media/image16.png"
-style="width:2.79167in;height:3.35417in" />
+<img src="assets/Patricia Polacco 3/media/image16.png" />
 
-<img src="assets/Patricia Polacco 3/media/image17.jpeg"
-style="width:2.08333in;height:2.625in" />
+<img src="assets/Patricia Polacco 3/media/image17.jpeg" />
 
 Quintin Hamp, a Union City Elementary School custodian, one day
 overhears the students teasing the new kid for being "fat," a little boy
@@ -1264,14 +1248,11 @@ importance of accepting others, but also, is a reminder of the power of
 
 Leah Polacco
 
-<img src="assets/Patricia Polacco 3/media/image18.jpeg"
-style="width:3in;height:2.16667in" />
+<img src="assets/Patricia Polacco 3/media/image18.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image19.jpeg"
-style="width:3in;height:2.16667in" />
+<img src="assets/Patricia Polacco 3/media/image19.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image20.jpeg"
-style="width:2.96875in;height:2.16667in" />
+<img src="assets/Patricia Polacco 3/media/image20.jpeg" />
 
 **Welcome Comfort**
 
@@ -1612,8 +1593,7 @@ but something was different this time. Something wasn’t right.
 
 Then, he saw a group of children gathering around one small little boy …
 
-<img src="assets/Patricia Polacco 3/media/image21.png"
-style="width:1.5in;height:1.95833in" />
+<img src="assets/Patricia Polacco 3/media/image21.png" />
 
 Justine and Duane and their neighbours are happily getting ready for
 
@@ -1874,53 +1854,37 @@ their tragic loss. Some have moved to other parts of the country.*
 welded our spirits together. We still share our lives, our memories, and
 most of all, hope.*
 
-<img src="assets/Patricia Polacco 3/media/image22.jpeg"
-style="width:4.125in;height:2.63542in" />
+<img src="assets/Patricia Polacco 3/media/image22.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image23.jpeg"
-style="width:4.125in;height:2.77083in" />
+<img src="assets/Patricia Polacco 3/media/image23.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image24.jpeg"
-style="width:4.125in;height:2.67708in" />
+<img src="assets/Patricia Polacco 3/media/image24.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image25.jpeg"
-style="width:4.125in;height:2.5625in" />
+<img src="assets/Patricia Polacco 3/media/image25.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image26.jpeg"
-style="width:4.125in;height:2.60417in" />
+<img src="assets/Patricia Polacco 3/media/image26.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image27.jpeg"
-style="width:4.125in;height:2.60417in" />
+<img src="assets/Patricia Polacco 3/media/image27.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image28.jpeg"
-style="width:4.125in;height:2.6875in" />
+<img src="assets/Patricia Polacco 3/media/image28.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image29.jpeg"
-style="width:4.125in;height:2.67708in" />
+<img src="assets/Patricia Polacco 3/media/image29.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image30.jpeg"
-style="width:4.125in;height:2.58333in" />
+<img src="assets/Patricia Polacco 3/media/image30.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image31.jpeg"
-style="width:4.125in;height:2.69792in" />
+<img src="assets/Patricia Polacco 3/media/image31.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image32.jpeg"
-style="width:4.125in;height:2.71875in" />
+<img src="assets/Patricia Polacco 3/media/image32.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image33.jpeg"
-style="width:4.125in;height:2.59375in" />
+<img src="assets/Patricia Polacco 3/media/image33.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image34.jpeg"
-style="width:4.125in;height:2.66667in" />
+<img src="assets/Patricia Polacco 3/media/image34.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image35.jpeg"
-style="width:4.125in;height:2.66667in" />
+<img src="assets/Patricia Polacco 3/media/image35.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image36.jpeg"
-style="width:4.125in;height:2.625in" />
+<img src="assets/Patricia Polacco 3/media/image36.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image37.jpeg"
-style="width:1.77708in;height:2.21875in" />
+<img src="assets/Patricia Polacco 3/media/image37.jpeg" />
 
 A holiday favourite based on Polacco's childhood memories, this is the
 
@@ -1934,47 +1898,33 @@ her family's homeland, and the text conveys the magical feeling of a
 
 child's wonder and joy during the holidays.
 
-<img src="assets/Patricia Polacco 3/media/image38.jpeg"
-style="width:4.16667in;height:2.57292in" />
+<img src="assets/Patricia Polacco 3/media/image38.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image39.jpeg"
-style="width:4.16667in;height:2.57292in" />
+<img src="assets/Patricia Polacco 3/media/image39.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image40.jpeg"
-style="width:4.16667in;height:2.5625in" />
+<img src="assets/Patricia Polacco 3/media/image40.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image41.jpeg"
-style="width:4.16667in;height:2.60417in" />
+<img src="assets/Patricia Polacco 3/media/image41.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image42.jpeg"
-style="width:4.16667in;height:2.59375in" />
+<img src="assets/Patricia Polacco 3/media/image42.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image43.jpeg"
-style="width:4.16667in;height:2.63542in" />
+<img src="assets/Patricia Polacco 3/media/image43.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image44.jpeg"
-style="width:4.16667in;height:2.60417in" />
+<img src="assets/Patricia Polacco 3/media/image44.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image45.jpeg"
-style="width:4.16667in;height:2.58333in" />
+<img src="assets/Patricia Polacco 3/media/image45.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image46.jpeg"
-style="width:4.16667in;height:2.58333in" />
+<img src="assets/Patricia Polacco 3/media/image46.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image47.jpeg"
-style="width:4.16667in;height:2.57292in" />
+<img src="assets/Patricia Polacco 3/media/image47.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image48.jpeg"
-style="width:4.16667in;height:2.60417in" />
+<img src="assets/Patricia Polacco 3/media/image48.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image49.jpeg"
-style="width:4.16667in;height:2.58333in" />
+<img src="assets/Patricia Polacco 3/media/image49.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image50.jpeg"
-style="width:4.16667in;height:2.58333in" />
+<img src="assets/Patricia Polacco 3/media/image50.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image51.jpeg"
-style="width:3in;height:4.16667in" />
+<img src="assets/Patricia Polacco 3/media/image51.jpeg" />
 
 **Uncle Vova’s Tree Patricia Polacco**
 
@@ -2231,8 +2181,7 @@ Define friendship. What does the word mean to you?
 Write a ‘friendship’ poem. The poem will make a wonderful, thoughtful
 gift for the friend of your choice!
 
-<img src="assets/Patricia Polacco 3/media/image52.jpeg"
-style="width:2.05139in;height:2.66667in" />
+<img src="assets/Patricia Polacco 3/media/image52.jpeg" />
 
 When Patricia Polacco was a little girl, her imaginary friend was an
 elephant, fashioned after the main character in her favourite book, Dr
@@ -2245,8 +2194,7 @@ long lost imaginary elephant friend.
 
 - Blurb
 
-<img src="assets/Patricia Polacco 3/media/image53.jpeg"
-style="width:2.05556in;height:3.62778in" />
+<img src="assets/Patricia Polacco 3/media/image53.jpeg" />
 
 **Emma Kate Patricia Polacco**
 
@@ -2303,26 +2251,19 @@ Then they both give me a big kiss and tuck me in.
 
 And I dream of Emma Kate.
 
-<img src="assets/Patricia Polacco 3/media/image54.jpeg"
-style="width:4.16667in;height:2.65625in" />
+<img src="assets/Patricia Polacco 3/media/image54.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image55.jpeg"
-style="width:4.16667in;height:2.54167in" />
+<img src="assets/Patricia Polacco 3/media/image55.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image56.jpeg"
-style="width:4.16667in;height:2.59375in" />
+<img src="assets/Patricia Polacco 3/media/image56.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image57.jpeg"
-style="width:4.16667in;height:2.63542in" />
+<img src="assets/Patricia Polacco 3/media/image57.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image58.jpeg"
-style="width:4.16667in;height:2.64583in" />
+<img src="assets/Patricia Polacco 3/media/image58.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image59.jpeg"
-style="width:4.16667in;height:2.64583in" />
+<img src="assets/Patricia Polacco 3/media/image59.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image60.jpeg"
-style="width:1.875in;height:2.49861in" />
+<img src="assets/Patricia Polacco 3/media/image60.jpeg" />
 
 Virginia Vincent Folsum, better known as Ginger, is a very elegant lady.
 An accomplished pianist, socially active—and what style! “You are what
@@ -2649,20 +2590,15 @@ ME!
 At that very moment, Ginger put on Petunia’s favourite opera, and they
 both had a glorious, long, lovely wallow in the mud … together!
 
-<img src="assets/Patricia Polacco 3/media/image61.jpeg"
-style="width:2.89583in;height:3.64583in" />
+<img src="assets/Patricia Polacco 3/media/image61.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image62.jpeg"
-style="width:3.64583in;height:2.96875in" />
+<img src="assets/Patricia Polacco 3/media/image62.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image63.jpeg"
-style="width:2.85417in;height:3.64583in" />
+<img src="assets/Patricia Polacco 3/media/image63.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image64.jpeg"
-style="width:2.57292in;height:3.64583in" />
+<img src="assets/Patricia Polacco 3/media/image64.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image65.jpeg"
-style="width:2.25833in;height:2.41736in" />
+<img src="assets/Patricia Polacco 3/media/image65.jpeg" />
 
 This story follows young Traci and Marilyn as they navigate school and
 the battles of cancer. These two best friends are thrown for a loop when
@@ -3017,8 +2953,7 @@ teacher who went on to become a doctor after battling cancer and
 winning. She is very dear to my entire family, for we look to her and
 her example to find our own courage, inspiration and most of all … hope.
 
-<img src="assets/Patricia Polacco 3/media/image66.jpeg"
-style="width:2.39653in;height:2.27986in" />
+<img src="assets/Patricia Polacco 3/media/image66.jpeg" />
 
 Jerome’s bubbie is a matchmaker—the greatest in the whole neighbourhood.
 She even found a match for the Firesteins’ son, and that was a miracle!
@@ -3318,8 +3253,7 @@ And I thought to myself. Bubbie was right, you know …
 
 ‘No pot is so crooked that there isn’t a lid to fit it!’
 
-<img src="assets/Patricia Polacco 3/media/image67.jpeg"
-style="width:2.0625in;height:2.65625in" />
+<img src="assets/Patricia Polacco 3/media/image67.jpeg" />
 
 In this special Passover story, Larnel Moore, a young African-American
 boy, and Mrs. Katz, an elderly Jewish woman, develop an unusual
@@ -3596,8 +3530,7 @@ helped waved smiled yelled
 
 rushed placed
 
-<img src="assets/Patricia Polacco 3/media/image68.jpeg"
-style="width:2.68889in;height:3.44792in" />
+<img src="assets/Patricia Polacco 3/media/image68.jpeg" />
 
 Paige loves cuddling with Gramma and all of Gramma's pets in the Old
 
@@ -3760,17 +3693,13 @@ was love.”
 And they all sighed and sipped mint tea and ate soft sand cookies and
 cuddled deep into the Old Blue Chair together.
 
-<img src="assets/Patricia Polacco 3/media/image69.jpeg"
-style="width:4.30139in;height:2.78333in" />
+<img src="assets/Patricia Polacco 3/media/image69.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image70.jpeg"
-style="width:4.17778in;height:2.70347in" />
+<img src="assets/Patricia Polacco 3/media/image70.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image71.jpeg"
-style="width:4.04792in;height:2.61944in" />
+<img src="assets/Patricia Polacco 3/media/image71.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image72.png"
-style="width:2.35764in;height:3.13958in" />
+<img src="assets/Patricia Polacco 3/media/image72.png" />
 
 Miss Parks just loves her new home, her new teaching job, and all her
 new students. But most of all, she loves Autumn, her perfect little
@@ -4076,8 +4005,7 @@ shared not only the enchanted cottage by the sea, but walks on the
 beach, evenings by the fire eating popcorn, and most of all, their love
 of Autumn.
 
-<img src="assets/Patricia Polacco 3/media/image73.jpeg"
-style="width:1.65278in;height:2.13542in" />
+<img src="assets/Patricia Polacco 3/media/image73.jpeg" />
 
 Appelemando loves to dream! The villagers think he will never amount
 
@@ -4138,11 +4066,9 @@ him a spot on the team, or she might have dreamt about owning a book, a
 parent later gave to her). Roll up the poster, tie it with a ribbon, and
 have your students deliver it to that person.
 
-<img src="assets/Patricia Polacco 3/media/image74.jpeg"
-style="width:3.375in;height:4.5in" />
+<img src="assets/Patricia Polacco 3/media/image74.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image75.jpeg"
-style="width:5.46875in;height:7.29167in" />
+<img src="assets/Patricia Polacco 3/media/image75.jpeg" />
 
 **Appelemando’s Dreams Patricia Polacco**
 
@@ -4528,26 +4454,19 @@ anymore</em></p></td>
 </tbody>
 </table>
 
-<img src="assets/Patricia Polacco 3/media/image76.jpeg"
-style="width:4.32292in;height:4.5in" />
+<img src="assets/Patricia Polacco 3/media/image76.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image77.jpeg"
-style="width:3.62361in;height:4.5in" />
+<img src="assets/Patricia Polacco 3/media/image77.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image78.jpeg"
-style="width:3.47917in;height:4.5in" />
+<img src="assets/Patricia Polacco 3/media/image78.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image79.jpeg"
-style="width:3.40486in;height:4.5in" />
+<img src="assets/Patricia Polacco 3/media/image79.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image80.jpeg"
-style="width:3.46875in;height:4.5in" />
+<img src="assets/Patricia Polacco 3/media/image80.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image81.jpeg"
-style="width:3.375in;height:4.5in" />
+<img src="assets/Patricia Polacco 3/media/image81.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image82.jpeg"
-style="width:1.58333in;height:2.08194in" />
+<img src="assets/Patricia Polacco 3/media/image82.jpeg" />
 
 Trisha loves the eight days of Hanukkah, when her mother stays home
 
@@ -4569,14 +4488,11 @@ the first miracle of many during an incredible holiday season.
 Based on a long cherished childhood memory, this story celebrates the
 miracle of true friendship.
 
-<img src="assets/Patricia Polacco 3/media/image83.jpeg"
-style="width:3.24028in;height:2.08333in" />
+<img src="assets/Patricia Polacco 3/media/image83.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image84.jpeg"
-style="width:6.04931in;height:3.95694in" />
+<img src="assets/Patricia Polacco 3/media/image84.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image85.jpeg"
-style="width:6.04167in;height:3.64444in" />
+<img src="assets/Patricia Polacco 3/media/image85.jpeg" />
 
 **The Trees of the Dancing Goats Patricia Polacco**
 
@@ -4864,8 +4780,6 @@ And my family, too, has never forgotten that incredible winter of the
 fever, the miracle of true friendship, and the trees of the dancing
 goats.
 
-<img src="assets/Patricia Polacco 3/media/image86.jpeg"
-style="width:6.19792in;height:7.47847in" />
+<img src="assets/Patricia Polacco 3/media/image86.jpeg" />
 
-<img src="assets/Patricia Polacco 3/media/image87.jpeg"
-style="width:7.2625in;height:5.55278in" />
+<img src="assets/Patricia Polacco 3/media/image87.jpeg" />

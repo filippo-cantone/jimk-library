@@ -5,10 +5,10 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
-<img src="assets/Gary Paulsen/media/image1.jpeg"
-style="width:3.42292in;height:2.73333in" />
+<img src="assets/Gary Paulsen/media/image1.jpeg" />
 
 On a moonlit winter night, a team of dogs pulls a sled, taking the
 narrator and readers on a wondrous ride through the snow, into and out
@@ -290,20 +290,15 @@ sentences.</p></td>
 </tbody>
 </table>
 
-<img src="assets/Gary Paulsen/media/image2.jpeg"
-style="width:2.60347in;height:3.80069in" />
+<img src="assets/Gary Paulsen/media/image2.jpeg" />
 
-<img src="assets/Gary Paulsen/media/image3.jpeg"
-style="width:3.04861in;height:2.51806in" />
+<img src="assets/Gary Paulsen/media/image3.jpeg" />
 
-<img src="assets/Gary Paulsen/media/image4.jpeg"
-style="width:2.66667in;height:1.65625in" />
+<img src="assets/Gary Paulsen/media/image4.jpeg" />
 
-<img src="assets/Gary Paulsen/media/image5.jpeg"
-style="width:6.80069in;height:1.48472in" />
+<img src="assets/Gary Paulsen/media/image5.jpeg" />
 
-<img src="assets/Gary Paulsen/media/image6.jpeg"
-style="width:1.5625in;height:2.08194in" />
+<img src="assets/Gary Paulsen/media/image6.jpeg" />
 
 # Iditarod Journal Gary Paulsen
 
@@ -341,8 +336,7 @@ which in turn makes the running slow.
 
 |                                                        |
 |--------------------------------------------------------|
-| <img src="assets/Gary Paulsen/media/image7.jpeg" 
- style="width:2.08333in;height:2.26042in" />             |
+| <img src="assets/Gary Paulsen/media/image7.jpeg" />             |
 | A close friend                                         |
 
 The third phase is to run longer, one- and two- and three-hundred-mile
@@ -359,13 +353,11 @@ stay with the front end, just hang in the middle and have a good, sane,
 and safe run and see that wonderful country over a dogsled one more
 time. .
 
-<img src="assets/Gary Paulsen/media/image8.jpeg"
-style="width:6.90694in;height:7.8875in" />
+<img src="assets/Gary Paulsen/media/image8.jpeg" />
 
 **Clabbered Dirt, Sweet Grass Gary Paulsen**
 
-<img src="assets/Gary Paulsen/media/image9.jpeg"
-style="width:2.75in;height:2.75in" />
+<img src="assets/Gary Paulsen/media/image9.jpeg" />
 
 This is a novel, ‘a lyrical tribute to life on a farm.’ It is organised
 into four sections:
@@ -669,8 +661,7 @@ hooked back into the bobsled, the oak tongue between, and they prance.
 
 **Canoe Days Gary Paulsen**
 
-<img src="assets/Gary Paulsen/media/image10.jpeg"
-style="width:2.39583in;height:2.625in" />
+<img src="assets/Gary Paulsen/media/image10.jpeg" />
 
 Peace. Stillness. Quiet. Nature observation at its best. Paulsen's
 poetic language draws the reader onto the serene lake with him and his

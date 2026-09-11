@@ -3565,6 +3565,7 @@ Sometimes she shivered and we laughed.
 
 There are many ways to learn to be a writer.
 
+strand: writing
 ---
 
 <!-- page 85 -->

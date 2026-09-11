@@ -5,11 +5,11 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 **Tuesday by David Wiesner**
-<img src="assets/David Wiesner/media/image1.png"
-style="width:1.68889in;height:1.45764in" />
+<img src="assets/David Wiesner/media/image1.png" />
 
 Review
 
@@ -162,8 +162,7 @@ Mentor Text:
 
 Tuesday by David Wiesner
 
-<img src="assets/David Wiesner/media/image2.jpeg"
-style="width:5.87361in;height:4.35278in" />
+<img src="assets/David Wiesner/media/image2.jpeg" />
 
 *On a perfectly ordinary evening frogs soar through neighbourhoods on
 levitating lily pads. The story is told nearly completely as a wordless
@@ -196,8 +195,7 @@ Independent Writing
 Look at the last page of the book. Write a story that continues where
 David Wiesner left off. What happens on the night that pigs can fly?
 
-<img src="assets/David Wiesner/media/image3.jpeg"
-style="width:4.37361in;height:3.43403in" />
+<img src="assets/David Wiesner/media/image3.jpeg" />
 
 This book won the Caldecott Medal in 2002 and was author/illustrator
 David Wiesner's second Caldecott Award.
@@ -228,8 +226,7 @@ this happens Wiesner uses a great amount of negative space. The
 placement of the art is no longer consistent as the pigs start their
 adventure.
 
-<img src="assets/David Wiesner/media/image4.jpeg"
-style="width:3.64583in;height:2.05208in" />
+<img src="assets/David Wiesner/media/image4.jpeg" />
 
 Possible Extensions:
 
@@ -245,8 +242,7 @@ The Wolf's Side of the Story - Students read The True Story of the Three
 Little Pigs as told by A.Wolf by Jon Sciezka. Write your own version of
 what REALLY happened, then illustrate and publish.
 
-<img src="assets/David Wiesner/media/image5.jpeg"
-style="width:1.3125in;height:1.66667in" />
+<img src="assets/David Wiesner/media/image5.jpeg" />
 
 Although just about all of us think that we know the story of the three
 little pigs, in this comical picture book, A. Wolf clears up some

@@ -5,14 +5,14 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 **Kate DiCamillo**
 
 **Because of Winn-Dixie Kate DiCamillo**
 
-<img src="assets/Kate DiCamillo/media/image1.jpeg"
-style="width:1.85694in;height:2.48958in" />
+<img src="assets/Kate DiCamillo/media/image1.jpeg" />
 
 The summer Opal and her father, the preacher, move to Naomi, Florida,
 Opal goes into the Winn-Dixie supermarket and comes out with a dog. A
@@ -726,8 +726,7 @@ bless you, baby."
 
 And I feel that I have been blessed. Over and over again.
 
-<img src="assets/Kate DiCamillo/media/image2.jpeg"
-style="width:1.58333in;height:2.28125in" />
+<img src="assets/Kate DiCamillo/media/image2.jpeg" />
 
 I was born in Philadelphia, Pennsylvania, raised in Clermont, Florida,
 and currently live in Minneapolis, Minnesota. I write for both children

@@ -5,14 +5,14 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 **AUTHOR STUDY**
 
 **PATRICIA POLACCO – 2**
 
-<img src="assets/Patricia Polacco 2 (2)/media/image1.jpeg"
-style="width:3.45833in;height:2.67292in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image1.jpeg" />
 
 **TRADITIONS AND HERITAGE**
 
@@ -52,8 +52,7 @@ tradition and how your family came to honour it.
 
 What tradition would you eventually want to start yourself? Why?
 
-<img src="assets/Patricia Polacco 2 (2)/media/image2.jpeg"
-style="width:2.22847in;height:2.44792in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image2.jpeg" />
 
 The Stowell family is abuzz with holiday excitement, and Frankie, the
 youngest boy, is the most excited of all. But there's a cloud over the
@@ -68,17 +67,13 @@ her grandmother's youngest brother, and every year she and her family
 remember this tale of a little boy who learnt - and taught - an
 important lesson about giving, one Christmas long ago.
 
-<img src="assets/Patricia Polacco 2 (2)/media/image3.jpeg"
-style="width:3.1875in;height:4.16667in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image3.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image4.jpeg"
-style="width:3.3125in;height:4.16667in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image4.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image5.jpeg"
-style="width:3.44792in;height:4.16667in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image5.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image6.jpeg"
-style="width:3.27083in;height:4.16667in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image6.jpeg" />
 
 **An Orange for Frankie Patricia Polacco**
 
@@ -536,8 +531,7 @@ as the day it was placed there.*
 
 *We call it, in my family … Frankie’s orange.*
 
-<img src="assets/Patricia Polacco 2 (2)/media/image7.jpeg"
-style="width:3.04722in;height:4.00139in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image7.jpeg" />
 
 Rechenka's Eggs Story
 
@@ -572,8 +566,7 @@ A warm story of friendship, Rechenka’s Eggs concludes with one more
 surprise, a gift from Rechenka, awaiting Babushka’s return! In the
 sweet, old woman’s words, Rechenka’s "special gift" is "All a miracle!"
 
-<img src="assets/Patricia Polacco 2 (2)/media/image8.jpeg"
-style="width:3.44792in;height:4.5in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image8.jpeg" />
 
 **Rechenka’s Eggs Patricia Polacco**
 
@@ -698,23 +691,17 @@ Rechenka had left for her. “All a miracle,” Babushka said.
 
 And this little goose remained with Babushka always.
 
-<img src="assets/Patricia Polacco 2 (2)/media/image9.jpeg"
-style="width:3.19792in;height:4.25069in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image9.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image10.jpeg"
-style="width:3.18194in;height:4.12778in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image10.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image11.jpeg"
-style="width:3.21528in;height:4.24792in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image11.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image12.jpeg"
-style="width:3.33472in;height:4.31389in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image12.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image13.jpeg"
-style="width:2.67222in;height:2.12986in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image13.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image14.jpeg"
-style="width:2.425in;height:2.07292in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image14.jpeg" />
 
 A Russian immigrant mother and family arrive in the United States. She
 plans to make a quilt from a basket of old clothes, telling her
@@ -740,23 +727,17 @@ captures the spirit of cooperation. When seen together, these
 caricatures, colours and quilts produce the feeling of comfort
 associated with folk art.
 
-<img src="assets/Patricia Polacco 2 (2)/media/image15.jpeg"
-style="width:6.05in;height:5.25347in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image15.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image16.jpeg"
-style="width:6.17639in;height:4.86597in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image16.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image17.jpeg"
-style="width:4.05in;height:3.44653in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image17.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image18.jpeg"
-style="width:4.42431in;height:3.69583in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image18.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image19.jpeg"
-style="width:4.3in;height:3.6in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image19.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image20.jpeg"
-style="width:4.67639in;height:3.71389in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image20.jpeg" />
 
 **The Keeping Quilt Patricia Polacco**
 
@@ -978,8 +959,7 @@ shallow: not deep
 
 threaded: interwoven or ornamented with threads
 
-<img src="assets/Patricia Polacco 2 (2)/media/image21.jpeg"
-style="width:2.87014in;height:2.46736in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image21.jpeg" />
 
 “The Blessing Cup,” takes us back to the times of Patricia’s
 grandparents, back to the shtetls of Russia.
@@ -988,11 +968,9 @@ The story follows the point of view of a young girl, Anna, as her
 village is going through the pogroms, or persecution aimed at the Jews.
 Anna doesn’t understand why this is happening to her family.
 
-<img src="assets/Patricia Polacco 2 (2)/media/image22.jpeg"
-style="width:2.75in;height:2.0625in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image22.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image23.jpeg"
-style="width:2.75069in;height:2.06944in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image23.jpeg" />
 
 **The Blessing Cup Patricia Polacco**
 
@@ -1290,11 +1268,9 @@ loved generations before I was born.
 
 How rich I am indeed.
 
-<img src="assets/Patricia Polacco 2 (2)/media/image24.jpeg"
-style="width:4.16667in;height:3.10486in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image24.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image25.jpeg"
-style="width:2.51042in;height:3.25in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image25.jpeg" />
 
 Naomi and Ruth are sisters who live on a farm in Pennsylvania's Amish
 country, where people take pride in their uncomplicated lives. But Naomi
@@ -1311,8 +1287,7 @@ that Fancy is a peacock-and Patricia Polacco's pictures reveal it to be
 a magnificent one at that. Naomi is praised for raising such a beautiful
 bird, and learns that some kinds of "fancy" are acceptable.
 
-<img src="assets/Patricia Polacco 2 (2)/media/image26.jpeg"
-style="width:3.29097in;height:4.5in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image26.jpeg" />
 
 **Just Plain Fancy**
 
@@ -1342,8 +1317,7 @@ So? Events
 
 Then? Resolution/ Wrap up.
 
-<img src="assets/Patricia Polacco 2 (2)/media/image27.jpeg"
-style="width:2.02083in;height:2.69792in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image27.jpeg" />
 
 **Writing Craft:**
 
@@ -1583,8 +1557,7 @@ And although no one ever quite knew how Fancy came to be hatched by
 Henny, it was never questioned. Plainly it was a miracle…and sometimes
 miracles are JUST PLAIN FANCY!
 
-<img src="assets/Patricia Polacco 2 (2)/media/image28.jpeg"
-style="width:2.36806in;height:2.50833in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image28.jpeg" />
 
 In Boat Ride with Lillian Two Blossom, two children are out by the
 river. William is trying to fish, and it might not be so difficult if
@@ -1715,32 +1688,23 @@ were leaping out of the water. As William fished, Mabel played along the
 shore with Banana Joe. It was a soft summer afternoon – but different
 somehow.
 
-<img src="assets/Patricia Polacco 2 (2)/media/image29.jpeg"
-style="width:3.1875in;height:4.5in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image29.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image30.jpeg"
-style="width:3.25in;height:4.5in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image30.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image31.jpeg"
-style="width:3.36458in;height:4.5in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image31.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image32.jpeg"
-style="width:3.29167in;height:4.5in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image32.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image33.jpeg"
-style="width:3.32292in;height:4.5in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image33.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image34.jpeg"
-style="width:3.36458in;height:4.5in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image34.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image35.jpeg"
-style="width:3.32292in;height:4.5in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image35.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image36.jpeg"
-style="width:4.42708in;height:4.5in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image36.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image37.jpeg"
-style="width:1.27083in;height:1.66667in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image37.jpeg" />
 
 Edward loves his pet duck more than anything. He raised it from a
 
@@ -2071,8 +2035,7 @@ They came and came by the hundreds. His graduates all! And for the rest
 of his days, they say, whenever those ducks passed by, they never failed
 to stop over and march again with their beloved Duckmaster.
 
-<img src="assets/Patricia Polacco 2 (2)/media/image38.jpeg"
-style="width:2.33333in;height:3in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image38.jpeg" />
 
 Michael and Derek don't expect the adventure of a lifetime visiting a
 
@@ -2090,32 +2053,23 @@ after
 all - and suddenly they’re racing across Confederate occupied land to
 return to their own time before it's too late.
 
-<img src="assets/Patricia Polacco 2 (2)/media/image39.jpeg"
-style="width:4.63472in;height:3in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image39.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image40.jpeg"
-style="width:4.63472in;height:3in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image40.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image41.jpeg"
-style="width:4.63472in;height:3in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image41.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image42.jpeg"
-style="width:4.63542in;height:3in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image42.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image43.jpeg"
-style="width:4.63542in;height:3in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image43.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image44.jpeg"
-style="width:4.63542in;height:3in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image44.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image45.jpeg"
-style="width:4.63542in;height:3in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image45.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image46.jpeg"
-style="width:4.63472in;height:3in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image46.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image47.jpeg"
-style="width:2.29583in;height:3in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image47.jpeg" />
 
 **Luba and the Wren The Story**
 
@@ -2427,23 +2381,17 @@ selfless.)
 6\. What are some of the things you have done for others out of the
 kindness of your heart, without expecting anything in return?
 
-<img src="assets/Patricia Polacco 2 (2)/media/image48.jpeg"
-style="width:3.25in;height:4.5in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image48.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image49.jpeg"
-style="width:3.30208in;height:4.5in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image49.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image50.jpeg"
-style="width:3.69792in;height:5.03958in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image50.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image51.jpeg"
-style="width:3.9625in;height:5.41736in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image51.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image52.jpeg"
-style="width:3.96875in;height:5.29167in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image52.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image53.jpeg"
-style="width:5.46875in;height:7.29167in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image53.jpeg" />
 
 **UNDERSTANDING DIFFERENCES**
 
@@ -2500,8 +2448,7 @@ things did they learn about their peer? Each student presents one or two
 special and unique facts about their partner. Show how your students’
 differences make them an even more special group.
 
-<img src="assets/Patricia Polacco 2 (2)/media/image54.jpeg"
-style="width:2.46597in;height:3in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image54.jpeg" />
 
 Following young Trisha as she navigates grade school while not being
 able to read is a heartwarming true story about author, Patricia
@@ -2524,14 +2471,11 @@ Patricia Polacco wrote this story in dedication and thanks to Mr. Falker
 for changing her life and giving her the ability to read, and eventually
 write amazing children’s books.
 
-<img src="assets/Patricia Polacco 2 (2)/media/image55.jpeg"
-style="width:2.08194in;height:2.42639in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image55.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image56.jpeg"
-style="width:1.97917in;height:2.76042in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image56.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image57.jpeg"
-style="width:2.00069in;height:2.73889in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image57.jpeg" />
 
 **Thank You, Mr Falker Patricia Polacco**
 
@@ -2835,20 +2779,15 @@ ago.*
 answered. “I make books for children … Thank you, Mr Falker. Thank
 you.”*
 
-<img src="assets/Patricia Polacco 2 (2)/media/image58.jpeg"
-style="width:3.28125in;height:4.5in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image58.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image59.jpeg"
-style="width:3.48472in;height:4.87778in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image59.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image60.jpeg"
-style="width:3.95486in;height:5.42986in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image60.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image61.jpeg"
-style="width:3.85069in;height:5.23194in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image61.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image62.png"
-style="width:3.75in;height:2.14583in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image62.png" />
 
 In my book, Thank You Mr. Falker, I deal with the themes of how a
 wonderful educator helped me recognise and eventually overcome a reading
@@ -2869,23 +2808,17 @@ most precious and valuable resources... we simply cannot let one more
 child suffer the life long humiliation and scaring that can, and often
 times does come from teasing.
 
-<img src="assets/Patricia Polacco 2 (2)/media/image63.jpeg"
-style="width:2.34236in;height:2.65486in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image63.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image64.jpeg"
-style="width:2.34444in;height:2.67708in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image64.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image65.jpeg"
-style="width:5.9375in;height:2.11458in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image65.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image65.jpeg"
-style="width:5.9375in;height:2.11458in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image65.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image65.jpeg"
-style="width:5.9375in;height:2.11458in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image65.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image66.jpeg"
-style="width:1.875in;height:2.39583in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image66.jpeg" />
 
 Trisha is ready to start at a new school, where no one will know she has
 dyslexia. At first, she is heartbroken to be in Miss Peterson’s
@@ -2928,14 +2861,11 @@ Peterson did for her students... she set them up for enormous success,
 knowing that contrary to popular opinion, they were not destined for
 mediocrity. (Emily Auxier)
 
-<img src="assets/Patricia Polacco 2 (2)/media/image67.jpeg"
-style="width:3.75in;height:3.3125in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image67.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image68.jpeg"
-style="width:3.99861in;height:3.47361in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image68.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image69.jpeg"
-style="width:6.25in;height:2.92708in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image69.jpeg" />
 
 It was the end of summer. The katydids were still buzzing when I finally
 summoned up the courage to ask my dad if I could stay with him and
@@ -3396,8 +3326,7 @@ Peterson’s eyes as she watched the Wonder climb into the heavens.
 “Like I said,” Gibbie whispered, “that baby is going straight to the
 moon.”
 
-<img src="assets/Patricia Polacco 2 (2)/media/image70.jpeg"
-style="width:2.53194in;height:2.15694in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image70.jpeg" />
 
 Mrs Peterson has always been with me … all these years. So have all
 those in my tribe.
@@ -3489,8 +3418,7 @@ and tell of the wondrous inventions!
 
 (The World of Patricia Polacco – Philomel Books)
 
-<img src="assets/Patricia Polacco 2 (2)/media/image71.jpeg"
-style="width:2.42847in;height:3.25in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image71.jpeg" />
 
 "When a bad leak ruins the sacristy wall in his father’s church,
 Jonathan Jefferson Weeks thinks his family’s first Christmas Eve in
@@ -3515,11 +3443,9 @@ told as true stories involving young ministers, one from Canada, the
 other from New York. Ms Polacco has adapted the tale for young readers
 and changed the setting to her home state of Michigan.*
 
-<img src="assets/Patricia Polacco 2 (2)/media/image72.jpeg"
-style="width:3.01042in;height:4.16667in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image72.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image73.jpeg"
-style="width:3.01042in;height:4.16667in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image73.jpeg" />
 
 **Christmas Tapestry Patricia Polacco**
 
@@ -3965,14 +3891,11 @@ the front of his church.
 
 It was all, truly, a Christmas Tapestry.
 
-<img src="assets/Patricia Polacco 2 (2)/media/image74.jpeg"
-style="width:3.01042in;height:4.16667in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image74.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image75.jpeg"
-style="width:3.01042in;height:4.16667in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image75.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image76.jpeg"
-style="width:2.08958in;height:2.87708in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image76.jpeg" />
 
 Pink and Say highlights the brief but intimate friendship of two young
 boys, Pinkus Aylee (Pink) and Sheldon Curtis (Say), during the Civil
@@ -4004,11 +3927,9 @@ touched the hand, that has touched the hand…
 
 I can assure you, the hope is still alive! (Leah Polacco)
 
-<img src="assets/Patricia Polacco 2 (2)/media/image77.jpeg"
-style="width:2.94306in;height:4.12778in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image77.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image78.jpeg"
-style="width:2.90833in;height:4.00139in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image78.jpeg" />
 
 **Pink and Say Patricia Polacco**
 
@@ -4438,11 +4359,9 @@ Rosa.*
 is the hand, that has touched the hand, that has touched the hand, that
 shook the hand of Abraham Lincoln.”*
 
-<img src="assets/Patricia Polacco 2 (2)/media/image79.jpeg"
-style="width:3.1875in;height:4.5in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image79.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image80.jpeg"
-style="width:2.76042in;height:3.75in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image80.jpeg" />
 
 Interview by Susie Wilde: Adapted from Children’s Literature-
 Independent Information and Reviews.
@@ -4510,8 +4429,7 @@ demonstration of the horror of the interruption and divisions of
 life...the fear, desperation, and desolate emptiness so many people
 feel."
 
-<img src="assets/Patricia Polacco 2 (2)/media/image81.jpeg"
-style="width:2.03056in;height:2.69653in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image81.jpeg" />
 
 "He led Eugene to the window of the atrium. It was alive with the songs
 of the birds. ‘I see sparrows, jays, cardinals, nuthatches and the
@@ -4838,26 +4756,19 @@ stoped and looked into his principal’s eyes.
 *Eugene Esterhouse was true to his promise. He became a fourth-grade
 teacher … and called his students “my little birds.”*
 
-<img src="assets/Patricia Polacco 2 (2)/media/image82.jpeg"
-style="width:3.17222in;height:4.12778in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image82.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image83.jpeg"
-style="width:3.27431in;height:4.24792in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image83.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image84.jpeg"
-style="width:3.26458in;height:4.24792in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image84.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image85.jpeg"
-style="width:3.25417in;height:4.24792in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image85.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image86.jpeg"
-style="width:3.27431in;height:4.24792in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image86.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image87.jpeg"
-style="width:3.25417in;height:4.24792in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image87.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image88.jpeg"
-style="width:2.70694in;height:3.49861in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image88.jpeg" />
 
 The Graves family has just moved to Union City, and they definitely
 don't fit in. With giant spiders in the living room, a voracious Venus
@@ -5312,20 +5223,15 @@ their wonderful “haunted house.” When people ask about the Graves and
 their house on the hill, villagers say, “Well, they fit in. They just
 fit in.”
 
-<img src="assets/Patricia Polacco 2 (2)/media/image89.jpeg"
-style="width:6.25in;height:7.67708in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image89.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image90.jpeg"
-style="width:6.25in;height:4.55208in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image90.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image91.jpeg"
-style="width:6.25in;height:4.33333in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image91.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image92.jpeg"
-style="width:6.25in;height:5.8125in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image92.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image93.jpeg"
-style="width:2.66875in;height:3.5in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image93.jpeg" />
 
 When the Graves family goes camping to mysterious Lake Bleakmire, so
 
@@ -5338,26 +5244,19 @@ rid of the dragon, especially after the giant beast accidentally soaks
 all the town's fireworks just before the big 4th of July celebration?
 The explosive solution is pure fun.
 
-<img src="assets/Patricia Polacco 2 (2)/media/image94.jpeg"
-style="width:3.26042in;height:4.16667in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image94.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image95.jpeg"
-style="width:3.19792in;height:4.16667in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image95.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image96.jpeg"
-style="width:3.19792in;height:4.16667in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image96.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image97.jpeg"
-style="width:3.35417in;height:4.16667in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image97.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image98.jpeg"
-style="width:3.19792in;height:4.16667in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image98.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image99.jpeg"
-style="width:4.16667in;height:3.79167in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image99.jpeg" />
 
-<img src="assets/Patricia Polacco 2 (2)/media/image100.jpeg"
-style="width:3.82083in;height:5.06111in" />
+<img src="assets/Patricia Polacco 2 (2)/media/image100.jpeg" />
 
 **The Graves Family Goes Camping Patricia Polacco**
 

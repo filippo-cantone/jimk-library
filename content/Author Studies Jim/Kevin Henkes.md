@@ -5,10 +5,10 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
-<img src="assets/Kevin Henkes/media/image1.jpeg"
-style="width:6.25in;height:4.04167in" />
+<img src="assets/Kevin Henkes/media/image1.jpeg" />
 
 **Kevin Henkes**
 
@@ -46,8 +46,7 @@ Good-Bye Curtis
 
 Penny and Her Marble
 
-<img src="assets/Kevin Henkes/media/image2.jpeg"
-style="width:2.5in;height:3.125in" />
+<img src="assets/Kevin Henkes/media/image2.jpeg" />
 
 **Meet Kevin Henkes**
 
@@ -371,8 +370,7 @@ remind them to have fun and not be concerned with creating a
 masterpiece. If, as adults, we value art and books, our children will,
 too.
 
-<img src="assets/Kevin Henkes/media/image3.jpeg"
-style="width:2.10417in;height:2.71875in" />
+<img src="assets/Kevin Henkes/media/image3.jpeg" />
 
 Kevin Henkes is a great Author as Mentor for the units of study.
 
@@ -399,8 +397,7 @@ Characteristics of Kevin Henkes books:
 \- there is a lot of “show don’t tell” in his books about what his
 characters are feeling.
 
-<img src="assets/Kevin Henkes/media/image4.jpeg"
-style="width:1.38542in;height:1.72917in" />
+<img src="assets/Kevin Henkes/media/image4.jpeg" />
 
 Wemberly is always worried. She is worried about the swings, her
 birthday party, and her favourite stuffed animal, Petal. Her parents and
@@ -411,8 +408,7 @@ teacher be mean? What if she does not like the snack? What if she can’t
 find the bathroom? Wemberly is worried about everything. Will she be
 able to go to school and find a friend?
 
-<img src="assets/Kevin Henkes/media/image5.jpeg"
-style="width:1.40625in;height:1.71875in" />
+<img src="assets/Kevin Henkes/media/image5.jpeg" />
 
 Owen has a favourite yellow blanket. He calls it Fuzzy. Owen goes
 everywhere and does everything with Fuzzy. His mom and dad think it is
@@ -426,8 +422,7 @@ buries Fuzzy in the sand so that it smells like sand! Then Mrs. Tweezer
 tells Owen’s parents that he will not be able to bring it to school.
 Will Owen be too smart for this too?
 
-<img src="assets/Kevin Henkes/media/image6.jpeg"
-style="width:1.57292in;height:1.95833in" />
+<img src="assets/Kevin Henkes/media/image6.jpeg" />
 
 Sheila Rae is not afraid of anything. She rides her bicycle without
 holding on, she steps on every crack in the sidewalk, and walks
@@ -439,8 +434,7 @@ cats, turns corners, and walks across streets. She is fine until she
 realises that she is lost. Sheila Rae is not brave any more. Who will be
 the brave mouse now?
 
-<img src="assets/Kevin Henkes/media/image7.jpeg"
-style="width:1.48958in;height:1.76042in" />
+<img src="assets/Kevin Henkes/media/image7.jpeg" />
 
 Ruthie Simms does not have a dog, cat, brother, or sister. She does have
 a best friend. Her name is Jessica. They do everything together. They
@@ -454,8 +448,7 @@ teacher tells the class to find a partner, Ruthie becomes partners with
 Jessica, but then a different girl asks Ruthie to be her partner. What
 will Ruthie do?
 
-<img src="assets/Kevin Henkes/media/image8.jpeg"
-style="width:1.54167in;height:1.89583in" />
+<img src="assets/Kevin Henkes/media/image8.jpeg" />
 
 Chrysanthemum is a name of a beautiful flower. It is also the name of a
 cute little mouse. Chrysanthemum loved her name. She loved the way it
@@ -680,8 +673,7 @@ of the Flowers.
 Eventually, Mrs Twinkle gave birth to a healthy baby girl. And, of
 course, she named her Chrysanthemum.
 
-<img src="assets/Kevin Henkes/media/image9.jpeg"
-style="width:1.4375in;height:1.77083in" />
+<img src="assets/Kevin Henkes/media/image9.jpeg" />
 
 Have you ever been so excited about something that you just have to
 share it with everyone as fast as you can? That is how Lily feels. She
@@ -876,8 +868,7 @@ That is, when she didn’t want to be a dancer, or a surgeon or an
 ambulance driver or a diva or a pilot or a hairdresser or a scuba diver
 …
 
-<img src="assets/Kevin Henkes/media/image10.jpeg"
-style="width:1.55208in;height:1.92708in" />
+<img src="assets/Kevin Henkes/media/image10.jpeg" />
 
 Lily found out that she was going to be a big sister. She loved her baby
 brother right away. She even sang lullabies to him every night when he

@@ -5,10 +5,10 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
-<img src="assets/Chris Van Allsburg/media/image1.jpeg"
-style="width:4.16667in;height:3.8125in" />
+<img src="assets/Chris Van Allsburg/media/image1.jpeg" />
 
 **Chris Van Allsburg**
 
@@ -21,14 +21,11 @@ style="width:4.16667in;height:3.8125in" />
 </colgroup>
 <tbody>
 <tr class="odd">
-<td><img src="assets/Chris Van Allsburg/media/image2.jpeg"
-style="width:3.60417in;height:0.47917in" /></td>
-<td rowspan="3"><img src="assets/Chris Van Allsburg/media/image3.png"
-style="width:0.375in;height:3.16667in" /></td>
+<td><img src="assets/Chris Van Allsburg/media/image2.jpeg" /></td>
+<td rowspan="3"><img src="assets/Chris Van Allsburg/media/image3.png" /></td>
 </tr>
 <tr class="even">
-<td><img src="assets/Chris Van Allsburg/media/image4.png"
-style="width:3.60278in" /></td>
+<td><img src="assets/Chris Van Allsburg/media/image4.png" /></td>
 </tr>
 <tr class="odd">
 <td><table>
@@ -90,8 +87,7 @@ The Polar Express
 
 The Wreck of the Zephyr
 
-<img src="assets/Chris Van Allsburg/media/image5.jpeg"
-style="width:2.08333in;height:2.36458in" />
+<img src="assets/Chris Van Allsburg/media/image5.jpeg" />
 
 **Author Study:**
 
@@ -101,13 +97,11 @@ Writing Workshop: Personal **narratives**.
 
 |                                                       |
 |-------------------------------------------------------|
-| <img src="assets/Chris Van Allsburg/media/image3.png" 
- style="width:0.375in;height:3.16667in" />              |
+| <img src="assets/Chris Van Allsburg/media/image3.png" />              |
 |                                                       |
 |                                                       |
 
-<img src="assets/Chris Van Allsburg/media/image6.jpeg"
-style="width:3.125in;height:2.5625in" />
+<img src="assets/Chris Van Allsburg/media/image6.jpeg" />
 
 **Book Summary**
 
@@ -248,8 +242,7 @@ happen if you were to visit this person.
 
 **The Garden of Abdul Gasazi Chris Van Allsburg**
 
-<img src="assets/Chris Van Allsburg/media/image7.png"
-style="width:4.68681in;height:3.62431in" />
+<img src="assets/Chris Van Allsburg/media/image7.png" />
 
 The story starts with Miss Hester leaving her disobedient pitbull dog
 Fritz with Alan Mitz while she visits her cousin. Alan does his best to
@@ -257,33 +250,28 @@ keep Fritz from chewing the furniture and finally they settle down for a
 nap. Alan makes sure his beloved hat is safe from Fritz who loves eating
 hats even more than furniture!
 
-<img src="assets/Chris Van Allsburg/media/image8.jpeg"
-style="width:4.16667in;height:2.83194in" />
+<img src="assets/Chris Van Allsburg/media/image8.jpeg" />
 
 Later Alan takes Fritz for a walk and lets Fritz lead the way. They come
 across a sign: “ABSOLUTELY, POSITIVELY NO DOGS ALLOWED IN THIS GARDEN,”
 signed by Abdul Gasazi, retired magician. Fritz breaks free and bolts
 straight through the door with Alan chasing behind him.
 
-<img src="assets/Chris Van Allsburg/media/image9.png"
-style="width:4.68889in;height:3.65694in" />
+<img src="assets/Chris Van Allsburg/media/image9.png" />
 
-<img src="assets/Chris Van Allsburg/media/image10.png"
-style="width:4.68681in;height:3.67639in" />
+<img src="assets/Chris Van Allsburg/media/image10.png" />
 
 Alan falls and can’t keep up with Fritz, who disappears into the garden.
 Alan is desperate to find Fritz before Mr Gasazi finds out they’ve been
 in his garden.
 
-<img src="assets/Chris Van Allsburg/media/image11.png"
-style="width:4.68681in;height:3.59306in" />
+<img src="assets/Chris Van Allsburg/media/image11.png" />
 
 Alan searches for Fritz everywhere and finally comes across some dog
 tracks which lead to the great and imposing house belonging to this
 mysterious Abdul Gasazi.
 
-<img src="assets/Chris Van Allsburg/media/image12.png"
-style="width:4.68681in;height:3.66597in" />
+<img src="assets/Chris Van Allsburg/media/image12.png" />
 
 Alan asks for the dog back and Gasazi says “certainly you may have your
 little Fritzie, follow me.” leading him outside to a gathering of ducks.
@@ -292,8 +280,7 @@ trees. “Do you know what I do to dogs I find in my garden? I TURN THEM
 INTO DUCKS” Alan is horrified to learn that only time can turn Fritz
 back – maybe years maybe just a day.
 
-<img src="assets/Chris Van Allsburg/media/image13.png"
-style="width:4.68681in;height:3.64514in" />
+<img src="assets/Chris Van Allsburg/media/image13.png" />
 
 Alan takes the bird in his arms and heads for home, devastated. Behind
 him Gasazi laughs. Alan’s hat blows off and the duck flies off with it
@@ -304,11 +291,9 @@ by the thought he at least had a hat to chew on. He tells Miss Hester
 what has happened to Fritz, but she tells him it must have all been a
 joke: Fritz is home, eating his dinner.
 
-<img src="assets/Chris Van Allsburg/media/image14.png"
-style="width:4.68681in;height:3.69722in" />
+<img src="assets/Chris Van Allsburg/media/image14.png" />
 
-<img src="assets/Chris Van Allsburg/media/image15.png"
-style="width:4.68681in;height:3.63472in" />
+<img src="assets/Chris Van Allsburg/media/image15.png" />
 
 Alan heads home, feeling silly, and is convinced he won’t be fooled
 again. Miss Hester calls Fritz back into the house and he drops Alan’s
@@ -428,8 +413,7 @@ are you doing with Alan’s hat?”
 
 (see also Questioning and Inferring)
 
-<img src="assets/Chris Van Allsburg/media/image16.jpeg"
-style="width:2.08333in;height:1.8125in" />
+<img src="assets/Chris Van Allsburg/media/image16.jpeg" />
 
 *It is just as the leaves are beginning to change colours that farmer
 Bailey accidentally hits a man with his truck. This ‘stranger’ proves to
@@ -504,23 +488,17 @@ Book:\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\
 | Questions | Inferences |
 |           |            |
 
-<img src="assets/Chris Van Allsburg/media/image17.jpeg"
-style="width:3.87292in;height:3.03819in" />
+<img src="assets/Chris Van Allsburg/media/image17.jpeg" />
 
-<img src="assets/Chris Van Allsburg/media/image18.jpeg"
-style="width:4.91667in;height:3.83958in" />
+<img src="assets/Chris Van Allsburg/media/image18.jpeg" />
 
-<img src="assets/Chris Van Allsburg/media/image19.jpeg"
-style="width:2.60417in;height:2.10417in" />
+<img src="assets/Chris Van Allsburg/media/image19.jpeg" />
 
-<img src="assets/Chris Van Allsburg/media/image20.jpeg"
-style="width:5.20833in;height:4.11458in" />
+<img src="assets/Chris Van Allsburg/media/image20.jpeg" />
 
-<img src="assets/Chris Van Allsburg/media/image21.jpeg"
-style="width:5.20764in;height:4.28056in" />
+<img src="assets/Chris Van Allsburg/media/image21.jpeg" />
 
-<img src="assets/Chris Van Allsburg/media/image22.jpeg"
-style="width:2.64583in;height:2.07292in" />
+<img src="assets/Chris Van Allsburg/media/image22.jpeg" />
 
 **The Stranger Chris Van Allsburg**
 
@@ -619,8 +597,7 @@ trees to the north have turned. Then overnight they change their color
 to the brightest of any tree around. And etched in frost on the
 farmhouse windows are words that say simply, “See you next fall.”**
 
-<img src="assets/Chris Van Allsburg/media/image23.jpeg"
-style="width:2.5in;height:3.17708in" />
+<img src="assets/Chris Van Allsburg/media/image23.jpeg" />
 
 Monsieur Bibot, a Parisian dentist, is given two magical figs as payment
 from one of his patients. The figs, when eaten, make Bibot's dreams
@@ -633,11 +610,9 @@ his apartment and then under the bed. Annoyed, Bibot goes to sleep. The
 next morning Bibot wakes to find he has become the dog and Marcel the
 new master.
 
-<img src="assets/Chris Van Allsburg/media/image24.jpeg"
-style="width:3.22917in;height:2.29167in" />
+<img src="assets/Chris Van Allsburg/media/image24.jpeg" />
 
-<img src="assets/Chris Van Allsburg/media/image25.jpeg"
-style="width:3.45833in;height:4.16667in" />
+<img src="assets/Chris Van Allsburg/media/image25.jpeg" />
 
 Preliminary Lessons:
 
@@ -794,8 +769,7 @@ grabbed him. Bibot tried to yell, but all he could do was bark.
 Book: <u>The Mysteries of Harris Burdick</u> Author: <u>Chris Van
 Allsburg</u>
 
-<img src="assets/Chris Van Allsburg/media/image26.png"
-style="width:2.41181in;height:3.01736in" />
+<img src="assets/Chris Van Allsburg/media/image26.png" />
 
 |                    |                   |                  |
 |--------------------|-------------------|------------------|
@@ -826,8 +800,7 @@ style="width:2.41181in;height:3.01736in" />
 </tbody>
 </table>
 
-<img src="assets/Chris Van Allsburg/media/image27.png"
-style="width:1.66736in;height:2.44792in" />
+<img src="assets/Chris Van Allsburg/media/image27.png" />
 
 When an ant scout returns home with a mysterious crystal, the queen ant
 decides it is the most delicious food she has ever tasted. That evening
@@ -928,8 +901,7 @@ text.
 
 *Teachers’ Guide*
 
-<img src="assets/Chris Van Allsburg/media/image28.jpeg"
-style="width:3in;height:4.16667in" />
+<img src="assets/Chris Van Allsburg/media/image28.jpeg" />
 
 "Then the lake tilted and began to empty into a cave. The ants could
 hear the rushing water and felt themselves pulled toward the pitch black
@@ -1161,8 +1133,7 @@ chose a single crystal and followed their friends home.
 
 **Jumanji Chris Van Allsburg**
 
-<img src="assets/Chris Van Allsburg/media/image29.jpeg"
-style="width:2.91667in;height:2.5in" />
+<img src="assets/Chris Van Allsburg/media/image29.jpeg" />
 
 Plot Summary
 
@@ -1202,8 +1173,7 @@ instructions to Jumanji? What might happen to the Budwing boys?
 How do Peter and Judy change as a result of their adventure with
 Jumanji? What have they learnt?
 
-<img src="assets/Chris Van Allsburg/media/image30.jpeg"
-style="width:4.29861in;height:3.225in" />
+<img src="assets/Chris Van Allsburg/media/image30.jpeg" />
 
 Van Allsburg’s black-and-white pencil drawings create a richly textured
 world where bizarre clashes of context are made starkly apparent.
@@ -1219,8 +1189,7 @@ with the characters.
 How are the pictures framed? What does Van Allsburg choose to include
 and not to include?
 
-<img src="assets/Chris Van Allsburg/media/image31.jpeg"
-style="width:5.20833in;height:4.84375in" />
+<img src="assets/Chris Van Allsburg/media/image31.jpeg" />
 
 **Strong Verbs**
 
@@ -1297,8 +1266,7 @@ collect text evidence for
 
 their theories.
 
-<img src="assets/Chris Van Allsburg/media/image32.jpeg"
-style="width:4.16667in;height:3.8125in" />
+<img src="assets/Chris Van Allsburg/media/image32.jpeg" />
 
 *Adapted from Jumanji- a Teacher’s Guide.*
 
@@ -1581,8 +1549,7 @@ Yes, absolutely, I think, a right turn … or maybe …”</em></td>
 Find Fritz: In Jumanji, Fritz the dog is a pull toy on the ﬂoor in the
 living room where the children begin playing the game.
 
-<img src="assets/Chris Van Allsburg/media/image33.jpeg"
-style="width:1.92847in;height:2.67292in" />
+<img src="assets/Chris Van Allsburg/media/image33.jpeg" />
 
 Danny and Walter Budwing don't get along. When their parents go out for
 the evening, small arguments escalate until finally Walter, the elder,
@@ -1610,8 +1577,7 @@ park. Seeming not to remember the day's events, Danny wants to take the
 game home. Walter, much wiser for his experience, tosses it in the trash
 can and suggests a game of catch, much to his little brother's delight.
 
-<img src="assets/Chris Van Allsburg/media/image34.jpeg"
-style="width:6.24861in;height:4.68889in" />
+<img src="assets/Chris Van Allsburg/media/image34.jpeg" />
 
 **Zathura a Space Adventure Chris Van Allsburg**
 
@@ -1924,8 +1890,7 @@ park? How did they get there?
 
 How has the boys' relationship changed as a result of their experience?
 
-<img src="assets/Chris Van Allsburg/media/image35.jpeg"
-style="width:2.86458in;height:1.82292in" />
+<img src="assets/Chris Van Allsburg/media/image35.jpeg" />
 
 **WRITING CRAFT**
 
@@ -2051,8 +2016,7 @@ wiggled in her hand, spelling out “goodbye.”**
 
 **It was a perfect lift-off.**
 
-<img src="assets/Chris Van Allsburg/media/image36.jpeg"
-style="width:2.69792in;height:3.33333in" />
+<img src="assets/Chris Van Allsburg/media/image36.jpeg" />
 
 **The Mysteries of Harris Burdick**
 
@@ -2111,8 +2075,7 @@ started.**
 
 |     |                                                       |
 |-----|-------------------------------------------------------|
-|     | <img src="assets/Chris Van Allsburg/media/image3.png" 
-       style="width:0.375in;height:3.16667in" />              |
+|     | <img src="assets/Chris Van Allsburg/media/image3.png" />              |
 |     |                                                       |
 
 <table>
@@ -2202,11 +2165,9 @@ the text.
 
 Use ideas from Writer’s Notebook to write stories.
 
-<img src="assets/Chris Van Allsburg/media/image37.jpeg"
-style="width:5.17778in;height:6.66597in" />
+<img src="assets/Chris Van Allsburg/media/image37.jpeg" />
 
-<img src="assets/Chris Van Allsburg/media/image38.png"
-style="width:1.66667in;height:2.15625in" />
+<img src="assets/Chris Van Allsburg/media/image38.png" />
 
 Young Walter is a careless boy who tosses rubbish on the grass, thinks
 recycling is a waste of time, and mocks his neighbour, Rose, for her
@@ -2479,8 +2440,7 @@ does he learn from his dream?
 
 What does Chris Van Allsburg teach readers about caring for the Earth?
 
-<img src="assets/Chris Van Allsburg/media/image39.png"
-style="width:4.61389in;height:5.16597in" />
+<img src="assets/Chris Van Allsburg/media/image39.png" />
 
 **Writing:**
 
@@ -2770,8 +2730,7 @@ seat*
 
 *Chris Van Allsburg*
 
-<img src="assets/Chris Van Allsburg/media/image40.jpeg"
-style="width:3.125in;height:2.5in" />
+<img src="assets/Chris Van Allsburg/media/image40.jpeg" />
 
 As the story starts off, a young boy, who used to adore Christmas, hears
 a train whistle roar. To his astonishment, he finds the train is waiting
@@ -2806,17 +2765,13 @@ passed, it fell silent for all of them. Even Sarah found one Christmas
 that she could no longer hear its sweet sound. Though I've grown old,
 the bell still rings for me, as it does for all who truly believe.
 
-<img src="assets/Chris Van Allsburg/media/image41.jpeg"
-style="width:4.43681in;height:3.29097in" />
+<img src="assets/Chris Van Allsburg/media/image41.jpeg" />
 
-<img src="assets/Chris Van Allsburg/media/image42.jpeg"
-style="width:5.20764in;height:2.22847in" />
+<img src="assets/Chris Van Allsburg/media/image42.jpeg" />
 
-<img src="assets/Chris Van Allsburg/media/image43.jpeg"
-style="width:2.60417in;height:1.59375in" />
+<img src="assets/Chris Van Allsburg/media/image43.jpeg" />
 
-<img src="assets/Chris Van Allsburg/media/image44.jpeg"
-style="width:7.55in;height:5.96042in" />
+<img src="assets/Chris Van Allsburg/media/image44.jpeg" />
 
 *I knew that I could have any gift I could imagine. But the thing I
 wanted most for Christmas was not inside Santa’s giant bag. What I
@@ -3201,8 +3156,7 @@ it fell silent for all of them. Even Sarah found one Christmas that she
 could no longer hear its sweet sound. Though I’ve grown old, the bell
 still rings for me as it does for all who truly believe.
 
-<img src="assets/Chris Van Allsburg/media/image45.jpeg"
-style="width:3.16667in;height:2.48611in" />
+<img src="assets/Chris Van Allsburg/media/image45.jpeg" />
 
 Travelling along the seashore, the author stops at a small fishing
 village. He decides to take a walk on a path that leads to the tops of
@@ -3246,8 +3200,7 @@ that nobody believed his story about flying boats. He spent most of his
 life doing odd jobs and trying to find the mysterious island again. The
 author watches as the old man limps down the hill to do some sailing.
 
-<img src="assets/Chris Van Allsburg/media/image46.jpeg"
-style="width:5.41736in;height:4.46944in" />
+<img src="assets/Chris Van Allsburg/media/image46.jpeg" />
 
 One is struck immediately by the rendering of light in Chris Van
 Allsburg's illustrations in The Wreck of the Zephyr. From the
@@ -3257,8 +3210,7 @@ story, each picture captures the time of day and the mood of the sea
 vividly. The waves deepen and glow as the sun sets. Stars reflect on the
 sea's surface.
 
-<img src="assets/Chris Van Allsburg/media/image47.png"
-style="width:4.27083in;height:3.20833in" />
+<img src="assets/Chris Van Allsburg/media/image47.png" />
 
 In addition to pictures that so vividly capture the moods of the sea,
 The Wreck of the Zephyr follows a mysteriously haunting story line.
@@ -3283,8 +3235,7 @@ until he reaches his home. Not content to have made his way back to his
 own people, the boy's pride urges him to show off even more and ring his
 boat's bell above the town so
 
-<img src="assets/Chris Van Allsburg/media/image48.png"
-style="width:5.20903in;height:3.75069in" />
+<img src="assets/Chris Van Allsburg/media/image48.png" />
 
 everyone can see. Immediately the boat falls through the trees and comes
 to rest on the cliffs, breaking the boy's leg in the process.
@@ -3296,8 +3247,7 @@ Allsburg's books, we are left to make that decision on our own.
 **Fritz** is the dog standing near the fisherman who warns the boy not
 to go out on such a stormy day on page 9.
 
-<img src="assets/Chris Van Allsburg/media/image49.jpeg"
-style="width:5.20833in;height:4.16667in" />
+<img src="assets/Chris Van Allsburg/media/image49.jpeg" />
 
 **Questions:**
 

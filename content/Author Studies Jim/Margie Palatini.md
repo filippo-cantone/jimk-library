@@ -5,18 +5,16 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
-<img src="assets/Margie Palatini/media/image1.jpeg"
-style="width:1.70833in;height:1.41667in" />
+<img src="assets/Margie Palatini/media/image1.jpeg" />
 
 **Margie Palatini**
 
-<img src="assets/Margie Palatini/media/image2.jpeg"
-style="width:1.75in;height:1.92708in" />
+<img src="assets/Margie Palatini/media/image2.jpeg" />
 
-<img src="assets/Margie Palatini/media/image3.jpeg"
-style="width:2.38542in;height:3.0625in" />
+<img src="assets/Margie Palatini/media/image3.jpeg" />
 
 **Introducing Margie…**
 
@@ -79,8 +77,7 @@ write or like to write—or how you write—is not the current popular
 ‘flavour of the month’ and moment. But, I think, staying true to
 yourself as an artist is always good to remember.
 
-<img src="assets/Margie Palatini/media/image4.jpeg"
-style="width:3.25in;height:4.05208in" />
+<img src="assets/Margie Palatini/media/image4.jpeg" />
 
 **How did you start writing children’s books? **  
 I really started as an artist, as a designer, not in children’s books.
@@ -138,8 +135,7 @@ of Oz.’ My favorite picture book was and still is, really, ‘The Little
 Engine That Could.’ That is the theme, that perseverance, that, ‘Yes,
 you can.’”
 
-<img src="assets/Margie Palatini/media/image5.jpeg"
-style="width:2.22917in;height:2.60417in" />
+<img src="assets/Margie Palatini/media/image5.jpeg" />
 
 **All about Margie**
 
@@ -154,8 +150,7 @@ his [first
 laboratory](http://margiepalatini.com/dev/wp-content/uploads/margie_bio/first_laboratory.jpg) was
 in Edison, then called Menlo Park.
 
-<img src="assets/Margie Palatini/media/image6.jpeg"
-style="width:1.96875in;height:1.73958in" />
+<img src="assets/Margie Palatini/media/image6.jpeg" />
 
 I was forever telling stories, making puppet shows, and putting on
 plays. I was one animated and funny little character — singing, dancing,
@@ -165,8 +160,7 @@ dad, to my grandparents, aunts, uncles, my doctor, teachers, and people
 I saw on TV. I Loved Lucy, adored Lamb Chop, and I’ll always be crazy
 for Bugs. (Bunny, that is).
 
-<img src="assets/Margie Palatini/media/image7.jpeg"
-style="width:1.57292in;height:1.5625in" />
+<img src="assets/Margie Palatini/media/image7.jpeg" />
 
 I also loved to read. Fairytales. Biographies. History. Everything.
 
@@ -175,16 +169,14 @@ removed](http://margiepalatini.com/dev/wp-content/uploads/margie_bio/tonsils_rem
 Ouch. When you have your tonsils taken out, you pretty much can’t do
 anything for a while, except eat ice cream and other cold stuff because
 your throat really hurts. You certainly can’t sing, or
-act. <img src="assets/Margie Palatini/media/image8.jpeg"
-style="width:2.01042in;height:1.9375in" />I couldn’t even talk! But
+act. <img src="assets/Margie Palatini/media/image8.jpeg" />I couldn’t even talk! But
 reading was just fine, so my parents bought me the biggest green
 leather-covered book I had ever seen. The title was stamped in gold and
 inside it was filled with fairy tales and fables and the most beautiful
 illustrations. When I touched the pages, the paper felt like satin. It
 was one of my most special gifts ever.
 
-<img src="assets/Margie Palatini/media/image9.jpeg"
-style="width:0.87014in;height:3.33333in" />(Okay, my very own play
+<img src="assets/Margie Palatini/media/image9.jpeg" />(Okay, my very own play
 kitchen – in pink — was pretty cool too. And, I can’t forget Barbie!)
 
 But oh, how I loved that fairy tale book! I had other [favourite
@@ -199,8 +191,7 @@ pin to etch into the living room end table!) Not kidding.
 [Grandma](http://margiepalatini.com/dev/wp-content/uploads/margie_bio/grandma.jpg) called
 me ‘the draw-er’.
 
-<img src="assets/Margie Palatini/media/image10.jpeg"
-style="width:3.04167in;height:2.46875in" />My parents couldn’t keep me
+<img src="assets/Margie Palatini/media/image10.jpeg" />My parents couldn’t keep me
 in paper. (But tried really hard after that ‘safety pin’ episode.) If I
 used up every scrap I could scrounge in the house, I’d find napkins or
 take a roll of paper towels — which, I thought worked fabulously for
@@ -208,8 +199,7 @@ making [my
 books](http://margiepalatini.com/dev/wp-content/uploads/margie_bio/my_books.jpg).
 Hey, the pages were already attached! How good was that?
 
-<img src="assets/Margie Palatini/media/image11.jpeg"
-style="width:1.52083in;height:1.45833in" />I was always excited to get a
+<img src="assets/Margie Palatini/media/image11.jpeg" />I was always excited to get a
 new box of [64 Crayola
 Crayons](http://www.crayolastore.com/product_detail.asp?T1=CRA+52-0064).
 They looked like an amazing rainbow of little men, perfectly lined up
@@ -225,8 +215,7 @@ and [Da-Da’d](http://margiepalatini.com/dev/wp-content/uploads/margie_bio/dad
 with the [Art
 Museum](http://margiepalatini.com/dev/wp-content/uploads/margie_bio/art_museum.jpg) down
 the road from
-me, <img src="assets/Margie Palatini/media/image12.jpeg"
-style="width:1.61458in;height:2.34375in" />the [Franklin
+me, <img src="assets/Margie Palatini/media/image12.jpeg" />the [Franklin
 Institute](http://margiepalatini.com/dev/wp-content/uploads/margie_bio/franklin_institute.jpg) to
 the left of me, and Public Library across the street.
 
@@ -239,23 +228,19 @@ him. And feeding him. And after twenty-two years and almost forty books
 later, he’s still my supreme giggle tester … and I’m still making up
 stories. And making up stories … and making up stories.
 
-<img src="assets/Margie Palatini/media/image13.jpeg"
-style="width:4.39444in;height:2.59444in" />
+<img src="assets/Margie Palatini/media/image13.jpeg" />
 
 Zoey’s last name, Zinevich, is a family name.
 
 Do you see the family resemblance? Is she my doppleganger?
 
-<img src="assets/Margie Palatini/media/image14.jpeg"
-style="width:4.03125in;height:4.875in" />
+<img src="assets/Margie Palatini/media/image14.jpeg" />
 
 I was the ‘Big Sister’ in our family.
 
-<img src="assets/Margie Palatini/media/image15.jpeg"
-style="width:2.64583in;height:3.42292in" />
+<img src="assets/Margie Palatini/media/image15.jpeg" />
 
-<img src="assets/Margie Palatini/media/image16.jpeg"
-style="width:5.53194in;height:1.55069in" />
+<img src="assets/Margie Palatini/media/image16.jpeg" />
 
 The answers to all of them are long and complicated, because it’s not
 just one ‘thing’, or one ‘person’ or even one ‘idea’, that is at the
@@ -315,8 +300,7 @@ Rapunzel
 
 The Frog Prince
 
-<img src="assets/Margie Palatini/media/image17.jpeg"
-style="width:1.6875in;height:1.70833in" />
+<img src="assets/Margie Palatini/media/image17.jpeg" />
 
 **Rhymes & Songs**
 
@@ -348,8 +332,7 @@ In order to **compare and contrast** and appreciate the humour the
 students should be familiar with most of the original material. They
 will also be using these and others in their own original work.
 
-<img src="assets/Margie Palatini/media/image18.jpeg"
-style="width:3.70833in;height:2.6875in" />
+<img src="assets/Margie Palatini/media/image18.jpeg" />
 
 **Reader’s Theatre**
 
@@ -418,11 +401,9 @@ The Web Files
 
 The Cheese
 
-<img src="assets/Margie Palatini/media/image19.jpeg"
-style="width:2.83958in;height:3.67292in" />
+<img src="assets/Margie Palatini/media/image19.jpeg" />
 
-<img src="assets/Margie Palatini/media/image20.jpeg"
-style="width:1.91667in;height:2.48958in" />
+<img src="assets/Margie Palatini/media/image20.jpeg" />
 
 "Hold your horsepower," said the little man with a stamp, a stomp, and a
 snort. "This is a troll bridge. I'm the Troll. Now, start passing the
@@ -641,8 +622,7 @@ Is that a troll I smell? … Yummy yum yum!”
 >
 > management
 
-<img src="assets/Margie Palatini/media/image21.jpeg"
-style="width:2.45278in;height:3.61944in" />
+<img src="assets/Margie Palatini/media/image21.jpeg" />
 
 **Wordplay**
 
@@ -976,8 +956,7 @@ Mr Llort and the littlest sister Gruff walked hand in hand to the peach
 tree. They picked some ripe, juicy peaches and spent the afternoon
 eating them and preparing a scrumptious feast – peach and goat pie!
 
-<img src="assets/Margie Palatini/media/image22.jpeg"
-style="width:2.15in;height:2.87153in" />
+<img src="assets/Margie Palatini/media/image22.jpeg" />
 
 They heard the ground grumble. Then they felt the ground rumble. And
 before they knew it, they were all taking a tumble!
@@ -1606,8 +1585,7 @@ have a slice of corn cake instead.”
 
 And that, as Turkey Lurkey said, was the best surprise of all.
 
-<img src="assets/Margie Palatini/media/image23.jpeg"
-style="width:1.875in;height:2.47778in" />
+<img src="assets/Margie Palatini/media/image23.jpeg" />
 
 Theme: Fables
 
@@ -1936,11 +1914,9 @@ anyway.”
 
 “If you say so.”
 
-<img src="assets/Margie Palatini/media/image24.jpeg"
-style="width:3.75in;height:3.59375in" />
+<img src="assets/Margie Palatini/media/image24.jpeg" />
 
-<img src="assets/Margie Palatini/media/image25.jpeg"
-style="width:3.75in;height:3.08333in" />
+<img src="assets/Margie Palatini/media/image25.jpeg" />
 
 **THE FOX AND THE GRAPES Aesop**
 
@@ -1990,8 +1966,7 @@ have.</td>
 </tbody>
 </table>
 
-<img src="assets/Margie Palatini/media/image26.jpeg"
-style="width:4.16667in;height:4.0625in" />
+<img src="assets/Margie Palatini/media/image26.jpeg" />
 
 Can Edith the tooth fairy help Bernice the godmother of all fairies find
 her magical powers again, or is Bernice doomed to live out the rest of
@@ -2315,8 +2290,7 @@ We all lived happily ever after.
 
 But I bet you knew that already, didn’t you?
 
-<img src="assets/Margie Palatini/media/image27.jpeg"
-style="width:2.38472in;height:2.09375in" />
+<img src="assets/Margie Palatini/media/image27.jpeg" />
 
 On the run again, wolves Willy and Wally have the perfect plan. Cleverly
 disguised in womanly wool-wear, they slip into the sheep flock — a
@@ -2626,8 +2600,7 @@ were two very bad haircuts.
 
 Oh yeah, they were bad. Bad. Really, *really* bad.
 
-<img src="assets/Margie Palatini/media/image28.jpeg"
-style="width:2.16667in;height:1.98125in" />
+<img src="assets/Margie Palatini/media/image28.jpeg" />
 
 Those two bad boys -- Willy and Wally -- are still bad.
 
@@ -2894,8 +2867,7 @@ Willy looked at Wally. Wally looked at Willy.
 
 Ah yes. Oh my. Those boys were bad. Bad. Really, really bad.
 
-<img src="assets/Margie Palatini/media/image29.jpeg"
-style="width:4.16667in;height:3.40625in" />
+<img src="assets/Margie Palatini/media/image29.jpeg" />
 
 Gritch the Witch woke up grouchy, grumpy, and very hungry. Her belly
 grumbled for something delicious. Something delightful. Something
@@ -3190,8 +3162,7 @@ Ellipses. Exclamation marks. Talking marks.
 
 *Rattlesnake’s rattle Old MacDonald’s farm*
 
-<img src="assets/Margie Palatini/media/image30.jpeg"
-style="width:2.08333in;height:1.77083in" />
+<img src="assets/Margie Palatini/media/image30.jpeg" />
 
 Gritch the Witch is hungry and her batscotti andeek! Spresso snack
 isn\`t quite doing the trick. She wants a more filling, furry snack. She
@@ -3503,8 +3474,7 @@ PROBLEM!** No problem at all!”
 
 **Z-Z-Z-ZZZOOOOOOM!**
 
-<img src="assets/Margie Palatini/media/image31.jpeg"
-style="width:2.125in;height:2.57292in" />
+<img src="assets/Margie Palatini/media/image31.jpeg" />
 
 DUM DE DUM DUM...
 
@@ -3810,8 +3780,7 @@ Ellipses. Exclamation marks. Talking marks.
 
 *hen’s house*
 
-<img src="assets/Margie Palatini/media/image32.jpeg"
-style="width:2.10417in;height:2.60417in" />
+<img src="assets/Margie Palatini/media/image32.jpeg" />
 
 The Cheese: With a hi-ho the dairy-o, Margie Palatini tells the story of
 just how tempting it is to abandon the "Rules and Regulations" that
@@ -4182,11 +4151,9 @@ Ellipses. Exclamation marks. Talking marks.
 
 *everyone’s tummy day’s work farmer’s*
 
-<img src="assets/Margie Palatini/media/image33.jpeg"
-style="width:5.20833in;height:3.23958in" />
+<img src="assets/Margie Palatini/media/image33.jpeg" />
 
-<img src="assets/Margie Palatini/media/image34.jpeg"
-style="width:4in;height:3.21597in" />
+<img src="assets/Margie Palatini/media/image34.jpeg" />
 
 Stanley Snoutowski has always been a precocious piggie-and Mary has
 always encouraged her little ham. In the barn and even at school (where
@@ -4479,8 +4446,7 @@ houselights</em></p>
 </tbody>
 </table>
 
-<img src="assets/Margie Palatini/media/image35.jpeg"
-style="width:2.48958in;height:3.07292in" />
+<img src="assets/Margie Palatini/media/image35.jpeg" />
 
 Papa, mama, and baby were enjoying a quiet peaceful day in their rabbit
 hole. A girl fell down the rabbit hole and landed splat on their

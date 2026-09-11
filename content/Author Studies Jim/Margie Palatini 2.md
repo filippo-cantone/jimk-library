@@ -5,17 +5,16 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+strand: reading
 ---
 
 **Margie Palatini**
 
 **(2)**
 
-<img src="assets/Margie Palatini 2/media/image1.jpeg"
-style="width:4.25in;height:4in" />
+<img src="assets/Margie Palatini 2/media/image1.jpeg" />
 
-<img src="assets/Margie Palatini 2/media/image2.jpeg"
-style="width:2.86458in;height:3.11458in" />
+<img src="assets/Margie Palatini 2/media/image2.jpeg" />
 
 In this modern fable of right and wrong, Hogg, Hogg & Hog have everyone
 oinking! But when oinking loses its lustre, they need to come up with
@@ -52,11 +51,9 @@ They are *very* **BIG PIGS.**
 
 Hogg, Hogg, and Hog have *everyone* in the **BIG CITY oinking!**
 
-<img src="assets/Margie Palatini 2/media/image3.jpeg"
-style="width:7.12778in;height:4.01181in" />
+<img src="assets/Margie Palatini 2/media/image3.jpeg" />
 
-<img src="assets/Margie Palatini 2/media/image4.jpeg"
-style="width:5.20764in;height:2.89444in" />
+<img src="assets/Margie Palatini 2/media/image4.jpeg" />
 
 Yes, Hogg, Hogg, and Hog were the most *famous* fabulous, successful Big
 Pigs to ever leave the farm and make it in the **BIG CITY.**
@@ -107,8 +104,7 @@ ever to leave the farm and make it in the **BIG CITY.**
 
 “*How* do those three pigs keep coming up with these **BIG IDEAS?**”
 
-<img src="assets/Margie Palatini 2/media/image5.jpeg"
-style="width:6.56389in;height:4.61389in" />
+<img src="assets/Margie Palatini 2/media/image5.jpeg" />
 
 The *very* next morning, a small red pickup drove into the **MIDDLE OF
 THE BIG CITY,** and stopped in front of the **BIGGEST BUILDING.**
@@ -154,11 +150,9 @@ BIGGEST BUILDING,** it’s very, very, *very* **BIG BUSINESS** at …
 
 “They are *all* working on **NEW,** *brilliant,* very **BIG** ideas.”
 
-<img src="assets/Margie Palatini 2/media/image6.jpeg"
-style="width:5.20972in;height:3.46736in" />
+<img src="assets/Margie Palatini 2/media/image6.jpeg" />
 
-<img src="assets/Margie Palatini 2/media/image7.jpeg"
-style="width:5.37569in;height:3.51181in" />
+<img src="assets/Margie Palatini 2/media/image7.jpeg" />
 
 My new book, HOGG HOGG & HOG, celebrates the absurd, the silly, and the
 absurd silly celebrity of celebrity, and poses that exact particular
@@ -238,8 +232,7 @@ said …OINK! Yup. Pigs were definitely it! (And, I do have a history with
 pigs too.) Here are some of the original duck sketches: (The ducks on
 the ends, were great inspiration to Duck who appears in HHH.)
 
-<img src="assets/Margie Palatini 2/media/image8.jpeg"
-style="width:5.20764in;height:2.17778in" />
+<img src="assets/Margie Palatini 2/media/image8.jpeg" />
 
 While each of the ducks had a specific ‘look,’ the pigs really allowed
 me to develop more distinct and individual personalities for the three
@@ -247,8 +240,7 @@ characters. This was especially true of ‘Hog’, who gobbles his way
 through the book eating one fast food goodie after another, and also
 wearing it on his chinny-chin-chin.
 
-<img src="assets/Margie Palatini 2/media/image9.jpeg"
-style="width:5.20972in;height:4.27986in" />
+<img src="assets/Margie Palatini 2/media/image9.jpeg" />
 
 The ducks’ office digs of greys, blues and bright yellows changed to the
 pig palette of purples and browns. (Mud, maybe?) I thank my art
@@ -264,14 +256,11 @@ pigs ‘popped’ on their new palette, in fact, they popped right out of
 the page. Super advice. A huge thanks to Diane for sharing her insight
 with a pic book illustration novice.
 
-<img src="assets/Margie Palatini 2/media/image10.jpeg"
-style="width:5.20972in;height:2.89444in" />
+<img src="assets/Margie Palatini 2/media/image10.jpeg" />
 
-<img src="assets/Margie Palatini 2/media/image11.jpeg"
-style="width:5.20764in;height:2.89444in" />
+<img src="assets/Margie Palatini 2/media/image11.jpeg" />
 
-<img src="assets/Margie Palatini 2/media/image12.jpeg"
-style="width:5.20764in;height:2.60347in" />
+<img src="assets/Margie Palatini 2/media/image12.jpeg" />
 
 **Moosetache Margie Palatini**
 
@@ -280,8 +269,7 @@ are finally solved when he meets the moose of his dreams and she
 introduces him to a special pot of glue she uses to tame her own crazy
 locks.
 
-<img src="assets/Margie Palatini 2/media/image13.jpeg"
-style="width:2.1875in;height:2.86458in" />
+<img src="assets/Margie Palatini 2/media/image13.jpeg" />
 
 **Prefix**
 
@@ -452,17 +440,13 @@ It was so simple. So easy. So perfectly perfect.
 
 And- **it stuck.**
 
-<img src="assets/Margie Palatini 2/media/image14.jpeg"
-style="width:2.86875in;height:3.76528in" />
+<img src="assets/Margie Palatini 2/media/image14.jpeg" />
 
-<img src="assets/Margie Palatini 2/media/image15.jpeg"
-style="width:3.33333in;height:3.33333in" />
+<img src="assets/Margie Palatini 2/media/image15.jpeg" />
 
-<img src="assets/Margie Palatini 2/media/image16.jpeg"
-style="width:2.59375in;height:3.33333in" />
+<img src="assets/Margie Palatini 2/media/image16.jpeg" />
 
-<img src="assets/Margie Palatini 2/media/image17.jpeg"
-style="width:4.16667in;height:4.16667in" />
+<img src="assets/Margie Palatini 2/media/image17.jpeg" />
 
 **Bedhead**
 
@@ -696,8 +680,7 @@ Biddlemeyer got a look at Oliver and his bedhead.
 
 “Got it!” said the photographer.
 
-<img src="assets/Margie Palatini 2/media/image18.jpeg"
-style="width:4.70069in;height:3.525in" />
+<img src="assets/Margie Palatini 2/media/image18.jpeg" />
 
 Margie Palatini said:
 
@@ -717,20 +700,15 @@ disclosure: I get my share of bedheads too! Mine are of the ‘bird’s nest
 with wild crooked spikes’ variety. So, I guess you could say the
 condition is hereditary. Sorry, Jamie.
 
-<img src="assets/Margie Palatini 2/media/image19.jpeg"
-style="width:2.08333in;height:2.79167in" />
+<img src="assets/Margie Palatini 2/media/image19.jpeg" />
 
-<img src="assets/Margie Palatini 2/media/image20.jpeg"
-style="width:3.32292in;height:3.33333in" />
+<img src="assets/Margie Palatini 2/media/image20.jpeg" />
 
-<img src="assets/Margie Palatini 2/media/image21.jpeg"
-style="width:3.29167in;height:3.36458in" />
+<img src="assets/Margie Palatini 2/media/image21.jpeg" />
 
-<img src="assets/Margie Palatini 2/media/image22.png"
-style="width:1.94792in;height:1.89583in" />
+<img src="assets/Margie Palatini 2/media/image22.png" />
 
-<img src="assets/Margie Palatini 2/media/image23.jpeg"
-style="width:2.5in;height:2.0375in" />
+<img src="assets/Margie Palatini 2/media/image23.jpeg" />
 
 This is the story of Thomas and Joseph, two pigs. The other animals on
 the farm are not happy with them. They smell, eat swill and stink. The
@@ -761,8 +739,7 @@ Summarising using Who? What? Why?
 
 Independent Writing: Persuasive essay ‘The Perfect Pet.’
 
-<img src="assets/Margie Palatini 2/media/image24.jpeg"
-style="width:2.38542in;height:2.04167in" />
+<img src="assets/Margie Palatini 2/media/image24.jpeg" />
 
 > **The Perfect Pet**
 >
@@ -967,8 +944,7 @@ style="width:2.38542in;height:2.04167in" />
 
 Elizabeth smiled and tossed Doug a piece of popcorn.
 
-<img src="assets/Margie Palatini 2/media/image25.jpeg"
-style="width:2.08333in;height:2.23958in" />
+<img src="assets/Margie Palatini 2/media/image25.jpeg" />
 
 Geek Chic: (Paperback, 3
 
@@ -987,8 +963,7 @@ friendly hybrid) to what she thinks is going to be her ultimate
 makeover. Then, instead, of becoming a sweet princess in a tiara, she
 discovers beauty in what the title suggests: Geek Chic.
 
-<img src="assets/Margie Palatini 2/media/image26.jpeg"
-style="width:1.64583in;height:2.08333in" />
+<img src="assets/Margie Palatini 2/media/image26.jpeg" />
 
 Poulette, Collette, and Fifi are three French hens who are part of a
 young woman's Christmas gift to her true love, Philippe Renard, in
