@@ -80,7 +80,7 @@ text / template / list). Merge duplicated subtrees, don't publish twice.
 ### Tasks (approved by Phill 2026-09-11)
 
 - [x] 1. Leftover Phase 1 sample — mechanical pass verified by Phill, all good.
-- [ ] 2. Reader's Theatre dedupe — comparison done; Phill to decide.
+- [x] 2. Reader's Theatre dedupe — top-level source folder confirmed redundant, repo keeps Reading copy (decided 2026-09-11).
 - [ ] 3. Strand-tag audit — reconcile frontmatter against the 8-strand tree.
 - [ ] 4. Resource-type tagging proposal — definitions + coverage estimate.
 - [ ] 5. Draft one-page IA map — the approval gate before restructuring.

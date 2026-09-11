@@ -34,5 +34,5 @@ Commits are per-folder so anything can be reverted or redone piecemeal.
 - [x] Author Studies Jim (49 notes) — strand + image-attr strip
 - [x] Mentor Texts (289 files) — lifts + 8 supplement/index/nursery/craft tags; all `likely` now confirmed by Phill
 - [x] Writer's Notebook (23) + Writing Voice (20) — frontmatter + image-attr noise strip
-- [ ] Reader's Theatre (top-level dup of Reading/Reader's Theatre — dedupe decision needed)
+- [x] Reader's Theatre — top-level source folder confirmed pure duplicate (11/11 content-identical; Reading copy also holds 2 extra PDFs). Repo keeps Reading copy, no repo action. Decided by Phill 2026-09-11.
 - [ ] Phase 2 restructuring — APPROVED 2026-09-11, in progress (tasks in MASTERPLAN.md)
