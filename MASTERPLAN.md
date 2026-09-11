@@ -6,9 +6,10 @@
 > questions and Phill's recorded answers. Nothing else in the repo gives
 > instructions — if another doc starts doing so, merge it here or delete it.
 
-**Status (2026-09-12): Phase 2 COMPLETE — all 6 tasks done. Shelves work from
-labels (no file moves, agreed by Phill). Tagging pass done (genre 323 /
-traits 309 / year 19, verified). Open next: Phase 3 site build (not started).**
+**Status (2026-09-12): Phase 3 BUILT, awaiting Phill visual review. 504 notes →
+513 pages via site/build.py (preview: site/dist/, gitignored). Verified:
+14,026 internal links zero broken, all 7,153 image refs resolve, search
+index 504 entries. Open next: Phill reviews preview → Phase 4 deploy.**
 
 ## Why (the goal)
 
@@ -85,12 +86,26 @@ text / template / list). Merge duplicated subtrees, don't publish twice.
 - [x] 5. One-page IA map — APPROVED 2026-09-11 (all 3 questions yes: 8 shelves; genre + year as later tagging pass; trait/strategy tags join that pass). Saved as `IA-MAP.md`.
 - [x] 6. Restructure — DONE 2026-09-11 as no-move (agreed by Phill): shelves work from `strand` labels (verified complete across all 504); the site will build shelf views from tags. No files moved — moving would break relative image links for zero teacher-visible gain.
 
-## Phase 3 — Build the site (NOT STARTED)
+## Phase 3 — Build the site (BUILT 2026-09-12, awaiting Phill visual review)
 
 Static generator + client-side full-text search from this repo. Must: render
 tables/callouts, printable pages, lazy-loaded images. Preview link for
 review before launch. Presentation: search-first library home + guided
 strategy pages.
+
+Built: `site/build.py` (stdlib + markdown/pyyaml; `pip install -r
+site/requirements.txt`) writes `site/dist/` (gitignored; preview symlink
+mode, deploy copy mode). Home with live search + shelf/kind/genre/year
+filters, 8 shelf pages grouped by kind with on-shelf filter, one page per
+note (breadcrumb, chips, print button, lazy images, print CSS).
+`site/linkcheck.py` audits all local targets. Rebuild + verify:
+`python3 site/build.py --mode preview && python3 site/linkcheck.py`.
+Deploy (Phase 4) runs the same builder with `--mode deploy` on Cloudflare.
+
+Two dead image refs found by the builder and repaired in source (not site
+code): Lost Thing standalone repointed to its INFERRING5 pack image;
+unrenderable /tmp .wmf tag removed from character study narratives
+(empty asset folder, nothing to point at).
 
 ## Phase 4 — Deploy + iterate (NOT STARTED)
 

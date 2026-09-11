@@ -674,9 +674,6 @@ will do next?
 | Question | Text says … | Background Knowledge | Inference |
 |          |             |                      |           |
 
-<img src="/tmp/tmp.5K0n8WsV5E/media/media/image2.wmf"
- />
-
 **Character Analysis Chart**
 
 Use the chart below to explain what the text and the illustrations of

@@ -115,7 +115,7 @@ of the paper happened to catch my eye.
 >
 > We’ve got a pigeon hole to stick it in.
 >
-> <img src="assets/INFERRING5 Jim/media/image7.png"
+> <img src="../Inferring Course JIM/assets/INFERRING5 Jim/media/image7.png"
 > />
 >
 > Downtown
