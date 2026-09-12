@@ -3,6 +3,84 @@
 Phill reviewed 2026-09-11 (answers recorded; items checked are closed).
 Commits are per-folder so anything can be reverted or redone piecemeal.
 
+## 2026-09-12 — automated duplicate-detection pass (Claude) — RESOLVED (mostly)
+
+Ran a full-corpus shingle-based near-duplicate/containment scan (script:
+`site/dedupe_scan.py`, full results: `DEDUPE-REPORT.md`) to replace the
+manual, folder-by-folder duplicate review this log previously relied on
+(see the 2026-09-11 "Reader's Theatre" entry above — that check did not
+scan file content, only folder names). 19 flagged pairs; Phill reviewed
+Claude's per-pair recommendations and answered same day.
+
+**Actioned (12 files retired/merged) — Phill approved 2026-09-12:**
+
+- [x] Author Studies: all 6 "(2)"-suffix pairs (Rosemary Wells, Eve
+      Bunting2, Eve Bunting, Judith Viorst, Margie Palatini, Patricia
+      Polacco 2, Patricia Polacco 3) — kept the "(2)" content in each case
+      (more complete and/or fewer OCR errors), old file retired, `(2)`
+      dropped from the surviving filename.
+- [x] Author Studies: Tony Johnston vs Tony Johnstone 2 — **kept Tony
+      Johnston.md** (not Johnstone 2 as first leaned): checked in-body
+      author-name spelling, Johnston.md has it right 81/81 times vs 36/81
+      in Johnstone 2.
+- [x] Author Studies: Phyllis Root.md deleted — no original author-study
+      content, just a re-print of the already-lifted Rattletrap Car text.
+- [x] Text Structures: kept "Using Non-fiction Texts 1-38.md" (structured
+      form preserved), retired the "2" version (had flattened the form into
+      prose, against project standard).
+- [x] Writing: kept "Writer's Notebook 2 Quick Writes.md", retired "Writer's
+      Notebook 2 2014.md" (99% identical, no unique content).
+- [x] Mentor Texts: merged "Mentor Lists 2012 sorted.md" into "WRITING CRAFT
+      MENTOR LIST (2).md" (renamed to "Writing Craft Mentor List.md") — the
+      smaller list was 88% contained in the bigger one; its ~426 genuinely
+      unique lines (book citations under headings the bigger list uses for
+      technique definitions, not citations) appended and labelled.
+
+**Reclassified as false positives — no action:**
+
+- [x] Crescent Dragonwagon.md vs Home Place — normal pack-contains-lift
+      pattern (poem + a real extra teaching activity after it), not a
+      duplicate.
+- [x] Mem Fox.md vs Critical Literacy/Stereotypes in Literature — cross-shelf
+      passage reuse (Jim quoting Wilfred Gordon McDonald Partridge in an
+      unrelated pack), not accidental duplication.
+
+**Deferred — Phill's explicit calls, 2026-09-12:**
+
+- [ ] Reading/Reader's Theatre: READERS' THEATRE 1.md vs "Readers' Theatre
+      1-18.md" — **turned out not to be a duplicate pair at all.** Read in
+      full: "1-18" is an 8-book anthology (Bunyip, Wombat Divine, Shoes from
+      Grandpa, The Three Questions, My Little Sister Ate One Hare, The
+      Grouchy Ladybug, Mister Seahorse, John Brown Rose and the Midnight
+      Cat). Only 2 of the 8 (Bunyip, John Brown) were adapted into scripts
+      already in RT1 — the other 6 books' text exists nowhere else. Left
+      untouched; needs its own task (lift each of the 8 to Mentor Texts,
+      matching existing convention) before this file can be retired.
+- [ ] Writer's Notebook cluster (3 files, two folders) — Phill: "treat as
+      its own small task." None of the three is clean enough for a
+      keep/retire call; needs a merge/rebuild pass.
+- [ ] Reading: QUESTIONING Course Jim 2014.md vs QUESTIONING course 1.md —
+      Phill: "keep both for now, flag as a future merge-into-one-
+      comprehensive-guide candidate rather than a dedupe target." Each has
+      book sections the other lacks; not a simple re-scan pair.
+
+**Not action items, logged for scale/design awareness:**
+
+- 430 pairs where an Author Study or course pack fully contains a text also
+  lifted to Mentor Texts — this is the intended "lift" convention (pack
+  copy stays put), not a defect.
+- 152 pairs of cross-shelf passage reuse (same mentor text quoted whole
+  inside an unrelated Vocabulary/Writing Voice/Reader's Theatre/Inferring
+  pack) — Jim's own authorial habit, not OCR duplication. Relevant to future
+  site design (cross-link the canonical text into every guide that uses it)
+  rather than to cleanup.
+
+Verification: re-ran `site/dedupe_scan.py` after the actioned fixes — 504 →
+492 notes, exact-duplicate groups 1 → 0, near-duplicate pairs 642 → 613.
+Task 2 above (2026-09-11, Reader's Theatre folder-level dedupe) stays
+reopened until the 8-book anthology task and the two remaining clusters
+above are resolved; `MASTERPLAN.md` Phase 2 Task 2 updated to match.
+
 ## Phill's answers (2026-09-11)
 
 - [x] Barefoot (Edwards) + John Henry (Lester) confirmed against published books → `completeness: confirmed`.

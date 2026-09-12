@@ -1,5 +1,6 @@
 ---
 title: "Tony Johnston"
+dedupe_note: "Retired near-duplicate Tony Johnstone 2.doc (mis-titled re-scan; this file has correct author-name spelling throughout, 81/81 vs 36/81 -- see DEDUPE-REPORT.md, 2026-09-12)."
 source_file: "Author Studies Jim/Tony Johnston.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"

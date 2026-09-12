@@ -1,6 +1,7 @@
 ---
 title: "Margie Palatini"
-source_file: "Author Studies Jim/Margie Palatini.doc"
+dedupe_note: "Retired near-duplicate Margie Palatini.doc (see DEDUPE-REPORT.md, 2026-09-12)."
+source_file: "Author Studies Jim/Margie Palatini (2).doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
 tags: [jim-k]
@@ -329,7 +330,7 @@ Over the River and Through the Woods
 
 “Do You Know the Way to San Jose’
 
-In order to **compare and contrast** and appreciate the humour the
+In order to **compare and contrast** and appreciate the humour, the
 students should be familiar with most of the original material. They
 will also be using these and others in their own original work.
 
@@ -393,6 +394,8 @@ Gone with the Wand
 Bad Boys
 
 Bad Boys Get Cookie
+
+Bad Boys get Henpecked
 
 Piggie Pie!
 
@@ -2603,7 +2606,7 @@ Oh yeah, they were bad. Bad. Really, *really* bad.
 
 <img src="assets/Margie Palatini/media/image28.jpeg" />
 
-Those two bad boys -- Willy and Wally -- are still bad.
+Those two bad boys - Willy and Wally - are still bad.
 
 Bad. Bad. Really, really bad.
 
@@ -2698,7 +2701,7 @@ Bad. Really, really bad.
 
 “Please toss me another caramel, dear pal,” said Willy to Wally.
 
-“I believe I cold go for a couple of bonbons myself,” said Wally to
+“I believe I could go for a couple of bonbons myself,” said Wally to
 Willy, popping two sugary morsels into his mouth.
 
 But mere candy was not enough to stop two big bad sweet tooth of two big
@@ -2869,6 +2872,238 @@ Willy looked at Wally. Wally looked at Willy.
 Ah yes. Oh my. Those boys were bad. Bad. Really, really bad.
 
 <img src="assets/Margie Palatini/media/image29.jpeg" />
+
+Bad boys Willy and Wally are at it again. This time, those two famished
+wolves have got chicken on the brain. Yes, a delicious, delectable,
+finger-lickin' chicken dinner.  
+  
+When Mrs. Hen needs a little help around the coop, who's more perfect
+for the job than the Handy-Dandy Lupino Brothers? Watch out, little
+chickies, it's almost snack time. But who knew coop care was so much
+work? Will those mischievous, masked bad boys be able to clean up—and
+take-out—before Mrs. Hen returns to the roost?  
+  
+Margie Palatini and Henry Cole team up once again for another comical
+caper about that terrible, terribly hungry twosome from bad boys and bad
+boys get cookie!
+
+**Word Choice Bad Boys Get Henpecked**
+
+**Word play:**
+
+*Brain ditto! Flown the coop chicken feed “We work for cheep.” Feather
+the nest*
+
+**Strong Verbs:** *eyed running gaining giggled winked threw grinned
+watched gazed snacking exhausted snoozing amuse walked dismissed*
+
+Series in sentence fragments: *Sweep the porch. Mop the kitchen. Scrub
+the bathroom. Vacuum the rugs. Dust the tables. Polish the silverware.
+Wash the clothes. Hang the clothes. Iron the clothes. Watch the
+chickies. Bathe the chickies. Feather the nest. Sit on the nest.*
+
+*And – take out the garbage!*
+
+Repetition: *So Wally watched. Watched. Watched.*
+
+*While Willy washed. Washed. Washed.*
+
+*And swept. Mopped. Dusted. Polished. Vacuumed. Scoured. Scrubbed.*
+
+*And Wally watched. Watched. Watched.*
+
+Power of three: Canned. Ousted. Fired!
+
+**Nouns:** *coop finesse napkins porch laundry*
+
+**Adjectives:** *splitting headache snoring duet*
+
+Hyphenated adjectives: Power of three - *Belly-babbling, tummy-talking,
+gut-grumbling hungry.*
+
+**Adverbs:** *absolutely definitely*
+
+**Alliteration:**
+
+*delicious delectable slobber and a slurp fat feathered fowl*
+
+*“How devious. How deceitful. How perfectly delightful.*
+
+*The chickies pecked, poked, and pulled at Willy.*
+
+**Onomatopoeia:**
+
+*Peep! Peep! P’awk! Crackle! Pop!*
+
+**Words as well as said:**
+
+*snickered chuckled chortled greeted clucked agreed answered called
+groaned huffed giggled cried*
+
+**Spelling:**
+
+**Compound words:**
+
+*henhouse housework henpecked*
+
+**Abbreviations:**
+
+*wasn’t* *I’ll couldn’t*
+
+**Grammar/Punctuation**
+
+Ellipses. Exclamation marks. Talking marks.
+
+**Bad Boys get Henpecked Margie Palatini**
+
+Those bad boys, Willy and Wally Wolf, were hungry. Belly-babbling,
+tummy-talking, gut-grumbling hungry.
+
+And what better to wolf down than a delicious, delectable,
+finger-lickin’-good … Chicken Dinner – with leftover sandwiches for the
+week!
+
+“Oh yeah, we’re bad, bad, really, really bad,” snickered the two with a
+slobber and a slurp as they eyed the old henhouse.
+
+Of course, running off with the lovely, fat feathered fowl was not going
+to be easy. Not one bit. Getting into the coop and gaining the trust of
+the lady of the house was going to take finesse. Wile. One big sneaky
+trick.
+
+Willy looked at Wally. Wally looked at Willy. The two giggled. Brain
+ditto!
+
+What that little woman needed was some help around the house.
+
+And who better for the job than – the Handy-Dandy Lupino Brothers!
+
+“This plan is perfecto!” chuckled Willy.
+
+“We’ll clean up and take-out,” chortled Wally.
+
+“How devious. How deceitful. How perfectly delightful!”
+
+Yes, those boys were bad. Bad. Really, really bad.
+
+“Good day, madam,” greeted Willy as Mrs Hen opened the door. “Are you
+tired? Run-down? Pooped? Is your roof leaking? Paint peeling? Need the
+lawn mowed? A lightbulb changed? Then the Handy-Dandy Lupino Brothers
+are at your service!”
+
+“Good gracious,” clucked the hen. “You gentlemen are just what I need.
+That old rooster of mine has flown the coop and I could use some help
+around the house. but all I can afford to pay is mere chicken feed.”
+
+Willy winked at Wally. Wally winked at Willy.
+
+*“Chicken feed?”* said Willy with a sly smile. “Madam, we *love* getting
+paid in chicken feed!”
+
+“Absolutely adore it!” agreed Wally with a bit of a drool. “We work for
+*cheep.”*
+
+The hen threw off her apron. ‘When can you start?”
+
+The bad boys grinned from ear to ear. “Immediately!” they both answered.
+
+But before the boys could reach into their pockets for napkins, Mrs hen
+handed them two aprons, a bucket, and a mop.
+
+Willy looked at Wally. “Bucket?”
+
+Wally looked at Willy. “Mop?”
+
+They both looked at each other. “Aprons?”
+
+“Here’s a list of what to do. I’ll be back before supper.” Mrs Hen
+called over her shoulder. “Ta-ta! So long! Good luck!”
+
+The boys watched their chicken dinner fly out the door.
+
+They gazed down at the list … It was a very long list.
+
+Sweep the porch. Mop the kitchen. Scrub the bathroom. Vacuum the rugs.
+Dust the tables. Polish the silverware. Wash the clothes. Hang the
+clothes. Iron the clothes. Watch the chickies. Bathe the chickies.
+Feather the nest. Sit on the nest.
+
+And – take out the garbage!
+
+“Housework!”
+
+This wasn’t exactly what they had planned.
+
+*“Peep! Peep! Peep! Peep! Peep! Peep! Peep!”* the chickies pecked,
+poked, and pulled at Willy. Then pecked, poked, and pulled at Wally.
+
+Will groaned. “*I’ll* start the laundry. *You* take care of the chickies
+– and no snacking before dinner!”
+
+So Wally watched. Watched. Watched.
+
+While Willy washed. Washed. Washed.
+
+And swept. Mopped. Dusted. Polished. Vacuumed. Scoured. Scrubbed.
+
+And Wally watched. Watched. Watched.
+
+“I’m exhausted,” huffed Willy.
+
+“You, dear chum? I’m about to faint!” puffed Wally. “All that peeping
+has given me a splitting headache! I must lie down!”
+
+Brain ditto.
+
+“Last one to the nest is a rotten egg!” they both said, heading for the
+hay.
+
+“Feels a little lumpy,” said Willy, trying to get comfy.
+
+“I must say, I feel a tad silly as well,” said Wally, trying to find a
+soft spot.
+
+They both giggled. “What the hey!”
+
+The two yawned, closed their eyes, and began snoozing away in a snoring
+duet.
+
+The little chickies were left to amuse themselves. And they did. Oh my,
+they did.
+
+*“P’awk! P’awk! P’awk!”*
+
+“Mr Lupino! Mr Lupino!” cried Mrs Hen as she walked through the door.
+“What exactly has been going on here?”
+
+“I do believe we are being dismissed, dear boy.”
+
+“canned. Ousted. Fired!” said Mrs Hen.
+
+*Crackle. Crackle. Crackle.*
+
+*Pop! Pop!*
+
+***“POP!”***
+
+***“Pop?”***
+
+“Brain ditto! We are most definitely out of here!”
+
+“I do believe I have lost my taste for chicken,” said Willy.
+
+“Couldn’t agree more, dear pal,” said Wally. “Besides … I’m just too
+tired to cook tonight.”
+
+Those henpecked bad boys ate their peanut butter and jelly sandwiches.
+
+They wanted to say it was a bad, bad, really, really bad day.
+
+But they could not.
+
+The peanut butter was stuck to the roofs of their mouths.
+
+<img src="assets/Margie Palatini/media/image30.jpeg" />
 
 Gritch the Witch woke up grouchy, grumpy, and very hungry. Her belly
 grumbled for something delicious. Something delightful. Something
@@ -3163,7 +3398,70 @@ Ellipses. Exclamation marks. Talking marks.
 
 *Rattlesnake’s rattle Old MacDonald’s farm*
 
-<img src="assets/Margie Palatini/media/image30.jpeg" />
+<img src="assets/Margie Palatini/media/image31.jpeg" />
+
+Some of you may know the ‘story behind the story’ of *Piggie Pie*, since
+I’ve told it at several conferences and such, but for those who don’t,
+the true story is that *Piggie Pie* baked in an attic for fifteen years
+before it was published.  (Hmm,  so, actually, Piggie Pie! is
+really thirty years old - which, you’re right — can’t be possible since
+I’m only 35 myself.)
+
+I hear chuckles.  (Don’t you know it’s not nice to laugh at an old
+lady?)
+
+Okay.  I’m not 35, but the manuscript did sit boxed away in my attic for
+fifteen years, mainly due to the fact the rejection letters said it was
+“… not funny…”  ”… kids won’t get it …”   “… it’s way too sophisticated
+…”  ”… you shouldn’t write picture books …”
+
+(Gee.  Sounds like what I just heard two weeks ago.)
+
+Due to my serious lack of organisational skills, (i.e. never knowing
+where I put anything), I never did find whatever it was I was looking
+for in the attic those many years ago, *but* I did find the manuscript
+for *Piggie Pie*.
+
+Was it fate?  Was it destiny?  Was it just dumb luck?  (Oops. Sorry.
+Those are lines from *Moosetache*.)
+
+I went downstairs and read Piggie Pie to my then three year old, who
+thought it was pretty darn funny. You know, when you’ve gone through
+childbirth, nothing can really intimidate you anymore — not even the
+prospect of an editor’s rejection — so I decided to try again and see if
+there was a publisher that had a taste for Piggie Pie.
+
+Illustrator Howard Fine was a friend, and I asked him if he wanted to
+collaborate on a picture book. (At the time we didn’t have a clue that
+was a ‘no-no’.)  Like innocents Judy and Mickey putting on a play, we
+said, “Let’s make a dummy!”  Howard had the opportunity of an interview
+with the art director at Clarion, who saw it, loved it, shared it with
+Editorial, and that’s how it all started.  We were flabbergasted and
+verklempt when it got such great starred reviews and won so many awards.
+
+Here are some of Howard’s original black and white sketches from the
+dummy.  Many of the original sketches remained unchanged in finished
+art, but as so often happens in the process of a book becoming a book,
+there were several spreads where the illustrations and text changed
+totally.  Gritch originally wore glasses, Old MacDonald was not
+disguised piggies, and Howard had not yet imagined Wolf’s
+‘Gritchburger’.  It was our editor’s brilliant idea for the non-text
+spread where the piggies disguise themselves in the barn; one of my
+favourites.
+
+<img src="assets/Margie Palatini/media/image32.jpeg" />
+
+<img src="assets/Margie Palatini/media/image33.jpeg" />
+
+<img src="assets/Margie Palatini/media/image34.jpeg" />
+
+<img src="assets/Margie Palatini/media/image35.jpeg" />
+
+<img src="assets/Margie Palatini/media/image36.jpeg" />
+
+<img src="assets/Margie Palatini/media/image37.jpeg" />
+
+<img src="assets/Margie Palatini/media/image38.jpeg" />
 
 Gritch the Witch is hungry and her batscotti andeek! Spresso snack
 isn\`t quite doing the trick. She wants a more filling, furry snack. She
@@ -3475,7 +3773,7 @@ PROBLEM!** No problem at all!”
 
 **Z-Z-Z-ZZZOOOOOOM!**
 
-<img src="assets/Margie Palatini/media/image31.jpeg" />
+<img src="assets/Margie Palatini/media/image39.jpeg" />
 
 DUM DE DUM DUM...
 
@@ -3781,7 +4079,7 @@ Ellipses. Exclamation marks. Talking marks.
 
 *hen’s house*
 
-<img src="assets/Margie Palatini/media/image32.jpeg" />
+<img src="assets/Margie Palatini/media/image40.jpeg" />
 
 The Cheese: With a hi-ho the dairy-o, Margie Palatini tells the story of
 just how tempting it is to abandon the "Rules and Regulations" that
@@ -4152,9 +4450,9 @@ Ellipses. Exclamation marks. Talking marks.
 
 *everyone’s tummy day’s work farmer’s*
 
-<img src="assets/Margie Palatini/media/image33.jpeg" />
+<img src="assets/Margie Palatini/media/image41.jpeg" />
 
-<img src="assets/Margie Palatini/media/image34.jpeg" />
+<img src="assets/Margie Palatini/media/image42.jpeg" />
 
 Stanley Snoutowski has always been a precocious piggie-and Mary has
 always encouraged her little ham. In the barn and even at school (where
@@ -4167,6 +4465,8 @@ play the ultimate role: Hamlet. This is a laugh-out-loud story of a
 determined pig and the little girl who believes in him.
 
 **Mary had a Little Ham Margie Palatini**
+
+**MARY HAD A LITTLE LAMB.**
 
 Wrong! That’s right. Hold on to your woollies … There was a boo-boo with
 the baa-baa. The Old Goose Lady got her tails mixed up.
@@ -4321,7 +4621,7 @@ Hoggers looked at Hammerswine.
 
 Hammerswine looked at Hoggers.
 
-“He’s – he’s – he’s *spigtacular!”* declared Hannerswine to Hoggers.
+“He’s – he’s – he’s *spigtacular!”* declared Hammerswine to Hoggers.
 
 “He’s – he’s – he’s *snoutstanding!”* declared Hoggers to Hammerswine.
 
@@ -4334,11 +4634,11 @@ Stanley became an overnight success.
 His name was up in lights. Critics raved. Everyone who was anyone was
 talking about Stanley Snoutowski!
 
-He was a smash in Soth Pigcific.
+He was a smash in South Pigcific.
 
 Then he was box-office boffo in The Pig and I.
 
-“He did it!” they cheered him in Pignalion.
+“He did it!” they cheered him in Pigmalion.
 
 Stanley even won the Best Actor of the Year award for his role in the
 famous play Pork Chop on a Hot Tin Plate.
@@ -4447,18 +4747,18 @@ houselights</em></p>
 </tbody>
 </table>
 
-<img src="assets/Margie Palatini/media/image35.jpeg" />
+<img src="assets/Margie Palatini/media/image43.jpeg" />
 
 Papa, mama, and baby were enjoying a quiet peaceful day in their rabbit
 hole. A girl fell down the rabbit hole and landed splat on their
 doorstep. The hares went to see who it was, it was Goldilocks! She is
-not happy or nice, but her foot is so big and swollen she cant get out.
+not happy or nice, but her foot is so big and swollen she can’t get out.
 The hares wanted her to leave but her foot kept getting bigger and
 bigger! They brought her into the house but she didn’t want to sit in
 papa's chair because it was too hard, mama's was too soft, she wanted
 the couch. She needed her pillow to be just right, not too hard, not too
 soft. The blanket couldn’t be too scratchy, too itchy, too big, too
-little, too skimpy. She wanted cashmire but they didn’t have a cashmire
+little, too skimpy. She wanted cashmere but they didn’t have a cashmere
 blanket so she wanted the heat turned up. She wanted to watch TV so baby
 had to be the antennae. They thought she hated veggies but she loved
 them. The neighbours came over so she would feel crowded, but she loves
@@ -4466,3 +4766,264 @@ parties! She wanted to lie in bed but they didn’t want her to, so they
 told her they were going to call the bears and she left. As soon as she
 left another girl fell in named Alice, she was looking for a white
 rabbit.
+
+Revise Goldilocks and the Three Bears.
+
+Continue work on Allusion.
+
+Writing:
+
+Read and retell: Story Map.
+
+Students write an allusionary story based on a fairy tale.
+
+Reading:
+
+Reader’s Theatre
+
+**Goldie and the Three Hares Margie Palatini**
+
+Papa Hare, Mama Hare, and Little Baby Hare (also known as Bunny) were
+enjoying a quiet, peaceful, lovely day at home down their rabbit hole.
+
+**THUMP, BUMP, KABOOM.**
+
+**KABOOM.**
+
+**KABOOM!**
+
+That was not quiet. Or peaceful.
+
+“Get me outta here!” And that didn’t sound lovely.
+
+“What was that?” said Papa and Mama.
+
+Quick to the door ran Bunny. “A foot!” he cried, peeking through the
+tiny window. “A big little foot that belongs to a big little girl who
+fell down our rabbit hole and landed *splat* on our door stoop!”
+
+“I said, get me outta here!”
+
+The Hares hopped right over to help.
+
+“What happened?” asked Papa Hare.
+
+“How did you get here?” asked Mama Hare.
+
+“Who are you?” asked Bunny.
+
+“Questions. Questions. Questions! Can’t you see this head of hair? I’m
+Goldilocks. I was chased through the woods by three bears, I fell down
+your rabbit hole – and let me tell you, that first step is a lulu – and
+now my little foot is big and swollen and I can’t get out.”
+
+Papa, mama, and Little Baby hare watched the big little foot grow bigger
+by the minute.
+
+There was just no way now to get *you-know-who* up and out of the rabbit
+hole with that fat foot swelling.
+
+Well, they all couldn’t just stay there watching the foot, so the three
+hares helped the big little girl into their house.
+
+“Watch that tootsie! Don’t muss the hair!”
+
+The three Hares huffed and puffed and carried her to papa hare’s chair.
+
+“Wait! Stop! This chair looks too hard.”
+
+They huffed and puffed and carried her to Mama Hare’s chair.
+
+“Wait! Stop! This chair looks too soft.”
+
+They huffed and puffed and stared at Baby Hare’s chair.
+
+“Don’t even go there! I’ll take the couch!”
+
+Which she did. With both feet up on the cushions.
+
+“Now, this is just right.”
+
+(Not really. Mama didn’t allow shoes on the sofa.)
+
+But there she sat. All settled in. Big shoe and all.
+
+“I told you to fix that lulu of a first step,” muttered Mama to Papa.
+
+So, with the big little girl all comfy-cosy on the sofa, Bunny sat down
+to read a book, Mama picked up her knitting, and Papa went to see about
+that lulu of a first step.
+
+“Hey! I need a pillow here! Now! Quick like a bunny – and remember, not
+too hard. Not too soft. Just right … and get one for my foot too.”
+
+And with the big little girl even more settled in, with three pillows
+and her shoe up on the sofa, Bunny sat down to read his book, Mama went
+back to her knitting, and Papa went to fix that lulu of a first step.
+
+“Uh … ? Haven’t we forgotten something here? Like a blanket? I need a
+blanket!”
+
+“Too scratchy. Too itchy. Too big. Too little. Too hot. Way too skimpy!
+Actually, I prefer cashmere. And somebody turn up the heat, will you?”
+
+“Okay, where’s the clicker? Who’s got the remote? … What? No cable? You
+– Baby Bunny Ears – go stand by the TV so I can get a better picture.”
+
+“Perfect! Don’t move a muscle!”
+
+“Oh dear,” said Mama. “I don’t believe Bunny can stay like that for very
+long.”
+
+Zzzzz-zz-zzzzzzz-z-zzz-zzz!
+
+Luckily for the Hares, the big little girl felt so comfy-cosy and the TV
+program was so long and boring, she fell sound asleep.
+
+Mama sighed. “How are we ever going to get her to leave?”
+
+Papa came up with an excellent plan.
+
+“When *you-know-who* wakes up, she’s going to be hungry. We’re rabbits!
+All we have to eat are vegetables. Give her some carrots, spinach, and a
+little bit of cabbage and she’ll be running for the door – big foot and
+all – before we know it.”
+
+Sure enough, when the big little girl awoke, her tummy was growling.
+
+“I’m starving here! Bring on the snacks!”
+
+Mama Hare came from the kitchen carrying a cup of carrot juice, two
+spinach pies, and five steamed Brussels sprouts.
+
+The three Hares tried their very best not to grin big, broad, toothy
+grins. Their plan was working perfectly. Then the big little girl picked
+up a sprout.
+
+“I love veggies! Toss me some arugula!”
+
+The big little girl not only had all their pillows, best blankets, and
+her shoe up on the sofa, but now she was eating them out of house, home,
+and every vegetable. Including the carrot tops.
+
+Papa sighed. “Now what?”
+
+Mama had a dandy idea. “We’ll invite the neighbours for a visit.”
+
+With the Hare house being so small, the neighbours being so many, and
+*you-know-who* being so large, certainly the big little girl would not
+want to stay where it was so cramped and crowded.
+
+“Company? I *love* parties! Which one of you bunnies brought the
+artichoke dip?”
+
+This called for **desperate** measures. It was time to bring in Sherman.
+
+No one cleared a room quite like he did.
+
+And when Sherman showed, sure enough, everyone made a swift beeline for
+the door. Except for well …
+
+*You-know-who.*
+
+“This stinks,” said Little Baby Hare.
+
+“I don’t understand it,” said Mama Hare, holding her nose.
+
+“How can you still be here?” wondered Papa with his eyes smarting.
+
+“Aachoo! Aachoo! I can’t breave. My nuz is all stuffy and I can’t smell
+a ting. I think I caud a code from dis drafty rabbit hole. I gotta get
+to bed and stay dare till I get all bedder!”
+
+Baby Hare saw the big little girl eyeing his “just right” little bed.
+
+“I’ve had it!” said Bunny, speed-dialling. “I’m calling – the Bears.”
+
+**“DA BEARS?”**
+
+“Uh. Gotta go. Good-bye. So long. See you.
+
+**Arrivederci, rabbits!”**
+
+The big little girl with the big swollen foot scooted out of the Hare
+house without even an aachoo and ran up the rabbit hole, past that lulu
+of a first step.
+
+And the three Hares went back to enjoying a quiet, peaceful, lovely day
+at home in their rabbit hole.
+
+**THUMP. BUMP. KABOOM.**
+
+**KABOOM.**
+
+**KABOOM!**
+
+Bunny peeked through the tiny window.
+
+“Oh no! It’s another big little foot that belongs to another big little
+girl who fell down our rabbit hole and landed *splat* on our door
+stoop!”
+
+“Pardon me. I say, has anyone seen a white rabbit lately?”
+
+“I have *got* to fix that lulu of a first step.”
+
+**WRITING CRAFT Goldie and the Three Hares**
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 66%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>Focus</strong></p>
+<p><strong>Ideas and details:</strong></p></td>
+<td>Allusion: Goldilocks and the Three Bears</td>
+</tr>
+<tr class="even">
+<td><p><strong>Organisation</strong></p>
+<p>Leads/Endings</p>
+<p><strong>Organisational Structure:</strong></p></td>
+<td><p>Lead: Character/setting.</p>
+<p>Ending: Echoes back to text: “<em>I have to fix that lulu of a first
+step.”</em></p>
+<p>Problem/Solution</p>
+<p>Compare and Contrast other versions.</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Style</strong></p>
+<p><strong>Words: Memorable Language</strong></p>
+<p><strong>Voice:</strong></p>
+<p><strong>Fluency:</strong></p></td>
+<td><p>Strong verbs: <em>peeking hopped watched swelling helped carried
+picked boring carrying cleared holding smarting eyeing
+speed-dialling</em></p>
+<p>Word pairs: <em>huffed and puffed</em></p>
+<p><em>cramped and crowded</em></p>
+<p>Nouns: <em>couch cushions sofa pillow blanket cashmere remote cable
+vegetables kitchen arugula neighbours</em></p>
+<p>Adjectives: <em>artichoke desperate</em></p>
+<p>Adjectives: Power of three –</p>
+<p><em>quiet, peaceful, lovely day</em></p>
+<p>Adverbs: <em>perfectly certainly</em></p>
+<p><em>big, broad, toothy grins</em></p>
+<p>Onomatopoeia: <em>Thump. Bump. Kaboom!</em></p>
+<p>Words as well as said: <em>cried asked muttered</em></p>
+<p><em>sighed wondered</em></p>
+<p>Varying sentence length. <em>Which she did.</em></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Conventions</strong></p>
+<p><strong>Punctuation:</strong></p>
+<p><strong>Spelling:</strong></p></td>
+<td><p>Talking marks (Reader’s Theatre) Ellipses.</p>
+<p>Question marks. Exclamation marks.</p>
+<p>Possessive apostrophe: <em>Mama Hare’s chair</em></p>
+<p><em>Papa Hare’s chair Baby Hare’s chair</em></p>
+<p>Abbreviations: <em>didn’t can’t I’m couldn’t don’t I’ll haven’t
+where’s she’s we’re she’ll we’ll it’s</em></p></td>
+</tr>
+</tbody>
+</table>

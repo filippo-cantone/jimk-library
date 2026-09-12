@@ -1,6 +1,7 @@
 ---
 title: "Eve Bunting"
-source_file: "Author Studies Jim/Eve Bunting.doc"
+dedupe_note: "Retired near-duplicate Eve Bunting.doc (see DEDUPE-REPORT.md, 2026-09-12)."
+source_file: "Author Studies Jim/Eve Bunting (2).doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
 tags: [jim-k]
@@ -109,7 +110,7 @@ The Memory String
 **Interview Transcript**
 
 *On September 21, 2005, beloved author Eve Bunting participated in a
-chat with Scholastic students and teachers.*.
+chat with Scholastic students and teachers.*
 
 **How do you come up with your amazing ideas for your books?**
 
@@ -3056,11 +3057,310 @@ belches and lots of things. It is the words that are strange. But soon I
 will know their words. I will blend with the others the way my apple
 blended with the cider**.*** (p. 28**)**
 
-<img src="assets/Eve Bunting/media/image43.jpeg" /><img src="assets/Eve Bunting/media/image43.jpeg" />
+Discuss how people can form snap judgements based on appearance.
+
+1\. Who is Farah? Why are other children suspicious of her?
+
+2\. What makes her different? Why does she feel that the other children
+might dislike her?
+
+3\. Farah and the other students look to be fairly young. Where did
+these children learn to be suspicious? Where might racial stereotypes
+come from?
+
+4\. What visual cues identify Farah as different from the other
+children? What is the first thing you noticed?
+
+Discuss **empathy** for feelings of others:
+
+Link to Wembley’s **values.**
+
+Discuss how to introduce oneself and make a new classmate feel welcome.
+
+Identify self as an important member of various groups (i.e. classroom,
+family, sport, community)
+
+Students identify themselves as important members of our
+classroom/school community who can make a new friend feel welcome.
+
+Discuss group membership traits by being trustworthy, responsible,
+respectful, and by demonstrating accountability for actions, displaying
+self direction and showing pride.
+
+**One Green Apple Eve Bunting**
+
+This is my second day in the new school in the new country.
+
+There are to be no lessons today because we are going somewhere. Other
+days will not be like this one.
+
+Tomorrow I will go again to the class where I will learn to speak
+English.
+
+Mothers drive us to the start of an orchard where a hay wagon is
+waiting. We climb on and lean against the bundles of hay. The wagon is
+pulled by a tractor and we jolt along. I think it odd to have boys and
+girls sit together. It was not like this in my village.
+
+The students know each other, but they don’t know me and I don’t know
+them. I can’t understand them when they speak, and I can’t speak to
+them. some are friendly. But some look at me coldly and smile cruel
+smiles. I hear my country mentioned, not fondly.
+
+I would prefer to go home. My father has explained to me that we are not
+always liked here. “Our home country and our new one have had
+difficulties,” he says. “But it will be good for us here in time.”
+
+How much time, I wonder.
+
+I am different, too, in other ways. My jeans and T-shirt look like
+theirs, but my dupatta covers my head and shoulders. I have not seen
+anyone else wear a dupatta, though all the girls and women in my home
+country do.
+
+The girl who sits next to me smiles and points to herself. “Anna,” she
+says. She points to me. “Farah!”
+
+I nod and say, “Farah,” which is my name. Then I look across the field
+where cows graze.
+
+I am tight inside myself.
+
+Three dogs come and run in front of us. I think they belong here and
+know the way.
+
+I once had a dog called Haddis.
+
+We stop at a place where apple trees bunch together. I find out we are
+to pick the fruit. Old apples have fallen in the grass. The three dogs
+are eating them,
+
+*crunch*
+
+*crunch*
+
+*crunch.*
+
+Their crunches sound like Haddis’s.
+
+Our teacher gathers us around her. She talks to the class. Then she
+looks at me in a kind way. “One,” she says. She touches an apple, then
+picks it. “One,” she says again. I am to take only one, as the other
+students have done. I nod. I want to say, “I understand. It’s not that I
+am stupid. It is just that I am lost in this new place.” But I don’t
+know how to tell her.
+
+I pull away from the rest. Beside me is a tree, shorter than the others,
+that does not seem to belong. It is small and alone, like me. A few hard
+green apples hang from its branches. It fits perfectly in my hand.
+
+We hold our apples and run and slide down a hill. The dogs race ahead.
+Their ears blow backward, inside out, pink and shiny.
+
+At the bottom of the hill is a little crooked house made of wood. I
+wonder if a cow lives in it, or a goat. Perhaps it is the home of a
+shepherd.
+
+In the house is a wooden machine with a metal handle. I see no cow or
+goat or shepherd. The house is here for some other reason.
+
+Our teacher lines us up. One by one we plop our apples into the machine.
+I will be last to drop my small green one. My teacher seems about to
+speak. Then she shrugs and smiles. A boy shouts, “Hey!” He moves towards
+me, as if to stop me from putting in my little green apple. But he is
+too late. It has already gone.
+
+There are blades inside the machine that chop the apples,
+
+*ka-chunk*
+
+*ka-chunk*
+
+*ka-chunk.*
+
+The students begin to push on the handle. That presses the chopped-up
+apples.
+
+The skin and the pulp stay in the bag while the juice flows through.
+
+I hang back, not sure if I should be with the others. Pushing the handle
+must be hard. They lean against it and grunt. I am strong. I can help. I
+take a step towards them.
+
+Anna calls and waves to me to come beside her. A boy makes a place for
+me on the handle between them.
+
+I am pleased.
+
+We push and push. It is hard, but we are working together and we can do
+it.
+
+The juice drips down,
+
+*drip*
+
+*drip*
+
+*drip.*
+
+Our teacher has brought paper cups. We line up again, fill them, and
+drink. We lick our lips. I think I taste my special apple.
+
+“Apple cider,” Anna says. That must be what we are drinking. I say the
+word inside myself, where it can’t be heard, *“App-ell.”* The other word
+is too difficult.
+
+Our teacher is speaking. She is holding out a bag for our cups and
+making signs that we must get ready to leave.
+
+Anna sits next to me in the wagon as we ride back. There is a boy on my
+other side. “Jim,” he says and points at himself.
+
+I nod. “Jim,” I say silently.
+
+Hay tickles my arms and makes Anne sneeze. It smells of dry sunshine.
+
+Jim pats his stomach, and a belch jumps from his throat.
+
+Everyone laughs. I do, too.
+
+Laughs sound the same as at home. Just the same. So do sneezes and
+belches and lots of things. It is the words that are strange. But soon I
+will know their words. I will blend with the others the way my apple
+blended with the cider.
+
+I take a deep breath.
+
+“App-ell,” I say.
+
+Anna claps.
+
+I smile
+
+and smile
+
+and smile.
+
+It is my first outside-myself word.
+
+There will be more.
+
+**READING STRATEGIES One Green Apple**
+
+<table>
+<colgroup>
+<col style="width: 43%" />
+<col style="width: 56%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><strong>STRATEGY</strong></td>
+<td><strong>EXAMPLE</strong></td>
+</tr>
+<tr class="even">
+<td><strong>PRIOR KNOWLEDGE</strong></td>
+<td>There are may be students from countries where the girls wear
+dupatta, or know children in the neighbourhood.</td>
+</tr>
+<tr class="odd">
+<td><strong>QUESTIONING</strong></td>
+<td><p>Before: From cover.</p>
+<p>Questions about the character’s dress.</p>
+<p>Why is she holding a green apple when all the apples on the tree are
+red?</p>
+<p>During: E.g.</p>
+<p>Why don’t boys and girls sit next to each other in Farah’s
+country?</p>
+<p>Why does Farah pick a green apple?</p>
+<p>After: What things made it easier for Farah to feel
+accepted?</p></td>
+</tr>
+<tr class="even">
+<td><strong>VISUALISING</strong></td>
+<td><p>Use all the senses to visualise the setting of the apple
+orchard.</p>
+<p>Poetry using senses.</p></td>
+</tr>
+<tr class="odd">
+<td><strong>INFERRING</strong></td>
+<td><p>Theme: Use a theme chart.</p>
+<p>Why does Farah think the shed will contain a cow, a goat or a
+shepherd?</p>
+<p>Why does the boy try to stop Farah putting in a green apple?</p></td>
+</tr>
+<tr class="even">
+<td><strong>DETERMINING IMPORTANT IDEAS</strong></td>
+<td><p>Link to themes.</p>
+<p>Story Map.</p></td>
+</tr>
+<tr class="odd">
+<td><strong>SYNTHESISING</strong></td>
+<td>Discuss example of when people feel isolated, uncertain, different,
+unhappy and lonely.</td>
+</tr>
+</tbody>
+</table>
+
+**WRITING CRAFT**
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 66%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>Focus</strong></p>
+<p><strong>Ideas and details:</strong></p></td>
+<td><p>Assimilation.</p>
+<p>Friendship:</p>
+<p>Details.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Organisation</strong></p>
+<p>Leads/Endings</p>
+<p><strong>Organisational Structure:</strong></p></td>
+<td><p>Lead: Setting.</p>
+<p>Ending: Poignant</p>
+<p>Problem/Solution: Story Map.</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Style</strong></p>
+<p><strong>Words: Memorable Language</strong></p>
+<p><strong>Voice:</strong></p>
+<p><strong>Fluency:</strong></p></td>
+<td><p>Verbs: <em>graze gathers touches picks understand</em></p>
+<p><em>twist slide tickles sneeze belch blended wearing</em></p>
+<p>Nouns: <em>orchard wagon bundles tractor dupatta shepherd machine
+juice</em></p>
+<p>Hypehanted Adjectives:</p>
+<p><em>chopped-up apples</em></p>
+<p>Adverbs: <em>perfectly silently</em></p>
+<p>Onomatopoeia: <em>crunch, ka-chunk, drip</em></p>
+<p>Told in first person. Feeling of author. A distinct style that helps
+the reader understand this character's perspective</p>
+<p>Sentence fragments. <em>Anna claps.</em></p>
+<p>Repetition: <em>I smile and smile and smile.</em></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Conventions</strong></p>
+<p><strong>Punctuation:</strong></p>
+<p><strong>Spelling:</strong></p>
+<p><strong>Grammar:</strong></p></td>
+<td><p>Possessive apostrophe:</p>
+<p><em>Haddid’s</em> (at end of sentence)</p>
+<p>Abbreviations: <em>don’t can’t it’s</em></p></td>
+</tr>
+</tbody>
+</table>
+
+<img src="assets/Eve Bunting/media/image43.png" />
 
 <img src="assets/Eve Bunting/media/image44.jpeg" />
 
-“A Day’s work” is a heartwarming story that teaches a lesson on the
+<img src="assets/Eve Bunting/media/image45.jpeg" />
+
+“A Day’s work” is a heart-warming story that teaches a lesson on the
 importance of having good morals. The main character is a boy named
 
 Francisco who sets off with his grandfather “abuelo” to find him work
@@ -3092,7 +3392,7 @@ another grownup? How did that make you feel?
 • Do you know anyone who has done day work? What kinds of jobs did they
 do?
 
-• What lessons have you learned from your parents or relatives?
+• What lessons have you learnt from your parents or relatives?
 
 Discussion topics for during/after reading:
 
@@ -3112,7 +3412,7 @@ that lesson?
 • Ben said that the ‘important things your grandfather knows already.’
 What are the things he is referring to?
 
-<img src="assets/Eve Bunting/media/image45.jpeg" />
+<img src="assets/Eve Bunting/media/image46.jpeg" />
 
 **Another set of Questions:**
 

@@ -8,7 +8,44 @@
 
 **Status (2026-09-12): Phase 2.5 IN PROGRESS (INF 2 pilot). Site build paused:
 restructured guides will BE the site content (raw packs stay repo-only).
-Phase 3 preview exists; guided inferring draft exists (site/drafts/).**
+Phase 3 preview exists; guided inferring draft exists (site/drafts/).
+Phill brought Claude in for a second opinion (2026-09-12) — full review +
+recommendations not yet actioned; see "Claude's review" below. First
+concrete step taken: automated duplicate-detection pass, see
+`DEDUPE-REPORT.md` — awaiting Phill's per-pair decisions before Task 2's
+dedupe is treated as closed.**
+
+## Claude's review (2026-09-12) — pending Phill's response
+
+Phill asked Claude (a second AI) to read this project fresh and report back
+before doing more restructuring work. Full findings not reproduced here
+(they're in the chat, not a repo file) — summary of what changed the plan:
+
+- Task 2's "no other duplicated shelves found" was a manual, folder-by-folder
+  check, not a systematic scan. It missed real duplicates outside Reader's
+  Theatre. **Now corrected** — see `DEDUPE-REPORT.md` (2026-09-12 run).
+- The Mentor Texts shelf count in `IA-MAP.md` (289) is stale: 190 of those
+  289 files are actually tagged `strand: reading` (per the
+  confirmed/likely-completeness split), not `strand: mentor-texts`. A
+  teacher browsing "Mentor Texts" only sees 99 of them. Not yet fixed —
+  needs a decision on whether shelf assignment should ever encode
+  provenance/completeness at all.
+- Two incompatible content models exist side by side: the approved Phase 2.5
+  approach (one long restructured Markdown doc per guide, e.g. `INFERRING2
+  Jim.md`) and the unreferenced `site/drafts/inferring.html` prototype (a
+  short synthesis page linking to ~17 atomic per-book lesson pages). The
+  second is markedly better for teachers and isn't mentioned as the target
+  anywhere in this plan. Not yet resolved.
+- 310 of 504 notes (61%) are tagged `demonstration-text` and Phase 2.5 rules
+  them "stay as-is" — that's where the actual wall-of-text problem lives
+  (e.g. a 45k-word, one-heading Folktales file). The near-term plan doesn't
+  touch the thing Phill originally flagged as the problem.
+
+Open question for Phill: confirm whether to proceed on Claude's
+recommended order (dedupe audit → pick one content model → fix the
+shelf/tagging mismatch → prioritize shelves by teacher traffic → mechanically
+split the demonstration-text anthologies) before more Phase 2.5 guide
+restructuring continues.
 
 ## Why (the goal)
 
@@ -79,7 +116,7 @@ text / template / list). Merge duplicated subtrees, don't publish twice.
 ### Tasks (approved by Phill 2026-09-11)
 
 - [x] 1. Leftover Phase 1 sample — mechanical pass verified by Phill, all good.
-- [x] 2. Reader's Theatre dedupe — top-level source folder confirmed redundant, repo keeps Reading copy (decided 2026-09-11).
+- [~] 2. Reader's Theatre dedupe — top-level source folder confirmed redundant, repo keeps Reading copy (decided 2026-09-11). **Superseded 2026-09-12**: that check was manual/folder-level only. An automated full-corpus scan found 19 further full/near-full-document duplicate pairs it missed (7 by filename, 12 with no filename hint) plus a 152-pair cross-shelf content-reuse pattern. See `DEDUPE-REPORT.md`. Task reopened pending Phill's per-pair decisions.
 - [x] 3. Strand-tag audit — DONE 2026-09-11. 121 notes retagged and verified (504 total, zero missing): Genres 41→genres; Author Studies 49→new author-studies tag; Text Structures 5→reading; Literacy 1-15→first-20-days; Teacher Planning→writing; Symbolism→reading; Bunny Cakes + Coyote/Goat→mentor-texts; 12 missing strands filled; 10 Mentor lists/supplements→mentor-texts.
 - [x] 4. Resource-type tagging — DONE 2026-09-11. All 504 tagged and verified: demonstration-text 310, guide 160 (incl. 13 RT packs per ruling; Voice/strategy/vocab packs ruled guides on size — multi-thousand-line packs, not single sittings; 3 unclear author-study files slotted as teacher background reading), mini-lesson 4, prompt-set 24, list 5, template 1.
 - [x] 5. One-page IA map — APPROVED 2026-09-11 (all 3 questions yes: 8 shelves; genre + year as later tagging pass; trait/strategy tags join that pass). Saved as `IA-MAP.md`.

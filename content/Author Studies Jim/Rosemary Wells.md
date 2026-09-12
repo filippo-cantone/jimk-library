@@ -1,6 +1,7 @@
 ---
 title: "Rosemary Wells"
-source_file: "Author Studies Jim/Rosemary Wells.doc"
+source_file: "Author Studies Jim/Rosemary Wells (2).doc"
+dedupe_note: "Retired near-duplicate Rosemary Wells.doc (identical content) -- see DEDUPE-REPORT.md, 2026-09-12."
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
 tags: [jim-k]
@@ -1528,3 +1529,19 @@ Picture of me and Hans 17h Swedish Warmblood.
 <img src="assets/Rosemary Wells/media/image48.jpeg" />
 
 <img src="assets/Rosemary Wells/media/image49.jpeg" />
+
+**Writer’s Notebook**
+
+<img src="assets/Rosemary Wells/media/image2.png" />
+
+<img src="assets/Rosemary Wells/media/image3.png" />
+
+<img src="assets/Rosemary Wells/media/image4.png" />
+
+<img src="assets/Rosemary Wells/media/image5.jpeg" />
+
+<img src="assets/Rosemary Wells/media/image6.jpeg" />
+
+<img src="assets/Rosemary Wells/media/image7.png" />
+
+<img src="assets/Rosemary Wells/media/image8.jpeg" />

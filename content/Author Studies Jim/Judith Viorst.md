@@ -1,6 +1,7 @@
 ---
 title: "Judith Viorst"
-source_file: "Author Studies Jim/Judith Viorst.doc"
+dedupe_note: "Retired near-duplicate Judith Viorst.doc (see DEDUPE-REPORT.md, 2026-09-12)."
+source_file: "Author Studies Jim/Judith Viorst (2).doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
 tags: [jim-k]
@@ -2702,12 +2703,12 @@ My friend.
 
 <img src="assets/Judith Viorst/media/image27.jpeg" />
 
-Viorst’s tale of two sisters comically captures the vast diversity in
-personality that can exist between siblings. Olivia, the narrator and
-older of the two, regales readers with the misadventures of her younger
-sibling, Sophie. Olivia is neat while Sophie is decidedly not—and
-therein lies the source of potential discord. Like a seasoned attorney,
-Olivia presents her case to the reader, offering, albeit
+Judith Viorst’s tale of two sisters comically captures the vast
+diversity in personality that can exist between siblings. Olivia, the
+narrator and older of the two, regales readers with the misadventures of
+her younger sibling, Sophie. Olivia is neat while Sophie is decidedly
+not—and therein lies the source of potential discord. Like a seasoned
+attorney, Olivia presents her case to the reader, offering, albeit
 unintentionally, one more hilarious tale after another in an attempt to
 depict Sophie’s haphazard existence. A quintessential pre-adolescent,
 Olivia’s diatribe is liberally sprinkled with youthful exuberance and
@@ -2907,6 +2908,133 @@ bracelet that Sophie will never be practically perfect, like me. I’m
 hoping that one of these days she’ll start to remember to stop
 forgetting to try NOT to be so super-completely and totally THE
 MESSIEST.
+
+**WRITING CRAFT Super-Completely and Totally the Messiest**
+
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 66%" />
+</colgroup>
+<tbody>
+<tr class="odd">
+<td><p><strong>Focus</strong></p>
+<p><strong>Ideas and details:</strong></p></td>
+<td><p>Siblings.</p>
+<p>Five examples of Sophie’s messiness.</p>
+<p>Good attributes.</p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Organisation</strong></p>
+<p>Leads/Endings</p>
+<p>Transitions</p>
+<p><strong>Organisational Structure:</strong></p></td>
+<td><p>Lead: Character/Setting</p>
+<p>Ending: Echoes title.</p>
+<p>Transitions: use of - <em>And so … Like last Halloween… But once
+…</em></p>
+<p>Compare and contrast.</p>
+<p>Description.</p>
+<p>Problem/Solution</p></td>
+</tr>
+<tr class="odd">
+<td><p><strong>Style</strong></p>
+<p><strong>Words: Memorable Language</strong></p>
+<p><strong>Voice:</strong></p>
+<p><strong>Fluency:</strong></p></td>
+<td><p>Repetition: (phrase) <em>super-completely and totally the
+messiest</em></p>
+<p>Words – <em>bigger and higher, and bigger and higher, and bigger and
+higher.</em></p>
+<p>Similes: <em>like a cloud or a nest</em></p>
+<p>Strong Verbs: <em>spilling wrecked cleared bought decided answered
+freaks combed chirping climbed started messes</em></p>
+<p>Nouns: <em>towel sandcastles circus juggler whistle sandwich cereal
+smear</em></p>
+<p>Adjectives: Power of three – <em>frizzy, fuzzy, curly hair</em></p>
+<p>Adverbs: <em>seriously unchocolately carefully practically</em></p>
+<p>Words as well as said: <em>hollered yelling</em></p>
+<p>Speaks directly to reader: ‘Just between us’</p>
+<p>Varying sentence length: <em>She is the messiest. But she
+forgets.</em></p></td>
+</tr>
+<tr class="even">
+<td><p><strong>Conventions</strong></p>
+<p><strong>Punctuation:</strong></p>
+<p><strong>Grammar:</strong></p>
+<p><strong>Spelling:</strong></p></td>
+<td><p>Talking marks. Question marks.</p>
+<p>Possessive apostrophe: <em>Sophie’s shoelaces nurse’s costume
+Mother’s Day</em></p>
+<p>Comparative/Superlative: <em>messier messiest bigger and
+higher</em></p>
+<p>Abbreviations: <em>there’s she’s isn’t I’m they’re Sophie’s she’ll
+you’re it’s they’ll you’ve didn’t nobody’s</em></p></td>
+</tr>
+</tbody>
+</table>
+
+**Super-Completely and Totally the Messiest**
+
+Lead: Setting/Character
+
+Problem: *Which is one of maybe a million reasons why my sister Sophie
+is super-completely and totally the messiest.*
+
+Description of her messiness. (E,g, room/wardrobe)
+
+*She is the messiest.*
+
+*Maybe you think … If you think that, you would be really wrong.*
+
+*Maybe you think … If you think that, you would be really wrong.*
+
+*Maybe you even think … If you think that, you would be really, really
+wrong.*
+
+*She is the messiest.*
+
+*Like ….*
+
+*And once …*
+
+*And once …*
+
+*… she is super-completely and totally the messiest.*
+
+*I keep on telling Sophie … But she forgets.*
+
+*Mum keeps on telling Sophie … But she forgets.*
+
+*Our dad keeps on telling Sophie … But she forgets.*
+
+*And so …*
+
+*And if you …*
+
+*Sophie is always making – and being – a mess.*
+
+*Like …*
+
+*Like …*
+
+*I keep on telling Sophie … But she forgets.*
+
+*Our mum keeps telling Sophie … But she forgets.*
+
+*Our dad keeps telling Sophie … But she forgets.*
+
+*And just listened to what happened ..*
+
+*Our mum says I should tell you that …*
+
+*Our dad says I should tell you …*
+
+*Jake says I should tell you …*
+
+*Sophie says I should tell you …*
+
+*And I would like to tell you …*
 
 <img src="assets/Judith Viorst/media/image28.jpeg" />
 

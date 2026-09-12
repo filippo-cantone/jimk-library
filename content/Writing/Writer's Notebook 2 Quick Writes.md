@@ -5,6 +5,7 @@ conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omi
 converted: "2026-09-07"
 tags: [jim-k]
 reviewed: "2026-09-10"
+dedupe_note: "Retired near-duplicate 'Writer's Notebook 2 2014.md' (99% identical, no unique content) -- see DEDUPE-REPORT.md, 2026-09-12."
 strand: writing
 resource_type: prompt-set
 ---

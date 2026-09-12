@@ -1,5 +1,6 @@
 ---
 title: "Using Non-fiction Texts"
+dedupe_note: "Retired superseded restructure-draft 'Using Non-fiction Texts 1-38 2.md' (flattened a blank form into prose, against project standard of keeping forms structured) -- see DEDUPE-REPORT.md, 2026-09-12."
 source_file: "Text Structures/Using Non-fiction Texts    1-38.pdf"
 pages: 38
 reviewed: "2026-09-09"

@@ -1,0 +1,4909 @@
+{
+  "exact_groups": [],
+  "near_dupes": [
+    {
+      "a": "content/Author Studies Jim/Crescent Dragonwagon.md",
+      "b": "content/Mentor Texts/Home Place \u2014 Crescent Dragonwagon.md",
+      "words_a": 1644,
+      "words_b": 852,
+      "jaccard": 0.553,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Jane Yolen.md",
+      "b": "content/Mentor Texts/Piggins \u2014 Jane Yolen.md",
+      "words_a": 6894,
+      "words_b": 1629,
+      "jaccard": 0.238,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Kate DiCamillo.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 8.md",
+      "words_a": 4416,
+      "words_b": 23644,
+      "jaccard": 0.19,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/William Steig.md",
+      "b": "content/Mentor Texts/Brave Irene \u2014 William Steig.md",
+      "words_a": 9977,
+      "words_b": 1711,
+      "jaccard": 0.174,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Margie Palatini 2.md",
+      "b": "content/Mentor Texts/Moosetache \u2014 Margie Palatini.md",
+      "words_a": 5174,
+      "words_b": 875,
+      "jaccard": 0.17,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Kevin Henkes.md",
+      "b": "content/Mentor Texts/Lilly\u2019s Purple Plastic Purse \u2014 Kevin Henkes.md",
+      "words_a": 7649,
+      "words_b": 1284,
+      "jaccard": 0.168,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/William Steig.md",
+      "b": "content/Mentor Texts/Sylvester and the Magic Pebble \u2014 William Steig.md",
+      "words_a": 9977,
+      "words_b": 1446,
+      "jaccard": 0.147,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Cynthia Rylant.md",
+      "b": "content/Mentor Texts/Stray \u2014 Cynthia Rylant.md",
+      "words_a": 8857,
+      "words_b": 1048,
+      "jaccard": 0.12,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Jane Yolen.md",
+      "b": "content/Mentor Texts/Owl Moon \u2014 Jane Yolen.md",
+      "words_a": 6894,
+      "words_b": 794,
+      "jaccard": 0.115,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Pamela Allen.md",
+      "b": "content/Mentor Texts/Mr McGee and the Blackberry Jam \u2014 Pamela Allen.md",
+      "words_a": 4107,
+      "words_b": 452,
+      "jaccard": 0.114,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Brave Irene \u2014 William Steig.md",
+      "b": "content/Mentor Texts/Mentor texts 3.md",
+      "words_a": 1711,
+      "words_b": 16208,
+      "jaccard": 0.106,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Gary Paulsen.md",
+      "b": "content/Mentor Texts/Dogteam \u2014 Gary Paulsen.md",
+      "words_a": 4703,
+      "words_b": 481,
+      "jaccard": 0.105,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Pale Male \u2014 Janet Schulman.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 7.md",
+      "words_a": 2433,
+      "words_b": 24252,
+      "jaccard": 0.103,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING5 Jim.md",
+      "b": "content/Mentor Texts/The Lost Thing \u2014 Shaun Tan.md",
+      "words_a": 10323,
+      "words_b": 1031,
+      "jaccard": 0.099,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Oh Yeah \u2014 Tom Birdseye.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 8.md",
+      "words_a": 2364,
+      "words_b": 23644,
+      "jaccard": 0.094,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/My Ol\u2019 Man \u2014 Patricia Polacco.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 2099,
+      "words_b": 23947,
+      "jaccard": 0.094,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/John Henry \u2014 Julius Lester.md",
+      "b": "content/Writing/Writing - Writer's Notebook.md",
+      "words_a": 2155,
+      "words_b": 23902,
+      "jaccard": 0.093,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Sitting Ducks \u2014 Michael Bedard.md",
+      "b": "content/Reading/QUESTIONING 3.md",
+      "words_a": 860,
+      "words_b": 9676,
+      "jaccard": 0.09,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Brave Irene \u2014 William Steig.md",
+      "b": "content/Reading/QUESTIONING course 1.md",
+      "words_a": 1711,
+      "words_b": 20071,
+      "jaccard": 0.089,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Janell Cannon.md",
+      "b": "content/Mentor Texts/Crickwing \u2014 Janell Cannon.md",
+      "words_a": 18785,
+      "words_b": 1602,
+      "jaccard": 0.088,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Pamela Allen.md",
+      "b": "content/Mentor Texts/Fat Ferdie \u2014 Pamela Allen.md",
+      "words_a": 4107,
+      "words_b": 329,
+      "jaccard": 0.083,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Gary Paulsen.md",
+      "b": "content/Mentor Texts/Canoe Days \u2014 Gary Paulsen.md",
+      "words_a": 4703,
+      "words_b": 384,
+      "jaccard": 0.083,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Storm in the Night \u2014 Mary Stolz.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 1824,
+      "words_b": 23947,
+      "jaccard": 0.082,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Pamela Allen.md",
+      "b": "content/Mentor Texts/Mr McGee and the Biting Flea \u2014 Pamela Allen.md",
+      "words_a": 4107,
+      "words_b": 324,
+      "jaccard": 0.081,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING2 Jim.md",
+      "b": "content/Mentor Texts/Granddaddy\u2019s Gift \u2014 Margaree Mitchell.md",
+      "words_a": 15959,
+      "words_b": 1237,
+      "jaccard": 0.078,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Crickwing \u2014 Janell Cannon.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 5.md",
+      "words_a": 1602,
+      "words_b": 21173,
+      "jaccard": 0.077,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 3.md",
+      "b": "content/Mentor Texts/Verdi \u2014 Janell Cannon.md",
+      "words_a": 16208,
+      "words_b": 1247,
+      "jaccard": 0.077,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING3 Jim.md",
+      "b": "content/Mentor Texts/Brave Irene \u2014 William Steig.md",
+      "words_a": 22933,
+      "words_b": 1711,
+      "jaccard": 0.077,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING3 Jim.md",
+      "b": "content/Mentor Texts/Piggins \u2014 Jane Yolen.md",
+      "words_a": 22933,
+      "words_b": 1629,
+      "jaccard": 0.074,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING7 Jim.md",
+      "b": "content/Mentor Texts/Faithful Elephants \u2014 Yukio Tsuchiya.md",
+      "words_a": 15148,
+      "words_b": 1107,
+      "jaccard": 0.074,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING7 Jim.md",
+      "b": "content/Mentor Texts/Fly Away Home \u2014 Eve Bunting.md",
+      "words_a": 15148,
+      "words_b": 1094,
+      "jaccard": 0.073,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING3 Jim.md",
+      "b": "content/Mentor Texts/Crickwing \u2014 Janell Cannon.md",
+      "words_a": 22933,
+      "words_b": 1602,
+      "jaccard": 0.072,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Crow Call \u2014 Lois Lowry.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 1836,
+      "words_b": 26062,
+      "jaccard": 0.071,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING7 Jim.md",
+      "b": "content/Mentor Texts/Stray \u2014 Cynthia Rylant.md",
+      "words_a": 15148,
+      "words_b": 1048,
+      "jaccard": 0.07,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The Odious Ogre \u2014 Norton Juster.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 2.md",
+      "words_a": 1710,
+      "words_b": 25178,
+      "jaccard": 0.069,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Janell Cannon.md",
+      "b": "content/Mentor Texts/Verdi \u2014 Janell Cannon.md",
+      "words_a": 18785,
+      "words_b": 1247,
+      "jaccard": 0.068,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Through Grandpa\u2019s Eyes \u2014 Patricia MacLachlan.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 1823,
+      "words_b": 26797,
+      "jaccard": 0.068,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 3.md",
+      "b": "content/Mentor Texts/Piggie Pie \u2014 Margie Palatini.md",
+      "words_a": 16208,
+      "words_b": 1116,
+      "jaccard": 0.067,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING7 Jim.md",
+      "b": "content/Mentor Texts/Stevie \u2014 John Steptoe.md",
+      "words_a": 15148,
+      "words_b": 968,
+      "jaccard": 0.065,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Brave Irene \u2014 William Steig.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 1711,
+      "words_b": 26797,
+      "jaccard": 0.064,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Pamela Allen.md",
+      "b": "content/Mentor Texts/Mr McGee Goes to Sea \u2014 Pamela Allen.md",
+      "words_a": 4107,
+      "words_b": 252,
+      "jaccard": 0.063,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Crickwing \u2014 Janell Cannon.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 1602,
+      "words_b": 26062,
+      "jaccard": 0.062,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING2 Jim.md",
+      "b": "content/Mentor Texts/The Stranger \u2014 Chris Van Allsburg.md",
+      "words_a": 15959,
+      "words_b": 956,
+      "jaccard": 0.061,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/The Art Lesson \u2014 Tomie dePaola.md",
+      "words_a": 25487,
+      "words_b": 1496,
+      "jaccard": 0.06,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Verdi \u2014 Janell Cannon.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 5.md",
+      "words_a": 1247,
+      "words_b": 21173,
+      "jaccard": 0.06,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mrs Katz and Tush \u2014 Patricia Polacco.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 1577,
+      "words_b": 26797,
+      "jaccard": 0.059,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Pamela Allen.md",
+      "b": "content/Mentor Texts/Mr McGee and the Big Bag of Bread \u2014 Pamela Allen.md",
+      "words_a": 4107,
+      "words_b": 271,
+      "jaccard": 0.055,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING2 Jim.md",
+      "b": "content/Mentor Texts/The Sweetest Fig \u2014 Chris Van Allsburg.md",
+      "words_a": 15959,
+      "words_b": 840,
+      "jaccard": 0.053,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 2.md",
+      "b": "content/Mentor Texts/Tree of Cranes \u2014 Allen Say.md",
+      "words_a": 25526,
+      "words_b": 1164,
+      "jaccard": 0.053,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Oh, the Places You'll Go \u2014 Dr Seuss.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 946,
+      "words_b": 17868,
+      "jaccard": 0.053,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Tree of Cranes \u2014 Allen Say.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 1164,
+      "words_b": 23947,
+      "jaccard": 0.052,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Eve Bunting.md",
+      "b": "content/Mentor Texts/Fly Away Home \u2014 Eve Bunting.md",
+      "words_a": 21219,
+      "words_b": 1094,
+      "jaccard": 0.052,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Nina Laden.md",
+      "b": "content/Mentor Texts/When Pigasso Met Mootisse \u2014 Nina Laden.md",
+      "words_a": 16010,
+      "words_b": 804,
+      "jaccard": 0.051,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Slower Than the Rest \u2014 Cynthia Rylant.md",
+      "b": "content/Writing/Writing - Writer's Notebook.md",
+      "words_a": 1174,
+      "words_b": 23902,
+      "jaccard": 0.051,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/John Henry \u2014 Julius Lester.md",
+      "words_a": 41890,
+      "words_b": 2155,
+      "jaccard": 0.051,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Zoom Broom \u2014 Margie Palatini.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 1288,
+      "words_b": 26062,
+      "jaccard": 0.05,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Two Bad Ants \u2014 Chris Van Allsburg.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 1153,
+      "words_b": 23888,
+      "jaccard": 0.05,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing2.md",
+      "b": "content/Mentor Texts/Mr McGee and the Blackberry Jam \u2014 Pamela Allen.md",
+      "words_a": 15570,
+      "words_b": 452,
+      "jaccard": 0.049,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Miz Berlin Walks \u2014 Jane Yolen.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 1313,
+      "words_b": 26797,
+      "jaccard": 0.049,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Skippyjon Jones \u2014 Judy Schachner.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 8.md",
+      "words_a": 1120,
+      "words_b": 23644,
+      "jaccard": 0.049,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Chris Van Allsburg.md",
+      "b": "content/Mentor Texts/Two Bad Ants \u2014 Chris Van Allsburg.md",
+      "words_a": 24722,
+      "words_b": 1153,
+      "jaccard": 0.049,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Margie Palatini.md",
+      "b": "content/Mentor Texts/Zoom Broom \u2014 Margie Palatini.md",
+      "words_a": 27165,
+      "words_b": 1288,
+      "jaccard": 0.049,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Verdi \u2014 Janell Cannon.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 1247,
+      "words_b": 26062,
+      "jaccard": 0.048,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Bad Boys \u2014 Margie Palatini.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 1242,
+      "words_b": 26062,
+      "jaccard": 0.048,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Libba Moore Gray.md",
+      "b": "content/Mentor Texts/My Mama Had a Dancing Heart \u2014 Libba Moore Gray.md",
+      "words_a": 8963,
+      "words_b": 441,
+      "jaccard": 0.048,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Butternut Hollow Pond \u2014 Brian Heinz.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 1068,
+      "words_b": 23947,
+      "jaccard": 0.048,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Lilly\u2019s Purple Plastic Purse \u2014 Kevin Henkes.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 1284,
+      "words_b": 26797,
+      "jaccard": 0.047,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Miz Berlin Walks \u2014 Jane Yolen.md",
+      "words_a": 27979,
+      "words_b": 1313,
+      "jaccard": 0.047,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Margie Palatini.md",
+      "b": "content/Mentor Texts/Bad Boys \u2014 Margie Palatini.md",
+      "words_a": 27165,
+      "words_b": 1242,
+      "jaccard": 0.047,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/EZRA JACK KEATS.md",
+      "b": "content/Mentor Texts/Goggles \u2014 Ezra Jack Keats.md",
+      "words_a": 7489,
+      "words_b": 324,
+      "jaccard": 0.047,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mice and Beans \u2014 Pam Munoz Ryan.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 8.md",
+      "words_a": 1173,
+      "words_b": 23644,
+      "jaccard": 0.047,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Piggie Pie \u2014 Margie Palatini.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 7.md",
+      "words_a": 1116,
+      "words_b": 24252,
+      "jaccard": 0.046,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Cynthia Rylant.md",
+      "b": "content/Mentor Texts/Scarecrow \u2014 Cynthia Rylant.md",
+      "words_a": 8857,
+      "words_b": 403,
+      "jaccard": 0.046,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING2 Jim.md",
+      "b": "content/Mentor Texts/Tight Times \u2014 Barbara Shook Hazen.md",
+      "words_a": 15959,
+      "words_b": 729,
+      "jaccard": 0.046,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The Worrywarts \u2014 Pamela Duncan Edwards.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 823,
+      "words_b": 17868,
+      "jaccard": 0.045,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING 1 Jim.md",
+      "b": "content/Mentor Texts/Sitting Ducks \u2014 Michael Bedard.md",
+      "words_a": 20329,
+      "words_b": 860,
+      "jaccard": 0.044,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/A Chair for My Mother \u2014 Vera B. Williams.md",
+      "words_a": 25487,
+      "words_b": 1100,
+      "jaccard": 0.044,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Livingstone Mouse \u2014 Pamela Duncan Edwards.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 981,
+      "words_b": 23947,
+      "jaccard": 0.043,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Under the Quilt of Night \u2014 Deborah Hopkinson.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 953,
+      "words_b": 23947,
+      "jaccard": 0.043,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/The Storm Book \u2014 Charlotte Zolotow.md",
+      "words_a": 27979,
+      "words_b": 1173,
+      "jaccard": 0.043,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Cynthia Rylant.md",
+      "b": "content/Mentor Texts/The Whales \u2014 Cynthia Rylant.md",
+      "words_a": 8857,
+      "words_b": 369,
+      "jaccard": 0.042,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Margie Palatini.md",
+      "b": "content/Mentor Texts/Piggie Pie \u2014 Margie Palatini.md",
+      "words_a": 27165,
+      "words_b": 1116,
+      "jaccard": 0.042,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/I Love You the Purplest \u2014 Barbara Joose.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 6.md",
+      "words_a": 641,
+      "words_b": 15331,
+      "jaccard": 0.041,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING 1 Jim.md",
+      "b": "content/Mentor Texts/Babushka\u2019s Doll \u2014 Patricia Polacco.md",
+      "words_a": 20329,
+      "words_b": 805,
+      "jaccard": 0.041,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Boris Ate a Thesaurus \u2014 Neil Klayman.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 2.md",
+      "words_a": 1000,
+      "words_b": 25178,
+      "jaccard": 0.04,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Chris Van Allsburg.md",
+      "b": "content/Mentor Texts/The Stranger \u2014 Chris Van Allsburg.md",
+      "words_a": 24722,
+      "words_b": 956,
+      "jaccard": 0.04,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Herd of Cows! Flock of Sheep! \u2014 Rick Walton.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 2.md",
+      "words_a": 1043,
+      "words_b": 25178,
+      "jaccard": 0.04,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING 1 Jim.md",
+      "b": "content/Mentor Texts/Owl Moon \u2014 Jane Yolen.md",
+      "words_a": 20329,
+      "words_b": 794,
+      "jaccard": 0.04,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Come on, Rain \u2014 Karen Hesse.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 903,
+      "words_b": 23888,
+      "jaccard": 0.039,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Amelia Bedelia \u2014 Peggy Parish.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 1054,
+      "words_b": 26797,
+      "jaccard": 0.039,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Butternut Hollow Pond \u2014 Brian Heinz.md",
+      "words_a": 27979,
+      "words_b": 1068,
+      "jaccard": 0.039,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Home Place \u2014 Crescent Dragonwagon.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 8.md",
+      "words_a": 852,
+      "words_b": 23644,
+      "jaccard": 0.038,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Eve Bunting.md",
+      "b": "content/Mentor Texts/Night Tree \u2014 Eve Bunting.md",
+      "words_a": 21219,
+      "words_b": 785,
+      "jaccard": 0.037,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Pamela Allen.md",
+      "b": "content/Mentor Texts/Share Said the Rooster \u2014 Pamela Allen.md",
+      "words_a": 4107,
+      "words_b": 227,
+      "jaccard": 0.037,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Cynthia Rylant.md",
+      "b": "content/Mentor Texts/In November \u2014 Cynthia Rylant.md",
+      "words_a": 8857,
+      "words_b": 319,
+      "jaccard": 0.036,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing2.md",
+      "b": "content/Mentor Texts/Fat Ferdie \u2014 Pamela Allen.md",
+      "words_a": 15570,
+      "words_b": 329,
+      "jaccard": 0.036,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Tigress \u2014 Nick Dowson.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 803,
+      "words_b": 23947,
+      "jaccard": 0.036,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Sierra \u2014 Diane Siebert.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 835,
+      "words_b": 23888,
+      "jaccard": 0.036,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/A Quiet Place \u2014 Douglas Wood.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 801,
+      "words_b": 23947,
+      "jaccard": 0.035,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Sylvester and the Magic Pebble \u2014 William Steig.md",
+      "words_a": 41890,
+      "words_b": 1446,
+      "jaccard": 0.035,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Cynthia Rylant.md",
+      "b": "content/Mentor Texts/Long Night Moon \u2014 Cynthia Rylant.md",
+      "words_a": 8857,
+      "words_b": 313,
+      "jaccard": 0.035,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing2.md",
+      "b": "content/Mentor Texts/Mr McGee and the Biting Flea \u2014 Pamela Allen.md",
+      "words_a": 15570,
+      "words_b": 324,
+      "jaccard": 0.035,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Chris Van Allsburg.md",
+      "b": "content/Mentor Texts/The Sweetest Fig \u2014 Chris Van Allsburg.md",
+      "words_a": 24722,
+      "words_b": 840,
+      "jaccard": 0.035,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/Piggie Pie \u2014 Margie Palatini.md",
+      "words_a": 32155,
+      "words_b": 1116,
+      "jaccard": 0.034,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Owl Moon \u2014 Jane Yolen.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 794,
+      "words_b": 23888,
+      "jaccard": 0.034,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/The Tenth Good Thing About Barney \u2014 Judith Viorst.md",
+      "words_a": 41890,
+      "words_b": 1481,
+      "jaccard": 0.034,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Beach \u2014 Elisha Cooper.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 910,
+      "words_b": 26797,
+      "jaccard": 0.034,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 1.md",
+      "b": "content/Mentor Texts/The Storm Book \u2014 Charlotte Zolotow.md",
+      "words_a": 36208,
+      "words_b": 1173,
+      "jaccard": 0.033,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Come on, Rain \u2014 Karen Hesse.md",
+      "words_a": 27979,
+      "words_b": 903,
+      "jaccard": 0.033,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Moosetache \u2014 Margie Palatini.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 875,
+      "words_b": 26062,
+      "jaccard": 0.033,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/When Pigasso Met Mootisse \u2014 Nina Laden.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 2.md",
+      "words_a": 804,
+      "words_b": 25178,
+      "jaccard": 0.032,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Encounter \u2014 Jane Yolen.md",
+      "words_a": 41890,
+      "words_b": 1347,
+      "jaccard": 0.032,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Goggles \u2014 Ezra Jack Keats.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 4.md",
+      "words_a": 324,
+      "words_b": 10103,
+      "jaccard": 0.032,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Hide and Seek Fog \u2014 Alvin Tresselt.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 720,
+      "words_b": 23947,
+      "jaccard": 0.032,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/The Listening Walk \u2014 Paul Showers.md",
+      "words_a": 25487,
+      "words_b": 780,
+      "jaccard": 0.031,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/Letter to the Lake \u2014 Susan Swanson.md",
+      "words_a": 25487,
+      "words_b": 788,
+      "jaccard": 0.031,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING7 Jim.md",
+      "b": "content/Mentor Texts/Maybe a Fight \u2014 Jean Little.md",
+      "words_a": 15148,
+      "words_b": 461,
+      "jaccard": 0.031,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Crab Moon \u2014 Ruth Horowitz.md",
+      "b": "content/Mentor Texts/Mentor texts 3.md",
+      "words_a": 504,
+      "words_b": 16208,
+      "jaccard": 0.031,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Storm on the Desert \u2014 Carolyn Lesser.md",
+      "words_a": 27979,
+      "words_b": 845,
+      "jaccard": 0.031,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Pamela Allen.md",
+      "b": "content/Mentor Texts/Mr McGee and the Perfect Nest \u2014 Pamela Allen.md",
+      "words_a": 4107,
+      "words_b": 190,
+      "jaccard": 0.03,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Winter at Long Pond \u2014 William George.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 8.md",
+      "words_a": 671,
+      "words_b": 23644,
+      "jaccard": 0.03,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/A Visitor for Bear \u2014 Bonny Becker.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 802,
+      "words_b": 26062,
+      "jaccard": 0.03,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/The Deliverance of Dancing Bears \u2014 Elizabeth Stanley.md",
+      "words_a": 41890,
+      "words_b": 1251,
+      "jaccard": 0.03,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The New Land \u2014 Donald Graves.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 788,
+      "words_b": 26797,
+      "jaccard": 0.029,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Owl Moon \u2014 Jane Yolen.md",
+      "words_a": 27979,
+      "words_b": 794,
+      "jaccard": 0.029,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Patricia Polacco.md",
+      "b": "content/Mentor Texts/Babushka\u2019s Doll \u2014 Patricia Polacco.md",
+      "words_a": 29339,
+      "words_b": 805,
+      "jaccard": 0.029,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Max\u2019s Words \u2014 Kate Banks.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 2.md",
+      "words_a": 717,
+      "words_b": 25178,
+      "jaccard": 0.029,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/All the Places to Love \u2014 Patricia MacLachlan.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 662,
+      "words_b": 23888,
+      "jaccard": 0.029,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Seven Blind Mice \u2014 Ed Young.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 4.md",
+      "words_a": 280,
+      "words_b": 10103,
+      "jaccard": 0.028,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Slower Than the Rest \u2014 Cynthia Rylant.md",
+      "words_a": 41890,
+      "words_b": 1174,
+      "jaccard": 0.028,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The Secret Shortcut \u2014 Mark Teague.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 759,
+      "words_b": 26797,
+      "jaccard": 0.028,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The Jazz Fly \u2014 Matthew Gollub.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 707,
+      "words_b": 26062,
+      "jaccard": 0.027,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/White Snow, Bright Snow \u2014 Alvin Tresselt.md",
+      "words_a": 27979,
+      "words_b": 748,
+      "jaccard": 0.027,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/Bigmama\u2019s \u2014 Donald Crews.md",
+      "words_a": 25487,
+      "words_b": 665,
+      "jaccard": 0.027,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing2.md",
+      "b": "content/Mentor Texts/Mr McGee Goes to Sea \u2014 Pamela Allen.md",
+      "words_a": 15570,
+      "words_b": 252,
+      "jaccard": 0.027,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/A Chocolate Moose for Dinner \u2014 Fred Gwynne.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 472,
+      "words_b": 17868,
+      "jaccard": 0.026,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Fly Away Home \u2014 Eve Bunting.md",
+      "words_a": 41890,
+      "words_b": 1094,
+      "jaccard": 0.026,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/The Worrywarts \u2014 Pamela Duncan Edwards.md",
+      "words_a": 32155,
+      "words_b": 823,
+      "jaccard": 0.026,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Faithful Elephants \u2014 Yukio Tsuchiya.md",
+      "words_a": 41890,
+      "words_b": 1107,
+      "jaccard": 0.026,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Allen Say.md",
+      "b": "content/Mentor Texts/Tree of Cranes \u2014 Allen Say.md",
+      "words_a": 45051,
+      "words_b": 1164,
+      "jaccard": 0.026,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 2.md",
+      "b": "content/Mentor Texts/Up North at the Cabin \u2014 Marsha Chall.md",
+      "words_a": 25526,
+      "words_b": 575,
+      "jaccard": 0.026,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Come on, Rain \u2014 Karen Hesse.md",
+      "b": "content/Mentor Texts/Mentor texts 1.md",
+      "words_a": 903,
+      "words_b": 36208,
+      "jaccard": 0.025,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Nouns and Verbs Have a Field Day \u2014 Robin Pulver.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 683,
+      "words_b": 26797,
+      "jaccard": 0.025,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Bigmama\u2019s \u2014 Donald Crews.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 665,
+      "words_b": 26797,
+      "jaccard": 0.025,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/The Gift of the Tree \u2014 Alvin Tresselt.md",
+      "words_a": 27979,
+      "words_b": 693,
+      "jaccard": 0.025,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Earthdance \u2014 Joanne Ryder.md",
+      "b": "content/Writing Voice/Writing - Voice 13.md",
+      "words_a": 381,
+      "words_b": 15049,
+      "jaccard": 0.025,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Midnight on the Mountain \u2014 Julie Lawson.md",
+      "words_a": 27979,
+      "words_b": 714,
+      "jaccard": 0.025,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing2.md",
+      "b": "content/Mentor Texts/Mr McGee and the Big Bag of Bread \u2014 Pamela Allen.md",
+      "words_a": 15570,
+      "words_b": 271,
+      "jaccard": 0.024,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/I Love You the Purplest \u2014 Barbara Joose.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 641,
+      "words_b": 26797,
+      "jaccard": 0.024,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/All the Places to Love \u2014 Patricia MacLachlan.md",
+      "words_a": 27979,
+      "words_b": 662,
+      "jaccard": 0.024,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The Remarkable Farkle McBride \u2014 John Lithgow.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 616,
+      "words_b": 26062,
+      "jaccard": 0.024,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Dumpy La Rue \u2014 Elizabeth Winthrop.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 604,
+      "words_b": 26062,
+      "jaccard": 0.023,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Daddy Played Music \u2014 Maryann Weidt.md",
+      "words_a": 41890,
+      "words_b": 947,
+      "jaccard": 0.023,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Homeless \u2014 Anna Quindlen.md",
+      "words_a": 41890,
+      "words_b": 977,
+      "jaccard": 0.023,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The Alphabet Tree \u2014 Leo Lionni.md",
+      "b": "content/Vocabulary Course Jim/Vocabulary 10.md",
+      "words_a": 412,
+      "words_b": 19256,
+      "jaccard": 0.022,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/A Quiet Place \u2014 Douglas Wood.md",
+      "b": "content/Mentor Texts/Mentor texts 1.md",
+      "words_a": 801,
+      "words_b": 36208,
+      "jaccard": 0.022,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 1.md",
+      "b": "content/Mentor Texts/Night Tree \u2014 Eve Bunting.md",
+      "words_a": 36208,
+      "words_b": 785,
+      "jaccard": 0.022,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Crab Moon \u2014 Ruth Horowitz.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 504,
+      "words_b": 23888,
+      "jaccard": 0.022,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 3.md",
+      "b": "content/Mentor Texts/The Whales \u2014 Cynthia Rylant.md",
+      "words_a": 16208,
+      "words_b": 369,
+      "jaccard": 0.022,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 1.md",
+      "b": "content/Mentor Texts/Owl Moon \u2014 Jane Yolen.md",
+      "words_a": 36208,
+      "words_b": 794,
+      "jaccard": 0.022,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Miss Alaineus \u2014 Debra Frasier.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 2.md",
+      "words_a": 550,
+      "words_b": 25178,
+      "jaccard": 0.022,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 1.md",
+      "b": "content/Mentor Texts/White Snow, Bright Snow \u2014 Alvin Tresselt.md",
+      "words_a": 36208,
+      "words_b": 748,
+      "jaccard": 0.021,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/An Angel for Solomon Singer \u2014 Cynthia Rylant.md",
+      "words_a": 41890,
+      "words_b": 869,
+      "jaccard": 0.021,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 2.md",
+      "b": "content/Mentor Texts/Rattletrap Car \u2014 Phyllis Root.md",
+      "words_a": 25526,
+      "words_b": 601,
+      "jaccard": 0.021,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Up North at the Cabin \u2014 Marsha Chall.md",
+      "words_a": 27979,
+      "words_b": 575,
+      "jaccard": 0.021,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Canoe Days \u2014 Gary Paulsen.md",
+      "b": "content/Vocabulary Course Jim/Vocabulary 10.md",
+      "words_a": 384,
+      "words_b": 19256,
+      "jaccard": 0.02,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 2.md",
+      "b": "content/Mentor Texts/Stand Tall, Molly Lou Melon \u2014 Patty Lovell.md",
+      "words_a": 25526,
+      "words_b": 452,
+      "jaccard": 0.02,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Home Place \u2014 Crescent Dragonwagon.md",
+      "words_a": 41890,
+      "words_b": 852,
+      "jaccard": 0.02,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Rattletrap Car \u2014 Phyllis Root.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 601,
+      "words_b": 23888,
+      "jaccard": 0.02,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Earthdance \u2014 Joanne Ryder.md",
+      "b": "content/Vocabulary Course Jim/Vocabulary 10.md",
+      "words_a": 381,
+      "words_b": 19256,
+      "jaccard": 0.02,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Hello Ocean \u2014 Pam Munoz Ryan.md",
+      "b": "content/Writing/WEMBLEY PRIMARY SCHOOL 14-2.md",
+      "words_a": 316,
+      "words_b": 17485,
+      "jaccard": 0.019,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/All the Places to Love \u2014 Patricia MacLachlan.md",
+      "b": "content/Mentor Texts/Mentor texts 1.md",
+      "words_a": 662,
+      "words_b": 36208,
+      "jaccard": 0.019,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Night Tree \u2014 Eve Bunting.md",
+      "words_a": 41890,
+      "words_b": 785,
+      "jaccard": 0.019,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING7 Jim.md",
+      "b": "content/Mentor Texts/Where Are You Going, Manyoni \u2014 Catherine Stock.md",
+      "words_a": 15148,
+      "words_b": 284,
+      "jaccard": 0.019,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Scarecrow \u2014 Cynthia Rylant.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 403,
+      "words_b": 23947,
+      "jaccard": 0.018,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Fancy Nancy \u2014 Jane O\u2019Connor.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 2.md",
+      "words_a": 461,
+      "words_b": 25178,
+      "jaccard": 0.018,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Grandpa Never Lies \u2014 Ralph Fletcher.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 419,
+      "words_b": 23947,
+      "jaccard": 0.018,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Crab Moon \u2014 Ruth Horowitz.md",
+      "words_a": 27979,
+      "words_b": 504,
+      "jaccard": 0.018,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/More Parts \u2014 Tedd Arnold.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 478,
+      "words_b": 26797,
+      "jaccard": 0.018,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Why the Banana Split \u2014 Rick Walton.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 321,
+      "words_b": 17868,
+      "jaccard": 0.018,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 2.md",
+      "b": "content/Mentor Texts/Scarecrow \u2014 Cynthia Rylant.md",
+      "words_a": 25526,
+      "words_b": 403,
+      "jaccard": 0.018,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Python \u2014 Christopher Cheng.md",
+      "words_a": 41890,
+      "words_b": 721,
+      "jaccard": 0.017,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Dogteam \u2014 Gary Paulsen.md",
+      "words_a": 27979,
+      "words_b": 481,
+      "jaccard": 0.017,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Jane Yolen.md",
+      "b": "content/Mentor Texts/Nocturne \u2014 Jane Yolen.md",
+      "words_a": 6894,
+      "words_b": 131,
+      "jaccard": 0.017,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Night Noises \u2014 Mem Fox.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 387,
+      "words_b": 23888,
+      "jaccard": 0.017,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The Whales \u2014 Cynthia Rylant.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 8.md",
+      "words_a": 369,
+      "words_b": 23644,
+      "jaccard": 0.016,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Stand Tall, Molly Lou Melon \u2014 Patty Lovell.md",
+      "words_a": 27979,
+      "words_b": 452,
+      "jaccard": 0.016,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING7 Jim.md",
+      "b": "content/Mentor Texts/Mama Sewing \u2014 Eloise Greenfield.md",
+      "words_a": 15148,
+      "words_b": 240,
+      "jaccard": 0.016,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/Edward the Emu \u2014 Sheena Knowles.md",
+      "words_a": 32155,
+      "words_b": 548,
+      "jaccard": 0.016,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Night of the Gargoyles \u2014 Eve Bunting.md",
+      "words_a": 27979,
+      "words_b": 438,
+      "jaccard": 0.016,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The Stray Dog \u2014 Marc Simont.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 10.md",
+      "words_a": 226,
+      "words_b": 14601,
+      "jaccard": 0.016,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing2.md",
+      "b": "content/Mentor Texts/Share Said the Rooster \u2014 Pamela Allen.md",
+      "words_a": 15570,
+      "words_b": 227,
+      "jaccard": 0.016,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 2.md",
+      "b": "content/Mentor Texts/The Pig in the Pond \u2014 Martin Waddell.md",
+      "words_a": 25526,
+      "words_b": 390,
+      "jaccard": 0.016,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING2 Jim.md",
+      "b": "content/Mentor Texts/I Want My Hat Back \u2014 Jon Klassen.md",
+      "words_a": 15959,
+      "words_b": 266,
+      "jaccard": 0.016,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Puddles \u2014 Jonathan London.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 374,
+      "words_b": 23888,
+      "jaccard": 0.015,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Monkey Business \u2014 Wallace Edwards.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 393,
+      "words_b": 26797,
+      "jaccard": 0.015,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Scarecrow \u2014 Cynthia Rylant.md",
+      "words_a": 27979,
+      "words_b": 403,
+      "jaccard": 0.015,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/My Mama Had a Dancing Heart \u2014 Libba Moore Gray.md",
+      "words_a": 27979,
+      "words_b": 441,
+      "jaccard": 0.015,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Rain \u2014 Manya Stojic.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 330,
+      "words_b": 23947,
+      "jaccard": 0.015,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING3 Jim.md",
+      "b": "content/Mentor Texts/Willy the Wimp \u2014 Anthony Browne.md",
+      "words_a": 22933,
+      "words_b": 341,
+      "jaccard": 0.015,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The Pig in the Pond \u2014 Martin Waddell.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 390,
+      "words_b": 23888,
+      "jaccard": 0.015,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Scarecrow \u2014 Cynthia Rylant.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 403,
+      "words_b": 26797,
+      "jaccard": 0.015,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The Whales \u2014 Cynthia Rylant.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 369,
+      "words_b": 26062,
+      "jaccard": 0.014,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Canoe Days \u2014 Gary Paulsen.md",
+      "words_a": 27979,
+      "words_b": 384,
+      "jaccard": 0.014,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Dream Weaver \u2014 Jonathan London.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 317,
+      "words_b": 23947,
+      "jaccard": 0.014,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING2 Jim.md",
+      "b": "content/Mentor Texts/This Is Not My Hat \u2014 Jon Klassen.md",
+      "words_a": 15959,
+      "words_b": 220,
+      "jaccard": 0.014,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Word Wizard \u2014 Cathryn Falwell.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 2.md",
+      "words_a": 362,
+      "words_b": 25178,
+      "jaccard": 0.014,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Long Night Moon \u2014 Cynthia Rylant.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 313,
+      "words_b": 23947,
+      "jaccard": 0.014,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Night Noises \u2014 Mem Fox.md",
+      "words_a": 27979,
+      "words_b": 387,
+      "jaccard": 0.014,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Goggles \u2014 Ezra Jack Keats.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 8.md",
+      "words_a": 324,
+      "words_b": 23644,
+      "jaccard": 0.014,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/In November \u2014 Cynthia Rylant.md",
+      "b": "content/Mentor Texts/Mentor texts 2.md",
+      "words_a": 319,
+      "words_b": 25526,
+      "jaccard": 0.014,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/In November \u2014 Cynthia Rylant.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 319,
+      "words_b": 23947,
+      "jaccard": 0.014,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Shortcut \u2014 Donald Crews.md",
+      "b": "content/Writing/Narrative Course 2014 June.md",
+      "words_a": 266,
+      "words_b": 21068,
+      "jaccard": 0.013,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Hoops \u2014 Robert Burleigh.md",
+      "b": "content/Mentor Texts/Mentor texts 3.md",
+      "words_a": 221,
+      "words_b": 16208,
+      "jaccard": 0.013,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The Moon Was the Best \u2014 Charlotte Zolotow.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 297,
+      "words_b": 23947,
+      "jaccard": 0.013,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/A Tree Is Nice \u2014 Janice Udry.md",
+      "words_a": 27979,
+      "words_b": 364,
+      "jaccard": 0.013,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/The Alphabet Tree \u2014 Leo Lionni.md",
+      "words_a": 32155,
+      "words_b": 412,
+      "jaccard": 0.013,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Puddles \u2014 Jonathan London.md",
+      "words_a": 27979,
+      "words_b": 374,
+      "jaccard": 0.013,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing2.md",
+      "b": "content/Mentor Texts/Mr McGee and the Perfect Nest \u2014 Pamela Allen.md",
+      "words_a": 15570,
+      "words_b": 190,
+      "jaccard": 0.013,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/The Whales \u2014 Cynthia Rylant.md",
+      "words_a": 27979,
+      "words_b": 369,
+      "jaccard": 0.013,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/In My New Yellow Shirt \u2014 Eileen Spinelli.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 304,
+      "words_b": 23947,
+      "jaccard": 0.013,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Eileen Spinelli.md",
+      "b": "content/Mentor Texts/In My New Yellow Shirt \u2014 Eileen Spinelli.md",
+      "words_a": 22668,
+      "words_b": 304,
+      "jaccard": 0.013,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Baloney (Henry P.) \u2014 Jon Scieszka.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 351,
+      "words_b": 26062,
+      "jaccard": 0.013,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Once There Was a Bull \u2026 (Frog) \u2014 Rick Walton.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 2.md",
+      "words_a": 324,
+      "words_b": 25178,
+      "jaccard": 0.013,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Hello Ocean \u2014 Pam Munoz Ryan.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 7.md",
+      "words_a": 316,
+      "words_b": 24252,
+      "jaccard": 0.013,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING3 Jim.md",
+      "b": "content/Mentor Texts/Seven Blind Mice \u2014 Ed Young.md",
+      "words_a": 22933,
+      "words_b": 280,
+      "jaccard": 0.012,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Nothing to Do \u2014 Douglas Wood.md",
+      "words_a": 41890,
+      "words_b": 506,
+      "jaccard": 0.012,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Moving \u2014 Michael Rosen.md",
+      "words_a": 41890,
+      "words_b": 539,
+      "jaccard": 0.012,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING5 Jim.md",
+      "b": "content/Mentor Texts/The Red Tree \u2014 Shaun Tan.md",
+      "words_a": 10323,
+      "words_b": 129,
+      "jaccard": 0.011,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The King Who Rained \u2014 Fred Gwynne.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 207,
+      "words_b": 17868,
+      "jaccard": 0.011,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/In November \u2014 Cynthia Rylant.md",
+      "b": "content/Reading/INQUIRY BASED APPROACH.md",
+      "words_a": 319,
+      "words_b": 29980,
+      "jaccard": 0.011,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Twilight \u2014 Holly Young Huth.md",
+      "words_a": 41890,
+      "words_b": 451,
+      "jaccard": 0.011,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Shortcut \u2014 Donald Crews.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 266,
+      "words_b": 23888,
+      "jaccard": 0.011,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 1.md",
+      "b": "content/Mentor Texts/Night Noises \u2014 Mem Fox.md",
+      "words_a": 36208,
+      "words_b": 387,
+      "jaccard": 0.011,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Hello Ocean \u2014 Pam Munoz Ryan.md",
+      "words_a": 27979,
+      "words_b": 316,
+      "jaccard": 0.011,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Dakota Dugout \u2014 Ann Turner.md",
+      "words_a": 41890,
+      "words_b": 427,
+      "jaccard": 0.01,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Genetics \u2014 Naomi Shihab Nye.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 7.md",
+      "words_a": 236,
+      "words_b": 24252,
+      "jaccard": 0.01,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING3 Jim.md",
+      "b": "content/Mentor Texts/The Stray Dog \u2014 Marc Simont.md",
+      "words_a": 22933,
+      "words_b": 226,
+      "jaccard": 0.01,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Goodnight iPad \u2014 Ann Droyd.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 178,
+      "words_b": 17868,
+      "jaccard": 0.01,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/Once There Was a Bull \u2026 (Frog) \u2014 Rick Walton.md",
+      "words_a": 32155,
+      "words_b": 324,
+      "jaccard": 0.01,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 1.md",
+      "b": "content/Mentor Texts/Puddles \u2014 Jonathan London.md",
+      "words_a": 36208,
+      "words_b": 374,
+      "jaccard": 0.01,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/And If the Moon Could Talk \u2014 Kate Banks.md",
+      "words_a": 27979,
+      "words_b": 273,
+      "jaccard": 0.009,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Old MacDonald Had a Woodshop \u2014 Lisa Shulman.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 520,
+      "words_b": 23888,
+      "jaccard": 0.009,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Hello Ocean \u2014 Pam Munoz Ryan.md",
+      "b": "content/Mentor Texts/Mentor texts 1.md",
+      "words_a": 316,
+      "words_b": 36208,
+      "jaccard": 0.009,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/A Little Pigeon Toad \u2014 Fred Gwynne.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 176,
+      "words_b": 17868,
+      "jaccard": 0.009,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/In November \u2014 Cynthia Rylant.md",
+      "b": "content/Mentor Texts/Mentor texts 1.md",
+      "words_a": 319,
+      "words_b": 36208,
+      "jaccard": 0.009,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Hoops \u2014 Robert Burleigh.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 221,
+      "words_b": 26797,
+      "jaccard": 0.008,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/I Like Noisy, Mum Likes Quiet \u2014 Eileen Spinelli.md",
+      "words_a": 41890,
+      "words_b": 355,
+      "jaccard": 0.008,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Sounds Spooky \u2014 Christopher Cheng.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 166,
+      "words_b": 23888,
+      "jaccard": 0.007,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Goal \u2014 Robert Burleigh.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 199,
+      "words_b": 26797,
+      "jaccard": 0.007,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING3 Jim.md",
+      "b": "content/Mentor Texts/Beegu \u2014 Alexis Deacon.md",
+      "words_a": 22933,
+      "words_b": 164,
+      "jaccard": 0.007,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 1.md",
+      "b": "content/Mentor Texts/Shortcut \u2014 Donald Crews.md",
+      "words_a": 36208,
+      "words_b": 266,
+      "jaccard": 0.007,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/Off We Go \u2014 Jane Yolen.md",
+      "words_a": 32155,
+      "words_b": 181,
+      "jaccard": 0.006,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Even More Parts \u2014 Tedd Arnold.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 177,
+      "words_b": 26797,
+      "jaccard": 0.006,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/Animalia \u2014 Graeme Base.md",
+      "words_a": 32155,
+      "words_b": 203,
+      "jaccard": 0.006,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mud \u2014 Mary Lyn Ray.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 119,
+      "words_b": 23947,
+      "jaccard": 0.005,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Toad \u2014 Ruth Brown.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 8.md",
+      "words_a": 120,
+      "words_b": 23644,
+      "jaccard": 0.005,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Never Take a Shark to the Dentist \u2014 Judi Barrett.md",
+      "b": "content/Vocabulary Course Jim/Vocabulary 10.md",
+      "words_a": 119,
+      "words_b": 19256,
+      "jaccard": 0.005,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Nocturne \u2014 Jane Yolen.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 7.md",
+      "words_a": 131,
+      "words_b": 24252,
+      "jaccard": 0.005,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 2.md",
+      "b": "content/Mentor Texts/Mud \u2014 Mary Lyn Ray.md",
+      "words_a": 25526,
+      "words_b": 119,
+      "jaccard": 0.005,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Cloud Dance \u2014 Thomas Locker.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 128,
+      "words_b": 23947,
+      "jaccard": 0.005,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Nocturne \u2014 Jane Yolen.md",
+      "words_a": 27979,
+      "words_b": 131,
+      "jaccard": 0.004,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Yo! Yes! \u2014 Chris Raschka.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 4.md",
+      "words_a": 39,
+      "words_b": 10103,
+      "jaccard": 0.003,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/Mouse Chase \u2014 Vivian Sathre.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 8.md",
+      "words_a": 82,
+      "words_b": 23644,
+      "jaccard": 0.003,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING2 Jim.md",
+      "b": "content/Mentor Texts/Yo! Yes! \u2014 Chris Raschka.md",
+      "words_a": 15959,
+      "words_b": 39,
+      "jaccard": 0.002,
+      "containment": 1.0
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/Antics \u2014 Cathi Hepworth.md",
+      "words_a": 32155,
+      "words_b": 79,
+      "jaccard": 0.002,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/In the Small, Small Pond \u2014 Denise Fleming.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 71,
+      "words_b": 26797,
+      "jaccard": 0.002,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The Old Woman Who Named Things \u2014 Cynthia Rylant.md",
+      "b": "content/Reading/Comprehension Strategies/Questioning    1-49.md",
+      "words_a": 8,
+      "words_b": 1376,
+      "jaccard": 0.001,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The Old Woman Who Named Things \u2014 Cynthia Rylant.md",
+      "b": "content/Writing/character study narratives.md",
+      "words_a": 8,
+      "words_b": 5375,
+      "jaccard": 0.0,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Author Studies Jim/Cynthia Rylant.md",
+      "b": "content/Mentor Texts/The Old Woman Who Named Things \u2014 Cynthia Rylant.md",
+      "words_a": 8857,
+      "words_b": 8,
+      "jaccard": 0.0,
+      "containment": 1.0
+    },
+    {
+      "a": "content/Mentor Texts/The Sign of the Seahorse \u2014 Graeme Base.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 5246,
+      "words_b": 26062,
+      "jaccard": 0.203,
+      "containment": 0.999
+    },
+    {
+      "a": "content/Author Studies Jim/Eve Bunting.md",
+      "b": "content/Mentor Texts/Homeless \u2014 Anna Quindlen.md",
+      "words_a": 21219,
+      "words_b": 977,
+      "jaccard": 0.046,
+      "containment": 0.999
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Grandad's Prayers of the Earth \u2014 Douglas Wood.md",
+      "words_a": 41890,
+      "words_b": 1023,
+      "jaccard": 0.024,
+      "containment": 0.999
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/The Name Jar \u2014 Yangsook Choi.md",
+      "words_a": 25487,
+      "words_b": 2126,
+      "jaccard": 0.085,
+      "containment": 0.998
+    },
+    {
+      "a": "content/Mentor Texts/The Name Jar \u2014 Yangsook Choi.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 2.md",
+      "words_a": 2126,
+      "words_b": 26944,
+      "jaccard": 0.08,
+      "containment": 0.998
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING3 Jim.md",
+      "b": "content/Mentor Texts/Eaglet's World \u2014 Evelyn Minshull.md",
+      "words_a": 22933,
+      "words_b": 616,
+      "jaccard": 0.028,
+      "containment": 0.998
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Eaglet's World \u2014 Evelyn Minshull.md",
+      "words_a": 27979,
+      "words_b": 616,
+      "jaccard": 0.022,
+      "containment": 0.998
+    },
+    {
+      "a": "content/Mentor Texts/Chrysanthemum \u2014 Kevin Henkes.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 7.md",
+      "words_a": 1158,
+      "words_b": 16674,
+      "jaccard": 0.068,
+      "containment": 0.997
+    },
+    {
+      "a": "content/Mentor Texts/Old Tortoise \u2014 Madeleine Comora.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 1375,
+      "words_b": 23888,
+      "jaccard": 0.06,
+      "containment": 0.997
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING 1 Jim.md",
+      "b": "content/Mentor Texts/Mr Bear and the Bear \u2014 Frances Thomas.md",
+      "words_a": 20329,
+      "words_b": 882,
+      "jaccard": 0.045,
+      "containment": 0.997
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/Chrysanthemum \u2014 Kevin Henkes.md",
+      "words_a": 25487,
+      "words_b": 1158,
+      "jaccard": 0.044,
+      "containment": 0.997
+    },
+    {
+      "a": "content/Mentor Texts/The Story of Jumping Mouse \u2014 John Steptoe.md",
+      "b": "content/Reading/Comprehension Strategies/Synthesisng  1-34.md",
+      "words_a": 1807,
+      "words_b": 7166,
+      "jaccard": 0.255,
+      "containment": 0.996
+    },
+    {
+      "a": "content/Author Studies Jim/William Steig.md",
+      "b": "content/Mentor Texts/Solomon the Rusty Nail \u2014 William Steig.md",
+      "words_a": 9977,
+      "words_b": 1637,
+      "jaccard": 0.165,
+      "containment": 0.996
+    },
+    {
+      "a": "content/Mentor Texts/Solomon the Rusty Nail \u2014 William Steig.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 8.md",
+      "words_a": 1637,
+      "words_b": 23644,
+      "jaccard": 0.073,
+      "containment": 0.996
+    },
+    {
+      "a": "content/Author Studies Jim/Cynthia Rylant.md",
+      "b": "content/Mentor Texts/Birthday Presents \u2014 Cynthia Rylant.md",
+      "words_a": 8857,
+      "words_b": 470,
+      "jaccard": 0.053,
+      "containment": 0.996
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/Solomon the Rusty Nail \u2014 William Steig.md",
+      "words_a": 32155,
+      "words_b": 1637,
+      "jaccard": 0.052,
+      "containment": 0.996
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/Nana Upstairs and Nana Downstairs \u2014 Tomie dePaola.md",
+      "words_a": 25487,
+      "words_b": 730,
+      "jaccard": 0.029,
+      "containment": 0.996
+    },
+    {
+      "a": "content/Genres/Folktales/Folktales - Fables     1-23.md",
+      "b": "content/Mentor Texts/More Than a Match \u2014 Aaron Shepard.md",
+      "words_a": 7941,
+      "words_b": 1399,
+      "jaccard": 0.165,
+      "containment": 0.995
+    },
+    {
+      "a": "content/Genres/Folktales/Folktales - Fables     1-23.md",
+      "b": "content/Mentor Texts/The Millionaire Miser \u2014 Aaron Shepard.md",
+      "words_a": 7941,
+      "words_b": 1046,
+      "jaccard": 0.131,
+      "containment": 0.995
+    },
+    {
+      "a": "content/Mentor Texts/The Odious Ogre \u2014 Norton Juster.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 6.md",
+      "words_a": 1710,
+      "words_b": 15331,
+      "jaccard": 0.111,
+      "containment": 0.995
+    },
+    {
+      "a": "content/Mentor Texts/Crickwing \u2014 Janell Cannon.md",
+      "b": "content/Mentor Texts/Mentor texts 3.md",
+      "words_a": 1602,
+      "words_b": 16208,
+      "jaccard": 0.098,
+      "containment": 0.995
+    },
+    {
+      "a": "content/Mentor Texts/Amber on the Mountain \u2014 Tony Johnston.md",
+      "b": "content/Mentor Texts/Mentor texts 3.md",
+      "words_a": 1184,
+      "words_b": 16208,
+      "jaccard": 0.072,
+      "containment": 0.995
+    },
+    {
+      "a": "content/Mentor Texts/The Boy Who Loved Words \u2014 Roni Schotter.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 2.md",
+      "words_a": 1419,
+      "words_b": 25178,
+      "jaccard": 0.057,
+      "containment": 0.995
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Malala's Speech to the United Nations \u2014 Malala Yousafzai.md",
+      "words_a": 27979,
+      "words_b": 1578,
+      "jaccard": 0.057,
+      "containment": 0.995
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/The Boy Who Loved Words \u2014 Roni Schotter.md",
+      "words_a": 25487,
+      "words_b": 1419,
+      "jaccard": 0.057,
+      "containment": 0.995
+    },
+    {
+      "a": "content/Mentor Texts/Amber on the Mountain \u2014 Tony Johnston.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 1184,
+      "words_b": 23888,
+      "jaccard": 0.051,
+      "containment": 0.995
+    },
+    {
+      "a": "content/Mentor Texts/Cloudy with a Chance of Meatballs \u2014 Judi Barrett.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 2.md",
+      "words_a": 1281,
+      "words_b": 25178,
+      "jaccard": 0.051,
+      "containment": 0.995
+    },
+    {
+      "a": "content/Mentor Texts/One Tiny Turtle \u2014 Nicola Davies.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 917,
+      "words_b": 23888,
+      "jaccard": 0.04,
+      "containment": 0.995
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/Cloudy with a Chance of Meatballs \u2014 Judi Barrett.md",
+      "words_a": 32155,
+      "words_b": 1281,
+      "jaccard": 0.04,
+      "containment": 0.995
+    },
+    {
+      "a": "content/Mentor Texts/Chrysanthemum \u2014 Kevin Henkes.md",
+      "b": "content/Mentor Texts/Mentor texts 1.md",
+      "words_a": 1158,
+      "words_b": 36208,
+      "jaccard": 0.031,
+      "containment": 0.995
+    },
+    {
+      "a": "content/Mentor Texts/Atlantic \u2014 G. Brian Karas.md",
+      "b": "content/Vocabulary Course Jim/Vocabulary 10.md",
+      "words_a": 381,
+      "words_b": 19256,
+      "jaccard": 0.02,
+      "containment": 0.995
+    },
+    {
+      "a": "content/Genres/Folktales/Folktales - Fables     1-23.md",
+      "b": "content/Mentor Texts/Peddler Polly and the Story Stealer \u2014 Aaron Shepard.md",
+      "words_a": 7941,
+      "words_b": 1431,
+      "jaccard": 0.182,
+      "containment": 0.994
+    },
+    {
+      "a": "content/Genres/Folktales/Folktales - Fables     1-23.md",
+      "b": "content/Mentor Texts/When the Twins Went to War \u2014 Aaron Shepard.md",
+      "words_a": 7941,
+      "words_b": 1261,
+      "jaccard": 0.16,
+      "containment": 0.994
+    },
+    {
+      "a": "content/Mentor Texts/Why Mosquitoes Buzz in People\u2019s Ears \u2014 Verna Aardema.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 5.md",
+      "words_a": 1265,
+      "words_b": 21173,
+      "jaccard": 0.054,
+      "containment": 0.994
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 2.md",
+      "b": "content/Mentor Texts/Why Mosquitoes Buzz in People\u2019s Ears \u2014 Verna Aardema.md",
+      "words_a": 25526,
+      "words_b": 1265,
+      "jaccard": 0.052,
+      "containment": 0.994
+    },
+    {
+      "a": "content/Mentor Texts/Why Mosquitoes Buzz in People\u2019s Ears \u2014 Verna Aardema.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 1265,
+      "words_b": 23888,
+      "jaccard": 0.049,
+      "containment": 0.994
+    },
+    {
+      "a": "content/Mentor Texts/Why Mosquitoes Buzz in People\u2019s Ears \u2014 Verna Aardema.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 2.md",
+      "words_a": 1265,
+      "words_b": 26944,
+      "jaccard": 0.042,
+      "containment": 0.994
+    },
+    {
+      "a": "content/Mentor Texts/Pig, Pigger, Piggest \u2014 Rick Walton.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 893,
+      "words_b": 26062,
+      "jaccard": 0.032,
+      "containment": 0.994
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing3.md",
+      "b": "content/Mentor Texts/The Pencil \u2014 Allan Ahlberg.md",
+      "words_a": 13291,
+      "words_b": 339,
+      "jaccard": 0.024,
+      "containment": 0.994
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Barefoot \u2014 Pamela Duncan Edwards.md",
+      "words_a": 41890,
+      "words_b": 711,
+      "jaccard": 0.017,
+      "containment": 0.994
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/The Condor's Egg \u2014 Jonathan London.md",
+      "words_a": 27979,
+      "words_b": 360,
+      "jaccard": 0.013,
+      "containment": 0.994
+    },
+    {
+      "a": "content/Genres/Folktales/Folktales - Fables     1-23.md",
+      "b": "content/Mentor Texts/Nonny and the Dragon \u2014 Aaron Shepard.md",
+      "words_a": 7941,
+      "words_b": 949,
+      "jaccard": 0.117,
+      "containment": 0.993
+    },
+    {
+      "a": "content/Mentor Texts/The Girl on the High-Diving Horse \u2014 Linda Oatman High.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 1039,
+      "words_b": 26797,
+      "jaccard": 0.038,
+      "containment": 0.993
+    },
+    {
+      "a": "content/Mentor Texts/Atlantic companion facts \u2014 oceans.md",
+      "b": "content/Vocabulary Course Jim/Vocabulary 10.md",
+      "words_a": 870,
+      "words_b": 19256,
+      "jaccard": 0.046,
+      "containment": 0.992
+    },
+    {
+      "a": "content/Mentor Texts/Detective Web \u2014 Cock-a-doodle-doo \u2014 mystery story.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 935,
+      "words_b": 23888,
+      "jaccard": 0.04,
+      "containment": 0.992
+    },
+    {
+      "a": "content/Mentor Texts/Tessa\u2019s Tip-Tapping Toes \u2014 Carolyn Crimi.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 8.md",
+      "words_a": 792,
+      "words_b": 23644,
+      "jaccard": 0.035,
+      "containment": 0.992
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing3.md",
+      "b": "content/Mentor Texts/Poems \u2014 Barbara Esbensen.md",
+      "words_a": 13291,
+      "words_b": 379,
+      "jaccard": 0.028,
+      "containment": 0.992
+    },
+    {
+      "a": "content/Mentor Texts/Gentle Giant Octopus \u2014 Karen Wallace.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 634,
+      "words_b": 23888,
+      "jaccard": 0.027,
+      "containment": 0.992
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/Hooway for Wodney Wat \u2014 Helen Lester.md",
+      "words_a": 32155,
+      "words_b": 805,
+      "jaccard": 0.025,
+      "containment": 0.992
+    },
+    {
+      "a": "content/Mentor Texts/Romulus and Remus \u2014 myth retelling.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 7.md",
+      "words_a": 528,
+      "words_b": 24252,
+      "jaccard": 0.022,
+      "containment": 0.992
+    },
+    {
+      "a": "content/Mentor Texts/Gentle Giant Octopus \u2014 Karen Wallace.md",
+      "b": "content/Reading/INQUIRY BASED APPROACH.md",
+      "words_a": 634,
+      "words_b": 29980,
+      "jaccard": 0.021,
+      "containment": 0.992
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/My Father's Hands \u2014 Joanne Ryder.md",
+      "words_a": 25487,
+      "words_b": 273,
+      "jaccard": 0.011,
+      "containment": 0.992
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/My Father's Hands \u2014 Joanne Ryder.md",
+      "words_a": 27979,
+      "words_b": 273,
+      "jaccard": 0.01,
+      "containment": 0.992
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 1.md",
+      "b": "content/Mentor Texts/My Father's Hands \u2014 Joanne Ryder.md",
+      "words_a": 36208,
+      "words_b": 273,
+      "jaccard": 0.007,
+      "containment": 0.992
+    },
+    {
+      "a": "content/Mentor Texts/Animals Should Definitely Not Wear Clothing \u2014 Judi Barrett.md",
+      "b": "content/Vocabulary Course Jim/Vocabulary 10.md",
+      "words_a": 139,
+      "words_b": 19256,
+      "jaccard": 0.007,
+      "containment": 0.992
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING3 Jim.md",
+      "b": "content/Mentor Texts/The Blind Men and the Elephant \u2014 Donelle Blubaugh.md",
+      "words_a": 22933,
+      "words_b": 858,
+      "jaccard": 0.038,
+      "containment": 0.991
+    },
+    {
+      "a": "content/Mentor Texts/Big Words for Little People \u2014 Jamie Lee Curtis.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 2.md",
+      "words_a": 820,
+      "words_b": 25178,
+      "jaccard": 0.033,
+      "containment": 0.991
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/Which Witch is Which \u2014 Judi Barrett.md",
+      "words_a": 32155,
+      "words_b": 475,
+      "jaccard": 0.015,
+      "containment": 0.991
+    },
+    {
+      "a": "content/Mentor Texts/Piggins \u2014 Jane Yolen.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 5.md",
+      "words_a": 1629,
+      "words_b": 21173,
+      "jaccard": 0.077,
+      "containment": 0.99
+    },
+    {
+      "a": "content/Mentor Texts/The Worrywarts \u2014 Pamela Duncan Edwards.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 3.md",
+      "words_a": 823,
+      "words_b": 18345,
+      "jaccard": 0.049,
+      "containment": 0.99
+    },
+    {
+      "a": "content/Author Studies Jim/Patricia Polacco 3.md",
+      "b": "content/Mentor Texts/Mrs Katz and Tush \u2014 Patricia Polacco.md",
+      "words_a": 32729,
+      "words_b": 1577,
+      "jaccard": 0.048,
+      "containment": 0.99
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 3.md",
+      "b": "content/Mentor Texts/Sylvester and the Magic Pebble \u2014 William Steig.md",
+      "words_a": 16208,
+      "words_b": 1446,
+      "jaccard": 0.088,
+      "containment": 0.989
+    },
+    {
+      "a": "content/Mentor Texts/The Secret Shortcut \u2014 Mark Teague.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 4.md",
+      "words_a": 759,
+      "words_b": 10103,
+      "jaccard": 0.075,
+      "containment": 0.989
+    },
+    {
+      "a": "content/Genres/Folktales/Folktales - Fables     1-23.md",
+      "b": "content/Mentor Texts/Earth Shake! House Break! \u2014 Aaron Shepard.md",
+      "words_a": 7941,
+      "words_b": 549,
+      "jaccard": 0.068,
+      "containment": 0.989
+    },
+    {
+      "a": "content/Mentor Texts/Sylvester and the Magic Pebble \u2014 William Steig.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 1446,
+      "words_b": 26062,
+      "jaccard": 0.055,
+      "containment": 0.989
+    },
+    {
+      "a": "content/Mentor Texts/Dream Snow \u2014 Eric Carle.md",
+      "b": "content/Reading/Comprehension Strategies/Synthesisng  1-34.md",
+      "words_a": 378,
+      "words_b": 7166,
+      "jaccard": 0.052,
+      "containment": 0.989
+    },
+    {
+      "a": "content/Mentor Texts/The Little Old Lady Who Was Not Afraid of Anything \u2014 Linda Williams.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 10.md",
+      "words_a": 757,
+      "words_b": 14601,
+      "jaccard": 0.045,
+      "containment": 0.989
+    },
+    {
+      "a": "content/Author Studies Jim/Margie Palatini.md",
+      "b": "content/Mentor Texts/Detective Web \u2014 Cock-a-doodle-doo \u2014 mystery story.md",
+      "words_a": 27165,
+      "words_b": 935,
+      "jaccard": 0.035,
+      "containment": 0.989
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 2.md",
+      "b": "content/Mentor Texts/The Little Old Lady Who Was Not Afraid of Anything \u2014 Linda Williams.md",
+      "words_a": 25526,
+      "words_b": 757,
+      "jaccard": 0.028,
+      "containment": 0.989
+    },
+    {
+      "a": "content/Mentor Texts/The Little Old Lady Who Was Not Afraid of Anything \u2014 Linda Williams.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 757,
+      "words_b": 23888,
+      "jaccard": 0.027,
+      "containment": 0.989
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/The Fantastic Flying Books of Mr Morris Lessmore \u2014 William Joyce.md",
+      "words_a": 27979,
+      "words_b": 752,
+      "jaccard": 0.027,
+      "containment": 0.989
+    },
+    {
+      "a": "content/Author Studies Jim/Tony Johnston.md",
+      "b": "content/Mentor Texts/Amber on the Mountain \u2014 Tony Johnston.md",
+      "words_a": 16587,
+      "words_b": 1184,
+      "jaccard": 0.074,
+      "containment": 0.988
+    },
+    {
+      "a": "content/Mentor Texts/The War Between the Vowels and the Consonants \u2014 Priscilla Turner.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 600,
+      "words_b": 26062,
+      "jaccard": 0.023,
+      "containment": 0.988
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/My Name \u2014 Sandra Cisneros.md",
+      "words_a": 25487,
+      "words_b": 349,
+      "jaccard": 0.014,
+      "containment": 0.988
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 1.md",
+      "b": "content/Mentor Texts/My Name \u2014 Sandra Cisneros.md",
+      "words_a": 36208,
+      "words_b": 349,
+      "jaccard": 0.01,
+      "containment": 0.988
+    },
+    {
+      "a": "content/Mentor Texts/Writing Lessons \u2014 Charlotte Zolotow.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 171,
+      "words_b": 17868,
+      "jaccard": 0.009,
+      "containment": 0.988
+    },
+    {
+      "a": "content/Genres/Folktales/Folktales - Fables     1-23.md",
+      "b": "content/Mentor Texts/Heron and the Hummingbird \u2014 S. E. Schlosser.md",
+      "words_a": 7941,
+      "words_b": 559,
+      "jaccard": 0.07,
+      "containment": 0.987
+    },
+    {
+      "a": "content/Author Studies Jim/Kate DiCamillo.md",
+      "b": "content/Mentor Texts/Your Mama \u2014 author unknown.md",
+      "words_a": 4416,
+      "words_b": 230,
+      "jaccard": 0.052,
+      "containment": 0.987
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/The Adventures of Taxi Dog \u2014 Debra and Sal Barracca.md",
+      "words_a": 32155,
+      "words_b": 548,
+      "jaccard": 0.017,
+      "containment": 0.987
+    },
+    {
+      "a": "content/Mentor Texts/Your Mama \u2014 author unknown.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 8.md",
+      "words_a": 230,
+      "words_b": 23644,
+      "jaccard": 0.01,
+      "containment": 0.987
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING8 Jim.md",
+      "b": "content/Mentor Texts/The Trouble with Tusks \u2014 Bryan Walsh (TIME).md",
+      "words_a": 9632,
+      "words_b": 451,
+      "jaccard": 0.048,
+      "containment": 0.986
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/Wilfred Gordon McDonald Partridge \u2014 Mem Fox.md",
+      "words_a": 25487,
+      "words_b": 1041,
+      "jaccard": 0.041,
+      "containment": 0.986
+    },
+    {
+      "a": "content/Mentor Texts/Up North at the Cabin \u2014 Marsha Chall.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 575,
+      "words_b": 23888,
+      "jaccard": 0.024,
+      "containment": 0.986
+    },
+    {
+      "a": "content/Mentor Texts/Two Bad Ants \u2014 Chris Van Allsburg.md",
+      "b": "content/Writing Voice/Writing - Voice 5.md",
+      "words_a": 1153,
+      "words_b": 16101,
+      "jaccard": 0.071,
+      "containment": 0.984
+    },
+    {
+      "a": "content/Mentor Texts/Nothing to Do \u2014 Douglas Wood.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 7.md",
+      "words_a": 506,
+      "words_b": 24252,
+      "jaccard": 0.021,
+      "containment": 0.984
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/Nothing to Do \u2014 Douglas Wood.md",
+      "words_a": 32155,
+      "words_b": 506,
+      "jaccard": 0.016,
+      "containment": 0.984
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/I Saw an Ant in a Parking Lot \u2014 Joshua Prince.md",
+      "words_a": 32155,
+      "words_b": 421,
+      "jaccard": 0.013,
+      "containment": 0.983
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING3 Jim.md",
+      "b": "content/Mentor Texts/School poems \u2014 Eve Merriam.md",
+      "words_a": 22933,
+      "words_b": 237,
+      "jaccard": 0.01,
+      "containment": 0.983
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/Hairs \u2014 Sandra Cisneros.md",
+      "words_a": 25487,
+      "words_b": 180,
+      "jaccard": 0.007,
+      "containment": 0.983
+    },
+    {
+      "a": "content/Mentor Texts/Wilfred Gordon McDonald Partridge \u2014 Mem Fox.md",
+      "b": "content/Writing/Writing - Writer's Notebook.md",
+      "words_a": 1041,
+      "words_b": 23902,
+      "jaccard": 0.044,
+      "containment": 0.982
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/Too Many Tamales \u2014 Gary Soto.md",
+      "words_a": 25487,
+      "words_b": 1042,
+      "jaccard": 0.041,
+      "containment": 0.982
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/Beach \u2014 Elisha Cooper.md",
+      "words_a": 25487,
+      "words_b": 910,
+      "jaccard": 0.036,
+      "containment": 0.982
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING3 Jim.md",
+      "b": "content/Mentor Texts/The Elephant and the Blind Men \u2014 fable.md",
+      "words_a": 22933,
+      "words_b": 390,
+      "jaccard": 0.017,
+      "containment": 0.982
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/I Saw an Ant on the Railroad Track \u2014 Joshua Prince.md",
+      "words_a": 32155,
+      "words_b": 405,
+      "jaccard": 0.012,
+      "containment": 0.982
+    },
+    {
+      "a": "content/Mentor Texts/My Mama Had a Dancing Heart \u2014 Libba Moore Gray.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 441,
+      "words_b": 23947,
+      "jaccard": 0.018,
+      "containment": 0.981
+    },
+    {
+      "a": "content/Mentor Texts/My Mama Had a Dancing Heart \u2014 Libba Moore Gray.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 441,
+      "words_b": 26797,
+      "jaccard": 0.015,
+      "containment": 0.981
+    },
+    {
+      "a": "content/Mentor Texts/Bad Boys \u2014 Margie Palatini.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 10.md",
+      "words_a": 1242,
+      "words_b": 14601,
+      "jaccard": 0.087,
+      "containment": 0.98
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days.md",
+      "b": "content/Mentor Texts/Granddaddy\u2019s Gift \u2014 Margaree Mitchell.md",
+      "words_a": 26710,
+      "words_b": 1237,
+      "jaccard": 0.049,
+      "containment": 0.98
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Bat Loves the Night \u2014 Nicola Davies.md",
+      "words_a": 27979,
+      "words_b": 699,
+      "jaccard": 0.025,
+      "containment": 0.98
+    },
+    {
+      "a": "content/Author Studies Jim/Leo Lionni.md",
+      "b": "content/Mentor Texts/The Alphabet Tree \u2014 Leo Lionni.md",
+      "words_a": 29585,
+      "words_b": 412,
+      "jaccard": 0.016,
+      "containment": 0.98
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/While the World is Sleeping \u2014 Pamela Duncan Edwards.md",
+      "words_a": 32155,
+      "words_b": 357,
+      "jaccard": 0.011,
+      "containment": 0.98
+    },
+    {
+      "a": "content/Reading/INQUIRY BASED APPROACH.md",
+      "b": "content/Reading/Nonfiction.md",
+      "words_a": 29980,
+      "words_b": 3060,
+      "jaccard": 0.102,
+      "containment": 0.979
+    },
+    {
+      "a": "content/Genres/Folktales/Folktales - Fables     1-23.md",
+      "b": "content/Mentor Texts/The Hare and the Tortoise \u2014 Aesop.md",
+      "words_a": 7941,
+      "words_b": 294,
+      "jaccard": 0.036,
+      "containment": 0.979
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 1.md",
+      "b": "content/Mentor Texts/Wilfred Gordon McDonald Partridge \u2014 Mem Fox.md",
+      "words_a": 36208,
+      "words_b": 1041,
+      "jaccard": 0.028,
+      "containment": 0.979
+    },
+    {
+      "a": "content/Mentor Texts/Silver Seeds \u2014 nature acrostics \u2014 Paul Paolilli.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 297,
+      "words_b": 26062,
+      "jaccard": 0.011,
+      "containment": 0.979
+    },
+    {
+      "a": "content/Mentor Texts/Black Cat \u2014 Christopher Myers.md",
+      "b": "content/Vocabulary Course Jim/Vocabulary 10.md",
+      "words_a": 420,
+      "words_b": 19256,
+      "jaccard": 0.017,
+      "containment": 0.978
+    },
+    {
+      "a": "content/Mentor Texts/Seeing the World \u2014 Nikki Grimes.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 144,
+      "words_b": 17868,
+      "jaccard": 0.008,
+      "containment": 0.978
+    },
+    {
+      "a": "content/Author Studies Jim/Janell Cannon.md",
+      "b": "content/Mentor Texts/Zipping, Zapping, Zooming Bats \u2014 Ann Earle.md",
+      "words_a": 18785,
+      "words_b": 621,
+      "jaccard": 0.033,
+      "containment": 0.977
+    },
+    {
+      "a": "content/Genres/Folktales/Folktales - Fables     1-23.md",
+      "b": "content/Mentor Texts/The Coyote and the Goat \u2014 fable.md",
+      "words_a": 7941,
+      "words_b": 263,
+      "jaccard": 0.032,
+      "containment": 0.977
+    },
+    {
+      "a": "content/Mentor Texts/We\u2019re Going on a Bear Hunt \u2014 Michael Rosen.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 464,
+      "words_b": 23888,
+      "jaccard": 0.013,
+      "containment": 0.976
+    },
+    {
+      "a": "content/Mentor Texts/Paint Me Like I Am \u2014 Nikki Giovanni.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 218,
+      "words_b": 17868,
+      "jaccard": 0.012,
+      "containment": 0.976
+    },
+    {
+      "a": "content/Mentor Texts/Noise Day \u2014 author unknown.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 133,
+      "words_b": 17868,
+      "jaccard": 0.007,
+      "containment": 0.976
+    },
+    {
+      "a": "content/Mentor Texts/Pig, Pigger, Piggest \u2014 Rick Walton.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 2.md",
+      "words_a": 893,
+      "words_b": 26944,
+      "jaccard": 0.031,
+      "containment": 0.975
+    },
+    {
+      "a": "content/Mentor Texts/The Blind Men and the Elephant \u2014 Donelle Blubaugh.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 5.md",
+      "words_a": 858,
+      "words_b": 21173,
+      "jaccard": 0.04,
+      "containment": 0.974
+    },
+    {
+      "a": "content/Mentor Texts/Birthday Presents \u2014 Cynthia Rylant.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 470,
+      "words_b": 23947,
+      "jaccard": 0.02,
+      "containment": 0.974
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/My Name Is Yoon \u2014 Helen Recorvits.md",
+      "words_a": 25487,
+      "words_b": 869,
+      "jaccard": 0.034,
+      "containment": 0.973
+    },
+    {
+      "a": "content/Mentor Texts/The Very Hungry Caterpillar \u2014 Eric Carle.md",
+      "b": "content/Reading/Comprehension Strategies/Synthesisng  1-34.md",
+      "words_a": 231,
+      "words_b": 7166,
+      "jaccard": 0.031,
+      "containment": 0.973
+    },
+    {
+      "a": "content/Mentor Texts/Mrs Katz and Tush \u2014 Patricia Polacco.md",
+      "b": "content/Mentor Texts/Reading Like Writers 2 Supplement.md",
+      "words_a": 1577,
+      "words_b": 5997,
+      "jaccard": 0.253,
+      "containment": 0.972
+    },
+    {
+      "a": "content/Mentor Texts/Bunny Cakes \u2014 Rosemary Wells.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 153,
+      "words_b": 26797,
+      "jaccard": 0.005,
+      "containment": 0.972
+    },
+    {
+      "a": "content/Mentor Texts/John Henry \u2014 Julius Lester.md",
+      "b": "content/Mentor Texts/Reading Like Writers 2 Supplement.md",
+      "words_a": 2155,
+      "words_b": 5997,
+      "jaccard": 0.343,
+      "containment": 0.971
+    },
+    {
+      "a": "content/Mentor Texts/A Color of His Own \u2014 Leo Lionni.md",
+      "b": "content/Reading/Comprehension Strategies/Synthesisng  1-34.md",
+      "words_a": 246,
+      "words_b": 7166,
+      "jaccard": 0.033,
+      "containment": 0.971
+    },
+    {
+      "a": "content/Mentor Texts/The Relatives Came \u2014 Cynthia Rylant.md",
+      "b": "content/Writing/Craft/Reading Like Writers/Reading Like Writers  1-85.md",
+      "words_a": 528,
+      "words_b": 20272,
+      "jaccard": 0.026,
+      "containment": 0.971
+    },
+    {
+      "a": "content/Mentor Texts/School Day \u2014 Liz Rosenberg.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 77,
+      "words_b": 17868,
+      "jaccard": 0.004,
+      "containment": 0.971
+    },
+    {
+      "a": "content/Mentor Texts/A Rumble \u2014 Shel Silverstein.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 75,
+      "words_b": 17868,
+      "jaccard": 0.004,
+      "containment": 0.971
+    },
+    {
+      "a": "content/Mentor Texts/Goodnight Goon \u2014 Michael Rex.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 139,
+      "words_b": 17868,
+      "jaccard": 0.007,
+      "containment": 0.97
+    },
+    {
+      "a": "content/Mentor Texts/Mentor Texts - Accompanying Reading Like Writers.md",
+      "b": "content/Mentor Texts/Shortcut \u2014 Donald Crews.md",
+      "words_a": 14303,
+      "words_b": 266,
+      "jaccard": 0.018,
+      "containment": 0.969
+    },
+    {
+      "a": "content/Author Studies Jim/Janell Cannon.md",
+      "b": "content/Mentor Texts/Bat Loves the Night \u2014 Nicola Davies.md",
+      "words_a": 18785,
+      "words_b": 699,
+      "jaccard": 0.037,
+      "containment": 0.968
+    },
+    {
+      "a": "content/Mentor Texts/Bat Loves the Night \u2014 Nicola Davies.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 5.md",
+      "words_a": 699,
+      "words_b": 23947,
+      "jaccard": 0.03,
+      "containment": 0.968
+    },
+    {
+      "a": "content/Mentor Texts/In the Tall, Tall Grass \u2014 Denise Fleming.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 75,
+      "words_b": 23888,
+      "jaccard": 0.003,
+      "containment": 0.968
+    },
+    {
+      "a": "content/Mentor Texts/Tight Times \u2014 Barbara Shook Hazen.md",
+      "b": "content/Reading/Comprehension Strategies/Inferring     1-78.md",
+      "words_a": 729,
+      "words_b": 15268,
+      "jaccard": 0.047,
+      "containment": 0.964
+    },
+    {
+      "a": "content/Writer's Notebook/Photos Writer's Notebook 3 Quick Writes.md",
+      "b": "content/Writer's Notebook/Writer's Notebook Contents.md",
+      "words_a": 260,
+      "words_b": 6297,
+      "jaccard": 0.041,
+      "containment": 0.964
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 3.md",
+      "b": "content/Mentor Texts/Night of the Gargoyles \u2014 Eve Bunting.md",
+      "words_a": 16208,
+      "words_b": 438,
+      "jaccard": 0.026,
+      "containment": 0.963
+    },
+    {
+      "a": "content/Author Studies Jim/Eve Bunting.md",
+      "b": "content/Mentor Texts/Night of the Gargoyles \u2014 Eve Bunting.md",
+      "words_a": 21219,
+      "words_b": 438,
+      "jaccard": 0.02,
+      "containment": 0.963
+    },
+    {
+      "a": "content/Mentor Texts/Things That Are the Most in the World \u2014 Judi Barrett.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 200,
+      "words_b": 26062,
+      "jaccard": 0.007,
+      "containment": 0.963
+    },
+    {
+      "a": "content/Mentor Texts/Grandfather Twilight \u2014 Barbara Berger.md",
+      "b": "content/Reading/QUESTIONING course 1.md",
+      "words_a": 115,
+      "words_b": 20071,
+      "jaccard": 0.005,
+      "containment": 0.963
+    },
+    {
+      "a": "content/Mentor Texts/The Girl \u2014 Marilyn Singer.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 111,
+      "words_b": 17868,
+      "jaccard": 0.006,
+      "containment": 0.962
+    },
+    {
+      "a": "content/Mentor Texts/This Place \u2014 Langston Hughes.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 59,
+      "words_b": 17868,
+      "jaccard": 0.003,
+      "containment": 0.962
+    },
+    {
+      "a": "content/Mentor Texts/Eaglet's World \u2014 Evelyn Minshull.md",
+      "b": "content/Writing/Conventions/Punctuation    1-16.md",
+      "words_a": 616,
+      "words_b": 2946,
+      "jaccard": 0.199,
+      "containment": 0.961
+    },
+    {
+      "a": "content/Mentor Texts/Hairy Maclary from Donaldson\u2019s Dairy \u2014 Lynley Dodd.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 1.md",
+      "words_a": 274,
+      "words_b": 10953,
+      "jaccard": 0.018,
+      "containment": 0.961
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/Hairy Maclary from Donaldson\u2019s Dairy \u2014 Lynley Dodd.md",
+      "words_a": 32155,
+      "words_b": 274,
+      "jaccard": 0.005,
+      "containment": 0.961
+    },
+    {
+      "a": "content/Mentor Texts/Things To Do Today \u2014 Nikki Giovanni.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 153,
+      "words_b": 17868,
+      "jaccard": 0.008,
+      "containment": 0.959
+    },
+    {
+      "a": "content/Author Studies Jim/William Steig.md",
+      "b": "content/Mentor Texts/Amos and Boris \u2014 William Steig.md",
+      "words_a": 9977,
+      "words_b": 1845,
+      "jaccard": 0.178,
+      "containment": 0.958
+    },
+    {
+      "a": "content/Mentor Texts/Amos and Boris \u2014 William Steig.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 1845,
+      "words_b": 26797,
+      "jaccard": 0.066,
+      "containment": 0.958
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING 2.md",
+      "b": "content/Mentor Texts/Amos and Boris \u2014 William Steig.md",
+      "words_a": 41890,
+      "words_b": 1845,
+      "jaccard": 0.042,
+      "containment": 0.958
+    },
+    {
+      "a": "content/Mentor Texts/Good Night Moon \u2014 Margaret Wise Brown.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 1.md",
+      "words_a": 142,
+      "words_b": 10953,
+      "jaccard": 0.013,
+      "containment": 0.956
+    },
+    {
+      "a": "content/Mentor Texts/Good Night Moon \u2014 Margaret Wise Brown.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 142,
+      "words_b": 17868,
+      "jaccard": 0.007,
+      "containment": 0.956
+    },
+    {
+      "a": "content/Mentor Texts/John Henry \u2014 Julius Lester.md",
+      "b": "content/Writing/Writer's Notebook   1-103.md",
+      "words_a": 2155,
+      "words_b": 23470,
+      "jaccard": 0.089,
+      "containment": 0.955
+    },
+    {
+      "a": "content/Mentor Texts/What is a Synonym \u2014 Brian Cleary.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 2.md",
+      "words_a": 276,
+      "words_b": 25178,
+      "jaccard": 0.01,
+      "containment": 0.955
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING8 Jim.md",
+      "b": "content/Mentor Texts/Why We Should Bring Passenger Pigeons Back from Extinction \u2014 Ben Novak (TFK).md",
+      "words_a": 9632,
+      "words_b": 202,
+      "jaccard": 0.02,
+      "containment": 0.954
+    },
+    {
+      "a": "content/Mentor Texts/Night in the Country \u2014 Cynthia Rylant.md",
+      "b": "content/Writing/Craft/Reading Like Writers/Reading Like Writers  1-85.md",
+      "words_a": 309,
+      "words_b": 20272,
+      "jaccard": 0.015,
+      "containment": 0.954
+    },
+    {
+      "a": "content/Mentor Texts/Slower Than the Rest \u2014 Cynthia Rylant.md",
+      "b": "content/Writing/Writer's Notebook   1-103.md",
+      "words_a": 1174,
+      "words_b": 23470,
+      "jaccard": 0.048,
+      "containment": 0.953
+    },
+    {
+      "a": "content/Mentor Texts/Canoe Days \u2014 Gary Paulsen.md",
+      "b": "content/Writing Voice/Writing - Voice 19.md",
+      "words_a": 384,
+      "words_b": 14204,
+      "jaccard": 0.027,
+      "containment": 0.952
+    },
+    {
+      "a": "content/Mentor Texts/Rain \u2014 Manya Stojic.md",
+      "b": "content/Writing/WEMBLEY PRIMARY SCHOOL 14-2.md",
+      "words_a": 330,
+      "words_b": 17485,
+      "jaccard": 0.019,
+      "containment": 0.95
+    },
+    {
+      "a": "content/Genres/Historical Fiction     1-32.md",
+      "b": "content/Mentor Texts/Barefoot \u2014 Pamela Duncan Edwards.md",
+      "words_a": 7342,
+      "words_b": 711,
+      "jaccard": 0.09,
+      "containment": 0.947
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Mentor Texts/Python \u2014 Christopher Cheng.md",
+      "words_a": 32155,
+      "words_b": 721,
+      "jaccard": 0.021,
+      "containment": 0.947
+    },
+    {
+      "a": "content/Mentor Texts/Encounter \u2014 Jane Yolen.md",
+      "b": "content/Reading/Comprehension Strategies/Inferring     1-78.md",
+      "words_a": 1347,
+      "words_b": 15268,
+      "jaccard": 0.085,
+      "containment": 0.946
+    },
+    {
+      "a": "content/Mentor Texts/Bat Loves the Night \u2014 Nicola Davies.md",
+      "b": "content/Reading/INQUIRY BASED APPROACH.md",
+      "words_a": 699,
+      "words_b": 29980,
+      "jaccard": 0.022,
+      "containment": 0.945
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/Time Somebody Told Me \u2014 Quantedius Hall.md",
+      "words_a": 25487,
+      "words_b": 116,
+      "jaccard": 0.004,
+      "containment": 0.945
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING3 Jim.md",
+      "b": "content/Mentor Texts/School poems \u2014 Kalli Dakos.md",
+      "words_a": 22933,
+      "words_b": 79,
+      "jaccard": 0.003,
+      "containment": 0.944
+    },
+    {
+      "a": "content/Mentor Texts/John Henry \u2014 Julius Lester.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 2155,
+      "words_b": 23888,
+      "jaccard": 0.088,
+      "containment": 0.943
+    },
+    {
+      "a": "content/Mentor Texts/In November \u2014 Cynthia Rylant.md",
+      "b": "content/Writing Voice/Writing - Voice 14.md",
+      "words_a": 319,
+      "words_b": 23811,
+      "jaccard": 0.013,
+      "containment": 0.942
+    },
+    {
+      "a": "content/Mentor Texts/The Father \u2014 Marilyn Singer.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 76,
+      "words_b": 17868,
+      "jaccard": 0.004,
+      "containment": 0.942
+    },
+    {
+      "a": "content/Genres/Memoir  1-85.md",
+      "b": "content/Mentor Texts/The Relatives Came \u2014 Cynthia Rylant.md",
+      "words_a": 21285,
+      "words_b": 528,
+      "jaccard": 0.024,
+      "containment": 0.941
+    },
+    {
+      "a": "content/Mentor Texts/The Lotus Seed \u2014 Sherry Garland.md",
+      "b": "content/Reading/QUESTIONING course 1.md",
+      "words_a": 474,
+      "words_b": 20071,
+      "jaccard": 0.023,
+      "containment": 0.938
+    },
+    {
+      "a": "content/Mentor Texts/Up North at the Cabin \u2014 Marsha Chall.md",
+      "b": "content/Writing Voice/Writing - Voice 10.md",
+      "words_a": 575,
+      "words_b": 22934,
+      "jaccard": 0.023,
+      "containment": 0.938
+    },
+    {
+      "a": "content/Author Studies Jim/Eric Carle.md",
+      "b": "content/Mentor Texts/The Very Hungry Caterpillar \u2014 Eric Carle.md",
+      "words_a": 18536,
+      "words_b": 231,
+      "jaccard": 0.012,
+      "containment": 0.938
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 2.md",
+      "b": "content/Mentor Texts/The Very Hungry Caterpillar \u2014 Eric Carle.md",
+      "words_a": 25526,
+      "words_b": 231,
+      "jaccard": 0.01,
+      "containment": 0.938
+    },
+    {
+      "a": "content/Author Studies Jim/Judith Viorst.md",
+      "b": "content/Mentor Texts/Alexander and the Terrible, Horrible, No Good, Very Bad Day \u2014 Judith Viorst.md",
+      "words_a": 24064,
+      "words_b": 780,
+      "jaccard": 0.03,
+      "containment": 0.937
+    },
+    {
+      "a": "content/Mentor Texts/Night in the Country \u2014 Cynthia Rylant.md",
+      "b": "content/Writing Voice/Writing - Voice 8.md",
+      "words_a": 309,
+      "words_b": 27862,
+      "jaccard": 0.01,
+      "containment": 0.937
+    },
+    {
+      "a": "content/Mentor Texts/The Peace of Wild Things \u2014 Wendell Berry.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 116,
+      "words_b": 17868,
+      "jaccard": 0.006,
+      "containment": 0.936
+    },
+    {
+      "a": "content/Mentor Texts/The Worrywarts \u2014 Pamela Duncan Edwards.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 7.md",
+      "words_a": 823,
+      "words_b": 16674,
+      "jaccard": 0.046,
+      "containment": 0.929
+    },
+    {
+      "a": "content/Genres/Information Report    1-32.md",
+      "b": "content/Mentor Texts/Gentle Giant Octopus \u2014 Karen Wallace.md",
+      "words_a": 8188,
+      "words_b": 634,
+      "jaccard": 0.071,
+      "containment": 0.927
+    },
+    {
+      "a": "content/Mentor Texts/My Name \u2014 Sandra Cisneros.md",
+      "b": "content/Writing/Writing - Writer's Notebook.md",
+      "words_a": 349,
+      "words_b": 23902,
+      "jaccard": 0.014,
+      "containment": 0.927
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing3.md",
+      "b": "content/Mentor Texts/Writing Lessons \u2014 Charlotte Zolotow.md",
+      "words_a": 13291,
+      "words_b": 171,
+      "jaccard": 0.012,
+      "containment": 0.927
+    },
+    {
+      "a": "content/Mentor Texts/My Name \u2014 Sandra Cisneros.md",
+      "b": "content/Reading/INQUIRY BASED APPROACH.md",
+      "words_a": 349,
+      "words_b": 29980,
+      "jaccard": 0.011,
+      "containment": 0.927
+    },
+    {
+      "a": "content/Genres/Biography    1-74.md",
+      "b": "content/Mentor Texts/Wilma Unlimited \u2014 Kathleen Krull.md",
+      "words_a": 20659,
+      "words_b": 1592,
+      "jaccard": 0.072,
+      "containment": 0.926
+    },
+    {
+      "a": "content/Mentor Texts/Hairs \u2014 Sandra Cisneros.md",
+      "b": "content/Mentor Texts/Mentor texts 1.md",
+      "words_a": 180,
+      "words_b": 36208,
+      "jaccard": 0.005,
+      "containment": 0.925
+    },
+    {
+      "a": "content/Mentor Texts/The Secret Place \u2014 Tomie dePaola.md",
+      "b": "content/Reading/Comprehension Strategies/Inferring     1-78.md",
+      "words_a": 73,
+      "words_b": 15268,
+      "jaccard": 0.004,
+      "containment": 0.924
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING 1 Jim.md",
+      "b": "content/Mentor Texts/The Secret Place \u2014 Tomie dePaola.md",
+      "words_a": 20329,
+      "words_b": 73,
+      "jaccard": 0.003,
+      "containment": 0.924
+    },
+    {
+      "a": "content/Genres/Poetry/Poetry - Part 4  (3 of 3)    1-78.md",
+      "b": "content/Mentor Texts/This Place \u2014 Langston Hughes.md",
+      "words_a": 14517,
+      "words_b": 59,
+      "jaccard": 0.003,
+      "containment": 0.923
+    },
+    {
+      "a": "content/Author Studies Jim/Mem Fox.md",
+      "b": "content/Reading/Critical Literacy/Critical Literacy  Stereotypes in Literature  1-41.md",
+      "words_a": 6159,
+      "words_b": 11957,
+      "jaccard": 0.439,
+      "containment": 0.922
+    },
+    {
+      "a": "content/Genres/Historical Fiction     1-32.md",
+      "b": "content/Mentor Texts/Dakota Dugout \u2014 Ann Turner.md",
+      "words_a": 7342,
+      "words_b": 427,
+      "jaccard": 0.053,
+      "containment": 0.921
+    },
+    {
+      "a": "content/Author Studies Jim/Eric Carle.md",
+      "b": "content/Mentor Texts/Dream Snow \u2014 Eric Carle.md",
+      "words_a": 18536,
+      "words_b": 378,
+      "jaccard": 0.019,
+      "containment": 0.921
+    },
+    {
+      "a": "content/Writer's Notebook/Thinking about genre - Writer's Notebook 20 Quick Writes.md",
+      "b": "content/Writer's Notebook/Writer's Notebook Contents.md",
+      "words_a": 4088,
+      "words_b": 6297,
+      "jaccard": 0.589,
+      "containment": 0.92
+    },
+    {
+      "a": "content/Author Studies Jim/Patricia Polacco 3.md",
+      "b": "content/Mentor Texts/My Ol\u2019 Man \u2014 Patricia Polacco.md",
+      "words_a": 32729,
+      "words_b": 2099,
+      "jaccard": 0.059,
+      "containment": 0.92
+    },
+    {
+      "a": "content/Mentor Texts/Owl Moon \u2014 Jane Yolen.md",
+      "b": "content/Writing Voice/Writing - Voice 1.md",
+      "words_a": 794,
+      "words_b": 13917,
+      "jaccard": 0.053,
+      "containment": 0.92
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/My Great-Aunt Arizona \u2014 Gloria Houston.md",
+      "words_a": 27979,
+      "words_b": 969,
+      "jaccard": 0.031,
+      "containment": 0.92
+    },
+    {
+      "a": "content/Mentor Texts/The Very Hungry Caterpillar \u2014 Eric Carle.md",
+      "b": "content/Writing/Craft/Reading Like Writers/Reading Like Writers  1-85.md",
+      "words_a": 231,
+      "words_b": 20272,
+      "jaccard": 0.011,
+      "containment": 0.92
+    },
+    {
+      "a": "content/Mentor Texts/The Pig \u2014 Marilyn Singer.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 57,
+      "words_b": 17868,
+      "jaccard": 0.003,
+      "containment": 0.92
+    },
+    {
+      "a": "content/Mentor Texts/Mentor Texts - Accompanying Reading Like Writers.md",
+      "b": "content/Mentor Texts/Up North at the Cabin \u2014 Marsha Chall.md",
+      "words_a": 14303,
+      "words_b": 575,
+      "jaccard": 0.036,
+      "containment": 0.919
+    },
+    {
+      "a": "content/Mentor Texts/Hairs \u2014 Sandra Cisneros.md",
+      "b": "content/Writing/Craft/Reading Like Writers/Reading Like Writers  1-85.md",
+      "words_a": 180,
+      "words_b": 20272,
+      "jaccard": 0.008,
+      "containment": 0.919
+    },
+    {
+      "a": "content/Mentor Texts/The Game \u2014 poem.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 44,
+      "words_b": 17868,
+      "jaccard": 0.002,
+      "containment": 0.919
+    },
+    {
+      "a": "content/Mentor Texts/Mentor Texts - Accompanying Reading Like Writers.md",
+      "b": "content/Mentor Texts/Puddles \u2014 Jonathan London.md",
+      "words_a": 14303,
+      "words_b": 374,
+      "jaccard": 0.023,
+      "containment": 0.918
+    },
+    {
+      "a": "content/Mentor Texts/Grandpa Never Lies \u2014 Ralph Fletcher.md",
+      "b": "content/Writing/Craft/Reading Like Writers/Reading Like Writers  1-85.md",
+      "words_a": 419,
+      "words_b": 20272,
+      "jaccard": 0.019,
+      "containment": 0.917
+    },
+    {
+      "a": "content/Mentor Texts/Seven Blind Mice \u2014 Ed Young.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 7.md",
+      "words_a": 280,
+      "words_b": 16674,
+      "jaccard": 0.016,
+      "containment": 0.916
+    },
+    {
+      "a": "content/Mentor Texts/Dream Weaver \u2014 Jonathan London.md",
+      "b": "content/Writing/Craft/Reading Like Writers/Reading Like Writers  1-85.md",
+      "words_a": 317,
+      "words_b": 20272,
+      "jaccard": 0.015,
+      "containment": 0.916
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 2.md",
+      "b": "content/Mentor Texts/Seven Blind Mice \u2014 Ed Young.md",
+      "words_a": 25526,
+      "words_b": 280,
+      "jaccard": 0.011,
+      "containment": 0.916
+    },
+    {
+      "a": "content/Mentor Texts/Mentor Texts - Accompanying Reading Like Writers.md",
+      "b": "content/Mentor Texts/Too Many Tamales \u2014 Gary Soto.md",
+      "words_a": 14303,
+      "words_b": 1042,
+      "jaccard": 0.066,
+      "containment": 0.915
+    },
+    {
+      "a": "content/Author Studies Jim/Cynthia Rylant.md",
+      "b": "content/Mentor Texts/Night in the Country \u2014 Cynthia Rylant.md",
+      "words_a": 8857,
+      "words_b": 309,
+      "jaccard": 0.032,
+      "containment": 0.911
+    },
+    {
+      "a": "content/Mentor Texts/Dogteam \u2014 Gary Paulsen.md",
+      "b": "content/Writing/Craft/Reading Like Writers/Reading Like Writers  1-85.md",
+      "words_a": 481,
+      "words_b": 20272,
+      "jaccard": 0.023,
+      "containment": 0.911
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Night in the Country \u2014 Cynthia Rylant.md",
+      "words_a": 27979,
+      "words_b": 309,
+      "jaccard": 0.01,
+      "containment": 0.911
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 1.md",
+      "b": "content/Mentor Texts/Night in the Country \u2014 Cynthia Rylant.md",
+      "words_a": 36208,
+      "words_b": 309,
+      "jaccard": 0.008,
+      "containment": 0.911
+    },
+    {
+      "a": "content/Mentor Texts/Mentor Texts - Accompanying Reading Like Writers.md",
+      "b": "content/Mentor Texts/Night Tree \u2014 Eve Bunting.md",
+      "words_a": 14303,
+      "words_b": 785,
+      "jaccard": 0.05,
+      "containment": 0.909
+    },
+    {
+      "a": "content/Mentor Texts/The Listening Walk \u2014 Paul Showers.md",
+      "b": "content/Writing/WEMBLEY PRIMARY SCHOOL 14-2.md",
+      "words_a": 780,
+      "words_b": 17485,
+      "jaccard": 0.043,
+      "containment": 0.908
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days.md",
+      "b": "content/Mentor Texts/The Paperboy \u2014 Dav Pilkey.md",
+      "words_a": 26710,
+      "words_b": 384,
+      "jaccard": 0.014,
+      "containment": 0.905
+    },
+    {
+      "a": "content/Genres/Memoir  1-85.md",
+      "b": "content/Mentor Texts/Hairs \u2014 Sandra Cisneros.md",
+      "words_a": 21285,
+      "words_b": 180,
+      "jaccard": 0.008,
+      "containment": 0.902
+    },
+    {
+      "a": "content/Mentor Texts/Author Study - Patricia Polacco.md",
+      "b": "content/Mentor Texts/Mrs Katz and Tush \u2014 Patricia Polacco.md",
+      "words_a": 10177,
+      "words_b": 1577,
+      "jaccard": 0.137,
+      "containment": 0.897
+    },
+    {
+      "a": "content/Author Studies Jim/Kevin Henkes.md",
+      "b": "content/Mentor Texts/Chrysanthemum \u2014 Kevin Henkes.md",
+      "words_a": 7649,
+      "words_b": 1158,
+      "jaccard": 0.131,
+      "containment": 0.895
+    },
+    {
+      "a": "content/Mentor Texts/Author Study - Patricia Polacco.md",
+      "b": "content/Mentor Texts/Babushka\u2019s Doll \u2014 Patricia Polacco.md",
+      "words_a": 10177,
+      "words_b": 805,
+      "jaccard": 0.07,
+      "containment": 0.895
+    },
+    {
+      "a": "content/Mentor Texts/Chrysanthemum \u2014 Kevin Henkes.md",
+      "b": "content/Writing/Writing - Writer's Notebook.md",
+      "words_a": 1158,
+      "words_b": 23902,
+      "jaccard": 0.043,
+      "containment": 0.895
+    },
+    {
+      "a": "content/Mentor Texts/Gentle Giant Octopus \u2014 Karen Wallace.md",
+      "b": "content/Writing Voice/Writing - Voice 14.md",
+      "words_a": 634,
+      "words_b": 23811,
+      "jaccard": 0.024,
+      "containment": 0.892
+    },
+    {
+      "a": "content/Genres/Explanation    1-39.md",
+      "b": "content/Genres/Procedural Texts/How to Talk to Your Cat.md",
+      "words_a": 9974,
+      "words_b": 2969,
+      "jaccard": 0.259,
+      "containment": 0.89
+    },
+    {
+      "a": "content/Genres/Information Report    1-32.md",
+      "b": "content/Reading/INQUIRY BASED APPROACH.md",
+      "words_a": 8188,
+      "words_b": 29980,
+      "jaccard": 0.238,
+      "containment": 0.887
+    },
+    {
+      "a": "content/Mentor Texts/Atlantic companion facts \u2014 oceans.md",
+      "b": "content/Writing Voice/Writing - Voice 16.md",
+      "words_a": 870,
+      "words_b": 14288,
+      "jaccard": 0.057,
+      "containment": 0.886
+    },
+    {
+      "a": "content/Mentor Texts/Don\u2019t Hold Me Back \u2014 Nikki Giovanni.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 1.md",
+      "words_a": 67,
+      "words_b": 17868,
+      "jaccard": 0.003,
+      "containment": 0.883
+    },
+    {
+      "a": "content/Author Studies Jim/Eileen Spinelli.md",
+      "b": "content/Mentor Texts/I Like Noisy, Mum Likes Quiet \u2014 Eileen Spinelli.md",
+      "words_a": 22668,
+      "words_b": 355,
+      "jaccard": 0.014,
+      "containment": 0.882
+    },
+    {
+      "a": "content/Mentor Texts/The Condor's Egg \u2014 Jonathan London.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 7.md",
+      "words_a": 360,
+      "words_b": 24252,
+      "jaccard": 0.013,
+      "containment": 0.881
+    },
+    {
+      "a": "content/Mentor Texts/Faithful Elephants \u2014 Yukio Tsuchiya.md",
+      "b": "content/Mentor Texts/Mentor Texts - Accompanying Reading Like Writers.md",
+      "words_a": 1107,
+      "words_b": 14303,
+      "jaccard": 0.068,
+      "containment": 0.88
+    },
+    {
+      "a": "content/Mentor Texts/We\u2019re Going on a Bear Hunt \u2014 Michael Rosen.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 9.md",
+      "words_a": 464,
+      "words_b": 17769,
+      "jaccard": 0.015,
+      "containment": 0.878
+    },
+    {
+      "a": "content/Mentor Texts/One Tiny Turtle \u2014 Nicola Davies.md",
+      "b": "content/Writing Voice/Writing - Voice 14.md",
+      "words_a": 917,
+      "words_b": 23811,
+      "jaccard": 0.034,
+      "containment": 0.876
+    },
+    {
+      "a": "content/Mentor Texts/Atlantic \u2014 G. Brian Karas.md",
+      "b": "content/Writing Voice/Writing - Voice 16.md",
+      "words_a": 381,
+      "words_b": 14288,
+      "jaccard": 0.024,
+      "containment": 0.874
+    },
+    {
+      "a": "content/Genres/Reports  1-24.md",
+      "b": "content/Reading/INQUIRY BASED APPROACH.md",
+      "words_a": 6782,
+      "words_b": 29980,
+      "jaccard": 0.188,
+      "containment": 0.871
+    },
+    {
+      "a": "content/Mentor Texts/Fireflies \u2014 Julie Brinckloe.md",
+      "b": "content/Writing Voice/Writing - Voice 3.md",
+      "words_a": 616,
+      "words_b": 16368,
+      "jaccard": 0.032,
+      "containment": 0.869
+    },
+    {
+      "a": "content/Mentor Texts/An Angel for Solomon Singer \u2014 Cynthia Rylant.md",
+      "b": "content/Writing/Craft/Reading Like Writers/Reading Like Writers  1-85.md",
+      "words_a": 869,
+      "words_b": 20272,
+      "jaccard": 0.039,
+      "containment": 0.867
+    },
+    {
+      "a": "content/Mentor Texts/The Relatives Came \u2014 Cynthia Rylant.md",
+      "b": "content/Writing Voice/Writing - Voice 2.md",
+      "words_a": 528,
+      "words_b": 22540,
+      "jaccard": 0.02,
+      "containment": 0.867
+    },
+    {
+      "a": "content/Mentor Texts/Zipping, Zapping, Zooming Bats \u2014 Ann Earle.md",
+      "b": "content/Writing Voice/Writing - Voice 14.md",
+      "words_a": 621,
+      "words_b": 23811,
+      "jaccard": 0.023,
+      "containment": 0.865
+    },
+    {
+      "a": "content/Mentor Texts/Cloudy with a Chance of Meatballs \u2014 Judi Barrett.md",
+      "b": "content/Writer's Notebook/Fantasy - Writer's Notebook 9 Quick Writes.md",
+      "words_a": 1281,
+      "words_b": 13085,
+      "jaccard": 0.083,
+      "containment": 0.863
+    },
+    {
+      "a": "content/Mentor Texts/Cloudy with a Chance of Meatballs \u2014 Judi Barrett.md",
+      "b": "content/Writing Voice/Writing - Voice 17.md",
+      "words_a": 1281,
+      "words_b": 19335,
+      "jaccard": 0.057,
+      "containment": 0.859
+    },
+    {
+      "a": "content/Author Studies Jim/Kate DiCamillo.md",
+      "b": "content/Writing Voice/Writing - Voice 9.md",
+      "words_a": 4416,
+      "words_b": 24567,
+      "jaccard": 0.145,
+      "containment": 0.847
+    },
+    {
+      "a": "content/Mentor Texts/Puddles \u2014 Jonathan London.md",
+      "b": "content/Writing/Conventions/Punctuation    1-16.md",
+      "words_a": 374,
+      "words_b": 2946,
+      "jaccard": 0.101,
+      "containment": 0.847
+    },
+    {
+      "a": "content/Mentor Texts/Hooway for Wodney Wat \u2014 Helen Lester.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 2.md",
+      "words_a": 805,
+      "words_b": 26944,
+      "jaccard": 0.025,
+      "containment": 0.845
+    },
+    {
+      "a": "content/Mentor Texts/Crow Call \u2014 Lois Lowry.md",
+      "b": "content/Writing Voice/Writing - Voice 8.md",
+      "words_a": 1836,
+      "words_b": 27862,
+      "jaccard": 0.056,
+      "containment": 0.844
+    },
+    {
+      "a": "content/Mentor Texts/Crab Moon \u2014 Ruth Horowitz.md",
+      "b": "content/Mentor Texts/Mentor Texts - Accompanying Reading Like Writers.md",
+      "words_a": 504,
+      "words_b": 14303,
+      "jaccard": 0.029,
+      "containment": 0.839
+    },
+    {
+      "a": "content/Mentor Texts/Charlie Anderson \u2014 Barbara Abercrombie.md",
+      "b": "content/Reading/QUESTIONING course 1.md",
+      "words_a": 510,
+      "words_b": 20071,
+      "jaccard": 0.022,
+      "containment": 0.836
+    },
+    {
+      "a": "content/Mentor Texts/Shortcut \u2014 Donald Crews.md",
+      "b": "content/Writing Voice/Writing - Voice 10.md",
+      "words_a": 266,
+      "words_b": 22934,
+      "jaccard": 0.01,
+      "containment": 0.834
+    },
+    {
+      "a": "content/Mentor Texts/Charlotte's Web \u2014 barn description \u2014 E.B. White.md",
+      "b": "content/Reading/Comprehension Strategies/Visualising    1-58.md",
+      "words_a": 133,
+      "words_b": 1938,
+      "jaccard": 0.054,
+      "containment": 0.833
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing3.md",
+      "b": "content/Mentor Texts/Poems \u2014 Tony Johnston.md",
+      "words_a": 13291,
+      "words_b": 450,
+      "jaccard": 0.028,
+      "containment": 0.833
+    },
+    {
+      "a": "content/Mentor Texts/Wilma Unlimited \u2014 Kathleen Krull.md",
+      "b": "content/Writing Voice/Writing - Voice 8.md",
+      "words_a": 1592,
+      "words_b": 27862,
+      "jaccard": 0.048,
+      "containment": 0.832
+    },
+    {
+      "a": "content/Mentor Texts/Chrysanthemum \u2014 Kevin Henkes.md",
+      "b": "content/Writing/Writer's Notebook   1-103.md",
+      "words_a": 1158,
+      "words_b": 23470,
+      "jaccard": 0.04,
+      "containment": 0.831
+    },
+    {
+      "a": "content/Mentor Texts/Bat Loves the Night \u2014 Nicola Davies.md",
+      "b": "content/Writing Voice/Writing - Voice 14.md",
+      "words_a": 699,
+      "words_b": 23811,
+      "jaccard": 0.024,
+      "containment": 0.828
+    },
+    {
+      "a": "content/Mentor Texts/Hairy Maclary from Donaldson\u2019s Dairy \u2014 Lynley Dodd.md",
+      "b": "content/Reading/Reader's Theatre/Reader's Theatre    1-76.md",
+      "words_a": 274,
+      "words_b": 19825,
+      "jaccard": 0.008,
+      "containment": 0.826
+    },
+    {
+      "a": "content/Mentor Texts/Lilly\u2019s Purple Plastic Purse \u2014 Kevin Henkes.md",
+      "b": "content/Writing Voice/Writing - Voice 16.md",
+      "words_a": 1284,
+      "words_b": 14288,
+      "jaccard": 0.075,
+      "containment": 0.825
+    },
+    {
+      "a": "content/Mentor Texts/My Name \u2014 Sandra Cisneros.md",
+      "b": "content/Writing/Writer's Notebook   1-103.md",
+      "words_a": 349,
+      "words_b": 23470,
+      "jaccard": 0.012,
+      "containment": 0.825
+    },
+    {
+      "a": "content/Genres/Persuasive/Persuasive Writing Using Fiction.md",
+      "b": "content/Mentor Texts/Fly Away Home \u2014 Eve Bunting.md",
+      "words_a": 17471,
+      "words_b": 1094,
+      "jaccard": 0.054,
+      "containment": 0.824
+    },
+    {
+      "a": "content/Mentor Texts/My Father's Hands \u2014 Joanne Ryder.md",
+      "b": "content/Writing Voice/Writing - Voice 8.md",
+      "words_a": 273,
+      "words_b": 27862,
+      "jaccard": 0.008,
+      "containment": 0.823
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 3.md",
+      "b": "content/Mentor Texts/Pale Male \u2014 Janet Schulman.md",
+      "words_a": 16208,
+      "words_b": 2433,
+      "jaccard": 0.12,
+      "containment": 0.82
+    },
+    {
+      "a": "content/Mentor Texts/John Henry \u2014 Julius Lester.md",
+      "b": "content/Writer's Notebook/Writer's Notebook.md",
+      "words_a": 2155,
+      "words_b": 23185,
+      "jaccard": 0.076,
+      "containment": 0.816
+    },
+    {
+      "a": "content/Mentor Texts/The Stranger \u2014 Chris Van Allsburg.md",
+      "b": "content/Reading/Comprehension Strategies/Inferring     1-78.md",
+      "words_a": 956,
+      "words_b": 15268,
+      "jaccard": 0.051,
+      "containment": 0.815
+    },
+    {
+      "a": "content/Writer's Notebook/People Photos - Writer's Notebook 11 Quick Writes.md",
+      "b": "content/Writer's Notebook/Writer's Notebook Contents.md",
+      "words_a": 283,
+      "words_b": 6297,
+      "jaccard": 0.037,
+      "containment": 0.815
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing3.md",
+      "b": "content/Mentor Texts/Cloud Dance \u2014 Thomas Locker.md",
+      "words_a": 13291,
+      "words_b": 128,
+      "jaccard": 0.007,
+      "containment": 0.81
+    },
+    {
+      "a": "content/Mentor Texts/Cloud Dance \u2014 Thomas Locker.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 8.md",
+      "words_a": 128,
+      "words_b": 23644,
+      "jaccard": 0.004,
+      "containment": 0.81
+    },
+    {
+      "a": "content/Mentor Texts/Fireflies \u2014 Julie Brinckloe.md",
+      "b": "content/Writing/Narrative Course 2014 June.md",
+      "words_a": 616,
+      "words_b": 21068,
+      "jaccard": 0.023,
+      "containment": 0.806
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING3 Jim.md",
+      "b": "content/Mentor Texts/Fireflies \u2014 Julie Brinckloe.md",
+      "words_a": 22933,
+      "words_b": 616,
+      "jaccard": 0.022,
+      "containment": 0.806
+    },
+    {
+      "a": "content/Mentor Texts/Fireflies \u2014 Julie Brinckloe.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 616,
+      "words_b": 23888,
+      "jaccard": 0.021,
+      "containment": 0.806
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Mentor Texts/Fireflies \u2014 Julie Brinckloe.md",
+      "words_a": 25487,
+      "words_b": 616,
+      "jaccard": 0.019,
+      "containment": 0.806
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Fireflies \u2014 Julie Brinckloe.md",
+      "words_a": 27979,
+      "words_b": 616,
+      "jaccard": 0.018,
+      "containment": 0.806
+    },
+    {
+      "a": "content/Mentor Texts/Crab Moon \u2014 Ruth Horowitz.md",
+      "b": "content/Writing Voice/Writing - Voice 4.md",
+      "words_a": 504,
+      "words_b": 22157,
+      "jaccard": 0.018,
+      "containment": 0.803
+    },
+    {
+      "a": "content/Mentor Texts/Owl Moon \u2014 Jane Yolen.md",
+      "b": "content/Reading/Comprehension Strategies/Inferring     1-78.md",
+      "words_a": 794,
+      "words_b": 15268,
+      "jaccard": 0.042,
+      "containment": 0.799
+    },
+    {
+      "a": "content/Writer's Notebook/Writer's Notebook.md",
+      "b": "content/Writing/Writing - Writer's Notebook.md",
+      "words_a": 23185,
+      "words_b": 23902,
+      "jaccard": 0.65,
+      "containment": 0.797
+    },
+    {
+      "a": "content/Mentor Texts/Slower Than the Rest \u2014 Cynthia Rylant.md",
+      "b": "content/Writer's Notebook/Writer's Notebook.md",
+      "words_a": 1174,
+      "words_b": 23185,
+      "jaccard": 0.041,
+      "containment": 0.796
+    },
+    {
+      "a": "content/Genres/Persuasive/Persuasive Essays.md",
+      "b": "content/Genres/Persuasive/Persuasive Text    1-146.md",
+      "words_a": 1005,
+      "words_b": 27670,
+      "jaccard": 0.026,
+      "containment": 0.796
+    },
+    {
+      "a": "content/Mentor Texts/Your Mama \u2014 author unknown.md",
+      "b": "content/Writing Voice/Writing - Voice 9.md",
+      "words_a": 230,
+      "words_b": 24567,
+      "jaccard": 0.007,
+      "containment": 0.794
+    },
+    {
+      "a": "content/Mentor Texts/Piggie Pie \u2014 Margie Palatini.md",
+      "b": "content/Writing Voice/Writing - Voice 19.md",
+      "words_a": 1116,
+      "words_b": 14204,
+      "jaccard": 0.064,
+      "containment": 0.793
+    },
+    {
+      "a": "content/Mentor Texts/Scarecrow \u2014 Cynthia Rylant.md",
+      "b": "content/Writing Voice/Writing - Voice 5.md",
+      "words_a": 403,
+      "words_b": 16101,
+      "jaccard": 0.019,
+      "containment": 0.788
+    },
+    {
+      "a": "content/Mentor Texts/Owl Moon \u2014 Jane Yolen.md",
+      "b": "content/Writing/Craft/Reading Like Writers/Reading Like Writers  1-85.md",
+      "words_a": 794,
+      "words_b": 20272,
+      "jaccard": 0.032,
+      "containment": 0.787
+    },
+    {
+      "a": "content/Mentor Texts/An Angel for Solomon Singer \u2014 Cynthia Rylant.md",
+      "b": "content/Reading/Comprehension Strategies/Synthesisng  1-34.md",
+      "words_a": 869,
+      "words_b": 7166,
+      "jaccard": 0.094,
+      "containment": 0.784
+    },
+    {
+      "a": "content/Writer's Notebook/National Geographic Photo of the day - Writer's Notebook 13 Quick Writes.md",
+      "b": "content/Writer's Notebook/Writer's Notebook Contents.md",
+      "words_a": 53,
+      "words_b": 6297,
+      "jaccard": 0.006,
+      "containment": 0.783
+    },
+    {
+      "a": "content/Writing/Writer's Notebook   1-103.md",
+      "b": "content/Writing/Writing - Writer's Notebook.md",
+      "words_a": 23470,
+      "words_b": 23902,
+      "jaccard": 0.634,
+      "containment": 0.778
+    },
+    {
+      "a": "content/Mentor Texts/School poems \u2014 Eve Merriam.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 9.md",
+      "words_a": 237,
+      "words_b": 17769,
+      "jaccard": 0.01,
+      "containment": 0.774
+    },
+    {
+      "a": "content/Genres/Memoir  1-85.md",
+      "b": "content/Mentor Texts/Maybe a Fight \u2014 Jean Little.md",
+      "words_a": 21285,
+      "words_b": 461,
+      "jaccard": 0.017,
+      "containment": 0.773
+    },
+    {
+      "a": "content/Genres/Memoir  1-85.md",
+      "b": "content/Mentor Texts/Owl Moon \u2014 Jane Yolen.md",
+      "words_a": 21285,
+      "words_b": 794,
+      "jaccard": 0.029,
+      "containment": 0.769
+    },
+    {
+      "a": "content/Mentor Texts/John Henry \u2014 Julius Lester.md",
+      "b": "content/Writing Voice/Writing - Voice 19.md",
+      "words_a": 2155,
+      "words_b": 14204,
+      "jaccard": 0.12,
+      "containment": 0.767
+    },
+    {
+      "a": "content/Mentor Texts/Those Winter Sundays \u2014 Robert Hayden.md",
+      "b": "content/Reading/Comprehension Strategies/Inferring     1-78.md",
+      "words_a": 105,
+      "words_b": 15268,
+      "jaccard": 0.005,
+      "containment": 0.765
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING 1 Jim.md",
+      "b": "content/Mentor Texts/Those Winter Sundays \u2014 Robert Hayden.md",
+      "words_a": 20329,
+      "words_b": 105,
+      "jaccard": 0.004,
+      "containment": 0.765
+    },
+    {
+      "a": "content/Mentor Texts/Wilfred Gordon McDonald Partridge \u2014 Mem Fox.md",
+      "b": "content/Writer's Notebook/Writer's Notebook.md",
+      "words_a": 1041,
+      "words_b": 23185,
+      "jaccard": 0.034,
+      "containment": 0.764
+    },
+    {
+      "a": "content/Writer's Notebook/Writer's Notebook.md",
+      "b": "content/Writing/Writer's Notebook   1-103.md",
+      "words_a": 23185,
+      "words_b": 23470,
+      "jaccard": 0.591,
+      "containment": 0.75
+    },
+    {
+      "a": "content/Mentor Texts/Dumpy La Rue \u2014 Elizabeth Winthrop.md",
+      "b": "content/Writing Voice/Writing - Voice 7.md",
+      "words_a": 604,
+      "words_b": 14095,
+      "jaccard": 0.032,
+      "containment": 0.75
+    },
+    {
+      "a": "content/Mentor Texts/Wilfred Gordon McDonald Partridge \u2014 Mem Fox.md",
+      "b": "content/Writing/Writer's Notebook   1-103.md",
+      "words_a": 1041,
+      "words_b": 23470,
+      "jaccard": 0.033,
+      "containment": 0.747
+    },
+    {
+      "a": "content/Mentor Texts/Chrysanthemum \u2014 Kevin Henkes.md",
+      "b": "content/Writing Voice/Writing - Voice 16.md",
+      "words_a": 1158,
+      "words_b": 14288,
+      "jaccard": 0.059,
+      "containment": 0.735
+    },
+    {
+      "a": "content/Mentor Texts/Chrysanthemum \u2014 Kevin Henkes.md",
+      "b": "content/Writer's Notebook/Writer's Notebook.md",
+      "words_a": 1158,
+      "words_b": 23185,
+      "jaccard": 0.035,
+      "containment": 0.735
+    },
+    {
+      "a": "content/Genres/Poetry/Poetry - Part 4  (2 of 3)    1-76.md",
+      "b": "content/Mentor Texts/Poems \u2014 Barbara Esbensen.md",
+      "words_a": 10383,
+      "words_b": 379,
+      "jaccard": 0.026,
+      "containment": 0.734
+    },
+    {
+      "a": "content/Genres/Poetry/Poetry - Part 4 (1 of 3)    1-79.md",
+      "b": "content/Mentor Texts/Writing Lessons \u2014 Charlotte Zolotow.md",
+      "words_a": 11675,
+      "words_b": 171,
+      "jaccard": 0.01,
+      "containment": 0.732
+    },
+    {
+      "a": "content/Mentor Texts/Scarecrow \u2014 Cynthia Rylant.md",
+      "b": "content/Writing/Craft/Reading Like Writers/Reading Like Writers  1-85.md",
+      "words_a": 403,
+      "words_b": 20272,
+      "jaccard": 0.015,
+      "containment": 0.727
+    },
+    {
+      "a": "content/Mentor Texts/Old Tortoise \u2014 Madeleine Comora.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 6.md",
+      "words_a": 1375,
+      "words_b": 15331,
+      "jaccard": 0.063,
+      "containment": 0.724
+    },
+    {
+      "a": "content/Mentor Texts/Night Tree \u2014 Eve Bunting.md",
+      "b": "content/Writing Voice/Writing - Voice 10.md",
+      "words_a": 785,
+      "words_b": 22934,
+      "jaccard": 0.025,
+      "containment": 0.721
+    },
+    {
+      "a": "content/Reading/Reader's Theatre/READERS' THEATRE 1.md",
+      "b": "content/Reading/Reader's Theatre/Readers' Theatre  1-18.md",
+      "words_a": 10953,
+      "words_b": 5686,
+      "jaccard": 0.323,
+      "containment": 0.713
+    },
+    {
+      "a": "content/Author Studies Jim/Leo Lionni.md",
+      "b": "content/Mentor Texts/A Color of His Own \u2014 Leo Lionni.md",
+      "words_a": 29585,
+      "words_b": 246,
+      "jaccard": 0.007,
+      "containment": 0.711
+    },
+    {
+      "a": "content/Genres/Memoir  1-85.md",
+      "b": "content/Mentor Texts/My Mama Had a Dancing Heart \u2014 Libba Moore Gray.md",
+      "words_a": 21285,
+      "words_b": 441,
+      "jaccard": 0.014,
+      "containment": 0.709
+    },
+    {
+      "a": "content/Mentor Texts/This Is Not My Hat \u2014 Jon Klassen.md",
+      "b": "content/Writing Voice/Writing - Voice 6.md",
+      "words_a": 220,
+      "words_b": 15986,
+      "jaccard": 0.01,
+      "containment": 0.704
+    },
+    {
+      "a": "content/Mentor Texts/I Want My Hat Back \u2014 Jon Klassen.md",
+      "b": "content/Writing Voice/Writing - Voice 6.md",
+      "words_a": 266,
+      "words_b": 15986,
+      "jaccard": 0.011,
+      "containment": 0.691
+    },
+    {
+      "a": "content/Mentor Texts/My Name \u2014 Sandra Cisneros.md",
+      "b": "content/Writer's Notebook/Writer's Notebook.md",
+      "words_a": 349,
+      "words_b": 23185,
+      "jaccard": 0.01,
+      "containment": 0.69
+    },
+    {
+      "a": "content/Mentor Texts/Fly Away Home \u2014 Eve Bunting.md",
+      "b": "content/Writing Voice/Writing - Voice 4.md",
+      "words_a": 1094,
+      "words_b": 22157,
+      "jaccard": 0.034,
+      "containment": 0.689
+    },
+    {
+      "a": "content/Genres/Memoir  1-85.md",
+      "b": "content/Mentor Texts/My Name \u2014 Sandra Cisneros.md",
+      "words_a": 21285,
+      "words_b": 349,
+      "jaccard": 0.011,
+      "containment": 0.684
+    },
+    {
+      "a": "content/Author Studies Jim/Crescent Dragonwagon.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 8.md",
+      "words_a": 1644,
+      "words_b": 23644,
+      "jaccard": 0.045,
+      "containment": 0.671
+    },
+    {
+      "a": "content/Author Studies Jim/Gary Paulsen.md",
+      "b": "content/Vocabulary Course Jim/Vocabulary 10.md",
+      "words_a": 4703,
+      "words_b": 19256,
+      "jaccard": 0.147,
+      "containment": 0.663
+    },
+    {
+      "a": "content/Genres/Folktales/Folktales  1-59.md",
+      "b": "content/Mentor Texts/We\u2019re Going on a Bear Hunt \u2014 Michael Rosen.md",
+      "words_a": 17341,
+      "words_b": 464,
+      "jaccard": 0.011,
+      "containment": 0.655
+    },
+    {
+      "a": "content/Author Studies Jim/Gary Paulsen.md",
+      "b": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "words_a": 4703,
+      "words_b": 27979,
+      "jaccard": 0.1,
+      "containment": 0.638
+    },
+    {
+      "a": "content/Mentor Texts/My Mama Had a Dancing Heart \u2014 Libba Moore Gray.md",
+      "b": "content/Writing/Craft/Reading Like Writers/Reading Like Writers  1-85.md",
+      "words_a": 441,
+      "words_b": 20272,
+      "jaccard": 0.014,
+      "containment": 0.63
+    },
+    {
+      "a": "content/Writer's Notebook/Smithsonion Photos - Writer's Notebook 18 Quick Writes.md",
+      "b": "content/Writer's Notebook/Writer's Notebook Contents.md",
+      "words_a": 144,
+      "words_b": 6297,
+      "jaccard": 0.009,
+      "containment": 0.626
+    },
+    {
+      "a": "content/Author Studies Jim/Mem Fox.md",
+      "b": "content/Mentor Texts/Wilfred Gordon McDonald Partridge \u2014 Mem Fox.md",
+      "words_a": 6159,
+      "words_b": 1041,
+      "jaccard": 0.105,
+      "containment": 0.619
+    },
+    {
+      "a": "content/Genres/Poetry/Poetry - Part 4 (1 of 3)    1-79.md",
+      "b": "content/Mentor Texts/Don\u2019t Hold Me Back \u2014 Nikki Giovanni.md",
+      "words_a": 11675,
+      "words_b": 67,
+      "jaccard": 0.003,
+      "containment": 0.617
+    },
+    {
+      "a": "content/Mentor Texts/Mentor Texts - Accompanying Reading Like Writers.md",
+      "b": "content/Mentor Texts/The Art Lesson \u2014 Tomie dePaola.md",
+      "words_a": 14303,
+      "words_b": 1496,
+      "jaccard": 0.062,
+      "containment": 0.613
+    },
+    {
+      "a": "content/Mentor Texts/Wilfred Gordon McDonald Partridge \u2014 Mem Fox.md",
+      "b": "content/Reading/Critical Literacy/Critical Literacy  Stereotypes in Literature  1-41.md",
+      "words_a": 1041,
+      "words_b": 11957,
+      "jaccard": 0.053,
+      "containment": 0.612
+    },
+    {
+      "a": "content/Writer's Notebook/People Photos - Writer's Notebook 11 Quick Writes.md",
+      "b": "content/Writer's Notebook/Smithsonion Photos - Writer's Notebook 18 Quick Writes.md",
+      "words_a": 283,
+      "words_b": 144,
+      "jaccard": 0.176,
+      "containment": 0.604
+    },
+    {
+      "a": "content/Reading/QUESTIONING Course Jim 2014.md",
+      "b": "content/Reading/QUESTIONING course 1.md",
+      "words_a": 20836,
+      "words_b": 20071,
+      "jaccard": 0.425,
+      "containment": 0.6
+    },
+    {
+      "a": "content/Author Studies Jim/Jane Yolen.md",
+      "b": "content/Inferring Course JIM/INFERRING 1 Jim.md",
+      "words_a": 6894,
+      "words_b": 20329,
+      "jaccard": 0.178,
+      "containment": 0.584
+    },
+    {
+      "a": "content/Author Studies Jim/Pamela Allen.md",
+      "b": "content/First 20 Days Literacy/The First 20 Days - Writing2.md",
+      "words_a": 4107,
+      "words_b": 15570,
+      "jaccard": 0.206,
+      "containment": 0.567
+    },
+    {
+      "a": "content/Author Studies Jim/Patricia Polacco.md",
+      "b": "content/Mentor Texts/Author Study - Patricia Polacco.md",
+      "words_a": 29339,
+      "words_b": 10177,
+      "jaccard": 0.17,
+      "containment": 0.545
+    },
+    {
+      "a": "content/Reading/QUESTIONING 2.md",
+      "b": "content/Reading/QUESTIONING Course Jim 2014.md",
+      "words_a": 17444,
+      "words_b": 20836,
+      "jaccard": 0.279,
+      "containment": 0.486
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING 1 Jim.md",
+      "b": "content/Reading/QUESTIONING 3.md",
+      "words_a": 20329,
+      "words_b": 9676,
+      "jaccard": 0.15,
+      "containment": 0.4
+    },
+    {
+      "a": "content/Mentor Texts/Reading Like Writers Supplement.md",
+      "b": "content/Mentor Texts/Writing Craft Mentor List.md",
+      "words_a": 5214,
+      "words_b": 22248,
+      "jaccard": 0.114,
+      "containment": 0.374
+    },
+    {
+      "a": "content/Author Studies Jim/Jane Yolen.md",
+      "b": "content/Genres/Historical Fiction     1-32.md",
+      "words_a": 6894,
+      "words_b": 7342,
+      "jaccard": 0.217,
+      "containment": 0.37
+    },
+    {
+      "a": "content/Genres/Persuasive/Persuasive Writing Using Fiction.md",
+      "b": "content/Writing/PERSUASIVE TEXTS pack 2.md",
+      "words_a": 17471,
+      "words_b": 22031,
+      "jaccard": 0.192,
+      "containment": 0.365
+    },
+    {
+      "a": "content/Author Studies Jim/William Steig.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 4.md",
+      "words_a": 9977,
+      "words_b": 26797,
+      "jaccard": 0.108,
+      "containment": 0.362
+    },
+    {
+      "a": "content/Reading/Reader's Theatre/READERS' THEATRE 8.md",
+      "b": "content/Reading/Reader's Theatre/Reader's Theatre    1-76.md",
+      "words_a": 16367,
+      "words_b": 19825,
+      "jaccard": 0.195,
+      "containment": 0.35
+    },
+    {
+      "a": "content/Reading/Reader's Theatre/READERS' THEATRE 1.md",
+      "b": "content/Reading/Reader's Theatre/Reader's Theatre    1-76.md",
+      "words_a": 10953,
+      "words_b": 19825,
+      "jaccard": 0.137,
+      "containment": 0.35
+    },
+    {
+      "a": "content/Genres/Historical Fiction     1-32.md",
+      "b": "content/Inferring Course JIM/INFERRING 1 Jim.md",
+      "words_a": 7342,
+      "words_b": 20329,
+      "jaccard": 0.104,
+      "containment": 0.344
+    },
+    {
+      "a": "content/Author Studies Jim/William Steig.md",
+      "b": "content/Mentor Texts/Mentor texts 3.md",
+      "words_a": 9977,
+      "words_b": 16208,
+      "jaccard": 0.137,
+      "containment": 0.319
+    },
+    {
+      "a": "content/Author Studies Jim/Margie Palatini.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 10.md",
+      "words_a": 27165,
+      "words_b": 14601,
+      "jaccard": 0.121,
+      "containment": 0.31
+    },
+    {
+      "a": "content/Genres/Persuasive/Persuasive Text    1-146.md",
+      "b": "content/Writing/PERSUASIVE TEXTS pack 2.md",
+      "words_a": 27670,
+      "words_b": 22031,
+      "jaccard": 0.142,
+      "containment": 0.289
+    },
+    {
+      "a": "content/Mentor Texts/Mentor texts 3.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 6.md",
+      "words_a": 16208,
+      "words_b": 26062,
+      "jaccard": 0.124,
+      "containment": 0.287
+    },
+    {
+      "a": "content/Author Studies Jim/Kevin Henkes.md",
+      "b": "content/Writing Voice/Writing - Voice 16.md",
+      "words_a": 7649,
+      "words_b": 14288,
+      "jaccard": 0.113,
+      "containment": 0.287
+    },
+    {
+      "a": "content/Reading/Nonfiction.md",
+      "b": "content/Text Structures/Inquiry Based Approach  1-19.md",
+      "words_a": 3060,
+      "words_b": 2138,
+      "jaccard": 0.133,
+      "containment": 0.285
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Writing/Writing - Writer's Notebook.md",
+      "words_a": 25487,
+      "words_b": 23902,
+      "jaccard": 0.154,
+      "containment": 0.278
+    },
+    {
+      "a": "content/Author Studies Jim/Rosemary Wells.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 4.md",
+      "words_a": 8190,
+      "words_b": 10103,
+      "jaccard": 0.135,
+      "containment": 0.274
+    },
+    {
+      "a": "content/Genres/Debating    1-31.md",
+      "b": "content/Genres/Folktales/Folktales - Animal Tales    1-10.md",
+      "words_a": 9427,
+      "words_b": 5524,
+      "jaccard": 0.111,
+      "containment": 0.273
+    },
+    {
+      "a": "content/Genres/Folktales/Folktales  1-59.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 3.md",
+      "words_a": 17341,
+      "words_b": 18345,
+      "jaccard": 0.153,
+      "containment": 0.27
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING 1 Jim.md",
+      "b": "content/Reading/Comprehension Strategies/Inferring     1-78.md",
+      "words_a": 20329,
+      "words_b": 15268,
+      "jaccard": 0.121,
+      "containment": 0.25
+    },
+    {
+      "a": "content/Mentor Texts/Mentor Texts - Accompanying Reading Like Writers.md",
+      "b": "content/Writing Voice/Writing - Voice 10.md",
+      "words_a": 14303,
+      "words_b": 22934,
+      "jaccard": 0.104,
+      "containment": 0.246
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Spelling.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 7.md",
+      "words_a": 32155,
+      "words_b": 24252,
+      "jaccard": 0.114,
+      "containment": 0.238
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing2.md",
+      "b": "content/Mentor Texts/Writing Craft Mentor List.md",
+      "words_a": 15570,
+      "words_b": 22248,
+      "jaccard": 0.105,
+      "containment": 0.237
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing3.md",
+      "b": "content/Genres/Poetry/Poetry - Part 4  (2 of 3)    1-76.md",
+      "words_a": 13291,
+      "words_b": 10383,
+      "jaccard": 0.112,
+      "containment": 0.229
+    },
+    {
+      "a": "content/Genres/Memoir  1-85.md",
+      "b": "content/Writing/Craft/Reading Like Writers/Reading Like Writers  1-85.md",
+      "words_a": 21285,
+      "words_b": 20272,
+      "jaccard": 0.118,
+      "containment": 0.219
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Mentor Texts/Mentor texts 1.md",
+      "words_a": 27979,
+      "words_b": 36208,
+      "jaccard": 0.104,
+      "containment": 0.216
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Writing/Writer's Notebook   1-103.md",
+      "words_a": 25487,
+      "words_b": 23470,
+      "jaccard": 0.115,
+      "containment": 0.215
+    },
+    {
+      "a": "content/First 20 Days Literacy/The First 20 Days - Writing.md",
+      "b": "content/Writer's Notebook/Writer's Notebook.md",
+      "words_a": 25487,
+      "words_b": 23185,
+      "jaccard": 0.113,
+      "containment": 0.213
+    },
+    {
+      "a": "content/Writing Voice/Writing - Voice 17.md",
+      "b": "content/Writing/PERSUASIVE TEXTS pack 2.md",
+      "words_a": 19335,
+      "words_b": 22031,
+      "jaccard": 0.111,
+      "containment": 0.209
+    },
+    {
+      "a": "content/Reading/Reader's Theatre/READERS' THEATRE 3.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 7.md",
+      "words_a": 18345,
+      "words_b": 16674,
+      "jaccard": 0.115,
+      "containment": 0.208
+    },
+    {
+      "a": "content/Choral reading/CHORAL READING TEXTS 1.md",
+      "b": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "words_a": 27979,
+      "words_b": 23888,
+      "jaccard": 0.105,
+      "containment": 0.208
+    },
+    {
+      "a": "content/Writing Voice/Writing - Voice 15.md",
+      "b": "content/Writing Voice/Writing - Voice 2.md",
+      "words_a": 25124,
+      "words_b": 22540,
+      "jaccard": 0.107,
+      "containment": 0.205
+    },
+    {
+      "a": "content/Genres/Persuasive/Persuasive Writing Using Fiction.md",
+      "b": "content/Writing Voice/Writing - Voice 17.md",
+      "words_a": 17471,
+      "words_b": 19335,
+      "jaccard": 0.102,
+      "containment": 0.201
+    },
+    {
+      "a": "content/Inferring Course JIM/INFERRING3 Jim.md",
+      "b": "content/Reading/Reader's Theatre/READERS' THEATRE 5.md",
+      "words_a": 22933,
+      "words_b": 21173,
+      "jaccard": 0.106,
+      "containment": 0.198
+    },
+    {
+      "a": "content/Vocabulary Course Jim/VOCABULARY 3.md",
+      "b": "content/Writing/Writing - Writer's Notebook.md",
+      "words_a": 23888,
+      "words_b": 23902,
+      "jaccard": 0.101,
+      "containment": 0.185
+    }
+  ]
+}

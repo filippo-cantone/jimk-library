@@ -1,6 +1,7 @@
 ---
 title: "Eve Bunting2"
-source_file: "Author Studies Jim/Eve Bunting2.doc"
+dedupe_note: "Retired near-duplicate Eve Bunting2.doc (see DEDUPE-REPORT.md, 2026-09-12)."
+source_file: "Author Studies Jim/Eve Bunting2 (2).doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
 tags: [jim-k]

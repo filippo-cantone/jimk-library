@@ -1,6 +1,7 @@
 ---
 title: "Patricia Polacco 3"
-source_file: "Author Studies Jim/Patricia Polacco 3.doc"
+dedupe_note: "Retired near-duplicate Patricia Polacco 3.doc (see DEDUPE-REPORT.md, 2026-09-12)."
+source_file: "Author Studies Jim/Patricia Polacco 3 (2).doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
 tags: [jim-k]
@@ -774,7 +775,7 @@ But he didn’t have a smile the day he handed back my first social
 studies test. I could feel my face get real hot when I unfolded it. An
 F. Again.
 
-The trouble was everyone read faster than me. even though I knew the
+The trouble was everyone read faster than me. Even though I knew the
 subject real well, I’d run out of time before I was finished. I started
 having stomachaches when I knew a weekly test was coming up.
 
@@ -782,7 +783,7 @@ Mr Donovan finally sat me down. “You know the subject, Trisha. What you
 need is extra time.” He started giving me the time I needed and, sure
 enough, I began passing tests.
 
-But that didn’t help my other problem. There was no reat art class in my
+But that didn’t help my other problem. There was no real art class in my
 new school, just art on a cart for thirty minutes once a week.
 
 Then one day Mr Donovan saw one of my drawings. He picked it up and hung
@@ -790,7 +791,7 @@ it on the bulletin board. “Patricia, you have remarkable talent!”
 
 All of the kids in class crowded up to look at the picture.
 
-“Man, oh, man, can you draw,” Davet Mulford remarked.
+“Man, oh, man, can you draw,” Davey Mulford remarked.
 
 “Wow!” Rick Schubb agreed.
 
@@ -799,10 +800,10 @@ impressed.
 
 I felt so proud.
 
-It wasn’t a day later when mr Donovan told me about Miss Chew, head of
+It wasn’t a day later when Mr Donovan told me about Miss Chew, head of
 the high school art department. “She has a special program for young
 artists on Tuesdays and Thursdays. When I showed her your drawing, she
-said she wanted you in her special calss. Now, what would you be
+said she wanted you in her special class. Now, what would you be
 thinkin’ of that, Miss Trish?”
 
 I loved drawing. Sometimes when I was drawing, I’d forget to breathe! I
@@ -816,7 +817,7 @@ racks at the other, and paint everywhere.
 
 I didn’t know anybody!
 
-Then Miss Chew breezed into the room. her smock was so covered in paint
+Then Miss Chew breezed into the room. Her smock was so covered in paint
 it was a painting in itself. She was tall and slender, and she spoke
 with a Chinese accent. “We have a new student today,” she said,
 motioning towards me with her beautiful long fingers. “Her name is
@@ -844,7 +845,7 @@ the line from dark to light. Yes, I saw that, too.
 
 “Yes, Theresa,” Miss Chew said. “You have it.
 
-“Now do your drawings again. move the shakers. Off centre. Let them run
+“Now do your drawings again. Move the shakers. Off centre. Let them run
 off the page. On purpose. Make then bigger, get the dancing light as it
 makes its shadow,” she sang as she moved from table to table.
 
@@ -896,7 +897,7 @@ He just stared out of the window. Finally he spoke.
 “Me da died today,” he whispered. Our whole class got out of our seats
 and tried to comfort him.
 
-He left for Ireland the next day. that is when we got Mrs Spaulding, a
+He left for Ireland the next day. That is when we got Mrs Spaulding, a
 substitute. She never smiled.
 
 Worst of all, when I was taking my weekly test, she came up behind me
@@ -946,8 +947,8 @@ We’d have forty-five minutes to finish.
 
 I only finished half the test. I knew my art class was over.
 
-But when I told Miss chew, she said, “We’’ just see about that.” With my
-mum’s permission, she would take me herself to see her friend, the
+But when I told Miss chew, she said, “We’ll just see about that.” With
+my mum’s permission, she would take me herself to see her friend, the
 reading specialist.
 
 After class, Miss Chew took me to her car. A convertible! As we drove
