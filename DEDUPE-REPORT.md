@@ -44,20 +44,32 @@ and why.
   unrelated critical-literacy pack — cross-shelf passage reuse, not
   accidental duplication. No action.
 
-## Open — needs its own task, not a quick merge
+## Resolved 2026-09-12 — Reader's Theatre 1-18 anthology
 
 - **Reading/Reader's Theatre: READERS' THEATRE 1.md vs "Readers' Theatre
-  1-18.md"** — investigated in full. The second file is **not** a duplicate
-  of the first; it's an 8-book anthology (*The Bunyip of Berkeley's Creek*,
-  *Wombat Divine*, *Shoes from Grandpa*, *The Three Questions*, *My Little
-  Sister Ate One Hare*, *The Grouchy Ladybug*, *Mister Seahorse*, *John
-  Brown, Rose and the Midnight Cat*). Only the first and last of those eight
-  were adapted into scripts already present in READERS' THEATRE 1.md — the
-  other six books' full text exist nowhere else in the corpus. **Left
-  untouched.** Proper fix: lift each of the 8 as its own Mentor Texts
-  standalone (matching the existing lift convention), then retire this file
-  once all 8 are confirmed captured elsewhere. Do not delete or merge before
-  that's done — real content would be lost.
+  1-18.md"** — investigated in full, then split up. The second file was
+  **not** a duplicate of the first; it was a **9-book** anthology (my first
+  pass missed *Agatha's Feather Bed*, found on the re-read): *The Bunyip of
+  Berkeley's Creek*, *Wombat Divine*, *Shoes from Grandpa*, *Agatha's
+  Feather Bed*, *The Three Questions*, *My Little Sister Ate One Hare*,
+  *The Grouchy Ladybug*, *Mister Seahorse*, *John Brown, Rose and the
+  Midnight Cat*. Checked every book's ending against a known-published
+  conclusion:
+  - **8 of the 9 are complete, clean texts** — lifted to their own Mentor
+    Texts standalones (`strand: reading`, `completeness: full`,
+    `source: "Lifted from Reader's Theatre 1-18 pack"`).
+  - **The Bunyip excerpt is not complete** — it breaks off mid-scene ("Sh,
+    he said, I'm busy," — not the book's real ending). Not lifted (would
+    misrepresent an abridged fragment as a complete text). Its full text
+    already exists as a script inside READERS' THEATRE 1.md (confirmed by
+    reading it — includes the "Second Bunyip" resolution scene this excerpt
+    lacks), so nothing was lost by leaving it out.
+  - Added a note to READERS' THEATRE 1.md's Bunyip script flagging that the
+    1-18 excerpt was partial, and a cross-link from its John Brown script to
+    the new John Brown prose standalone.
+  - The now-fully-decomposed "Readers' Theatre 1-18.md" was retired (all its
+    non-fragmentary content lives on as 8 standalones; the one fragment is
+    superseded by RT1's complete script).
 - **Writer's Notebook cluster** (`Writer's Notebook/Writer's Notebook.md`,
   `Writing/Writer's Notebook 1-103.md`, `Writing/Writing - Writer's
   Notebook.md`) — none of the three is clean (pandoc noise, OCR errors, or

@@ -1277,6 +1277,8 @@ Second Bunyip
 
 ## The Bunyip of Berkeley’s Creek Jenny Wagner
 
+*Note (2026-09-12): the copy of this story in the "Readers’ Theatre 1-18" pack breaks off partway through (page 1 only); this script is the complete story.*
+
 Late one night, for no particular reason, something stirred in the black
 mud at the bottom of Berkeley’s Creek.
 
@@ -2915,6 +2917,8 @@ One baby turned around and tried to come back into the pouch.
 be on your own.”
 
 ## John Brown, Rose, and the Midnight Cat Jenny Wagner
+
+*Full prose text: [John Brown, Rose and the Midnight Cat — Jenny Wagner](../../Mentor%20Texts/John%20Brown%2C%20Rose%20and%20the%20Midnight%20Cat%20%E2%80%94%20Jenny%20Wagner.md).*
 
 3 Readers
 

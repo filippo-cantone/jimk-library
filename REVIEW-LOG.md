@@ -45,17 +45,24 @@ Claude's per-pair recommendations and answered same day.
       passage reuse (Jim quoting Wilfred Gordon McDonald Partridge in an
       unrelated pack), not accidental duplication.
 
+**Resolved 2026-09-12 — Reader's Theatre 1-18 anthology:**
+
+- [x] Reading/Reader's Theatre: READERS' THEATRE 1.md vs "Readers' Theatre
+      1-18.md" — was never a duplicate pair; on the re-read it turned out to
+      be a **9**-book anthology (missed *Agatha's Feather Bed* on the first
+      pass — found it while extracting exact boundaries). Checked every
+      book's ending against a known-published conclusion: 8 of the 9 are
+      complete texts, now lifted to Mentor Texts standalones (Wombat Divine,
+      Shoes from Grandpa, Agatha's Feather Bed, The Three Questions, My
+      Little Sister Ate One Hare, The Grouchy Ladybug, Mister Seahorse, John
+      Brown Rose and the Midnight Cat). The 9th, Bunyip, breaks off mid-scene
+      in this pack — not lifted (would misrepresent a fragment as complete);
+      its full text already exists as a script in READERS' THEATRE 1.md, now
+      noted there. "Readers' Theatre 1-18.md" retired — nothing left in it
+      that isn't captured elsewhere. Full detail: `DEDUPE-REPORT.md`.
+
 **Deferred — Phill's explicit calls, 2026-09-12:**
 
-- [ ] Reading/Reader's Theatre: READERS' THEATRE 1.md vs "Readers' Theatre
-      1-18.md" — **turned out not to be a duplicate pair at all.** Read in
-      full: "1-18" is an 8-book anthology (Bunyip, Wombat Divine, Shoes from
-      Grandpa, The Three Questions, My Little Sister Ate One Hare, The
-      Grouchy Ladybug, Mister Seahorse, John Brown Rose and the Midnight
-      Cat). Only 2 of the 8 (Bunyip, John Brown) were adapted into scripts
-      already in RT1 — the other 6 books' text exists nowhere else. Left
-      untouched; needs its own task (lift each of the 8 to Mentor Texts,
-      matching existing convention) before this file can be retired.
 - [ ] Writer's Notebook cluster (3 files, two folders) — Phill: "treat as
       its own small task." None of the three is clean enough for a
       keep/retire call; needs a merge/rebuild pass.
@@ -77,9 +84,11 @@ Claude's per-pair recommendations and answered same day.
 
 Verification: re-ran `site/dedupe_scan.py` after the actioned fixes — 504 →
 492 notes, exact-duplicate groups 1 → 0, near-duplicate pairs 642 → 613.
-Task 2 above (2026-09-11, Reader's Theatre folder-level dedupe) stays
-reopened until the 8-book anthology task and the two remaining clusters
-above are resolved; `MASTERPLAN.md` Phase 2 Task 2 updated to match.
+After the Reader's Theatre anthology split (below): 492 → 499 notes (8
+lifted, 1 retired), still 0 exact-duplicate groups. Task 2 above
+(2026-09-11, Reader's Theatre folder-level dedupe) stays reopened until the
+Writer's Notebook cluster and Questioning-courses items above are resolved;
+`MASTERPLAN.md` Phase 2 Task 2 updated to match.
 
 ## Phill's answers (2026-09-11)
 
