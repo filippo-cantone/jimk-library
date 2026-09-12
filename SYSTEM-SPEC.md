@@ -216,6 +216,19 @@ books in a file everyone assumed held fewer, precisely because of this
 kind of careful boundary check). Classify the extracted span by kind
 (§2.2). Write it into the relevant `entities/books/<slug>.yaml`.
 
+**Read backward from the heading, not just forward** (added 2026-09-12,
+after the Inferring pilot's round-1 mistakes): pedagogical framing —
+before/during/after structure, a named formula and the reasoning behind
+it, discussion questions — very often sits *before* a book's heading,
+introducing it, not after. Extracting only what comes after the heading
+routinely grabs a worked example's shell (a blank chart) while skipping
+the actual teaching. Worse, content immediately after a heading can
+belong to the *next* book's setup, not the one just named (this happened
+to The Stranger's round-1 extraction — the wrong section entirely, a
+different book's routine mistaken for its own). Verify a span stays
+on-topic for its book line by line before trusting a heading-to-heading
+grab.
+
 **Phase C — Strategy/genre tagging at the fragment level.** Each fragment
 gets tagged with which strategy(ies) it teaches. Start from Jim's own
 existing trait tags (Phase 2's tagging pass, 309 books already tagged) as

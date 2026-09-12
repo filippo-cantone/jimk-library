@@ -3,6 +3,53 @@
 Phill reviewed 2026-09-11 (answers recorded; items checked are closed).
 Commits are per-folder so anything can be reverted or redone piecemeal.
 
+## 2026-09-12 — Inferring pilot, round 2: extraction was too shallow
+
+Phill's review of round 1: "it doesn't interest teach us how to infer" —
+the pages showed chart shapes (a blank 4-column table) without the
+teaching behind them, and asked whether Jim explains the method anywhere.
+He did. Re-checking the source packs found the problem was worse than
+missing framing text:
+
+- **Owl Moon**: had extracted a blank chart with a made-up note ("no
+  single answer recorded") — false. The real source has a full
+  before/during/after lesson, an explicit explanation of the TC+BK=I
+  formula with Jim's own reasoning for reordering Harvey's version, and a
+  chart row already filled in as a worked example.
+- **Brave Irene**: had extracted only a generic theme-chart template
+  appended at the very end of the source material — which turned out to
+  be the tail of a full 3-lesson sequence (questioning → read-along
+  question-coding → character-inference chart with real book excerpts)
+  that was mostly missed.
+- **The Stranger**: had extracted the **wrong section outright** — a
+  generic "Using illustrations" routine demonstrated with a different
+  book (Tight Times), positioned right after The Stranger's real lesson
+  and mistaken for it. The actual before/during/after lesson for The
+  Stranger was earlier in the same file and was skipped entirely.
+
+**Process lesson for future extraction** (any strategy, not just
+Inferring): finding a book's heading is not the same as finding its
+lesson. Read backward from the heading too — pedagogical framing
+(before/during/after structure, formula explanations, discussion
+questions) commonly sits *before* the book heading, introducing it, not
+after. Verify the span actually stays on-topic for that book line by
+line; don't assume the next distinct-looking block (a routine, a chart)
+still belongs to the book whose heading came before it — it may belong to
+the next one. This is the same class of error as the Reader's Theatre
+anthology undercount, just inside a single file instead of across many.
+
+Rebuilt: Owl Moon, Brave Irene, The Stranger fragments; the Inferring
+strategy hub's Why/How sections (now Jim's own cited definitions —
+Keene, Pinnell & Scharer, Gear, Harvey & Goudvis — Marzano's four
+discussion questions, a gradual-release sequence, and a worked Goldilocks
+example, matching the why/how/routines/examples structure found in
+Phill's own `sketches/strategy-page/` prototype). Knuffle Bunny and
+Fireflies! checked against their surrounding text and confirmed correct
+as originally extracted — not every fragment in round 1 was wrong.
+
+Republished to the same artifact URL. Open for Phill: review round 2
+before scaling to the remaining ~40 Inferring books.
+
 ## 2026-09-12 — Inferring pilot built (5 books) — AWAITING PHILL'S REVIEW
 
 First real build against `SYSTEM-SPEC.md`. Phill asked two things before
