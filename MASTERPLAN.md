@@ -1,10 +1,13 @@
 # Jim K Teacher Knowledge Base — Masterplan
 
 > **START HERE (any AI continuing this project):** this file is the single
-> source of truth. It tells you what the project is, why it exists, how to
-> work, where we are, and the exact next step. `REVIEW-LOG.md` holds open
-> questions and Phill's recorded answers. Nothing else in the repo gives
-> instructions — if another doc starts doing so, merge it here or delete it.
+> source of truth for status and history. `SYSTEM-SPEC.md` is the full
+> technical specification — content model, data schema, extraction
+> pipeline, page templates, build process, cross-project interop — read it
+> before building anything. `REVIEW-LOG.md` holds open questions and
+> Phill's recorded answers. Nothing else in the repo gives instructions —
+> if another doc starts doing so, merge it here or into `SYSTEM-SPEC.md`,
+> or delete it.
 
 **Status (2026-09-12): Phase 2.5's "restructured guide" direction is
 SUPERSEDED. New direction approved by Phill (2026-09-12): a strategy-first
@@ -111,6 +114,24 @@ Phase 1 review.
 **Next step**: build the Inferring pilot (10 packs, already has trait/genre
 groundwork from Phase 2's tagging pass) on this model before running the
 pipeline across all strategies.
+
+**2026-09-12, later the same day — full spec written.** Phill: wanted one
+concrete, documented plan before any more page-by-page design, detailed
+enough that anyone or any AI could pick this project up cold. Written as
+`SYSTEM-SPEC.md` — entity/fragment data schema, the five-phase extraction
+pipeline, page templates per entity type, design tokens from the approved
+mockup, build/hosting, and a review process. Read it before building
+anything past this point.
+
+Also surfaced: Phill separately runs
+`Ngarri-Primary-School/ngarri-mentor-text-library` (a different school's
+Supabase-backed teacher library) and wants this project's content
+genuinely export/API-accessible to it — not just a link between sites.
+That repo already holds a private copy of 98 of this project's Mentor
+Texts under rules that currently forbid exactly that kind of consumption
+("must not... enter... website builds, Supabase records, public exports").
+Not resolved here — see `SYSTEM-SPEC.md` §8. Only Phill can update the
+Ngarri-side policy; do not assume it's been done.
 
 ## Why (the goal)
 

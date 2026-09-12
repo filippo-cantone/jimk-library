@@ -3,6 +3,35 @@
 Phill reviewed 2026-09-11 (answers recorded; items checked are closed).
 Commits are per-folder so anything can be reverted or redone piecemeal.
 
+## 2026-09-12 — full system spec written + Ngarri cross-project question raised
+
+Phill: didn't want more page-by-page design before a single, complete,
+documented plan existed — one anyone or any AI could pick up cold. Written
+as `SYSTEM-SPEC.md`, covering everything decided below plus the parts not
+yet decided (data schema, page templates, build process).
+
+- [x] Data storage: new `entities/` directory (YAML, one file per book /
+      strategy / author), sitting on top of `content/` which stays as-is
+      (raw/cleaned pack material, never the thing a teacher lands on).
+      `content/` is not deleted or replaced by this.
+- [x] Design tokens (colour palette, type pairing) formalised from the
+      approved mockup so future pages don't re-derive them.
+- [ ] Phill also runs `Ngarri-Primary-School/ngarri-mentor-text-library`
+      (separate school, Supabase-backed teacher library) and wants this
+      project's content genuinely export/API-accessible to it — confirmed
+      2026-09-12, not "just a link between sites."
+      **Found and flagged, not resolved**: Ngarri's own repo already holds
+      a private copy of 98 of this project's Mentor Texts
+      (`restricted-reference/jimk-mentor-texts/`, imported 2026-09-10)
+      under rules Phill approved in that project two days earlier, which
+      as written forbid exactly this: "Never include this directory in
+      website builds, Supabase records, public exports, releases or
+      downloadable site assets." Recommended resolution in
+      `SYSTEM-SPEC.md` §8: export teaching commentary/analysis, not the
+      verbatim lifted mentor texts (matches both projects' own existing
+      copyright lines). Needs Phill to actually update Ngarri's policy doc
+      before any export is wired up — not assumed done by writing this.
+
 ## 2026-09-12 — strategy-first IA + entity content model (Phill + Claude) — APPROVED
 
 Phill, after Claude's review and the dedupe/Reader's Theatre/Writer's
