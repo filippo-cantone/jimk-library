@@ -1,0 +1,60 @@
+slug: owl-moon
+title: Owl Moon
+author: Jane Yolen
+author_slug: jane-yolen
+genre: memoir
+year: null
+strategies:
+- inferring
+- visualising
+mentor_text: Mentor Texts/Owl Moon — Jane Yolen.md
+fragments:
+- kind: lesson
+  strategy: inferring
+  title: Inferring with Owl Moon
+  dek: Text clues + background knowledge chart, read alongside the full text
+  lede: A child goes owling with Pa on a still winter night. Read the full text (Mentor Text tab), then
+    chart what's inferred as you go -- the routine below is designed to be filled in during a first read,
+    not after.
+  routine: inference-chart
+  chart_columns:
+  - I'm wondering what this means
+  - Evidence from the book / text clues
+  - Background knowledge / what I know
+  - I infer
+  note: Blank 4-column chart, used live during reading rather than as a worked example -- there is no
+    single 'answer' recorded in Jim's pack, it's a modelled-thinking routine.
+  source_file: Inferring Course JIM/INFERRING 1 Jim.md
+  source_lines: 2320-2708
+  also_found_in: []
+also_appears_in:
+- kind: strategy-hub
+  label: Visualising
+  target: strategy:visualising
+- kind: reference-list
+  label: Reading Like Writers
+  target: Writing/Craft/Reading Like Writers
+- kind: reference-list
+  label: Writing Craft Mentor List
+  target: Writing Craft Mentor List
+- kind: author
+  label: Jane Yolen
+  target: author:jane-yolen
+- kind: strategy-hub
+  label: Vocabulary & Word Study (Vocabulary 3)
+  target: strategy:vocabulary
+- kind: strategy-hub
+  label: Voice (Writing Voice 1)
+  target: strategy:voice
+- kind: genre
+  label: 'Genre Writing: Memoir'
+  target: genre:memoir
+- kind: strategy-hub
+  label: Reading Fluency (Choral Reading)
+  target: strategy:fluency
+- kind: reference-list
+  label: Narrative Course 2014
+  target: Writing/Narrative Course 2014 June.md
+- kind: reference-list
+  label: Writing - Writer's Notebook
+  target: Writing/Writing - Writer's Notebook.md

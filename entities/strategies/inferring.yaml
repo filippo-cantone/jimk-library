@@ -1,0 +1,68 @@
+slug: inferring
+name: Inferring
+branch: reading
+overview: 'Inferring is filling in, in your head, what is not written on the page. Readers combine Text
+  Clues + Background Knowledge to make an inference -- and there can be more than one correct answer,
+  as long as students can support it from the text. It underpins nearly every other comprehension strategy:
+  predicting, questioning and summarising all depend on it.'
+source_note: Synthesised from all 10 packs in Inferring Course JIM -- this overview is written fresh,
+  not Jim's verbatim text (his own words are kept on each book's lesson tab).
+routines:
+- name: It Says – I Say – And So…
+  description: '4-step chart: write the question, find what the text says, think about what you know,
+    combine them into an answer.'
+  worked_example:
+    label: Goldilocks (classic tale, generic worked example)
+    book_slug: null
+  source_file: Inferring Course JIM/INFERRING2 Jim.md
+- name: Directed Listening Thinking Activity (DLTA)
+  description: Stop at planned points during a read-aloud to predict and infer what happens next.
+  worked_example:
+    label: Granddaddy's Gift — Margaree Mitchell
+    book_slug: granddaddy-s-gift
+  note: Book page not yet built — not part of this pilot batch.
+  source_file: Inferring Course JIM/INFERRING2 Jim.md
+- name: TC + BK = I (Text Clues + Background Knowledge = Inference)
+  description: Explicit modelling of the inferring equation before releasing students to use it independently.
+  worked_example:
+    label: Tight Times — Barbara Shook Hazen
+    book_slug: tight-times
+  note: Book page not yet built — not part of this pilot batch.
+  source_file: Inferring Course JIM/INFERRING2 Jim.md
+- name: 4-column inference chart
+  description: I'm wondering what this means / evidence / background knowledge / I infer — filled in live
+    during a first read.
+  worked_example:
+    label: Owl Moon — Jane Yolen
+    book_slug: owl-moon
+  source_file: Inferring Course JIM/INFERRING 1 Jim.md
+- name: Theme-inference chart
+  description: Event or character choice → my inference → author's message.
+  worked_example:
+    label: Brave Irene — William Steig
+    book_slug: brave-irene
+  source_file: Inferring Course JIM/INFERRING3 Jim.md
+- name: Illustration-based inferring
+  description: Illustrations plus text — infer from cover and pictures before and alongside reading.
+  worked_example:
+    label: The Stranger — Chris Van Allsburg
+    book_slug: the-stranger
+  source_file: Inferring Course JIM/INFERRING2 Jim.md
+- name: Multi-strategy chart
+  description: One book, one chart, several strategy rows (prior knowledge / questioning / visualising
+    / inferring) — shows how the strategies work together on the same text.
+  worked_example:
+    label: Fireflies! — Julie Brinckloe
+    book_slug: fireflies
+  source_file: Inferring Course JIM/INFERRING3 Jim.md
+books:
+- knuffle-bunny
+- owl-moon
+- brave-irene
+- the-stranger
+- fireflies
+novel_studies:
+- chasing-vermeer
+pilot_note: This is a 5-book pilot batch, not the full strategy page — the Inferring packs reference ~45
+  books in total. Remaining books, and the 2 routines above without a linked worked example yet, are follow-up
+  work once this batch is reviewed.

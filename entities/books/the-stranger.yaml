@@ -1,0 +1,53 @@
+slug: the-stranger
+title: The Stranger
+author: Chris Van Allsburg
+author_slug: chris-van-allsburg
+genre: null
+year: null
+strategies:
+- inferring
+mentor_text: null
+fragments:
+- kind: lesson
+  strategy: inferring
+  title: Inferring with The Stranger
+  dek: Illustration-based inferring, using illustrations plus text
+  lede: Farmer Bailey hits a man with his truck who has no memory of who he is -- strange things happen
+    on the farm while he stays, and autumn never quite arrives until he leaves. Jim's own retelling of
+    the full text runs through the Inferring pack.
+  routine: illustration-inference
+  steps:
+  - - Illustrations plus text
+    - Illustrations help students infer and enhance meaning -- not just decoration.
+  - - Cover
+    - What can you infer from the picture of the boy with a plate of beans? (shared prompt structure,
+      adapted here to The Stranger's cover)
+  - - TC + BK = I
+    - Text Clues + Background Knowledge = Inference -- model the equation explicitly before releasing
+      students to use it.
+  quote: And etched in frost on the farmhouse windows are words that say simply, ‘See you next fall.’
+  source_file: Inferring Course JIM/INFERRING2 Jim.md
+  source_lines: 1051-1148
+  also_found_in: []
+also_appears_in:
+- kind: strategy-hub
+  label: Questioning (3 packs)
+  target: strategy:questioning
+- kind: strategy-hub
+  label: Think Aloud
+  target: strategy:think-aloud
+- kind: strategy-hub
+  label: Reader's Theatre (script)
+  target: strategy:fluency
+- kind: reference-list
+  label: Writing Craft Mentor List
+  target: Writing Craft Mentor List
+- kind: author
+  label: Chris Van Allsburg
+  target: author:chris-van-allsburg
+- kind: reference-list
+  label: Writer's Notebook prompts
+  target: Writer's Notebook/Children's Literature Prompts - Writer's Notebook 17 Quick Writes.md
+- kind: reference-list
+  label: Narrative Course 2014
+  target: Writing/Narrative Course 2014 June.md

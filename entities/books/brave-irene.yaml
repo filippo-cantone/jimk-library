@@ -1,0 +1,48 @@
+slug: brave-irene
+title: Brave Irene
+author: William Steig
+author_slug: william-steig
+genre: realistic-fiction
+year: null
+strategies:
+- inferring
+mentor_text: Mentor Texts/Brave Irene — William Steig.md
+fragments:
+- kind: lesson
+  strategy: inferring
+  title: Inferring theme with Brave Irene
+  dek: Theme-inference chart, read alongside the full text
+  lede: Irene braves a blizzard to deliver a dress her sick mother can't. Read the full text (Mentor Text
+    tab), then use the theme chart to move from events/character choices to an inferred author's message.
+  routine: theme-chart
+  chart_columns:
+  - An important event or what a character says/does
+  - My inferences
+  - Author's message
+  note: Same theme-inference structure as INFERRING3's generic THEMES template, applied specifically to
+    Brave Irene as the worked example.
+  source_file: Inferring Course JIM/INFERRING3 Jim.md
+  source_lines: 2047-2324
+  also_found_in: []
+also_appears_in:
+- kind: strategy-hub
+  label: Questioning (5 packs)
+  target: strategy:questioning
+- kind: strategy-hub
+  label: Vocabulary & Word Study (Vocabulary 4)
+  target: strategy:vocabulary
+- kind: reference-list
+  label: Writing Craft Mentor List
+  target: Writing Craft Mentor List
+- kind: reference-list
+  label: Reading Like Writers Supplement
+  target: Mentor Texts/Reading Like Writers Supplement.md
+- kind: author
+  label: William Steig
+  target: author:william-steig
+- kind: reference-list
+  label: Narrative Course 2014
+  target: Writing/Narrative Course 2014 June.md
+- kind: reference-list
+  label: Character Study Narratives
+  target: Writing/character study narratives.md

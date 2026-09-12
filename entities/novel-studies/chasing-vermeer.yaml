@@ -1,0 +1,27 @@
+slug: chasing-vermeer
+title: Chasing Vermeer
+author: Blue Balliett
+kind: novel-study
+note: A full chapter-book unit, not a single-sitting lesson -- kept as its own page type rather than forced
+  into the book-page shape. Only the inferring-relevant parts are surfaced here; the complete 24-chapter
+  discussion guide, author/illustrator Q&As and activities stay in the source pack.
+source_file: Inferring Course JIM/Inferring novel Chasing Vermeer.md
+inferring_sections:
+- title: The Reader's Challenge
+  description: A code, hidden across the illustrations of every odd-numbered chapter (one pentomino shape
+    plus 1-3 frogs per chapter), spells out a message once decoded -- visual inference sustained across
+    the whole book, not a single scene.
+  example: 'Chapter One: a ''V'' pentomino plus two frogs = V:2 = the letter T (using Calder''s code from
+    page 57). Chapter Three: V:1 = H. Chapter Five: P:1 = E.'
+  source_lines: 533-651
+- title: Inference-focused discussion questions
+  description: 'Selected from the pack''s 24 chapter-by-chapter discussion questions -- the ones that
+    ask students to infer rather than recall:'
+  questions:
+  - What does Calder think of Petra? How do you know? (p. 11)
+  - What makes this a clue? (p. 76)
+  - What coincidences cause Petra and Calder to start collecting facts about Vermeer?
+  - Do you think Petra's vision and the storage cabinets in Mrs Sharpe's house are clues or coincidences?
+    What makes you think this?
+  - Use context clues to guess at what Tommy told Calder. (p. 122)
+  source_lines: 812-884 (full list of 24 in source pack)

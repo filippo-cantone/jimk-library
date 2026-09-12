@@ -1,0 +1,69 @@
+slug: fireflies
+title: Fireflies!
+author: Julie Brinckloe
+author_slug: null
+genre: memoir
+year: null
+strategies:
+- inferring
+mentor_text: Mentor Texts/Fireflies — Julie Brinckloe.md
+fragments:
+- kind: lesson
+  strategy: inferring
+  title: Inferring with Fireflies!
+  dek: One book, five strategies -- inferring is one row of a multi-strategy chart
+  lede: 'A boy catches a jar of fireflies, then sets them free before they die. Jim uses this text for
+    prior knowledge, questioning, visualising, inferring and determining-importance in one sitting --
+    the inferring-specific prompts:'
+  routine: multi-strategy-table
+  pairs:
+  - - The screen door banged behind me as I ran from the house. If someone said, ‘Don't slam it,’ I wasn't
+      listening.
+    - Why not?
+  - - But it was not the same.
+    - Why wasn't it the same in his room?
+  - - The moonlight and the fireflies swam in my tears, but I could feel myself smiling.
+    - Why was he crying and smiling?
+  note: Same passage also carries a text-to-inference chart (background knowledge column left for students)
+    and a separate 'Reading Like a Writer' craft table (sensory images, simile, repetition, voice) --
+    craft content, not shown on this tab; see Also appears in.
+  source_file: Inferring Course JIM/INFERRING3 Jim.md
+  source_lines: 1373-1722
+  also_found_in: []
+also_appears_in:
+- kind: strategy-hub
+  label: Activating Prior Knowledge
+  target: strategy:prior-knowledge
+- kind: strategy-hub
+  label: Visualising
+  target: strategy:visualising
+- kind: strategy-hub
+  label: Vocabulary & Word Study (4 packs)
+  target: strategy:vocabulary
+- kind: strategy-hub
+  label: Voice (2 packs)
+  target: strategy:voice
+- kind: reference-list
+  label: Writing Craft Mentor List
+  target: Writing Craft Mentor List
+- kind: reference-list
+  label: Reading Like Writers Supplement
+  target: Mentor Texts/Reading Like Writers Supplement.md
+- kind: reference-list
+  label: Reading Like Writers (craft table)
+  target: Writing/Craft/Reading Like Writers
+- kind: genre
+  label: 'Genre Writing: Memoir'
+  target: genre:memoir
+- kind: strategy-hub
+  label: Reading Fluency (Choral Reading)
+  target: strategy:fluency
+- kind: getting-started
+  label: First 20 Days (3 packs)
+  target: getting-started
+- kind: reference-list
+  label: Character Study Narratives
+  target: Writing/character study narratives.md
+- kind: reference-list
+  label: Narrative Course 2014
+  target: Writing/Narrative Course 2014 June.md

@@ -3,6 +3,48 @@
 Phill reviewed 2026-09-11 (answers recorded; items checked are closed).
 Commits are per-folder so anything can be reverted or redone piecemeal.
 
+## 2026-09-12 — Inferring pilot built (5 books) — AWAITING PHILL'S REVIEW
+
+First real build against `SYSTEM-SPEC.md`. Phill asked two things before
+building: (1) how should `Inferring novel Chasing Vermeer.md` (a full
+novel study, found during Phase A scoping) be handled, and (2) routines
+explained on the strategy page (It Says-I Say-And So, DLTA, etc.) should
+link to the texts they're taught with, where a linked page exists.
+
+- [x] Chasing Vermeer: Phill — "the inferring parts of the study should be
+      linked to from here [the strategy hub]." Built as its own page type
+      (novel-study, not book), surfacing only its Reader's Challenge (a
+      code hidden across chapter illustrations) and a curated set of
+      inference-focused discussion questions — not the full 24-chapter
+      guide, which stays in the source pack. Linked from the Inferring hub
+      alongside the book list.
+- [x] Routine-to-text links: implemented on the Inferring hub. 4 of 6
+      routines link to their worked-example book in this batch (4-column
+      chart → Owl Moon, theme chart → Brave Irene, illustration-based
+      inferring → The Stranger, multi-strategy chart → Fireflies!); the 2
+      whose worked example isn't in this batch (DLTA → Granddaddy's Gift,
+      TC+BK=I → Tight Times) show as plain text with a note rather than a
+      dead link.
+- [x] 5-book batch built: Knuffle Bunny, Owl Moon, Brave Irene, The
+      Stranger, Fireflies! — chosen to cover every structural case in
+      `SYSTEM-SPEC.md` (merged duplicate content, existing mentor-text lift
+      rendered on its own tab, honest absence of a lift, heavy cross-
+      strategy reuse up to 12 "Also appears in" entries).
+- [x] Real scope found during Phase A: the 10 Inferring packs reference
+      ~45 books total (not ~17, which is what the single-pack
+      `site/drafts/inferring.html` prototype covered) — this pilot is 5 of
+      those 45, not the complete strategy.
+- [x] New tooling, not throwaway: `site/entity_build.py` is the real Phase
+      D generator, built out for this batch, meant to be extended for the
+      next one, not rewritten.
+
+Reviewed live: `cfeafd98-a261-4c37-9704-51fddea119c6` on
+claude.ai/code/artifact (hub + 5 book pages + novel-study page, generated
+from `entities/`, real content throughout).
+
+Open for Phill: approve this batch's format before scaling extraction to
+the remaining ~40 Inferring books.
+
 ## 2026-09-12 — full system spec written + Ngarri cross-project question raised
 
 Phill: didn't want more page-by-page design before a single, complete,

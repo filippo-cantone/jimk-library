@@ -137,6 +137,27 @@ that assumption (export everything, no content-type carve-out) — see
 verify itself: that the Ngarri-side change has actually been made before
 anything is wired up live.
 
+**2026-09-12, Inferring pilot built.** First real batch against
+`SYSTEM-SPEC.md`: 5 books (Knuffle Bunny, Owl Moon, Brave Irene, The
+Stranger, Fireflies!) + the Inferring strategy hub + a new page type for
+`Inferring novel Chasing Vermeer.md` (a full novel study, not a
+single-sitting lesson — kept as its own shape, only its inferring-relevant
+sections surfaced, linked from the hub rather than forced into a book
+page). New: `entities/` (books/strategies/novel-studies YAML, the real
+data layer) and `site/entity_build.py` (the Phase D generator, seeded for
+real — not a stub). Routines on the strategy hub link to their worked-
+example book when one exists in this batch (Owl Moon, Brave Irene, The
+Stranger, Fireflies!); the two that don't yet (DLTA → Granddaddy's Gift,
+TC+BK=I → Tight Times) show as plain text with a note, ready to link once
+those books are built. Also lifted `Knuffle Bunny — Mo Willems.md` as a
+proper Mentor Text (the only one of the 5 that lacked one). Reviewed live
+at `cfeafd98-a261-4c37-9704-51fddea119c6` on claude.ai/code/artifact.
+Real scope found: the 10 Inferring packs reference ~45 books total, not
+the ~17 one earlier prototype (`site/drafts/`) suggested — this batch is
+5 of them, not the whole strategy. Next: Phill reviews this batch; if
+approved, scale extraction to the remaining ~40 Inferring books before
+moving to a second strategy.
+
 ## Why (the goal)
 
 Jim, a literacy consultant, left the school his complete course archive:

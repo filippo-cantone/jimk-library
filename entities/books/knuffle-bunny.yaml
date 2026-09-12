@@ -1,0 +1,47 @@
+slug: knuffle-bunny
+title: Knuffle Bunny
+author: Mo Willems
+author_slug: null
+genre: picture-book
+year:
+- P
+- '1'
+strategies:
+- inferring
+mentor_text: Mentor Texts/Knuffle Bunny — Mo Willems.md
+fragments:
+- kind: lesson
+  strategy: inferring
+  title: 'Stop-and-infer: Knuffle Bunny'
+  dek: Early years, one sitting, ~15 minutes, text clues + background knowledge
+  lede: Trixie, a girl who hasn't yet learnt to talk, loses her favourite stuffed animal -- Knuffle Bunny
+    -- at the laundromat on an errand with her dad. She finds her first words getting it back.
+  routine: plot-development
+  steps:
+  - - Setting the scene
+    - Dad and Trixie set off for the laundromat.
+  - - Rising action
+    - At the laundromat they leave Knuffle Bunny behind.
+  - - Foreshadowing
+    - Some students will see straight away that Knuffle Bunny is in the wash basket and Dad doesn't seem
+      to be watching what he's loading.
+  - - Climax / crisis
+    - Trixie can't get the message through to Dad.
+  - - Falling action
+    - Mum knows straight away.
+  - - Suspense
+    - Looking for Knuffle Bunny, and finally finding it.
+  - - Resolution
+    - Trixie says her first words.
+  infer_prompt: 'Read to: “Trixie turned to her daddy and said, ‘Aggle flaggle klabble!’” — What would
+    Trixie say if she could talk?'
+  quote: As soon as Trixie's mummy opened the door, she asked, ‘Where's Knuffle Bunny?’
+  source_file: Inferring Course JIM/INFERRING2 Jim.md
+  source_lines: 2837-2952
+  also_found_in:
+  - Writing/Narrative Course 2014 June.md
+  - Mentor Texts/Mentor texts 1.md
+also_appears_in:
+- kind: reference-list
+  label: Exploding a Moment
+  target: Writing Craft Mentor List
