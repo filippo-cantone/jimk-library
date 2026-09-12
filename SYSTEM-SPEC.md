@@ -314,53 +314,58 @@ the hosting/deploy mechanics don't need to change.
 
 ## 8. Cross-project interoperability — Ngarri Mentor Text Library
 
-**Status: intent confirmed by Phill (2026-09-12), mechanism not yet built,
-one real policy conflict flagged below and not resolved by this document.**
+**Status: full access confirmed by Phill (2026-09-12). Build under the
+assumption that everything this project creates — including full mentor
+texts — is importable into Ngarri. Mechanism not yet built.**
 
 Phill also runs `Ngarri-Primary-School/ngarri-mentor-text-library` (a
 separate, already-substantial Supabase-backed teacher library for a
 different school). He wants this project's content genuinely
-export/API-accessible to that project — not just a link between sites.
+export/API-accessible to that project — not just a link between sites —
+and confirmed (2026-09-12) that **everything created here, full texts
+included, should be treated as available to Ngarri.**
 
-**What was found (2026-09-12) that this decision must account for:**
-Ngarri's own repo already holds a private copy of 98 of this project's
-Mentor Texts (`restricted-reference/jimk-mentor-texts/`, imported
-2026-09-10, images excluded), under rules Phill approved in *that* project
-two days before this conversation:
+**What this supersedes:** Ngarri's own repo currently holds a private copy
+of 98 of this project's Mentor Texts (`restricted-reference/
+jimk-mentor-texts/`, imported 2026-09-10, images excluded) under rules
+approved in *that* project two days before this conversation ("never
+include this directory in website builds, Supabase records, public
+exports..."). Phill has said he will update that restriction himself in
+the Ngarri repo to allow this. **This project's design proceeds on that
+basis** — export everything, not just commentary. What this document
+cannot do: confirm the Ngarri-side change has actually happened. Whoever
+builds or wires up the export must check Ngarri's
+`restricted-reference/README.md` (and any successor policy doc) at that
+time, not assume 2026-09-12's stated intent is still current months later.
 
-> "Never include this directory in website builds, Supabase records,
-> public exports, releases or downloadable site assets." "Treat
-> transcriptions as checking aids." "Use only short, necessary excerpts in
-> teacher-facing analysis."
+**Note on this project's own "internal use" line:** `MASTERPLAN.md`'s
+constraint says retyped picture-book texts are fine for internal school
+use, "revisit if the link ever goes public." Feeding full texts into a
+second school's system is broader than that original single-school scope —
+noted here for the record, not as a blocker. Phill owns both projects and
+has made the call; this isn't "going public" to the internet, but it is a
+real expansion of who the content reaches, worth being visible in the
+history rather than quietly absorbed into "internal."
 
-That rule, as written, forbids exactly the kind of consumption a real
-export/API enables. **This document does not resolve that conflict** —
-only Phill can, by updating Ngarri's `restricted-reference/README.md` (or
-deciding the export should feed some *other* part of Ngarri's system that
-isn't bound by that rule, e.g. informing their manual book-review workflow
-rather than their public Supabase-backed viewer). Whoever builds the export
-side of this must confirm that update has actually happened in the Ngarri
-repo — not assume it — before wiring anything live.
+**Export shape** (design-only, not yet built):
 
-**Recommended shape once that's resolved** (design-only, not yet built):
-
-- Export **entity metadata and Jim's own teaching commentary** (fragment
-  kinds `lesson`, `vocab-focus`, `script`, `craft-note`, `discussion`) —
-  this is Jim's original analysis, not the book's copyrighted text.
-- **Do not export the `mentor-text` fragment kind** (the verbatim lifted
-  book texts) through this channel. This isn't just caution — it's the
-  same line Ngarri's own content standard already draws for itself ("Do
-  not publish copyrighted full texts") and the same line this project's
-  own `MASTERPLAN.md` draws ("internal school use only... revisit if the
-  link ever goes public"). An export fed into a *different school's*
-  public-facing system is exactly the "going public" case that caveat was
-  written for.
+- Export **everything**: all fragment kinds, including `mentor-text` (the
+  full lifted book texts) — no content-type carve-out on the Jim K side.
+  Any restriction on what Ngarri actually surfaces publicly (e.g. keeping
+  full texts reviewer-only until a teacher-facing decision is made) is
+  Ngarri's own policy to set, downstream of this export, not something
+  this project filters on its way out.
 - Mechanism: static, versioned JSON published alongside the site build
   (e.g. `site/dist/api/books.json`, `strategies.json`, `authors.json`) —
   no server, no auth, consistent with the zero-cost constraint. Ngarri's
-  side would fetch and parse it into their own Supabase-backed review
+  side fetches and parses it into their own Supabase-backed review
   workflow, the same way they currently manually mine the raw
-  `restricted-reference` copy — just structured instead of raw Markdown.
+  `restricted-reference` copy — just structured instead of raw Markdown,
+  and complete instead of a partial private snapshot.
+- Versioning: each export carries the source commit it was built from
+  (mirroring how Ngarri already records `source commit
+  5a6a6ea3c01b83b2dd97a6cec4a66580ab20cc46` for its current private copy),
+  so Ngarri can tell what's changed between imports.
 
 This section is deliberately the least settled part of this document.
 Treat §1–7 as the thing to build now; treat §8 as a real commitment that

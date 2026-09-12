@@ -130,8 +130,12 @@ genuinely export/API-accessible to it — not just a link between sites.
 That repo already holds a private copy of 98 of this project's Mentor
 Texts under rules that currently forbid exactly that kind of consumption
 ("must not... enter... website builds, Supabase records, public exports").
-Not resolved here — see `SYSTEM-SPEC.md` §8. Only Phill can update the
-Ngarri-side policy; do not assume it's been done.
+**Confirmed 2026-09-12**: Phill will update that Ngarri-side restriction
+himself to allow full access, including full mentor texts. Build under
+that assumption (export everything, no content-type carve-out) — see
+`SYSTEM-SPEC.md` §8, which also records the one thing this project can't
+verify itself: that the Ngarri-side change has actually been made before
+anything is wired up live.
 
 ## Why (the goal)
 

@@ -16,21 +16,24 @@ yet decided (data schema, page templates, build process).
       `content/` is not deleted or replaced by this.
 - [x] Design tokens (colour palette, type pairing) formalised from the
       approved mockup so future pages don't re-derive them.
-- [ ] Phill also runs `Ngarri-Primary-School/ngarri-mentor-text-library`
+- [x] Phill also runs `Ngarri-Primary-School/ngarri-mentor-text-library`
       (separate school, Supabase-backed teacher library) and wants this
       project's content genuinely export/API-accessible to it — confirmed
       2026-09-12, not "just a link between sites."
-      **Found and flagged, not resolved**: Ngarri's own repo already holds
-      a private copy of 98 of this project's Mentor Texts
+      **Found and flagged**: Ngarri's own repo already holds a private
+      copy of 98 of this project's Mentor Texts
       (`restricted-reference/jimk-mentor-texts/`, imported 2026-09-10)
       under rules Phill approved in that project two days earlier, which
       as written forbid exactly this: "Never include this directory in
       website builds, Supabase records, public exports, releases or
-      downloadable site assets." Recommended resolution in
-      `SYSTEM-SPEC.md` §8: export teaching commentary/analysis, not the
-      verbatim lifted mentor texts (matches both projects' own existing
-      copyright lines). Needs Phill to actually update Ngarri's policy doc
-      before any export is wired up — not assumed done by writing this.
+      downloadable site assets."
+      **Resolved 2026-09-12**: Phill will update that Ngarri-side
+      restriction himself to allow full access, full texts included.
+      `SYSTEM-SPEC.md` §8 updated to design for exporting everything (no
+      commentary-only carve-out). Still true: this project can't verify
+      the Ngarri-side change has actually happened — check
+      `restricted-reference/README.md` there before wiring up a live
+      export, whenever that work starts.
 
 ## 2026-09-12 — strategy-first IA + entity content model (Phill + Claude) — APPROVED
 
