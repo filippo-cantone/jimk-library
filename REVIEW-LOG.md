@@ -3,6 +3,85 @@
 Phill reviewed 2026-09-11 (answers recorded; items checked are closed).
 Commits are per-folder so anything can be reverted or redone piecemeal.
 
+## 2026-09-13 — Inferring pilot, round 4: "Magical Library" visual redesign
+
+Phill: shared a Claude Design handoff bundle (`Jim K Teacher Knowledge
+Base.zip`, unzipped as `design_handoff_jimk_library/`) — a full "Magical
+Library" visual direction for this same page set: deep midnight-navy hero
+bands with twinkling star dots over a warm near-black "dark woods" body,
+content in rounded "alcove" panels with an arched top and an inset warm
+glow, Playfair Display (italic display serif) + Karla (body/UI), gold
+accent for links/numerals, emerald for small-caps kickers. Asked "is this
+the direction you want?" and Phill confirmed: adopt it for real, replacing
+the light "library catalogue card" look built in round 1.
+
+Rebuilt `site/entity-static/styles.css` from scratch against the handoff
+(colors, type scale, panel radii and shadows, pill tab-switcher, search
+dropdown, card grids all matched to the exact tokens in the bundle's
+`.dc.html` files and its README). Kept every class name `entity_build.py`
+already emits (`.card-header`, `.panel`, `.tabs`/`.tab`, `.stratgrid`,
+`.usedgrid`, `.pagetoc`, etc.) so this was a stylesheet + light template
+rewrite, not a rebuild — added a `render_hero()` helper for the navy
+hero band (used on Home and the Inferring hub), a `.plainhead` style for
+the plain centered titles on index pages, and wrapped the strategy hub's
+four sections (why/how/routines/books) in alcove panels to match the
+handoff's panelled look.
+
+Deliberate deviation from the handoff: kept round 3's sticky-jump-nav,
+long-scroll page structure on the strategy hub instead of the handoff's
+three-tab layout. The handoff's own README says it's a visual reference
+("recreate ... using its own component patterns," not "copy verbatim") —
+the tab structure there exists because that prototype tool defaults to
+component state, not because it's a better fit than what Phill already
+asked for and approved in round 3.
+
+Fixed one bug found while rebuilding: the sticky page-jump nav
+(`position: sticky`) had no bottom boundary, so once past the hero it
+stayed pinned over whatever content scrolled beneath it instead of
+releasing — most visible over the last "Why teach it" blockquote. Made it
+a normal (non-sticky) nav instead; it now sits once, right under the
+hero, and doesn't need scroll-tracking to avoid the overlap.
+
+Verified via a clean rebuild (`rm -rf site/dist-pilot && python3
+site/entity_build.py`) and a full browser pass: home, reading-strategies
+index, the Inferring hub (all four sections + pagetoc links), Owl Moon's
+book page (tab-switching, formula box, also-appears-in grid), search
+(typed "owl" and "strang", both resolved), and the Chasing Vermeer novel
+study. Republished to the same artifact URL — no new link.
+
+## 2026-09-12 — Inferring pilot, round 3: site-wide navigation
+
+Phill: "there should be easy to access navigation on the site to allow
+teachers to easily jump to the different sections." Until now the pilot
+was 5 isolated book pages + a hub with no way to move between them except
+the URL bar or a browser back button.
+
+Added, applied to every page:
+- **Site header** (title + Reading/Writing/Authors nav + a working search
+  box) — search is real, not decorative: filters the pilot's actual 7
+  entities (5 books, 1 strategy, 1 novel study) live as you type, links
+  straight to the matching page.
+- **Real home page** (`index.html`) — the two front doors from
+  `STRATEGY-TAXONOMY.md`, as an actual grid: all ~11 reading strategies
+  and ~14 writing strategies listed, Inferring clickable and marked
+  "Built — 5 books," everything else openly marked "Not yet built" rather
+  than a dead link or an omission.
+- **Reading/Writing/Authors index pages** — same honest built/not-built
+  pattern, reached from the header on every page.
+- **Sticky in-page jump nav** on the Inferring strategy page (1 Why teach
+  it / 2 How to teach it / 3 Routines / 4 Books) — the page is long now
+  that it has real content; this was previously in Phill's own
+  `sketches/strategy-page/` prototype and not carried over until now.
+
+Fixed a real process gap while at it: the stylesheet had only ever lived
+in a scratch temp file, never committed — `site/entity_build.py` worked
+only because I'd been manually copying it in each time. Moved it to
+`site/entity-static/styles.css` (tracked in git) and made the generator
+copy it automatically, so `python3 site/entity_build.py` alone now
+regenerates the complete site from a clean checkout.
+
+Republished to the same artifact URL.
+
 ## 2026-09-12 — Inferring pilot, round 2: extraction was too shallow
 
 Phill's review of round 1: "it doesn't interest teach us how to infer" —

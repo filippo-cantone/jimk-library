@@ -158,6 +158,37 @@ the ~17 one earlier prototype (`site/drafts/`) suggested — this batch is
 approved, scale extraction to the remaining ~40 Inferring books before
 moving to a second strategy.
 
+**2026-09-12, round 3: site-wide navigation.** Phill: "there should be
+easy to access navigation on the site to allow teachers to easily jump to
+the different sections." Added a real header (site name, Reading/Writing/
+Authors nav, live client-side search) rendered on every page; a real home
+page with honest built/not-built strategy grids (replacing the earlier
+placeholder); `reading-strategies.html`/`writing-strategies.html`/
+`authors.html` index stub pages; a sticky in-page jump nav on the
+Inferring strategy hub (`#s-why`/`#s-how`/`#s-routines`/`#s-books`).
+Fixed a real infrastructure gap found while wiring this up: `styles.css`
+had only ever lived in a scratch file (`/tmp/shared_styles.css`), manually
+copied before each render — not reproducible from a clean checkout. Moved
+it into tracked `site/entity-static/`, `entity_build.py`'s `main()` now
+copies everything from there into the output at build time automatically.
+
+**2026-09-13, round 4: "Magical Library" visual redesign.** Phill used
+Claude Design to produce a full design-handoff bundle for this same page
+set (`Jim K Teacher Knowledge Base.zip` — dark storybook aesthetic: navy
+hero bands with twinkling stars over a warm "dark woods" body, content in
+rounded "alcove" panels with an inset warm glow, Playfair Display +
+Karla, gold/emerald accents) and asked for it to become the site's actual
+look. Rebuilt `site/entity-static/styles.css` from scratch against that
+handoff (kept the same class names `entity_build.py` already emits, so no
+template rewrite was needed beyond adding a `render_hero()` helper and
+wrapping the strategy hub's four sections in alcove panels). Kept the
+existing sticky-jump-nav / long-scroll structure from round 3 rather than
+the handoff's tab-based structure — the handoff bundle is a visual
+reference, not a structural one (per its own README). Verified all pages
+render and interact correctly (search, tab-switching, also-appears-in
+grid) via a local rebuild + browser check. Live at the same artifact URL,
+`cfeafd98-a261-4c37-9704-51fddea119c6`.
+
 ## Why (the goal)
 
 Jim, a literacy consultant, left the school his complete course archive:
