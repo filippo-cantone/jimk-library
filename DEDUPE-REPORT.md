@@ -70,11 +70,45 @@ and why.
   - The now-fully-decomposed "Readers' Theatre 1-18.md" was retired (all its
     non-fragmentary content lives on as 8 standalones; the one fragment is
     superseded by RT1's complete script).
-- **Writer's Notebook cluster** (`Writer's Notebook/Writer's Notebook.md`,
-  `Writing/Writer's Notebook 1-103.md`, `Writing/Writing - Writer's
-  Notebook.md`) — none of the three is clean (pandoc noise, OCR errors, or
-  broken heading structure respectively). Needs a merge/rebuild pass, not a
-  keep/retire call. Scoped as its own task per Phill (2026-09-12).
+## Resolved 2026-09-12 — Writer's Notebook cluster
+
+Three files, two folders, none individually clean: `Writer's
+Notebook/Writer's Notebook.md` (pandoc/paste noise — `INCLUDEPICTURE`
+leftovers, no local images, no real conversion provenance), `Writing/
+Writer's Notebook 1-103.md` (OCR from a 103-page scan), `Writing/Writing -
+Writer's Notebook.md` (clean native-doc conversion, but 11 body paragraphs
+mis-tagged as `##` headings by pandoc).
+
+Rather than pick a "least-bad" file, checked what each one actually
+contained that the others didn't — using a word-normalized diff plus a
+full-text substring re-check (to rule out content that only looked unique
+because of reordering, not because it was actually missing):
+
+- `Writing - Writer's Notebook.md` and `Writer's Notebook/Writer's
+  Notebook.md` turned out to be **the same source text**, just two
+  different conversions of it (one with proper local images, curly quotes,
+  and real HTML tables for its book-craft comparison charts; the other with
+  dead web-cached image links, straight quotes, and the same charts
+  flattened to plain lists). Only one genuine content gap found: `Writing -
+  Writer's Notebook.md` was missing an entire section, "Kinds of Notebook
+  Entries" (a 40-item list), which the other file had intact — moved across
+  and inserted at the matching point (before "**Collecting**"), since
+  `Writing - Writer's Notebook.md`'s own text referenced it ("see list of
+  ideas") without the list being present.
+- The 103-page OCR pack was checked the same way, with a long-word-overlap
+  test instead of exact substring match (OCR errors break exact matching).
+  Confirmed it adds nothing: the handful of blocks that scored as "unique"
+  were a single poem so badly OCR-garbled ("gour own skin feels ail tingig
+  clean") that no usable text could be recovered from it — not worth
+  keeping over the clean version's coverage of the same material.
+- Fixed the 11 mis-tagged `##` headings in `Writing - Writer's Notebook.md`
+  (one contiguous block, a "Make Art Like You're Working" excerpt) — demoted
+  to a normal heading + attribution + body paragraphs.
+
+Kept `Writing - Writer's Notebook.md` (now the most complete and best-
+structured of the three, retitled "Writer's Notebook"), retired the other
+two. Verified: 499 → 497 notes, site rebuilds clean, all image refs
+resolve.
 - **Reading/QUESTIONING Course Jim 2014.md vs QUESTIONING course 1.md** —
   kept both per Phill's instruction (2026-09-12): each has book sections the
   other lacks, not a simple re-scan. Flagged as a future

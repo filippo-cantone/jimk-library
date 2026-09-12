@@ -61,11 +61,24 @@ Claude's per-pair recommendations and answered same day.
       noted there. "Readers' Theatre 1-18.md" retired — nothing left in it
       that isn't captured elsewhere. Full detail: `DEDUPE-REPORT.md`.
 
+**Resolved 2026-09-12 — Writer's Notebook cluster:**
+
+- [x] Writer's Notebook/Writer's Notebook.md, Writing/Writer's Notebook
+      1-103.md, Writing/Writing - Writer's Notebook.md — checked each pair
+      for genuine (not just reordered) content differences rather than
+      picking a "least-bad" file. The first two turned out to be the same
+      source text as the third, just worse-converted, with one real gap:
+      the third was missing a "Kinds of Notebook Entries" list (40 items)
+      that the first had — moved across and inserted at the matching point.
+      The 103-page OCR pack added nothing recoverable (its only "unique"
+      material was a poem OCR-garbled past usability). Also fixed 11 body
+      paragraphs pandoc had mis-tagged as headings in the surviving file.
+      Kept Writing/Writing - Writer's Notebook.md (retitled "Writer's
+      Notebook"), retired the other two. 499 → 497 notes. Full detail:
+      `DEDUPE-REPORT.md`.
+
 **Deferred — Phill's explicit calls, 2026-09-12:**
 
-- [ ] Writer's Notebook cluster (3 files, two folders) — Phill: "treat as
-      its own small task." None of the three is clean enough for a
-      keep/retire call; needs a merge/rebuild pass.
 - [ ] Reading: QUESTIONING Course Jim 2014.md vs QUESTIONING course 1.md —
       Phill: "keep both for now, flag as a future merge-into-one-
       comprehensive-guide candidate rather than a dedupe target." Each has
@@ -84,10 +97,11 @@ Claude's per-pair recommendations and answered same day.
 
 Verification: re-ran `site/dedupe_scan.py` after the actioned fixes — 504 →
 492 notes, exact-duplicate groups 1 → 0, near-duplicate pairs 642 → 613.
-After the Reader's Theatre anthology split (below): 492 → 499 notes (8
-lifted, 1 retired), still 0 exact-duplicate groups. Task 2 above
-(2026-09-11, Reader's Theatre folder-level dedupe) stays reopened until the
-Writer's Notebook cluster and Questioning-courses items above are resolved;
+After the Reader's Theatre anthology split: 492 → 499 notes (8 lifted, 1
+retired). After the Writer's Notebook merge: 499 → 497 notes (2 retired).
+Still 0 exact-duplicate groups throughout; site rebuilds clean each time.
+Task 2 above (2026-09-11, Reader's Theatre folder-level dedupe) stays
+reopened until the Questioning-courses item above is resolved;
 `MASTERPLAN.md` Phase 2 Task 2 updated to match.
 
 ## Phill's answers (2026-09-11)

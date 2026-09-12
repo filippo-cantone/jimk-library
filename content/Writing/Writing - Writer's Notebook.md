@@ -1,6 +1,7 @@
 ---
 
-title: "Writing - Writer's Notebook"
+title: "Writer's Notebook"
+dedupe_note: "Merged with near-duplicate 'Writer's Notebook/Writer's Notebook.md' (its one genuinely unique section, Kinds of Notebook Entries, inserted before Collecting; rest was the same content with worse formatting) and retired 'Writing/Writer's Notebook 1-103.md' (OCR pack, confirmed to add nothing beyond severely garbled duplicate text) -- see DEDUPE-REPORT.md, 2026-09-12. Also fixed a mis-converted heading block (Make Art Like You’re Working) where pandoc had tagged 11 body paragraphs as H2 headings."
 source_file: "Writing/Writing - Writer's Notebook.doc"
 conversion: "Word doc (pandoc, native text -- no OCR needed; embedded images omitted, see original file)"
 converted: "2026-09-07"
@@ -161,6 +162,90 @@ really matter to you. You can put: people and places that you care
 about; moments and memories that have stayed with you, things you love
 to do; anything that has stayed in your heart because you care a lot
 about it.”*
+
+**Student Handout -- Kinds of Notebook Entries**
+
+Build on this in the collecting phase with:
+
+Collecting Ideas
+
+More Ideas for Writer's Notebook
+
+Even More Ideas for Writer's Notebook
+
+**Kinds of Notebook Entries**
+
+Memories
+
+Questions
+
+Wonderings
+
+Overheard conversations
+
+Family Stories
+
+Kernels of ideas for stories
+
+Wishes
+
+Dreams
+
+Reflections
+
+Observations
+
+Lists
+
+Writing off sketches
+
+Quotations
+
+Feelings
+
+Strong images
+
+Responses to reading
+
+Copied text
+
+News
+
+Imagined dialogue
+
+Rewriting an entry from a different angle
+
+Rewriting an entry in a different genre
+
+Snippets of language
+
+Information
+
+Plans
+
+Outlines, diagrams, flow-charts
+
+Pictures, postcards to stimulate writing
+
+Sensory impressions
+
+Clippings
+
+Lines that may become poems
+
+Opinions about events
+
+New entries from old ones
+
+Text connections
+
+Interviews
+
+A Special Poem
+
+Playing with Language
+
+Write as an Expert
 
 **Collecting**
 
@@ -4627,25 +4712,13 @@ Observe people and things. Notice sounds, smells, textures.
 
 Write comparisons using like or as.
 
-## 
+**[Make Art Like You’re Working](http://artisnotforsissies.wordpress.com/2013/02/18/make-art-like-youre-working/)** -- *Carol Parker Mittal*
 
-## [Make Art Like You’re Working](http://artisnotforsissies.wordpress.com/2013/02/18/make-art-like-youre-working/)
+Here are some pages from my work notebook. It’s part sketchbook, part scrapbook, part notepad. Here’s where I make to-do lists, record ideas for lessons, and keep track of anything else I need to remember. I also paste in images I find interesting, notes from students, comics, scraps of decorated
 
-## 
+paper. I use coloured pens, watercolour, and pencils. I doodle, make sketches, turn my book sideways, and otherwise manipulate the page in and around the notes. The extra arty part doesn’t take much time. In long meetings, I make patterns and drawings around the to-do lists. (Believe it or not, I focus better when I’m doodling.) Other times I take my book home and paint some of the pages with watercolour prior to using the pages for work. This activity makes some of the necessary organisational elements to my work a lot more fun. Plus, because it’s visually organised, I’m more likely to remember all the things I’m supposed to remember.
 
-## Here are some pages from my work notebook. It’s part sketchbook, part scrapbook, part notepad. Here’s where I make to-do lists, record ideas for lessons, and keep track of anything else I need to remember. I also paste in images I find interesting, notes from students, comics, scraps of decorated
+<img src="assets/Writing - Writer's Notebook/media/image2.jpeg"
+style="width:3.5in;height:2.27708in" />
 
-## paper. I use coloured pens, watercolour, and pencils. I doodle, make sketches, turn my book sideways, and otherwise manipulate the page in and around the notes. The extra arty part doesn’t take much time. In long meetings, I make patterns and drawings around the to-do lists. (Believe it or not, I focus better when I’m doodling.) Other times I take my book home and paint some of the pages with watercolour prior to using the pages for work. This activity makes some of the necessary organisational elements to my work a lot more fun. Plus, because it’s visually organised, I’m more likely to remember all the things I’m supposed to remember.
-
-## 
-
-## <img src="assets/Writing - Writer's Notebook/media/image2.jpeg"
-style="width:3.5in;height:2.27708in" /> 
-
-## 
-
-##  Carol Parker Mittal
-
-## 
-
-## The language of the visual is equally rich and communicative when done well. Good illustration is not just decoration that goes with a story, it enriches our interaction with it and understanding of it. The next time you encounter a children’s book, try looking at the illustrations first to see how it affects your interpretation of the story, and to appreciate the amazing skills of the artist who created it.
+The language of the visual is equally rich and communicative when done well. Good illustration is not just decoration that goes with a story, it enriches our interaction with it and understanding of it. The next time you encounter a children’s book, try looking at the illustrations first to see how it affects your interpretation of the story, and to appreciate the amazing skills of the artist who created it.
