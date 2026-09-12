@@ -10,19 +10,52 @@ mentor_text: Mentor Texts/Brave Irene — William Steig.md
 fragments:
 - kind: lesson
   strategy: inferring
-  title: Inferring theme with Brave Irene
-  dek: Theme-inference chart, read alongside the full text
-  lede: Irene braves a blizzard to deliver a dress her sick mother can't. Read the full text (Mentor Text
-    tab), then use the theme chart to move from events/character choices to an inferred author's message.
-  routine: theme-chart
+  title: Inferring with Brave Irene
+  dek: 'A 3-lesson sequence: questioning, then coding, then character inference'
+  blurb: Mrs Bobbin, the dressmaker, is too unwell to deliver the ball gown she's made for the duchess
+    to wear that evening. Irene, her daughter, volunteers to deliver it herself, through a fierce and
+    growing snowstorm.
+  stages:
+  - label: Lesson 1 — questioning
+    items:
+    - 'Cover: this story takes place long ago, in a land of palaces and balls; the main character is a
+      young girl called Irene.'
+    - Q. What questions do you have from the title and cover picture? Several students share with the
+      class.
+    - 'Stop and write questions at three points: “Irene went after it…” / “Irene was lost.” / “With the
+      empty box clasped to her chest, Irene strode nervously towards the palace.”'
+    - Partner Talk, then whole-class discussion.
+  - label: Lesson 2 — read along, code the questions
+    items:
+    - 'Partner Talk: were your written questions answered directly in the story, or did you need to infer
+      the answer from clues? Code each question.'
+  - label: Lesson 3 — making inferences about a main character
+    items:
+    - Review the story by reading several lines, with a student sharing what is happening.
+    - Review how an author shows us a character through what they say or do.
+    - Q. What does this excerpt tell you about Irene? What in the reading gives you this idea? Students
+      write in the Inference column and underline the words that gave them the clue.
+    - Partner Talk, then whole-class discussion.
   chart_columns:
-  - An important event or what a character says/does
-  - My inferences
-  - Author's message
-  note: Same theme-inference structure as INFERRING3's generic THEMES template, applied specifically to
-    Brave Irene as the worked example.
+  - Text
+  - Inference
+  chart_rows:
+  - - She coaxed her mother into bed, covered her with two quilts, and added a blanket for her feet. Then
+      she fixed her some tea with lemon and honey, and put some more wood in the stove.
+    - ''
+  - - Cold snow sifted into her boots and chilled her feet. She pushed out her lip and hurried on. This
+      was an important errand.
+    - ''
+  - - “Go home!” the wind squalled… “I will do no such thing,” she snapped. “No such thing, you wicked
+      wind!”
+    - ''
+  - - She had to keep moving. She was hoping she'd come to a house, any house at all, and be taken in.
+      She badly needed to be in someone's arms.
+    - ''
+  note: Left blank deliberately — this is Lesson 3's actual student worksheet, four real excerpts from
+    the book, not a generic template.
   source_file: Inferring Course JIM/INFERRING3 Jim.md
-  source_lines: 2047-2324
+  source_lines: 1900-2046
   also_found_in: []
 also_appears_in:
 - kind: strategy-hub

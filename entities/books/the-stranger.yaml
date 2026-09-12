@@ -11,23 +11,39 @@ fragments:
 - kind: lesson
   strategy: inferring
   title: Inferring with The Stranger
-  dek: Illustration-based inferring, using illustrations plus text
-  lede: Farmer Bailey hits a man with his truck who has no memory of who he is -- strange things happen
-    on the farm while he stays, and autumn never quite arrives until he leaves. Jim's own retelling of
-    the full text runs through the Inferring pack.
-  routine: illustration-inference
-  steps:
-  - - Illustrations plus text
-    - Illustrations help students infer and enhance meaning -- not just decoration.
-  - - Cover
-    - What can you infer from the picture of the boy with a plate of beans? (shared prompt structure,
-      adapted here to The Stranger's cover)
-  - - TC + BK = I
-    - Text Clues + Background Knowledge = Inference -- model the equation explicitly before releasing
-      students to use it.
-  quote: And etched in frost on the farmhouse windows are words that say simply, ‘See you next fall.’
+  dek: Before / during / after reading, building to the central inferring question
+  blurb: It's just as the leaves are beginning to change colour that farmer Bailey accidentally hits a
+    man with his truck. This ‘stranger’ wears odd leather clothing, can't talk, and seems to have no temperature
+    at all. The family grows fond of him as he recovers at their home -- but the trees on their land behave
+    strangely all the while he stays.
+  stages:
+  - label: Before reading
+    items:
+    - 'Picture walk: infer the time of year the story takes place in from the illustrations alone.'
+    - 'Chart: Inferences from Pictures / Evidence from Pictures -- confirm these predictions once the
+      text is read.'
+  - label: During reading
+    items:
+    - Establish a purpose for reading. Students use Reading Response Journals during the read-aloud, noting
+      anything unusual they hear.
+    - Use natural pauses to formulate questions.
+  - label: After reading
+    items:
+    - 'Central question: “Who was the stranger?” -- students use clues from both illustrations and text
+      to infer his identity.'
+    - 'Differentiate by group: whole-class read-along, group read-along, or independent reading.'
+    - For work on theme, see also The Wretched Stone and The Widow's Broom, both by Chris Van Allsburg.
+  infer_prompt: 'I infer the stranger is: ____________ (students complete, then support from the four
+    columns below)'
+  chart_columns:
+  - Questions in my head
+  - Evidence from illustrations
+  - Evidence from the text
+  - My conclusion
+  note: Offered as an optional fuller graphic organiser for students who find it helpful; the simpler
+    Inferences/Evidence chart before reading is used first.
   source_file: Inferring Course JIM/INFERRING2 Jim.md
-  source_lines: 1051-1148
+  source_lines: 960-1050
   also_found_in: []
 also_appears_in:
 - kind: strategy-hub

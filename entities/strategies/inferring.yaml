@@ -1,16 +1,75 @@
 slug: inferring
 name: Inferring
 branch: reading
-overview: 'Inferring is filling in, in your head, what is not written on the page. Readers combine Text
-  Clues + Background Knowledge to make an inference -- and there can be more than one correct answer,
-  as long as students can support it from the text. It underpins nearly every other comprehension strategy:
-  predicting, questioning and summarising all depend on it.'
-source_note: Synthesised from all 10 packs in Inferring Course JIM -- this overview is written fresh,
-  not Jim's verbatim text (his own words are kept on each book's lesson tab).
+lede: Inferring is “filling in, in your head, what is not written on the page.” Readers combine Text Clues
+  + Background Knowledge to make an inference — and there can be more than one correct answer, as long
+  as students can support it from the text.
+definitions:
+- quote: When we read, we stretch the limits of the literal text by folding our experience and belief
+    into the literal meanings in the text, creating a new interpretation, an inference. Because each person's
+    experiences are different, the art of inferring takes the reader beyond the text to a place only he
+    or she can go.
+  source: Ellin Keene
+- quote: Making an inference involves using background knowledge combined with information from the text
+    and illustrations to draw conclusions about what is implied but not directly stated.
+  source: Pinnell and Scharer
+- quote: Filling in, in your head, what is not written on the page.
+  source: A. Gear
+- quote: Many readers' questions are not explicitly answered by the author but through inferences made
+    by the readers. Proficient readers create meaning based on the implicit notions they infer, and would
+    not be able to grasp the deeper meaning of texts without inferring.
+  source: Harvey and Goudvis
+why_points:
+- Predict and revise predictions as they read.
+- Weave their background knowledge and information into the text to answer questions they continuously
+  pose during reading.
+- Evaluate characters' decisions, motivations, talk, and the author's themes.
+- Draw conclusions about people, conflicts, settings, and information.
+- Interpret the book, basing interpretations on their own experience and the author's words.
+- Connect what they know to what they are learning as they read, and adapt their background knowledge
+  to the new understandings they've gained.
+why_source: Adapted from “What Good Readers Do When They Infer” -- Inferring Course JIM/INFERRING4 Jim.md
+discussion_questions:
+- q: What is my inference?
+  note: Helps students become aware that they may have just made an inference by filling in information
+    that wasn't directly presented.
+- q: What information did I use to make this inference?
+  note: Students need to understand the various types of information they use -- text-presented, or background
+    knowledge they bring themselves.
+- q: How good was my thinking?
+  note: The most powerful part of the process -- examining the validity of their own thinking, once they've
+    identified their premises.
+- q: Do I need to change my thinking?
+  note: Not to invalidate the original inference, but to build the habit of continually updating thinking
+    as new information arrives.
+discussion_source: Marzano's four discussion questions, via Inferring Course JIM/INFERRING2 Jim.md
+release_stages:
+- stage: Model it
+  note: Feelings Charades (early years) -- tape a feeling word on a student's back, others give clues
+    for them to infer it. Role Play Feelings -- act out a feeling, students infer it.
+- stage: Do it together
+  note: Small-group and whole-class work with a familiar story (Goldilocks, Little Red Riding Hood) --
+    inferring is easier when the story is already known.
+- stage: Chart it
+  note: Record inferences during Share Time on an Inference / Evidence chart, or an Inference Web.
+- stage: Release it
+  note: Students infer independently in their own reading, using the routines below.
+worked_goldilocks:
+  inference: Goldilocks does not think about the feelings of others before she acts.
+  evidence:
+  - Goldilocks entered the bears' house without asking
+  - She ate their food.
+  - She broke their furniture.
+  - She slept in their beds.
+  source: Inferring Course JIM/INFERRING 1 Jim.md
+source_note: Why/how sections above are Jim's own words and citations, lightly reorganised -- not paraphrased
+  or invented. See source_file on each block.
 routines:
 - name: It Says – I Say – And So…
   description: '4-step chart: write the question, find what the text says, think about what you know,
     combine them into an answer.'
+  attribution: Developed by Kylene Beers (2003) -- guides students through drawing inferences from text
+    and synthesising with prior knowledge.
   worked_example:
     label: Goldilocks (classic tale, generic worked example)
     book_slug: null
@@ -24,26 +83,22 @@ routines:
   source_file: Inferring Course JIM/INFERRING2 Jim.md
 - name: TC + BK = I (Text Clues + Background Knowledge = Inference)
   description: Explicit modelling of the inferring equation before releasing students to use it independently.
-  worked_example:
-    label: Tight Times — Barbara Shook Hazen
-    book_slug: tight-times
-  note: Book page not yet built — not part of this pilot batch.
-  source_file: Inferring Course JIM/INFERRING2 Jim.md
-- name: 4-column inference chart
-  description: I'm wondering what this means / evidence / background knowledge / I infer — filled in live
-    during a first read.
+    Jim's own variant of Harvey's BK+TC=I -- see the Owl Moon page for his reasoning.
   worked_example:
     label: Owl Moon — Jane Yolen
     book_slug: owl-moon
   source_file: Inferring Course JIM/INFERRING 1 Jim.md
-- name: Theme-inference chart
-  description: Event or character choice → my inference → author's message.
+- name: Character-inference chart
+  description: 'Text / Inference two-column chart built from a lesson sequence: question the cover and
+    title, read-along and code whether questions were answered directly or by inference, then chart character
+    inferences from specific excerpts.'
   worked_example:
     label: Brave Irene — William Steig
     book_slug: brave-irene
   source_file: Inferring Course JIM/INFERRING3 Jim.md
-- name: Illustration-based inferring
-  description: Illustrations plus text — infer from cover and pictures before and alongside reading.
+- name: Before / during / after, illustration-based
+  description: Picture-walk inference before reading, response-journal noticing during, then a central
+    inferring question answered with text + illustration evidence after.
   worked_example:
     label: The Stranger — Chris Van Allsburg
     book_slug: the-stranger
@@ -55,6 +110,13 @@ routines:
     label: Fireflies! — Julie Brinckloe
     book_slug: fireflies
   source_file: Inferring Course JIM/INFERRING3 Jim.md
+- name: Plot-development breakdown
+  description: Setting the scene / rising action / foreshadowing / climax / falling action / suspense
+    / resolution, with a stop-and-infer prompt at the turning point.
+  worked_example:
+    label: Knuffle Bunny — Mo Willems
+    book_slug: knuffle-bunny
+  source_file: Inferring Course JIM/INFERRING2 Jim.md
 books:
 - knuffle-bunny
 - owl-moon
@@ -64,5 +126,5 @@ books:
 novel_studies:
 - chasing-vermeer
 pilot_note: This is a 5-book pilot batch, not the full strategy page — the Inferring packs reference ~45
-  books in total. Remaining books, and the 2 routines above without a linked worked example yet, are follow-up
-  work once this batch is reviewed.
+  books in total. Remaining books, and the one routine above without a linked worked example yet, are
+  follow-up work once this batch is reviewed.

@@ -12,20 +12,48 @@ fragments:
 - kind: lesson
   strategy: inferring
   title: Inferring with Owl Moon
-  dek: Text clues + background knowledge chart, read alongside the full text
-  lede: A child goes owling with Pa on a still winter night. Read the full text (Mentor Text tab), then
-    chart what's inferred as you go -- the routine below is designed to be filled in during a first read,
-    not after.
-  routine: inference-chart
+  dek: Before / during / after reading, using the TC+BK=I formula
+  lede: A child goes owling with Pa on a still winter night -- a text rich in figurative language, so
+    inferring here leans on interpreting imagery as much as plot.
+  stages:
+  - label: Before reading
+    items:
+    - Why did Jane Yolen call the book Owl Moon when we do not see an owl on the front cover?
+  - label: During reading
+    items:
+    - 'Preparation: students explain, after reading, what it means to ‘go owling’.'
+    - 'Spot figurative language as you read -- hyperbole: “For one minute, three minutes, maybe even a
+      hundred minutes, we stared at each other.”'
+    - 'Metaphor: “The moon made his face into a silver mask.” / “But I was a shadow as I walked home.”'
+    - Students write their own interpretation of each example.
+    - p.6 -- Why does the father imitate the sound of the Great Horned Owl? Why is it called an owl moon?
+  - label: After reading
+    items:
+    - Students write the sections of text they found ambiguous; guide them back to the figurative language
+      above if needed.
+    - 'Share time: discuss how authors use poetic/figurative language to enrich their writing.'
+    - 'Text-to-text connection: ‘Stopping by the Woods on a Snowy Evening’ -- poem by Robert Frost.'
+  formula:
+    equation: TC + BK = I  (Text Clues + Background Knowledge = Inference)
+    note: 'Harvey''s original formula is BK+TC=I. Jim''s own note: “I tend to think that we bring the
+      background knowledge to the fore after reading the text, therefore I think of the formula as Text
+      Clues + Background Knowledge = Inference.”'
   chart_columns:
   - I'm wondering what this means
   - Evidence from the book / text clues
   - Background knowledge / what I know
   - I infer
-  note: Blank 4-column chart, used live during reading rather than as a worked example -- there is no
-    single 'answer' recorded in Jim's pack, it's a modelled-thinking routine.
+  chart_rows:
+  - - p.2 “And when their voices faded away it was as quiet as a dream.” What does it mean to be as quiet
+      as a dream?
+    - p.1 “There was no wind” -- it seems like this is a special night. Jane Yolen might be exaggerating
+      everything, like the trees standing still like statues.
+    - You dream when you sleep. Most people are very quiet when they sleep.
+    - It was the middle of winter, and this night is special because the child gets to go owling for the
+      first time. Things seem magical that are ordinary.
+  chart_note: Worked example — shown filled in, as Jim recorded it. Add further rows as you read on.
   source_file: Inferring Course JIM/INFERRING 1 Jim.md
-  source_lines: 2320-2708
+  source_lines: 2236-2320
   also_found_in: []
 also_appears_in:
 - kind: strategy-hub
