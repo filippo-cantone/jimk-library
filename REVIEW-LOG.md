@@ -3,6 +3,40 @@
 Phill reviewed 2026-09-11 (answers recorded; items checked are closed).
 Commits are per-folder so anything can be reverted or redone piecemeal.
 
+## 2026-09-12 — strategy-first IA + entity content model (Phill + Claude) — APPROVED
+
+Phill, after Claude's review and the dedupe/Reader's Theatre/Writer's
+Notebook work below: site should be organized around reading/writing
+strategies, not source packs — and content spread across multiple packs
+about the same thing (book, strategy) should be assembled together, not
+just cross-linked to one source document.
+
+- [x] Content model: entity-based (book / strategy / author pages
+      assembled from every pack that touches them), not Hermes's
+      inferring.html pattern (one-book-one-pack pages linked from a
+      synthesis hub) and not the Phase 2.5 "restructured guide" pattern
+      (one long doc per pack). Full spec: `MASTERPLAN.md` "New direction".
+- [x] IA: strategy-first. Three front doors — Reading strategies, Writing
+      strategies, Author Studies (kept separate from both branches, linked
+      both ways from book pages) — plus search-by-text as a fourth path
+      into the same book pages. Full taxonomy: `STRATEGY-TAXONOMY.md`
+      (supersedes `IA-MAP.md`).
+- [x] Word Choice (writing) vs Vocabulary (reading): keep as two separate
+      pages, cross-linked. Not merged despite heavy book overlap — they
+      answer different teacher questions.
+- [x] Book-page visual design: approved with one revision. First draft had
+      3 tabs (Inferring lesson / Craft & mentor lists / Where it's used);
+      Phill flagged the 3rd as thin and redundant with the 2nd (both were
+      "citation" content, just split across two tabs). Fixed rule: tabs
+      only for content with real depth; everything else — list citations,
+      hub links, author connections — goes in one shared "Also appears in"
+      section. Mockup: `df7b9973-d679-4ab6-b9ce-aaf8522dbbca` on
+      claude.ai/code/artifact, built from real Knuffle Bunny content (which
+      also surfaced a live example of the exact duplication problem: the
+      same plot-development write-up verbatim in 3 different packs).
+
+Next: build the Inferring pilot on this model.
+
 ## 2026-09-12 — automated duplicate-detection pass (Claude) — RESOLVED (mostly)
 
 Ran a full-corpus shingle-based near-duplicate/containment scan (script:

@@ -6,14 +6,16 @@
 > questions and Phill's recorded answers. Nothing else in the repo gives
 > instructions — if another doc starts doing so, merge it here or delete it.
 
-**Status (2026-09-12): Phase 2.5 IN PROGRESS (INF 2 pilot). Site build paused:
-restructured guides will BE the site content (raw packs stay repo-only).
-Phase 3 preview exists; guided inferring draft exists (site/drafts/).
-Phill brought Claude in for a second opinion (2026-09-12) — full review +
-recommendations not yet actioned; see "Claude's review" below. First
-concrete step taken: automated duplicate-detection pass, see
-`DEDUPE-REPORT.md` — awaiting Phill's per-pair decisions before Task 2's
-dedupe is treated as closed.**
+**Status (2026-09-12): Phase 2.5's "restructured guide" direction is
+SUPERSEDED. New direction approved by Phill (2026-09-12): a strategy-first
+information architecture, content assembled per-entity across every pack
+that touches it — not the old shelf-per-folder model, and not Hermes's
+inferring.html prototype either. See "New direction" below,
+`STRATEGY-TAXONOMY.md` (the new IA, replaces `IA-MAP.md`), and
+`DEDUPE-REPORT.md` (near-complete — see its own status). `site/drafts/`
+and `INFERRING2 Jim.md`'s restructure are superseded, not deleted (kept as
+reference/salvageable content). Next: build the Inferring reading-strategy
+pilot on the new model.**
 
 ## Claude's review (2026-09-12) — pending Phill's response
 
@@ -46,6 +48,69 @@ recommended order (dedupe audit → pick one content model → fix the
 shelf/tagging mismatch → prioritize shelves by teacher traffic → mechanically
 split the demonstration-text anthologies) before more Phase 2.5 guide
 restructuring continues.
+
+**Resolved 2026-09-12 — see "New direction" below.** Dedupe audit: done
+(`DEDUPE-REPORT.md`). Content model: settled, but not Hermes's inferring.html
+either — see below. Shelf/tagging mismatch: superseded by the new strategy
+taxonomy, not separately fixed. Demonstration-text anthologies: the
+extraction pipeline below handles this directly (fragments pulled out of
+them per-entity) rather than a separate mechanical splitting pass.
+
+## New direction (approved 2026-09-12): strategy-first, entity-assembled content
+
+Phill: the site should be organized around **teaching strategies** (reading
+and writing), not around source packs or even around books. A teacher's two
+front doors: "I want to teach a strategy" (browse) and "I have a specific
+text" (search). Both lead to the same underlying pages.
+
+This goes further than Hermes's `inferring.html` prototype. That page still
+linked out to one-book-one-source-pack pages. The new model: **content is
+organized by entity (book / strategy / author), not by source file.** The
+same teaching content Jim wrote once but pasted into 2-3 different packs
+over the years (confirmed pattern — see Knuffle Bunny example below) is
+extracted once and shown once, tagged with every strategy/pack it's relevant
+to, not duplicated across pages.
+
+**Three entity types, three page kinds:**
+- **Book pages** (~300+) — assembled from every pack that uses that book,
+  not just one. Sections only appear when real content exists for them
+  (no empty tabs). Verified example while designing this: *Knuffle Bunny*'s
+  plot-development breakdown appears near-verbatim in `INFERRING2 Jim.md`,
+  `Narrative Course 2014 June.md`, and `Mentor texts 1.md` — three packs,
+  one piece of content, now planned to be merged into one page section with
+  the duplication noted rather than repeated.
+- **Strategy pages** (~21, see `STRATEGY-TAXONOMY.md`) — the site's main
+  navigation. Short synthesised why/how overview + a list of book pages
+  that teach it, pulled together from every pack that touches that
+  strategy (e.g. Questioning needs fragments from 5 separate packs, not 1).
+- **Author pages** (38) — third front door alongside Reading/Writing
+  strategies, not filed under either branch (an author study teaches both
+  at once). Linked both ways: browsable on its own, and every book page
+  links to its author's page when one exists.
+
+**Mockup approved** (with one revision) — `df7b9973-d679-4ab6-b9ce-aaf8522dbbca`
+on claude.ai/code/artifact: a from-scratch visual design (library
+catalogue-card aesthetic — not Hermes's dashboard-card look), built from real
+Knuffle Bunny content. Revision made: collapsed an initial 3-tab layout
+(Inferring lesson / Craft & mentor lists / Where it's used) to 2, after
+Phill flagged the 3rd tab as thin and overlapping the 2nd — rule now: a tab
+only exists for content with real depth (a paragraph+), everything thinner
+(list citations, hub links) goes in one shared "Also appears in" section
+regardless of which pack it came from.
+
+**Extraction pipeline** (not yet built): entity discovery (fuzzy
+containment scan across all notes, same technique as `dedupe_scan.py`,
+seeded from the ~300 already-lifted Mentor Texts) → fragment extraction
+(bounded spans per book mention, same manual-boundary technique used for
+the Reader's Theatre anthology split) → strategy/genre tagging at the
+fragment level (reusing Jim's existing trait tags as a head start) → static
+page generation (same free/stdlib approach as the existing `site/build.py`)
+→ human review per entity type, same discipline as the folder-by-folder
+Phase 1 review.
+
+**Next step**: build the Inferring pilot (10 packs, already has trait/genre
+groundwork from Phase 2's tagging pass) on this model before running the
+pipeline across all strategies.
 
 ## Why (the goal)
 
